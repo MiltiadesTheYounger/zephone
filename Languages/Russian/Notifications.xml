@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="Diplomacy1Summary" value="%1% объявляет войну: %2%."/>
-	<entry name="Diplomacy2Summary" value="%1% заключает мир с: %2%."/>
-	<entry name="Diplomacy3Summary" value="%1% заключает торговое соглашение с: %2%."/>
-	<entry name="Diplomacy4Summary" value="%1% вступает в союз с: %2%."/>
-	<entry name="CityFoundedSummary" value="Основан город: %1%."/>
-	<entry name="CityGrownSummary" value="%1% достигает населения %2%."/>
-	<entry name="FactionDefeated" value="Фракция побеждена"/>
-	<entry name="FactionDiscovered" value="Фракция обнаружена"/>
-	<entry name="FactionDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="FeatureTypeDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="Foundations" value="Шаткие основы"/>
-	<entry name="FoundationsWithMutator" value="Иные основы"/>
-	<entry name="Interlude0" value="Проблеск надежды"/>
-	<entry name="Interlude0Info" value="Твои последователи надеялись, что вернутся на поверхность, обнаружив там дикие просторы — а не мир, полный чудовищ и безжалостных машин ЗЕФОНа. То и дело поступают сообщения о беженцах, которые слишком близко подошли к территории Стражей — и поплатились за это жизнью.&lt;br/&gt;&lt;br/&gt;Что здесь делает ЗЕФОН? Как ни иронично, но информацию о машинах удаётся получить от чудовищ. Однажды твои связисты с удивлением ловят на старой радиочастоте голос лидера акринов, Анахорета.&lt;br/&gt;&lt;br/&gt;Он вещает, будто священник, чьи слова радиоволны разносят над безжизненными пустошами. В своих проповедях он заявляет, что его народ хочет мира. «Искать новое будущее, свободное от Голоса», — говорит он. «Знать, что на людей — на ЗЕФОНа — охотился Голос, а не мои сородичи».&lt;br/&gt;&lt;br/&gt;Временами он сбивается на неразборчивое бормотание. Он что-то говорит о загадочных заводах, исторгающих огонь и дым в ночи. Он оплакивает своих соплеменников, убитых Стражами, которые охраняют эти фабрики.&lt;br/&gt;&lt;br/&gt;«Желать мира и только мира. Мир должен озарить землю подобно солнцу, восходящему над мерцающим океаном», — произносит нараспев Анахорет.&lt;br/&gt;&lt;br/&gt;Ты вслушиваешься в его проповедь, прекрасно понимая, что если мир похож на далёкий рассвет, то ночь предстоит долгая."/>
-	<entry name="Interlude1" value="Предзнаменование отчаяния"/>
-	<entry name="Interlude1Info" value="Анахорет снова выходит в эфир. Похоже, он взволнован. «Оплакивать потерю моих сородичей, убитых ЗЕФОНом», — произносит он в микрофон. — «Слышать грохот фабрик ЗЕФОНа, раздающийся в ночи. Ужасаться от мысли об оружии, что он куёт в пучине».&lt;br/&gt;&lt;br/&gt;В пучине? Это что-то новенькое. ЗЕФОН ведёт себя так, будто никаких фабрик нет. Но если он поставляет материалы на побережье и дальше, на дно океана... никто и знать не будет, что он там делает.&lt;br/&gt;&lt;br/&gt;Анахорет продолжает: «Помнить, что наша миссия на этой планете была... геноцидом», — медленно говорит он. — «Надеяться, что эта миссия погибла вместе с акринским флотом».&lt;br/&gt;&lt;br/&gt;При его следующих словах ты напрягаешься ещё сильнее. «Флот всё ещё висит на орбите. В его недрах дремлют чудовищные создания войны».&lt;br/&gt;&lt;br/&gt;Откуда он это знает? Любая связь с флотом была утрачена. Голос Анахорета колеблется, будто он услышал твои мысли через всё расстояние.&lt;br/&gt;&lt;br/&gt;«Готовиться...» — начинает, но затем прерывается он. «Знать», — на сей раз он говорит твёрдо. — «Что мы должны сделать всё возможное, чтобы предотвратить собственный геноцид»."/>
-	<entry name="PlayerLost" value="Поражение!"/>
-	<entry name="PlayerLostSummary" value="%1% терпит поражение!"/>
+	<entry name="Diplomacy1Summary" value="%1% оголошує війну: %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% укладає мир з: %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% укладає торговельну угоду з: %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% вступає в союз з: %2%."/>
+	<entry name="CityFoundedSummary" value"Засноване місто: %1%."/>
+	<entry name="CityGrownSummary" value="%1% досягає населення %2%."/>
+	<entry name="FactionDefeated" value="Фракція переможена"/>
+	<entry name="FactionDiscovered" value="Фракція виявлена"/>
+	<entry name="FactionDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="Foundations" value="Хиткі основи"/>
+	<entry name="FoundationsWithMutator" value="Інші основи"/>
+	<entry name="Interlude0" value="Промінь надії"/>
+	<entry name="Interlude0Info" value="Твої послідовники сподівалися, що повернуться на поверхню, виявивши там дикі простори — а не світ, повний чудовиськ і безжальних машин ЗЕФОНА. Час від часу надходять повідомлення про біженців, які підійшли занадто близько до території Стражів — і розплатилися за це життям.&lt;br/&gt;&lt;br/&gt;Що тут робить ЗЕФОН? Як не іронічно, але інформацію про машини вдається отримати від чудовиськ. Одного разу твої зв’язкові з подивом ловлять на старій радіочастоті голос лідера акрінів, Анахорета.&lt;br/&gt;&lt;br/&gt;Він промовляє, наче священник, чиї слова радіохвилі несуть над безжиттєвими пустками. У своїх проповідях він заявляє, що його народ прагне миру. «Шукати нове майбутнє, вільне від Голосу», — говорить він. «Знати, що на людей — на ЗЕФОНА — полював Голос, а не мої співвітчизники».&lt;br/&gt;&lt;br/&gt;Іноді він збивається на нерозбірливе бурмотіння. Він говорить щось про загадкові заводи, що викидають вогонь і дим уночі. Він оплакує своїх співвітчизників, убитих Стражами, які охороняють ці фабрики.&lt;br/&gt;&lt;br/&gt;«Бажати миру і лише миру. Мир повинен осяяти землю, як сонце, що сходить над мерехтливим океаном», — промовляє Анахорет повільно.&lt;br/&gt;&lt;br/&gt;Ти вслухаєшся в його проповідь, прекрасно розуміючи, що якщо мир подібний до далекого світанку, то ніч буде довгою."/>
+	<entry name="Interlude1" value="Передвістя відчаю"/>
+	<entry name="Interlude1Info" value="Анахорет знову виходить в ефір. Схоже, він схвильований. «Оплакувати втрату моїх співвітчизників, убитих ЗЕФОНОМ», — промовляє він у мікрофон. — «Слухати гуркіт фабрик ЗЕФОНА, що розноситься вночі. Жахатися від думки про зброю, яку він кує в безодні».&lt;br/&gt;&lt;br/&gt;В безодні? Це щось нове. ЗЕФОН поводиться так, наче ніяких фабрик немає. Але якщо він постачає матеріали на узбережжя і далі, на дно океану... ніхто й не дізнається, що він там робить.&lt;br/&gt;&lt;br/&gt;Анахорет продовжує: «Пам’ятати, що наша місія на цій планеті була... геноцидом», — повільно говорить він. — «Сподіватися, що ця місія загинула разом з акрінським флотом».&lt;br/&gt;&lt;br/&gt;При його наступних словах ти напружуєшся ще сильніше. «Флот усе ще висить на орбіті. У його надрах дрімають чудовиська війни».&lt;br/&gt;&lt;br/&gt;Звідки він це знає? Будь-який зв’язок з флотом було втрачено. Голос Анахорета коливається, наче він почув твої думки через всю відстань.&lt;br/&gt;&lt;br/&gt;«Готуватися...» — починає, але потім переривається. «Знати», — цього разу говорить твердо. — «Що ми повинні зробити все можливе, щоб запобігти власному геноциду»."/>
+	<entry name="PlayerLost" value="Поразка!"/>
+	<entry name="PlayerLostSummary" value="%1% зазнає поразки!"/>
 	<entry name="PlayerUsedActionOnSummary" value="&lt;string name='Notifications/UnitUsedActionOnSummary'/&gt;"/>
-	<entry name="PlayerWon" value="Победа!"/>
-	<entry name="PlayerWonSummary" value="%1% побеждает!"/>
-	<entry name="ProductionCompletedSummary" value="%1% производит: %2%."/>
-	<entry name="RegionDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="ResearchCompleted" value="Исследование завершено"/>
-	<entry name="ResearchCompletedSummary" value="Исследовано: %1%."/>
-	<entry name="RewardGainedSummary" value="Получено: %2%."/>
-	<entry name="TileAcquiredSummary" value="%1% присоединяет клетку."/>
-	<entry name="TileCapturedSummary" value="%1% захватывает: %2%."/>
-	<entry name="TileClearedSummary" value="%1% зачищает: %2%."/>
-	<entry name="UnitAttackedSummary" value="%1% атакует: %2%."/>
-	<entry name="UnitCapturedSummary" value="%1% захватывает: %2%."/>
-	<entry name="UnitDamagedSummary" value="%1% наносит урон: %2%."/>
-	<entry name="UnitKilledSummary" value="%1% убивает: %2%."/>
-	<entry name="UnitGainedTraitSummary" value="%1% получает: %2%."/>
-	<entry name="UnitTransformedSummary" value="%1% превращается в: %2%."/>
-	<entry name="UnitTypeDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="UnitUsedActionOnSummary" value="%1% использует: %2%, цель: %3%."/>
+	<entry name="PlayerWon" value="Перемога!"/>
+	<entry name="PlayerWonSummary" value="%1% перемагає!"/>
+	<entry name="ProductionCompletedSummary" value="%1% виробляє: %2%."/>
+	<entry name="RegionDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="ResearchCompleted" value="Дослідження завершено"/>
+	<entry name="ResearchCompletedSummary" value="Досліджено: %1%."/>
+	<entry name="RewardGainedSummary" value="Отримано: %2%."/>
+	<entry name="TileAcquiredSummary" value="%1% приєднує клітинку."/>
+	<entry name="TileCapturedSummary" value="%1% захоплює: %2%."/>
+	<entry name="TileClearedSummary" value="%1% очищує: %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% атакує: %2%."/>
+	<entry name="UnitCapturedSummary" value="%1% захоплює: %2%."/>
+	<entry name="UnitDamagedSummary" value="%1% завдає шкоди: %2%."/>
+	<entry name="UnitKilledSummary" value="%1% вбиває: %2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% отримує: %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% перетворюється на: %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% використовує: %2%, ціль: %3%."/>
 </language>

@@ -2,19 +2,19 @@
 <language>
 
 	<!-- Keyboard keys. -->
-	<entry name="Space" value="Пробел"/>
-	<entry name="World1" value="World 1"/>
-	<entry name="World2" value="World 2"/>
+	<entry name="Space" value="Пробіл"/>
+	<entry name="World1" value="Світ 1"/>
+	<entry name="World2" value="Світ 2"/>
 	<entry name="Escape" value="Esc"/>
-	<entry name="Enter" value="Войти"/>
+	<entry name="Enter" value="Введення"/>
 	<entry name="Tab" value="Tab"/>
 	<entry name="Backspace" value="Backspace"/>
 	<entry name="Insert" value="Insert"/>
-	<entry name="Delete" value="Удалить"/>
-	<entry name="ArrowRight" value="Стрелка вправо"/>
-	<entry name="ArrowLeft" value="Стрелка влево"/>
-	<entry name="ArrowDown" value="Стрелка вниз"/>
-	<entry name="ArrowUp" value="Стрелка вверх"/>
+	<entry name="Delete" value="Видалити"/>
+	<entry name="ArrowRight" value="Стрілка вправо"/>
+	<entry name="ArrowLeft" value="Стрілка вліво"/>
+	<entry name="ArrowDown" value="Стрілка вниз"/>
+	<entry name="ArrowUp" value="Стрілка вгору"/>
 	<entry name="PageUp" value="Page Up"/>
 	<entry name="PageDown" value="Page Down"/>
 	<entry name="Home" value="Home"/>
@@ -48,31 +48,31 @@
 	<entry name="F23" value="F23"/>
 	<entry name="F24" value="F24"/>
 	<entry name="F25" value="F25"/>
-	<entry name="KP0" value="Numpad 0"/>
-	<entry name="KP1" value="Numpad 1"/>
-	<entry name="KP2" value="Numpad 2"/>
-	<entry name="KP3" value="Numpad 3"/>
-	<entry name="KP4" value="Numpad 4"/>
-	<entry name="KP5" value="Numpad 5"/>
-	<entry name="KP6" value="Numpad 6"/>
-	<entry name="KP7" value="Numpad 7"/>
-	<entry name="KP8" value="Numpad 8"/>
-	<entry name="KP9" value="Numpad 9"/>
-	<entry name="KPDecimal" value="Numpad ,"/>
-	<entry name="KPDivide" value="Numpad /"/>
-	<entry name="KPMultiply" value="Numpad *"/>
-	<entry name="KPSubtract" value="Numpad -"/>
-	<entry name="KPAdd" value="Numpad +"/>
-	<entry name="KPEnter" value="Numpad Enter"/>
-	<entry name="KPEqual" value="Numpad ="/>
-	<entry name="LeftShift" value="Левый Shift"/>
-	<entry name="LeftControl" value="Левый Control"/>
-	<entry name="LeftAlt" value="Левый Alt"/>
-	<entry name="LeftSuper" value="Левый Super"/>
-	<entry name="RightShift" value="Правый Shift"/>
-	<entry name="RightControl" value="Правый Control"/>
-	<entry name="RightAlt" value="Правый Alt"/>
-	<entry name="RightSuper" value="Правый Super"/>
+	<entry name="KP0" value="NumPad 0"/>
+	<entry name="KP1" value="NumPad 1"/>
+	<entry name="KP2" value="NumPad 2"/>
+	<entry name="KP3" value="NumPad 3"/>
+	<entry name="KP4" value="NumPad 4"/>
+	<entry name="KP5" value="NumPad 5"/>
+	<entry name="KP6" value="NumPad 6"/>
+	<entry name="KP7" value="NumPad 7"/>
+	<entry name="KP8" value="NumPad 8"/>
+	<entry name="KP9" value="NumPad 9"/>
+	<entry name="KPDecimal" value="NumPad ,"/>
+	<entry name="KPDivide" value="NumPad /"/>
+	<entry name="KPMultiply" value="NumPad *"/>
+	<entry name="KPSubtract" value="NumPad -"/>
+	<entry name="KPAdd" value="NumPad +"/>
+	<entry name="KPEnter" value="NumPad Enter"/>
+	<entry name="KPEqual" value="NumPad ="/>
+	<entry name="LeftShift" value="Лівий Shift"/>
+	<entry name="LeftControl" value="Лівий Control"/>
+	<entry name="LeftAlt" value="Лівий Alt"/>
+	<entry name="LeftSuper" value="Лівий Super"/>
+	<entry name="RightShift" value="Правий Shift"/>
+	<entry name="RightControl" value="Правий Control"/>
+	<entry name="RightAlt" value="Правий Alt"/>
+	<entry name="RightSuper" value="Правий Super"/>
 	<entry name="Menu" value="Меню"/>
 	
 	<!-- Keyboard modifiers. -->
@@ -85,13 +85,13 @@
 	<entry name="MouseLeft" value="ЛКМ"/>
 	<entry name="MouseRight" value="ПКМ"/>
 	<entry name="MouseMiddle" value="СКМ"/>
-	<entry name="Mouse1" value="Мышь 1"/>
-	<entry name="Mouse2" value="Мышь 2"/>
-	<entry name="Mouse3" value="Мышь 3"/>
-	<entry name="Mouse4" value="Мышь 4"/>
-	<entry name="Mouse5" value="Мышь 5"/>
-	<entry name="Mouse6" value="Мышь 6"/>
-	<entry name="Mouse7" value="Мышь 7"/>
-	<entry name="Mouse8" value="Мышь 8"/>
+	<entry name="Mouse1" value="Миша 1"/>
+	<entry name="Mouse2" value="Миша 2"/>
+	<entry name="Mouse3" value="Миша 3"/>
+	<entry name="Mouse4" value="Миша 4"/>
+	<entry name="Mouse5" value="Миша 5"/>
+	<entry name="Mouse6" value="Миша 6"/>
+	<entry name="Mouse7" value="Миша 7"/>
+	<entry name="Mouse8" value="Миша 8"/>
 	
 </language>
