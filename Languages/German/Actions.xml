@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbyssalRage" value="Abyssaler Zorn"/>
+	<entry name="AcquireTile" value="Feld erwerben"/>
+	<entry name="AcquireTileProperties" value="<icon texture='GUI/Bullet'/>Erwirbt ein Bodenfeld, das bis zu %1% Felder vom <icon height='20' texture='Icons/Buildings/Headquarters'/> Hauptquartier entfernt ist<br/><icon texture='GUI/Bullet'/>Gebäude können nur auf erworbenen Feldern gebaut werden<br/><icon texture='GUI/Bullet'/>Jedes Gebäude benötigt einen freien <icon height='20' texture='Icons/Attributes/BuildingSlots'/> Gebäudeplatz<br/><icon texture='GUI/Bullet'/>Jedes erworbene Feld hat %2% <icon height='20' texture='Icons/Attributes/Influence'/> Einfluss auf den Unterhalt"/>
+	<entry name="AngelFlight" value="Engelsflug"/>
+	<entry name="AntimatterDilation" value="Antimaterieausdehnung"/>
+	<entry name="AntiparticlePurge" value="Antiteilchen-Säuberung"/>
+	<entry name="Apotheosis" value="Apotheose"/>
+	<entry name="Appear" value="Erscheinen"/>
+	<entry name="ArmorOfFaith" value="Rüstung des Glaubens"/>
+	<entry name="ArtificersPrecision" value="Präzision der Architektin"/>
+	<entry name="Assassinate" value="Meucheln"/>
+	<entry name="AtramentousAura" value="Tintenschwarze Aura"/>
+	<entry name="Attack" value="Angreifen"/>
+	<entry name="AuraOfDiscipline" value="Aura der Disziplin"/>
+	<entry name="AuraOfTheFalseSpeaker" value="Aura des Falschen Redners"/>
+	<entry name="AuraOfTheFalseSpeakerFlavor" value="<string name='Quests/WhispersOfAFalseProphet/ProtectErelimSuccess2'/>"/>
+	<entry name="BionicImplant" value="Bionisches Implantat"/>
+	<entry name="BlackHole" value="Schwarzes Loch"/>
+	<entry name="BreedDeformities" value="Rassebedingte Missbildungen"/>
+	<entry name="BreedDeformities0" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities0Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="BreedDeformities1" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities1Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="BreedDeformities2" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities2Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="Bombardment" value="Bombardierung"/>
+	<entry name="BuyHint" value="<style name='Title'/>%1%%2%<style name='Default'/> kaufen<br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="BuyHintMax" value="[<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>], um Max. zu kaufen (%1% für %2%)."/>
+	<entry name="BuyHintMore" value="[<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>], um 10 zu kaufen (%1% für %2%)."/>
+	<entry name="CallTheAfflicted" value="Ruf die Leidenden"/>
+	<entry name="CausalWell" value="<string name='Traits/CausalWell'/>"/>
+	<entry name="CausalWellFlavor" value="<string name='Traits/CausalWellFlavor'/>"/>
+	<entry name="Capture" value="Erfassen"/>
+	<entry name="CarrionGlut" value="<string name='Traits/CarrionGlut'/>"/>
+	<entry name="CarrionGlutFlavor" value="<string name='Traits/CarrionGlutFlavor'/>"/>
+	<entry name="CarrionGlutProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+4<style color='Default'/> <string name='Attributes/HitpointsIcon'/> Trefferpunkte jedes Mal, wenn eine Einheit stirbt"/>
+	<entry name="Cataphora" value="Cataphora"/>
+	<entry name="CauterizeWounds" value="Wunden kauterisieren"/>
+	<entry name="CherubicHallowing" value="Engelsgleiche Anbetung"/>
+	<entry name="ChoralCelerity" value="Schnelligkeit der Chöre"/>
+	<entry name="ChoralCelerityProperties" value="<string name='Actions/HiredHandsDescription'/>"/>
+	<entry name="ClearTile" value="Feld räumen"/>
+	<entry name="ClearTileDescription" value="<icon texture='GUI/Bullet'/>Entfernt <icon height='20' texture='Icons/Features/Mines'/> Minen, <icon height='20' texture='Icons/Features/Bleed'/> Blutung, <icon height='20' texture='Icons/Features/Ruins'/> Ruinen und <icon height='20' texture='Icons/Features/Forest'/> Wald vom Zielfeld, eines nach dem anderen<br/><icon texture='GUI/Bullet'/>Gibt einen <icon height='20' texture='Icons/Attributes/BuildingSlots'/> Gebäudeplatz vom Zielfeld frei"/>
+	<entry name="CombatRoutine" value="Kampfroutine"/>
+	<entry name="CombatRoutineProperties" value="<icon texture='GUI/Bullet'/>Einsetzbar, wenn die Trefferpunkte nicht voll sind"/>
+	<entry name="ConjureBleed" value="Blutung beschwören"/>
+	<entry name="ConstructArtificersLaboratory" value="<string name='Units/ArtificersLaboratory'/> konstruieren"/>
+	<entry name="ConstructArtificersLaboratoryFlavor" value="<string name='Units/ArtificersLaboratoryFlavor'/>"/>
+	<entry name="ConstructBuilding" value="%1%"/>
+	<entry name="ConstructBuildingHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="ConstructBunker" value="<string name='Units/Bunker'/> konstruieren"/>
+	<entry name="ConstructBunkerFlavor" value="<string name='Units/BunkerFlavor'/>"/>
+	<entry name="ConstructFarm" value="<string name='Buildings/Food'/> konstruieren"/>
+	<entry name="ConstructFarmFlavor" value="<string name='Buildings/FoodFlavor'/>"/>
+	<entry name="ConstructPlayerAction" value="<string name='Actions/ProduceUnit'/>"/>
+	<entry name="ConstructPlayerActionHint" value="<string name='Actions/ProduceUnitHint'/>"/>
+	<entry name="ConstructRadioTelescope" value="<string name='Units/RadioTelescope'/> konstruieren"/>
+	<entry name="ConstructRadioTelescopeFlavor" value="<string name='Units/RadioTelescopeFlavor'/>"/>
+	<entry name="ConstructRoad" value="Straße konstruieren"/>
+	<entry name="ConstructTesseraCore" value="<string name='Units/TesseraCore'/> konstruieren"/>
+	<entry name="ConstructTesseraCoreFlavor" value="<string name='Units/TesseraCoreFlavor'/>"/>
+	<entry name="ConstructWarden" value="<string name='Units/Warden'/> konstruieren"/>
+	<entry name="ConstructWardenFlavor" value="<string name='Units/WardenFlavor'/>"/>
+	<entry name="CreateShochitrisLair" value="<string name='Units/ShochitrisLair'/> erschaffen"/>
+	<entry name="CreateShochitrisLairFlavor" value="<string name='Units/ShochitrisLairFlavor'/>"/>
+	<entry name="CryOfContrition" value="Schrei der Reue"/>
+	<entry name="CycleWeapon" value="Waffe durchwechseln"/>
+	<entry name="CycleWeaponProperties" value="<icon texture='GUI/Bullet'/>Wechselt die aktive Waffe durch"/>
+	<entry name="DanceOfTheErelim" value="Tanz der Erelim"/>
+	<entry name="DanceOfTheErelimProperties" value="<icon texture='GUI/Bullet'/>Greift alle benachbarten gegnerischen Einheiten an"/>
+	<entry name="DarkCaress" value="Dunkle Liebkosung"/>
+	<entry name="DarkOmen" value="Dunkles Omen"/>
+	<entry name="DarkOmenFlavor" value="<string name='Traits/DarkOmenFlavor'/>"/>
+	<entry name="DataHack" value="Daten-hack"/>
+	<entry name="DecoyFlares" value="Täuschungsfackeln"/>
+	<entry name="DeployCombatDrone0" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone0Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployCombatDrone1" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone1Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployCombatDrone2" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone2Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployEMPDrone" value="<string name='Units/EMPDrone'/>"/>
+	<entry name="DeployEMPDroneFlavor" value="<string name='Units/EMPDroneFlavor'/>"/>
+	<entry name="DeployRepairDrone" value="<string name='Units/RepairDrone'/>"/>
+	<entry name="DeployRepairDroneFlavor" value="<string name='Units/RepairDroneFlavor'/>"/>
+	<entry name="DirectControl" value="Direkte Kontrolle"/>
+	<entry name="Disappear" value="Verschwinden"/>
+	<entry name="Disband" value="Auflösen"/>
+	<entry name="DisbandDescription" value="<icon texture='GUI/Bullet'/>Löst die Einheit auf"/>
+	<entry name="DreamPrison" value="Traumgefängnis"/>
+	<entry name="EchoesFromBeyond" value="Echos aus dem Jenseits"/>
+	<entry name="EchoesFromBeyondDescription" value="Deckt das Ziel und die angrenzenden Felder auf."/>
+	<entry name="EndbringersReversal" value="Umkehrung des Endbringers"/>
+	<entry name="EndbringersReversalProperties" value="<icon texture='GUI/Bullet'/>Tauscht die Positionen mit der Zieleinheit"/>
+	<entry name="EnhancedProbabilityAugment" value="Verbesserte-Wahrscheinlichkeit-Erweiterung"/>
+	<entry name="EnrichedAlloys" value="Angereicherte Legierungen"/>
+	<entry name="Entomb" value="Einkerkern"/>
+	<entry name="EradicateBleed" value="Blutung beseitigen"/>
+	<entry name="EvasionProcessor" value="Umgehungsprozessor"/>
+	<entry name="EvasiveManeuvers" value="Ausweichmanöver"/>
+	<entry name="ExperimentalDrugs" value="Experimentelle Drogen"/>
+	<entry name="ExperimentalDrugsFlavor" value="<string name='Quests/Pharmaceutics/Utilize'/>"/>
+	<entry name="ExperimentalDrugsProperties" value="<icon texture='GUI/Bullet'/>Wendet experimentellen Effekt <string name='Modifiers/ToTargetAlliedBiologicalUnit'/> an"/>
+	<entry name="Extirpate" value="Ausrotten"/>
+	<entry name="ExtirpateProperties" value="<icon texture='GUI/Bullet'/>Einsetzbar, wenn der Feind auf eines der drei freien angrenzenden Felder gezogen werden kann, die dem Feind am nächsten sind."/>
+	<entry name="EyeOfZephon" value="Auge von ZEPHON"/>
+	<entry name="FirstAidDrone" value="Erste-Hilfe-Drohne"/>
+	<entry name="FleshTree" value="Fleischernte"/>
+	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
+	<entry name="Frenzy" value="Raserei"/>
+	<entry name="FrenzyProperties" value="<icon texture='GUI/Bullet'/>Neben zwei oder mehr gegnerischen Einheiten einsetzbar"/>
+	<entry name="FoundCity" value="Stadt gründen"/>
+	<entry name="FoundCityProperties" value="<icon texture='GUI/Bullet'/>Verbraucht die Einheit, um eine neue Stadt auf dem Zielfeld zu gründen<br/><icon texture='GUI/Bullet'/>Städte können nur dort gegründet werden, wo es keine anderen Städte im Umkreis von %1% des Feldes gibt<br/><icon texture='GUI/Bullet'/>Jede Stadt nach der ersten verringert die Loyalität in allen Städten um %2%."/>
+	<entry name="FoundationOfBlood" value="Blutiges Fundament"/>
+	<entry name="GauntletOfRuin" value="<string name='Items/GauntletOfRuin'/>"/>
+	<entry name="GauntletOfRuinProperties" value="<string name='Actions/ClearTileDescription'/>"/>
+	<entry name="GhostWalk" value="Geistwandeln"/>
+	<entry name="GravitonJammer" value="Gravitationsstörsender"/>
+	<entry name="GravityField" value="<string name='Features/GravityField'/>"/>
+	<entry name="GravityFieldFlavor" value="<string name='Features/GravityFieldFlavor'/>"/>
+	<entry name="GroundedFire" value="Geerdetes Feuer"/>
+	<entry name="Hast" value="Hast"/>
+	<entry name="Heroism" value="Heldentum"/>
+	<entry name="Hijack" value="Kapern"/>
+	<entry name="HiredHands" value="Tagelöhner"/>
+	<entry name="HiredHandsDescription" value="<icon texture='GUI/Bullet'/>Beschleunigt die Produktion, damit sie im nächsten Zug abgeschlossen werden kann<br/><icon texture='GUI/Bullet'/>Die Kosten skalieren mit den verbleibenden Produktionskosten"/>
+	<entry name="HoldPosition" value="Position halten"/>
+	<entry name="HoldPositionDescription" value="<icon texture='GUI/Bullet'/>Hält die Position, bis eine gegnerischen Einheit angreift"/>
+	<entry name="HoldPositionUntilHealed" value="Position halten bis zur Heilung"/>
+	<entry name="HoldPositionUntilHealedProperties" value="<icon texture='GUI/Bullet'/>Hält die Position bis zur vollständigen Heilung<br/><icon texture='GUI/Bullet'/>%1% <string name='Attributes/HitpointsIcon'/> Trefferpunkte pro Zug durch Eigenschaften<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/HitpointsIcon'/> Trefferpunkte pro Zug durch Heilungsrate, wenn kein Schaden genommen wurde, und volle Bewegungs- und Aktionspunkte verbleiben<br/><icon texture='GUI/Bullet'/>%3%"/>
+	<entry name="HolyBond" value="Heiliger Bund"/>
+	<entry name="HolyInferno" value="Heiliges Inferno"/>
+	<entry name="HordeMandate" value="Auftrag der Horde"/>
+	<entry name="HymnOfDecay" value="Hymne des Verfalls"/>
+	<entry name="IcarusSatellite" value="Ikarus-Satellit"/>
+	<entry name="ImmaculateDelivery" value="Perfekte Lieferung"/>
+	<entry name="ImmaculateDeliveryProperties" value="<icon texture='GUI/Bullet'/>Teleportiert zum aufgedeckten Zielfeld neben einer verbündeten Einheit"/>
+	<entry name="InevitableEnd" value="Unvermeidliches Ende"/>
+	<entry name="InhumanKindness" value="Unmenschliche Güte"/>
+	<entry name="InterferenceProtocols" value="Störungsprotokolle"/>
+	<entry name="InternalRepairStation" value="Interne Reparaturstation"/>
+	<entry name="IronWill" value="Eiserner Wille"/>
+	<entry name="JumpPack" value="Sprung-Pack"/>
+	<entry name="JumpPackProperties" value="<icon texture='GUI/Bullet'/>Fliegt zum aufgedeckten Zielfeld"/>
+	<entry name="Landmines" value="Landminen"/>
+	<entry name="LandminesFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheTiesThatBind2'/>"/>
+	<entry name="LevelUp" value="Stufenaufstieg"/>
+	<entry name="LevelUpProperties" value="<icon texture='GUI/Bullet'/>Wähle Fähigkeiten zum Stufenaufstieg"/>
+	<entry name="LiquidDeflectionAugment" value="Flüssigablenkung-Erweiterung"/>
+	<entry name="LogisticsExperts" value="Logistikexperten"/>
+	<entry name="LoyaltyUpgrade" value="<string name='Traits/LoyaltyUpgrade'/>"/>
+	<entry name="LoyaltyUpgradeFlavor" value="<string name='Traits/LoyaltyUpgradeFlavor'/>"/>
+	<entry name="MarkTarget" value="Ziel markieren"/>
+	<entry name="Masochism" value="Masochismus"/>
+	<entry name="Minelayer" value="Minenleger"/>
+	<entry name="MothersFavor" value="Mutters Gunst"/>
+	<entry name="MothersScorn" value="Mutters Verachtung"/>
+	<entry name="Move" value="Bewegen"/>
+	<entry name="NanomachineAcceleratorAugment" value="Nanomaschinen-Beschleunigungs-Erweiterung"/>
+	<entry name="NeverSurrender" value="„Niemals aufgeben!“"/>
+	<entry name="Nightmare" value="Albtraum"/>
+	<entry name="NitroBoost" value="Nitro-Boost"/>
+	<entry name="NomadicLife" value="Nomadisches Leben"/>
+	<entry name="NomadicLifeProperties" value="<string name='Actions/FoundCityProperties'/><br/><icon texture='GUI/Bullet'/>Doppelte Kosten, wenn nicht von <icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/><nbsp/><string name='Factions/Chieftess'/> kontrolliert"/>
+	<entry name="OrbitalDeployment" value="Orbitaler Einsatz"/>
+	<entry name="OrbitalDeploymentProperties" value="<icon texture='GUI/Bullet'/>Teleportiert von verbündeter Stadt zum aufgedeckten Zielfeld"/>
+	<entry name="Overwatch" value="Überwachung"/>
+	<entry name="OverwatchDescription" value="<icon texture='GUI/Bullet'/>Greift gegnerische Einheiten an, die ihre Bewegung in Angriffsreichweite beenden"/>
+	<entry name="Pandemonium" value="Pandemonium"/>
+	<entry name="Paramedic" value="Sanitäter"/>
+	<entry name="Pestilence" value="Pestilenz"/>
+	<entry name="ParticleBarrier" value="Partikelbarriere"/>
+	<entry name="ParticleRepair" value="Partikelreparatur"/>
+	<entry name="PathfinderDrone" value="Pfadfinder-Drohne"/>
+	<entry name="PayResources/CajoleAnchorite" value="Unterhalte dich mit dem Einsiedler"/>
+	<entry name="PayResources/CajoleAnchoriteFlavor" value="<string name='Quests/Reyndverra/Intro3'/>"/>
+	<entry name="PayResources/ContactAugur" value="Kontakt mit dem Verdorbenen Wahrsager"/>
+	<entry name="PayResources/ContactAugurFlavor" value="<string name='Quests/ChildOfTheNewWorld/Intro/ContactAugurFlavor'/>"/>
+	<entry name="PayResources/FormFunction" value="Eisenfeder einkerkern"/>
+	<entry name="PayResources/FormFunctionFlavor" value="<string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/>"/>
+	<entry name="PayResources/MassConfession" value="Eine Massenbeichte organisieren"/>
+	<entry name="PayResources/MassConfessionFlavor" value="<string name='Quests/WhispersOfAFalseProphet/Intro/TakeConfession2'/>"/>
+	<entry name="PayResources/MeetYourMaker" value="Yetunde bezahlen"/>
+	<entry name="PayResources/MeetYourMakerFlavor" value="<string name='Quests/MeetYourMaker/DefendSuccess2'/>"/>
+	<entry name="PayResources/StrikeADeal" value="Bezahle die Konstellation"/>
+	<entry name="PayResources/StrikeADealFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess2'/>"/>
+	<entry name="PayResources/ThePulledThread" value="Konkordat bezahlen"/>
+	<entry name="PayResources/ThePulledThreadFlavor" value="<string name='Quests/ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor'/>"/>
+	<entry name="PayResources/TheSpaceEngine" value="Zandra Kyne bezahlen"/>
+	<entry name="PayResources/TheSpaceEngineFlavor" value="<string name='Quests/TheSpaceEngine/Intro/GatherResources2'/>"/>
+	<entry name="PayResources/ThickerThanWater" value="Ressourcen verpacken"/>
+	<entry name="PayResources/ThickerThanWaterFlavor" value="<string name='Quests/ThickerThanWater/GatherResources'/>"/>
+	<entry name="PowerSpike" value="Machtspitze"/>
+	<entry name="ProduceChild/Cyber" value="Versuche es erneut"/>
+	<entry name="ProduceChild/CyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment1/TryAgain2'/>"/>
+	<entry name="ProduceChild/Mix" value="Versuche das Unmögliche"/>
+	<entry name="ProduceChild/MixFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment3/AttemptTheImpossible2'/>"/>
+	<entry name="ProduceChild/Voice" value="Versuche es mit einem Kind"/>
+	<entry name="ProduceChild/VoiceFlavor" value="<string name='Quests/ImpossibleConception/FindYourTrueLoveSuccess2'/>"/>
+	<entry name="ProduceUnit" value="%1%"/>
+	<entry name="ProduceUnitHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="QuarryFeed" value="<string name='Traits/QuarryFeed'/>"/>
+	<entry name="QuarryFeedFlavor" value="<string name='Traits/QuarryFeedFlavor'/>"/>
+	<entry name="QuantumReflector" value="<string name='Items/QuantumReflector'/>"/>
+	<entry name="QuenchResistance" value="Widerstand auslöschen"/>
+	<entry name="QuenchResistanceProperties" value="<icon texture='GUI/Bullet'/>Setzt den Loyalitätsmalus von Unmoralisch zurück"/>
+	<entry name="QuidProQuoEnergy" value="Quidproquo (Energie)"/>
+	<entry name="QuidProQuoFood" value="Quidproquo (Nahrung)"/>
+	<entry name="QuidProQuoMinerals" value="Quidproquo (Mineralien)"/>
+	<entry name="Reallocate" value="Neuzuweisung"/>
+	<entry name="ReallocateProperties" value="<icon texture='GUI/Bullet'/>Nutze das Produktionsgebäude, um die Zieleinheit (nicht beschwört, nicht verwesend) in der Stadt aufzulösen und die investierten Ressourcen zurückzugewinnen"/>
+	<entry name="Recon" value="Aufklärung"/>
+	<entry name="Reconstruct" value="Rekonstruieren"/>
+	<entry name="Rejuvenation" value="Verjüngung"/>
+	<entry name="RejuvenationFlavor" value="<string name='Quests/ChildOfTheNewWorld/SurviveAugurSuccess2'/>"/>
+	<entry name="RemoveRoad" value="Straße entfernen"/>
+	<entry name="Repair" value="Reparatur"/>
+	<entry name="SatelliteScan" value="Satelliten-Scan"/>
+	<entry name="SeedOfExtinction" value="Samen der Auslöschung"/>
+	<entry name="SellHint" value="<style name='Title'/>Verkaufen: %1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="SellHintMax" value="[<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>], um alles zu verkaufen (%1% für %2%)."/>
+	<entry name="SellHintMore" value="[<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>], um 10 zu verkaufen (%1% für %2%)."/>
+	<entry name="SereneLesion" value="Gelassene Läsion"/>
+	<entry name="SereneLesionProperties" value="<icon texture='GUI/Bullet'/>Teleportiert von der Blutung zum aufgedeckten Blutungsfeld"/>
+	<entry name="SetRallyPoint" value="Sammelpunkt setzen"/>
+	<entry name="SetRallyPointDescription" value="<icon texture='GUI/Bullet'/>Legt den Sammelpunkt für neu produzierte Einheiten in dieser Stadt fest"/>
+	<entry name="Skip" value="Überspringen"/>
+	<entry name="SkipDescription" value="<icon texture='GUI/Bullet'/>Überspringt den Zug"/>
+	<entry name="Skydda" value="Skydda"/>
+	<entry name="Sleep" value="Stilllegen"/>
+	<entry name="SleepDescription" value="<icon texture='GUI/Bullet'/>Sleeps production until canceled"/>	
+	<entry name="SmokeLauncher" value="Rauchwerfer"/>
+	<entry name="SomethingWicked" value="<string name='Weapons/SomethingWicked'/>"/>
+	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
+	<entry name="Soundquake" value="Klangbeben"/>
+	<entry name="StickyFoam" value="Klebriger Schaum"/>
+	<entry name="Supplication" value="Anflehung"/>
+	<entry name="SurvivalTraining" value="Überlebenstraining"/>
+	<entry name="Swallow" value="Schlucken"/>
+	<entry name="SystemicReset" value="Systemische Zurücksetzung"/>
+	<entry name="SystemOverload" value="Systemüberlastung"/>
+	<entry name="TacticalNuclearMissile" value="Taktische Atomrakete"/>
+	<entry name="TakeCover" value="„In Deckung!“"/>
+	<entry name="TameAbkluth" value="Abkluth zähmen"/>
+	<entry name="TargetingRelay" value="Zielrelais"/>
+	<entry name="TeleportProperties" value="<icon texture='GUI/Bullet'/>Teleportiert zum aufgedeckten Zielfeld"/>
+	<entry name="TempleOfCrla" value="Madrigal von Cr’la"/>
+	<entry name="TempleOfCrlaFlavor" value="<string name='Features/TempleOfCrlaFlavor'/>"/>
+	<entry name="Terraform" value="Terraformieren"/>
+	<entry name="TerraformProperties" value="<icon texture='GUI/Bullet'/>Untermenü"/>
+	<entry name="TheDeepWays" value="Profane Pilgerfahrt"/>
+	<entry name="TheDeepWaysProperties" value="<icon texture='GUI/Bullet'/>Teleportiert die Einheit und benachbarte Einheiten zum aufgedeckten Zielfeld"/>
+	<entry name="TheFog" value="Der Nebel"/>
+	<entry name="TheOutsider" value="Der Außenseiter"/>
+	<entry name="ThePlague" value="Die Pest"/>
+	<entry name="ThePlagueFlavor" value="<string name='Quests/TheLastDaysOfEarth/ThePlague2'/>"/>
+	<entry name="ThereIsHope" value="Es gibt Hoffnung"/>
+	<entry name="ThrashEm" value="„Hau drauf!“"/>
+	<entry name="TimeShift" value="Zeitverschiebung"/>
+	<entry name="TormentOfTheVoice" value="Die Qual der Stimme"/>
+	<entry name="TormentOfTheVoiceFlavor" value="<string name='Quests/TheDream/AskAnchorite'/>"/>
+	<entry name="Transubstantiation" value="Transsubstantiation"/>
+	<entry name="Tune" value="Abstimmen"/>
+	<entry name="Tunnel" value="Untertunneln"/>
+	<entry name="TunnelProperties" value="<icon texture='GUI/Bullet'/>Bewegt sich unterirdisch zum aufgedeckten Zielfeld"/>
+	<entry name="UnearthlyPassage" value="Unheimliche Passage"/>
+	<entry name="UnearthlyPassageProperties" value="<string name='Actions/TeleportProperties'/>"/>
+	<entry name="UnholyHaste" value="Unheilige Eile"/>
+	<entry name="UzhodaisZeal" value="Uzhodais Eifer"/>
+	<entry name="Valhalla" value="Walhalla"/>
+	<entry name="VoiceInfantryUpgrade" value="<string name='Traits/VoiceInfantryUpgrade'/>"/>
+	<entry name="VoiceInfantryUpgradeFlavor" value="<string name='Traits/VoiceInfantryUpgradeFlavor'/>"/>
+	<entry name="VoiceVehiclesUpgrade" value="<string name='Traits/VoiceVehiclesUpgrade'/>"/>
+	<entry name="VoiceVehiclesUpgradeFlavor" value="<string name='Traits/VoiceVehiclesUpgradeFlavor'/>"/>
+	<entry name="VorodaisGift" value="Vorodais Geschenk"/>
+	<entry name="WhispersOfHarmony" value="Gesang der Harmonie"/>
+	<entry name="WhispersOfTheVoice" value="Das Flüstern der Stimme"/>
+	<entry name="WordsOfTheProphet" value="Die Worte des Propheten"/>
+	<entry name="WordsOfTheProphetProperties" value="<icon texture='GUI/Bullet'/>Die Kosten skalieren mit der Stärke der Zieleinheit"/>
+	
+	<!-- Flavor. -->
+	<entry name="AbyssalRageFlavor" value="So eine Wut hast du noch nie erlebt. Wir Menschen empfinden Wut, weil wir die Welt ungerecht finden. Aber die Stimme könnte etwas Tieferes hervorbringen. Etwas, das ihre Schöpfungen mit einem Hass auf das Universum selbst erfüllt. Solltest du dich je einer solchen Wut gegenübersehen ... lauf."/>
+	<entry name="AcquireTileFlavor" value="Ich konnte nicht glauben, dass wir immer noch Sicherheitsinspektionen und Ortsbegehungen machten, all diesen Vorkriegsblödsinn. Aber die Stadtplaner wussten, was sie taten. Was nützt es, etwas zu bauen, wenn es einfach wieder zusammenbricht? Sie lernten, unter schwerem Beschuss und harten Bedingungen zu arbeiten, um sicherzustellen, dass es sicher war, unser Gebiet zu erweitern."/>
+	<entry name="AngelFlightFlavor" value="Und so erhoben sich die Serafim, eine Waffe, wie sie noch nie zuvor auf der Erde eingesetzt wurde. Um sie in die Luft zu bringen, brauchte man eine gewaltige Menge Energie, und die Entladung konnte Waffen in Laserkanonen verwandeln, die sogar dazu in der Lage waren, Berge zu zerschmettern. Die Acrin fürchteten diese Technologie. Jetzt gibt es sie wegen ihrer Invasion."/>
+	<entry name="AntimatterDilationFlavor" value="Früher hielten Kinder Lupen in das Sonnenlicht, um ihre Namen in Holzbretter zu brennen. Ein Cherubim-Titan konnte mit der Antimaterie-Dilatation die Sonne und das Glas auf einmal sein und den Geist eines Imperiums in die Knochen unserer Feinde ritzen. Wenn überhaupt noch Knochen übrig waren."/>
+	<entry name="AntiparticlePurgeFlavor" value="Natürlich war es ein Unternehmer aus der alten Welt, der dieses Gerät erfunden hat. Wälder ausrotten, um Energie zu gewinnen? Ein schurkenhafter Einfall wie aus einem Comic. Das einzig Gute daran war, dass es genauso gut funktionierte, wenn die Blutung die Oberfläche des Planeten heimsuchte. Wer weiß? Wenn man es verkleinern würde, wäre es vielleicht ein guter Unkrautvernichter."/>
+	<entry name="ApotheosisFlavor" value="Der Gestank war die erste Warnung. Wenn dein von der Stimme berührter Feind anfing, wie eine mit Scheiße bedeckte Leiche zu stinken, warst du nur noch Sekunden davon entfernt, von seinem Blut und seinen Eingeweiden zerfetzt zu werden. Ein ferngezündeter Sprengsatz hätte seinen Wirt schnell getötet – aber diese Pechvögel konnten spüren, wie ihre Eingeweide blitzschnell verfaulten, bevor sie in Stücke gerissen wurden."/>
+	<entry name="ArmorOfFaithFlavor" value="Die meisten von uns brachten auf dem Schlachtfeld Willenskraft auf, aber der Prophet kanalisierte etwas anderes – den Glauben. Damit konnte er etwas erreichen, was die Techniker nie auch nur annähernd herausgefunden haben: Die Projektion reiner Unverwundbarkeit. War es etwas Übernatürliches? Eine Macht, die sogar die Stimme übertrifft? Ich habe es nie herausgefunden."/>
+	<entry name="ArtificersPrecisionFlavor" value="Die Architektin hatte ein Auge für Präzision. In ihrem Handwerk, in ihrer Programmierung und in der Kriegsführung. Wenn sie eine Schlacht überwachte, nutzte sie alle ihr zur Verfügung stehenden Mittel, um die an die Truppen gesendeten Zieldaten zu untersuchen und zu verstärken. Nur wenige andere Anführerinnen waren so ... vertraut mit den tödlichen Handlungen ihrer Soldaten."/>
+	<entry name="AssassinateFlavor" value="Zuerst töteten wir, um zu überleben, dann töteten wir diejenigen, die sich uns in den Weg stellten. Dann töteten wir, um eine Botschaft zu senden – Mord als Mittel der Kommunikation zu nutzen. Wir gaben etwas ... Heiliges auf, als wir uns entschieden, auf diese Weise zu töten. Es war uns egal. Zu diesem Zeitpunkt stand schon zu viel auf dem Spiel."/>
+	<entry name="AtramentousAuraFlavor" value="Der Feind war Stunden davon entfernt, das Hauptquartier zu stürmen. Wir waren so gut wie tot. Doch aus heiterem Himmel brach der Funkverkehr zusammen und eine schillernde Welle erschien aus dem Nichts. Wir atmeten sie ein. Sie fühlte sich schärfer, schneller und stärker an. Wir hielten die verdammte Stellung."/>
+	<entry name="AuraOfDisciplineFlavor" value="Allein die Anwesenheit eines Kommandanten an der Front konnte die Konzentration der Truppen aufrechterhalten. Wir haben versucht, den gleichen Effekt mit gepanzerten Fahrzeugen zu erzielen, aber es hatte nie die gleiche Wirkung. Die Anwesenheit eines Anführers hatte etwas Persönliches, etwas, das man mit Maschinen nicht nachahmen kann."/>
+	<entry name="BionicImplantFlavor" value="Eine Sanitäterin namens Lucia schlich sich einmal an mich heran und schoss mir eines dieser Implantate in den Arm. Das tat höllisch weh und ich hätte ihr fast eine Ohrfeige verpasst. „Reiß dich zusammen, du Riesenbaby“, war alles, was sie sagte. „Sieh es als Hightech-Vorsorge.“ Als ich weiter murrte, lächelte sie und klopfte mir auf die Schulter, die sie gerade gestochen hatte. „Mach dir keine Sorgen. Ich rechne das mit deiner Versicherung ab.“"/>
+	<entry name="BlackHoleFlavor" value="Wir verloren unsere Menschlichkeit, als wir begannen, die Raumzeit selbst zu zerreißen. Wir betrachteten die Realität als eine Maschine, die programmiert werden kann. Schwarze Löcher mögen die dunkelsten Flecken im Universum sein, aber es gibt nichts Dunkleres als einen Menschen, der beschlossen hat, dass es an der Zeit ist, Gott zu spielen."/>
+	<entry name="BombardmentFlavor" value="Einige Dinge haben sich im Krieg nie geändert. Zum Beispiel, dass man für einen zuverlässigen Artillerieschlag einen guten Späher brauchte. Wir vertrauten darauf, dass unsere Kommandanten die richtigen Entscheidungen trafen – nicht nur, weil sie ihr Ziel verlässlich trafen. Sie sorgten auch dafür, dass unsere Truppen rechtzeitig aus der Explosionszone entkommen konnten."/>
+	<entry name="BreedDeformitiesFlavor" value="Im Bauch eines Shoch’itris findest du blubbernde Tümpel mit organischer Materie. Es sollte etwas Heiliges sein, wenn Leben auf diese Weise Leben hervorbringt – aber hier war nichts Heiliges zu finden. Diese Bestie kratzte den Abfall unserer Welt zusammen und nutzte ihn für ein letztes Leben als Waffe."/>
+	<entry name="CallTheAfflictedFlavor" value="Die Stimme gewährte der Flüsterin ein Geschenk: die Macht, Leben zu erschaffen. Allerdings kein echtes Leben, sondern nur eine Nachahmung davon. Aber ist eine Missgestalt etwas anderes als eine Eintagsfliege? Vielleicht haben wir es verdient, ausgelacht zu werden, weil wir dachten, dass unser Leben etwas bedeutet."/>
+	<entry name="CataphoraFlavor" value="Der Überlebensinstinkt machte den Unterschied zwischen einem Verschlinger und einer Missgestalt aus. Der und der zusätzliche Kopf. Missgestalten wankten dem Tod entgegen, Verschlinger kämpften sich manchmal mit ihren Krallen und Zähnen ins Leben. Wenn man einen erwischte, der sich regenerierte, konnte man ihn problemlos auslöschen."/>
+	<entry name="CauterizeWoundsFlavor" value="Die ersten Soldaten, die wir mit kybernetischer Technologie ausstatteten, waren immer noch anfällig für Angriffe auf lebenswichtige Organe. Mit einer kleinen Zusatzprogrammierung konnten unsere Techniker ihre Schmerzsensoren betäuben. Wenn sie schon keinen Schmerz empfinden konnten, gab es keinen Grund, sie nicht ihre eigenen Wunden kauterisieren zu lassen."/>
+	<entry name="CherubicHallowingFlavor" value="Die Cherubim hatten die Macht, ihre Abschirmung auf andere Einheiten in der Umgebung auszuweiten. Das Gefühl war ... beruhigend. Seltsam angenehm. Eine große Kriegswaffe, die einen in ihre Arme schließt und einem Schutz und Zuflucht bietet, während ihre Kanonen den Feind zu Brei schießen."/>
+	<entry name="ChoralCelerityFlavor" value="Oh Gott, was war das für ein schrecklicher Tag. Wir hatten die Kultisten der Stimme überrumpelt und ihren Stützpunkt gestürmt, bevor sie ihre Streitkräfte mobilmachen konnten. Doch dann ertönte ein hoher Schrei aus dem Maskierten Gesangbuch, und innerhalb von Sekunden waren gute Männer und Frauen in seiner Macht gefangen. Was auch immer sie diese List gekostet hat ... sie hat mein Volk mehr gekostet."/>
+	<entry name="ClearTileFlavor" value="Sowohl Gebäude als auch Soldaten brauchten festen Boden, auf dem sie stehen konnten. Wir bildeten Ingenieure aus, um das Gelände für beide Zwecke zu räumen. Es war harte und gefährliche Arbeit – die neue Welt, in der wir lebten, war voller fremder Substanzen. Es war wie eine eigene Art der Kampfvorbereitung. Man konnte gegen die Erde oder gegen den Feind kämpfen – beides wäre für jeden zu viel gewesen."/>
+	<entry name="CombatRoutineFlavor" value="Die ersten Maschinen, denen wir begegneten, waren nicht immer voll kampfbereit – doch sobald die ersten Kugeln flogen, waren sie es. Es war unheimlich, wie sie zu besseren Schützen wurden, sobald sie einen Treffer einsteckten. Sie verfügten über eine Art Triangulations-Subroutine oder so."/>
+	<entry name="ConjureBleedFlavor" value="Die Stimme hat mehr als einen Weg in unsere Welt. Sie hat einigen Wesen beigebracht, wie sie Löcher in eine andere Realität öffnen können. Die Luft selbst war wie eine Haut, aus der diese Ranken herausquollen. Manchmal wollte man von der Stimme umgeben sein. Ein anderes Mal wünschte man sich eine neue Art von Stille."/>
+	<entry name="ConstructRoadFlavor" value="Mir war gar nicht bewusst, wie sehr ich richtige Straßen vermisst habe. Nachdem ich monatelang mit einem Outrider unterwegs war, hatte ich mich an holprige Steine und hartes Terrain gewöhnt. Doch die Rückkehr auf den geebneten Pfad half mir dabei, mich zu konzentrieren. So konnte ich mich auf die Feinde vor mir konzentrieren – und auf den Schutz meiner Heimat, die hinter mir lag."/>
+	<entry name="CryOfContritionFlavor" value="Interessierte sich die Stimme ... für die, die mit ihr sprachen? Musste sie überzeugt werden? Musste ihr beigebracht werden, sich in die Lebewesen einzufühlen? Ich hätte nicht gedacht, dass es für ein solches Wesen wichtig sei, Leben zu retten. Vielleicht hatte es eine größere Vision im Kopf. Oder vielleicht empfand es eine Art Mitleid."/>
+	<entry name="DanceOfTheErelimFlavor" value="Man hätte beinahe vergessen können, dass die Erelim nicht ganz menschlich waren – bis man sie tanzen sah. Ihre Augen wurden glasig, ihre Maschinengehirne berechneten die Bewegungen aller Feinde um sie herum. Dann öffneten sich ihre Gesichter, ihre Klingen fuhren aus, und sie begannen mit dem Gemetzel. Die Schönheit und Anmut ihrer Bewegungen ... das war das Erschreckende daran. Die KI tötete nicht nur aus Effizienzgründen. Jetzt tötete sie auch, um ... Kunst zu machen? Um sich auszudrücken? Ich wusste nur, dass sie gesehen werden wollte."/>
+	<entry name="DarkCaressFlavor" value="Kannst du dir die Berührung dieser fauligen Finger vorstellen? Stell dir eine riesige Hand vor, die über deine Schulter streicht, wie eine längst verloren geglaubte Liebe? Davon träumt sie. Sie erinnert sich an ein solches Gefühl. Und dieses Verlangen wirst du spüren, wenn sie in der Hitze des Gefechts nach dir greift."/>
+	<entry name="DarkPactFlavor" value="Mein Herz pochte immer schneller in meiner Brust, als ich vor dem Traumschlinger des Einsiedlers davonkroch. Das Blut meiner Truppen – meiner Freunde – tropfte von seinen Tentakeln auf mein Gesicht. Ich dachte, meine letzte Stunde hätte geschlagen, doch dann verschwand die Bestie in einem Lichtblitz. Der Einsiedler hatte mich am Leben gelassen. Er wollte, dass ich der Welt von der Bestie erzähle – und dass er sie freilassen würde, wenn wir es wagen würden, ihn noch einmal zu bedrohen."/>
+	<entry name="DataHackFlavor" value="Die Emulierte Seele kannte die Schleichwege und weniger genutzten Seitenpfade jedes Netzwerks. Sie hasste es, diese Wege zu benutzen, aber sie erkannte, dass sie einen Sinn hatten. Sie streckte ihren Geist aus, ging durch die Hintertür und schaute sich an, woran unsere Feinde forschten. Diese Funktion konnte sie akzeptieren."/>
+	<entry name="DecoyFlaresFlavor" value="Leuchtraketen sind wirklich interessant. Piloten, die sie einsetzen, sehen sie nicht. Die Raketen, die sie abschießen, wissen nicht, was sie sind. Normalerweise sehen sie nur die Truppen auf dem Boden – sie haben eine Sekunde Zeit, nach oben zu schauen und zu sehen, wie sie sich wie ein langsamer Blitz durch den Himmel bewegen."/>
+	<entry name="DirectControlFlavor" value="Wir haben eine Patrouille von ZEPHONs Maschinen überfallen, in der Hoffnung, sie verschrotten und Ersatzteile bergen zu können. Eine von ihnen zuckte plötzlich heftig und ihre Schaltkreise leuchteten in einer schrecklichen Farbe, die ich nicht beschreiben kann – bevor sie einen Trupp der Miliz mit einem einzigen Schlag abschlachtete. Ich nahm Augenkontakt mit dem Ding auf und es war, als würde mich ZEPHON selbst anstarren."/>
+	<entry name="DreadShadowFlavor" value="Schatten. Sie waren die ganze Zeit nur Schatten. Das Licht hat sich verzerrt, um ... etwas zu tun, mein Gott. Wenn einer der Doppelgänger deinen Arm aufschlitzte, war es immer noch die Klaue des ursprünglichen Jägers, die in dein Fleisch schnitt. Man musste weiterschießen. Man musste einfach weiterschießen und hoffen, dass seine futuristische Energiepistole etwas gegen ein Monster ausrichten konnte, das das Licht selbst kontrollieren konnte."/>
+	<entry name="DreamPrisonFlavor" value="30 Kämpfer. Zwei Raketenteams. Ein Prätorianer. So viele habe ich getötet, während der Traumschlinger meinen Verstand übernommen hat. Ich teilte dem Kommando mit, dass ich einer Gehirnwäsche unterzogen wurde und mich nicht daran erinnern konnte, aber das war eine Lüge. Er fütterte mich mit einer Vision von der Jagd auf Hirsche im Wald. Sie zu erlegen. Mich an sie heranzupirschen. Sie zu häuten. Jeder einzelne schrie um Hilfe, als ich ihm ein Messer in die Rippen rammte ..."/>
+	<entry name="EchoesFromBeyondFlavor" value="Die Stimme wusste Dinge. Unmögliche Dinge. War sie kleinlich, ihre Vorahnungen zu nutzen, um unsere Feinde zu sehen? Oder Lockt sie die Menschen so an? Zeigte sie ihnen Wissen, versprach sie ihnen Macht und bot dann mehr an? Die Flüsterin wusste es. Doch sie verriet es nie."/>
+	<entry name="EndbringersReversalFlavor" value="Ich hatte Schriftrollen gestohlen, die das Verstohlene Tribunal in der Nähe aufbewahrte, und war nur wenige Minuten davon entfernt, von ihren Soldaten gefasst zu werden. Als das Ende nahte, spürte ich, wie mich der Sog einer anderen Welt überkam und ich an einen sicheren Ort in der Nähe gezogen wurde. An der Stelle, an der ich gestanden hatte, stand ein Uzhodai-Anbeter, bereit, die überraschten Truppen des Tribunals abzuschlachten."/>
+	<entry name="EnhancedProbabilityAugmentFlavor" value="Die Revolverhelden von früher brauchten Intuition, um einen Volltreffer zu landen. Die Agentin ließ sich von ihnen für diese spezielle Erweiterung inspirieren. Intuition konnte ... simuliert und mit Gleichungen umgestaltet werden. Sie hatte ein Auge dafür, das, was uns menschlich macht, mithilfe von Zahlen nachzubilden."/>
+	<entry name="EnrichedAlloysFlavor" value="Jedes Mal, wenn ich mich hinsetzte, um meine Waffe zu reparieren, kam eine schlechte Erinnerung hoch. Ein Küchentisch. Mein Onkel, der seine Gewehre reinigte. Meine Tante … wütend. Sie hatte ihm gesagt, er solle sie nie ins Haus bringen. Er schrie sie an. Die Waffe ging los … Und … Dieses Monster hatte keinen Respekt vor einer Waffe aus gutem Material, die Fleisch und Knochen problemlos zerfetzen konnte. Ihm gefiel einfach, wie sie in der Sonne glänzte."/>
+	<entry name="EntombFlavor" value="Der Archai hatte die Macht, jede deiner Schwachstellen auf einmal auszunutzen. Wenn er einen erwischte ... konnte man sich nicht mehr bewegen. Man konnte kaum noch atmen. Ohne Hilfe gab es kein Entkommen und man war dem Tod geweiht. Man konnte nur noch mit aufgerissenen Augen zusehen, wie die Feinde zum tödlichen Schlag ansetzten."/>
+	<entry name="EradicateBleedFlavor" value="Die Stimme musste sich immer noch an unsere physikalischen Gesetze halten, auch wenn sie es geschafft hat, sie ein wenig zu beugen. Das ließ die Blutung für eine Dekontamination offen. ZEPHON und unsere Techniker schienen herausgefunden zu haben, dass man die Blutung reinigen konnte – wenn man bereit war, das Risiko einzugehen, sich ihr zu nähern."/>
+	<entry name="EvasionProcessorFlavor" value="Die Erelim konnten ihre maschinelle Seite die Kontrolle übernehmen lassen – nur ein wenig – um zwischen dem Kugelhagel hindurchzugehen. Sie lockte ihre Feinde in die Nähe, da sie glaubten, im Nahkampf einen Treffer bei ihr landen zu können. Doch genau darin liegt die Stärke der Erelim."/>
+	<entry name="EvasiveManeuversFlavor" value="Pilotenanfänger wurden mit einem Handbuch mit Routinemanövern zum Ausweichen vor feindlichem Feuer losgeschickt. Die besten Piloten warfen dieses Handbuch aus dem Fenster. Manchmal ... buchstäblich. Der beste Weg, um in der Luft zu überleben, war, unberechenbar zu sein und dorthin zu fliegen, wo dich das Ziel am wenigsten erwartet."/>
+	<entry name="ExtirpateFlavor" value="Wir waren sicher. Wir hatten die Chance. Wir waren dabei, einen Titanen zu töten. All diese Fakten fielen in sich zusammen, als die Bestie ihren Rachen voller Gliedmaßen hob und direkt in unsere Richtung brüllte. Es fühlte sich an, als ob Ranken unsere Rüstung packten und uns in sein fleischiges Maul zogen. Unsere Zeit ... war abgelaufen."/>
+	<entry name="EyeOfZephonFlavor" value="ZEPHON hat einen immer beobachtet. Inaktive Kameras wurden beim Räumen von Lagerhäusern plötzlich wieder aktiv. Er nutzte Seismographen, um Truppenbewegungen zu verfolgen. Wir wussten, wie man Drohnen ausweicht, aber nach einer Weile starrten wir in die Sterne und fragten uns, ob das blinkende Licht ein entfernter Gasball war – oder einer seiner Satelliten, der hübsche Polaroids von unserer Position schoss."/>
+	<entry name="FirstAidDroneFlavor" value="Man kann einer Drohne keinen Doktortitel verleihen, aber man kann ihr ein paar hundert Milliliter Morphium und eine Packung Verbandszeug geben und ihr gerade genug Verstand einprogrammieren, sodass sie weiß, was sie benutzen soll. In den meisten Situationen zumindest ..."/>
+	<entry name="FoundationOfBloodFlavor" value="Für die Architektin waren die Menschen nur Werkzeuge. Man möchte meinen, dass eine gute Architektin ihre Werkzeuge zu schätzen lernt, aber sie hat nie eine solche Bindung entwickelt. Ich habe sie einmal gewarnt, dass Gegenstände ersetzt werden können, aber Menschen nicht. Sie war damit nicht einverstanden. Und zwar absolut nicht."/>
+	<entry name="FoundCityFlavor" value="Vor langer Zeit errichteten unsere Vorfahren Städte im Laufe von Generationen. Diesen Luxus hatten wir nicht. Ingenieure legten den Grundstein für riesige urbane Räume mit vorgefertigten Gebäuden und Drohnen, die schnell eine Infrastruktur aufbauen konnten. Später hätten wir immer noch darauf aufbauen können ... wäre der Krieg jemals zu Ende gegangen."/>
+	<entry name="FrenzyFlavor" value="Es war keine Überraschung, dass Verzweiflung jeden in eine Tötungsmaschine verwandeln konnte. Überraschend war nur, dass einige Kämpfer es zu genießen schienen. In der Unterzahl? Waffentechnisch unterlegen? Das spielte für sie keine Rolle. An der Seite dieser Berserker zu kämpfen, konnte einen am Leben erhalten, aber genauso gut hätte man dabei draufgehen können."/>
+	<entry name="GhostWalkFlavor" value="Ich wollte schon immer wissen, wie es für die Erelim war, dorthinzugehen, wo kein Licht reflektiert wurde? Wie sah die Erde aus? War es dort ... friedlicher? Oder musste man, um wirklich unsichtbar zu bleiben, durch die Leere gehen und sich nur mithilfe von Sensordaten im Gelände orientieren? Ich habe mal eine gefragt. Sie wollte nicht antworten."/>
+	<entry name="GravitonJammerFlavor" value="Unsere Waffenforscher fanden zufällig heraus, dass Gravitonen so verändert werden können, dass sie einen desorientierenden Effekt haben. Das Gefühl, dass deine inneren Organe schweben, wurde als „äußerst unangenehm“ beschrieben."/>
+	<entry name="GroundedFireFlavor" value="Das scharfe Auge des Operator reichte nicht immer aus. Um einen präzisen Schuss von der Raketenplattform abzugeben, musste sich die Maschine manchmal die Erde graben und sich gegen den Rückstoß abstützen. Das sorgte für einen ruhigeren Schuss. Jedoch sorgte dies auch dafür, dass Operator und Drohne anfällig für Angriffe wurden."/>
+	<entry name="HastFlavor" value="Die Walküren waren manövrierfähiger als jeder andere schwere Panzer. Das lag daran, dass ihre Piloten die Sicherheitsprotokolle durch schiere Willenskraft außer Kraft setzen konnten. Wenn diese sich abschalteten, brachten die Walküren-Operatoren ihre Exo-Anzüge an ihre Grenzen. Sie zerstörten ihre Körper und verwüsteten ihren Geist, um den Sieg zu erringen."/>
+	<entry name="HijackFlavor" value="Nachdem wir mit dem Einsatz von Mechs, Panzern und anderen schweren Kriegsgeräten begonnen hatten, dachte ich, die Stammesführerin würde sich zurückhalten. Ich war ein Idiot. Die Räuber folgten ihr nicht ohne Grund. Sie erkannte eine gute Gelegenheit zum Plündern und wusste, wie überrascht wir sein würden, wenn wir ihre Räuber mit unseren eigenen Maschinen auf uns zukommen sehen."/>
+	<entry name="HiredHandsFlavor" value="Der Aristokrat baute ganze Netzwerke von Gefallen auf, die er in Anspruch nehmen konnte. Doch das haben die anderen Kriegsherren und Möchtegern-Herrscher nie verstanden. Wenn man sich die Loyalität seines Volkes durch Vertrauen oder Geld sichern konnte, konnte man sich auf sie verlassen, wenn man sie am dringendsten brauchte, vor allem bei der Produktion von Materialien oder Waffen."/>
+	<entry name="HolyBondFlavor" value="Die Artillerie schlug in unseren Bunker ein und alles wurde weiß. Ich dachte, das war’s. Doch dann sah ich plötzlich etwas – war es eine Brücke? Eine Hand, die nach mir griff? Und dann lichtete sich der Rauch. Wir standen immer noch, und ein Akavish-Vorsteher rumpelte über unsere Einheit. „DEINE ZEIT IST NICHT VORBEI!“, schrie er. „DER, DER ÜBER EUCH WACHT, RUFT NACH EUREN KLINGEN!“ Die Fußsoldaten um mich herum jubelten und griffen an. Ich stand einfach nur da ... und spürte noch immer die ausgestreckte Hand auf meiner Handfläche."/>
+	<entry name="HolyInfernoFlavor" value="Woher kamen die Flammen? Die Seraphim sind nicht mit so einem explosiven Treibstoff in den Himmel gekommen. Ich wühlte mich immer wieder durch ihre Baupläne, um eine Antwort zu finden. Es gab keine. Der einzige Anhaltspunkt war die Melodie ... die immer die Frequenz wechselte, sobald das Inferno losbrach. War es das? Wurde das heilige Feuer etwa durch ein Lied entfesselt?"/>
+	<entry name="HordeMandateFlavor" value="Der Leere Kriegsherr war ein Taktiker. Nicht so ein Rohling wie die Räuber oder Brecher, die ständig in Rage waren. Er konnte ABWARTEN. Beobachten. Eine Armee vorschicken und den Feind glauben lassen, dass er kurz vor dem Sieg steht – und dann gibt er das Signal. Das Dröhnen eines Motorradmotors. Das war das Signal. Das Signal, alles loszulassen und zu kämpfen. Bis. Zum. Letzten."/>
+	<entry name="HymnOfDecayFlavor" value="Als ich zum ersten Mal die giftige Berührung dieses gequälten Gesangbuchs spürte, nahm ich an, dass es einen strategischen Grund dafür gab, die Erde auf diese Weise zu vergiften. Aber nach so vielen Schlachten ... musste mehr dahinterstecken. War es spirituell? Oder war es ein Akt kindischer Bosheit? Ich stellte mir vor, wie die zum Tode verurteilten Außerirdischen auf unserer Welt zurückschlagen, weil wir es wagten, uns ihrer apokalyptischen Mission zu widersetzen. Der Gedanke ließ mich erschaudern."/>
+	<entry name="IcarusSatelliteFlavor" value="Das Ikarus-Satellitennetzwerk war eine Waffe, die von einer Firma namens IKAR Corp. entwickelt wurde, die nie online ging. Zu lange dachten wir, es sei nur ein Mythos. Dann tauchte die Schurken-Agentin mit dem fehlenden Bindeglied auf: einem Autorisierungsschlüssel, der sie für die Geschäftsführerin von IKAR hielt. Nur sie konnte die Feuerkraft der Ikarus abrufen – selbst wenn jemand sie tötete und den Schlüssel an sich nahm, würde er niemals die Verschlüsselung des Dings knacken."/>
+	<entry name="ImmaculateDeliveryFlavor" value="War es der Instinkt einer Mutter? Erinnert sie sich daran, wie sie ihre Kinder vor dem Krieg in den Park begleitete? Vielleicht birgt ein solcher Instinkt Macht … die Macht, Armeen im Handumdrehen über weite Strecken zu bewegen. Wie damals, als sie ihr Volk aus dem Lager ins Ödland brachte. Die giftige Luft dort war sicherer als das Gefängnis."/>
+	<entry name="IncendiaryGrenadeFlavor" value="Alien, Maschine, Mensch. Alles brannte, solange die Temperatur ausreichend hoch war. Aber die Gerüche waren anders. Die Schreie waren anders. Egal, wie man in diese Welt kam, lebendig verbrannt zu werden, war eine schreckliche Art, sie zu verlassen."/>
+	<entry name="InevitableEndFlavor" value="Ein Cr’la-Anbeter erzählte mir, dass er „die Lebensfäden“ sehen könne, die „jeden Menschen mit dieser sterblichen Hülle verbinden“. Ich war ein Arsch und fragte, ob er diese Fäden durchschneiden und uns einen Haufen Ärger ersparen könnte. Er streckte die Hand aus, zog an etwas, das über meinem Kopf schwebte, und ich fiel nach Luft ringend zu Boden. „Das kann ich“, sagte er. „Oh, das kann ich in der Tat.“"/>
+	<entry name="InhumanKindnessFlavor" value="Bei der kleinsten Unachtsamkeit konnte ihre Wärme, ihr Blick, ihre Freundlichkeit dir das Leben entziehen. Und ihr Herz gab es dir wieder zurück. Das Blut pochte, rauschte erst in weiter Ferne, aber dann durch deine Adern, durch deine Arterien und schließlich durch dein eigenes Herz. Und das Leben kam zurück. Du konntest weiterkämpfen, bereit, für sie zu sterben."/>
+	<entry name="InterferenceProtocolsFlavor" value="Maschinen tun, was man ihnen sagt, nicht was man von ihnen will. Mit der richtigen Programmierung kann man den Maschinen des Feindes alle möglichen interessanten Lügen erzählen. Sie dachten, oben sei unten, Freund sei Feind und hell sei dunkel. Natürlich wirkten die gegnerischen Technologien dieser Programmierung entgegen, also war es kein Allheilmittel. Aber es machte es einfacher, ihren Schüssen für kurze Zeit auszuweichen."/>
+	<entry name="InternalRepairStationFlavor" value="Eine Gruppe aufstrebender junger Techniker kam zu mir mit dem Plan, Reparaturstationen in unseren Marodeur-Transportern einzurichten. Ihre Vorgesetzten wehrten sich dagegen und bezeichneten es als Zeitverschwendung. Ich wies darauf hin, dass es in der Nähe des Schlachtfeldes jede Menge Ersatzteile gibt – und wenn die leitenden Techniker so erpicht darauf sind, Reparaturen durchzuführen, können sie auch anderswo eingesetzt werden. Sie lenkten ein."/>
+	<entry name="IronWillFlavor" value="Wenn sich Aufgeben tröstlicher anfühlte als der Kampf, musste man sich in Erinnerung rufen, wofür man kämpfte. Jeder Soldat flüsterte sich eine andere Geschichte zu. Manche sagten nur einen Namen. Diese Worte erfüllten das Blut mit Feuer und gaben einem das Gefühl, dass sich der Kampf wieder lohnt."/>
+	<entry name="JumpPackFlavor" value="Die Antigravitationstechnologie übertraf bei weitem alles, was eine Rakete tun konnte, um Soldaten in der Luft zu halten. Aber das war gut so. Langsame Lufteinheiten waren leichtere Ziele. Es war immer noch von Vorteil, präzise Raketenschübe einzusetzen, um unsere Elite-Infanterie neu zu positionieren. Krieg ist schließlich ein Spiel, bei dem es darum geht, die bessere Stellung einzunehmen."/>
+	<entry name="LiquidDeflectionAugmentFlavor" value="Die Truppen der Agentin konnten nicht jedem Schuss ausweichen. Sie konzentrierte sich darauf, die Wucht der Schläge zu verringern. „Sei wie Wasser“, hat ein großer Meister einmal gesagt. Mit ein paar Experimenten konnte dies tatsächlich verbessert werden."/>
+	<entry name="LogisticsExpertsFlavor" value="Die Lieferungen, die von den Außenposten zurückgebracht wurden, hatten immer die Angewohnheit, „hinten vom Laster zu fallen“. Die Befehlshaber hatten genug von den Verlusten und befahlen uns, Experten zusammenzutrommeln, die jede Lieferung überwachen konnten. Sie waren rücksichtslos. Wenn sie deine Schicht überwachten, konnte man kein Auge zutun, bis jedes Stück Metall aus der Erde geholt und nachgewiesen war."/>
+	<entry name="MarkTargetFlavor" value="Wenn man sich mitten im Gefecht befindet, hilft es ungemein, sich auf eine erhöhte Position zu begeben und Ziele auszurufen. Das sorgt für einen guten Rhythmus. Das Ziel markieren. Das Ziel festlegen. Das Ziel ausschalten."/>
+	<entry name="MasochismFlavor" value="„Was zum Teufel machst du da?!“ Ich erinnerte mich daran, wie ich einen dieser verdammten Epikureer anschrie, als er direkt über unseren Graben lief und eine Reihe von Kugeln einsteckte, die nichts treffen sollten. „Beruhige dich … Mentor“, sagte er. Wie hat er … er hatte kein Gesicht, aber ich schwöre, er lächelte mich an. „Wir wissen beide, dass Schmerz eine Konstante ist. Du läufst vor ihm weg …“ Er zuckte zusammen, als eine weitere Kugel in seine Schulter einschlug. „Ich genieße ihn.“"/>
+	<entry name="MinelayerFlavor" value="Die Operatoren der Outrider wussten, dass sie, wenn die Kugeln zu fliegen begannen, keine Kämpfer waren: Sie waren Köder. Ihre Aufgabe war es, Minen in Schlüsselpositionen zu legen und den Feind anzulocken. Sobald die Falle zugeschnappt war, konnten sie sich aus dem Staub machen und entkommen – und was auch immer sie jagte, wurde zur leichten Beute für den Rest von uns."/>
+	<entry name="MothersFavorFlavor" value="Mütter sollten keine Lieblinge haben. Doch sie hatte einen. Wenn einem die Verrückte Mutter ihre Finger über die Wange gleiten ließ, war das Blut egal, das dabei entzogen wurde. Ihre Liebe verdrängte die Erinnerungen an die leiblichen Eltern, egal wie sehr man an ihnen festhielt."/>
+	<entry name="MothersScornFlavor" value="Eine Erinnerung. Ein Kind, das Angst hat, den Blick eines Elternteils zu erwidern. Nicht, weil das Kind geschlagen wurde – sondern es vielleicht geschlagen werden könnte. Das Kind fürchtet diesen Moment, in dem die Liebe der Eltern – die Liebe der Mutter – weggerissen und durch eisige Worte, eine erhobene Stimme und einen gezogenen Gürtel ersetzt werden könnte."/>
+	<entry name="NanomachineAcceleratorAugmentFlavor" value="Die Agentin war mit der Schaffung von ... bestimmten Leistungsverbesserungen recht vertraut. Sowohl bei Maschinen als auch bei biologischen Wesen konnte sie mithilfe von Nanomaschinen die Ausdauer und Geschwindigkeit erhöhen. Ihre Truppen konnten sich nicht viel schneller bewegen, aber sie konnten viel größere Distanzen zurücklegen."/>
+	<entry name="NeverSurrenderFlavor" value="Die Aufgabe eines Kommandanten ist es, die Truppen auf dem Schlachtfeld zu halten und dafür zu sorgen, dass sie nicht fliehen, wenn die Angst überhandnimmt. Zu viele von uns hätten gerne aufgegeben, um auch nur einen Tag länger zu leben. Aber der richtige Anführer am richtigen Ort kann einen dazu bringen, sein Leben für eine bessere Welt zu opfern."/>
+	<entry name="NightmareFlavor" value="Der Geheimdienst konnte nie feststellen, wie viele Phenaris-Jäger auf dem Schlachtfeld unterwegs waren. Sie pflanzten sich nicht fort, sie waren nur ... ich weiß nicht. Haben sie eine Version von sich selbst aus einer anderen Dimension hergeholt? Sie haben alle getäuscht, sogar die Maschinen? Ich weiß es nicht. Es gab zu viele Monster und zu viele Tricks, die ich nicht im Kopf behalten konnte. Ich wollte mich nur ausruhen ..."/>
+	<entry name="NitroBoostFlavor" value="„Treibstoff, Feuer – alles, was man sich nur wünschen könnte“, sagte die Mitarbeiterin der Werkstatt, als sie ihre sogenannte „Spezialcharge Dränger-Saft“ herausholte. Ich wünschte, sie wäre nicht so … fröhlich gewesen. Es war Krieg, kein Seifenkistenrennen …"/>
+	<entry name="NomadicLifeFlavor" value="Räuber wissen, wie sie sich die Wildnis zu eigen machen können. Sie sind geschickt darin, die Waren, die sie plündern, in Vorräte für ein Lager umzuwandeln. Sei vorsichtig, wenn sie eines in der Nähe deines Territoriums errichten – es wird nicht lange dauern, bis ein Schwarm von ihnen über deine Mauern klettert."/>
+	<entry name="OrbitalDeploymentFlavor" value="Sturmtruppen, die für einen Langstreckeneinsatz in den Orbit geschossen wurden, kamen entweder mit vollen Hosen oder als die abgeklärtesten Wichser zurück, die du je auf dem Schlachtfeld getroffen hast. Für einige war es das Schönste, die Erde zwischen den Sternen schweben zu sehen. Andere waren entsetzt darüber, wie klein wir in dieser großen schwarzen Leere des Nichts waren."/>
+	<entry name="PandemoniumFlavor" value="Die Elohim machten alle möglichen Geräusche, aber ich schwöre, ich hörte sie ... vor Vergnügen schnurren, wenn ein Singularitätskern in der Nähe war. Man musste nur einen installieren und ihre Stacheln wölben und strecken sich, während sie ihn in ihr System saugten. Eine Sekunde später feuerten sie eine Explosion ab, die so weit reichte, dass man sie nicht einmal hören konnte. Man sah nur das Licht, das in der Ferne leuchtete. Alles, was man hörte, war dieses verdammte Schnurren."/>
+	<entry name="ParamedicFlavor" value="Ein verirrter Plasmastrahl hatte mir ein Stück Fleisch aus dem Arsch gerissen. Ich sah, wie die Sanitäterin unter schwerem Beschuss zu mir eilte, bereit mit einem Nano-Injektor. Ich sagte ihr, dass sich die Qualen des sich regenerierenden Fleisches nicht lohnen würden – ich würde lieber sterben. Sie hat mich trotzdem verarztet. Aber ihr Kichern verriet mir, dass sie jedem erzählen würde, dass sie mir buchstäblich den Arsch gerettet hat."/>
+	<entry name="ParticleBarrierFlavor" value="Kein anderer Schutzschild verhielt sich so wie die Partikelbarriere der Krypt-Archai. Normalerweise brauchten Schilde eine Energiequelle – ich habe zu viele Soldaten verloren, die versucht haben, diese Energie aufrechtzuerhalten. Diese Barrieren ... sie ... funktionierten einfach. Vielleicht waren die Partikel die Energiequelle? Sie ziehen Energie aus ihrem Inneren und bündeln sie, um eintreffendes Feuer abzufangen? Es war ... nicht von dieser Welt."/>
+	<entry name="ParticleRepairFlavor" value="Die Partikel, die aus der Hülle eines Krypt-Archai strömten, konnten bei mechanischen Geräten Wunder bewirken. Es war wie in einem Märchen. Ein Strom aus leuchtenden Lichtern reichte aus, um ramponierte und kaputte Maschinen wieder zum Laufen zu bringen. Verkabelung, Servosysteme, Energieleitungen – sie konnten alles reparieren."/>
+	<entry name="PathfinderDroneFlavor" value="So hat sie mich erwischt, die verdammte Drohne. Ich war es gewohnt, allen möglichen Sensoren und Stimmen-Magie auszuweichen, aber ich wurde von einem Roboter überlistet, der kleiner war als die Kampf-Melisai. Dumm. Der Vorbote musste nicht alles wissen, was um ihn herum geschah – er brauchte nur präzise Informationen, die es ihm ermöglichen, seine Mission auszuführen."/>
+	<entry name="PestilenceFlavor" value="Ein weiterer alter Trick des Krieges. Ratten. Pestkarren. Katapulte, die Leichen schleudern. Der erste apokalyptische Reiter war schließlich die Pestilenz. Wenn man gegen einen Gefallenen Orolos antritt, spürt man, wie die Schimmelpilzsporen einen auf dem Schlachtfeld ersticken und man wünscht sich, das Monster würde einen einfach zerquetschen."/>
+	<entry name="PowerSpikeFlavor" value="Die Techniker haben die Vulkan-Handbücher mit allen möglichen Einschränkungen zugekleistert. Vulkan-Piloten wussten, wie und warum sie sie brechen konnten. Wenn man die Energie über ihre Grenzen hinaus auflädt, kann man ganze Teile des Vulkans zerstören. Aber dafür konnte man diese Energie in alle Waffen des Vulkans stecken. Diesen zusätzlichen Schaden zu riskieren, war ein Wagnis, aber es hat sich häufig ausgezahlt."/>
+	<entry name="QuenchResistanceFlavor" value="Die Architektin wusste, dass es Konsequenzen haben würde, wie sie die Menschen behandelte. Andere Anführer wären blind für die Konsequenzen oder würden annehmen, dass Angst ausreicht, um die Menschen bei der Stange zu halten. Sie war keine Narrin. Sie wusste vom ersten Tag an, dass Gewalt unvermeidlich war. Und sie setzte sie ein, ohne zu zögern."/>
+	<entry name="QuidProQuoEnergyFlavor" value="Der Aristokrat hatte immer ein Auge auf das Energienetz und beobachtete, wie einige ... nicht ganz so ehrenhafte Typen Energie für illegale Projekte abzapften. Er ließ sie gewähren – unter der Bedingung, dass sie ihm ihre Energiespeicher wieder öffneten, wenn er es von ihnen verlangte."/>
+	<entry name="QuidProQuoFoodFlavor" value="Jeder hortete ständig Lebensmittel. Der Aristokrat war der Einzige, der die Leute dazu bringen konnte, sich davon zu trennen. Es war wie in der alten Fabel über den Retter, der seine Anhänger mit einem unendlichen Vorrat an Brot und Fisch versorgen konnte. Wenn es diesen Retter wirklich gab, sprachen er und der Aristokrat vielleicht die gleiche Sprache – die Sprache der gegenseitigen Hilfe und des Überlebens."/>
+	<entry name="QuidProQuoMineralsFlavor" value="Die Welt des Mineralienhandels war voller illustrer Charaktere. Der Aristokrat konnte sie alle kontrollieren wie ein Schausteller auf der Bühne. Er überhäufte sie mit Gefälligkeiten und Geschenken, um das Geschäft zu versüßen, wann immer er zusätzliche Ressourcen benötigte."/>
+	<entry name="ReallocateFlavor" value="Wenn man genug Zeit damit verbringt, im Müll zu wühlen, sieht jedes Stück Müll wie ein Schatz aus. Ich weiß nicht, wie er es gemacht hat, aber der Romantiker wusste, wie man das Beste aus allem macht. Er beauftragte die Fabrikarbeiter, nach der gleichen Logik zu verfahren – Waffen, Rüstungen, Werkzeuge – sie alle konnten für einen größeren Zweck wiederverwendet werden."/>
+	<entry name="ReconFlavor" value="Die verschiedensten Späher wussten, dass die Technologie der Vorkriegszeit eine bessere Aufklärung ermöglichen würde. Scharfschützen gruben alte Kameralinsen aus, Fahrer hatten alte Scanner auf dem Rücksitz … Der beste Fährtensucher, den ich kannte, studierte noch ältere Methoden: Er trug frische Lebensmittel bei sich und suchte Flüchtlingslager auf. Die Einheimischen wussten immer mehr als die feinsinnigsten Soldaten."/>
+	<entry name="ReconstructFlavor" value="Metall, das wie Fleisch verheilt? In den letzten Tagen des Krieges war alles ein Fiebertraum ... Ich habe nicht mit der Wimper gezuckt, als ZEPHONs Titanen den Stahl wieder zusammennähten wie rohes Fleisch. Das war es doch, was er wollte, oder? Maschinen, die wirklich lebendig waren? Um wirklich zu leben, musste man vielleicht bluten ..."/>
+	<entry name="RemoveRoadFlavor" value="Das ist die Sache mit der Infrastruktur – man kannst sie aufbauen, aber der Feind kann kommen und sie an sich reißen. Wenn es brenzlig wurde, schickten wir die Ingenieure los, um Straßen abzureißen, während wir ihnen Feuerschutz gaben. Wenn wir unsere Karten richtig ausspielten, steckten unsere Feinde im Schlamm fest und waren ungeschützt. Diesen Moment der Schwäche nutzten wir aus, um die Hölle auf sie herabregnen zu lassen."/>
+	<entry name="RepairFlavor" value="Die Durchführung von Reparaturen erforderte Vorbereitungszeit und das bedeutete, dass der Techniker in der Nähe der Maschine bleiben musste. Wenn man sich schnell einen Freund machen wollte, musste man jeden, der sich um seine Technik kümmerte, in Sicherheit bringen. Schließlich taten sie dasselbe für dich. Ich kann immer noch nicht glauben, dass es Soldaten gab, die sie wie Schachfiguren geopfert haben."/>
+	<entry name="SatelliteScanFlavor" value="I’d wander into the satellite facilities during the rare moments of downtime for some… unauthorized usage. I looked further… toward ruins of the old world. Sometimes I hoped I’d open a scan and find buildings still standing, life still going. I wanted to see a place untouched by war, someplace free from death."/> 
+	<entry name="SeedOfExtinctionFlavor" value="Ich konnte diesen Soldateninstinkt nicht abschütteln. Für mich waren die Krodeus-Samen nur eine weitere explosive Gefahr, vor dem ich auf dem Schlachtfeld weglaufen musste. Aber in der Kaserne hieß es, die Samen kämen aus einer anderen Welt. Dass die Krodeus mehrere Dimensionen zusammenziehen. Das klang ... nicht verrückter als alles andere an diesem Dienstag."/>
+	<entry name="SereneLesionFlavor" value="Ich war nie ein Fan von Selbstverletzungen. Als ich sah, wie sich die Fanatiker mit ihren rituellen Sikkas aufschlitzten, wurde mir schlecht. Zu sehen, wie die Blutung sich aus Mitleid öffnete und sie wegriss, war der blanke Horror."/>
+	<entry name="SkyddaFlavor" value="Hier ist ein Widerspruch: Die Walküren-Operatoren waren auf den Tod fixiert, trugen aber Schilde in die Schlacht. Wenn sie einen ruhmreichen Tod anstrebten, warum sollten sie dann versuchen, ihr Leben zu erhalten? Es gab noch eine weitere Ebene in ihrem Denken: Der Tod muss zur richtigen Zeit und am richtigen Ort eintreten. Der Schutzschild sorgte dafür, dass dieser Tag zur rechten Zeit kam."/>
+	<entry name="SmokeLauncherFlavor" value="Ich weiß nicht, ob du das weißt, aber Panzer sind ... groß. Sie sind leicht zu treffen. Wir haben sie mit Rauchwerfern ausgestattet, um unsere Rückzüge zu decken. Viele Idioten dachten, sie wären unbesiegbar, wenn sie auf dem Sitz eines Crusaders saßen. Die Schlauen wussten, wann sie den Rauch abwerfen und sich zurückziehen mussten."/>
+	<entry name="SoundquakeFlavor" value="Heilige Scheiße! Von allen Möglichkeiten, wie man festgenagelt werden kann, war das ... die schmerzhaftest. Ein riesiges, verdammtes Monster, das eine Kanone auf dich richtet und dich mit so viel Lärm beschießt, dass die Schwerkraft stärker wird. Meine Ohren fingen an zu bluten und meine Knochen fühlten sich an, als würden sie zerbrechen ... doch ich trug nicht einmal einen Kratzer davon. Wir waren bereits auf dem Rückzug ... warum musste es uns auf diese Weise aufhalten?"/>
+	<entry name="StickyFoamFlavor" value="Das Zeug war widerlich. Es roch schlimmer als die Malakim-Zerstörer, die es auf dem Schlachtfeld versprühten. Ich schätze, wenn man so schlecht schießt wie sie, braucht man jeden technologischen Vorteil, um den Feind in Schach zu halten."/>
+	<entry name="SupplicationFlavor" value="Eine betrunkene Ingenieurin kam zu unserer Kaserne und plapperte über ihre Arbeit am Vorsteher. Sie erzählte von Codes, die in Sprachen geschrieben waren, die sie nie gesehen hatte. Funktionen, die allen in seiner Gegenwart befehlen konnten, seinen kreischenden Vorträgen zuzuhören. „Das ist kein verdammter Code da drin“, sagte sie zwischen zwei Schlucken ihre grauenhaften Biers. „Das ist Urgestein. Der Scheiß mit den Gesetzen des Universums. Diese Maschine ist vielleicht näher an Gott dran, als wir es je sein werden.“"/>
+	<entry name="SurvivalTrainingFlavor" value="Starke Soldaten wussten, wie wichtig es ist, Wissen zu teilen. Wer so lange gelebt hat, hat tausende Lektionen auf die harte Tour gelernt. Es war wertvoll, sein Wissen an die nächste Generation weiterzugeben. Ich hoffe, daran ist noch etwas dran."/>
+	<entry name="SwallowFlavor" value="Der Himmel war beunruhigend dunkelgrau, wie man es von einem heftigen Sommergewitter kennt. Ich dachte, wir hätten die Schlacht gewonnen. Doch unsere Jubelschreie wurden zu Angstschreien, als Blitze zuckten und ein Krodeus durch die Wolken fiel. Er verschlang einen ganzen Vanquisher-Panzer und schwebte dann über unsere Position. Das Kreischen von reißendem Metall und die Schreie der Crew übertönten sogar das Donnergrollen."/>
+	<entry name="SystemicResetFlavor" value="„Niedlich“, murmelte die Schurken-Agentin, als wir uns hinten auf einem flüchtenden Marodeur zusammenkauerten. Die Alarmanlage heulte auf – irgendetwas hatte uns getroffen und unsere Motoren außer Gefecht gesetzt. Sie tippte Befehle in ein Terminal ein. „Klassisches IT-Problem. Ausmachen, wieder einschalten … Immer die gleiche Scheiße.“ Die Alarmanlage verstummte und die Schiffsmotoren erwachten wieder zum Leben. Wir würden an einem anderen Tag sterben."/>
+	<entry name="SystemOverloadFlavor" value="Die Krypt-Archai hatten eine Art ... universelles Sabotageprotokoll. Es ergab keinen Sinn und brachte unsere Techniker auf die Palme. Es schien bei Waffen zu funktionieren, indem es die Munition explodieren ließ, aber es konnte auch vernetzte Systeme zerstören oder die Waffen der Stimme mit ihrer eigenen Energie abwürgen. Was war das für ein Ding? Woher hatte es diese Kraft?"/>
+	<entry name="TacticalNuclearMissileFlavor" value="Es gab eine Zeit, in der das Abfeuern einer solchen Waffe undenkbar gewesen wäre. Gute Männer würden lieber sterben, als den Abzug zu betätigen. Diese Dummköpfe. Sie dachten, sie stünden am Rande der Apokalypse. Wenn das Ende der Welt bevorsteht, ist es gar nicht so schlecht, wenn man die Dinge beschleunigt."/>
+	<entry name="TakeCoverFlavor" value="Ich bin auf so vielen verschiedenen Schlachtfeldern in Deckung gegangen, dass ich einen Geschmack für verschiedene Arten von Erde bekommen habe. Frischer Ackerboden hat etwas Feuchtes an sich. Wüstensand kann dich mit dem Geschmack von Salz locken. Und Land, das von der Stimme durchdrungen war, brachte dich dazu, zu spucken, bis dein Mund trocken war."/>
+	<entry name="TameAbkluthFlavor" value="Ich war beunruhigt darüber, wie manche Menschen gelernt haben, die Abkluth zu zähmen. Wenn man diese Bestien zähmen konnte, konnte man sie auch ... domestizieren, oder? Mich schauderte bei dem Gedanken, Abkluth auf einem Bauernhof zu füttern, sie zu behandeln, wenn sie krank wurden, und darüber zu diskutieren, welches Futter sie bekommen sollten. Sie waren Ungeheuer. Ich wollte nicht, dass sie unsere Freundlichkeit zu spüren bekamen."/>
+	<entry name="TargetingRelayFlavor" value="Der Name war ironisch gemeint. Klar, wenn man sich einem Relais nähert, bekommt man bessere Zieldaten. Aber man wird dadurch auch ein größeres Ziel."/>
+	<entry name="TheDeepWaysFlavor" value="Die Jünger von Cr’la waren eifrig dabei, die Menschen auf den elenden Straßen zu führen, für die sie sich selbst verstümmelten. Ihr ruchloser Gott wusste, wie man eine wochenlange Reise auf wenige Minuten komprimiert. Man spürte jede quälende Sekunde, während man sich von Punkt A nach Punkt B bewegte."/>
+	<entry name="TheFogFlavor" value="Es war eine Todesfalle. Sie schickten uns trotzdem hinein. Obwohl wir den Nebel mit unseren Laternen durchbohrten, kroch er durch unsere Körperöffnungen und ließ unsere Eingeweide brennen. Die Acrin im Nebel verhöhnten uns aus der Ferne und lachten darüber, dass die schimmelige Luft, die sie vor Kraft glühen ließ, uns an unserer eigenen Galle ersticken ließ."/>
+	<entry name="TheOutsiderFlavor" value="Aus welchem Körper die Stimme auch immer gesprochen hat, sie hat nie einen Fuß auf die Erde gesetzt. Aber sie hatte einen Diener. Das Tribunal flüsterte uns zu, dass sie auf der anderen Seite eines dünnen Schleiers wandelte. Ich wusste, dass das Trio sie mitnehmen wollte – sie dachten, sie sei ein Geschenk für unsere Welt. Ich ... war anderer Meinung. Eindeutig."/>
+	<entry name="ThereIsHopeFlavor" value="Hoffnung. Der Romantiker hat mich nie davon überzeugt, an eine solche Torheit zu glauben. Er konnte nie eine Welt nach dem Krieg beschreiben, aber er glaubte trotzdem daran. Darin lag Stärke. Zyniker wie ich konnten nur das sehen, was direkt vor unseren Augen lag. Er lehrte seine Truppen, wie man in die Zukunft schaut."/>
+	<entry name="ThrashEmFlavor" value="Den Räubern war es egal, einen großen, gefährlichen Lastwagen mit herumwirbelnder Klaue zu fahren. Sie gingen immer ihren eigenen Weg – wild wie Monster und mörderisch wie Maschinen. Der Ödländer war wie ein lauter Hilferuf in der Nacht."/>
+	<entry name="TimeShiftFlavor" value="Ich habe es nicht oft gesehen, aber die Kraft, die die Kriteria anzapfen konnten, verzerrte die Zeit selbst. In diesen seltenen Momenten raste diese riesige Maschine mit einem gottgleichen Energiegenerator über das Land. Nichts sollte sich so schnell bewegen – ich befürchtete, dass es zu nützlich, zu effizient sein würde. Dass es einen Preis für die Verformung der Zeit selbst geben würde."/>
+	<entry name="TransubstantiationFlavor" value="„Es gibt ein Wort“, flüsterte mir die Fanatikerin ins Ohr und drückte ihr Messer gegen meine Brust. „Ein Jünger spricht im Auftrag der Stimme dieses Wort aus. Aber die Macht und Gnade gehören der Stimme …“ Ich drückte so fest ich konnte zurück. „Die Blutung und der Körper …“ Ihre Klinge schnitt in meine Haut … „Zusammen mit Konstrukt und Maschine …“ Ich sammelte meine Kräfte und stieß sie weg. Zu spät. Ihre Augen leuchteten in der Farbe meines Blutes … „Alles! Gehört der Stimme!“"/>
+	<entry name="TuneFlavor" value="Die Massenproduktion von Waffen hat leider ihre Schwachstellen. Im Einsatz konnte ein Ingenieur kurzfristige Reparaturen improvisieren, die das Gewehr wieder feuerbereit machten, als wäre es die lebende Verkörperung des Schicksals. Dann forderte die Physik ihren Tribut und man hatte nur noch austauschbaren Schrott in der Hand."/>
+	<entry name="TunnelFlavor" value="Nur der Drang, den Ruf der Stimme zu hören, konnte jede Kreatur zurück in den Dreck schicken. Kannst du dir vorstellen, wie tief die Würmer vordrangen? Wie stark der Druck der Erde auf sie war? Und dann kamen sie brüllend an die Oberfläche, ihre Eingeweide dehnten sich aus, als der Druck nachließ, und sie spuckten Säure, die einen Menschen bei lebendigem Leib verbrennen konnte ..."/>
+	<entry name="UnearthlyPassageFlavor" value="Die Kultisten der Stimme haben gelernt, wie man die Mauern zwischen den Welten durchdringt. Man wusste, dass es kommen würde, als einen ein saurer Gestank von verfaulendem Fleisch überkam und der Himmel zu flimmern begann. Eine große Klaue würde selbst die Luft durchschneiden. Es blieben einem nur wenige Augenblicke, um zu fliehen, und wenn man das leise Flüstern eines Auserwählten von Uzhodai hörte, hattest du nur noch Sekunden, bevor er dich bei lebendigem Leib zerfleischte."/>
+	<entry name="UnholyHasteFlavor" value="Cr’la hielt nicht viel von „Ruhe“. Wenn seine Jünger einem befahlen, sich zu bewegen, hat man sich bewegt. Als hätte eine andere Kraft deinen Körper übernommen und dich dazu gebracht, noch einmal nach deiner Waffe zu greifen, egal wie erschöpft man war."/>
+	<entry name="UzhodaisZealFlavor" value="Der beste Weg, einen Auserwählten von Uzhodai auszuschalten, war ein Kampf eins gegen eins. Wenn wir versuchten, ihn mit zahlreichen Truppen zu übermannen, schien er nur noch gewalttätiger und widerstandsfähiger gegen unsere Angriffe zu werden. Die Kreatur schien sich von der Angst der Menschen zu ernähren, aber wenn man ihr mutig entgegentrat, verwelkte sie unter deiner Klinge."/>
+	<entry name="ValhallaFlavor" value="Wenn Soldaten in der Nähe der Walküren starben, verbanden sie sich mit etwas ... mit einer dünner werdenden Präsenz zwischen unserer Welt und ... einer anderen. Vielleicht mit der nächsten. Sie schöpften Kraft aus dieser Stärke – unsere Wissenschaftler vermuteten, dass es sich um eine Art Euphoriezustand handelte. Aber wenn du gesehen hättest, wie sie unter dem Einfluss dieser Verbindung gekämpft haben, würdest du auch an ein Leben nach dem Tod glauben."/>
+	<entry name="VorodaisGiftFlavor" value="Wenn du dich in der Nähe des Käfigs eines Leviathans aufhältst, wirst du Gemurmel hören – auch wenn sonst niemand dort ist. Die Kultisten glauben, es sei Vorodai, eine Inkarnation der Stimme, die versucht, in unsere Welt einzudringen. Sie fordern dich auf, schneller vorzugehen, schneller zu töten, mehr Seelen in Umlauf zu bringen ... mehr Fleisch zur Verfügung zu haben. Um Monster zu gebären, die den Leviathan wie ein Haustier aussehen lassen würden."/>
+	<entry name="WhispersOfHarmonyFlavor" value="Die Stimme kannte dunkle Geheimnisse, um Fleisch und Metall neu zu binden. Diejenigen, die ihr Flüstern hörten, konnten das Beste daraus machen und denkende Kreaturen leichter unter ihren Einfluss bringen. Was will man mehr als das Versprechen, in Sicherheit zu sein? Die Stimme konnte dieses Versprechen geben – auch wenn sie wusste, dass es eine Lüge war."/>
+	<entry name="WhispersOfTheVoiceFlavor" value="Die Stimme muss sich über unsere verzweifelten Versuche, ihre Anwesenheit zu erforschen, amüsiert haben. Sie flüsterte dem Tribunal verschiedene Zukunftsszenarien zu, Möglichkeiten, die die Menschheit nicht in Betracht gezogen hatte. Vielleicht ist es das, was sie für die Acrin getan hat – vielleicht sind sie deshalb gekommen, um unsere Welt zu vernichten."/>
+	<entry name="WitheringBreathFlavor" value="Leviathane atmen Luft ein wie wir. Aber wenn sie ihre riesigen Mäuler öffnen und ausatmen – und sie atmen unglaublich langsam aus – verwüstet ihr unmenschliches Geräusch das Land um sie herum. Selbst der abscheulichste Mensch hat der Erde etwas zu bieten. Alles, was diese Biester tun, ist, unsere Luft aufzunehmen und im Gegenzug unsere Körper zu zerstören."/>
+	<entry name="WordsOfTheProphetFlavor" value="Einen Feind in einen Freund zu verwandeln ist immer ein Segen, aber der Prophet hatte ein Talent dafür, Soldaten dazu zu bringen, ihre alten Herren abzulehnen. Er wusste, dass eine solche Ablehnung eine starke Botschaft vermitteln konnte. Es ist eine Sache, wenn deine Anhänger neue Mitglieder willkommen heißen, aber es ist eine andere, wenn sie deinen Anführer loben und die alten verdammen."/>
+</language>

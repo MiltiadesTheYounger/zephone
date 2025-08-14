@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulatedGrowth" value="累积人口增长值"/>
+	<entry name="AccumulatedGrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="Accuracy" value="精准度"/>
+	<entry name="AccuracyDescription" value="每1点精准度使单位的命中率提高大约8.3%。"/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="动作点"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="动作点上限"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="动作"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="单位能够进行的动作数量。执行动作将消耗所有移动点。"/>
+	<entry name="AdditionalMembersHit" value="以一半的精准度攻击单位中的额外成员"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Algae" value="菌藻"/>
+	<entry name="AlgaeDescription" value="用于生产与维护秘音单位"/>
+	<entry name="AlgaeIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeCost" value="菌藻费用"/>
+	<entry name="AlgaeCostDescription" value="生产单位或建筑需要支付的菌藻数量。"/>
+	<entry name="AlgaeCostIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeUpkeep" value="菌藻维护费用"/>
+	<entry name="AlgaeUpkeepDescription" value="维护单位或建筑需要每回合支付的菌藻数量。"/>
+	<entry name="AlgaeUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="Antimatter" value="反物质"/>
+	<entry name="AntimatterDescription" value="用于生产与维护高级特殊单位。"/>
+	<entry name="AntimatterIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterCost" value="反物质费用"/>
+	<entry name="AntimatterCostDescription" value="生产单位或建筑需要支付的反物质数量。"/>
+	<entry name="AntimatterCostIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterUpkeep" value="反物质反维护费用"/>
+	<entry name="AntimatterUpkeepDescription" value="维护单位或建筑需要每回合支付的反物质数量。"/>
+	<entry name="AntimatterUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="Armor" value="护甲"/>
+	<entry name="ArmorDescription" value="降低承受的武器与技能<icon height='20' texture='Icons/Attributes/Damage'/>伤害。<string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="ArmorDescription/Reduction" value="每1点护甲使单位承受的伤害减少大约8.3%（至多减少83%），武器与技能的穿甲数值会使其无视对应的护甲点数。"/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="护甲伤害减免"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ArmorPenetration" value="穿甲"/>
+	<entry name="ArmorPenetrationDescription" value="单位使用此武器攻击目标时无视的护甲点数。"/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="攻击次数"/>
+	<entry name="AttacksDescription" value="单位使用此武器攻击目标时进行的攻击次数。"/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMember" value="攻击次数（每个额外目标队伍成员）"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="BuildingSlots" value="建筑槽位"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="BlockSight" value="非相邻地块的视野"/>
+	<entry name="BlockSight+" value="阻挡"/>
+	<entry name="CanBeShaken" value="动摇"/>
+	<entry name="CanBeShaken+" value="可以"/>
+	<entry name="CanBeShaken-" value="不可以"/>
+	<entry name="CanBeShakenIcon" value="<icon height='20' texture='Icons/Traits/Shaken'/>"/>
+	<entry name="CanCaptureOutposts" value="占领前哨站"/>
+	<entry name="CanCaptureOutposts+" value="允许"/>
+	<entry name="CanCaptureOutposts-" value="不允许"/>
+	<entry name="CanCaptureOutpostsIcon" value="<icon height='20' texture='Icons/Traits/Outpost'/>"/>
+	<entry name="CanEnemyOverwatch" value="对该单位进行监视攻击"/>
+	<entry name="CanEnemyOverwatch-" value="阻止"/>
+	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="未拥有完整移动点时能够被动治疗"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="允许"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="不允许"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="CanOverwatch" value="监视攻击"/>
+	<entry name="CanOverwatch+" value="允许"/>
+	<entry name="CanOverwatch-" value="不允许"/>
+	<entry name="CanOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CargoSlots" value="运输槽位"/>
+	<entry name="CargoSlotsDescription" value="该单位能够运输的非大型单位数量。"/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="需要运输槽位"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="Charges" value="次数"/>
+	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
+	<entry name="Chips" value="芯片"/>
+	<entry name="ChipsDescription" value="用于生产与维护赛博单位。"/>
+	<entry name="ChipsIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsCost" value="芯片费用"/>
+	<entry name="ChipsCostDescription" value="生产单位或建筑需要支付的芯片数量。"/>
+	<entry name="ChipsCostIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsUpkeep" value="芯片维护费用"/>
+	<entry name="ChipsUpkeepDescription" value="维护单位或建筑需要每回合支付的芯片数量。"/>
+	<entry name="ChipsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="CityDamageReduction" value="城市伤害减免"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityLoyaltyUpkeep" value="城市忠诚度维护费用"/>
+	<entry name="ConcordatBuyCost" value="协调者购买费用"/>
+	<entry name="ConsumedActionPoints" value="动作点消耗"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="移动点消耗"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="冷却"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="CoverDamageReduction" value="掩体伤害减免"/>
+	<entry name="CoverDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Damage" value="伤害"/>
+	<entry name="DamageDescription" value="武器每次攻击一个敌方单位时造成的伤害。<string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="DamageDescription/Reductions" value="实际伤害无法超过目标敌方单位中的单独成员生命值上限，并且还会进一步受到精准度、目标的护甲以及伤害减免数值的影响。"/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="承受伤害"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="死亡经验值"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="死亡士气影响"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="DimensionalEchoes" value="位面回响"/>
+	<entry name="DimensionalEchoesDescription" value="用于生产与维护高级秘音单位。"/>
+	<entry name="DimensionalEchoesIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesCost" value="位面回响费用"/>
+	<entry name="DimensionalEchoesCostDescription" value="生产单位或建筑需要支付的位面回响数量。"/>
+	<entry name="DimensionalEchoesCostIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesUpkeep" value="位面回响维护费用"/>
+	<entry name="DimensionalEchoesUpkeepDescription" value="维护单位或建筑需要每回合支付的位面回响数量。"/>
+	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DuplicateTypeCost" value="复制类型费用"/>
+	<entry name="Energy" value="能源"/>
+	<entry name="EnergyDescription" value="用于维护建筑，以及生产与维护特殊单位。"/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="能源费用"/>
+	<entry name="EnergyCostDescription" value="生产单位或建筑需要支付的能源数量。"/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyUpkeep" value="能源维护费用"/>
+	<entry name="EnergyUpkeepDescription" value="维护单位或建筑需要每回合支付的能源数量。"/>
+	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EvasionDamageReduction" value="闪避伤害减免"/>
+	<entry name="EvasionDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Experience" value="经验值"/>
+	<entry name="ExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="ExperienceGainRate" value="经验值获取率"/>
+	<entry name="FlatResourcesFromOutposts" value="前哨站资源产出基数"/>
+	<entry name="Food" value="食物"/>
+	<entry name="FoodDescription" value="用于维持城市人口，以及生产与维护绝大多数人类与秘音单位。"/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="食物费用"/>
+	<entry name="FoodCostDescription" value="生产单位或建筑需要支付的食物数量。"/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodUpkeep" value="食物维护费用"/>
+	<entry name="FoodUpkeepDescription" value="维护单位或建筑需要每回合支付的食物数量。"/>
+	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="队伍规模"/>
+	<entry name="GroupSizeDescription" value="单位当前存活的成员数量与成员总数。<string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="GroupSizeDescription/Change" value="损失以及恢复生命值时，单位也将损失&获得对应数量的成员。死亡的队伍成员无法造成任何伤害，因此减员会导致单位的总伤害输出下降。"/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="GroupSizeMax" value="队伍规模上限"/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Growth" value="增长"/>
+	<entry name="GrowthDescription" value="城市人口的增长速度。<string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="GrowthDescription/Decrease" value="如果存在食物或住宅短缺的情况，城市的人口增长速度将大幅下降。"/>
+	<entry name="GrowthDescription/Increase" value="当城市积累了足够多的增长值后，城市的人口将加一。<string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HealingRate" value="治疗率"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="HealingReceived" value="获得治疗"/>
+	<entry name="Hitpoints" value="生命值"/>
+	<entry name="HitpointsDescription" value="单位在彻底死亡前能够承受的<icon height='20' texture='Icons/Attributes/Damage'/>伤害量。<string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="HitpointsDescription/Healing" value="在没有承受伤害，且拥有完整的移动点与动作点的情况下，单位将在下一回合自动治疗。"/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFromMax" value="生命值"/>
+	<entry name="HitpointsFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="生命值上限"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="IgnoreLineOfSight" value="视野"/>
+	<entry name="IgnoreLineOfSight+" value="无视"/>
+	<entry name="IgnoreZoneOfControl" value="穿越敌方单位"/>
+	<entry name="IgnoreZoneOfControl+" value="允许"/>
+	<entry name="Influence" value="影响力"/>
+	<entry name="InfluenceDescription" value="用于获取与维护城市地块、发动特殊技能、招募以及维护英雄单位，除此以外还能够用于购买物品与资源。"/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="影响力费用"/>
+	<entry name="InfluenceCostDescription" value="生产单位或建筑需要支付的影响力数量。"/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCostFromExperience" value="影响力费用"/>
+	<entry name="InfluenceCostFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerAlliance" value="联盟影响力（联盟双方）"/>
+	<entry name="InfluencePerPopulation" value="联盟影响力（人口）"/>
+	<entry name="InfluencePerTradeAgreement" value="贸易协定影响力（双方）"/>
+	<entry name="InfluenceUpkeep" value="影响力维护费用"/>
+	<entry name="InfluenceUpkeepDescription" value="维护单位或建筑需要每回合支付的影响力数量。"/>
+	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="无敌伤害减免"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="物品槽位"/>
+	<entry name="ItemSlotsDescription" value="该单位能够装备的物品总数。"/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="等级"/>
+	<entry name="LevelDescription" value="单位的经验值等级。<string name='Attributes/LevelDescription/Effect'/><br/><br/><string name='Attributes/LevelDescription/Death'/><string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="LevelDescription/Effect" value="从1级开始，单位每提升1级就能够提高5%的<icon height='20' texture='Icons/Attributes/Hitpoints'/>生命值与<icon height='20' texture='Icons/Attributes/Damage'/>伤害，除此以外<icon height='20' texture='Icons/Attributes/Morale'/>士气也将提升10%。"/>
+	<entry name="LevelDescription/Death" value="当一个单位死亡时，攻击者与距离死亡单位3格范围内的所有友军单位都将获得经验值；无论距离远近，攻击者总是会获得经验值。"/>
+	<entry name="LevelDescription/DeathNoAttacker" value="如果单位并非因遭受其他单位攻击而死亡，则距离其3格范围内的所有敌方单位都将获得经验值。"/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="最高等级"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="窃取生命力"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFromDamage" value="窃取生命力"/>
+	<entry name="LifeStealFromDamageIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="忠诚度"/>
+	<entry name="LoyaltyDescription" value="城市人口对于你的事业的支持程度。<string name='Attributes/LoyaltyDescription/Effect'/><string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="LoyaltyDescription/Effect" value="每1点忠诚度使城市的资源总产出提高%，而每1点负忠诚度则会使城市的资源总产出降低2%（最高-50%）。"/>
+	<entry name="LoyaltyDescription/CityPenalty" value="建造首座城市后，后续每次新建城市都将使所有城市的忠诚度降低6点。"/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyUpkeep" value="忠诚度维护费用"/>
+	<entry name="LoyaltyUpkeepDescription" value="维护单位或建筑需要每回合支付的忠诚度数量。"/>
+	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MaximumHitpointsPerGroupMember" value="队伍成员生命值上限（个体）"/>
+	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Morale" value="士气"/>
+	<entry name="MoraleDescription" value="单位的心理状态。<string name='Attributes/MoraleDescription/Regeneration'/><string name='Attributes/MoraleDescription/Shaken'/><string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="MoraleDescription/Regeneration" value="只要没有承受伤害，单位将在下一回合恢复士气。"/>
+	<entry name="MoraleDescription/Shaken" value="如果士气低于66%，单位将进入<icon height='20' texture='Icons/Traits/Shaken'/>动摇状态，这将使单位造成的伤害减少17%，并使其承受的伤害提高17%。"/>
+	<entry name="MoraleDescription/Broken" value="如果士气低于33%，单位将进入<icon height='20' texture='Icons/Traits/Broken'/>崩溃状态，这将使单位造成的伤害减少33%，并使其承受的伤害提高33%。"/>
+	<entry name="MoraleDescription/Death" value="当一个单位死亡时，位于死亡单位与进攻者3格范围内的所有单位都将受到士气影响，死亡单位的友军将根据死亡单位的经验值承受士气打击。与此同时，受影响范围内的进攻方友军则会获得士气提升。"/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLoss" value="士气损失"/>
+	<entry name="MoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleRegeneration" value="士气恢复"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="士气上限"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="移动"/>
+	<entry name="MovementDescription" value="单位在一回合内能够移动的地块数量。穿越崎岖复杂的地形需要消耗额外的移动点。经过与敌人相邻的地块时，单位将立即结束移动。"/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementCost" value="移动点消耗"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="移动点上限"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Minerals" value="矿物"/>
+	<entry name="MineralsDescription" value="用于建造建筑，以及生产与维护绝大多数人类与赛博单位。"/>
+	<entry name="MineralsIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsCost" value="矿物费用"/>
+	<entry name="MineralsCostDescription" value="生产单位或建筑需要支付的矿物数量。"/>
+	<entry name="MineralsCostIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsUpkeep" value="矿物维护费用"/>
+	<entry name="MineralsUpkeepDescription" value="维护单位或建筑需要每回合支付的矿物数量。"/>
+	<entry name="MineralsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="PerHeroCost" value="每个英雄单位的费用"/>
+	<entry name="Population" value="人口"/>
+	<entry name="PopulationDescription" value="用于维持城市中的建筑运作每1座启用的建筑都需要1个人口来维持运作。如果当前人口无法满足需求，建筑的产出将下降。"/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationCost" value="人口费用"/>
+	<entry name="PopulationCostDescription" value="执行此动作需要消耗的人口数量。"/>
+	<entry name="PopulationCostIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationFoodUpkeep" value="人口食物维护费用"/>
+	<entry name="PopulationInfluenceUpkeep" value="人口影响力维护费用"/>
+	<entry name="PopulationLimit" value="住宅"/>
+	<entry name="PopulationLimitDescription" value="为城市中的人口准备的居住空间。"/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLoyaltyUpkeep" value="人口忠诚度维护费用"/>
+	<entry name="PopulationMineralsUpkeep" value="人口矿物维护费用"/>
+	<entry name="Production" value="生产力"/>
+	<entry name="ProductionDescription" value="建筑的生产速度。项目完成后，盈余的生产力将被保留沿用。"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionPerBuildingFromCost" value="生产力成本"/>
+	<entry name="ProductionPerBuildingFromCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="ProductionCost" value="生产力成本"/>
+	<entry name="ProductionCostDescription" value="生产项目需要支付的生产力数量。"/>
+	<entry name="ProductionCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="Radius" value="范围"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="Range" value="距离"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value="单位能够使用武器攻击或者使用技能影响目标的最远距离。除非有明确说明，否则单位只能对自身视野范围内的目标使用武器或技能。"/>
+	<entry name="RangeMax" value="最大距离"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="最小距离"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="远程精准度"/>
+	<entry name="RangedDamageReduction" value="远程伤害减免"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RequiredActionPoints" value="需要动作点"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="需要移动点"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Research" value="科研"/>
+	<entry name="ResearchDescription" value="用于探索发现新科技。完成一项发现后，盈余的科研值将被保留沿用。"/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchCost" value="科研费用"/>
+	<entry name="ResearchCostDescription" value="消耗的科研值数量。"/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromCity" value="已复制科研"/>
+	<entry name="ResearchFromCityIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillFromExperience" value="科研"/>
+	<entry name="ResearchPerKillFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchUpkeep" value="科研维护费用"/>
+	<entry name="ResearchUpkeepDescription" value="维护单位或建筑需要每回合支付的科研值数量。"/>
+	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResourcesFromCity" value="已复制资源"/>
+	<entry name="ResourcesPerKillFromCost" value="击杀获取资源"/>
+	<entry name="ResourcesPerReallocateFromCost" value="回收资源"/>
+	<entry name="DamageSelf" value="自我伤害"/>
+	<entry name="DamageSelfIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Sight" value="视线范围"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="单位能够看见的距离。<br/><br/>森林、烟雾以及悬崖之类的复杂地形会缩短视野距离。"/>
+	<entry name="SlotsRequired" value="需要槽位"/>
+	<entry name="SingularityCores" value="奇点核心"/>
+	<entry name="SingularityCoresDescription" value="用于生产与维护高级赛博单位。"/>
+	<entry name="SingularityCoresIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresCost" value="奇点核心费用"/>
+	<entry name="SingularityCoresCostDescription" value="生产单位或建筑需要支付的奇点核心数量。"/>
+	<entry name="SingularityCoresCostIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresUpkeep" value="奇点核心维护费用"/>
+	<entry name="SingularityCoresUpkeepDescription" value="维护单位或建筑需要每回合支付的奇点核心数量。"/>
+	<entry name="SingularityCoresUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="Standing" value="外交态度"/>
+	<entry name="TileAcquisitionRange" value="地块获取范围"/>
+	<entry name="TileAcquisitionRangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="TradeGain" value="贸易获益"/>
+	<entry name="Transuranium" value="超铀元素"/>
+	<entry name="TransuraniumDescription" value="用于生产与维护高级人类与赛博单位。"/>
+	<entry name="TransuraniumIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumCost" value="超铀元素费用"/>
+	<entry name="TransuraniumCostDescription" value="生产单位或建筑需要支付的超铀元素数量。"/>
+	<entry name="TransuraniumCostIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumUpkeep" value="超铀元素维护费用"/>
+	<entry name="TransuraniumUpkeepDescription" value="维护单位或建筑需要每回合支付的超铀元素数量。"/>
+	<entry name="TransuraniumUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="Turns" value="回合数"/>
+	<entry name="TurnsDescription" value="生产单位或建筑需要等待的回合数。"/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="同类型上限"/>
+	<entry name="UnitCost" value="单位费用"/>
+	<entry name="UnitUpkeep" value="单位维护费用"/>
+</language>

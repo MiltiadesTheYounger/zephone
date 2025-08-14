@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1% ha declarado la guerra a %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% ha firmado un tratado de paz con %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% ha firmado un acuerdo comercial con %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% se ha aliado con %2%."/>
+	<entry name="CityFoundedSummary" value="%1% se ha fundado."/>
+	<entry name="CityGrownSummary" value="%1% ha crecido a %2% de población."/>
+	<entry name="FactionDefeated" value="Facción derrotada"/>
+	<entry name="FactionDiscovered" value="Facción descubierta"/>
+	<entry name="FactionDiscoveredSummary" value="%1% descubierto."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1% descubierto."/>
+	<entry name="Foundations" value="Cimientos poco profundos"/>
+	<entry name="FoundationsWithMutator" value="Cimientos alterados"/>
+	<entry name="Interlude0" value="Una brizna de esperanza"/>
+	<entry name="Interlude0Info" value="Tu pueblo esperaba volver a la superficie y encontrar un mundo salvaje y desatendido, no un mundo de monstruos y máquinas viles de ZEPHON. Cada poco tiempo llegan informes de refugiados que se acercaron demasiado al territorio de los Guardas y fueron masacrados por su intrusión.<br/><br/>¿Qué hace ZEPHON ahí? Irónicamente, son los monstruos los que saben algo sobre las máquinas. Tu equipo de comunicaciones se sorprende un día al oír la voz de un líder acrin, el Anacoreta, que habla en una antigua frecuencia de radio AM.<br/><br/>Suena como un predicador cuya voz habría rondado antaño las ondas de la campiña vacía. En sus sermones, proclama que su pueblo quiere la paz. «Buscar un nuevo futuro, sin la Voz», dice. «Saber que fue la Voz la que cazó a los humanos, la que cazó a ZEPHON... y no mi pueblo».<br/><br/>A veces sus sermones se convierten en divagaciones. Habla entre dientes de fábricas misteriosas que arrojan fuego y humo por la noche. Llora a su pueblo asesinado por los Guardas que lo custodian.<br/><br/>«Querer la paz, simple paz. La paz debe iluminar la tierra como el sol que se levanta sobre un océano resplandeciente», entona el Anacoreta.<br/><br/>Escuchas su sermón, plenamente consciente de que, si la paz es un amanecer lejano, aún te queda una larga noche por delante."/>
+	<entry name="Interlude1" value="Presagios de desesperación"/>
+	<entry name="Interlude1Info" value="El Anacoreta está transmitiendo de nuevo. Suena particularmente alterado. «Llorar la pérdida de mi pueblo, masacrado por ZEPHON», declama ante un micrófono. «Oír el estruendo de las fábricas de ZEPHON rompiendo la quietud de la noche. Agonizar pensando en las armas que estará forjando en las profundidades».<br/><br/>«Las profundidades»... esa información es nueva. ZEPHON actúa como si las fábricas no existiesen. Pero si sus productos se envían a la costa, al fondo del océano... nadie podría saber qué está produciendo.<br/><br/>El Anacoreta reanuda su discurso. «Rememorar que nuestra misión en este planeta era de... genocidio», dice lentamente. «Esperar que la misión hubiese perecido junto con la flota acrin».<br/><br/>Lo que dice a continuación te pone los pelos de punta. «La flota aún permanece en la órbita. En las entrañas de sus naves yacen aletargadas criaturas horribles engendradas para la guerra».<br/><br/>¿Cómo lo sabe? Nadie debería tener acceso a la flota. La voz del Anacoreta tiembla, como si pudiese oír tus pensamientos a pesar de la distancia.<br/><br/>«Prepararnos...» dice, pero luego hace una pausa y rectifica. «Saber», continúa con tono severo, «que debemos hacer lo que sea necesario para evitar nuestro propio genocidio»."/>
+	<entry name="PlayerLost" value="¡Derrota!"/>
+	<entry name="PlayerLostSummary" value="¡%1% ha sufrido la derrota!"/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="¡Victoria!"/>
+	<entry name="PlayerWonSummary" value="¡%1% se ha hecho con la victoria!"/>
+	<entry name="ProductionCompletedSummary" value="%1% ha producido %2%."/>
+	<entry name="RegionDiscoveredSummary" value="Se ha descubierto %1%."/>
+	<entry name="ResearchCompleted" value="Investigación completada"/>
+	<entry name="ResearchCompletedSummary" value="Se ha investigado %1%."/>
+	<entry name="RewardGainedSummary" value="Se ha obtenido %2%."/>
+	<entry name="TileAcquiredSummary" value="%1% ha adquirido una casilla."/>
+	<entry name="TileCapturedSummary" value="%1% ha capturado %2%."/>
+	<entry name="TileClearedSummary" value="%1% ha despejado %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% ha atacado a %2%."/>
+	<entry name="UnitCapturedSummary" value="%1% ha capturado %2%."/>
+	<entry name="UnitDamagedSummary" value="%1% ha dañado a %2%."/>
+	<entry name="UnitKilledSummary" value="%1% ha eliminado a %2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% ha obtenido %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% se ha transformado en %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Se ha descubierto %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% ha utilizado %2% en %3%."/>
+</language>

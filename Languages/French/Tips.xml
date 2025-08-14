@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+We're only doing the absolutely necessary pop-up tips to be able to play (win introduction).
+
+Text is shortest possible. Use simple words. Short sentences. Skip flavor.
+
+Too many tips that pop-up means the player is interrupted, annoyed and stops reading all of them.
+
+We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
+-->
+<language>
+	<entry name="AcquireTile" value="Acquérir une case"/>
+	<entry name="AcquireTileDescription" value="Avant de construire d'autres bâtiments, vous devez réclamer de nouvelles cases. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Acquérir une case<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case avec 1 ou plusieurs <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>emplacements de bâtiment."/>
+	<entry name="AllianceVictory" value="Victoire d'alliance"/>
+	<entry name="AllianceVictoryDescription" value="Même si vous avez conclu une alliance avec tout le monde, pour gagner, tous vos alliés doivent aussi être alliés entre eux."/>
+	<entry name="Bleed" value="Bleed"/>
+	<entry name="BleedDescription" value="<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Le Bleed inflige des dégâts aux unités terrestres à chaque tour. N'y restez pas trop longtemps."/>
+	<entry name="Camera" value="Caméra"/>
+	<entry name="CameraDescription" value="Bienvenue sur la Terre post-apocalyptique. Pour déplacer la caméra, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>cliquez sur le terrain et déplacez votre souris."/>
+	<entry name="CloseQuartersFire" value="Feu à bout portant"/>
+	<entry name="CloseQuartersFireDescription" value="Les militants ont une arme avec <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Feu à bout portant et infligent deux fois plus de dégâts avec 1 de portée. Réfléchissez à votre position avant d'attaquer."/>
+	<entry name="Combat" value="Combat"/>
+	<entry name="CombatDescription" value="Le calcul des dégâts infligés prend en compte les dégâts de l'arme, la précision, le nombre d'attaques et la pénétration d'armure, mais les dégâts de l'arme sont d'abord plafonnés par les PV d'un seul membre du groupe cible."/>
+	<entry name="CombatAdvanced" value="Combat (avancé)"/>
+	<entry name="CombatAdvancedDescription" value="Il y a quelques concepts importants à comprendre concernant le calcul des dégâts.<br/><br/>Chaque unité est composée d'un certain nombre de membres identiques, le total de PV de l'unité étant le total des PV de chaque membre. Quand une unité perd des PV équivalents à ceux d'un membre, celui-ci meurt et ne peut donc plus attaquer, ce qui réduit les dégâts infligés selon la fraction qu'un membre représente. Soigner l'unité ramène à la vie le membre et rétablit donc son attaque. Les unités avec 1<nbsp/>seul membre (les unités de grande taille notamment) sont endommagées quand elles tombent sous 50<nbsp/>% de PV, ce qui réduit leur précision de 33<nbsp/>%.<br/><br/>Pour calculer le total de dégâts infligés par une arme, la valeur de dégâts de cette arme est d'abord plafonnée par les PV d'un membre de l'unité visée. Autrement dit, une seule attaque d'une arme ne peut jamais infliger plus de dégâts que les PV d'un membre de l'unité visée. Par exemple, une arme infligeant 6<nbsp/>dégâts contre un groupe de Militants ayant 2<nbsp/>PV chacun ne peut jamais infliger plus de 2<nbsp/>dégâts. Pour les unités d'un seul membre, cette règle ne s'applique pas puisque le total de PV de l'unité est égal aux PV de son seul membre.<br/><br/>Après le plafond de PV, la valeur de dégâts est multipliée par le nombre d'attaques, la précision et le blindage de la cible ainsi que toute autre réduction de dégâts.<br/><br/>Les attaques correspondent au nombre d'attaques qu'une arme inflige à sa cible lorsque l'unité attaque. C'est la stat la plus précieuse à augmenter, car elle module les dégâts après le plafond de PV. Et contrairement à la précision, elle n'a pas de maximum.<br/><br/>La précision peut aller de 2 à 12, où chaque point vaut 1/12e (soit 0,083). Cette valeur est appliquée comme multiplicateur dans le calcul du total de dégâts. Elle ne peut pas être réduite à moins de 2 ni augmentée à plus de 12.<br/><br/>Le blindage et autres réductions de dégâts (couverture, esquive, ville, invulnérable) du même type sont additionnés puis multiplient à la baisse les dégâts selon leur facteur correspondant. Aucune de ces valeurs individuelles ne peut toutefois réduire les dégâts de plus de 10/12e (soit 83<nbsp/>%). La pénétration de blindage indique le nombre de points de blindage ignorés. Sauf indication contraire, toutes les réductions de dégâts s'appliquent aux armes de CàC comme de tir.<br/><br/>Les traits s'ajoutent à ce calcul et utilisent ces concepts élémentaires. Ainsi, les armes avec le trait Attaque de zone gagnent des attaques supplémentaires pour chaque membre vivant en plus dans le groupe visé<nbsp/>; de même, les armes avec le trait Ignore la couverture passent outre la réduction de dégâts due à la couverture de l'unité visée.<br/><br/>Quelques conséquences à tirer de tout cela<nbsp/>:<br/><icon texture='GUI/Bullet'/>Augmenter les dégâts d'une arme peut ne pas augmenter les dégâts infligés.<br/><icon texture='GUI/Bullet'/>Les fantassins sont plus endurants que leurs PV ne l'indiquent. Les armes puissantes à attaque unique sans attaque de zone ne peuvent pas tuer plus de 1<nbsp/>membre de l'unité, et encore, à condition d'avoir 100<nbsp/>% de précision si le membre est au maximum de PV (puisque le multiplicateur de précision s'applique APRÈS le plafond de PV).<br/><icon texture='GUI/Bullet'/>Pour tuer des fantassins, mieux vaut avoir des armes très précises à attaques multiples ou de zone.<br/><icon texture='GUI/Bullet'/>Les gains de PV dus aux montées de niveaux sont moins utiles pour les membres d'unités à faibles PV<nbsp/>: l'augmentation des PV est contrebalancée par l'augmentation du plafond de PV des membres du groupe, ce qui la rend inutile face aux armes qui dépassent déjà le plafond.<br/><icon texture='GUI/Bullet'/>Les soins sont plus utiles pour les fantassins.<br/><icon texture='GUI/Bullet'/>À montant égal, une modification de précision se ressent plus si la précision est faible que si elle est élevée. Par exemple, augmenter la précision de 6 à 8 (de 50<nbsp/>% à 67<nbsp/>%) augmente les dégâts de 33<nbsp/>%. Par comparaison, augmenter la précision de 8 à 10 (de 67<nbsp/>% à 83<nbsp/>%) n'augmente les dégâts que de 25<nbsp/>%.<br/><icon texture='GUI/Bullet'/>Plus vous avez de réductions de dégâts de même type, plus c'est avantageux. Par exemple, augmenter le blindage de 0 à 1 ne donne que (12-0)/(12-1)=+9<nbsp/>% de chances de survie. En revanche, augmenter le blindage de 9 à 10 donne (12-9)/(12-10)=+50<nbsp/>% de chances de survie."/>
+	<entry name="ConstructInfantryBuilding" value="Construire des casernes"/>
+	<entry name="ConstructInfantryBuildingDescription" value="Construisez des bâtiments de production d'unités pour renforcer votre présence balbutiante. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Caserne<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case valide pour y commencer la construction."/>
+	<entry name="Cover" value="Couverture"/>
+	<entry name="CoverDescription" value="Les <icon height='20' texture='Icons/Features/Forest'/><nbsp/>forêts, les <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruines, les <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>avant-postes et les <icon height='20' texture='Icons/Features/City'/><nbsp/>villes accordent une réduction des dégâts à distance aux unités de taille normale. Mettez-vous à l'abri quand vous le pouvez."/>
+	<entry name="EnemyInCity" value="Ennemi dans la ville"/>
+	<entry name="EnemyInCityDescription" value="Les unités ennemies neutralisent les bâtiments et avant-postes, et empêchent de construire de nouveaux bâtiments sur la case qu'elles occupent."/>
+	<entry name="EquipItem" value="Équiper un objet"/>
+	<entry name="EquipItemDescription" value="<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>Cliquez sur un objet pour l'équiper sur votre héros. Les objets nouvellement équipés ont un délai d'un tour avant d'être utilisables."/>
+	<entry name="FoundCity" value="Fonder une ville"/>
+	<entry name="FoundCityDescription" value="Pour fonder votre première ville, cliquez sur «<nbsp/><icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Fonder une ville<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case."/>
+	<entry name="HabitationBlocks" value="Blocs d'habitation"/>
+	<entry name="HabitationBlocksDescription" value="Chaque bâtiment, à l'exception du quartier général, nécessite 1<nbsp/><icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population pour fonctionner. Il est essentiel de rechercher et de construire des <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>blocs d'habitation pour augmenter le <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>logement (limite de population) de votre ville."/>
+	<entry name="Healing" value="Guérison"/>
+	<entry name="HealingDescription" value="L'unité a subi des dégâts importants. Pour guérir, elle doit rester immobile et ne pas participer au combat. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Tenir jusqu'à guérison<nbsp/>» pour attendre qu'elle soit à nouveau en pleine possession de ses moyens. Envisagez de battre en retraite vers une case de ville ou d'avant-poste allié, qui accélérera la guérison."/>
+	<entry name="Housing" value="Logement"/>
+	<entry name="HousingDescription" value="Les <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>logements de la ville sont pleins. Construisez des <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>blocs d'habitation pour augmenter la quantité d'espace habitable et permettre à votre population de croître à nouveau."/>
+	<entry name="Loyalty" value="Loyauté"/>
+	<entry name="LoyaltyDescription" value="Une loyauté négative diminue la production de ressources de la ville. Effectuez des recherches et construisez un <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>holocinéma pour que votre population continue à travailler efficacement."/>
+	<entry name="MarkTiles" value="Marquer les cases"/>
+	<entry name="MarkTilesDescription" value="<string name='Tips/Loading/54'/>"/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="La perte d'alliés proches a entamé le <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>moral de l'unité, ce qui réduira ses performances au combat. Pour récupérer, maintenez-la en dehors du combat ou tuez des unités ennemies."/>
+	<entry name="Movement" value="Déplacement"/>
+	<entry name="MovementDescription" value="Déplacez l'unité en appuyant sur <icon height='20' texture='Icons/RightMouseButton'/>. Chaque unité ne peut se déplacer qu'une seule fois par tour."/>
+	<entry name="NPCs" value="PNJ"/>
+	<entry name="NPCsDescription" value="Trois leaders non joueurs se battent également pour la suprématie<nbsp/>: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>l'Anachorète, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>la Cheftaine et <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. La paix avec eux vous permet de demander leur soutien. Une bonne réputation peut débloquer des choix supplémentaires dans les quêtes."/>
+	<entry name="Population" value="Population"/>
+	<entry name="PopulationDescription" value="La ville n'a pas assez de <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population pour faire fonctionner tous les bâtiments à plein rendement. Vous pouvez cliquer sur <icon height='20' texture='Icons/DisableBuilding'/> pour désactiver un bâtiment."/>
+	<entry name="ProduceUnits" value="Produire des unités"/>
+	<entry name="ProduceUnitsDescription" value="Commencez la production de <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militants dans la caserne. Les autres bâtiments peuvent continuer à produire en même temps. Si vous construisez plus de casernes, les unités termineront leur formation plus rapidement."/>
+	<entry name="Recon" value="Reconnaissance"/>
+	<entry name="ReconDescription" value="De nombreuses unités ont des capacités activables. Les Outriders peuvent révéler leur environnement grâce à la capacité <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Reconnaissance."/>
+	<entry name="Research" value="Recherches"/>
+	<entry name="ResearchDescription" value="Il est judicieux de commencer par rechercher un héros, que vous pourrez ensuite produire au quartier général. Attention, changer la recherche en cours perd toute la progression partielle."/>
+	<entry name="TheConcordat" value="Le Concordat"/>
+	<entry name="TheConcordatDescription" value="Vous pouvez acheter et vendre des ressources et des objets de héros à tout moment auprès du <icon height='20' texture='Icons/Shop'/><nbsp/>Concordat."/>
+	<entry name="Transports" value="Transports"/>
+	<entry name="TransportsDescription" value="Les transports peuvent embarquer des unités de taille normale en tant que cargaison. Pour embarquer, <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>déplacez-vous sur la case du transport. Les unités embarquées se soignent à l'intérieur, mais si le véhicule est détruit, sa cargaison meurt avec lui."/>
+	<entry name="Selection" value="Sélection"/>
+	<entry name="SelectionDescription" value="<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>Cliquez sur une unité pour la sélectionner."/>
+	<entry name="Winning" value="Victoire"/>
+	<entry name="WinningDescription" value="Pour gagner, battez tous les joueurs ou réunissez-les tous sous une même alliance."/>
+	<!-- Meat Harvest/player ability usage. -->
+	<!-- Dremeater in sight. Maybe fancier trigger condition, -->	
+	<!-- <entry name="Dreameaters" value="Dreameaters"/>
+	<entry name="DreameatersDescription" value="It would be wise to gather a sizable force before engaging this horror."/> -->
+
+	<entry name="Loading" value="Conseils de l'écran de chargement"/>
+	<entry name="Loading/0" value="Le Bleed et le feu arrêtent les unités terrestres et les endommagent."/>
+	<entry name="Loading/1" value="Les rivières, les forêts et les ruines réduisent le déplacement des unités terrestres."/>
+	<entry name="Loading/2" value="<string name='Tips/CoverDescription'/>"/>
+	<entry name="Loading/3" value="Les routes augmentent le déplacement des unités terrestres."/>
+	<entry name="Loading/4" value="<string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="Loading/5" value="Les unités se soignent plus rapidement dans les avant-postes et les villes."/>
+	<entry name="Loading/6" value="<string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="Loading/7" value="<string name='Attributes/AccuracyDescription'/>"/>
+	<entry name="Loading/8" value="<string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="Loading/9" value="<string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="Loading/10" value="<string name='Attributes/LevelDescription/Death'/>"/>
+	<entry name="Loading/11" value="<string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="Loading/12" value="<string name='Attributes/LevelDescription/Effect'/>"/>
+	<entry name="Loading/13" value="<string name='Attributes/MoraleDescription/Regeneration'/>"/>
+	<entry name="Loading/14" value="<string name='Attributes/MoraleDescription/Shaken'/>"/>
+	<entry name="Loading/15" value="<string name='Attributes/MoraleDescription/Broken'/>"/>
+	<entry name="Loading/16" value="<string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="Loading/17" value="Les défenses de la ville sont affectées par les bonus, les malus et le moral."/>
+	<entry name="Loading/18" value="En tuant des abkhans, vous recevrez en récompense des ressources et un objet."/>
+	<entry name="Loading/19" value="Les unités neutres ne poursuivent pas tant qu'elles ne sont pas attaquées."/>
+	<entry name="Loading/20" value="La production d'un deuxième héros coûte deux fois plus cher."/>
+	<entry name="Loading/21" value="L'altitude et les caractéristiques des cases affectent la vision et la portée des unités."/>
+	<entry name="Loading/22" value="Abaisser le moral des ennemis a un effet dévastateur et peut vous permettre de gagner des batailles que vous croyiez impossibles."/>
+	<entry name="Loading/23" value="<string name='Tips/TheConcordatDescription'/>"/>
+	<entry name="Loading/24" value="Le fait de manquer d'une ressource réduit la production des bâtiments qui en ont besoin."/>
+	<entry name="Loading/25" value="En cas de pénurie de ressources, les unités sont sous-approvisionnées et subissent des pénalités de précision."/>
+	<entry name="Loading/26" value="Plus une unité est sous-approvisionnée longtemps, plus sa pénalité de précision est élevée."/>
+	<entry name="Loading/27" value="L'acquisition d'une case d'avant-poste avec une ville accorde des bonus de pourcentage à l'ensemble de la ville."/>
+	<entry name="Loading/28" value="La construction de plusieurs bâtiments du même type augmente leur vitesse de production."/>
+	<entry name="Loading/29" value="Les surplus de production et de recherche sont reportés à l'élément suivant."/>
+	<entry name="Loading/30" value="<string name='Tips/HabitationBlocksDescription'/>"/>
+	<entry name="Loading/31" value="La population ne peut augmenter que dans la limite de vos logements disponibles."/>
+	<entry name="Loading/32" value="<string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="Loading/33" value="<string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="Loading/34" value="En cas de pénurie de population, tout le monde est réparti à parts égales dans tous les bâtiments, ce qui réduit d'autant leur production."/>
+	<entry name="Loading/35" value="<string name='Attributes/LoyaltyDescription/Effect'/>"/>
+	<entry name="Loading/36" value="<string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="Loading/37" value="Influence<nbsp/>: <string name='Attributes/InfluenceDescription'/>"/>
+	<entry name="Loading/38" value="Cliquez sur [<control name='ToggleYieldOverlay'/>] pour afficher les informations sur toutes les cases."/>
+	<entry name="Loading/39" value="Vous pouvez [<control name='ToggleBuildingPower'/>] à volonté les icônes des bâtiments sur les cases, ce qui libère la population et les ressources requises par le bâtiment."/>
+	<entry name="Loading/40" value="Cliquez sur [<control name='DismantleBuilding'/>] en sélectionnant l'icône d'un bâtiment sur une case afin de le démolir."/>
+	<entry name="Loading/41" value="Les villes endommagées ont des pénalités de production des ressources jusqu'à ce qu'elles soient réparées."/>
+	<entry name="Loading/42" value="Les ressources sont accumulées et partagées dans l'ensemble de votre économie, ce qui vous permet de spécialiser les villes et de faire des réserves pour les temps de guerre."/>
+	<entry name="Loading/43" value="<string name='Tips/WinningDescription'/>"/>
+	<entry name="Loading/44" value="Fortifications, unités aériennes et Titans sont plus élevés et donc plus faciles à viser."/>
+	<entry name="Loading/45" value="La recherche d'une technologie qui n'est pas de votre domaine d'affinité peut fournir des synergies uniques."/>
+	<entry name="Loading/46" value="Chaque case a un bonus de ressources augmentant la production des bâtiments qui s'y trouvent."/>
+	<entry name="Loading/47" value="Les unités qui ont des actions restantes sont identifiées par une <icon texture='Icons/Attributes/Actions'/><nbsp/>icône visible."/>
+	<entry name="Loading/48" value="Les unités neutres en laisse peuvent vous attaquer à leur tour si vous êtes à portée d'attaque."/>
+	<entry name="Loading/49" value="Même les unités neutres en laisse surveillent toute unité qui entre dans leur portée d'attaque."/>
+	<entry name="Loading/50" value="Envisagez de désactiver la surveillance pour ne pas annuler la laisse des unités neutres quand vous attaquez."/>
+	<entry name="Loading/51" value="Les dégâts infligés en une seule attaque armée sont plafonnés par les points de vie du membre de l'escouade ciblé, puis réduits par la précision de l'arme."/>
+	<entry name="Loading/52" value="Les attaques de zone touchent jusqu'à 2<nbsp/>membres supplémentaires de l'escouade et infligent trois fois plus de dégâts que contre un seul membre."/>
+	<entry name="Loading/53" value="Les grandes unités perdent 33<nbsp/>% de précision lorsqu'elles ont moins de la moitié de leurs PV."/>
+	<entry name="Loading/54" value="Cliquez sur [<control name='MarkTile'/>] afin de marquer les cases pour vos alliés et vous-même. Les alliés IA auront tendance à déplacer leurs unités vers vos marqueurs."/>
+	<entry name="Loading/55" value="<string name='Tips/AllianceVictoryDescription'/>"/>
+	<entry name="Loading/56" value="Les effets «<nbsp/>à chaque tour<nbsp/>» comme «<nbsp/>En feu<nbsp/>» se déclenchent au début du tour du joueur source."/>
+	<entry name="Loading/57" value="Les unités peuvent voir à 3<nbsp/>cases de distance."/>
+	<entry name="Loading/58" value="Les avant-postes et les villes permettent de voir les cases adjacentes."/>
+	<entry name="Loading/59" value="La dernière coordonnée de la case est sa hauteur (x, y, hauteur)."/>
+	<entry name="Loading/60" value="Déplacez les éléments vers des héros alliés adjacents en les faisant glisser depuis l'inventaire."/>
+	<entry name="Loading/61" value="[<control name='OrderAllIdleUnits'/>] pour donner un ordre à toutes les unités inactives."/>
+	<entry name="Loading/62" value="[<control name='OrderAllUnits'/>] pour donner un ordre à toutes les unités."/>
+	<entry name="Loading/63" value="[<control name='OrderAreaUnits'/>] pour donner un ordre à toutes les unités de la zone (3 de rayon)."/>
+	<entry name="Loading/64" value="Déplacez les unités sur de grandes distances en faisant un clic droit sur la minicarte."/>
+	<entry name="Loading/65" value="<string name='Tips/CombatDescription'/>"/>
+	<entry name="Loading/66" value="Le Bleed, les forêts, les ruines, les volcans et les bâtiments urbains gênent la vision des unités."/>
+	<entry name="Loading/67" value="<string name='Tips/EnemyInCityDescription'/>"/>
+	<entry name="Loading/Count" value="68"/>
+</language>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+We're only doing the absolutely necessary pop-up tips to be able to play (win introduction).
+
+Text is shortest possible. Use simple words. Short sentences. Skip flavor.
+
+Too many tips that pop-up means the player is interrupted, annoyed and stops reading all of them.
+
+We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
+-->
+<language>
+	<entry name="AcquireTile" value="获取地块"/>
+	<entry name="AcquireTileDescription" value="你需要占领新的地块才能够建造更多建筑。点击“<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>获取地块“，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择至少拥有1个<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>建筑槽位的地块。"/>
+	<entry name="AllianceVictory" value="联盟胜利"/>
+	<entry name="AllianceVictoryDescription" value="光是你自己与其他派系结盟还不够，必须确保你的盟友之间同样处于结盟状态，你才能够赢得联盟胜利。"/>
+	<entry name="Bleed" value="异血"/>
+	<entry name="BleedDescription" value="停留在<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>异血上的单位将每回合承受伤害。尽可能避免在这种地形中长时间停留。"/>
+	<entry name="Camera" value="镜头控制"/>
+	<entry name="CameraDescription" value="欢迎来到后末日时代的地球。如果要移动镜头，<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>点击任意地形并拖动鼠标。"/>
+	<entry name="CloseQuartersFire" value="近距离交火"/>
+	<entry name="CloseQuartersFireDescription" value="义勇军使用的武器拥有<icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>近距离交火特性，能够对1格范围内的敌人造成双倍打击。尽可能在发起攻击前找到最有利的位置。"/>
+	<entry name="Combat" value="战斗"/>
+	<entry name="CombatDescription" value="武器伤害、精准度、攻击次数以及穿甲效率都是计算最终伤害数值的影响因素，但是要注意一点：武器在攻击时的最大伤害无法超过目标队伍（单位）中的单独成员的最大生命值。"/>
+	<entry name="CombatAdvanced" value="战斗（进阶）"/>
+	<entry name="CombatAdvancedDescription" value="计算伤害时存在多个重要的核心概念。<br/><br/>每个单位都是由完全相同的一个/多个成员构成，单位的总生命值等于所有成员的生命值的总和。当单位承受的实际伤害等同于一个成员的生命值上限，单位将会损失一名成员，死亡成员无法在进攻时贡献伤害，换言之承受减员的单位只能造成更少的伤害。治疗单位将复活死亡的成员，从而恢复单位的战斗力。对于类似大型单位这种由单个成员构成的单位，当生命值低于50%时，他们将陷入“受损”状态，并且精准度将下降33%。<br/><br/>计算武器的最终伤害时，武器伤害值无法超过目标队伍（单位）中的单独成员的最大生命值。这意味着单独武器的单次攻击伤害*无法超过*目标队伍（单位）中单独成员的最大生命值。举例来说，如果1把6点伤害的武器对一个“义勇军”单位发动攻击，因为义勇军的单独成员的生命值为2点，因此武器能够造成的最大伤害也是2点。对于类型大型单位这种由单个成员构成的单位不会受到这种机制的影响，因为他们的总生命值等于队伍成员的生命值。<br/><br/>对于超出单独成员生命值上限的伤害，攻击次数、精准度、目标护甲以及其他伤害减免属性将相互乘算。<br/><br/>攻击次数决定了单位在进攻时，其使用的武器对目标发动的攻击次数。这是最有提升价值的进攻属性，因为攻击次数能够使超出生命值上限的伤害成倍增长。而且和精准度不一样，攻击次数不会受到上限约束。<br/><br/>攻击精准度的范围为2至12点，换言之每1点精准度等于1/12或0.083（取小数点后三位），并且会在最终伤害的计算公式中进行乘算。精准度最低为2，最高位12。<br/><br/>如果存在多个来源的同类型护甲以及其他伤害减免因素（掩体、闪避、城市、无敌），同类型的数值将先进行相加，之后每种伤害减免因素将通过乘算减免伤害，但是要注意的是，单独类型的伤害减免因素最多能够减免10/12或83%的伤害。穿甲数值决定了攻击时能够无视的护甲点数。除非有特别说明，近战与远程武器都会受到所有类型的伤害减免因素影响。<br/><br/>所有特性的效果都只会应用于上述核心概念中的对应部分。举例来说，拥有“溅射“特性的武器能够对目标队伍（单位）中其他存活的成员发动额外攻击，而拥有”无视掩体“特性的武器则只会无视目标单位的“掩体伤害减免”。<br/><br/>这种计算机制带来的部分影响：<br/><icon texture='GUI/Bullet'/>单纯提高单独武器的伤害并无法提高对目标单位造成的最终伤害。<br/><icon texture='GUI/Bullet'/>某些步兵单位会比自身面板生命值所暗示的要更加顽强。哪怕拥有极高的攻击伤害，非溅射武器在攻击时最多只能杀死目标队伍（单位）的1名成员。而且在目标单位的生命值全满的情况下，除非拥有100%精准度，否则武器甚至无法杀死1名队伍（单位）成员。<br/><icon texture='GUI/Bullet'/>所以如果想要迅速击杀敌方的步兵单位，你需要拥有极高的精准度，更多的攻击次数或者是溅射特性。<br/><icon texture='GUI/Bullet'/>对于单独成员生命值上限较低的单位来说，升级带来的生命值提升并无法提供显著的影响。这是因为提升的生命值需要平分给所有队伍成员，如果敌人的武器远超于成员生命值上限，那这种提升效果只是杯水车薪。<br/><icon texture='GUI/Bullet'/>所以对于步兵来说，治疗率是更重要的生存因素。<br/><icon texture='GUI/Bullet'/>比起本就拥有优异精准度的单位，为精准度较差的单位提供适度提升能够带来更惊人的效果。举例来说：当精准度从6提升至8点（50%至67%），单位的伤害潜力将提升33%。但是，当精准度从8提升至10点（67%至83%），单位的伤害潜力仅会提升25%。<br/><icon texture='GUI/Bullet'/>与精准度相反，相同类型的伤害减免叠加起来反而会收益递增。举例来说：当护甲从0提升至1点，单位的生存能力仅会获得（12-0）/（12-1）=+9%的提升。但是，当护甲从9提升至10点，单位的生存能力将获得（12-9）/（12-10）=+50%的大幅提升。"/>
+	<entry name="ConstructInfantryBuilding" value="建造营房"/>
+	<entry name="ConstructInfantryBuildingDescription" value="建造单位生产类建筑以巩固你的军事力量。点击“<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>营房”，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择一个有效地块并开始建造。"/>
+	<entry name="Cover" value="掩体"/>
+	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>森林、<icon height='20' texture='Icons/Features/Ruins'/><nbsp/>废墟、<icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>前哨站以及<icon height='20' texture='Icons/Features/City'/><nbsp/>城市都能够为非大型单位提供远程伤害减免。在面对使用远程武器的敌人时，务必记得灵活利用掩体。"/>
+	<entry name="EnemyInCity" value="城市中的敌人"/>
+	<entry name="EnemyInCityDescription" value="敌方单位会禁用所在地块的所有建筑与前哨站，并使你无法在地块上修建新建筑。"/>
+	<entry name="EquipItem" value="装备物品"/>
+	<entry name="EquipItemDescription" value="<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>点击一项物品以为你的英雄进行装备。新装备的物品有1回合的冷却时间，冷却结束后才能够被使用。"/>
+	<entry name="FoundCity" value="建立城市"/>
+	<entry name="FoundCityDescription" value="如果要建立第一座城市，点击“<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>建立城市”，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择一个合适的地块。"/>
+	<entry name="HabitationBlocks" value="居住区"/>
+	<entry name="HabitationBlocksDescription" value="除总部之外，所有建筑都需要1个<icon height='20' texture='Icons/Attributes/Population'/><nbsp/>人口来维持运作。尽快研究相关科技并建造<icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>居住区以提高城市的<icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>住宅（人口上限）。"/>
+	<entry name="Healing" value="治疗"/>
+	<entry name="HealingDescription" value="此单位已经严重受损。如果要治疗，请确保受伤单位能够停留在原地不动并且不会参与战斗。点击“<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>原地固守（直到完全恢复）”以命令单位在原地待命直至完全恢复。在友方前哨站或城市地块中，单位将获得更快速的治疗。"/>
+	<entry name="Housing" value="住宅"/>
+	<entry name="HousingDescription" value="城市的<icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>住宅已经人满为患。建造<icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>居住区以提供更多的生活空间并允许人口再度增长。"/>
+	<entry name="Loyalty" value="忠诚度"/>
+	<entry name="LoyaltyDescription" value="如果忠诚度为负数，城市的资源产出率将下降。尽快研究相关科技并建造<icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>全息剧院以确保你的人口能够高效工作。"/>
+	<entry name="MarkTiles" value="标记地块"/>
+	<entry name="MarkTilesDescription" value="<string name='Tips/Loading/54'/>"/>
+	<entry name="Morale" value="士气"/>
+	<entry name="MoraleDescription" value="当附近有友军死亡时，单位将受到<icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>士气打击。士气不振的单位将无法发挥全部的作战能力。如果要恢复单位的士气，确保单位在一段时间内远离战斗，或者设法击杀敌方单位。"/>
+	<entry name="Movement" value="移动"/>
+	<entry name="MovementDescription" value="按<icon height='20' texture='Icons/RightMouseButton'/>命令单位移动。每一个回合，每个单位仅可移动一次。"/>
+	<entry name="NPCs" value="NPC"/>
+	<entry name="NPCsDescription" value="三名非玩家领袖也将参与这场关于地球命运的战争：<icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>隐者、<icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>女族长以及<icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>泽芬。与这些NPC领袖缔结和平之后，你将能够向他们寻求支援。除此以外，良好的外交关系将在特定任务中解锁额外的选项。"/>
+	<entry name="Population" value="人口"/>
+	<entry name="PopulationDescription" value="城市目前缺少<icon height='20' texture='Icons/Attributes/Population'/><nbsp/>人口，因此无法保障所有建筑的正常运行。你可以点击<icon height='20' texture='Icons/DisableBuilding'/>禁用一个建筑。"/>
+	<entry name="ProduceUnits" value="生产单位"/>
+	<entry name="ProduceUnitsDescription" value="命令营房开始<icon height='20' texture='Icons/Units/Militant'/><nbsp/>生产单位。城市中的所有建筑可以同时进行生产。如果一座城市中拥有多个营房，这将缩短单位需要的训练时间。"/>
+	<entry name="Recon" value="侦察"/>
+	<entry name="ReconDescription" value="许多单位拥有可激活的主动技能。例如游骑兵就可以使用<icon height='20' texture='Icons/Actions/Recon'/><nbsp/>侦察技能来揭示周遭的地块。"/>
+	<entry name="Research" value="科研"/>
+	<entry name="ResearchDescription" value="研究英雄单位科技是一个不错的选择。掌握相关科技之后，你就可以在总部中生产英雄。要注意的事，改变当前科研项目将放弃所有未完成的研究进度。"/>
+	<entry name="TheConcordat" value="协调者"/>
+	<entry name="TheConcordatDescription" value="你可以随时在<icon height='20' texture='Icons/Shop'/><nbsp/>协调者那里购买&出售资源以及英雄物品。"/>
+	<entry name="Transports" value="运输"/>
+	<entry name="TransportsDescription" value="各类运输载具都可以携带一定数量的非大型单位。如果要开始运输，<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>命令要运输的单位移动至运输载具所在的地块。在运输期间，载具中的单位将会自动治疗，但如果载具被毁，里面运输的单位也将一同死去。"/>
+	<entry name="Selection" value="选择单位"/>
+	<entry name="SelectionDescription" value="<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>鼠标点击单位以将其选中。"/>
+	<entry name="Winning" value="获胜"/>
+	<entry name="WinningDescription" value="打败所有玩家，或者是设法使所有玩家都处在同一个联盟中后，你将获得胜利。"/>
+	<!-- Meat Harvest/player ability usage. -->
+	<!-- Dremeater in sight. Maybe fancier trigger condition, -->	
+	<!-- <entry name="Dreameaters" value="Dreameaters"/>
+	<entry name="DreameatersDescription" value="It would be wise to gather a sizable force before engaging this horror."/> -->
+
+	<entry name="Loading" value="加载界面提示"/>
+	<entry name="Loading/0" value="异血与火焰会阻挡并伤害经过的地面单位。"/>
+	<entry name="Loading/1" value="河流、森林以及废墟等地形会减少单位的移动点。"/>
+	<entry name="Loading/2" value="<string name='Tips/CoverDescription'/>"/>
+	<entry name="Loading/3" value="道路地形能够提高地面单位的移动点效率。"/>
+	<entry name="Loading/4" value="<string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="Loading/5" value="前哨站以及城市地块能够加快单位的治疗速度。"/>
+	<entry name="Loading/6" value="<string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="Loading/7" value="<string name='Attributes/AccuracyDescription'/>"/>
+	<entry name="Loading/8" value="<string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="Loading/9" value="<string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="Loading/10" value="<string name='Attributes/LevelDescription/Death'/>"/>
+	<entry name="Loading/11" value="<string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="Loading/12" value="<string name='Attributes/LevelDescription/Effect'/>"/>
+	<entry name="Loading/13" value="<string name='Attributes/MoraleDescription/Regeneration'/>"/>
+	<entry name="Loading/14" value="<string name='Attributes/MoraleDescription/Shaken'/>"/>
+	<entry name="Loading/15" value="<string name='Attributes/MoraleDescription/Broken'/>"/>
+	<entry name="Loading/16" value="<string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="Loading/17" value="城市的防御力会受到各类增益、减益以及士气效果的影响。"/>
+	<entry name="Loading/18" value="击杀阿布卡罕将能够获得多种资源与一份物品。"/>
+	<entry name="Loading/19" value="除非受到攻击，否则中立单位将不会主动追击敌人。"/>
+	<entry name="Loading/20" value="生产第二位英雄时，你将需要支付双倍的费用。"/>
+	<entry name="Loading/21" value="地块高度与特殊地形都会影响到单位的视野与射程。"/>
+	<entry name="Loading/22" value="一旦士气一蹶不振，哪怕是原本不可一世的大军也将土崩瓦解。"/>
+	<entry name="Loading/23" value="<string name='Tips/TheConcordatDescription'/>"/>
+	<entry name="Loading/24" value="当某项资源彻底耗尽，无法支付维护成本的建筑的产出将出现下降。"/>
+	<entry name="Loading/25" value="当某项资源彻底耗尽，无法支付维护成本的单位将陷入缺少补给的窘境，除此以外这些单位还将承受精准度惩罚。"/>
+	<entry name="Loading/26" value="陷入缺少补给状态的时间越久，单位承受的精准度惩罚就越大。"/>
+	<entry name="Loading/27" value="如果能够将前哨站地块纳入城市范围，对应的城市将获得以百分比计算的巨大加成。"/>
+	<entry name="Loading/28" value="建造多个同类型的建筑能够加快单位的生产速度。"/>
+	<entry name="Loading/29" value="项目完成之后，盈余的生产力与科研都会直接延续给下一个项目。"/>
+	<entry name="Loading/30" value="<string name='Tips/HabitationBlocksDescription'/>"/>
+	<entry name="Loading/31" value="人口只会在拥有充足住宅的情况下增长。"/>
+	<entry name="Loading/32" value="<string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="Loading/33" value="<string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="Loading/34" value="人口短缺意味着城市中的居民将被平均分配到所有建筑，但是这么做将导致城市的整体产出下降。"/>
+	<entry name="Loading/35" value="<string name='Attributes/LoyaltyDescription/Effect'/>"/>
+	<entry name="Loading/36" value="<string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="Loading/37" value="影响力：<string name='Attributes/InfluenceDescription'/>"/>
+	<entry name="Loading/38" value="按[<control name='ToggleYieldOverlay'/>]显示所有地块的详细信息。"/>
+	<entry name="Loading/39" value="你可以随时[<control name='ToggleBuildingPower'/>]城市地块中的建筑图标以激活或关闭建筑，这么做将腾出人口并免去建筑的维护费用。"/>
+	<entry name="Loading/40" value="对城市地块上的建筑图标[<control name='DismantleBuilding'/>]以拆除对应建筑。"/>
+	<entry name="Loading/41" value="受损的城市将承受资源产出惩罚，直到完全修复才会消除负面效果。"/>
+	<entry name="Loading/42" value="每座城市产出的资源将在你们的整个经济体中积累与流通，因此你完全可以分别打造专攻资源产出或军事生产的城市。"/>
+	<entry name="Loading/43" value="<string name='Tips/WinningDescription'/>"/>
+	<entry name="Loading/44" value="与普通地面单位相比，防御工事、飞行单位以及泰坦的高度更高，因此更容易被发现。"/>
+	<entry name="Loading/45" value="研究其他倾向的科技也许能够带来独一无二的协同作用。"/>
+	<entry name="Loading/46" value="每个地块都拥有着不同的资源加成，因地制宜布方能事半功倍。"/>
+	<entry name="Loading/47" value="如果拥有剩余的动作点，单位的头顶将会出现一个<icon texture='Icons/Attributes/Actions'/><nbsp/>标志。"/>
+	<entry name="Loading/48" value="在AI的回合中，拥有“领地意识”特性的中立单位有可能会主动攻击射程内的敌人。"/>
+	<entry name="Loading/49" value="就算是拥有“领地意识”特性的单位也会对进入射程的敌人进行监视攻击。"/>
+	<entry name="Loading/50" value="如果不想激怒中立单位，建议你在经过他们附近时禁用己方单位的监视攻击能力。"/>
+	<entry name="Loading/51" value="一件武器的实际伤害无法超过目标敌方单位中的单独成员生命值上限，并且还会受到武器本身的精准度带来的伤害惩罚。"/>
+	<entry name="Loading/52" value="在攻击敌方单位时，溅射攻击能够打击至多3名敌方小队成员，这意味着比起由单独个体组成的单位，溅射攻击能够在攻击拥有复数成员的单位时造成最多3x伤害。"/>
+	<entry name="Loading/53" value="生命值不足一半时，大型单位将承受-33%的精准度惩罚。"/>
+	<entry name="Loading/54" value="[<control name='MarkTile'/>]标记地块，只有你自己和盟友可以看见这种标记。AI盟友将会尝试命令自己的单位移动至你的标记位置。"/>
+	<entry name="Loading/55" value="<string name='Tips/AllianceVictoryDescription'/>"/>
+	<entry name="Loading/56" value="类似“着火”等“每回合生效”类效果会在施加效果的玩家的回合开始时触发。"/>
+	<entry name="Loading/57" value="单位的视线范围为三格地块。"/>
+	<entry name="Loading/58" value="前哨站与城市的视野范围包括与其相邻的地块。"/>
+	<entry name="Loading/59" value="地块坐标由三部分组成，最后一部分为地块高度（x、y、高度）。"/>
+	<entry name="Loading/60" value="将物品栏中的物品拖拽至相邻的友方英雄身上以进行装备。"/>
+	<entry name="Loading/61" value="[<control name='OrderAllIdleUnits'/>]命令所有空闲单位。"/>
+	<entry name="Loading/62" value="[<control name='OrderAllUnits'/>]命令所有单位。"/>
+	<entry name="Loading/63" value="[<control name='OrderAreaUnits'/>]命令此区域中的单位（3格范围）。"/>
+	<entry name="Loading/64" value="无需移动镜头，右键点击小地图即可命令单位进行远距离移动。"/>
+	<entry name="Loading/65" value="<string name='Tips/CombatDescription'/>"/>
+	<entry name="Loading/66" value="异血、森林、废墟、火山以及城市建筑都会阻挡单位的视线。"/>
+	<entry name="Loading/67" value="<string name='Tips/EnemyInCityDescription'/>"/>
+	<entry name="Loading/Count" value="68"/>
+</language>

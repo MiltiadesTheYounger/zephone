@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- %1% icon, %2% name, %3% target/conditional, %4% duration, %5% details -->
+	<entry name="AddFeature" value="&lt;icon texture='GUI/Bullet'/&gt;Создаёт %1%&lt;nbsp/&gt;%2%%3%%4%%5%"/>
+	<entry name="AddItem" value="&lt;icon texture='GUI/Bullet'/&gt;Даёт %1%&lt;nbsp/&gt;%2%%3%%4%"/>
+	<entry name="AddPlayerAction" value="&lt;icon texture='GUI/Bullet'/&gt;Производит %1%&lt;nbsp/&gt;%2%%3%%4%%5%"/>
+	<entry name="AddTrait" value="&lt;icon texture='GUI/Bullet'/&gt;Добавляет %1%&lt;nbsp/&gt;%2%%3%%4%%5%"/>
+	<entry name="AddTraitToTargetOrSource" value="&lt;icon texture='GUI/Bullet'/&gt;Добавляет %1%&lt;nbsp/&gt;%2% цели или источнику%3%%4%%5%"/>
+	<entry name="AddUnit" value="&lt;icon texture='GUI/Bullet'/&gt;Порождает %1%&lt;nbsp/&gt;%2%%3%%4%%5%%6%"/>
+	<entry name="AddUnitToPlayer" value="&lt;string name='Effects/AddUnit'/&gt;"/>
+	<entry name="AddUpgrade" value="&lt;icon texture='GUI/Bullet'/&gt;Открывает %1%&lt;nbsp/&gt;%2%%3%%4%"/>
+	<entry name="RemoveFeature" value="&lt;string name='Effects/RemoveTrait'/&gt;"/>
+	<entry name="RemoveTrait" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет %1%&lt;nbsp/&gt;%2%%3%%4%"/>
+	
+	<!-- %1% conditional from Modifiers.xml -->
+	<entry name="ChangePlayer" value="&lt;icon texture='GUI/Bullet'/&gt;Меняет сторону%1%"/>
+	<entry name="ChangePlayerTo" value="&lt;icon texture='GUI/Bullet'/&gt;Меняет сторону%1% на: %2%"/>
+	<entry name="Disembark" value="&lt;icon texture='GUI/Bullet'/&gt;Выгружает%1%"/>
+	<entry name="Embark" value="&lt;icon texture='GUI/Bullet'/&gt;Погружает%1%"/>
+	<entry name="KillCargo" value="&lt;icon texture='GUI/Bullet'/&gt;Убивает груз%1%"/>
+	<entry name="Pull" value="&lt;icon texture='GUI/Bullet'/&gt;Притягивает%1%"/>
+	<entry name="RemoveBuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет усиления%1%"/>
+	<entry name="RemoveDebuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет ослабления%1%"/>
+	<entry name="ResetActionPoints" value="&lt;icon texture='GUI/Bullet'/&gt;Возвращает все пункты действия%1%"/>
+	<entry name="ResetCooldowns" value="&lt;icon texture='GUI/Bullet'/&gt;Завершает все перезарядки%1%"/>
+	<entry name="ResetMovement" value="&lt;icon texture='GUI/Bullet'/&gt;Возвращает все пункты движения%1%"/>
+	<entry name="Reveal" value="&lt;icon texture='GUI/Bullet'/&gt;Раскрывает клетки%1%"/>
+
+	<!-- %1% name, %2% conditional from Modifiers.xml -->
+	<!-- <entry name="UnlockItem" value="%1% is now available at The Concordat for this and future playthroughs"/> -->
+	<entry name="UnlockMutator" value="&lt;icon texture='GUI/Bullet'/&gt;Разблокирует мутатор %1%%2% — его можно включить в будущих прохождениях"/>
+	
+	<!-- %1% conditional from Modifiers.xml, %2% player name -->
+	<entry name="ChangePlayerToOwner" value="&lt;icon texture='GUI/Bullet'/&gt;Возвращает исходную сторону%1%"/>
+	
+	<!-- %1% percentage amount, %2% conditional from Modifiers.xml -->
+	<entry name="SourceWeaponDamage" value="&lt;icon texture='GUI/Bullet'/&gt;Наносит %1% атак получаемого урона от оружия%2%"/>
+	
+	<!-- %1% conditional from Modifiers.xml, %2% details -->
+	<entry name="WeaponDamage" value="&lt;icon texture='GUI/Bullet'/&gt;Наносит урон%1%%2%"/>
+	
+</language>

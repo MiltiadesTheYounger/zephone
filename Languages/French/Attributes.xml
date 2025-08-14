@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulatedGrowth" value="Croissance cumulée"/>
+	<entry name="AccumulatedGrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="Accuracy" value="Précision"/>
+	<entry name="AccuracyDescription" value="Chaque point de précision augmente les chances de toucher d'environ 8,3<nbsp/>%."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="Points d'action"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="Points d'action max"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="Actions"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="Le nombre d'actions que l'unité peut effectuer. L'utilisation d'une action peut consommer tous les déplacements."/>
+	<entry name="AdditionalMembersHit" value="Membres de groupe<nbsp/>: -50<nbsp/>% de précision"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Algae" value="Algues"/>
+	<entry name="AlgaeDescription" value="Pour produire et entretenir les unités Vox."/>
+	<entry name="AlgaeIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeCost" value="Coût en algues"/>
+	<entry name="AlgaeCostDescription" value="Quantité d'algues consommée pour produire l'entité."/>
+	<entry name="AlgaeCostIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeUpkeep" value="Entretien en algues"/>
+	<entry name="AlgaeUpkeepDescription" value="Quantité d'algues consommée pour entretenir l'entité."/>
+	<entry name="AlgaeUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="Antimatter" value="Antimatière"/>
+	<entry name="AntimatterDescription" value="Pour produire et entretenir des unités spéciales avancées."/>
+	<entry name="AntimatterIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterCost" value="Coût en antimatière"/>
+	<entry name="AntimatterCostDescription" value="Quantité d'antimatière consommée pour produire l'entité."/>
+	<entry name="AntimatterCostIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterUpkeep" value="Entretien en antimatière"/>
+	<entry name="AntimatterUpkeepDescription" value="Quantité d'antimatière consommée pour entretenir l'entité."/>
+	<entry name="AntimatterUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="Armor" value="Blindage"/>
+	<entry name="ArmorDescription" value="Réduit la quantité de <icon height='20' texture='Icons/Attributes/Damage'/> dégâts infligés par les armes et les capacités. <string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="ArmorDescription/Reduction" value="Chaque point de blindage réduit les dégâts subis d'environ 8,3<nbsp/>% (jusqu'à 83<nbsp/>%), mais les armes et les capacités ignorent certain un nombre de points de blindage, jusqu'à leur valeur de pénétration de blindage."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="Réduction des dégâts (blindage)"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ArmorPenetration" value="Pénétration de blindage"/>
+	<entry name="ArmorPenetrationDescription" value="Quantité de blindage d'une cible que l'arme ignore lorsqu'une unité attaque avec elle."/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="Attaques"/>
+	<entry name="AttacksDescription" value="Le nombre d'attaques qu'une arme effectue contre sa cible lorsqu'une unité attaque avec."/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Attaques par membre du groupe cible supplémentaire"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="BuildingSlots" value="Emplacements de bâtiment"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="BlockSight" value="vue depuis les cases non adjacentes"/>
+	<entry name="BlockSight+" value="Bloque"/>
+	<entry name="CanBeShaken" value="trauma"/>
+	<entry name="CanBeShaken+" value="Peut"/>
+	<entry name="CanBeShaken-" value="Ne peut pas"/>
+	<entry name="CanBeShakenIcon" value="<icon height='20' texture='Icons/Traits/Shaken'/>"/>
+	<entry name="CanCaptureOutposts" value="capture d'avant-postes"/>
+	<entry name="CanCaptureOutposts+" value="Peut"/>
+	<entry name="CanCaptureOutposts-" value="Ne peut pas"/>
+	<entry name="CanCaptureOutpostsIcon" value="<icon height='20' texture='Icons/Traits/Outpost'/>"/>
+	<entry name="CanEnemyOverwatch" value="attaques en surveillance quand cette unité est ciblée"/>
+	<entry name="CanEnemyOverwatch-" value="Empêche"/>
+	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="soin passif sans points de déplacement au max"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Peut"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Ne peut pas"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="CanOverwatch" value="surveillance"/>
+	<entry name="CanOverwatch+" value="Peut"/>
+	<entry name="CanOverwatch-" value="Ne peut pas"/>
+	<entry name="CanOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CargoSlots" value="Emplacements de cargaison"/>
+	<entry name="CargoSlotsDescription" value="Le nombre d'unités de taille normale que cette unité peut transporter dans sa soute."/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="Emplacements de cargaison requis"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="Charges" value="Charges"/>
+	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
+	<entry name="Chips" value="Puces"/>
+	<entry name="ChipsDescription" value="Pour produire et entretenir les unités Cybers."/>
+	<entry name="ChipsIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsCost" value="Coût en puces"/>
+	<entry name="ChipsCostDescription" value="Quantité de puces consommées pour produire l'entité."/>
+	<entry name="ChipsCostIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsUpkeep" value="Entretien en puces"/>
+	<entry name="ChipsUpkeepDescription" value="Quantité de puces consommées pour entretenir l'entité."/>
+	<entry name="ChipsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="CityDamageReduction" value="Réduction des dégâts (ville)"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityLoyaltyUpkeep" value="Entretien en loyauté (ville)"/>
+	<entry name="ConcordatBuyCost" value="Coût d'achat du Concordat"/>
+	<entry name="ConsumedActionPoints" value="Points d'action consommés"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="Déplacement consommé"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="Délai"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="CoverDamageReduction" value="Réduction des dégâts (abri)"/>
+	<entry name="CoverDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Damage" value="Dégâts"/>
+	<entry name="DamageDescription" value="Dégâts infligés à une unité ennemie à chaque attaque de l'arme. <string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="DamageDescription/Reductions" value="Les dégâts infligés sont plafonnés par le maximum de PV d'un membre unique du groupe ennemi. Ils sont encore réduits par la précision, le blindage de l'ennemi ainsi que ses réductions de dégâts."/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="Dégâts subis"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Expérience de mort"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Effet de la mort sur le moral"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="DimensionalEchoes" value="Échos dimensionnels"/>
+	<entry name="DimensionalEchoesDescription" value="Pour produire et entretenir les unités Vox avancées."/>
+	<entry name="DimensionalEchoesIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesCost" value="Coût en échos dimensionnels"/>
+	<entry name="DimensionalEchoesCostDescription" value="Quantité d'échos dimensionnels consommés pour produire l'entité."/>
+	<entry name="DimensionalEchoesCostIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesUpkeep" value="Entretien en échos dimensionnels"/>
+	<entry name="DimensionalEchoesUpkeepDescription" value="Quantité d'échos dimensionnels consommés pour entretenir l'entité."/>
+	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DuplicateTypeCost" value="Coût pour type en double"/>
+	<entry name="Energy" value="Énergie"/>
+	<entry name="EnergyDescription" value="Pour entretenir les bâtiments ainsi que pour produire et entretenir des unités spéciales."/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="Coût en énergie"/>
+	<entry name="EnergyCostDescription" value="Quantité d'énergie consommée pour produire l'entité."/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyUpkeep" value="Entretien en énergie"/>
+	<entry name="EnergyUpkeepDescription" value="Quantité d'énergie consommée pour entretenir l'entité."/>
+	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EvasionDamageReduction" value="Réduction des dégâts (esquive)"/>
+	<entry name="EvasionDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Experience" value="Expérience"/>
+	<entry name="ExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="ExperienceGainRate" value="Vitesse de gain d'expérience"/>
+	<entry name="FlatResourcesFromOutposts" value="Ressources fixes des avant-postes"/>
+	<entry name="Food" value="Nourriture"/>
+	<entry name="FoodDescription" value="Pour soutenir la population dans les villes ainsi que pour produire et entretenir principalement les unités humaines et Vox."/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="Coût en nourriture"/>
+	<entry name="FoodCostDescription" value="Quantité de nourriture consommée pour produire l'entité."/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodUpkeep" value="Entretien en nourriture"/>
+	<entry name="FoodUpkeepDescription" value="Quantité de nourriture consommée pour entretenir l'entité."/>
+	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="Taille du groupe"/>
+	<entry name="GroupSizeDescription" value="Le nombre de membres vivants ainsi que le total de membres d'une unité. <string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="GroupSizeDescription/Change" value="Les membres du groupe se perdent et se regagnent à mesure que l'unité perd et regagne des PV. Les membres morts n'infligent pas de dégâts, ce qui réduit le total de dégâts de l'unité."/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="GroupSizeMax" value="Taille de groupe max"/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Growth" value="Croissance"/>
+	<entry name="GrowthDescription" value="Vitesse à laquelle la ville se développe. <string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="GrowthDescription/Decrease" value="La croissance démographique ralentit en cas de pénurie de nourriture ou de logement."/>
+	<entry name="GrowthDescription/Increase" value="À un certain seuil de croissance, la population augmente d'une unité. <string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HealingRate" value="Taux de guérison"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="HealingReceived" value="Guérison reçue"/>
+	<entry name="Hitpoints" value="Points de vie"/>
+	<entry name="HitpointsDescription" value="Quantité de <icon height='20' texture='Icons/Attributes/Damage'/> dégâts que l'unité peut subir avant de mourir. <string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="HitpointsDescription/Healing" value="Les unités se soignent automatiquement si elles n'ont pas subi de dégâts et s'il leur reste tous leurs points de déplacement et d'action."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFromMax" value="Points de vie"/>
+	<entry name="HitpointsFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="Points de vie max"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="IgnoreLineOfSight" value="ligne de mire"/>
+	<entry name="IgnoreLineOfSight+" value="Ignore"/>
+	<entry name="IgnoreZoneOfControl" value="déplacement à travers les unités ennemies"/>
+	<entry name="IgnoreZoneOfControl+" value="Permet"/>
+	<entry name="Influence" value="Influence"/>
+	<entry name="InfluenceDescription" value="Pour acquérir et entretenir les cases de la ville, invoquer des capacités spéciales, recruter et entretenir des unités de héros ainsi qu'acheter des objets et des ressources."/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="Coût en influence"/>
+	<entry name="InfluenceCostDescription" value="Quantité d'influence consommée pour produire l'entité."/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCostFromExperience" value="Coût en influence"/>
+	<entry name="InfluenceCostFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerAlliance" value="Influence par alliance pour les deux parties"/>
+	<entry name="InfluencePerPopulation" value="Influence par population"/>
+	<entry name="InfluencePerTradeAgreement" value="Influence par accord commercial pour les deux parties"/>
+	<entry name="InfluenceUpkeep" value="Entretien en influence"/>
+	<entry name="InfluenceUpkeepDescription" value="Quantité d'influence consommée pour entretenir l'entité."/>
+	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="Réduction des dégâts (invulnérable)"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="Emplacements d'objets"/>
+	<entry name="ItemSlotsDescription" value="Nombre d'objets dont cette unité peut être équipée."/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="Niveau"/>
+	<entry name="LevelDescription" value="Niveau d'expérience de l'unité. <string name='Attributes/LevelDescription/Effect'/><br/><br/><string name='Attributes/LevelDescription/Death'/> <string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="LevelDescription/Effect" value="Chaque niveau au-dessus du premier augmente les <icon height='20' texture='Icons/Attributes/Hitpoints'/> PV et les <icon height='20' texture='Icons/Attributes/Damage'/> dégâts de l'unité de 5<nbsp/>%, ainsi que son <icon height='20' texture='Icons/Attributes/Morale'/> moral de 10<nbsp/>%."/>
+	<entry name="LevelDescription/Death" value="Lorsqu'une unité meurt, l'attaquant et ses alliés gagnent de l'expérience dans un rayon de 3<nbsp/>cases autour de l'unité mourante<nbsp/>; l'attaquant gagne toujours de l'expérience, quelle que soit la distance."/>
+	<entry name="LevelDescription/DeathNoAttacker" value="S'il n'y a pas d'attaquant lorsqu'une unité meurt, tous les ennemis de l'unité mourante gagnent de l'expérience dans un rayon de 3<nbsp/>cases."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="Niveau maximal"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="Vol de vie"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFromDamage" value="Vol de vie"/>
+	<entry name="LifeStealFromDamageIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="Loyauté"/>
+	<entry name="LoyaltyDescription" value="Le dévouement de la population à votre cause. <string name='Attributes/LoyaltyDescription/Effect'/> <string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="LoyaltyDescription/Effect" value="Chaque point positif de loyauté augmente la production totale de ressources de la ville de 1<nbsp/>%, tandis que chaque point négatif la diminue de 2<nbsp/>% (jusqu'à -50<nbsp/>%)."/>
+	<entry name="LoyaltyDescription/CityPenalty" value="Chaque ville après la première diminue la loyauté dans toutes les villes de 6."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyUpkeep" value="Entretien en loyauté"/>
+	<entry name="LoyaltyUpkeepDescription" value="Quantité de loyauté consommée pour entretenir l'entité."/>
+	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MaximumHitpointsPerGroupMember" value="Maximum de PV par membre du groupe"/>
+	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="L'état psychologique de l'unité. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="MoraleDescription/Regeneration" value="Le moral se régénère si l'unité n'a pas subi de dégâts au tour précédent."/>
+	<entry name="MoraleDescription/Shaken" value="En dessous de 66<nbsp/>% de moral, les unités ont le trait <icon height='20' texture='Icons/Traits/Shaken'/> Trauma, ce qui diminue les attaques et augmente les attaques ennemies de 17<nbsp/>%."/>
+	<entry name="MoraleDescription/Broken" value="En dessous de 33<nbsp/>% de moral, les unités ont le trait <icon height='20' texture='Icons/Traits/Broken'/> Rupture, ce qui diminue les attaques et augmente les attaques ennemies de 33<nbsp/>%."/>
+	<entry name="MoraleDescription/Death" value="Lorsqu'une unité meurt, les alliés de l'unité dans un rayon de 3<nbsp/>cases autour de l'unité mourante et de l'attaquant perdent du moral selon l'expérience de l'unité mourante. Au même moment, les alliés de l'attaquant gagnent du moral dans la même zone."/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLoss" value="Perte de moral"/>
+	<entry name="MoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleRegeneration" value="Régénération de moral"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="Moral max"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="Déplacement"/>
+	<entry name="MovementDescription" value="Le nombre de cases qu'une unité peut traverser en un tour. Un terrain accidenté nécessite plusieurs points de déplacement. Tout mouvement dans une case adjacente à un ennemi met fin au déplacement."/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementCost" value="Coût en déplacement"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="Déplacement max"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Minerals" value="Minéraux"/>
+	<entry name="MineralsDescription" value="Pour construire des bâtiments ainsi que pour produire et entretenir principalement des unités humaines et Cybers."/>
+	<entry name="MineralsIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsCost" value="Coût en minéraux"/>
+	<entry name="MineralsCostDescription" value="Quantité de minéraux consommés pour produire l'entité."/>
+	<entry name="MineralsCostIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsUpkeep" value="Entretien en minéraux"/>
+	<entry name="MineralsUpkeepDescription" value="Quantité de minéraux consommés pour entretenir l'entité."/>
+	<entry name="MineralsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="PerHeroCost" value="Coût par héros existant"/>
+	<entry name="Population" value="Population"/>
+	<entry name="PopulationDescription" value="Pour faire fonctionner les bâtiments de la ville. Chaque bâtiment activé nécessite 1<nbsp/>unité de population pour fonctionner. Si la population requise dépasse la population actuelle, la production des bâtiments est réduite."/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationCost" value="Coût en population"/>
+	<entry name="PopulationCostDescription" value="Quantité de population consommée par l'action."/>
+	<entry name="PopulationCostIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationFoodUpkeep" value="Entretien en nourriture (population)"/>
+	<entry name="PopulationInfluenceUpkeep" value="Entretien en influence (population)"/>
+	<entry name="PopulationLimit" value="Logement"/>
+	<entry name="PopulationLimitDescription" value="L'espace de vie disponible pour la population."/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLoyaltyUpkeep" value="Entretien en loyauté (population)"/>
+	<entry name="PopulationMineralsUpkeep" value="Entretien en minéraux (population)"/>
+	<entry name="Production" value="Production"/>
+	<entry name="ProductionDescription" value="Vitesse à laquelle le bâtiment produit. L'achèvement d'une tâche permet de conserver l'excédent de production."/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionPerBuildingFromCost" value="Du coût de production"/>
+	<entry name="ProductionPerBuildingFromCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="ProductionCost" value="Coût en production"/>
+	<entry name="ProductionCostDescription" value="Quantité de production consommée pour produire l'entité."/>
+	<entry name="ProductionCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="Radius" value="Rayon"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="Range" value="Portée"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value="Distance, en cases, jusqu'à laquelle l'unité peut attaquer une cible avec une arme ou une capacité. Sauf indication contraire, l'utilisation d'une arme ou d'une capacité de l'unité nécessite également d'avoir la cible en ligne de mire."/>
+	<entry name="RangeMax" value="Portée maximale"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="Portée minimale"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="Précision à distance"/>
+	<entry name="RangedDamageReduction" value="Réduction des dégâts (distance)"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RequiredActionPoints" value="Actions requises"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="Déplacement requis"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Research" value="Recherches"/>
+	<entry name="ResearchDescription" value="Pour découvrir de nouvelles technologies. L'achèvement d'une découverte conserve les recherches excédentaires."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchCost" value="Coût en recherches"/>
+	<entry name="ResearchCostDescription" value="Quantité de recherches consommée."/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromCity" value="Recherches copiées"/>
+	<entry name="ResearchFromCityIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillFromExperience" value="Recherches"/>
+	<entry name="ResearchPerKillFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchUpkeep" value="Entretien en recherches"/>
+	<entry name="ResearchUpkeepDescription" value="Quantité de recherches consommées pour entretenir l'entité."/>
+	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResourcesFromCity" value="Ressources copiées"/>
+	<entry name="ResourcesPerKillFromCost" value="Ressources par éliminations"/>
+	<entry name="ResourcesPerReallocateFromCost" value="Ressources regagnées"/>
+	<entry name="DamageSelf" value="Dégâts auto-infligés"/>
+	<entry name="DamageSelfIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Sight" value="Vue"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="Jusqu'où l'unité peut voir.<br/><br/>La vue et la ligne de mire sont réduites par les caractéristiques du terrain telles que les forêts, la fumée et les falaises."/>
+	<entry name="SlotsRequired" value="Emplacements requis"/>
+	<entry name="SingularityCores" value="Noyaux de singularité"/>
+	<entry name="SingularityCoresDescription" value="Pour produire et entretenir des unités Cybers avancées."/>
+	<entry name="SingularityCoresIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresCost" value="Coût en noyaux de singularité"/>
+	<entry name="SingularityCoresCostDescription" value="Quantité de noyaux de singularité consommés pour produire l'entité."/>
+	<entry name="SingularityCoresCostIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresUpkeep" value="Entretien en noyaux de singularité"/>
+	<entry name="SingularityCoresUpkeepDescription" value="Quantité de noyaux de singularité consommés pour entretenir l'entité."/>
+	<entry name="SingularityCoresUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="Standing" value="Position diplomatique"/>
+	<entry name="TileAcquisitionRange" value="Portée d'acquisition (cases)"/>
+	<entry name="TileAcquisitionRangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="TradeGain" value="Gain commercial"/>
+	<entry name="Transuranium" value="Transuranium"/>
+	<entry name="TransuraniumDescription" value="Pour produire et entretenir des unités humaines et Cybers avancées."/>
+	<entry name="TransuraniumIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumCost" value="Coût en transuranium"/>
+	<entry name="TransuraniumCostDescription" value="Quantité de transuranium consommé pour produire l'entité."/>
+	<entry name="TransuraniumCostIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumUpkeep" value="Entretien en transuranium"/>
+	<entry name="TransuraniumUpkeepDescription" value="Quantité de transuranium consommé pour entretenir l'entité."/>
+	<entry name="TransuraniumUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="Turns" value="Tours"/>
+	<entry name="TurnsDescription" value="Nombre de tours nécessaires pour produire l'entité."/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="Limite de type"/>
+	<entry name="UnitCost" value="Coût de l'unité"/>
+	<entry name="UnitUpkeep" value="Entretien de l'unité"/>
+</language>

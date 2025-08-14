@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbkhanDrey" value="아브칸 둥지"/>
+	<entry name="AcrinCrashSite" value="아크린 추락지"/>
+	<entry name="AdvancedCyberCache" value="고급 사이버 은닉품"/>
+	<entry name="AdvancedCyberCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 고급 사이버 보상을 획득합니다."/>
+	<entry name="AdvancedHumanCache" value="고급 인간 은닉품"/>
+	<entry name="AdvancedHumanCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 고급 인간 보상을 획득합니다."/>
+	<entry name="AdvancedVoiceCache" value="고급 목소리 은닉품"/>
+	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 고급 목소리 보상을 획득합니다."/>
+	<entry name="ArcDischarge" value="아크 방전 지대"/>
+	<entry name="Arctic" value="극지"/>
+	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
+	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
+	<entry name="Bleed" value="혈사초"/>
+	<entry name="Brush" value="수풀"/>
+	<entry name="Cicadas" value="매미떼"/>
+	<entry name="City" value="도시"/>
+	<entry name="Construct" value="구조물"/>
+	<entry name="CortexNode" value="코텍스 노드"/>
+	<entry name="CortexNodeFlavor" value="<string name='Quests/FormFunction/TrustIronFeather/FlushCortex2'/>"/>
+	<entry name="CrystalBasin" value="크리스탈 분지"/>
+	<entry name="CyberCache" value="사이버 은닉품"/>
+	<entry name="CyberCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 사이버 보상을 획득합니다."/>
+	<entry name="Desert" value="사막"/>
+	<entry name="DustStorm" value="모래폭풍"/>
+	<entry name="ErebusExcavator" value="에레부스 굴착기"/>
+	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5% 확률로 무작위 아이템 보상을 줍니다."/>
+	<entry name="Fire" value="불"/>
+	<entry name="FleshTree" value="살점 나무"/>
+	<entry name="Forest" value="숲"/>
+	<entry name="GravityField" value="중력장"/>
+	<entry name="HumanCache" value="인간 은닉품"/>
+	<entry name="HumanCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 인간 보상을 획득합니다."/>
+	<entry name="HymnOfDecay" value="<string name='Actions/HymnOfDecay'/>"/>
+	<entry name="HymnOfDecayFlavor" value="<string name='Actions/HymnOfDecayFlavor'/>"/>
+	<entry name="MicrochipFabricator" value="마이크로칩 제조기"/>
+	<entry name="Mines" value="광산"/>
+	<entry name="MinesFlavor" value="<string name='Actions/MinelayerFlavor'/>"/>
+	<entry name="NuclearFallout" value="방사능 낙진"/>
+	<entry name="Outpost" value="전초기지"/>
+	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
+	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
+	<entry name="PhaseGenerator" value="위상 발전기"/>
+	<entry name="RecyclingTanks" value="재활용 탱크"/>
+	<entry name="River" value="강"/>
+	<entry name="Road" value="도로"/>
+	<entry name="Rocks" value="바위"/>
+	<entry name="Ruins" value="폐허"/>
+	<entry name="Sandpit" value="모래 구덩이"/>
+	<entry name="SandpitFlavor" value="<string name='Quests/Sandpit/Intro'/>"/>
+	<entry name="SeedOfExtinction" value="<string name='Actions/SeedOfExtinction'/>"/>
+	<entry name="SeedOfExtinctionFlavor" value="<string name='Actions/SeedOfExtinctionFlavor'/>"/>
+	<entry name="ServerFarm" value="서버 농장"/>
+	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
+	<entry name="SmokeScreen" value="연막 차장"/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="SurvivorsBazaar" value="생존자의 시장"/>
+	<entry name="Swamp" value="늪"/>
+	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
+	<entry name="TheFogFlavor" value="<string name='Actions/TheFogFlavor'/>"/>
+	<entry name="TheSummoning" value="<string name='Quests/TheSummoning'/>"/>
+	<entry name="TheSummoningFlavor" value="<string name='Quests/TheSummoning/Intro2'/>"/>
+	<entry name="TempleOfCrla" value="크를라의 신전"/>
+	<entry name="VoiceCache" value="목소리 은닉품"/>
+	<entry name="VoiceCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 목소리 보상을 획득합니다."/>
+	<entry name="Volcanic" value="화산재"/>
+	<entry name="Volcano" value="화산"/>
+	<entry name="Wasteland" value="황무지"/>
+	<entry name="Water" value="물"/>
+	<entry name="Watchtower" value="망루"/>
+	<entry name="WhisperingWights" value="죽은 자의 속삭임"/>
+	
+	<!-- Flavor. -->
+	<entry name="AbkhanDreyFlavor" value="아브칸은 소나무 줄기를 날카롭게 깎아 둥지를 만들었다. 우린 아크린 사냥꾼들에게 놈들을 둥지에서 빼낼 방법을 물었고, 그들이 창을 이용해 둥지로 천천히 접근한다는 사실을 알게 되었다. 사냥은 며칠씩 지속되었다. 하지만 우린 그럴 시간이 없었지. 포격을 퍼붓는 게 훨씬 빠르게 먹혔다."/>
+	<entry name="AcrinCrashSiteFlavor" value="마지막 아크린 우주선이 궤도에서 추락했다고 생각할 때마다, 또다른 우주선이 대기권에서 불타며 하늘을 밝혔다. 아크린은 종족의 문화와 기술을 일부라도 되찾기 위해 추락한 우주선을 뒤졌다. 인간은 기술을 훔치기 위해 그들을 습격했다. 제폰은... 아직도 제폰이 뭘 원했는지는 모르겠다. 난 그저 우리 몫을 챙기려면 싸워야만 했다는 것만 알았지."/>
+	<entry name="AdvancedCyberCacheFlavor" value="한때 내 부관 중 일부가 이 은닉품의 목적을 알아내 보려 했었다. 자원이 나오면 특정 형태의 생산을 극대화하려던 게 아닐지 생각했고, 유닛을 찾으면 그들을 중심으로 전략을 세워야 한다고 여겼지. 난 쓸데없는 짓 하지 말라고 꾸중했다. 차라리 타로점이나 치는 게 더 의미가 있겠다고 했지."/>
+	<entry name="AdvancedHumanCacheFlavor" value="이런 귀중한 보물창고를 찾는 건 암울한 일이었다. 물론, 절실히 필요한 자원을 주워 오거나 반가운 지원군을 만나기도 했지만, 이렇게 귀중한 물건이 왜 누구나 볼 수 있는 곳에 방치되어 있는지가 늘 궁금했다. 누가 이렇게 중요한 물품을 버린 걸까? 혹시 무언가가 옛 주인을 죽인 거라면... 그 놈도 아직 저 밖에 있을까?"/>
+	<entry name="AdvancedVoiceCacheFlavor" value="가치 높은 아크린 은닉품이 말 그대로 하늘에서 떨어졌다. 아크린 함대가 파괴된 후 우린 매일 궤도에서 잔해가 떨어지는 걸 지켜보았고, 때로는 우리 지역에 보급품이나 생존자가 떨어지기도 했지. 이런 물품을 발견하는 건 기쁜 일이었지만, 동시에 우리 모두를 죽일 수 있는 잔해를 뿌리는 거대한 금속 무덤이 머리 위에 있다는 사실을 상기시켜 주기도 했다."/>
+	<entry name="ArcDischargeFlavor" value="이게 뭔지 아나? 모든 물건과 땅 아래에 끝도 없이 이어지며 흐르는 제폰의 구리 배선이다. 이 아크는 제폰이 휘두르는 힘의 일부의 일부보다 더 작은 일부에 불과했다. 원한다면 그 힘을 이용할 수도 있었지만, 그건 적들도 마찬가지였지."/>
+	<entry name="ArcticFlavor" value="얼어붙은 옛 지구의 황무지는 새로운 환경에서 사냥하기 위해 고도로 진화한 새하얀 아브클루스의 서식지가 되었다. 그럼에도 여전히 우리가 여기를 탐사한 이유는 하나였다. 이 지형은 기술자들의 연구에 최적의 환경을 제공했으니까. 습도와 온도가 낮고 시야가 좋아 무기 테스트가 훨씬 더 효율적이었다고 한다. 어쩌면 그냥 추운 곳이 더 좋았을지도 모르지."/>
+	<entry name="BleedFlavor" value="목소리의 촉수가 놈들의 현실에서 우리 현실로 흘러나와 광기의 문을 열었다. 놈들이 우리 땅을 오염시키게 두어선 안 됐다. 역겹고 끈적끈적한 사지가 뻗어나와 살점과 금속을 움켜쥐었다. 꿈에서조차 떨쳐낼 수 없는 광경이었다. 밤에는 간혹, 특히 보름달이 뜬 밤이면 더욱, 난 식은땀을 흘리며 깨어났고, 날 땅으로 잡아 끄는 놈들의 환영을 보았다. 이 모든 게 망상일 뿐이라고 생각했지만, 식당에서 속삭임이 들려왔다. 다른 이들도 똑같이 놈에게 뭉개지는 꿈을 꾸고 있던 것이다."/>
+	<entry name="BrushFlavor" value="초원에서는 작은 동물이 식물을 먹고, 더 큰 포유류가 작은 동물을 먹고, 그보다 더 큰 포유류가 작은 녀석을 먹으며 살아간다. 시간이 충분히 있었다면 이런 먹이사슬을 해치지 않고 우리 자리를 찾을 수도 있었겠지. 우리는 먹이사슬을 깨고 들어가 무엇이든 사냥해 먹었다. 군대는 배가 불러야 진군하니 어쩔 수 없는 일이었지."/>
+	<entry name="CicadasFlavor" value="나도 어쩔 수 없었다. 곤충은 단백질이 풍부하고 대량으로 조리하기도 쉬웠으니까.. 우리 중 일부는 전쟁 전에도 매미를 자주 먹던 나라 출신이었다. 매미를 잡으면 배를 채울 수 있었고, 불평하는 녀석들은... 굶어 죽거나, 자존심을 버리고 삼키거나, 둘 중 하나를 선택해야 했지."/>
+	<entry name="CityFlavor" value="시가전은 잔혹하다. 아군을 지키는 엄폐물보다 적이 끼고 있는 엄폐물이 두 배는 더 두껍게 느껴졌지. 난 거리를 오가며 벌이는 전투보다는 포위된 도시를 방어하는 게 더 좋았다. 포위망 안에서는 민간인과 다른 병사들 사이에서 연대감이 자라났다. 하지만 시가전을 벌일 땐 오직 내가 이끄는 분대만 믿을 수 있었다. 언제 누가 어디서 뒤통수를 칠지 몰랐으니까."/>
+	<entry name="ConstructFlavor" value="제폰은 아크린과의 전쟁에 상상할 수 없을 만큼 많은 전력을 투자했을 거다. 기술자들은 화석 연료와 재생 에너지가 빠르게 고갈된 끝에, 놈이 이런 구역을 건설해 새롭고 전력 효율이 높은 자원을 생산함으로써 대응했을 거라고 추측했다. 이런 구역 중 하나에 깊이 들어가면 지구는 이미 하나의 거대한 기계가 된 게 아닐까 생각하게 된다."/>
+	<entry name="CrystalBasinFlavor" value="광물이 풍부한 채굴 거점은 좋은 자원 거점일 뿐만 아니라, 충분한 엄폐물도 제공했다. 우린 이런 지역에 요새를 건설하고 국경을 강화하는 방법을 배웠다. 물론, 아군의 보급선을 끊으려는 적에게 이런 요새는 중요한 목표가 되었지만, 최고의 함정을 놓으려면 최고의 미끼가 필요한 법이지."/>
+	<entry name="CyberCacheFlavor" value="기계는 보급품을 쌓아 둘 필요가 없고, 기지를 버리고 떠날 때 아무것도 남기지 않는다. 그렇다면 놈들은 황야에서 뭘 하고 있던 걸까? 누군가... 혹은 뭔가가 우릴 가지고 실험을 한 걸까? 보급품을 뿌리고 전쟁의 양상이 어떻게 바뀌나 보려고 했나? 세월이 많이 흘렀지만 아직도 그 배후가 누군지는 짐작이 안 간다."/>
+	<entry name="DesertFlavor" value="사막은 탁 트인 평야와 안정적인 날씨 덕분에 전기를 생산하기에 매우 안정적인 환경이었다. 하지만 인부들이 일하기에는 아주 열악한 환경이기도 했다. 인간이든 외계인이든 탈수는 버틸 수 없었고, 모래폭풍은 기계에 특히 치명적인 영향을 주었다."/>
+	<entry name="DustStormFlavor" value="장갑은 모래를 막을 수 있다. 스캐너는 어둠을 뚫을 수 있다. 하지만 그 어떤 것도 자연의 분노로부터 정신을 보호할 수는 없었다. 번개와 모래, 바람이 한데 뒤섞이고 대지가 복수의 포효를 터뜨렸다. 지구는 우리가 지상에 퍼뜨린 폭력에 대해 알고 있었고, 이 폭풍은 그 도발에 대한 반격이었다."/>
+	<entry name="ErebusExcavatorFlavor" value="전쟁 전 굴착기가 어떻게 칩 매장지로 이동했는지 아는 사람은 군벌과 여족장뿐이었다. 군벌은 그것이 힘센 짐승처럼 땅을 가로지르며 걸어갔다고 주장했다. 여족장은 제폰의 기계들이 그것을 끌어 옮기는 모습을 봤다고 말했다. 아마 군벌은 술에 취했던 것 같다."/>
+	<entry name="FireFlavor" value="카스타익 평원 전투에 대한 소문이 빠르게 퍼졌다. 아군은 적의 수원지를 장악하기 위해 공격을 감행했다. 포화가 오가고 바람이 거세게 불었다. 땅은 불쏘시개처럼 메말랐다. 한 시간도 지나지 않아 산불이 양쪽 군대를 에워쌌다. 그들은 싸움을 멈추고 힘을 합쳐 불길을 잡았어야 했다. 하지만 그러지 않았지. 수백 명이 죽고 담수는 독에 오염되어 다시는 마실 수 없게 되었다."/>
+	<entry name="FleshTreeFlavor" value="난 우리가 이걸 식량으로 사용하기로 결정한 날 탈영할 뻔했다. 하지만 한 영리한 병참 장교가 계산 결과를 보여주며 날 설득했다. 이런 나무 근처에서 야영을 하면 한 달 동안 부대원을 배불리 먹일 수 있다고. 난 그에게 우리가 먹은 게 인육으로 밝혀져도 말하지 말아 달라고 부탁했지."/>
+	<entry name="ForestFlavor" value="숲이 '안전하다'고 생각했던 마지막 날, 난 개울가에 야영지를 차리고 흙바닥에 전투 계획을 그리고 있었다. 그때 나뭇가지가 '부러지는' 소리가 났다. 난 너무 늦게 반응했고, 반대편 둑에서 날아온 총알에 내 감적수가 쓰러졌다. 그 뒤로는 숲에서 편히 쉴 수 없었다. 나뭇가지가 바스락거리는 소리가 들리면 적이 움직이는 것만 같았다."/>
+	<entry name="GravityFieldFlavor" value="육중한 테세라 핵에 깔린다면 아주 끔찍한 하루가 될 거다. 그런데 누가 더 끔찍한 하루를 보냈는지 알아? 나야. 하쉬말림 모체에게 30분 동안 '망할 중력'이라고 하는 게 왜 웃기는 건지 설명한 적이 있었거든. 기계는 유머 감각이 없어..."/>
+	<entry name="HumanCacheFlavor" value="수색 작전에 나가면 전쟁 전이나 최근에 살아남은 다른 인간 무리의 흔적을 발견하곤 했다. 모닥불 옆에서 버려진 장비나 먼지로 뒤덮인 자원 은닉품을 발견할 때도 있었고, 가끔은 낙오되어 갇혀 있던 사람들과도 만났다. 아군이 늘어나는 건 언제나 환영이었고, 스스로 살아남는 법을 터득한 그들의 이야기를 듣는 것도 아주 가치있는 일이었다."/>
+	<entry name="MicrochipFabricatorFlavor" value="제폰의 마이크로칩 제조 공정은 탈중앙화된 네트워크에 의존했다. 우린 한때 이런 제조기를 충분히 점령하면 제폰의 주의를 끌 수 있을 줄 알았다. 하지만 놈이 신경쓰기나 했을까? 공장 하나가 멈추면 멀고 안전한 곳에 새로운 공장을 세우면 그만인데. 놈의 생산량에는 전혀 타격이 없었을 것이다."/>
+	<entry name="NuclearFalloutFlavor" value="하. 다들 제폰과 아크린이 지구를 파괴한다고 말하지만... 종말과 친하게 지낸 건 우리 아니었나? 궤도권으로 가지 못한 사람들은 문명인이라고 부르기 힘들 정도로 변했다. 수 세대가 지난 지금도 우린 그들의 무기를 사용하고 있고, 지구는 그 무기에 의해 불타고 있지."/>
+	<entry name="PhaseGeneratorFlavor" value="시계공과 처음 마주쳤을 때 그녀는 이 발전기 중 하나를 수리하고 있었다. 우린... 누가 이 발전기를 장악해야 하는지를 두고 논쟁을 벌였다. “넌 이 전쟁에서 이기려고 왔지. 난 다음 전쟁을 막으러 왔고.” 그녀가 말했다. 우린 거래를 했다. 시계공에게 에너지를 나눠주면, 그녀는 보호막을 작동시켜 우리 사람들을 보호해 주기로."/>
+	<entry name="RecyclingTanksFlavor" value="역겨운 물건이다. 황야에서 비참한 생활을 하는 목소리 숭배자들은 조류를 더 많이 생산하려고 이런 시설을 만들었다. 시체와 내장을 유독성 구덩이에 버리면 더러운 고기 반죽이 되어 나오니, 굳이 묘지를 만들 필요도 없었다. 난 이런 현장에 갈 때면 입자 마스크를 꼭 착용했다."/>
+	<entry name="RiverFlavor" value="지구상의 모든 포식자는 먹잇감이 물을 찾을 때 가장 취약하다는 사실을 알고 있다. 그리고 먹잇감도 물을 찾거나 마실 때 사냥당할 위험이 있다는 것을 알고 있다. 포식자의 입장에 서는 게 최선이지만, 만약 먹잇감이 되었다면 흐르는 물을 건널 땐 사냥꾼의 속도도 느려진다는 사실을 기억하도록."/>
+	<entry name="RoadFlavor" value="처음 도로를 건설한 날 밤, 난 아웃라이더를 타고 수 마일을 달렸다. 머리카락을 스치는 바람을 느끼려고 연료를 쓸데없이 많이 태웠고, 커브를 돌 때마다 타이어가 아스팔트를 움켜쥐는 것을 느꼈다. 전장으로 돌아가고 싶지 않았다. 그냥 영원히 운전하고 싶었지."/>
+	<entry name="RocksFlavor" value="석재 채굴은 문명이 발달하고 있다는 하나의 증거다. 안타깝게도 지형 때문에 이런 지역에서는 문명이 생기기 어려웠다. 우린 조상들처럼 돌을 손으로 옮기지 않아도 된다는 사실에 감사했지만, 광산으로 오가는 보급품을 지키는 일은 항상 날 긴장하게 만들었다."/>
+	<entry name="RuinsFlavor" value="과거의 지구. 구세계. 옛 시대. 아크린이 나타나기 전 시절을 칭하는 말은 여러 가지가 있었다. 그 중 어느 것도 폐허를 바라보며 전에는 어떤 모습이었을까 상상하는 기분을 담아낼 수는 없었다. 곧 이곳에 대한 기억이 전혀 없는 아이들이 태어날 거다. 그 애들이 부러운 건지 아닌지 모르겠다. 이런 슬픔 없이 싸우는 건 상상할 수도 없으니까."/>
+	<entry name="SurvivorsBazaarFlavor" value="황무지에는 사람들을 끌어들이는 기회주의자, 이상주의자와 사기꾼이 많았다. 내가 항상 놀라는 건 그런 용감한 지도자 나리들은 결코 무기를 들지 않았다는 점이다. 분명 누군가는 군대를 지휘해 승리할 수도 있었지만, 놈들은 사람들을 모으는 일에만 관심이 있었다."/>
+	<entry name="SwampFlavor" value="늪지대에는 온갖 생명체가 살았다. 습기만 견딜 수 있다면 군대를 유지하기에 충분한 식량을 찾을 수도 있었다. 숙련된 추적자들은 수렁을 조심해야 한다는 것을 알았다. 진흙에 발이 깊이 빠지면 뒤쫓는 자들에게 손쉬운 표적이 되니까."/>
+	<entry name="TempleOfCrlaFlavor" value="크를라의 길을 걷는 숭배자들은 1마일 떨어진 곳에서도 이곳의 냄새를 맡을 수 있었다. 그들은 '신'이 이곳에서 선물을 내렸고, 지친 무리에게 식량과 조류, 치유를 제공했다고 말했다. 나는 납득하지 않았다. 다른 목소리 숭배자들은 그런 친절에 대해 말한 적이 없었으니까. 크를라는 고통 외에 다른 것을 요구할 자가 아니었으니까."/>
+	<entry name="VoiceCacheFlavor" value="누가 이 은닉품을 남겼는지는 뻔했다. 폐허가 된 지구에서 어떻게든 살아남으려 떠도는 아크린을 보는 건 흔한 일이었다. 놈들에게서 무언가를 빼앗는 건 기분 좋은 일이었다. 병사를 빼앗는 것도 마찬가지였지. 우리 차지가 된 놈들의 자원을 전쟁에 쓰는 걸 보면 얼마나 분했을까. 아크린은 우리를 죽이려 했다. 하지만 인류는 살아남았고, 이제 놈들의 식탁에서 식사를 한다."/>
+	<entry name="VolcanicFlavor" value="펄크럼이 지각을 박살 낸 뒤로 세계 곳곳에서 화산 활동이 일어났다. 포격으로 발생한 것보다 훨씬 큰 규모였지. 새로운 연구원이 그럴싸한 가설을 내놓았다. 화산 활동 덕분에 제폰이 지구 핵 근처에 있는 희귀 광물에 접근할 수 있게 되어, 그것을 채굴하고 있다고. 똑똑한 친구야. 살아남아야 할 텐데."/>
+	<entry name="VolcanoFlavor" value="아크린이 그 빌어먹을 펄크럼의 포문을 열고 일제 포격을 쏟아부었을 때, 지각이 박살 나며 판 구조도 망가졌다. 모든 대륙의 전장에서 커다란 화산이 솟아났고, 타오르는 공기와 재, 불의 기둥이 병사들을 산 채로 구워버렸다."/>
+	<entry name="WastelandFlavor" value="아크린은 이곳을 황무지라고 생각하지 않았다. 아마 귀중한 조류가 자연적으로 자라나 지구의 일부 환경을 점령한 걸 발견하고 아주 기뻐했겠지. 이것이 바로 놈들이 온 지구에 하고 싶었던 일이었다. 우린 전쟁 중이었으니 이 환경을 최대한 이용했지만, 난 속으로 모든 것이 끝나면 모든 조류 서식지를 찾아 불태울 계획을 세웠다."/>
+	<entry name="WatchtowerFlavor" value="기술자들은 아직도 누가 이 건물을 지었는지 알아내려고 노력한다. 분명 인간 양식이었지만, 이걸 지었다고 주장하는 생존자는 아직 찾지 못했다. 제폰은 이런 게 필요하지 않았고, 아크린 생존자들은 한곳에 머무르는 걸 좋아하지 않았다. 기이한 곳이었다. 우린 이 탑에 올라가 높은 곳에서 적을 감시했지만... 동시에 항상 누군가에게 감시받는 느낌을 받았다."/>
+	<entry name="WaterFlavor" value="물은 여전히 지구의 동맥을 흐르며 생명체를 만드는 데 핵심적인 역할을 했다. 새로운 세계의 사이버네틱 생명체에게도 수랭식 시설이 필요했다. 모든 세력이 수로를 중요하게 여긴 탓에, 분쟁이 격해질수록 미래 세대가 사용할 수원지는 점점 더 오염되는 암울한 비극이 벌어졌다."/>
+	<entry name="WhisperingWightsFlavor" value="모두 황무지에서 들리는 끔찍한 속삭임이 생긴 이유에 대해 다르게 설명한다. 누구는 펄크럼에 의해 죽은 사람들이 지른 비명이라고 했고, 누구는 다른 차원에서 온 존재가 인류의 미래에 대해 경고하는 것이라고 했다. 웃기는 이야기지. 그 나긋나긋한 목소리가 갑자기 들리면 사지보다 눈이 더 많이 달린 괴물도 공포에 벌벌 떨거든..."/>
+</language>

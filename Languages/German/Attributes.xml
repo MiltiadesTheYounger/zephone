@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulatedGrowth" value="Kumuliertes Wachstum"/>
+	<entry name="AccumulatedGrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="Accuracy" value="Genauigkeit"/>
+	<entry name="AccuracyDescription" value="Jeder Punkt Genauigkeit erhöht die Trefferchance um etwa 8,3 %."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="Aktionspunkte"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="Max. Aktionspunkte"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="Aktionen"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="Die Anzahl der Aktionen, die die Einheit durchführen kann. Der Einsatz einer Aktion kann die gesamte Bewegung aufbrauchen."/>
+	<entry name="AdditionalMembersHit" value="Gruppenmitglieder treffen mit halber Genauigkeit"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Algae" value="Algen"/>
+	<entry name="AlgaeDescription" value="Wird für die Produktion und Wartung von Stimmen-Einheiten verwendet."/>
+	<entry name="AlgaeIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeCost" value="Algenkosten"/>
+	<entry name="AlgaeCostDescription" value="Die Menge an Algen, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="AlgaeCostIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="AlgaeUpkeep" value="Algen-Unterhalt"/>
+	<entry name="AlgaeUpkeepDescription" value="Die Menge an Algen, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="AlgaeUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
+	<entry name="Antimatter" value="Antimaterie"/>
+	<entry name="AntimatterDescription" value="Wird für die Produktion und Wartung von fortgeschrittenen Spezialeinheiten verwendet."/>
+	<entry name="AntimatterIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterCost" value="Antimateriekosten"/>
+	<entry name="AntimatterCostDescription" value="Die Menge an Antimaterie, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="AntimatterCostIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="AntimatterUpkeep" value="Antimaterie-Unterhalt"/>
+	<entry name="AntimatterUpkeepDescription" value="Die Menge an Antimaterie, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="AntimatterUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
+	<entry name="Armor" value="Panzerung"/>
+	<entry name="ArmorDescription" value="Verringert den <icon height='20' texture='Icons/Attributes/Damage'/> Schaden, der durch Waffen und Fähigkeiten verursacht wird. <string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="ArmorDescription/Reduction" value="Jeder Punkt Panzerung verringert den erlittenen Schaden um etwa 8,3 % (bis zu 83 %). Waffen und Fähigkeiten ignorieren aber eine Anzahl von Panzerungspunkten bis zu ihrem Wert für die Panzerungsdurchdringung."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="Panzerungsschaden-Reduktion"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ArmorPenetration" value="Panzerungsdurchdringung"/>
+	<entry name="ArmorPenetrationDescription" value="Der Anteil der Panzerung eines Ziels, den die Waffe ignoriert, wenn eine Einheit damit angreift."/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="Angriffe"/>
+	<entry name="AttacksDescription" value="Die Anzahl der Angriffe einer Waffe, die bei einem Angriff ausgeführt wird."/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Angriffe pro zusätzlich anvisiertem Gruppenmitglied"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="BuildingSlots" value="Gebäudeplätze"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="BlockSight" value="Sicht von nicht-angrenzenden Feldern"/>
+	<entry name="BlockSight+" value="Blocks"/>
+	<entry name="CanBeShaken" value="erschüttert"/>
+	<entry name="CanBeShaken+" value="Kann sein"/>
+	<entry name="CanBeShaken-" value="Kann nicht sein"/>
+	<entry name="CanBeShakenIcon" value="<icon height='20' texture='Icons/Traits/Shaken'/>"/>
+	<entry name="CanCaptureOutposts" value="Außenposten erobern"/>
+	<entry name="CanCaptureOutposts+" value="Kann"/>
+	<entry name="CanCaptureOutposts-" value="Kann nicht"/>
+	<entry name="CanCaptureOutpostsIcon" value="<icon height='20' texture='Icons/Traits/Outpost'/>"/>
+	<entry name="CanEnemyOverwatch" value="Überwachen von Angriffen mit dieser Einheit als Ziel"/>
+	<entry name="CanEnemyOverwatch-" value="Verhindert"/>
+	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="passives Heilen ohne komplette Bewegungspunkte"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Kann"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Kann nicht"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="CanOverwatch" value="Überwachung"/>
+	<entry name="CanOverwatch+" value="Kann"/>
+	<entry name="CanOverwatch-" value="Kann nicht"/>
+	<entry name="CanOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CargoSlots" value="Frachtplätze"/>
+	<entry name="CargoSlotsDescription" value="Die Anzahl der Einheiten (nicht groß), die diese Einheit in ihrem Frachtraum transportieren kann."/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="Frachtplätze erforderlich"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="Charges" value="Ladungen"/>
+	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
+	<entry name="Chips" value="Chips"/>
+	<entry name="ChipsDescription" value="Wird für die Produktion und Wartung von Cyber-Einheiten verwendet."/>
+	<entry name="ChipsIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsCost" value="Chips-Kosten"/>
+	<entry name="ChipsCostDescription" value="Die Menge an Chips, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="ChipsCostIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="ChipsUpkeep" value="Chips-Unterhalt"/>
+	<entry name="ChipsUpkeepDescription" value="Die Menge an Chips, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="ChipsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
+	<entry name="CityDamageReduction" value="Stadtschaden-Reduktion"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityLoyaltyUpkeep" value="Loyalitätsunterhalt der Stadt"/>
+	<entry name="ConcordatBuyCost" value="Konkordats-Kosten"/>
+	<entry name="ConsumedActionPoints" value="Verbrauchte Aktionspunkte"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="Verbrauchte Bewegung"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="Abklingzeit"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="CoverDamageReduction" value="Deckungsschaden-Reduktion"/>
+	<entry name="CoverDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Damage" value="Schaden"/>
+	<entry name="DamageDescription" value="Der Schaden, der einer feindlichen Einheit mit jedem Angriff der Waffe zugefügt wird. <string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="DamageDescription/Reductions" value="Der verursachte Schaden wird durch die max. Trefferpunkte eines einzelnen Gruppenmitglieds der feindlichen Einheit begrenzt und durch die Genauigkeit, die feindliche Panzerung und die Schadensreduzierung weiter reduziert."/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="Erlittener Schaden"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Todeserfahrung"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Moral durch Tod"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="DimensionalEchoes" value="Dimensionsechos"/>
+	<entry name="DimensionalEchoesDescription" value="Wird für die Produktion und Wartung von fortgeschrittenen Stimmen-Einheiten verwendet."/>
+	<entry name="DimensionalEchoesIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesCost" value="Dimensionsecho-Kosten"/>
+	<entry name="DimensionalEchoesCostDescription" value="Die Menge an Dimensionsechos, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="DimensionalEchoesCostIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DimensionalEchoesUpkeep" value="Dimensionsecho-Unterhalt"/>
+	<entry name="DimensionalEchoesUpkeepDescription" value="Die Menge an Dimensionsechos, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
+	<entry name="DuplicateTypeCost" value="Typenkosten verdoppeln"/>
+	<entry name="Energy" value="Energie"/>
+	<entry name="EnergyDescription" value="Wird für die Wartung von Gebäuden sowie die Wartung und Produktion von Spezialeinheiten verwendet."/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="Energiekosten"/>
+	<entry name="EnergyCostDescription" value="Die Menge an Energie, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyUpkeep" value="Energie-Unterhalt"/>
+	<entry name="EnergyUpkeepDescription" value="Die Menge an Energie, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EvasionDamageReduction" value="Ausweichschaden-Reduktion"/>
+	<entry name="EvasionDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="Experience" value="Erfahrung"/>
+	<entry name="ExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="ExperienceGainRate" value="Erfahrungsgewinn-Rate"/>
+	<entry name="FlatResourcesFromOutposts" value="Ressourcenpauschale von Außenposten"/>
+	<entry name="Food" value="Nahrung"/>
+	<entry name="FoodDescription" value="Wird für Erhaltung der Bevölkerung in Städten sowie die Wartung und Produktion von hauptsächlich menschlichen und Stimmen-Einheiten verwendet."/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="Nahrungskosten"/>
+	<entry name="FoodCostDescription" value="Die Menge an Nahrung, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodUpkeep" value="Nahrungsunterhalt"/>
+	<entry name="FoodUpkeepDescription" value="Die Menge an Nahrung, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="Gruppengröße"/>
+	<entry name="GroupSizeDescription" value="Die Anzahl der lebenden sowie der gesamten Gruppenmitglieder einer Einheit. <string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="GroupSizeDescription/Change" value="Gruppenmitglieder werden verloren und wiedergewonnen, wenn die Einheit Trefferpunkte verliert und wiedergewinnt. Verstorbene Gruppenmitglieder verursachen keinen Schaden und verringern so den Gesamtschaden der Einheit."/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="GroupSizeMax" value="Max. Gruppengröße"/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
+	<entry name="Growth" value="Wachstum"/>
+	<entry name="GrowthDescription" value="Wie schnell die Stadt wächst. <string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="GrowthDescription/Decrease" value="Die Wachstumsrate der Bevölkerung sinkt, wenn es einen Mangel an Nahrungsmitteln oder Wohnraum gibt."/>
+	<entry name="GrowthDescription/Increase" value="Sobald genug Wachstum angehäuft wurde, steigt die Bevölkerung um 1. <string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HealingRate" value="Heilungsrate"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="HealingReceived" value="Erhaltene Heilung"/>
+	<entry name="Hitpoints" value="Trefferpunkte"/>
+	<entry name="HitpointsDescription" value="Die Menge an <icon height='20' texture='Icons/Attributes/Damage'/>-Schaden, den die Einheit erleiden kann, bevor sie stirbt. <string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="HitpointsDescription/Healing" value="Einheiten werden automatisch geheilt, wenn sie keinen Schaden erlitten haben und über ihre gesamten Bewegungs- und Aktionspunkte verfügen."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFromMax" value="Trefferpunkte"/>
+	<entry name="HitpointsFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="Max. Trefferpunkte"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="IgnoreLineOfSight" value="Sichtlinie"/>
+	<entry name="IgnoreLineOfSight+" value="Ignoriert"/>
+	<entry name="IgnoreZoneOfControl" value="Bewegung durch feindliche Einheiten"/>
+	<entry name="IgnoreZoneOfControl+" value="Ermöglicht"/>
+	<entry name="Influence" value="Einfluss"/>
+	<entry name="InfluenceDescription" value="Wird zum Erwerb und zur Erhaltung von Stadtfeldern, zum Auslösen von Spezialfähigkeiten, zur Rekrutierung von Heldeneinheiten und zum Kauf von Gegenständen und Ressourcen verwendet."/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="Einflusskosten"/>
+	<entry name="InfluenceCostDescription" value="Die Menge an Einfluss, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCostFromExperience" value="Einflusskosten"/>
+	<entry name="InfluenceCostFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerAlliance" value="Einfluss pro Bündnis für beide Parteien"/>
+	<entry name="InfluencePerPopulation" value="Einfluss pro Bevölkerung"/>
+	<entry name="InfluencePerTradeAgreement" value="Einfluss pro Handelsabkommen für beide Parteien"/>
+	<entry name="InfluenceUpkeep" value="Einfluss-Unterhalt"/>
+	<entry name="InfluenceUpkeepDescription" value="Die Menge an Einfluss, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="Unverwundbarkeitsschaden-Reduktion"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="Gegenstandplätze"/>
+	<entry name="ItemSlotsDescription" value="Die Anzahl der Gegenstände, mit denen diese Einheit ausgestattet werden kann."/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="Stufe"/>
+	<entry name="LevelDescription" value="Die Erfahrungsstufe der Einheit. <string name='Attributes/LevelDescription/Effect'/><br/><br/><string name='Attributes/LevelDescription/Death'/> <string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="LevelDescription/Effect" value="Jede Stufe über der ersten erhöht die <icon height='20' texture='Icons/Attributes/Hitpoints'/> Trefferpunkte und den <icon height='20' texture='Icons/Attributes/Damage'/> Schaden der Einheit um 5 % sowie die <icon height='20' texture='Icons/Attributes/Morale'/> Moral um 10 %."/>
+	<entry name="LevelDescription/Death" value="Wenn eine Einheit stirbt, erhalten der Angreifer und seine Verbündeten in einem Radius von 3 Feldern um die betroffenen Einheit Erfahrung. Der Angreifer erhält immer Erfahrung, unabhängig von der Entfernung."/>
+	<entry name="LevelDescription/DeathNoAttacker" value="Wenn es keinen Angreifer gibt, wenn eine Einheit stirbt, erhalten alle Feinde der betroffenen Einheit in einem Radius von 3 Feldern Erfahrung."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="Max. Stufe"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="Lebensraub"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFromDamage" value="Lebensraub"/>
+	<entry name="LifeStealFromDamageIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="Loyalität"/>
+	<entry name="LoyaltyDescription" value="Die Hingabe der Bevölkerung für deine Sache. <string name='Attributes/LoyaltyDescription/Effect'/> <string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="LoyaltyDescription/Effect" value="Jeder positive Loyalitätspunkt erhöht die gesamte Ressourcenproduktion der Stadt um 1 %, während jeder negative Punkt sie um 2 % verringert (bis zu -50 %)."/>
+	<entry name="LoyaltyDescription/CityPenalty" value="Jede Stadt nach der ersten reduziert die Loyalität in allen Städten um 6."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyUpkeep" value="Loyalitäts-Unterhalt"/>
+	<entry name="LoyaltyUpkeepDescription" value="Die Menge an Loyalität, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MaximumHitpointsPerGroupMember" value="Max. Trefferpunkte pro Gruppenmitglied"/>
+	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="Der psychologische Zustand der Einheit. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="MoraleDescription/Regeneration" value="Die Moral regeneriert sich, wenn die Einheit im vorherigen Zug keinen Schaden erlitten hat."/>
+	<entry name="MoraleDescription/Shaken" value="Unter 66 % Moral werden die Einheiten <icon height='20' texture='Icons/Traits/Shaken'/> erschüttert, was ihre Angriffe schwächt und die feindlichen Angriffe um 17 % verstärkt."/>
+	<entry name="MoraleDescription/Broken" value="Unter 33 % Moral werden die Einheiten <icon height='20' texture='Icons/Traits/Broken'/> Kaputt, was ihre Angriffe schwächt und die feindlichen Angriffe um 33 % verstärkt."/>
+	<entry name="MoraleDescription/Death" value="Wenn eine Einheit stirbt, verlieren die Verbündeten der Einheit in einem Radius von 3 Feldern um die betroffene Einheit und den Angreifer Moral basierend auf dem Erfahrungswert der Einheit. Gleichzeitig gewinnen die Verbündeten des Angreifers im selben Gebiet an Moral."/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLoss" value="Moralverlust"/>
+	<entry name="MoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleRegeneration" value="Moralregeneration"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="Max. Moral"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="Bewegung"/>
+	<entry name="MovementDescription" value="Die Anzahl der Felder, über die sich eine Einheit in einem Zug bewegen kann. Unwegsames Gelände erfordert mehr als einen Bewegungspunkt. Wenn du dich auf ein Feld neben einem Feind bewegst, endet die Bewegung."/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementCost" value="Bewegungskosten"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="Max. Bewegung"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Minerals" value="Mineralien"/>
+	<entry name="MineralsDescription" value="Wird zum Bau von Gebäuden sowie zur Wartung und Produktion von hauptsächlich menschlichen und Stimmen-Einheiten verwendet."/>
+	<entry name="MineralsIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsCost" value="Mineralienkosten"/>
+	<entry name="MineralsCostDescription" value="Die Menge an Mineralien, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="MineralsCostIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="MineralsUpkeep" value="Mineralien-Unterhalt"/>
+	<entry name="MineralsUpkeepDescription" value="Die Menge an Mineralien, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="MineralsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Minerals'/>"/>
+	<entry name="PerHeroCost" value="Kosten für jeden existierenden Helden"/>
+	<entry name="Population" value="Bevölkerung"/>
+	<entry name="PopulationDescription" value="Wird zum Betrieb von Gebäuden in der Stadt verwendet. Jedes aktivierte Gebäude benötigt 1 Bevölkerung, um zu funktionieren. Wird mehr Bevölkerung benötigt als aktuell erforderlich, wird die Leistung der Gebäude reduziert."/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationCost" value="Bevölkerungskosten"/>
+	<entry name="PopulationCostDescription" value="Die Menge an Bevölkerung, die durch die Aktion verbraucht wird."/>
+	<entry name="PopulationCostIcon" value="<icon height='20' texture='Icons/Attributes/Population'/>"/>
+	<entry name="PopulationFoodUpkeep" value="Bevölkerungs-Nahrungsunterhalt"/>
+	<entry name="PopulationInfluenceUpkeep" value="Bevölkerungs-Einfluss-Unterhalt"/>
+	<entry name="PopulationLimit" value="Wohnraum"/>
+	<entry name="PopulationLimitDescription" value="Der für die Bevölkerung verfügbare Lebensraum."/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLoyaltyUpkeep" value="Loyalitätsunterhalt der Bevölkerung"/>
+	<entry name="PopulationMineralsUpkeep" value="Bevölkerungs-Mineralienunterhalt"/>
+	<entry name="Production" value="Produktion"/>
+	<entry name="ProductionDescription" value="Produktionsgeschwindigkeit eines Gebäudes. Nach Abschluss einer Aufgabe bleibt überschüssige Produktion erhalten"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionPerBuildingFromCost" value="der Produktionskosten"/>
+	<entry name="ProductionPerBuildingFromCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="ProductionCost" value="Produktionskosten"/>
+	<entry name="ProductionCostDescription" value="Die Menge an Produktion, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="ProductionCostIcon" value="<string name='Attributes/ProductionIcon'/>"/>
+	<entry name="Radius" value="Radius"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="Range" value="Reichweite"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value="Die max. Entfernung in Feldern von der Einheit, in der ein Ziel von einer Waffe angegriffen oder von einer Fähigkeit beeinflusst werden kann. Wenn nicht anders angegeben, ist für den Einsatz einer Waffe oder Fähigkeit der Einheit auch eine freie Sichtlinie zum Ziel erforderlich."/>
+	<entry name="RangeMax" value="Max. Reichweite"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="Min. Reichweite"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="Fernkampf-Genauigkeit"/>
+	<entry name="RangedDamageReduction" value="Fernkampfschaden-Reduktion"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RequiredActionPoints" value="Erforderliche Aktionen"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="Erforderliche Bewegung"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Research" value="Forschung"/>
+	<entry name="ResearchDescription" value="Wird zum Entdecken neuer Technologien verwendet. Nach Abschluss einer Entdeckung bleibt überschüssige Forschung erhalten."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchCost" value="Forschungskosten"/>
+	<entry name="ResearchCostDescription" value="Die Menge an Forschung, die verbraucht wird."/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromCity" value="Kopierte Forschung"/>
+	<entry name="ResearchFromCityIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillFromExperience" value="Forschung"/>
+	<entry name="ResearchPerKillFromExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchUpkeep" value="Forschungs-Unterhalt"/>
+	<entry name="ResearchUpkeepDescription" value="Die Menge an Forschung, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResourcesFromCity" value="Kopierte Ressourcen"/>
+	<entry name="ResourcesPerKillFromCost" value="Ressourcen durch Kills"/>
+	<entry name="ResourcesPerReallocateFromCost" value="Zurückerlangte Ressourcen"/>
+	<entry name="DamageSelf" value="Selbstbeschädigung"/>
+	<entry name="DamageSelfIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Sight" value="Sicht"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="Wie weit die Einheit sehen kann.<br/><br/>Die Sichtlinie wird durch Geländemerkmale wie Wälder, Rauch und Klippen eingeschränkt."/>
+	<entry name="SlotsRequired" value="Erforderliche Plätze"/>
+	<entry name="SingularityCores" value="Singularitätskerne"/>
+	<entry name="SingularityCoresDescription" value="Wird für die Produktion und Wartung von fortgeschrittenen Cyber-Einheiten verwendet."/>
+	<entry name="SingularityCoresIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresCost" value="Singularitätskern-Kosten"/>
+	<entry name="SingularityCoresCostDescription" value="Die Menge an Singularitätskernen, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="SingularityCoresCostIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="SingularityCoresUpkeep" value="Singularitätskern-Unterhalt"/>
+	<entry name="SingularityCoresUpkeepDescription" value="Die Menge an Singularitätskernen, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="SingularityCoresUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/SingularityCores'/>"/>
+	<entry name="Standing" value="Diplomatisches Ansehen"/>
+	<entry name="TileAcquisitionRange" value="Felderwerb-Reichweite"/>
+	<entry name="TileAcquisitionRangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="TradeGain" value="Handelsgewinn"/>
+	<entry name="Transuranium" value="Transuran"/>
+	<entry name="TransuraniumDescription" value="Wird für die Produktion und Wartung von fortgeschrittenen menschlichen und Cyber-Einheiten verwendet."/>
+	<entry name="TransuraniumIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumCost" value="Transuran-Kosten"/>
+	<entry name="TransuraniumCostDescription" value="Die Menge an Transuran, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="TransuraniumCostIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="TransuraniumUpkeep" value="Transuran-Unterhalt"/>
+	<entry name="TransuraniumUpkeepDescription" value="Die Menge an Transuran, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
+	<entry name="TransuraniumUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Transuranium'/>"/>
+	<entry name="Turns" value="Züge"/>
+	<entry name="TurnsDescription" value="Die Anzahl an Zügen, die benötigt wird, um das Wesen zu produzieren."/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="Typengrenze"/>
+	<entry name="UnitCost" value="Einheitenkosten"/>
+	<entry name="UnitUpkeep" value="Einheiten-Unterhalt"/>
+</language>

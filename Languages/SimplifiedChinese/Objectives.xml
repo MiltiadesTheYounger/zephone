@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccomplishFriendlyZephonStanding" value="与<string name='Factions/Zephon'/>之间的外交态度达到<string name='Diplomacy/Standing5'/>或更高"/>
+	<entry name="AccumulateAntimatter" value="积累反物质<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateAntimatterWithTurnLimit" value="在%3%回合内积累反物质<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateDimensionalEchoes" value="积累位面回响<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateDimensionalEchoesWithTurnLimit" value="在%3%回合内积累位面回响<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateEnergy" value="积累能源<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateMinerals" value="积累矿物<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateResearch" value="积累科研<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateSingularityCores" value="积累奇点核心<nbsp/>（%1%/%2%）"/>
+	<entry name="AccumulateSingularityCoresWithTurnLimit" value="在%3%回合内积累奇点核心<nbsp/>（%1%/%2%）"/>
+	<entry name="ArrangeInventory" value="在英雄的物品栏中正确拼凑全部6个ICAR标志碎片"/>
+	<entry name="CaptureErelimPriest" value="捕获废土中的埃勒姆牧师"/>
+	<entry name="CaptureScientist" value="捕获废土中的科学家"/>
+	<entry name="CaptureUnit" value="捕获%2%"/>
+	<entry name="ExecuteOrder" value="执行指令%1%"/>
+	<entry name="ExecuteOrderWithHonorableAristocrat" value="使用<string name='Factions/HonorableAristocrat'/>执行指令%1%"/>
+	<entry name="ExecuteOrderWithEngineers" value="使用<string name='Units/Engineer'/>执行指令%1%"/>
+	<entry name="ExecuteOrderWithEngineersWithinTurns" value="在%4%回合内使用<string name='Units/Engineer'/>执行指令%1%"/>
+	<entry name="ExecuteOrderWithinTurns" value="在%4%回合内执行指令%1%"/>
+	<entry name="ExecuteQuantumReflector" value="使用英雄单位占领并使用%1%"/>
+	<entry name="FightChieftessForReyndverra" value="与女族长争夺瑞汶朵拉"/>
+	<entry name="KeepAcrinTitanAlive" value="确保<string name='Units/AcrinTitan'/>存活<nbsp/>（%1%/%2%）"/>
+	<entry name="KeepUnitAlive" value="确保%2%存活"/>
+	<entry name="KeepZephonTitanAlive" value="确保<string name='Units/ZephonTitan'/>存活<nbsp/>（%1%/%2%）"/>
+	<entry name="KillAcrinTitan" value="击杀<string name='Units/AcrinTitan'/><nbsp/>（%1%/%2%）"/>
+	<entry name="KillAnchoriteCamp" value="摧毁<string name='Factions/Anchorite'/>的营地"/>
+	<entry name="KillAnchoriteCity" value="摧毁<string name='Factions/Anchorite'/>最近建造的城市"/>
+	<entry name="KillAnnelidDefenders" value="击杀阿娜利德的守护者"/>
+	<entry name="KillArshem" value="击杀阿夏姆与他的蛮盗帮"/>
+	<entry name="KillAugursMonsters" value="击杀占兆官的怪物"/>
+	<entry name="KillBanditKing" value="击杀强盗王与他的精英"/>
+	<entry name="KillBlackSite" value="在%2%回合内摧毁泽芬绝密基地"/>
+	<entry name="KillBlockadingReavers" value="击杀拦路的蛮盗帮"/>
+	<entry name="KillBrynnAndForces" value="杀死布林和他的部队"/>
+	<entry name="KillCalem" value="在%2%回合内击杀<string name='Units/CalemVorshole'/>与他的帮派成员"/>
+	<entry name="KillCamp" value="摧毁营地"/>
+	<entry name="KillCultists" value="在%2%回合内击杀邪教徒"/>
+	<entry name="KillDreadPearlman" value="在%2%回合内摧毁“恐惧珍珠人”要塞"/>
+	<entry name="KillIronFeather" value="从你的意识中净化铁羽"/>
+	<entry name="KillMarkedUnit" value="击杀%2%"/>
+	<entry name="KillMech" value="摧毁巡逻机甲"/>
+	<entry name="KillMonster" value="击杀怪物"/>
+	<entry name="KillOminousLair" value="击杀<string name='Units/OminousLair'/>"/>
+	<entry name="KillOrin" value="击杀<string name='Units/Orin'/>"/>
+	<entry name="KillReaverCamp" value="摧毁蛮盗帮营地"/>
+	<entry name="KillServerDefenders" value="杀死服务器基站的守军"/>
+	<entry name="KillTheFalseSpeaker" value="摧毁%2%"/>
+	<entry name="KillTheTerror" value="击杀<string name='Units/TheTerror'/>"/>
+	<entry name="KillUnit" value="击杀敌方单位<nbsp/>（%1%/%2%）"/>
+	<entry name="KillWardenWithMercenaries" value="使用<string name='Units/HonorableAristocratMissileTeam'/>击杀%2%"/>
+	<entry name="KillWithUnit" value="使用%3%击杀敌人<nbsp/>（%1%/%2%）"/>
+	<entry name="KillYourHusband" value="杀死你的丈夫"/>
+	<entry name="KillZephonTitan" value="击杀<string name='Units/ZephonTitan'/><nbsp/>（%1%/%2%）"/>
+	<entry name="PreventUnitDestruction" value="阻止%2%被毁灭"/>
+	<entry name="ProduceUnit" value="生产%3%<nbsp/>（%1%/%2%）"/>
+	<entry name="RecoverSplenetics" value="在%3%回合内营救火爆团<nbsp/>（%1%/%2%）"/>
+	<entry name="RecoverHusband" value="拯救你的丈夫"/>
+	<entry name="RepairUnit" value="修理%2%"/>
+	<entry name="ResistVirus" value="抵挡病毒%2%回合"/>
+	<entry name="SurviveAugursMonsters" value="抵挡占兆官的怪物大军"/>
+	<entry name="SurviveCircusPerformers" value="抵挡坎比翁马戏团表演者的攻击"/>
+	<entry name="SurviveDrugAddictedReavers" value="抵挡染上毒瘾的蛮盗帮"/>
+	<entry name="SurviveInvasion" value="抵挡入侵"/>
+	<entry name="SurviveIronFeatherGuardian" value="抵挡铁羽护卫"/>
+	<entry name="SurviveRebelliousAcrin" value="抵抗反叛的厄金人"/>
+	<entry name="SurviveRebelliousMachines" value="抵抗反叛的机器"/>
+	<entry name="SurviveRebelliousVeterans" value="抵抗反叛的老兵"/>
+	<entry name="SurviveRivalForces" value="抵挡敌对部队"/>
+	<entry name="SurviveSplenetics" value="抵挡火爆团"/>
+	<entry name="SurviveUnknownAssailants" value="抵挡不明刺客"/>
+	<entry name="SurviveZephonAssaultForce" value="抵挡泽芬的进攻部队"/>
+	<entry name="VisitAugur" value="在附近的前哨站中寻找扭曲占兆官的踪迹<nbsp/>（%1%/%2%）"/>
+	<entry name="VisitBanditKing" value="将你的部队移动至强盗王的营地"/>
+	<entry name="VisitBlackSite" value="在%4%回合内将非大型英雄单位移动至与<string name='Units/ZephonBlackSite'/>相邻的地块"/>
+	<entry name="VisitCornucopia" value="使用任意单位取回丰饶之角"/>
+	<entry name="VisitCornucopiaWithHonorableAristocrat" value="使用<string name='Factions/HonorableAristocrat'/>取回丰饶之角"/>
+	<entry name="VisitCortexNodes" value="净化神经节点<nbsp/>（%1%/%2%）"/>
+	<entry name="VisitIronFeather" value="在附近的前哨站中寻找铁羽的踪迹<nbsp/>（%1%/%2%）"/>
+	<entry name="VisitJezina" value="在附近的前哨站中寻找耶日纳的踪迹<nbsp/>（%1%/%2%）"/>
+	<entry name="VisitLootStash" value="收集强盗王的宝藏"/>
+	<entry name="VisitOracleShardAndClearEnemies" value="拜访神谕碎片并肃清敌人"/>
+	<entry name="VisitPassage" value="寻找加西克网道<nbsp/>（%1%/%2%）"/>
+	<entry name="VisitRitualSite" value="将你的部队移动至仪式地点"/>
+	<entry name="VisitTileWithErelimPriest" value="使用<string name='Units/ErelimPriest'/>拜访地块"/>
+	<entry name="VisitTileWithHammerheadAndClearEnemies" value="使用<string name='Units/Hammerhead'/>拜访地块并肃清敌人<nbsp/>（%3%/%2%）"/>
+	<entry name="VisitTileWithHollowWarlord" value="使用<string name='Factions/HollowWarlord'/>拜访地块"/>
+	<entry name="VisitTileWithHonorableAristocrat" value="使用<string name='Factions/HonorableAristocrat'/>运送补给"/>
+	<entry name="VisitTileWithJackal" value="使用<string name='Units/TheJackal'/>拜访地块"/>
+	<entry name="VisitTileWithJezina" value="使用<string name='Units/Jezina'/>拜访地块"/>
+	<entry name="VisitTileWithJezinaAndClearEnemies" value="使用<string name='Units/Jezina'/>拜访地块并肃清敌人"/>
+	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="使用<string name='Units/LandanGraham'/>拜访地块并肃清敌人"/>
+	<entry name="VisitTileWithResourceTransport" value="在%4%回合内使用<string name='Units/ResourceTransport'/>拜访地块"/>
+	<entry name="WaitForFinalBattle" value="等待%2%回合，准备好与自己选择的势力共同迎接最后的大战"/>
+	<entry name="WaitForGlandHarvest" value="等待%2%回合，你的人民的腺体正在被收割"/>
+	<entry name="WaitForHwedoToFeed" value="等待%2%回合，你的人口将成为虹蟒的食物"/>
+	<entry name="WaitForYetunde" value="等待%2%回合，约坦迪即将完成调查"/>
+</language>
