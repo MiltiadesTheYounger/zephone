@@ -2,10 +2,18 @@
 
 ## 14.08.2025. Залишається зробити:
 
-> Quests
-> Tips
-> Traits
-> Units
-> Upgrades
-> Weapons
-> WorldParameters
+Quests
+Tips
+Traits
+Units
+Upgrades
+Weapons
+WorldParameters
+
+## 15.08.2025. Залишається зробити:
+
+Traits
+Units
+Upgrades
+Weapons
+WorldParameters
