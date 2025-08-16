@@ -12,7 +12,7 @@ WorldParameters
 
 ## 15.08.2025. Залишається зробити:
 
-Traits
+Traits(частина перекладена)
 Units
 Upgrades
 Weapons
