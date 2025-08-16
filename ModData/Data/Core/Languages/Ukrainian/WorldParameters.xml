@@ -1,377 +1,368 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AbkhanDreyDensity" value="Плотность: абханское логово"/>
-	<entry name="AbkhanDreyDensity0" value="Нет"/>
-	<entry name="AbkhanDreyDensity1" value="Очень низкая"/>
-	<entry name="AbkhanDreyDensity2" value="Низкая"/>
-	<entry name="AbkhanDreyDensity3" value="Средняя"/>
-	<entry name="AbkhanDreyDensity4" value="Высокая"/>
-	<entry name="AbkhanDreyDensity5" value="Очень высокая"/>
-	<entry name="AIControlDisconnectedPlayers" value="Отключившиеся игроки контролируются ИИ"/>
-	<entry name="AIControlDisconnectedPlayersHint" value="Позволяет ИИ контролировать сторону отключившихся игроков.&lt;br/&gt;&lt;br/&gt;Доступно только при отключении режима «Железный человек»."/>
-	<entry name="AdaptiveTurnTimer" value="Адаптивный таймер хода"/>
-	<entry name="AdaptiveTurnTimerHint" value="Делает таймер хода пропорциональным числу городов и юнитов."/>
-	<entry name="AnchoriteCityDensity" value="Плотность: города Анахорета"/>
-	<entry name="AnchoriteCityDensity0" value="Нет"/>
-	<entry name="AnchoriteCityDensity1" value="Очень низкая"/>
-	<entry name="AnchoriteCityDensity2" value="Низкая"/>
-	<entry name="AnchoriteCityDensity3" value="Средняя"/>
-	<entry name="AnchoriteCityDensity4" value="Высокая"/>
-	<entry name="AnchoriteCityDensity5" value="Очень высокая"/>
-	<entry name="ArcDischargeDensity" value="Плотность: дуговой разряд"/>
-	<entry name="ArcDischargeDensity0" value="Нет"/>
-	<entry name="ArcDischargeDensity1" value="Очень низкая"/>
-	<entry name="ArcDischargeDensity2" value="Низкая"/>
-	<entry name="ArcDischargeDensity3" value="Средняя"/>
-	<entry name="ArcDischargeDensity4" value="Высокая"/>
-	<entry name="ArcDischargeDensity5" value="Очень высокая"/>
-	<entry name="ArcticRegionDensity" value="Плотность регионов: арктика"/>
-	<entry name="ArcticRegionDensity0" value="Нет"/>
-	<entry name="ArcticRegionDensity1" value="Очень низкая"/>
-	<entry name="ArcticRegionDensity2" value="Низкая"/>
-	<entry name="ArcticRegionDensity3" value="Средняя"/>
-	<entry name="ArcticRegionDensity4" value="Высокая"/>
-	<entry name="ArcticRegionDensity5" value="Очень высокая"/>	
-	<entry name="AutoDisableSimultaneousTurns" value="Автоотключение одновременных ходов"/>
-	<entry name="AutoDisableSimultaneousTurnsHint" value="Автоматически отключать одновременные ходы, когда вражеские юниты, не принадлежащие ИИ, подходят друг к другу на расстояние 5 кл."/>
-	<entry name="AvoidDuplicateRandomFactions" value="Избегать повторения случайных фракций"/>
-	<entry name="AvoidDuplicateRandomFactionsHint" value="Отрегулировать вероятность случайных фракций так, чтобы все фракции появлялись в игре поровну."/>
-	<entry name="BleedDensity" value="Плотность: Течь"/>
-	<entry name="BleedDensity0" value="Нет"/>
-	<entry name="BleedDensity1" value="Очень низкая"/>
-	<entry name="BleedDensity2" value="Низкая"/>
-	<entry name="BleedDensity3" value="Средняя"/>
-	<entry name="BleedDensity4" value="Высокая"/>
-	<entry name="BleedDensity5" value="Очень высокая"/>
-	<entry name="BrushDensity" value="Плотность: поросль"/>
-	<entry name="BrushDensity0" value="Нет"/>
-	<entry name="BrushDensity1" value="Очень низкая"/>
-	<entry name="BrushDensity2" value="Низкая"/>
-	<entry name="BrushDensity3" value="Средняя"/>
-	<entry name="BrushDensity4" value="Высокая"/>
-	<entry name="BrushDensity5" value="Очень высокая"/>	
-	<entry name="CacheDensity" value="Плотность: схроны"/>
-	<entry name="CacheDensity0" value="Нет"/>
-	<entry name="CacheDensity1" value="Очень низкая"/>
-	<entry name="CacheDensity2" value="Низкая"/>
-	<entry name="CacheDensity3" value="Средняя"/>
-	<entry name="CacheDensity4" value="Высокая"/>
-	<entry name="CacheDensity5" value="Очень высокая"/>
-	<entry name="ChieftessCityDensity" value="Плотность: города Дикарки"/>
-	<entry name="ChieftessCityDensity0" value="Нет"/>
-	<entry name="ChieftessCityDensity1" value="Очень низкая"/>
-	<entry name="ChieftessCityDensity2" value="Низкая"/>
-	<entry name="ChieftessCityDensity3" value="Средняя"/>
-	<entry name="ChieftessCityDensity4" value="Высокая"/>
-	<entry name="ChieftessCityDensity5" value="Очень высокая"/>
-	<entry name="CicadasDensity" value="Плотность: цикады"/>
-	<entry name="CicadasDensity0" value="Нет"/>
-	<entry name="CicadasDensity1" value="Очень низкая"/>
-	<entry name="CicadasDensity2" value="Низкая"/>
-	<entry name="CicadasDensity3" value="Средняя"/>
-	<entry name="CicadasDensity4" value="Высокая"/>
-	<entry name="CicadasDensity5" value="Очень высокая"/>
-	<entry name="ConstructRegionDensity" value="Плотность регионов: схемы"/>
-	<entry name="ConstructRegionDensity0" value="Нет"/>
-	<entry name="ConstructRegionDensity1" value="Очень низкая"/>
-	<entry name="ConstructRegionDensity2" value="Низкая"/>
-	<entry name="ConstructRegionDensity3" value="Средняя"/>
-	<entry name="ConstructRegionDensity4" value="Высокая"/>
-	<entry name="ConstructRegionDensity5" value="Очень высокая"/>
-	<entry name="DLC1" value="DLC «Безобразная и Бесцельный»"/>
-	<entry name="DesertRegionDensity" value="Плотность регионов: пустыня"/>
-	<entry name="DesertRegionDensity0" value="Нет"/>
-	<entry name="DesertRegionDensity1" value="Очень низкая"/>
-	<entry name="DesertRegionDensity2" value="Низкая"/>
-	<entry name="DesertRegionDensity3" value="Средняя"/>
-	<entry name="DesertRegionDensity4" value="Высокая"/>
-	<entry name="DesertRegionDensity5" value="Очень высокая"/>
-	<entry name="Difficulty" value="Уровень сложности"/>
-	<entry name="DifficultyHint" value="Влияет на бонусы, получаемые ИИ и местными фракциями."/>
-	<entry name="Difficulty0" value="Очень легко"/>
-	<entry name="Difficulty0Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; умеренный штраф к лояльности городов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность"/>
-	<entry name="Difficulty0RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для заинтересованных в сюжете игроков."/>
-	<entry name="Difficulty1" value="Легко"/>
-	<entry name="Difficulty1Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; небольшой штраф к лояльности городов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность"/>
-	<entry name="Difficulty1RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для неопытных игроков в пошаговые стратегии."/>
-	<entry name="Difficulty2" value="Умеренно"/>
-	<entry name="Difficulty2Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; никаких бонусов или штрафов."/>
-	<entry name="Difficulty2RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для фанатов пошаговых стратегий."/>
-	<entry name="Difficulty3" value="Тяжело"/>
-	<entry name="Difficulty3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; небольшой бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
-	<entry name="Difficulty3RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для ветеранов игр Proxy Studios."/>
-	<entry name="Difficulty4" value="Очень тяжело"/>
-	<entry name="Difficulty4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; умеренный бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
-	<entry name="Difficulty4RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется после победы на тяжёлой сложности."/>
-	<entry name="Difficulty5" value="Сверхтяжело"/>
-	<entry name="Difficulty5Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; большой бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
-	<entry name="Difficulty5RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется после победы на очень тяжёлой сложности."/>
-	<entry name="Difficulty6" value="Кошмар"/>
-	<entry name="Difficulty6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; огромный бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
-	<entry name="Difficulty6RecommendationHint" value="&lt;style name='Italic'/&gt;Не рекомендуется."/>
-	<entry name="DustStormDensity" value="Плотность: песчаная буря"/>
-	<entry name="DustStormDensity0" value="Нет"/>
-	<entry name="DustStormDensity1" value="Очень низкая"/>
-	<entry name="DustStormDensity2" value="Низкая"/>
-	<entry name="DustStormDensity3" value="Средняя"/>
-	<entry name="DustStormDensity4" value="Высокая"/>
-	<entry name="DustStormDensity5" value="Очень высокая"/>
-	<entry name="EscalationPace" value="Темп эскалации"/>
-	<entry name="EscalationPaceHint" value="Определяет, как быстро будет проходить эскалация в сторону финала."/>
-	<entry name="EscalationPace0" value="Нет"/>
-	<entry name="EscalationPace1" value="Очень низкий"/>
-	<entry name="EscalationPace2" value="Низкий"/>
-	<entry name="EscalationPace3" value="Стандартный"/>
-	<entry name="EscalationPace4" value="Высокий"/>
-	<entry name="EscalationPace5" value="Очень высокий"/>
-	<entry name="FixedTeams" value="Заданные команды"/>
-	<entry name="FixedTeamsHint" value="Запрещает игрокам менять статус войн и союзов"/>
-	<entry name="ForestDensity" value="Плотность: лес"/>
-	<entry name="ForestDensity0" value="Нет"/>
-	<entry name="ForestDensity1" value="Очень низкая"/>
-	<entry name="ForestDensity2" value="Низкая"/>
-	<entry name="ForestDensity3" value="Средняя"/>
-	<entry name="ForestDensity4" value="Высокая"/>
-	<entry name="ForestDensity5" value="Очень высокая"/>
-	<entry name="GameName" value="Имя игры"/>
-	<entry name="GameNameHint" value="Имя, под которым игра отображается в списке мультиплеерных игр."/>
-	<entry name="GameVisibility" value="Видимость игры"/> 
-	<entry name="GameVisibility0" value="Только для друзей"/>
-	<entry name="GameVisibility0Hint" value="Игра не показывается в публичных списках, к ней можно присоединиться только из списка друзей, по приглашению или через прямое соединение."/>
-	<entry name="GameVisibility1" value="Частная"/>
-	<entry name="GameVisibility1Hint" value="Игра не показывается в публичных списках, к ней можно присоединиться только по приглашению или через прямое соединение."/>
-	<entry name="GameVisibility2" value="Публичная"/>
-	<entry name="GameVisibility2Hint" value="Игра показывается в публичных списках, к ней может присоединиться кто угодно."/>
-	<entry name="GameVisibility3" value="Одиночная игра"/>
-	<entry name="GameVisibility3Hint" value="К игре не может присоединиться никто."/>
-	<entry name="Growth" value="Рост населения"/>
-	<entry name="Growth0" value="Очень низкий"/>
-	<entry name="Growth1" value="Низкий"/>
-	<entry name="Growth2" value="Средний"/>
-	<entry name="Growth3" value="Высокий"/>
-	<entry name="Growth4" value="Очень высокий"/>
-	<entry name="Ironman" value="Железный человек"/>
-	<entry name="IronmanHint" value="Ограничивает контроль игрока над файлом сохранения, не позволяя корректировать ошибки и менять решения, принятые в игре.&lt;br/&gt;&lt;br/&gt;Некоторые достижения можно получить только в режиме «Железный человек»."/>
-	<entry name="LandMass" value="Площадь суши"/>
-	<entry name="LandMassHint" value="Число клеток суши."/>
-	<entry name="LandMass0" value="Очень малая"/>
-	<entry name="LandMass1" value="Малая"/>
-	<entry name="LandMass2" value="Средняя"/>
-	<entry name="LandMass3" value="Большая"/>
-	<entry name="LandMass4" value="Очень большая"/>
-	<entry name="MapEditor" value="Панель отладки"/>
-	<entry name="MaximumTechnologyTier" value="Максимальный ранг технологий"/>
-	<entry name="MaximumTechnologyTier0" value="0"/>
-	<entry name="MaximumTechnologyTier1" value="1"/>
-	<entry name="MaximumTechnologyTier2" value="2"/>
-	<entry name="MaximumTechnologyTier3" value="3"/>
-	<entry name="MaximumTechnologyTier4" value="4"/>
-	<entry name="MaximumTechnologyTier5" value="5"/>
-	<entry name="MaximumTechnologyTier6" value="6"/>
-	<entry name="MaximumTechnologyTier7" value="7"/>
-	<entry name="MaximumTechnologyTier8" value="8"/>
-	<entry name="MaximumTechnologyTier9" value="9"/>
-	<entry name="MaximumTechnologyTier10" value="10"/>
-	<entry name="Mutators/AreYouTheGreatSpeaker" value="&lt;string name='Settings/Achievements/AreYouTheGreatSpeaker'/&gt;"/>
-	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Удвоенный эффект от лояльности."/>
-	<entry name="Mutators/CanLoveBeMoral" value="&lt;string name='Settings/Achievements/CanLoveBeMoral'/&gt;"/>
-	<entry name="Mutators/CanLoveBeMoralHint" value="Уничтожение боевого духа юнита приводит к его захвату."/>
-	<entry name="Mutators/CanAJourneyBeAnEndInItself" value="&lt;string name='Settings/Achievements/CanAJourneyBeAnEndInItself'/&gt;"/>
-	<entry name="Mutators/CanAJourneyBeAnEndInItselfHint" value="Юниты имеют дополнительный пункт действия."/>
-	<entry name="Mutators/CanAnythingRedeemThisHorror" value="&lt;string name='Settings/Achievements/CanAnythingRedeemThisHorror'/&gt;"/>
-	<entry name="Mutators/CanAnythingRedeemThisHorrorHint" value="Покупка юнитов у неигровых персонажей на 50% дешевле."/>
-	<entry name="Mutators/CanFreeWillExist" value="&lt;string name='Settings/Achievements/CanFreeWillExist'/&gt;"/>
-	<entry name="Mutators/CanFreeWillExistHint" value="Урон оружия случайным образом изменён в диапазоне от -20% до +20%."/>
-	<entry name="Mutators/DidHonorBalanceGreed" value="&lt;string name='Settings/Achievements/DidHonorBalanceGreed'/&gt;"/>
-	<entry name="Mutators/DidHonorBalanceGreedHint" value="Отменив любое соглашение, вы навсегда получаете свойство «Вероломство»."/>
-	<entry name="Mutators/DidMyDeathMeanAnything" value="&lt;string name='Settings/Achievements/DidMyDeathMeanAnything'/&gt;"/>
-	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Смерть в два раза сильнее влияет на боевой дух."/>
-	<entry name="Mutators/DidOurSacrificeMeanNothing" value="&lt;string name='Settings/Achievements/DidOurSacrificeMeanNothing'/&gt;"/>
-	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="НЕ-нейтральные юниты теряют 5% ед. жизни каждый ход вне союзных городов или застав."/>
-	<entry name="Mutators/DidOurUnificationMatter" value="&lt;string name='Settings/Achievements/DidOurUnificationMatter'/&gt;"/>
-	<entry name="Mutators/DidOurUnificationMatterHint" value="Биологические юниты НЕ-уродства после гибели становятся нейтральными уродствами. Срабатывает после остальных эффектов гибели."/>
-	<entry name="Mutators/MustWeSufferSo" value="&lt;string name='Settings/Achievements/MustWeSufferSo'/&gt;"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="В начале игры исследованы научная лаборатория, голотеатр, жилой блок, стройкомплекс и инженер."/>
-	<entry name="Mutators/WasITrulyHuman" value="&lt;string name='Settings/Achievements/WasITrulyHuman'/&gt;"/>
-	<entry name="Mutators/WasITrulyHumanHint" value="Урон делится между всем смежными союзниками цели."/>
-	<entry name="Mutators/WasPerfectionWorthIt" value="&lt;string name='Settings/Achievements/WasPerfectionWorthIt'/&gt;"/>
-	<entry name="Mutators/WasPerfectionWorthItHint" value="Повторяющиеся юниты стоят на 20% больше ресурсов."/>
-	<entry name="Mutators/WasZephonTrulyAlive" value="&lt;string name='Settings/Achievements/WasZephonTrulyAlive'/&gt;"/>
-	<entry name="Mutators/WasZephonTrulyAliveHint" value="Неограниченный радиус присоединения клеток."/>
-	<entry name="Mutators/WhatAreYou" value="&lt;string name='Settings/Achievements/WhatAreYou'/&gt;"/>
-	<entry name="Mutators/WhatAreYouHint" value="Можно исследовать только технологии своей склонности или без склонности."/>
-	<entry name="Mutators/WhatPriceForLiberty" value="&lt;string name='Settings/Achievements/WhatPriceForLiberty'/&gt;"/>
-	<entry name="Mutators/WhatPriceForLibertyHint" value="У лидеров есть склонность ко всем технологиям."/>
-	<entry name="Mutators/WhereAreWe" value="&lt;string name='Settings/Achievements/WhereAreWe'/&gt;"/>
-	<entry name="Mutators/WhereAreWeHint" value="Все клетки исследованы с самого начала."/>
-	<entry name="Mutators/WhyDidHumanityDieAlone" value="&lt;string name='Settings/Achievements/WhyDidHumanityDieAlone'/&gt;"/>
-	<entry name="Mutators/WhyDidHumanityDieAloneHint" value="Убийства снижают боевой дух."/>
-	<entry name="Pace" value="Скорость игры"/>
-	<entry name="PaceHint" value="Определяет цены производства, цены исследований и частоту появления новых заданий."/>
-	<entry name="Pace0" value="Очень низкая"/>
-	<entry name="Pace1" value="Низкая"/>
-	<entry name="Pace2" value="Стандартная"/>
-	<entry name="Pace3" value="Высокая"/>
-	<entry name="Pace4" value="Очень высокая"/>
-	<entry name="QuestPace" value="Темп заданий"/>
-	<entry name="QuestPaceHint" value="Определяет, как быстро появляются новые задания."/>
-	<entry name="QuestPace0" value="Нет"/>
-	<entry name="QuestPace1" value="Очень низкий"/>
-	<entry name="QuestPace2" value="Низкий"/>
-	<entry name="QuestPace3" value="Стандартный"/>
-	<entry name="QuestPace4" value="Высокий"/>
-	<entry name="QuestPace5" value="Очень высокий"/>
-	<entry name="RegionDensity" value="Плотность: регионы"/>
-	<entry name="RegionDensity0" value="Нет"/>
-	<entry name="RegionDensity1" value="Очень низкая"/>
-	<entry name="RegionDensity2" value="Низкая"/>
-	<entry name="RegionDensity3" value="Средняя"/>
-	<entry name="RegionDensity4" value="Высокая"/>
-	<entry name="RegionDensity5" value="Очень высокая"/>	
-	<entry name="RequiredTechnologiesPerTier" value="Требуемых технологий за ранг"/>
-	<entry name="RequiredTechnologiesPerTier0" value="0"/>
-	<entry name="RequiredTechnologiesPerTier1" value="1"/>
-	<entry name="RequiredTechnologiesPerTier2" value="2"/>
-	<entry name="RequiredTechnologiesPerTier3" value="3"/>
-	<entry name="RequiredTechnologiesPerTier4" value="4"/>
-	<entry name="RequiredTechnologiesPerTier5" value="5"/>
-	<entry name="RequiredTechnologiesPerTier6" value="6"/>
-	<entry name="RequiredTechnologiesPerTier7" value="7"/>
-	<entry name="ResearchCost" value="Цены исследований"/>
-	<entry name="ResearchCost0" value="Очень низкие"/>
-	<entry name="ResearchCost1" value="Низкие"/>
-	<entry name="ResearchCost2" value="Средние"/>
-	<entry name="ResearchCost3" value="Высокие"/>
-	<entry name="ResearchCost4" value="Очень высокие"/>
-	<entry name="ResearchedTechnologyTier" value="Исследованный ранг технологий"/>
-	<entry name="ResearchedTechnologyTier0" value="0"/>
-	<entry name="ResearchedTechnologyTier1" value="1"/>
-	<entry name="ResearchedTechnologyTier2" value="2"/>
-	<entry name="ResearchedTechnologyTier3" value="3"/>
-	<entry name="ResearchedTechnologyTier4" value="4"/>
-	<entry name="ResearchedTechnologyTier5" value="5"/>
-	<entry name="ResearchedTechnologyTier6" value="6"/>
-	<entry name="ResearchedTechnologyTier7" value="7"/>
-	<entry name="ResearchedTechnologyTier8" value="8"/>
-	<entry name="ResearchedTechnologyTier9" value="9"/>
-	<entry name="ResearchedTechnologyTier10" value="10"/>
-	<entry name="ResourceCost" value="Цены (ресурсы)"/>
-	<entry name="ResourceCost0" value="Очень низкие"/>
-	<entry name="ResourceCost1" value="Низкие"/>
-	<entry name="ResourceCost2" value="Средние"/>
-	<entry name="ResourceCost3" value="Высокие"/>
-	<entry name="ResourceCost4" value="Очень высокие"/>
-	<entry name="ResourceUpkeep" value="Траты на содержание (ресурсы)"/>
-	<entry name="ResourceUpkeep0" value="Очень низкие"/>
-	<entry name="ResourceUpkeep1" value="Низкие"/>
-	<entry name="ResourceUpkeep2" value="Средние"/>
-	<entry name="ResourceUpkeep3" value="Высокие"/>
-	<entry name="ResourceUpkeep4" value="Очень высокие"/>
-	<entry name="RiverDensity" value="Плотность: река"/>
-	<entry name="RiverDensity0" value="Нет"/>	
-	<entry name="RiverDensity1" value="Очень низкая"/>
-	<entry name="RiverDensity2" value="Низкая"/>
-	<entry name="RiverDensity3" value="Средняя"/>
-	<entry name="RiverDensity4" value="Высокая"/>
-	<entry name="RiverDensity5" value="Очень высокая"/>	
-	<entry name="RocksDensity" value="Плотность: камни"/>
-	<entry name="RocksDensity0" value="Нет"/>
-	<entry name="RocksDensity1" value="Очень низкая"/>
-	<entry name="RocksDensity2" value="Низкая"/>
-	<entry name="RocksDensity3" value="Средняя"/>
-	<entry name="RocksDensity4" value="Высокая"/>
-	<entry name="RocksDensity5" value="Очень высокая"/>	
-	<entry name="RuinsDensity" value="Плотность: руины"/>
-	<entry name="RuinsDensity0" value="Нет"/>
-	<entry name="RuinsDensity1" value="Очень низкая"/>
-	<entry name="RuinsDensity2" value="Низкая"/>
-	<entry name="RuinsDensity3" value="Средняя"/>
-	<entry name="RuinsDensity4" value="Высокая"/>
-	<entry name="RuinsDensity5" value="Очень высокая"/>	
-	<entry name="Seed" value="Сид создания мира"/>
-	<entry name="SimultaneousTurns" value="Одновременные ходы"/>
-	<entry name="SimultaneousTurnsHint" value="При включении все игроки действуют одновременно.&lt;br/&gt;&lt;br/&gt;При отключении одновременно действуют только игроки одной команды.&lt;br/&gt;&lt;br/&gt;Помимо этого, при отключении ИИ тратят больше времени на ход, но лучше действуют против других ИИ."/>
-	<entry name="Size" value="Размер мира"/>
-	<entry name="Size0" value="Крошечный"/>
-	<entry name="Size0Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендуется для 2 игроков."/>
-	<entry name="Size1" value="Небольшой"/>
-	<entry name="Size1Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендуется для 3 игроков."/>
-	<entry name="Size2" value="Средний"/>
-	<entry name="Size2Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендуется для 4 игроков."/>
-	<entry name="Size3" value="Большой"/>
-	<entry name="Size3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендуется для 6 игроков."/>
-	<entry name="Size4" value="Огромный"/>
-	<entry name="Size4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендуется для 8 игроков."/>
-	<entry name="SpecialResourceDensity" value="Плотность: заставы"/>
-	<entry name="SpecialResourceDensity0" value="Нет"/>
-	<entry name="SpecialResourceDensity1" value="Очень низкая"/>
-	<entry name="SpecialResourceDensity2" value="Низкая"/>
-	<entry name="SpecialResourceDensity3" value="Средний"/>
-	<entry name="SpecialResourceDensity4" value="Высокая"/>
-	<entry name="SpecialResourceDensity5" value="Очень высокая"/>
-	<entry name="StartingResource" value="Начальные ресурсы"/>
-	<entry name="StartingResource0" value="Очень низкие"/>
-	<entry name="StartingResource1" value="Низкие"/>
-	<entry name="StartingResource2" value="Средние"/>
-	<entry name="StartingResource3" value="Высокие"/>
-	<entry name="StartingResource4" value="Очень высокие"/>
-	<entry name="SwampRegionDensity" value="Плотность регионов: болото"/>
-	<entry name="SwampRegionDensity0" value="Нет"/>
-	<entry name="SwampRegionDensity1" value="Очень низкая"/>
-	<entry name="SwampRegionDensity2" value="Низкая"/>
-	<entry name="SwampRegionDensity3" value="Средняя"/>
-	<entry name="SwampRegionDensity4" value="Высокая"/>
-	<entry name="SwampRegionDensity5" value="Очень высокая"/>	
-	<entry name="TurnTimer" value="Таймер хода"/>
-	<entry name="TurnTimer0" value="Нет"/>
-	<entry name="TurnTimer1" value="Очень короткий (1 мин.)"/>
-	<entry name="TurnTimer2" value="Короткий (2 мин.)"/>
-	<entry name="TurnTimer3" value="Средний (3 мин.)"/>
-	<entry name="TurnTimer4" value="Длинный (4 мин.)"/>
-	<entry name="TurnTimer5" value="Очень длинный (5 мин.)"/>
-	<entry name="VictoryRequiresDefeatingNPCs" value="Победа требует поражения неигровых персонажей"/>
-	<entry name="VictoryRequiresDefeatingNPCsHint" value="Требуется ли поражение неигровых персонажей (Анахорет, Дикарка, ЗЕФОН) для победы путём уничтожения соперников."/>
-	<entry name="VolcanicRegionDensity" value="Плотность регионов: вулкан"/>
-	<entry name="VolcanicRegionDensity0" value="Нет"/>
-	<entry name="VolcanicRegionDensity1" value="Очень низкая"/>
-	<entry name="VolcanicRegionDensity2" value="Низкая"/>
-	<entry name="VolcanicRegionDensity3" value="Средняя"/>
-	<entry name="VolcanicRegionDensity4" value="Высокая"/>
-	<entry name="VolcanicRegionDensity5" value="Очень высокая"/>
-	<entry name="VolcanoDensity" value="Плотность: извержение"/>
-	<entry name="VolcanoDensity0" value="Нет"/>
-	<entry name="VolcanoDensity1" value="Очень низкая"/>
-	<entry name="VolcanoDensity2" value="Низкая"/>
-	<entry name="VolcanoDensity3" value="Средняя"/>
-	<entry name="VolcanoDensity4" value="Высокая"/>
-	<entry name="VolcanoDensity5" value="Очень высокая"/>	
-	<entry name="WildlifeDensity" value="Плотность: животные"/>
-	<entry name="WildlifeDensity0" value="Нет"/>
-	<entry name="WildlifeDensity1" value="Очень низкая"/>
-	<entry name="WildlifeDensity2" value="Низкая"/>
-	<entry name="WildlifeDensity3" value="Средняя"/>
-	<entry name="WildlifeDensity4" value="Высокая"/>
-	<entry name="WildlifeDensity5" value="Очень высокая"/>
-	<entry name="WorldSeed" value="Сид создания мира"/>
-	<entry name="WastelandRegionDensity" value="Плотность регионов: пустошь"/>
-	<entry name="WastelandRegionDensity0" value="Нет"/>
-	<entry name="WastelandRegionDensity1" value="Очень низкая"/>
-	<entry name="WastelandRegionDensity2" value="Низкая"/>
-	<entry name="WastelandRegionDensity3" value="Средняя"/>
-	<entry name="WastelandRegionDensity4" value="Высокая"/>
-	<entry name="WastelandRegionDensity5" value="Очень высокая"/>
-	<entry name="WhisperingWightsDensity" value="Плотность: шепчущие тени"/>
-	<entry name="WhisperingWightsDensity0" value="Нет"/>
-	<entry name="WhisperingWightsDensity1" value="Очень низкая"/>
-	<entry name="WhisperingWightsDensity2" value="Низкая"/>
-	<entry name="WhisperingWightsDensity3" value="Средняя"/>
-	<entry name="WhisperingWightsDensity4" value="Высокая"/>
-	<entry name="WhisperingWightsDensity5" value="Очень высокая"/>
-	<entry name="ZephonCityDensity" value="Плотность: города ЗЕФОНа"/>
-	<entry name="ZephonCityDensity0" value="Нет"/>
-	<entry name="ZephonCityDensity1" value="Очень низкая"/>
-	<entry name="ZephonCityDensity2" value="Низкая"/>
-	<entry name="ZephonCityDensity3" value="Средняя"/>
-	<entry name="ZephonCityDensity4" value="Высокая"/>
-	<entry name="ZephonCityDensity5" value="Очень высокая"/>
+<entry name="AbkhanDreyDensity" value="Щільність: лігво Абхана"/>
+<entry name="AbkhanDreyDensity0" value="Немає"/>
+<entry name="AbkhanDreyDensity1" value="Дуже низька"/>
+<entry name="AbkhanDreyDensity2" value="Низька"/>
+<entry name="AbkhanDreyDensity3" value="Середня"/>
+<entry name="AbkhanDreyDensity4" value="Висока"/>
+<entry name="AbkhanDreyDensity5" value="Дуже висока"/>
+<entry name="AIControlDisconnectedPlayers" value="Відключених гравців контролює ШІ"/>
+<entry name="AIControlDisconnectedPlayersHint" value="Дозволяє ШІ керувати стороною гравців, які втратили з’єднання.&lt;br/&gt;&lt;br/&gt;Доступно лише при вимкненому режимі «Залізна воля»."/>
+<entry name="AdaptiveTurnTimer" value="Адаптивний таймер ходу"/>
+<entry name="AdaptiveTurnTimerHint" value="Робить таймер ходу пропорційним кількості міст і юнітів."/>
+<entry name="AnchoriteCityDensity" value="Щільність: міста Анахорета"/>
+<entry name="AnchoriteCityDensity0" value="Немає"/>
+<entry name="AnchoriteCityDensity1" value="Дуже низька"/>
+<entry name="AnchoriteCityDensity2" value="Низька"/>
+<entry name="AnchoriteCityDensity3" value="Середня"/>
+<entry name="AnchoriteCityDensity4" value="Висока"/>
+<entry name="AnchoriteCityDensity5" value="Дуже висока"/>
+<entry name="ArcDischargeDensity" value="Щільність: дуговий розряд"/>
+<entry name="ArcDischargeDensity0" value="Немає"/>
+<entry name="ArcDischargeDensity1" value="Дуже низька"/>
+<entry name="ArcDischargeDensity2" value="Низька"/>
+<entry name="ArcDischargeDensity3" value="Середня"/>
+<entry name="ArcDischargeDensity4" value="Висока"/>
+<entry name="ArcDischargeDensity5" value="Дуже висока"/>
+<entry name="ArcticRegionDensity" value="Щільність регіонів: Арктика"/>
+<entry name="ArcticRegionDensity0" value="Немає"/>
+<entry name="ArcticRegionDensity1" value="Дуже низька"/>
+<entry name="ArcticRegionDensity2" value="Низька"/>
+<entry name="ArcticRegionDensity3" value="Середня"/>
+<entry name="ArcticRegionDensity4" value="Висока"/>
+<entry name="ArcticRegionDensity5" value="Дуже висока"/>
+<entry name="AutoDisableSimultaneousTurns" value="Автовимкнення одночасних ходів"/>
+<entry name="AutoDisableSimultaneousTurnsHint" value="Автоматично вимикає одночасні ходи, коли ворожі юніти, що не належать ШІ, наближаються одне до одного на відстань 5 клітинок."/>
+<entry name="AvoidDuplicateRandomFactions" value="Уникати повторення випадкових фракцій"/>
+<entry name="AvoidDuplicateRandomFactionsHint" value="Налаштовує ймовірність випадкових фракцій так, щоб усі фракції з’являлись у грі рівномірно."/>
+
+<entry name="BleedDensity" value="Щільність: Теча"/>
+<entry name="BleedDensity0" value="Немає"/>
+<entry name="BleedDensity1" value="Дуже низька"/>
+<entry name="BleedDensity2" value="Низька"/>
+<entry name="BleedDensity3" value="Середня"/>
+<entry name="BleedDensity4" value="Висока"/>
+<entry name="BleedDensity5" value="Дуже висока"/>
+<entry name="BrushDensity" value="Щільність: поросль"/>
+<entry name="BrushDensity0" value="Немає"/>
+<entry name="BrushDensity1" value="Дуже низька"/>
+<entry name="BrushDensity2" value="Низька"/>
+<entry name="BrushDensity3" value="Середня"/>
+<entry name="BrushDensity4" value="Висока"/>
+<entry name="BrushDensity5" value="Дуже висока"/>
+<entry name="CacheDensity" value="Щільність: схрони"/>
+<entry name="CacheDensity0" value="Немає"/>
+<entry name="CacheDensity1" value="Дуже низька"/>
+<entry name="CacheDensity2" value="Низька"/>
+<entry name="CacheDensity3" value="Середня"/>
+<entry name="CacheDensity4" value="Висока"/>
+<entry name="CacheDensity5" value="Дуже висока"/>
+<entry name="ChieftessCityDensity" value="Щільність: міста Дикарки"/>
+<entry name="ChieftessCityDensity0" value="Немає"/>
+<entry name="ChieftessCityDensity1" value="Дуже низька"/>
+<entry name="ChieftessCityDensity2" value="Низька"/>
+<entry name="ChieftessCityDensity3" value="Середня"/>
+<entry name="ChieftessCityDensity4" value="Висока"/>
+<entry name="ChieftessCityDensity5" value="Дуже висока"/>
+<entry name="CicadasDensity" value="Щільність: цикади"/>
+<entry name="CicadasDensity0" value="Немає"/>
+<entry name="CicadasDensity1" value="Дуже низька"/>
+<entry name="CicadasDensity2" value="Низька"/>
+<entry name="CicadasDensity3" value="Середня"/>
+<entry name="CicadasDensity4" value="Висока"/>
+<entry name="CicadasDensity5" value="Дуже висока"/>
+<entry name="ConstructRegionDensity" value="Щільність регіонів: схеми"/>
+<entry name="ConstructRegionDensity0" value="Немає"/>
+<entry name="ConstructRegionDensity1" value="Дуже низька"/>
+<entry name="ConstructRegionDensity2" value="Низька"/>
+<entry name="ConstructRegionDensity3" value="Середня"/>
+<entry name="ConstructRegionDensity4" value="Висока"/>
+<entry name="ConstructRegionDensity5" value="Дуже висока"/>
+<entry name="DLC1" value="DLC «Потворна і Безцільний»"/>
+<entry name="DesertRegionDensity" value="Щільність регіонів: пустеля"/>
+<entry name="DesertRegionDensity0" value="Немає"/>
+<entry name="DesertRegionDensity1" value="Дуже низька"/>
+<entry name="DesertRegionDensity2" value="Низька"/>
+<entry name="DesertRegionDensity3" value="Середня"/>
+<entry name="DesertRegionDensity4" value="Висока"/>
+<entry name="DesertRegionDensity5" value="Дуже висока"/>
+
+<entry name="Difficulty" value="Рівень складності"/>
+<entry name="DifficultyHint" value="Впливає на бонуси, які отримують ШІ та місцеві фракції."/>
+<entry name="Difficulty0" value="Дуже легко"/>
+<entry name="Difficulty0Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; помірне зниження лояльності міст.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність"/>
+<entry name="Difficulty0RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано гравцям, зацікавленим у сюжеті."/>
+<entry name="Difficulty1" value="Легко"/>
+<entry name="Difficulty1Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; невелике зниження лояльності міст.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність"/>
+<entry name="Difficulty1RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано новачкам у покрокових стратегіях."/>
+<entry name="Difficulty2" value="Помірно"/>
+<entry name="Difficulty2Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; без бонусів і штрафів."/>
+<entry name="Difficulty2RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано фанатам покрокових стратегій."/>
+<entry name="Difficulty3" value="Важко"/>
+<entry name="Difficulty3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; невеликий бонус до лояльності міст і рівня юнітів.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; рівень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агресивність"/>
+<entry name="Difficulty3RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано ветеранам ігор Proxy Studios."/>
+<entry name="Difficulty4" value="Дуже важко"/>
+<entry name="Difficulty4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; помірний бонус до лояльності міст і рівня юнітів.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; рівень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агресивність"/>
+<entry name="Difficulty4RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано після перемоги на складному рівні."/>
+<entry name="Difficulty5" value="Надважко"/>
+<entry name="Difficulty5Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; великий бонус до лояльності міст і рівня юнітів.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; рівень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агресивність"/>
+<entry name="Difficulty5RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендовано після перемоги на дуже складному рівні."/>
+<entry name="Difficulty6" value="Кошмар"/>
+<entry name="Difficulty6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; величезний бонус до лояльності міст і рівня юнітів.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; рівень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агресивність"/>
+
+<entry name="Difficulty6RecommendationHint" value="&lt;style name='Italic'/&gt;Не рекомендовано."/>
+<entry name="DustStormDensity" value="Щільність: піщана буря"/>
+<entry name="DustStormDensity0" value="Немає"/>
+<entry name="DustStormDensity1" value="Дуже низька"/>
+<entry name="DustStormDensity2" value="Низька"/>
+<entry name="DustStormDensity3" value="Середня"/>
+<entry name="DustStormDensity4" value="Висока"/>
+<entry name="DustStormDensity5" value="Дуже висока"/>
+<entry name="EscalationPace" value="Темп ескалації"/>
+<entry name="EscalationPaceHint" value="Визначає, наскільки швидко відбуватиметься ескалація до фіналу."/>
+<entry name="EscalationPace0" value="Немає"/>
+<entry name="EscalationPace1" value="Дуже низький"/>
+<entry name="EscalationPace2" value="Низький"/>
+<entry name="EscalationPace3" value="Стандартний"/>
+<entry name="EscalationPace4" value="Високий"/>
+<entry name="EscalationPace5" value="Дуже високий"/>
+<entry name="FixedTeams" value="Фіксовані команди"/>
+<entry name="FixedTeamsHint" value="Забороняє гравцям змінювати статус війни та союзів"/>
+<entry name="ForestDensity" value="Щільність: ліс"/>
+<entry name="ForestDensity0" value="Немає"/>
+<entry name="ForestDensity1" value="Дуже низька"/>
+<entry name="ForestDensity2" value="Низька"/>
+<entry name="ForestDensity3" value="Середня"/>
+<entry name="ForestDensity4" value="Висока"/>
+<entry name="ForestDensity5" value="Дуже висока"/>
+<entry name="GameName" value="Назва гри"/>
+<entry name="GameNameHint" value="Назва, під якою гра відображається у списку мультиплеєрних ігор."/>
+<entry name="GameVisibility" value="Видимість гри"/>
+<entry name="GameVisibility0" value="Тільки для друзів"/>
+<entry name="GameVisibility0Hint" value="Гра не відображається в публічних списках, приєднатися можна лише через список друзів, запрошення або пряме з'єднання."/>
+<entry name="GameVisibility1" value="Приватна"/>
+<entry name="GameVisibility1Hint" value="Гра не відображається в публічних списках, приєднатися можна лише за запрошенням або через пряме з'єднання."/>
+<entry name="GameVisibility2" value="Публічна"/>
+<entry name="GameVisibility2Hint" value="Гра відображається в публічних списках, приєднатися може будь-хто."/>
+<entry name="GameVisibility3" value="Одиночна гра"/>
+<entry name="GameVisibility3Hint" value="До гри не може приєднатися ніхто."/>
+<entry name="Growth" value="Зростання населення"/>
+<entry name="Growth0" value="Дуже низьке"/>
+<entry name="Growth1" value="Низьке"/>
+<entry name="Growth2" value="Середнє"/>
+<entry name="Growth3" value="Високе"/>
+<entry name="Growth4" value="Дуже високе"/>
+
+<entry name="Ironman" value="Режим «Залізна воля»"/>
+<entry name="IronmanHint" value="Обмежує контроль гравця над файлом збереження, не дозволяючи виправляти помилки чи змінювати прийняті рішення.&lt;br/&gt;&lt;br/&gt;Деякі досягнення доступні лише в режимі «Залізна воля»."/>
+<entry name="LandMass" value="Площа суші"/>
+<entry name="LandMassHint" value="Кількість клітин суші."/>
+<entry name="LandMass0" value="Дуже мала"/>
+<entry name="LandMass1" value="Мала"/>
+<entry name="LandMass2" value="Середня"/>
+<entry name="LandMass3" value="Велика"/>
+<entry name="LandMass4" value="Дуже велика"/>
+<entry name="MapEditor" value="Панель налагодження"/>
+<entry name="MaximumTechnologyTier" value="Максимальний ранг технологій"/>
+<entry name="MaximumTechnologyTier0" value="0"/>
+<entry name="MaximumTechnologyTier1" value="1"/>
+<entry name="MaximumTechnologyTier2" value="2"/>
+<entry name="MaximumTechnologyTier3" value="3"/>
+<entry name="MaximumTechnologyTier4" value="4"/>
+<entry name="MaximumTechnologyTier5" value="5"/>
+<entry name="MaximumTechnologyTier6" value="6"/>
+<entry name="MaximumTechnologyTier7" value="7"/>
+<entry name="MaximumTechnologyTier8" value="8"/>
+<entry name="MaximumTechnologyTier9" value="9"/>
+<entry name="MaximumTechnologyTier10" value="10"/>
+<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Подвоєний ефект від лояльності."/>
+<entry name="Mutators/CanLoveBeMoralHint" value="Знищення бойового духу юніта призводить до його захоплення."/>
+<entry name="Mutators/CanAJourneyBeAnEndInItselfHint" value="Юніти мають додаткову одиницю дії."/>
+<entry name="Mutators/CanAnythingRedeemThisHorrorHint" value="Купівля юнітів у неігрових персонажів на 50% дешевша."/>
+<entry name="Mutators/CanFreeWillExistHint" value="Шкода від зброї випадково змінюється в межах від -20% до +20%."/>
+<entry name="Mutators/DidHonorBalanceGreedHint" value="Скасування будь-якої угоди назавжди надає властивість «Підступність»."/>
+<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Смерть удвічі сильніше впливає на бойовий дух."/>
+<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="НЕ-нейтральні юніти втрачають 5% здоров’я щоходу поза союзними містами або форпостами."/>
+<entry name="Mutators/DidOurUnificationMatterHint" value="Біологічні НЕ-мутанти після загибелі перетворюються на нейтральних мутантів. Спрацьовує після інших ефектів смерті."/>
+<entry name="Mutators/MustWeSufferSoHint" value="На початку гри вже досліджено наукову лабораторію, голотеатр, житловий блок, будкомплекс і інженера."/>
+<entry name="Mutators/WasITrulyHumanHint" value="Шкода розподіляється між усіма суміжними союзниками цілі."/>
+<entry name="Mutators/WasPerfectionWorthItHint" value="Повторювані юніти коштують на 20% більше ресурсів."/>
+<entry name="Mutators/WasZephonTrulyAliveHint" value="Необмежений радіус приєднання клітин."/>
+<entry name="Mutators/WhatAreYouHint" value="Можна досліджувати лише технології своєї схильності або нейтральні."/>
+<entry name="Mutators/WhatPriceForLibertyHint" value="Лідери мають схильність до всіх технологій."/>
+<entry name="Mutators/WhereAreWeHint" value="Усі клітини відкриті з самого початку."/>
+<entry name="Mutators/WhyDidHumanityDieAloneHint" value="Вбивства знижують бойовий дух."/>
+
+<entry name="Pace" value="Швидкість гри"/>
+<entry name="PaceHint" value="Визначає вартість виробництва, досліджень і частоту появи нових завдань."/>
+<entry name="Pace0" value="Дуже низька"/>
+<entry name="Pace1" value="Низька"/>
+<entry name="Pace2" value="Стандартна"/>
+<entry name="Pace3" value="Висока"/>
+<entry name="Pace4" value="Дуже висока"/>
+<entry name="QuestPace" value="Темп завдань"/>
+<entry name="QuestPaceHint" value="Визначає, як швидко з’являються нові завдання."/>
+<entry name="QuestPace0" value="Немає"/>
+<entry name="QuestPace1" value="Дуже низький"/>
+<entry name="QuestPace2" value="Низький"/>
+<entry name="QuestPace3" value="Стандартний"/>
+<entry name="QuestPace4" value="Високий"/>
+<entry name="QuestPace5" value="Дуже високий"/>
+<entry name="RegionDensity" value="Щільність: регіони"/>
+<entry name="RegionDensity0" value="Немає"/>
+<entry name="RegionDensity1" value="Дуже низька"/>
+<entry name="RegionDensity2" value="Низька"/>
+<entry name="RegionDensity3" value="Середня"/>
+<entry name="RegionDensity4" value="Висока"/>
+<entry name="RegionDensity5" value="Дуже висока"/>
+<entry name="RequiredTechnologiesPerTier" value="Необхідні технології на ранг"/>
+<entry name="RequiredTechnologiesPerTier0" value="0"/>
+<entry name="RequiredTechnologiesPerTier1" value="1"/>
+<entry name="RequiredTechnologiesPerTier2" value="2"/>
+<entry name="RequiredTechnologiesPerTier3" value="3"/>
+<entry name="RequiredTechnologiesPerTier4" value="4"/>
+<entry name="RequiredTechnologiesPerTier5" value="5"/>
+<entry name="RequiredTechnologiesPerTier6" value="6"/>
+<entry name="RequiredTechnologiesPerTier7" value="7"/>
+<entry name="ResearchCost" value="Вартість досліджень"/>
+<entry name="ResearchCost0" value="Дуже низька"/>
+<entry name="ResearchCost1" value="Низька"/>
+<entry name="ResearchCost2" value="Середня"/>
+<entry name="ResearchCost3" value="Висока"/>
+<entry name="ResearchCost4" value="Дуже висока"/>
+<entry name="ResearchedTechnologyTier" value="Досліджений ранг технологій"/>
+<entry name="ResearchedTechnologyTier0" value="0"/>
+<entry name="ResearchedTechnologyTier1" value="1"/>
+<entry name="ResearchedTechnologyTier2" value="2"/>
+<entry name="ResearchedTechnologyTier3" value="3"/>
+<entry name="ResearchedTechnologyTier4" value="4"/>
+<entry name="ResearchedTechnologyTier5" value="5"/>
+<entry name="ResearchedTechnologyTier6" value="6"/>
+<entry name="ResearchedTechnologyTier7" value="7"/>
+<entry name="ResearchedTechnologyTier8" value="8"/>
+<entry name="ResearchedTechnologyTier9" value="9"/>
+<entry name="ResearchedTechnologyTier10" value="10"/>
+<entry name="ResourceCost" value="Вартість (ресурси)"/>
+<entry name="ResourceCost0" value="Дуже низька"/>
+<entry name="ResourceCost1" value="Низька"/>
+<entry name="ResourceCost2" value="Середня"/>
+<entry name="ResourceCost3" value="Висока"/>
+<entry name="ResourceCost4" value="Дуже висока"/>
+<entry name="ResourceUpkeep" value="Утримання (ресурси)"/>
+<entry name="ResourceUpkeep0" value="Дуже низьке"/>
+<entry name="ResourceUpkeep1" value="Низьке"/>
+<entry name="ResourceUpkeep2" value="Середнє"/>
+<entry name="ResourceUpkeep3" value="Високе"/>
+<entry name="ResourceUpkeep4" value="Дуже високе"/>
+<entry name="RiverDensity" value="Щільність: річки"/>
+<entry name="RiverDensity0" value="Немає"/>
+<entry name="RiverDensity1" value="Дуже низька"/>
+<entry name="RiverDensity2" value="Низька"/>
+<entry name="RiverDensity3" value="Середня"/>
+<entry name="RiverDensity4" value="Висока"/>
+<entry name="RiverDensity5" value="Дуже висока"/>
+<entry name="RocksDensity" value="Щільність: каміння"/>
+<entry name="RocksDensity0" value="Немає"/>
+<entry name="RocksDensity1" value="Дуже низька"/>
+<entry name="RocksDensity2" value="Низька"/>
+<entry name="RocksDensity3" value="Середня"/>
+<entry name="RocksDensity4" value="Висока"/>
+<entry name="RocksDensity5" value="Дуже висока"/>
+<entry name="RuinsDensity" value="Щільність: руїни"/>
+<entry name="RuinsDensity0" value="Немає"/>
+<entry name="RuinsDensity1" value="Дуже низька"/>
+<entry name="RuinsDensity2" value="Низька"/>
+<entry name="RuinsDensity3" value="Середня"/>
+<entry name="RuinsDensity4" value="Висока"/>
+<entry name="RuinsDensity5" value="Дуже висока"/>
+<entry name="Seed" value="Сід створення світу"/>
+<entry name="SimultaneousTurns" value="Одночасні ходи"/>
+<entry name="SimultaneousTurnsHint" value="Якщо ввімкнено — всі гравці діють одночасно.&lt;br/&gt;&lt;br/&gt;Якщо вимкнено — одночасно діють лише гравці однієї команди.&lt;br/&gt;&lt;br/&gt;Крім того, при вимкненні ШІ витрачає більше часу на хід, але краще діє проти інших ШІ."/>
+
+<entry name="Size" value="Розмір світу"/>
+<entry name="Size0" value="Крихітний"/>
+<entry name="Size0Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 2 гравців."/>
+<entry name="Size1" value="Невеликий"/>
+<entry name="Size1Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 3 гравців."/>
+<entry name="Size2" value="Середній"/>
+<entry name="Size2Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 4 гравців."/>
+<entry name="Size3" value="Великий"/>
+<entry name="Size3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 6 гравців."/>
+<entry name="Size4" value="Гігантський"/>
+<entry name="Size4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 8 гравців."/>
+<entry name="SpecialResourceDensity" value="Щільність: застави"/>
+<entry name="SpecialResourceDensity0" value="Немає"/>
+<entry name="SpecialResourceDensity1" value="Дуже низька"/>
+<entry name="SpecialResourceDensity2" value="Низька"/>
+<entry name="SpecialResourceDensity3" value="Середня"/>
+<entry name="SpecialResourceDensity4" value="Висока"/>
+<entry name="SpecialResourceDensity5" value="Дуже висока"/>
+<entry name="StartingResource" value="Початкові ресурси"/>
+<entry name="StartingResource0" value="Дуже низькі"/>
+<entry name="StartingResource1" value="Низькі"/>
+<entry name="StartingResource2" value="Середні"/>
+<entry name="StartingResource3" value="Високі"/>
+<entry name="StartingResource4" value="Дуже високі"/>
+<entry name="SwampRegionDensity" value="Щільність регіонів: болото"/>
+<entry name="SwampRegionDensity0" value="Немає"/>
+<entry name="SwampRegionDensity1" value="Дуже низька"/>
+<entry name="SwampRegionDensity2" value="Низька"/>
+<entry name="SwampRegionDensity3" value="Середня"/>
+<entry name="SwampRegionDensity4" value="Висока"/>
+<entry name="SwampRegionDensity5" value="Дуже висока"/>
+<entry name="TurnTimer" value="Таймер ходу"/>
+<entry name="TurnTimer0" value="Немає"/>
+<entry name="TurnTimer1" value="Дуже короткий (1 хв.)"/>
+<entry name="TurnTimer2" value="Короткий (2 хв.)"/>
+<entry name="TurnTimer3" value="Середній (3 хв.)"/>
+<entry name="TurnTimer4" value="Довгий (4 хв.)"/>
+<entry name="TurnTimer5" value="Дуже довгий (5 хв.)"/>
+<entry name="VictoryRequiresDefeatingNPCs" value="Для перемоги потрібно здолати неігрових персонажів"/>
+<entry name="VictoryRequiresDefeatingNPCsHint" value="Чи потрібно здолати неігрових персонажів (Анахорет, Дика, ЗЕФОН) для перемоги шляхом знищення суперників."/>
+<entry name="VolcanicRegionDensity" value="Щільність регіонів: вулкан"/>
+<entry name="VolcanicRegionDensity0" value="Немає"/>
+<entry name="VolcanicRegionDensity1" value="Дуже низька"/>
+<entry name="VolcanicRegionDensity2" value="Низька"/>
+<entry name="VolcanicRegionDensity3" value="Середня"/>
+<entry name="VolcanicRegionDensity4" value="Висока"/>
+<entry name="VolcanicRegionDensity5" value="Дуже висока"/>
+
+<entry name="VolcanoDensity" value="Щільність: виверження"/>
+<entry name="VolcanoDensity0" value="Немає"/>
+<entry name="VolcanoDensity1" value="Дуже низька"/>
+<entry name="VolcanoDensity2" value="Низька"/>
+<entry name="VolcanoDensity3" value="Середня"/>
+<entry name="VolcanoDensity4" value="Висока"/>
+<entry name="VolcanoDensity5" value="Дуже висока"/>
+<entry name="WildlifeDensity" value="Щільність: фауна"/>
+<entry name="WildlifeDensity0" value="Немає"/>
+<entry name="WildlifeDensity1" value="Дуже низька"/>
+<entry name="WildlifeDensity2" value="Низька"/>
+<entry name="WildlifeDensity3" value="Середня"/>
+<entry name="WildlifeDensity4" value="Висока"/>
+<entry name="WildlifeDensity5" value="Дуже висока"/>
+<entry name="WorldSeed" value="Сід створення світу"/>
+<entry name="WastelandRegionDensity" value="Щільність регіонів: пустка"/>
+<entry name="WastelandRegionDensity0" value="Немає"/>
+<entry name="WastelandRegionDensity1" value="Дуже низька"/>
+<entry name="WastelandRegionDensity2" value="Низька"/>
+<entry name="WastelandRegionDensity3" value="Середня"/>
+<entry name="WastelandRegionDensity4" value="Висока"/>
+<entry name="WastelandRegionDensity5" value="Дуже висока"/>
+<entry name="WhisperingWightsDensity" value="Щільність: шепочучі тіні"/>
+<entry name="WhisperingWightsDensity0" value="Немає"/>
+<entry name="WhisperingWightsDensity1" value="Дуже низька"/>
+<entry name="WhisperingWightsDensity2" value="Низька"/>
+<entry name="WhisperingWightsDensity3" value="Середня"/>
+<entry name="WhisperingWightsDensity4" value="Висока"/>
+<entry name="WhisperingWightsDensity5" value="Дуже висока"/>
+<entry name="ZephonCityDensity" value="Щільність: міста ЗЕФОНА"/>
+<entry name="ZephonCityDensity0" value="Немає"/>
+<entry name="ZephonCityDensity1" value="Дуже низька"/>
+<entry name="ZephonCityDensity2" value="Низька"/>
+<entry name="ZephonCityDensity3" value="Середня"/>
+<entry name="ZephonCityDensity4" value="Висока"/>
+<entry name="ZephonCityDensity5" value="Дуже висока"/>
+
 </language>
