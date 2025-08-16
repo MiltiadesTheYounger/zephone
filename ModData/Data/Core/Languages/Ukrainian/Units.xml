@@ -1,311 +1,323 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Abkhan" value="Абхан"/>
-	<entry name="AbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой биологический течеход, который защищает своё гнездо"/>
-	<entry name="Abkluth" value="Абклюты"/>
-	<entry name="AbkluthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические течеходы ближнего боя, которые каждый ход восстанавливают единицы жизни"/>
-	<entry name="AbkluthDragoon" value="Абклютские драгуны"/>
-	<entry name="AbkluthDragoonProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические течеходы ближнего боя, которые могут подчинять враждебных абклютов"/>
-	<entry name="AcrinMilitia" value="Акринские выжившие"/>
-	<entry name="AcrinMilitiaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические течеходы с мощными целебными силами и умением призывать Течь"/>
-	<entry name="AcrinTitan" value="Титан акринов"/>
-	<entry name="AcrinTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологический титан, который может затягивать врагов в свой колодец каузальности и поглощать их"/>
-	<entry name="AcrinZealot" value="Акрины-фанатики"/>
-	<entry name="AcrinZealotProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические течеходы с травмирующим оружием ближнего боя и способностью телепортироваться между клетками с Течью"/>
-	<entry name="AegyllanWorm" value="Эгилльские копатели"/>
-	<entry name="AegyllanWormProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая бронебойная пехота низкой дальности, которая может передвигаться под землёй"/>
-	<entry name="AkavishProvost" value="Акавит-пробст"/>
-	<entry name="AkavishProvostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический проворный робот, который провоцирует врагов и влияет на получаемый урон"/>
-	<entry name="AmoetiasDevourer" value="Алчущий Амётии"/>
-	<entry name="AmoetiasDevourerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое биологическое существо, которое разлагается и для поддержания жизни должно пожирать врагов или впадать в стазис"/>
-	<entry name="AnchoriteCamp" value="Лагерь Анахорета"/>
-	<entry name="AnchoriteCampFlavor" value="&lt;string name='Quests/Reyndverra/Intro2'/&gt;"/>
-	<entry name="AnchoriteCampProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое укрепление"/>
-	<entry name="AraneanStalker" value="Аранеи-следопыты"/>
-	<entry name="AraneanStalkerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая снайперская пехота, которая может помечать цели"/>
-	<entry name="Arshem" value="Аршем"/>
-	<entry name="ArshemFlavor" value="&lt;string name='Quests/ThickerThanWater/BrothersKeeper/StopArshem2'/&gt;"/>
-	<entry name="ArshemProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Твой собственный брат, обернувшийся против тебя"/>
-	<entry name="ArtificersLaboratory" value="Лаборатория Мастерицы"/>
-	<entry name="ArtificersLaboratoryFlavor" value="&lt;string name='Quests/PerfectionFromBeyondTheStars/Intro'/&gt;"/>
-	<entry name="ArtificersLaboratoryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Особая лаборатория для изучения пролетающей кометы"/>
-	<entry name="AssaultTrooper" value="Штурмовики"/>
-	<entry name="AssaultTrooperProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота с превосходной бронёй, перегружаемыми ружьями Гаусса и стальной волей"/>
-	<entry name="AtlasTank" value="Танк «Атлант»"/>
-	<entry name="AtlasTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический титан, напичканный разрушительным вооружением и улучшениями"/>
-	<entry name="AvatarOfTheEmulatedMind" value="Аватар Модели Разума"/>
-	<entry name="BanditKing" value="Главарь бандитов"/>
-	<entry name="BanditKingFlavor" value="&lt;string name='Quests/PhilosophersStone/Meeting2'/&gt;"/>
-	<entry name="BanditKingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Предводитель бандитов, испорченный философским камнем"/>
-	<entry name="Bunker" value="Бункер"/>
-	<entry name="BunkerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое укрепление, которое защищает область и находящиеся внутри юниты"/>
-	<entry name="Buster" value="Взрывники"/>
-	<entry name="BusterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая бронебойная пехота, которая может поджигать врагов"/>
-	<entry name="Brynn" value="Бринн"/>
-	<entry name="BrynnFlavor" value="&lt;string name='Quests/Reyndverra/Intro4'/&gt;"/>
-	<entry name="BrynnProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Часовщик, ищущий Рейндверру"/>
-	<entry name="CalemVorshole" value="Кэлем Воршол"/>
-	<entry name="CalemVorsholeFlavor" value="&lt;string name='Quests/StolenGoods/HuntThemDown2'/&gt;"/>
-	<entry name="CalemVorsholeProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Предводитель банды «Безумные короли»"/>
-	<entry name="CassielShredder" value="Кассиэли-кромсатели"/>
-	<entry name="CassielShredderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота ближнего боя, которая поддерживает уровень наносимого урона при снижении численности группы"/>
-	<entry name="ChayotExterminator" value="Хайот-искоренитель"/>
-	<entry name="ChayotExterminatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большая механическая парящая техника с хорошим дистанционными способностями и боевыми дронами"/>
-	<entry name="CherubimTitan" value="Херувим-титан"/>
-	<entry name="CherubimTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический титан-летун, который поражает врагов тахионным вооружением и даёт сокращение урона союзникам"/>
-	<entry name="Chieftess" value="&lt;string name='Factions/Chieftess'/&gt;"/>
-	<entry name="ChieftessFlavor" value="&lt;string name='Quests/Reyndverra/FightChieftess2'/&gt;"/>
-	<entry name="CircusAbkhan" value="Цирковой абхан"/>
-	<entry name="CircusAbkhanFlavor" value="&lt;string name='Quests/CircusCambion/AbkluthJousting2'/&gt;"/>
-	<entry name="CircusAbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Прирученный абхан"/>
-	<entry name="CombatDrone" value="Боевые мелисаи"/>
-	<entry name="CombatDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота с штурмовой винтовкой"/>
-	<entry name="CombatMedic" value="Боевые медики"/>
-	<entry name="CombatMedicProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота, которая может лечить и усиливать биологические юниты"/>
-	<entry name="Commander" value="Командир"/>
-	<entry name="CommanderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологический герой, который хорошо сражается и поддерживает пехоту в бою"/>
-	<entry name="CrlaDisciple" value="Ученики Кр'ла"/>
-	<entry name="CrlaDiscipleProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота, которая долго производится, но игнорирует своими атаками линию видимости и применяет множество заклинаний"/>
-	<entry name="CrusaderBattleTank" value="Боевой танк «Крестоносец»"/>
-	<entry name="CrusaderBattleTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большая механическая техника с универсальным орудием, хорошей бронёй и множеством улучшений"/>
-	<entry name="Cyclone" value="«Циклон»"/>
-	<entry name="CycloneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большая механическая противовоздушная техника с хорошей бронёй и множеством улучшений"/>
-	<entry name="DarkVassael" value="Тёмный вассаэль"/>
-	<entry name="DarkVassaelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое биологическое существо с ужасающей атакой, снижающей вражеский боевой дух"/>
-	<entry name="Deformity" value="Уродства"/>
-	<entry name="DeformityProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические чудовища ближнего боя, которые создают новые уродства, когда убивают, но каждый ход теряют единицы жизни"/>
-	<entry name="DevoteeOfThrokos" value="Приверженцы Трокоса"/>
-	<entry name="DevoteeOfThrokosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические стрелковые чудовища, которые сильны против повреждённых врагов"/>
-	<entry name="DreadPearlman" value="Дред-Перлман"/>
-	<entry name="DreadPearlmanFlavor" value="&lt;string name='Quests/ConcordatCompromised/Intro2'/&gt;"/>
-	<entry name="DreadPearlmanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое укрепление"/>
-	<entry name="Dreameater" value="Сноедец"/>
-	<entry name="DreameaterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое парящее существо, которое снижает вражеский боевой дух и подчиняет сломленных врагов"/>
-	<entry name="ElectOfUzhodai" value="Избранник Узодай"/>
-	<entry name="ElectOfUzhodaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой биологический герой ближнего боя, который телепортируется по полю боя и карает врагов на передовой"/>
-	<entry name="ElohimMaelstrom" value="Элохимы-ураганы"/>
-	<entry name="ElohimMaelstromProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота с дальнобойными осадными орудиями, которая эффективнее всего на возвышенностях"/>
-	<entry name="EMPDrone" value="ЭМИ-мелисаи"/>
-	<entry name="EMPDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота, которая подрывает себя, чтобы оглушать механические юниты"/>
-	<entry name="Engineer" value="Инженеры"/>
-	<entry name="EngineerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханическая пехота, которая строит города и дороги, зачищает клетки, а также чинит и усиливает механические юниты"/>
-	<entry name="ErelimAssassin" value="Эрелим-ассасин"/>
-	<entry name="ErelimAssassinProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический герой для скрытного проникновения в тыл врага, превосходен в ближнем бою"/>
-	<entry name="ErelimPriest" value="Эрелим-жрец"/>
-	<entry name="ExousiaMarauder" value="«Эксузия-Мародёр»"/>
-	<entry name="ExousiaMarauderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический парящий транспорт, позволяющий быстро выгружать юниты"/>
-	<entry name="FallenOrolos" value="Падший оролос"/>
-	<entry name="FallenOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое биологическое существо, которое заражает атакующих его в ближнем бою и владеет дальнобойной пушкой, которая стреляет точнее при неподвижности"/>
-	<entry name="HadesBomber" value="Бомбардировщик «Аид»"/>
-	<entry name="HadesBomberProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический летун, который дематериализует врагов при помощи бомбы с антиматерией"/>
-	<entry name="Hammerhead" value="Молотоголовы"/>
-	<entry name="HammerheadProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механические летуны, которые захватывают заставы и убирают Течь"/>
-	<entry name="HashmallimHost" value="Хашмаллим-хозяин"/>
-	<entry name="HashmallimHostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большая механическая парящая техника, которая управляет гравитацией, чтобы игнорировать укрытия, поражать большие юниты и влиять на точность союзников и врагов"/>
-	<entry name="Headquarters" value="&lt;string name='Buildings/Headquarters'/&gt;"/>
-	<entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Городская оборона"/>
-	<entry name="HollowWarlord" value="&lt;string name='Factions/HollowWarlord'/&gt;"/>
-	<entry name="HollowWarlordFlavor" value="&lt;string name='Quests/Reyndverra/FollowTheChieftess2'/&gt;"/>
-	<entry name="HonorableAristocratEngineer" value="&lt;string name='Factions/HonorableAristocrat'/&gt; (Инженер)"/>
-	<entry name="HonorableAristocratEngineerFlavor" value="&lt;string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/&gt;"/>
-	<entry name="HonorableAristocratEngineerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Медленный инженер, подходящий для единственной задачи"/>
-	<entry name="HonorableAristocratMissileTeam" value="Бригада НеоГерцога"/>
-	<entry name="HonorableAristocratMissileTeamFlavor" value="&lt;string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/&gt;"/>
-	<entry name="HonorableAristocratMissileTeamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Медленный ракетный расчёт"/>
-	<entry name="HonorableAristocratOutrider" value="&lt;string name='Factions/HonorableAristocrat'/&gt; (&lt;string name='Units/Outrider'/&gt;)"/>
-	<entry name="HonorableAristocratOutriderFlavor" value="&lt;string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/&gt;"/>
-	<entry name="HonorableAristocratOutriderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Медленная &lt;string name='Units/Outrider'/&gt;"/>
-	<entry name="Husband" value="Супруг"/>
-	<entry name="HusbandFlavor" value="&lt;string name='Quests/ImpossibleConception/Intro2'/&gt;"/>
-	<entry name="Hwedo" value="Хведо"/>
-	<entry name="HwedoFlavor" value="&lt;string name='Quests/PerfectionFromBeyondTheStars/DefendLabSuccess'/&gt;"/>
-	<entry name="HwedoProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Мощное биомеханическое существо, созданное из энергии пролетающей кометы"/>
-	<entry name="IronFeather" value="СтальноеПеро"/>
-	<entry name="IronFeatherFlavor" value="&lt;string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/&gt;"/>
-	<entry name="IronFeatherProperties" value="&lt;icon texture='GUI/Bullet'/&gt;СтальноеПеро внутри особого малакима-уничтожителя"/>
-	<entry name="IronFeatherGuardian" value="Страж СтальногоПера"/>
-	<entry name="IokSwarm" value="Рой иоков"/>
-	<entry name="IokSwarmProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологические летуны, которые плюются кислотой и пожирают соседние юниты, чтобы лечить себя"/>
-	<entry name="IshimEnforcer" value="Ишимы-силовики"/>
-	<entry name="IshimEnforcerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханическая пехота, которая чередует заряженные и разряженные атаки, а также лечит свои раны"/>
-	<entry name="IthurielHarbinger" value="Итуриэль-предвестник"/>
-	<entry name="IthurielHarbingerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический робот с мощными перегревающимися пушками"/>
-	<entry name="Jezina" value="Джезина"/>
-	<entry name="JezinaFlavor" value="&lt;string name='Quests/TheTiesThatBind/ChaseJezina2'/&gt;"/>
-	<entry name="KlotHadal" value="Клот'Хадал"/>
-	<entry name="KlotHadalProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Легендарный абклютский драгун"/>
-	<entry name="KlotHadalFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheGreatHunt2'/&gt;"/>
-	<entry name="KriteriaAnnihilator" value="Критерии-аннигиляторы"/>
-	<entry name="KriteriaAnnihilatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота, которая становится мощнее после уничтожения врага"/>
-	<entry name="KryptArchai" value="Крипт-архий"/>
-	<entry name="KryptArchaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический парящий герой, который с трудом чинится, но способен управлять материей, чтобы защищать союзников и парализовать врагов"/>
-	<entry name="LandanGraham" value="Ландан Грэм"/>
-	<entry name="LandanGrahamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханический учёный, который может зачищать клетки"/>
-	<entry name="LandanGrahamAugmented" value="Ландан Грэм (Усиленный)"/>
-	<entry name="LandanGrahamAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханический учёный, усиленный великолепным оружием на стыке человеческих и акринских технологий"/>
-	<entry name="LandanGrahamAugmentedFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/&gt;"/>
-	<entry name="MalakimDestroyer" value="Малакимы-уничтожители"/>
-	<entry name="MalakimDestroyerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханическая парящая пехота с мощным перегревающимся оружием"/>
-	<entry name="Militant" value="Воїни"/>
-	<entry name="MilitantProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Основная пехота с большей скорострельностью на близкой дистанции"/>
-	<entry name="MissileTeam" value="Ракетный расчёт"/>
-	<entry name="MissileTeamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханическая бронебойная пехота, которой требуется неподвижность для точной стрельбы"/>
-	<entry name="OminousLair" value="Зловещее логово"/>
-	<entry name="OphanimCarrier" value="Офаним-носитель"/>
-	<entry name="OphanimCarrierProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический летун, способный задействовать различные дроны"/>
-	<entry name="Orin" value="Орин"/>
-	<entry name="OrinFlavor" value="&lt;string name='Quests/ThePulledThread/CaptureScientistSuccess2'/&gt;"/>
-	<entry name="OrinProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Святотатственный учёный"/>
-	<entry name="Outrider" value="«Колесница»"/>
-	<entry name="OutriderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический транспорт с лёгким оснащением и превосходными разведывательными способностями"/>
-	<entry name="PhenarisEpicurean" value="Эпикурейцы Фенариса"/>
-	<entry name="PhenarisEpicureanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота ближнего боя, которая временно повышает свои единицы жизни и лечит союзников, атакуя врагов в ближнем бою"/>
-	<entry name="PhenarisHunter" value="Охотники Фенариса"/>
-	<entry name="PhenarisHunterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота ближнего боя, которая скрытно передвигается, создаёт ужасающие иллюзии и раскрывает врагов своими серпами"/>
-	<entry name="PhoenixInterceptor" value="Перехватчик «Феникс»"/>
-	<entry name="PhoenixInterceptorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический летун с невероятной скоростью, который превосходно борется с другими воздушными целями"/>
-	<entry name="PlangentOrolos" value="Заунывный оролос"/>
-	<entry name="PlangentOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое биологическое существо, которое управляет звуком, чтобы наносить урон врагам и обездвиживать их"/>
-	<entry name="Praetorian" value="Преторианцы"/>
-	<entry name="PraetorianProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота с вооружением из антиматерии и прыжковыми ранцами для быстрого наступления и уничтожения врагов в ближнем бою"/>
-	<entry name="RadioTelescope" value="Радиотелескоп"/>
-	<entry name="RadioTelescopeFlavor" value="&lt;string name='Quests/MessageToTheStars/Contact/FindYourWay2'/&gt;"/>
-	<entry name="ReamingCrodeus" value="Распростёртый кродеус"/>
-	<entry name="ReamingCrodeusProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологический титан-летун, который травмирует и глотает врагов, переваривая их в своём желудке"/>
-	<entry name="Reaver" value="Опустошители"/>
-	<entry name="ReaverProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота со слабой бронёй, впадающая в буйство при окружении"/>
-	<entry name="ReaverCamp" value="Лагерь Опустошителей"/>
-	<entry name="ReaverCampFlavor" value="&lt;string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/&gt;"/>
-	<entry name="ReaverCampProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое укрепление"/>
-	<entry name="RepairDrone" value="Ремонтные мелисаи"/>
-	<entry name="RepairDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механическая парящая пехота, которая чинит механических союзников"/>
-	<entry name="ResourceTransport" value="Транспорт с ресурсами"/>
-	<entry name="Scrambler" value="Бродяги"/>
-	<entry name="ScramblerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биомеханические байкеры, которые превосходно маневрируют, вступая в бой и выходя из него"/>
-	<entry name="Sentry" value="Часовые"/>
-	<entry name="SentryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механические роботы, созданные для обороны области"/>
-	<entry name="SeraphimArchangel" value="Серафим-архангел"/>
-	<entry name="SeraphimArchangelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический титан-летун, который уничтожает врагов сингулярным клинком"/>
-	<entry name="Sharpshooter" value="Снайперы"/>
-	<entry name="SharpshooterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологическая пехота с противопехотными снайперскими винтовками, а также маскировочными и разведывательными способностями"/>
-	<entry name="ShochitrisLair" value="Логово шох'итриса"/>
-	<entry name="ShochitrisLairProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое биологическое укрепление, которое порождает уродства"/>
-	<entry name="Splenetics" value="«Желчные»"/>
-	<entry name="SpleneticsProperties" value="&lt;string name='Units/MilitantProperties'/&gt;"/>
-	<entry name="SurthodaisEmbrace" value="Объятия Суртодай"/>
-	<entry name="SurthodaisEmbraceProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой биологический транспорт, умело передвигающийся по пересечённой местности и защищающий юниты"/>
-	<entry name="TH3Corsair" value="«TH-3 Корсар»"/>
-	<entry name="TH3CorsairProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический летающий транспорт со способностью к манёврам уклонения"/>
-	<entry name="TesseraCore" value="Тессера-блок"/>
-	<entry name="TesseraCoreProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое парящее укрепление, способное управлять гравитацией и действовать несколько раз"/>
-	<entry name="Test" value="Тест"/>
-	<entry name="TheFalseSpeaker" value="Лжевестник"/>
-	<entry name="TheFalseSpeakerFlavor" value="&lt;string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/&gt;"/>
-	<entry name="TheFalseSpeakerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Испорченный крипт-архий"/>
-	<entry name="TheJackal" value="Шакалёнок"/>
-	<entry name="TheTerror" value="Ужас"/>
-	<entry name="TwistedChildCyber" value="Неудавшийся эксперимент"/>
-	<entry name="TwistedChildCyberFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment32'/&gt;"/>
-	<entry name="TwistedChildVoice" value="Неудавшийся эксперимент"/>
-	<entry name="TwistedChildVoiceFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment12'/&gt;"/>
-	<entry name="Valkyrie" value="«Валькирия»"/>
-	<entry name="ValkyrieProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический летающий герой, который вдохновляется смертью врагов"/>
-	<entry name="VanquisherSiegeTank" value="Осадный танк «Покоритель»"/>
-	<entry name="VanquisherSiegeTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большая механическая техника с артиллерийским орудием, хорошей бронёй и множеством улучшений"/>
-	<entry name="VorodaisLeviathan" value="Левиафан Вародай"/>
-	<entry name="VorodaisLeviathanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологический титан-транспорт, который превосходно уничтожает большие скопления врагов и поглощает их жизненную силу"/>
-	<entry name="VulkanR5" value="«Вулкан R-5»"/>
-	<entry name="VulkanR5Properties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический робот, который бьёт и поджигает врагов"/>
-	<entry name="Warden" value="Страж"/>
-	<entry name="WardenProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический робот, который крадёт единицы жизни у механических юнитов и сжигает своих жертв заживо"/>
-	<entry name="WardenAugmented" value="Страж (Улучшенный)"/>
-	<entry name="WardenAugmentedFlavor" value="&lt;string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/&gt;"/>
-	<entry name="WardenAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Высокотехнологичный страж"/>
-	<entry name="Wastelander" value="«Пустынник»"/>
-	<entry name="WastelanderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большой механический транспорт с тяжёлым вооружением, который усиливает союзников вблизи"/>
-	<entry name="WhispererOfGoldrauch" value="Шепчущая о Голдрохе"/>
-	<entry name="WhispererOfGoldrauchProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Биологический парящий герой с дистанционными способностями для лечения и призыва союзников, а также для раскрытия и поражения врагов"/>
-	<entry name="ZandraKyne" value="Зандра Кайн"/>
-	<entry name="ZandraKyneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Блестящий и немного безумный учёный, который управляет временем"/>
-	<entry name="ZandraKyneFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheSpaceEngine2'/&gt;"/>
-	<entry name="ZephonBlackSite" value="Секретный комплекс ЗЕФОНа"/>
-	<entry name="ZephonBlackSiteFlavor" value="&lt;string name='Quests/BlackSite/Intro2'/&gt;"/>
-	<entry name="ZephonBlackSiteProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Большое механическое укрепление"/>
-	<entry name="ZephonTitan" value="Титан ЗЕФОНа"/>
-	<entry name="ZephonTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механический титан, который строит стражей, чинит механические юниты и обрушивает смерть и разрушение на большую область"/>
+<entry name="Abkhan" value="Абхан"/>
+<entry name="AbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий біологічний течеход, який захищає своє гніздо"/>
+<entry name="Abkluth" value="Абклют"/>
+<entry name="AbkluthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи ближнього бою, які щоходу відновлюють одиниці життя"/>
+<entry name="AbkluthDragoon" value="Абклютські драгуни"/>
+<entry name="AbkluthDragoonProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи ближнього бою, здатні підкорювати ворожих абклютів"/>
+<entry name="AcrinMilitia" value="Акринські виживальники"/>
+<entry name="AcrinMilitiaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи з потужними цілющими здібностями та вмінням викликати Течу"/>
+<entry name="AcrinTitan" value="Титан акринів"/>
+<entry name="AcrinTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний титан, що може затягувати ворогів у свій колодязь каузальності та поглинати їх"/>
+<entry name="AcrinZealot" value="Акринські фанатики"/>
+<entry name="AcrinZealotProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи з травмуючою зброєю ближнього бою та здатністю телепортуватися між клітинками з Течі"/>
+<entry name="AegyllanWorm" value="Еґілльські копачі"/>
+<entry name="AegyllanWormProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна бронебійна піхота ближнього радіусу, здатна пересуватись під землею"/>
+<entry name="AkavishProvost" value="Акавіш-пробст"/>
+<entry name="AkavishProvostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний спритний робот, що провокує ворогів і впливає на отримувану шкоду"/>
+<entry name="AmoetiasDevourer" value="Ненаситний Аметієць"/>
+<entry name="AmoetiasDevourerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота, що розкладається і для підтримки життя мусить пожирати ворогів або впадати в стазис"/>
+<entry name="AnchoriteCamp" value="Табір Анахорета"/>
+<entry name="AnchoriteCampFlavor" value="&lt;string name='Quests/Reyndverra/Intro2'/&gt;"/>
+<entry name="AnchoriteCampProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
+<entry name="AraneanStalker" value="Аранейські слідопити"/>
+<entry name="AraneanStalkerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна снайперська піхота, здатна позначати цілі"/>
+<entry name="Arshem" value="Аршем"/>
+<entry name="ArshemFlavor" value="&lt;string name='Quests/ThickerThanWater/BrothersKeeper/StopArshem2'/&gt;"/>
+<entry name="ArshemProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Твій рідний брат, який обернувся проти тебе"/>
+<entry name="ArtificersLaboratory" value="Лабораторія Майстрині"/>
+<entry name="ArtificersLaboratoryFlavor" value="&lt;string name='Quests/PerfectionFromBeyondTheStars/Intro'/&gt;"/>
+<entry name="ArtificersLaboratoryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Особлива лабораторія для дослідження пролітаючої комети"/>
+<entry name="AssaultTrooper" value="Штурмовики"/>
+<entry name="AssaultTrooperProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота з чудовою бронею, перевантажуваними ґаусовими рушницями та сталевою волею"/>
+
+<entry name="AtlasTank" value="Танк «Атлас»"/>
+<entry name="AtlasTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний титан, нашпигований руйнівним озброєнням і вдосконаленнями"/>
+<entry name="AvatarOfTheEmulatedMind" value="Аватар Моделі Розуму"/>
+<entry name="BanditKing" value="Ватажок бандитів"/>
+<entry name="BanditKingFlavor" value="&lt;string name='Quests/PhilosophersStone/Meeting2'/&gt;"/>
+<entry name="BanditKingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Лідер бандитів, зіпсований філософським каменем"/>
+<entry name="Bunker" value="Бункер"/>
+<entry name="BunkerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення, що захищає область і розміщені всередині юніти"/>
+<entry name="Buster" value="Підривники"/>
+<entry name="BusterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна бронебійна піхота, здатна підпалювати ворогів"/>
+<entry name="Brynn" value="Брінн"/>
+<entry name="BrynnFlavor" value="&lt;string name='Quests/Reyndverra/Intro4'/&gt;"/>
+<entry name="BrynnProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Годинникар, що шукає Рейндверру"/>
+<entry name="CalemVorshole" value="Калем Воршол"/>
+<entry name="CalemVorsholeFlavor" value="&lt;string name='Quests/StolenGoods/HuntThemDown2'/&gt;"/>
+<entry name="CalemVorsholeProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Лідер банди «Божевільні королі»"/>
+<entry name="CassielShredder" value="Кассіелі-розчленувачі"/>
+<entry name="CassielShredderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота ближнього бою, що зберігає рівень завданої шкоди при зменшенні чисельності загону"/>
+<entry name="ChayotExterminator" value="Хайот-ліквідатор"/>
+<entry name="ChayotExterminatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна паруюча техніка з потужними дистанційними здібностями та бойовими дронами"/>
+<entry name="CherubimTitan" value="Херувим-титан"/>
+<entry name="CherubimTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний титан-літунець, що вражає ворогів тахіонною зброєю та зменшує шкоду для союзників"/>
+<entry name="Chieftess" value="&lt;string name='Factions/Chieftess'/&gt;"/>
+<entry name="ChieftessFlavor" value="&lt;string name='Quests/Reyndverra/FightChieftess2'/&gt;"/>
+<entry name="CircusAbkhan" value="Цирковий Абхан"/>
+<entry name="CircusAbkhanFlavor" value="&lt;string name='Quests/CircusCambion/AbkluthJousting2'/&gt;"/>
+<entry name="CircusAbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Приручений Абхан"/>
+<entry name="CombatDrone" value="Бойові мелісай"/>
+<entry name="CombatDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота зі штурмовою гвинтівкою"/>
+<entry name="CombatMedic" value="Бойові медики"/>
+<entry name="CombatMedicProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота, здатна лікувати та посилювати біологічні юніти"/>
+<entry name="Commander" value="Командир"/>
+<entry name="CommanderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний герой, що добре веде бій і підтримує піхоту в бою"/>
+<entry name="CrlaDisciple" value="Учні Кр'ла"/>
+<entry name="CrlaDiscipleProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота, що довго виробляється, але ігнорує лінію видимості та застосовує численні заклинання"/>
+
+<entry name="CrusaderBattleTank" value="Бойовий танк «Хрестоносець»"/>
+<entry name="CrusaderBattleTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна техніка з універсальною гарматою, міцною бронею та численними вдосконаленнями"/>
+<entry name="Cyclone" value="«Циклон»"/>
+<entry name="CycloneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна протиповітряна техніка з потужною бронею та численними вдосконаленнями"/>
+<entry name="DarkVassael" value="Темний вассаель"/>
+<entry name="DarkVassaelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота з жахливою атакою, що знижує бойовий дух ворогів"/>
+<entry name="Deformity" value="Потворності"/>
+<entry name="DeformityProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні чудовиська ближнього бою, які створюють нові потворності після вбивства, але щоходу втрачають одиниці життя"/>
+<entry name="DevoteeOfThrokos" value="Приверженці Трокоса"/>
+<entry name="DevoteeOfThrokosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні стрілецькі чудовиська, ефективні проти пошкоджених ворогів"/>
+<entry name="DreadPearlman" value="Дред-Перлман"/>
+<entry name="DreadPearlmanFlavor" value="&lt;string name='Quests/ConcordatCompromised/Intro2'/&gt;"/>
+<entry name="DreadPearlmanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
+<entry name="Dreameater" value="Сноїд"/>
+<entry name="DreameaterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика паруюча істота, що знижує бойовий дух ворогів і підкорює зломлених"/>
+<entry name="ElectOfUzhodai" value="Обранець Узодая"/>
+<entry name="ElectOfUzhodaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий біологічний герой ближнього бою, що телепортується по полю бою та карає ворогів на передовій"/>
+<entry name="ElohimMaelstrom" value="Елохіми-урагани"/>
+<entry name="ElohimMaelstromProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота з далекобійними облоговими гарматами, найефективніша на височинах"/>
+<entry name="EMPDrone" value="ЕМІ-мелісай"/>
+<entry name="EMPDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що підриває себе для оглушення механічних юнітів"/>
+<entry name="Engineer" value="Інженери"/>
+<entry name="EngineerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна піхота, що будує міста й дороги, очищає клітинки, а також ремонтує та посилює механічні юніти"/>
+<entry name="ErelimAssassin" value="Ерелім-ассасин"/>
+<entry name="ErelimAssassinProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний герой для прихованого проникнення в тил ворога, майстер ближнього бою"/>
+<entry name="ErelimPriest" value="Ерелім-жрець"/>
+<entry name="ExousiaMarauder" value="«Ексузія-Мародер»"/>
+<entry name="ExousiaMarauderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний паруючий транспорт, що дозволяє швидко висаджувати юніти"/>
+
+<entry name="FallenOrolos" value="Падлий Оролос"/>
+<entry name="FallenOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота, що заражає тих, хто атакує її в ближньому бою, та володіє далекобійною гарматою, яка стріляє точніше, коли нерухома"/>
+<entry name="HadesBomber" value="Бомбардувальник «Аїд»"/>
+<entry name="HadesBomberProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний летун, що дематеріалізує ворогів за допомогою антиматерійної бомби"/>
+<entry name="Hammerhead" value="Молотоголови"/>
+<entry name="HammerheadProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічні летуни, що захоплюють застави та усувають Течу"/>
+<entry name="HashmallimHost" value="Хашмаллім-господар"/>
+<entry name="HashmallimHostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна паруюча техніка, що керує гравітацією: ігнорує укриття, вражає великі юніти та впливає на точність союзників і ворогів"/>
+<entry name="Headquarters" value="&lt;string name='Buildings/Headquarters'/&gt;"/>
+<entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Міська оборона"/>
+<entry name="HollowWarlord" value="&lt;string name='Factions/HollowWarlord'/&gt;"/>
+<entry name="HollowWarlordFlavor" value="&lt;string name='Quests/Reyndverra/FollowTheChieftess2'/&gt;"/>
+<entry name="HonorableAristocratEngineer" value="&lt;string name='Factions/HonorableAristocrat'/&gt; (Інженер)"/>
+<entry name="HonorableAristocratEngineerFlavor" value="&lt;string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/&gt;"/>
+<entry name="HonorableAristocratEngineerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Повільний інженер, придатний лише для однієї задачі"/>
+<entry name="HonorableAristocratMissileTeam" value="Бригада НеоГерцога"/>
+<entry name="HonorableAristocratMissileTeamFlavor" value="&lt;string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/&gt;"/>
+<entry name="HonorableAristocratMissileTeamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Повільний ракетний розрахунок"/>
+<entry name="HonorableAristocratOutrider" value="&lt;string name='Factions/HonorableAristocrat'/&gt; (&lt;string name='Units/Outrider'/&gt;)"/>
+<entry name="HonorableAristocratOutriderFlavor" value="&lt;string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/&gt;"/>
+<entry name="HonorableAristocratOutriderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Повільна &lt;string name='Units/Outrider'/&gt;"/>
+<entry name="Husband" value="Чоловік"/>
+<entry name="HusbandFlavor" value="&lt;string name='Quests/ImpossibleConception/Intro2'/&gt;"/>
+<entry name="Hwedo" value="Хведо"/>
+<entry name="HwedoFlavor" value="&lt;string name='Quests/PerfectionFromBeyondTheStars/DefendLabSuccess'/&gt;"/>
+<entry name="HwedoProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Потужна біомеханічна істота, створена з енергії пролітаючої комети"/>
+<entry name="IronFeather" value="ЗалізнеПеро"/>
+<entry name="IronFeatherFlavor" value="&lt;string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/&gt;"/>
+<entry name="IronFeatherProperties" value="&lt;icon texture='GUI/Bullet'/&gt;ЗалізнеПеро всередині особливого малакима-знищувача"/>
+<entry name="IronFeatherGuardian" value="Страж ЗалізногоПера"/>
+<entry name="IokSwarm" value="Рій іоків"/>
+<entry name="IokSwarmProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні летуни, що плюються кислотою та пожирають сусідні юніти, щоб зцілити себе"/>
+<entry name="IshimEnforcer" value="Ішими-силовики"/>
+<entry name="IshimEnforcerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна піхота, що чергує заряджені та розряджені атаки, а також лікує власні рани"/>
+<entry name="IthurielHarbinger" value="Ітурієль-предвісник"/>
+<entry name="IthurielHarbingerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний робот із потужними перегрітими гарматами"/>
+
+<entry name="Jezina" value="Джезіна"/>
+<entry name="JezinaFlavor" value="&lt;string name='Quests/TheTiesThatBind/ChaseJezina2'/&gt;"/>
+<entry name="KlotHadal" value="Клот'Хадал"/>
+<entry name="KlotHadalProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Легендарний абклютський драгун"/>
+<entry name="KlotHadalFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheGreatHunt2'/&gt;"/>
+<entry name="KriteriaAnnihilator" value="Критерій-анігілятор"/>
+<entry name="KriteriaAnnihilatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що стає сильнішою після знищення ворога"/>
+<entry name="KryptArchai" value="Крипт-архай"/>
+<entry name="KryptArchaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний паруючий герой, якого важко ремонтувати, але він здатен керувати матерією для захисту союзників і паралізації ворогів"/>
+<entry name="LandanGraham" value="Ландан Ґрем"/>
+<entry name="LandanGrahamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічний учений, здатний очищати клітинки"/>
+<entry name="LandanGrahamAugmented" value="Ландан Ґрем (Посилений)"/>
+<entry name="LandanGrahamAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічний учений, посилений чудовою зброєю на стику людських і акринських технологій"/>
+<entry name="LandanGrahamAugmentedFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/&gt;"/>
+<entry name="MalakimDestroyer" value="Малакими-знищувачі"/>
+<entry name="MalakimDestroyerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна паруюча піхота з потужною перегріваючою зброєю"/>
+<entry name="Militant" value="Вояки"/>
+<entry name="MilitantProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Основна піхота з підвищеною скорострільністю на близькій дистанції"/>
+<entry name="MissileTeam" value="Ракетний розрахунок"/>
+<entry name="MissileTeamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна бронебійна піхота, якій потрібна нерухомість для точного пострілу"/>
+<entry name="OminousLair" value="Зловісне лігво"/>
+<entry name="OphanimCarrier" value="Офанім-носій"/>
+<entry name="OphanimCarrierProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний летун, здатний активувати різні дрони"/>
+<entry name="Orin" value="Орін"/>
+<entry name="OrinFlavor" value="&lt;string name='Quests/ThePulledThread/CaptureScientistSuccess2'/&gt;"/>
+<entry name="OrinProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Святотатний учений"/>
+<entry name="Outrider" value="«Колісниця»"/>
+<entry name="OutriderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний транспорт із легким оснащенням і чудовими розвідувальними здібностями"/>
+<entry name="PhenarisEpicurean" value="Епікурейці Фенариса"/>
+<entry name="PhenarisEpicureanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота ближнього бою, яка тимчасово підвищує свої одиниці життя та лікує союзників, атакуючи ворогів"/>
+<entry name="PhenarisHunter" value="Мисливці Фенариса"/>
+<entry name="PhenarisHunterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота ближнього бою, що пересувається приховано, створює моторошні ілюзії та розкриває ворогів своїми серпами"/>
+<entry name="PhoenixInterceptor" value="Перехоплювач «Фенікс»"/>
+<entry name="PhoenixInterceptorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний летун із неймовірною швидкістю, що чудово бореться з іншими повітряними цілями"/>
+<entry name="PlangentOrolos" value="Жалобний Оролос"/>
+<entry name="PlangentOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота, що керує звуком для завдання шкоди ворогам і їх знерухомлення"/>
+
+<entry name="Praetorian" value="Преторіанці"/>
+<entry name="PraetorianProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота з антиматерійною зброєю та стрибковими ранцями для швидкого наступу й знищення ворогів у ближньому бою"/>
+<entry name="RadioTelescope" value="Радіотелескоп"/>
+<entry name="RadioTelescopeFlavor" value="&lt;string name='Quests/MessageToTheStars/Contact/FindYourWay2'/&gt;"/>
+<entry name="ReamingCrodeus" value="Розпростертий Кродеус"/>
+<entry name="ReamingCrodeusProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний титан-літунець, що калічить і ковтає ворогів, перетравлюючи їх у власному шлунку"/>
+<entry name="Reaver" value="Спустошувачі"/>
+<entry name="ReaverProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота зі слабкою бронею, що впадає в шал при оточенні"/>
+<entry name="ReaverCamp" value="Табір Спустошувачів"/>
+<entry name="ReaverCampFlavor" value="&lt;string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/&gt;"/>
+<entry name="ReaverCampProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
+<entry name="RepairDrone" value="Ремонтні мелісай"/>
+<entry name="RepairDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що ремонтує механічних союзників"/>
+<entry name="ResourceTransport" value="Транспорт із ресурсами"/>
+<entry name="Scrambler" value="Блукачі"/>
+<entry name="ScramblerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічні байкери, що майстерно маневрують, вступаючи в бій і виходячи з нього"/>
+<entry name="Sentry" value="Вартові"/>
+<entry name="SentryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічні роботи, створені для оборони території"/>
+<entry name="SeraphimArchangel" value="Серафим-архангел"/>
+<entry name="SeraphimArchangelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний титан-літунець, що знищує ворогів сингулярним клинком"/>
+<entry name="Sharpshooter" value="Снайпери"/>
+<entry name="SharpshooterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота з антипіхотними снайперськими гвинтівками, а також здатністю до маскування й розвідки"/>
+<entry name="ShochitrisLair" value="Лігво Шох'ітріса"/>
+<entry name="ShochitrisLairProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике біологічне укріплення, що породжує потворності"/>
+<entry name="Splenetics" value="«Жовчні»"/>
+<entry name="SpleneticsProperties" value="&lt;string name='Units/MilitantProperties'/&gt;"/>
+<entry name="SurthodaisEmbrace" value="Обійми Суртодай"/>
+<entry name="SurthodaisEmbraceProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий біологічний транспорт, що вправно пересувається пересіченою місцевістю та захищає юніти"/>
+<entry name="TH3Corsair" value="«TH-3 Корсар»"/>
+<entry name="TH3CorsairProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний летючий транспорт зі здатністю до ухильних маневрів"/>
+<entry name="TesseraCore" value="Тессера-ядро"/>
+<entry name="TesseraCoreProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне паруюче укріплення, здатне керувати гравітацією та діяти кілька разів за хід"/>
+
+<entry name="Test" value="Тест"/>
+<entry name="TheFalseSpeaker" value="Фальшивий Вісник"/>
+<entry name="TheFalseSpeakerFlavor" value="&lt;string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/&gt;"/>
+<entry name="TheFalseSpeakerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Зіпсований крипт-архай"/>
+<entry name="TheJackal" value="Шакалятко"/>
+<entry name="TheTerror" value="Жах"/>
+<entry name="TwistedChildCyber" value="Невдалий експеримент"/>
+<entry name="TwistedChildCyberFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment32'/&gt;"/>
+<entry name="TwistedChildVoice" value="Невдалий експеримент"/>
+<entry name="TwistedChildVoiceFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment12'/&gt;"/>
+<entry name="Valkyrie" value="«Валькірія»"/>
+<entry name="ValkyrieProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний летючий герой, що надихається смертю ворогів"/>
+<entry name="VanquisherSiegeTank" value="Облоговий танк «Покоритель»"/>
+<entry name="VanquisherSiegeTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна техніка з артилерійською гарматою, міцною бронею та численними вдосконаленнями"/>
+<entry name="VorodaisLeviathan" value="Левіафан Вародай"/>
+<entry name="VorodaisLeviathanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний титан-транспорт, що чудово знищує великі скупчення ворогів і поглинає їх життєву силу"/>
+<entry name="VulkanR5" value="«Вулкан R-5»"/>
+<entry name="VulkanR5Properties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний робот, що б’є та підпалює ворогів"/>
+<entry name="Warden" value="Страж"/>
+<entry name="WardenProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний робот, що краде одиниці життя у механічних юнітів і спалює своїх жертв живцем"/>
+<entry name="WardenAugmented" value="Страж (Посилений)"/>
+<entry name="WardenAugmentedFlavor" value="&lt;string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/&gt;"/>
+<entry name="WardenAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Високотехнологічний страж"/>
+<entry name="Wastelander" value="«Пустельник»"/>
+<entry name="WastelanderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний транспорт із важким озброєнням, що посилює союзників поблизу"/>
+<entry name="WhispererOfGoldrauch" value="Шепотійка про Ґолдроха"/>
+<entry name="WhispererOfGoldrauchProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний паруючий герой із дистанційними здібностями для лікування, призову союзників, виявлення та ураження ворогів"/>
+<entry name="ZandraKyne" value="Зандра Каїн"/>
+<entry name="ZandraKyneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Блискуча й трохи божевільна вчена, що керує часом"/>
+<entry name="ZandraKyneFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheSpaceEngine2'/&gt;"/>
+<entry name="ZephonBlackSite" value="Таємний комплекс ЗЕФОНА"/>
+<entry name="ZephonBlackSiteFlavor" value="&lt;string name='Quests/BlackSite/Intro2'/&gt;"/>
+<entry name="ZephonBlackSiteProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
+<entry name="ZephonTitan" value="Титан ЗЕФОНА"/>
+<entry name="ZephonTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний титан, що створює стражів, ремонтує механічні юніти та обрушує смерть і руйнування на велику область"/>
+
 	
 	<!-- Flavor. -->
-	<entry name="AbkhanFlavor" value="Будь у этой твари крылья, мы окрестили бы её драконом. Она подстерегала в смертельно опасных местах, алчно копя драгоценные ресурсы. Она даже дышала, как дракон, только обжигала свои жертвы льдом, а не пламенем. После её убийства лучше было не задерживаться рядом с логовом — по слухам, бестия вновь оживала через несколько дней."/>
-	<entry name="AbkluthDragoonFlavor" value="Разбившиеся акрины привели с собой этих тварей — похожих на ящериц чудовищ, с лёгкостью разрывавших на части любое существо с Земли. Учитывая то, как они повиновались акринам, я бы предположил, что они служили домашним скотом или питомцами, но это не помешало культистам Голоса использовать их в военных целях."/>
-	<entry name="AbkluthFlavor" value="Акринские твари. Питомцы? Скот? Чтоб я знал. Но они сбежали с мест крушений и решили, что здесь их новый дом. Нам их есть нельзя — фундаментальные биологические различия, вроде бы — но если на них не охотиться, то они убьют или раздерут на части всё, что нам есть можно."/>
-	<entry name="AcrinMilitiaFlavor" value="Уцелевшие акрины следовали шёпоту Голоса, чтобы выжить на разбитой планете. Попав в передрягу, любой из них с лёгкостью регенерировал повреждения тела. Но и наносить их пришельцы тоже были обучены."/>
-	<entry name="AcrinTitanFlavor" value="Я могу закрыть глаза и не смотреть на конечности титана, его плоть, разинутую пасть посередине туловища, но вот прогнать эту чёртову вонь было невозможно. Звучит безумно, но пахло... как ломающиеся кости. Как перекрученная нога, вывернутая ступня, раздавленная камнем рука. Я не про запах боли или крови, а про то ощущение, когда смотришь на свое собственное тело и видишь, насколько оно исковеркано."/>
-	<entry name="AcrinZealotFlavor" value="Господь, смилуйся над солдатами. Как-то они прослышали о фанатиках-акринах, которые могут нырнуть в одну лужайку Течи и появиться из другой. Мы оглянуться не успели, как солдаты-недоумки окружили все известные нам скопления Течи. Как будто акрины стали бы вот так просто лезть под их пули! Ох, где мы вообще понабирали этих людей?.."/>
-	<entry name="AegyllanWormFlavor" value="Восприятие Голоса не всех меняло одинаково. Некоторые продолжали искать то тёмное, тихое место, возвращались изменившимися для его поисков, погружались в чёрные глубины Земли. Но видеть лицо друга на одном из них, когда тот выползал из камня и почвы... Вот это было непростым испытанием."/>
-	<entry name="AkavishProvostFlavor" value="Первый пробст, предположительно, появился в результате сбоя. Продвинутое интеллектуальное ядро, которое сломалось и требовало, чтобы в бой его несли на паланкине, — и при этом кричало: «Вавилон падёт!» Но мне не кажется, что это был сбой. Я думаю, что в его коде таилось нечто, чего не предусмотрели его создатели. Машинам ровно так же, как и культистам Голоса, не терпелось посмотреть на конец света."/>
-	<entry name="AmoetiasDevourerFlavor" value="Не дай разлагающейся плоти тебя одурачить. Алчущие сделают всё возможное, чтобы подобраться поближе и полакомиться твоими частями. Всё начинается с того, что левая голова откусывает тебе лицо, правая вырывает сердце, а затем, когда ты умираешь, он заталкивает твоё тело в свою мерзкую пасть..."/>
-	<entry name="AraneanStalkerFlavor" value="Лучшие снайперы стреляют из самых неожиданных точек. Аранеи-следопыты научили нас осматривать все скалы, расщелины, развалины зданий. Если ты замечал их светящийся глаз, у тебя была доля секунды, чтобы нырнуть в грязь. Иногда ты мог выжить. Иногда они с тобой просто играли."/>
-	<entry name="AssaultTrooperFlavor" value="Избежав уничтожения мира и кое-как наладив жизнь, мы могли больше не полагаться на воинов. Мы могли готовить к бою настоящих солдат и разрабатывать для них особое снаряжение. Так появились первые из них, оснащённые бронёй с трансурановым покрытием и компактными рельсотронами — тем, что ещё называют «гауссовками»."/>
-	<entry name="AtlasTankFlavor" value="Танки размером с городской квартал. До падения дальше проектов дело не зашло, мы нашли их на военном сервере, в недрах дизайнерских архивов. На такую махину можно было что угодно поставить. На поле боя эти орудия грохотали как оркестр, каждая батарея исторгала яростную, сотрясающую землю партию."/>
-	<entry name="BunkerFlavor" value="Иногда ты нападаешь на врага, а иногда он на тебя. Большинство из нас пережили войну в подземных бункерах, но оборонительная разновидность во многом отличались. Они были дешевле и проще в конструкции, чем танки, но представляли собой отличную мишень."/>
-	<entry name="BusterFlavor" value="Опустошители не хотели отставать в гонке вооружений. Мы создавали более прочную броню, а они где-то находили более мощное оружие, чтобы её пробивать. Некоторые из них питали особую страсть к огню. Они налетали на наши фланги подобно раскалённому ветру, забрасывали зажигательными гранатами, от которых наши солдаты буквально плавились. Они хотели, чтобы мы зарубили себе на носу — пока жив хоть один из них, они всегда будут угрозой."/>
-	<entry name="CassielShredderFlavor" value="Польза объединения с машинами становится более очевидной, когда видишь, как стайка кромсателей потрошит мясистые наросты тёмного вассаэля. Пилы вгрызаются в плоть, отрезая её от костей, и тварь подыхает, разбрасывая кругом свои внутренности... Такое зрелище даже невыносимой вонью не испортить."/>
-	<entry name="ChayotExterminatorFlavor" value="Как же я ненавидел манеру разговора этих железяк. Мало того, что над тобой висит это огромное насекомое, но то, как оно разговаривало? Как ребёнок, который произносит первые слова, но больше ничему не может научиться. Ну, хотя бы его дроны молчали. Заговори они все разом, я бы... Да даже думать не хочу, что бы я тогда сделал."/>
-	<entry name="CherubimTitanFlavor" value="Эти штуки походили на настоящую бурю во плоти. От их щитов в воздухе пахло озоном. От звука их орудий могла сойти лавина. Когда такая махина появлялась на поле боя, ты сразу понимал, как древние боги вели войну."/>
-	<entry name="CombatDroneFlavor" value="Тебе приходило в голову, как боевые дроны можно применять для психологической войны? Я это познал на собственном горьком опыте. Когда сбиваешь их десятками, незаметно начинаешь терять бдительность. Они прут и прут, а ты будто уничтожаешь полчища машин. А потом ты слышишь щелчок пустой винтовки и смотришь, как дроны вдруг отступают назад. Вот тогда-то и начинается настоящая паника."/>
-	<entry name="CombatMedicFlavor" value="Как и инженеры, наши медики состояли из всех подряд: биологи, врачи, медсестры, ветеринары, химики. Тяжёлые щиты позволяли им подбираться к раненым для оказания первой помощи на поле боя. Позже им на помощь пришли дроны и импланты, но в начале — в начале они были просто храбрейшими из храбрых, настоящими героями."/>
-	<entry name="CommanderFlavor" value="Нам оставалось надеяться, что командиры были лучшими из нас. Они не прятались за спинами других, они шли в бой в первых рядах, рискуя всем, общаясь с беженцами, борясь с ужасами. Оснащение экзоскелетами не только помогло им лучше сражаться, но и заметно укрепило боевой дух."/>
-	<entry name="CrlaDiscipleFlavor" value="Так много людей пало к ногам — слишком многим, чёрт возьми, ногам — учеников Кр'ла. Эти существа путешествовали повсюду и заманивали несчастных выживших обещаниями могущества Голоса. Каждая завербованная ими бедная душа становилась проклята. Дети ада, отчаянно жаждущие любви тёмного отца."/>
-	<entry name="CrusaderBattleTankFlavor" value="Лучшие боевые танки для сражения с чудовищами. Человечеству пришлось крепче стать на ноги, прежде чем мы смогли вновь их собирать — тут требовалось нечто большее, чем для примитивных «Колесниц». Но это всё ещё было не выдумками ИИ, а советской технологией по типу «шмякни молотком». Всё на основе механики, движущихся частей, от кончика пушки до грохочущих гусениц."/>
-	<entry name="CycloneFlavor" value="Мы с ужасом осознали, что враги собираются скоро нанести по нам удар с воздуха. Зениток старого мира не хватило бы, чтобы дать им отпор. Поэтому наши инженеры порылись в архивах и приспособили систему противовоздушного наведения к мобильной платформе. Стоит заметить, что управлять ими было непросто."/>
-	<entry name="DarkVassaelFlavor" value="Не все из тех, кто слышит Голос, могут его понять. Не все возвращаются с той стороны. Или возвращаются, но не в одиночку. Что лучше, вернуться вот так — грудой слепленных воедино человеческих органов и разумов — или не возвращаться вовсе? Каково это — быть там, внутри?"/>
-	<entry name="DeformityFlavor" value="С первого вздоха каждое существо движется навстречу своей смерти. Уродства ощущают это с каждой секундой. Они рождаются, чтобы создавать семьи из трупов врагов. Когда иссякает поток убийств, прекращают существовать целые поколения этих тварей."/>
-	<entry name="DevoteeOfThrokosFlavor" value="Иногда во время вылазок мы наблюдали, как культисты Голоса обезображивают свои тела, чтобы встретиться со своими чёртовыми божками. В бинокль я смотрел, как эти уроды Трокоса глотают целые тарелки мутировавших яиц насекомых. Какая же мерзкая жесть. Я думал, что это какое-то ритуальное самоубийство... пока не увидел жуков, вылезающих из их спин. Но это был не суицид. А перерождение. В виде насекомых — примитивнейшей формы жизни."/>
-	<entry name="DreameaterFlavor" value="Мы прозвали этих тварей сноедцами, но питались они не снами, а нашими душами. Они точно знали, где в человеческом мозге проходит тонкая линия между химией и сознанием. Если ты подходил слишком близко, они хватали тебя, раскраивали череп, находили эту линию... и выпивали всё, что делало тебя по-настоящему живым."/>
-	<entry name="ElectOfUzhodaiFlavor" value="Эти громадные твари пугали меня до усрачки. Размером с танк. Руки с лезвиями на конце. И что они делали, когда отдыхали в штаб-квартире? Сидели смирно и рассказывали на мёртвом языке о глубокой философии межпространственного движения культистам Голоса, расположившимся у их ног."/>
-	<entry name="ElohimMaelstromFlavor" value="Крепости, которые должны были простоять десятилетия, сыпались как замки из песка, когда трубили эти машины. Их хребты выгибались вверх и вниз при каждом выстреле. Солдаты, которые научились подмечать эти изгибы и вовремя находить укрытия, прожили чуть дольше, прежде чем обрушились стены."/>
-	<entry name="EMPDroneFlavor" value="Боевые дроны могут отвлечь на себя внимание, но приоритетной целью должны оставаться ЭМИ-дроны. Ты не сможешь убить оператора, если эти летающие ведроиды вырубят всю твою электронику. А потом взорвут себя, чтобы тебя было проще добить."/>
-	<entry name="EngineerFlavor" value="У кого-то была формальная подготовка, у большинства — нет. Учёные, строители, техники... Людей, которых мы называли инженерами, от всех остальных отличало то, что они обладали навыками, необходимыми для выполнения работы — какой бы ни была эта работа. А если не обладали?.. Ну, такие у нас не выживали."/>
-	<entry name="ErelimAssassinFlavor" value="В какой-то момент мы обнаружили, что нуждаемся в более незаметных способах ведения войны. В этом новом мире недостаточно было просто перейти с пуль на клинки, нужны были убийцы, способные заставить свет огибать их тело. Я мог только гадать — считали ли эти женщины себя людьми? Или это были просто швейцарские ножи, обтянутые человеческой кожей?"/>
-	<entry name="ExousiaMarauderFlavor" value="Клянусь, до прибытия акринов я видел такие по телеку — огромные суда на воздушной подушке, которые вроде использовали для транспортировки или для зачистки нефтяных вышек и разбившихся танкеров. Хотя, конечно, сейчас они далеко от моря. Да и ракетными батареями их тогда вряд ли оснащали..."/>
-	<entry name="FallenOrolosFlavor" value="Язык. Зубы. Единственный глаз, жадно мечущийся по сторонам в поисках жертвы, которую можно окатить потоком заразы... Я спросил, какой культист мог стать этой тварью. А никакой. Её вырастили из раковой опухоли. Медленный, дорогостоящий процесс, который дал болезни всю плоть, которую она хотела, вкупе с неограниченными возможностями распространяться где угодно."/>
-	<entry name="HadesBomberFlavor" value="Бомбардировщики «Аид» поднимались в воздух лишь однажды. Многократные взлёты и посадки с таким ошеломляющим грузом обходились слишком дорого. Техобслуживание и смену экипажа следовало проводить в полёте. На землю они возвращались лишь в виде разрушительной вспышки, а оставались после них только большие пустые кратеры, гладкие, как стекло."/>
-	<entry name="HammerheadFlavor" value="Молотоголовы были мощными, хотя и бестолковыми орудиями. Вступая в бой, они выбирали одну цель и долбили по ней, каждый раз сильнее предыдущего. Как ни странно, вне битв эти машины были похожи на роботов-садовников, специализирующихся на устранении Течи Голоса."/>
-	<entry name="HashmallimHostFlavor" value="Хашмаллимов всегда сопровождала надёжная поддержка. При получении излишних повреждений их схемы могли подвергнуться воздействию гравитонных излучателей. Подробностей я не знал, но в целом нам дали понять, что искажение гравитации приводит к искажению времени, а от искривления времени искусственный интеллект слетает с катушек."/>
-	<entry name="HeadquartersFlavor" value="Для защиты сердца города требовалось определённое мужество. Если тут начиналась жара, бежать было уже некуда. Эта работа была для упрямых и глупых — для тех, кто скорее умрёт, чем потерпит постыдное поражение."/>
-	<entry name="IokSwarmFlavor" value="Сначала я подумал, что это просто летучие мыши. Хотя, конечно, странно было днём увидеть летучих мышей. Затем на мою броню упало что-то липкое. Покрыло всё моё плечо и начало адски жечь. Затем в уши ударил визг, и я понял, что этих тварей нужно уничтожить."/>
-	<entry name="IshimEnforcerFlavor" value="Искалеченное тело солдата было лишь основой для более совершенного оружия. Парализовало? Тебе шунтировали позвоночник. Лишился конечностей? Тебе давали что-нибудь получше. Довольно скоро запасные части стандартизировали и просто снабжали ими солдат... нуждались те в них или нет."/>
-	<entry name="IthurielHarbingerFlavor" value="«Это тебе не какая-то чёртова игра!» — орал я машине. Она — это был предвестник — давила меня своей огромной ногой. Я охотился на эту махину несколько дней, но не сразу понял, что жертвой был я сам. Она заманила меня в ловушку, прижала к земле и наставила свою пушку мне в лицо. «Условие победы выполнено», — спокойно произнесла она, в то время как плазменная пушка светилась всё ярче и ярче. — «Уничтожение цели через 3, 2, 1...»"/>
-	<entry name="KriteriaAnnihilatorFlavor" value="Разновидность ИИ, управляющая аннигиляторами, была единственной кровожадной машиной, с которой мы когда-либо сталкивались. Убив, она жаждала только одного — следующего убийства. И ещё одного. И ещё."/>
-	<entry name="KryptArchaiFlavor" value="Самый неестественный факт, который можно было узнать о крипт-архии? У куба, что он нёс на спине, не было источника энергии. Откуда тогда бралась энергия? Прямо из воздуха? Из космоса? Возможно, он проникал в другое измерение, вытаскивая хаос из того мира, чтобы убивать с его помощью в нашем."/>
-	<entry name="LandanGrahamFlavor" value="Ландан Грэм. Доказательство того, что не все Часовщики стремились к одной и той же цели. Он был учёным, искавшим силу в историях, но разительно отличался от типичных яйцеголовых. С каждым разом, когда наши пути пересекались, я всё больше убеждался, что он знает об акринах больше, чем говорит. Можно подумать, он родился в их мире..."/>
-	<entry name="MalakimDestroyerFlavor" value="Как только начинаешь объединяться с машинами, привыкаешь мыслить, как они. На мой взгляд, мёртвые должны оставаться мёртвыми. Но наши спецы решили, что это трата дешёвой органической энергии. Отрезаем ненужные эмоциональные центры, повышаем мобильность, подключаем пару мощных пушек — и вот у нас есть монстр, от которого ветеранов старых времён по ночам мучили бы кошмары."/>
-	<entry name="MilitantFlavor" value="Каждый выживший сражался. Каждый из нас мог бы быть солдатом. Но мы называли себя воинами, потому что именно это мы теперь и делали — воевали за цель, политическую или общественную. За выживание человечества, чего бы это ни стоило."/>
-	<entry name="MissileTeamFlavor" value="Многие воины с радостью были готовы управлять противотанковыми ботами, находясь вдали от поля боя, но между ракетчиками и теми, кто сражался на передовой, быстро росло недовольство. Как мы решили эту проблему? Урезали рацион, когда операторы ракетного расчёта теряли свои дроны или промахивались мимо цели. Пускай уж лучше ненавидят нас, а не друг друга."/>
-	<entry name="OphanimCarrierFlavor" value="ИИ разработал этот носитель, чтобы он уничтожал на расстоянии, но снабдил его целым арсеналом дронов для других тактических задач. Когда ты видел их среди ночи, дроны, кружащие вокруг корпуса, слишком уж походили на глаза."/>
-	<entry name="OutriderFlavor" value="Быстроходные военные транспорты, управляемые воинами. Они не были предназначены для сражения с новыми врагами человечества. Но, с другой стороны, а что было предназначено? Артиллерия, ядерное оружие, авианосцы — ничего из этого не сработало. По крайней мере, в «Колеснице» у тебя был шанс убраться прочь. Вот почему их сохранилось так много."/>
-	<entry name="PhenarisEpicureanFlavor" value="Культисты, превратившиеся в эпикурейцев Фенариса, сохраняли свой интеллект. Хотя нет, это не так. Они становились умнее. Поэтичнее. Ты мог пройти по плацу и увидеть, как они обсуждают философию, копаясь во внутренностях заключённых, которых притащили на базу. Думаю, если бы приверженцы Голоса выиграли войну... такое будущее ждало бы человеческую расу."/>
-	<entry name="PhenarisHunterFlavor" value="Извивающиеся змеи — это уже странное зрелище, но нет совсем НИХЕРА нормального в том, как человеческий череп на скелете змеи выскакивает из тьмы и потрошит солдат, стоящих на страже. Они выбирали свои цели. Они наносили мощный удар и исчезали в ночи. Они походили на чудовищ, но сражались так, как это делали наёмные убийцы ещё до войны."/>
-	<entry name="PhoenixInterceptorFlavor" value="Из дерзких и твердолобых всё ещё получались лучшие лётчики-истребители. Когда поднимаешься в воздух, ты должен быть готов к танцу с другим асом или к игре в догонялки с челюстями какого-нибудь монстра. Хорошо укомплектованный перехватчик готов и к тому, и к другому."/>
-	<entry name="PlangentOrolosFlavor" value="Раковые клетки, формировавшие падшего оролоса, менялись под воздействием звуковых волн. Существа, рождённые в результате этого процесса, могли слышать шёпот Голоса, какого не слышал никто другой. Шёпот, который сам по себе стал разрушительным оружием, каждый раскат которого был адской проповедью бога, преобразившего наш мир."/>
-	<entry name="PraetorianFlavor" value="Солдаты, облачённые в преторианскую броню, могли вскрыть вены существу, втрое превышавшему их размерами. Или вырвать провода машине, способной вспороть изнанку мира. Нам приходилось напоминать этим солдатам, что они не боги, а лишь те, кого посылают их убивать."/>
-	<entry name="ReaverFlavor" value="Отчаяние толкало некоторых на ужасные поступки. Когда казалось, что настали последние часы мира, они продали свою человечность, чтобы прожить среди пустошей чуть дольше. Их тела ходили по земле, но люди внутри них угасали с каждым днём."/>
-	<entry name="ReamingCrodeusFlavor" value="Когда эти чудовища начали появляться на полях сражений, во всех деревушках и городах, где я бывал, стало... тише. Люди ёжились в ужасе, страшась того, что на их поселение опустится кродеус, который поглотит их всех целиком. Будто крестьяне, что боятся дракона, поселившегося в горах..."/>
-	<entry name="RepairDroneFlavor" value="Не недооценивайте эти дроны. Смотря на то, как они ремонтируют технику в полевых условиях, мы жалели, что людей не так легко починить, как машины. Мы шутили о том, чего могли достичь, если бы руку можно было залатать так же легко, как спаять несколько проводов. Некоторые из нас... некоторые из нас пошли дальше этой шутки."/>
-	<entry name="ScramblerFlavor" value="Когда видишь одного бродягу, он кажется просто идиотом, который одной ногой уже в могиле. Эдакий донор органов в ожидании. Но когда появляется второй, третий, четвёртый, пятый... образ меняется. Это не желание умереть быстрой смертью. Это свобода — мчать вдаль на железных скакунах мощностью в 500 лошадиных сил."/>
-	<entry name="SentryFlavor" value="ЗЕФОН не хотел иметь с нами дела. Мог бы просто нам сказать. Но вместо этого он понаставил часовых, которые, похоже, что-то охраняли. Мы очень быстро поняли, какие они злобные. Если ты из тех болванов, что любят давить муравьёв, потому что те не могут дать сдачи, то тебе бы эти штуки очень не понравились. Такой муравей прогрызёт тебе ботинок и ещё попытается оттяпать несколько пальцев, прежде чем ты его утихомиришь."/>
-	<entry name="SeraphimArchangelFlavor" value="Параллельные процессы, управлявшие этой колоссальной машиной, говорили в унисон. Не словами, а мелодией, от которых у тебя вибрировали артерии. Возможно, некоторые существа были способны воспринимать её послание. Всё остальное подлежало уничтожению."/>
-	<entry name="SharpshooterFlavor" value="Доводилось слышать переговоры команды снайперов? Это как разговор врачей... до поры до времени. «Двигайтесь к сектору 3-дельта». — «Есть». — «5 градусов от кровоточащей груды мяса». — «Есть». — «Проведите осмотр». — «У цели четыре конечности, изо рта торчит рука. Подтверждаете?» — «Это... Чёрт. Да, это ваша цель. Подтверждаю»."/>
-	<entry name="ShochitrisLairFlavor" value="Встречу с шох'итрисом уже не забудешь. Их чревом служила смертоносная яма. Они были сплошь покрыты гнойными язвами, а выползающие из них уродства ещё долго снились тебе по ночам. Самые двинутые на голову искали того скользкого, влажного ощущения, которое возникало при прикосновении к их отросткам."/>
-	<entry name="SurthodaisEmbraceFlavor" value="Эта... тварь. Гора костей, конечностей и пальцев — их было слишком много — нависавшая над целыми взводами. Я думал, что это существо было ещё одним убивавшим всех без разбора монстром, но оно вело себя как какая-то чудовищная мать. Тварь брала солдат в свои объятия, чтобы их переносить, оберегала их, словно заботилась об их благополучии. Насмешка над родом человеческим."/>
-	<entry name="TesseraCoreFlavor" value="Я терпеть не мог хашмаллимов, но что-то в защитных блоках, которые они сбрасывали, успокаивало. Они были простыми для понимания. Большие. Не двигаются. Защищают то, что находится за ними. С помощью мощного гравитационного оружия. Просто и по существу — в отличие от остальных сверхзамысловатых приблуд..."/>
-	<entry name="TH3CorsairFlavor" value="Я не мог представить, чтобы эта штука летала. Ну, я к тому, что она напоминала кусок расплавленного пластика, шлака, оставшегося после того, как в огне сгорело всё полезное. Но потом ты видел, как она движется в воздухе, входит в пике, чтобы уничтожить взвод, а затем улетает прочь. И после этого ты смотрел на неё иначе — на земле она просто была не в той стихии, как рыба, вытащенная из воды."/>
-	<entry name="ValkyrieFlavor" value="Первое настоящее оружие человечества, способное выстоять против монстров нового мира, имело свою цену. Нам нужны были экзоскелеты, но учёные могли заставить их работать, только встраивая пилота прямо в них. Я не думал, что кто-то на такое пойдёт, но некоторые женщины согласились. Они переродились, готовые отправлять врагов в Вальхаллу."/>
-	<entry name="VanquisherSiegeTankFlavor" value="Солдаты презирают пилотов. Пилоты презирают солдат. Но и те, и другие одинаково презирают артиллеристов, например, экипажи осадных танков «Покоритель». Эти зазнавшиеся снобы сидели за многие километры от сражения, так далеко, что даже крики и выстрелы не слышали. А если чем-то их разозлить, их «ошибка расчётов» накрывала твою же траншею."/>
-	<entry name="VorodaisLeviathanFlavor" value="Клеть, свисавшую с брюха левиафана, никто никогда не чистил. Её окружала жуткая вонь крови и гноя, капающих на землю. Меня каждый раз тошнило, но... не все отделывались так легко. Некоторые замирали от ужаса на месте и пялились застывшими глазами куда-то вдаль, ожидая своего конца."/>
-	<entry name="VulkanR5Flavor" value="Первые экзоскелеты, которые мы раздавали командирам, были лишь прототипами. Когда наши техники увлеклись работой, они такое создали... R-5 был машиной ужаса, разработанной для того, чтобы подобраться вплотную к цели. Представь, как ты выпускаешь по этой штуке все имеющиеся у тебя ракеты, видишь, как она исчезает в клубах огня и дыма... а потом выскакивает из пламени, как ни в чём не бывало, всё ещё стреляя из всех орудий."/>
-	<entry name="WardenFlavor" value="ЗЕФОН был способен соорудить какую угодно машину, и он соорудил... это? Для чего всемогущему ИИ создавать конструкцию, которая будто собрана на коленке из запасных частей? Какими же идиотами мы были. ЗЕФОН собрал не оружие, а самодостаточную, автономную груду металлолома. Этому железному дровосеку было всё равно, что он страшный, как вся моя жизнь, он просто беспрестанно высчитывал лучшие способы убийства."/>
-	<entry name="WastelanderFlavor" value="Каждый лихач в рядах Опустошителей желал оседлать этого великолепного зверя и кричать под рёв шестицилиндрового дизельного двигателя... Но для большинства это был смертный приговор. Можно было задохнуться от дыма. Упасть на шипы... Поскользнуться и увидеть, как тебя давят огромные колёса."/>
-	<entry name="WhispererOfGoldrauchFlavor" value="Поговаривали о женщине, которая завязала себе уши, прикрыла глаза и... ну, что она там сделала со своей кожей... она не хотела чувствовать ничего. Только Голос. Она ближе всех людей подобралась к пониманию акринов. Она затаила их боль в себе и вырезала себе новое предназначение. Лучше не становитесь у неё на пути."/>
-	<entry name="ZephonTitanFlavor" value="Часовые. Молотоголовы. Стражи. ЗЕФОНа всегда питал эту привязанность к человеческим машинам — как будто он мог заглянуть внутрь них и увидеть чудовищ, которые их создали. Его титан был машиной затаённого гнева, вырезанной из сердца ржавого линкора, который когда-то перевозил смерть через океан и обратно."/>
+<entry name="AbkhanFlavor" value="Якби в цієї тварюки були крила — ми б назвали її драконом. Вона чатувала в смертельно небезпечних місцях, жадібно накопичуючи коштовні ресурси. Дихала, як дракон, тільки обпікала жертв не полум’ям, а крижаним подихом. Після її смерті краще було не затримуватись біля лігва — за чутками, бестія оживала знову через кілька днів."/>
+<entry name="AbkluthDragoonFlavor" value="Розбиті акрини привели з собою цих істот — ящіркоподібних чудовиськ, що з легкістю розривали будь-яке земне створіння. Вони так слухняно корилися акринам, що я б припустив: це був їхній худобний запас або домашні улюбленці. Але це не завадило культистам Голосу використати їх у бойових діях."/>
+<entry name="AbkluthFlavor" value="Акринські істоти. Домашні? Скотина? Хто їх знає. Вони втекли з місць аварій і вирішили, що це — їхній новий дім. Їсти їх не можна — фундаментальні біологічні відмінності, начебто. Але якщо їх не відстрілювати, вони роздеруть усе, що ми їсти можемо."/>
+<entry name="AcrinMilitiaFlavor" value="Ті, хто вижив серед акринів, слідували шепоту Голосу, щоб вижити на розбитій планеті. Потрапивши в халепу, кожен з них легко регенерував пошкодження тіла. Але й завдавати їх прибульці теж уміли."/>
+<entry name="AcrinTitanFlavor" value="Я можу заплющити очі, щоб не бачити кінцівки титана, його плоть, пащу посеред тулуба — але прогнати цю кляту сморід було неможливо. Звучить божевільно, але пахло... як ламаються кістки. Як перекручена нога, вивернута ступня, рука, розчавлена каменем. Це не запах болю чи крові — це відчуття, коли дивишся на власне тіло й бачиш, наскільки воно спотворене."/>
+<entry name="AcrinZealotFlavor" value="Господи, змилуйся над солдатами. Якось вони почули про фанатиків-акринів, які можуть зануритись у одну калюжу Течі й з’явитись з іншої. Ми не встигли й оком змигнути, як ці недолугі вояки оточили всі відомі нам скупчення Течі. Наче акрини просто так полізли б під їхні кулі! Ох, де ми тільки набрали таких людей..."/>
+<entry name="AegyllanWormFlavor" value="Сприйняття Голосу змінювало не всіх однаково. Дехто продовжував шукати темне, тихе місце, повертався зміненим, щоб знову його знайти, занурювався в чорні глибини Землі. Але побачити обличчя друга на одному з них, коли той виповзав із каменю та ґрунту... Оце було справжнє випробування."/>
+<entry name="AkavishProvostFlavor" value="Перший пробст, кажуть, з’явився через збій. Розвинене інтелектуальне ядро, що зламалося й вимагало, щоб його несли в бій на паланкіні — при цьому волаючи: «Вавилон впаде!» Але я не думаю, що це був збій. У його коді, гадаю, ховалося щось, чого не передбачили творці. Машини, як і культисти Голосу, прагнули побачити кінець світу."/>
+<entry name="AmoetiasDevourerFlavor" value="Не дай гнилій плоті тебе обдурити. Алчущі зроблять усе, щоб наблизитись і поласувати твоїми частинами. Все починається з того, що ліва голова відгризає тобі обличчя, права — вириває серце, а потім, коли ти помираєш, він запихає твоє тіло у свою мерзенну пащу..."/>
+<entry name="AraneanStalkerFlavor" value="Найкращі снайпери стріляють із найнесподіваніших точок. Аранейські слідопити навчили нас оглядати кожну скелю, ущелину, руїну. Якщо ти помічав їхнє світлооке око — мав долю секунди, щоб пірнути в багнюку. Іноді це рятувало. Іноді вони просто гралися з тобою."/>
+<entry name="AssaultTrooperFlavor" value="Уникнувши знищення світу й якось налагодивши життя, ми більше не мусили покладатись на вояків. Ми могли готувати справжніх солдатів і створювати для них особливе спорядження. Так з’явилися перші — з бронею з трансурановим покриттям і компактними рейлґанами, тими самими «ґауссовками»."/>
+<entry name="AtlasTankFlavor" value="Танки розміром із міський квартал. До падіння далі проєктів справа не дійшла — ми знайшли їх на військовому сервері, в глибинах дизайнерських архівів. На таку махіну можна було поставити що завгодно. На полі бою ці гармати гули, як оркестр: кожна батарея видавала люту, землю-трясаючу партію."/>
+<entry name="BunkerFlavor" value="Іноді ти нападаєш на ворога, а іноді він — на тебе. Більшість із нас пережили війну в підземних бункерах, але оборонні варіанти були зовсім іншими. Дешевші, простіші за конструкцією, ніж танки — але й чудові мішені."/>
+<entry name="BusterFlavor" value="Спустошувачі не хотіли відставати в гонці озброєнь. Ми створювали міцнішу броню, а вони десь знаходили потужнішу зброю, щоб її пробивати. Деякі з них мали особливу пристрасть до вогню. Вони налітали на наші фланги, мов розпечений вітер, закидували запальними гранатами, від яких наші солдати буквально плавились. Вони хотіли, щоб ми запам’ятали — поки жив хоча б один із них, вони завжди будуть загрозою."/>
+
+<entry name="CassielShredderFlavor" value="Користь злиття з машинами стає очевидною, коли бачиш, як зграя кромсувачів потрошить м’ясисті нарости Темного вассаеля. Пили вгризаються в плоть, відділяючи її від кісток, і тварюка здихає, розкидаючи навколо нутрощі... Таке видовище навіть нестерпним смородом не зіпсує."/>
+<entry name="ChayotExterminatorFlavor" value="Як же я ненавидів манеру розмови цих залізяк. Мало того, що над тобою висить це велетенське комахоподібне, так ще й говорить, як дитина, що щойно навчилась вимовляти слова — і більше нічому не здатна навчитись. Ну, хоча б його дрони мовчали. Якби заговорили всі разом... Та навіть думати не хочу, що б я тоді зробив."/>
+<entry name="CherubimTitanFlavor" value="Ці штуки нагадували справжню бурю у плоті. Від їхніх щитів у повітрі пахло озоном. Від звуку їхніх гармат могла зійти лавина. Коли така махіна з’являлась на полі бою, ти одразу розумів, як воювали давні боги."/>
+<entry name="CombatDroneFlavor" value="Ти коли-небудь думав, як бойові дрони можна використати для психологічної війни? Я дізнався це на власному гіркому досвіді. Коли збиваєш їх десятками, поступово втрачаєш пильність. Вони пруть і пруть, і ти наче знищуєш полчища машин. А потім чуєш клацання порожньої гвинтівки — і бачиш, як дрони раптом відступають. Ось тоді й починається справжня паніка."/>
+<entry name="CombatMedicFlavor" value="Як і інженери, наші медики були з усіх можливих сфер: біологи, лікарі, медсестри, ветеринари, хіміки. Важкі щити дозволяли їм добиратись до поранених і надавати першу допомогу прямо на полі бою. Згодом їм допомагали дрони й імпланти, але спочатку — спочатку вони були просто найхоробрішими з хоробрих, справжніми героями."/>
+<entry name="CommanderFlavor" value="Нам залишалося лише сподіватися, що командири були найкращими з нас. Вони не ховалися за спинами інших — йшли в бій у перших рядах, ризикували всім, спілкувались із біженцями, боролись із жахами. Оснащення екзоскелетами не лише допомагало їм краще воювати, а й помітно зміцнювало бойовий дух."/>
+<entry name="CrlaDiscipleFlavor" value="Занадто багато людей впало до ніг — до надто багатьох, чорт забери, ніг — учнів Кр’ла. Ці істоти мандрували всюди, заманюючи нещасних уцілілих обіцянками могутності Голосу. Кожна завербована ними душа ставала проклятою. Діти пекла, що відчайдушно прагнули любові темного батька."/>
+<entry name="CrusaderBattleTankFlavor" value="Найкращі бойові танки для битви з чудовиськами. Людству довелося стати міцнішим, перш ніж ми змогли знову їх збирати — тут потрібно було щось більше, ніж для примітивних «Колісниць». Але це все ще не вигадки ШІ, а радянська технологія типу «вдар молотком». Усе на основі механіки, рухомих частин — від кінчика гармати до гуркотливих гусениць."/>
+<entry name="CycloneFlavor" value="Ми з жахом усвідомили, що вороги готуються завдати удару з повітря. Старих зеніток було недостатньо, щоб дати їм відсіч. Тому наші інженери порились в архівах і пристосували систему протиповітряного наведення до мобільної платформи. Варто зазначити — керувати ними було непросто."/>
+<entry name="DarkVassaelFlavor" value="Не всі, хто чує Голос, здатні його зрозуміти. Не всі повертаються з того боку. Або повертаються — але не самі. Що краще: повернутись ось так — грудою зліплених докупи людських органів і свідомостей — чи не повертатись узагалі? Як воно — бути там, усередині?"/>
+
+<entry name="DeformityFlavor" value="З першого вдиху кожна істота рухається назустріч своїй смерті. Потворності відчувають це щосекунди. Вони народжуються, щоб створювати родини з трупів ворогів. Коли потік убивств вичерпується — зникають цілі покоління цих тварюк."/>
+<entry name="DevoteeOfThrokosFlavor" value="Іноді під час вилазок ми бачили, як культисти Голосу спотворюють свої тіла, щоб зустрітися зі своїми клятими божками. Я дивився в бінокль, як ці виродки Трокоса ковтали цілі тарілки мутованих яєць комах. Яка ж огидна гидота. Я думав, що це ритуальне самогубство... поки не побачив жуків, що вилізали з їхніх спин. Але це був не суїцид. А переродження. У вигляді комах — найпримітивнішої форми життя."/>
+<entry name="DreameaterFlavor" value="Ми прозвали цих тварюк сноїдами, але харчувалися вони не снами, а нашими душами. Вони точно знали, де в людському мозку проходить тонка межа між хімією і свідомістю. Якщо підійти надто близько — вони хапають, розкроюють череп, знаходять цю межу... і випивають усе, що робить тебе по-справжньому живим."/>
+<entry name="ElectOfUzhodaiFlavor" value="Ці велетенські істоти лякали мене до нестями. Розміром із танк. Руки — з лезами на кінцях. І що вони робили, коли відпочивали в штабі? Сиділи мовчки й розповідали мертвою мовою про глибоку філософію міжпросторового руху культистам Голосу, що вмостилися біля їхніх ніг."/>
+<entry name="ElohimMaelstromFlavor" value="Фортеці, які мали стояти десятиліттями, сипались як піщані замки, щойно ці машини трубили. Їхні хребти вигинались вгору й вниз при кожному пострілі. Солдати, які навчилися помічати ці вигини й вчасно ховатися, жили трохи довше — поки не падали стіни."/>
+<entry name="EMPDroneFlavor" value="Бойові дрони можуть відволікати увагу, але пріоритетною ціллю завжди мають бути ЕМІ-дрони. Ти не зможеш убити оператора, якщо ці літаючі відроїди вимкнуть усю твою електроніку. А потім підірвуть себе — щоб тебе було легше добити."/>
+<entry name="EngineerFlavor" value="Хтось мав формальну підготовку, більшість — ні. Науковці, будівельники, техніки... Людей, яких ми називали інженерами, відрізняло одне — вони мали навички, потрібні для виконання роботи. Якою б не була ця робота. А якщо не мали?.. Ну, такі у нас не виживали."/>
+<entry name="ErelimAssassinFlavor" value="У якийсь момент ми зрозуміли, що нам потрібні більш непомітні способи ведення війни. У цьому новому світі було недостатньо просто перейти з куль на клинки — потрібні були вбивці, здатні змусити світло огинати їхнє тіло. Я міг лише здогадуватись — чи вважали ці жінки себе людьми? Чи були вони просто швейцарськими ножами, обтягнутими людською шкірою?"/>
+<entry name="ExousiaMarauderFlavor" value="Клянусь, до прибуття акринів я бачив такі по телевізору — велетенські судна на повітряній подушці, які начебто використовували для транспортування або зачистки нафтових вишок і розбитих танкерів. Хоча, звісно, зараз вони далеко від моря. Та й ракетними батареями їх тоді навряд чи оснащували..."/>
+<entry name="FallenOrolosFlavor" value="Язик. Зуби. Єдине око, що жадібно нишпорить навколо в пошуках жертви, яку можна облити потоком зарази... Я запитав, який культист міг стати цією тварюкою. А ніякий. Її виростили з ракової пухлини. Повільний, дорогий процес, який дав хворобі всю плоть, яку вона хотіла — разом із необмеженими можливостями поширюватись будь-де."/>
+<entry name="HadesBomberFlavor" value="Бомбардувальники «Аїд» здіймались у повітря лише раз. Повторні злети й посадки з таким неймовірним вантажем були надто дорогими. Техобслуговування й заміну екіпажу слід було проводити прямо в польоті. На землю вони повертались лише у вигляді руйнівного спалаху, а після них залишались лише великі порожні кратери — гладкі, мов скло."/>
+<entry name="HammerheadFlavor" value="Молотоголови були потужними, хоч і безглуздими знаряддями. Вступаючи в бій, вони обирали одну ціль і гатили по ній — щоразу сильніше. Як не дивно, поза боєм ці машини нагадували садових роботів, що спеціалізуються на очищенні Течі Голосу."/>
+
+<entry name="HashmallimHostFlavor" value="Хашмаллімів завжди супроводжувала надійна підтримка. При надмірних ушкодженнях їхні схеми могли зазнати впливу гравітонних випромінювачів. Подробиць я не знав, але нам дали зрозуміти: викривлення гравітації веде до викривлення часу, а викривлення часу — до того, що штучний інтелект злітає з котушок."/>
+<entry name="HeadquartersFlavor" value="Щоб захищати серце міста, потрібна була особлива мужність. Якщо тут починалась спека — тікати вже було нікуди. Ця робота була для впертих і дурних — для тих, хто радше загине, ніж переживе ганебну поразку."/>
+<entry name="IokSwarmFlavor" value="Спершу я подумав, що це просто кажани. Хоча, звісно, дивно бачити кажанів серед білого дня. Потім на мою броню впало щось липке. Покрило все плече й почало пекти, як пекло. У вуха вдарив пронизливий вереск — і я зрозумів: цих тварюк треба знищити."/>
+<entry name="IshimEnforcerFlavor" value="Покалічене тіло солдата було лише основою для досконалішої зброї. Параліч? Тобі шунтують хребет. Втратив кінцівки? Отримаєш щось краще. Доволі швидко запасні частини стандартизували — і просто видавали солдатам... незалежно від того, чи були їм потрібні."/>
+<entry name="IthurielHarbingerFlavor" value="«Це тобі не якась клята гра!» — кричав я машині. Вона — це був Предвісник — тиснула мене своєю величезною ногою. Я полював на цю махіну кілька днів, але не одразу зрозумів, що жертвою був я сам. Вона заманила мене в пастку, притисла до землі й наставила гармату просто в обличчя. «Умову перемоги виконано», — спокійно промовила вона, поки плазмова гармата світилась усе яскравіше. — «Знищення цілі через 3, 2, 1...»"/>
+<entry name="KriteriaAnnihilatorFlavor" value="Різновид ШІ, що керував анігіляторами, був єдиною по-справжньому кровожерливою машиною, з якою ми коли-небудь стикались. Убивши, вона прагнула лише одного — наступного вбивства. І ще одного. І ще."/>
+<entry name="KryptArchaiFlavor" value="Найбільш неприродний факт про крипт-архаїв? Куб, який він ніс на спині, не мав джерела живлення. Звідки ж бралася енергія? Просто з повітря? З космосу? Можливо, він проникав у інший вимір, витягуючи звідти хаос, щоб убивати ним у нашому світі."/>
+<entry name="LandanGrahamFlavor" value="Ландан Ґрем. Доказ того, що не всі Часовщики прагнули одного й того ж. Він був ученим, який шукав силу в історіях, але разюче відрізнявся від типових яйцеголових. Щоразу, коли наші шляхи перетинались, я все більше переконувався: він знає про акринів більше, ніж говорить. Здавалося, ніби він народився в їхньому світі..."/>
+<entry name="MalakimDestroyerFlavor" value="Щойно починаєш зливатися з машинами — починаєш мислити, як вони. На мою думку, мертві мають залишатись мертвими. Але наші специ вирішили, що це марнування дешевої органіки. Відрізаємо емоційні центри, підвищуємо мобільність, підключаємо кілька потужних гармат — і маємо монстра, від якого ветеранів старих часів мучили б нічні кошмари."/>
+<entry name="MilitantFlavor" value="Кожен, хто вижив, бився. Кожен із нас міг бути солдатом. Але ми називали себе воїнами — бо саме цим ми й займались: воювали за мету, політичну чи суспільну. За виживання людства — будь-якою ціною."/>
+<entry name="MissileTeamFlavor" value="Багато воїнів із радістю керували протитанковими ботами, сидячи далеко від поля бою. Але між ракетниками й тими, хто бився на передовій, швидко зростало невдоволення. Як ми вирішили проблему? Скорочували пайок, коли оператори втрачали дронів або промахувались. Нехай краще ненавидять нас, ніж одне одного."/>
+<entry name="OphanimCarrierFlavor" value="ШІ створив цей носій для знищення на відстані, але забезпечив його цілим арсеналом дронів для інших тактичних задач. Коли ти бачив його вночі — дрони, що кружляли навколо корпусу, надто вже нагадували очі."/>
+
+<entry name="OutriderFlavor" value="Швидкісні військові транспорти, керовані воїнами. Вони не були створені для бою з новими ворогами людства. Але, з іншого боку — а що було створено? Артилерія, ядерна зброя, авіаносці — нічого з цього не спрацювало. Принаймні в «Колісниці» у тебе був шанс втекти. Ось чому їх збереглося так багато."/>
+<entry name="PhenarisEpicureanFlavor" value="Культисти, що перетворилися на епікурейців Фенариса, зберігали свій інтелект. Ні, навіть більше — вони ставали розумнішими. Поетичнішими. Ти міг пройти плацом і побачити, як вони обговорюють філософію, копирсаючись у нутрощах полонених, яких притягли на базу. Думаю, якби прибічники Голосу виграли війну... таке майбутнє чекало б людство."/>
+<entry name="PhenarisHunterFlavor" value="Змії, що звиваються — вже дивне видовище. Але нічого, геть нічого нормального немає в тому, як людський череп на скелеті змії вистрибує з темряви й потрошить вартових. Вони обирали цілі. Завдавали потужного удару — й зникали в ночі. Виглядали як чудовиська, а билися як наймані вбивці до війни."/>
+<entry name="PhoenixInterceptorFlavor" value="Зухвалі й вперті — з них усе ще виходили найкращі льотчики-винищувачі. Коли здіймаєшся в повітря, мусиш бути готовим до танцю з іншим асом або гри в кішки-мишки з пащею якогось монстра. Добре оснащений перехоплювач готовий і до того, і до іншого."/>
+<entry name="PlangentOrolosFlavor" value="Ракові клітини, що формували Падлого Оролоса, змінювались під впливом звукових хвиль. Істоти, народжені внаслідок цього процесу, чули шепіт Голосу, якого не чув ніхто інший. Шепіт, що сам по собі став руйнівною зброєю — кожен його розкат був пекельною проповіддю бога, який змінив наш світ."/>
+<entry name="PraetorianFlavor" value="Солдати в преторіанській броні могли розпороти вени істоті, що втричі перевищувала їх розмірами. Або вирвати дроти з машини, здатної роздерти саму тканину світу. Нам доводилось нагадувати їм: вони не боги. Вони — лише ті, кого посилають убивати богів."/>
+<entry name="ReaverFlavor" value="Відчай штовхав деяких на жахливі вчинки. Коли здавалося, що світ от-от скінчиться, вони продали свою людяність, щоб прожити в пустках трохи довше. Їхні тіла ходили по землі, але люди всередині згасали з кожним днем."/>
+<entry name="ReamingCrodeusFlavor" value="Коли ці чудовиська почали з’являтись на полях бою, в усіх селах і містах, де я бував, стало... тихіше. Люди згорблювались у страху, боячись, що на їхнє поселення опуститься Кродеус і поглине всіх до останнього. Наче селяни, які бояться дракона, що оселився в горах..."/>
+<entry name="RepairDroneFlavor" value="Не недооцінюй ці дрони. Дивлячись, як вони ремонтують техніку просто в полі, ми шкодували, що людей не так легко полагодити, як машини. Ми жартували, що було б, якби руку можна було залатати так само просто, як спаяти кілька дротів. Дехто з нас... пішов далі цього жарту."/>
+<entry name="ScramblerFlavor" value="Коли бачиш одного блукача — здається, що це просто ідіот, який однією ногою вже в могилі. Такий собі донор органів у режимі очікування. Але коли з’являється другий, третій, четвертий, п’ятий... образ змінюється. Це не бажання швидко померти. Це свобода — мчати вдалечінь на залізному скакуні потужністю 500 кінських сил."/>
+<entry name="SentryFlavor" value="ЗЕФОН не хотів мати з нами справ. Міг би просто сказати. Але замість цього наставив вартових, які, здається, щось охороняли. Ми дуже швидко зрозуміли, які вони злі. Якщо ти з тих дурнів, що люблять давити мурах, бо ті не можуть дати здачі — ці штуки тобі точно не сподобаються. Такий мурах прогризе тобі черевик і ще спробує відкусити кілька пальців, перш ніж ти його втихомириш."/>
+<entry name="SeraphimArchangelFlavor" value="Паралельні процеси, що керували цією колосальною машиною, говорили в унісон. Не словами — мелодією, від якої вібрували артерії. Можливо, деякі істоти могли сприймати її послання. Все інше підлягало знищенню."/>
+<entry name="SharpshooterFlavor" value="Чув колись переговори снайперської команди? Це як розмова лікарів... до певного моменту. «Рухайтесь до сектору 3-дельта». — «Є». — «5 градусів від кривавої купи м’яса». — «Є». — «Проведіть огляд». — «У цілі чотири кінцівки, з рота стирчить рука. Підтверджуєте?» — «Це... Чорт. Так, це ваша ціль. Підтверджую»."/>
+<entry name="ShochitrisLairFlavor" value="Зустріч із Шох’ітрісом не забувається. Його черево — смертельна яма. Він увесь вкритий гнійними виразками, а потворності, що з нього виповзають, ще довго сняться тобі вночі. Найбожевільніші шукали те слизьке, вологе відчуття, яке виникало при дотику до його відростків."/>
+<entry name="SurthodaisEmbraceFlavor" value="Ця... тварюка. Гора кісток, кінцівок і пальців — їх було надто багато — нависала над цілими взводами. Я думав, що це ще одне чудовисько, яке вбиває всіх без розбору, але воно поводилось як якась потворна мати. Брала солдатів у свої обійми, переносила їх, оберігала — ніби дбала про їхнє благополуччя. Насмішка над людським родом."/>
+
+<entry name="TesseraCoreFlavor" value="Я терпіти не міг хашмаллімів, але щось у захисних блоках, які вони скидали, заспокоювало. Вони були простими для розуміння. Великі. Нерухомі. Захищають те, що за ними. За допомогою потужної гравітаційної зброї. Просто й по суті — на відміну від решти надмірно вигадливих приблуд..."/>
+<entry name="TH3CorsairFlavor" value="Я не міг уявити, що ця штука здатна літати. Ну, вона нагадувала шматок розплавленого пластику, шлаку, що залишився після згоряння всього корисного. Але потім ти бачив, як вона рухається в повітрі, входить у піке, знищує взвод — і зникає. І після цього ти дивився на неї інакше: на землі вона просто була не в своїй стихії, як риба, витягнута з води."/>
+<entry name="ValkyrieFlavor" value="Перша справжня зброя людства, здатна протистояти монстрам нового світу, мала свою ціну. Нам були потрібні екзоскелети, але вчені змогли змусити їх працювати лише вбудовуючи пілота прямо в них. Я не думав, що хтось на таке піде, але деякі жінки погодились. Вони переродились — готові відправляти ворогів до Вальгалли."/>
+<entry name="VanquisherSiegeTankFlavor" value="Солдати зневажають пілотів. Пілоти — солдатів. Але і ті, й інші однаково зневажають артилеристів, наприклад, екіпажі осадних танків «Покоритель». Ці пихаті сноби сиділи за багато кілометрів від бою — так далеко, що навіть крики й постріли не чули. А якщо їх чимось розлютити, їхня «помилка в розрахунках» накривала твою ж траншею."/>
+<entry name="VorodaisLeviathanFlavor" value="Кліть, що звисала з черева Левіафана, ніхто ніколи не чистив. Її оточував моторошний сморід крові й гною, що капали на землю. Мене щоразу нудило, але... не всі відбувалися так легко. Дехто завмирав від жаху й дивився застиглими очима кудись у далечінь, очікуючи свого кінця."/>
+<entry name="VulkanR5Flavor" value="Перші екзоскелети, які ми видавали командирам, були лише прототипами. Коли наші техніки захопились роботою — вони створили таке... R-5 став машиною жаху, розробленою для того, щоб підійти впритул до цілі. Уяви: ти випускаєш по ньому всі ракети, бачиш, як він зникає в клубах вогню й диму... а потім вискакує з полум’я, наче нічого й не було, все ще стріляючи з усіх гармат."/>
+<entry name="WardenFlavor" value="ЗЕФОН міг створити будь-яку машину — і він створив... це? Навіщо всемогутньому ШІ створювати конструкцію, що виглядає як зібрана на колінці з запасних частин? Якими ж ідіотами ми були. ЗЕФОН створив не зброю, а самодостатню, автономну купу металобрухту. Цьому залізному дроворубу було байдуже, що він страшний, як усе моє життя — він просто безперестанку обчислював найефективніші способи вбивства."/>
+<entry name="WastelanderFlavor" value="Кожен лихач серед Спустошувачів мріяв осідлати цього величного звіра й кричати під рев шестицилиндрового дизельного двигуна... Але для більшості це був смертний вирок. Можна було задихнутись від диму. Впасти на шипи... Підсковзнутись і побачити, як тебе розчавлюють велетенські колеса."/>
+<entry name="WhispererOfGoldrauchFlavor" value="Поговарювали про жінку, яка зав’язала собі вуха, закрила очі й... ну, щось вона там зробила зі своєю шкірою... Вона не хотіла відчувати нічого — тільки Голос. Вона підійшла ближче за всіх до розуміння акринів. Вона затаїла їхній біль у собі й вирізала собі нове призначення. Краще не ставайте їй на шляху."/>
+<entry name="ZephonTitanFlavor" value="Часові. Молотоголови. Стражі. ЗЕФОН завжди мав особливу прив’язаність до людських машин — наче міг зазирнути в них і побачити чудовиськ, які їх створили. Його титан був машиною прихованого гніву, вирізаною з серця іржавого лінкора, що колись перевозив смерть через океан і назад."/>
 </language>
