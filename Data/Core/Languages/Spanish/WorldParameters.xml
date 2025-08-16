@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbkhanDreyDensity" value="Densidad de drey abkhan"/>
+	<entry name="AbkhanDreyDensity0" value="Ninguna"/>
+	<entry name="AbkhanDreyDensity1" value="Muy baja"/>
+	<entry name="AbkhanDreyDensity2" value="Baja"/>
+	<entry name="AbkhanDreyDensity3" value="Media"/>
+	<entry name="AbkhanDreyDensity4" value="Alta"/>
+	<entry name="AbkhanDreyDensity5" value="Muy alta"/>
+	<entry name="AIControlDisconnectedPlayers" value="Jugadores controlados por IA desconectados"/>
+	<entry name="AIControlDisconnectedPlayersHint" value="Permitir que la IA sustituya a personajes desconectados.<br/><br/>Solo disponible si se desactiva Hombre de hierro."/>
+	<entry name="AdaptiveTurnTimer" value="Temporizador de turno adaptativo"/>
+	<entry name="AdaptiveTurnTimerHint" value="Adapta el temporizador de turno según la cantidad de ciudades y unidades."/>
+	<entry name="AnchoriteCityDensity" value="Densidad de ciudades del Anacoreta"/>
+	<entry name="AnchoriteCityDensity0" value="Ninguno"/>
+	<entry name="AnchoriteCityDensity1" value="Muy bajo"/>
+	<entry name="AnchoriteCityDensity2" value="Bajo"/>
+	<entry name="AnchoriteCityDensity3" value="Medio"/>
+	<entry name="AnchoriteCityDensity4" value="Alto"/>
+	<entry name="AnchoriteCityDensity5" value="Muy alto"/>
+	<entry name="ArcDischargeDensity" value="Densidad de arco eléctrico"/>
+	<entry name="ArcDischargeDensity0" value="Ninguna"/>
+	<entry name="ArcDischargeDensity1" value="Muy baja"/>
+	<entry name="ArcDischargeDensity2" value="Baja"/>
+	<entry name="ArcDischargeDensity3" value="Media"/>
+	<entry name="ArcDischargeDensity4" value="Alta"/>
+	<entry name="ArcDischargeDensity5" value="Muy alta"/>
+	<entry name="ArcticRegionDensity" value="Densidad de regiones árticas"/>
+	<entry name="ArcticRegionDensity0" value="Ninguno"/>
+	<entry name="ArcticRegionDensity1" value="Muy bajo"/>
+	<entry name="ArcticRegionDensity2" value="Bajo"/>
+	<entry name="ArcticRegionDensity3" value="Medio"/>
+	<entry name="ArcticRegionDensity4" value="Alto"/>
+	<entry name="ArcticRegionDensity5" value="Very High"/>	
+	<entry name="AutoDisableSimultaneousTurns" value="Desactivar automáticamente turnos simultáneos"/>
+	<entry name="AutoDisableSimultaneousTurnsHint" value="Desactiva automáticamente los turnos simultáneos cuando hay unidades enemigas que no sean de la IA a 5 casillas o menos entre sí."/>
+	<entry name="AvoidDuplicateRandomFactions" value="Evitar facciones aleatorias duplicadas"/>
+	<entry name="AvoidDuplicateRandomFactionsHint" value="Ajusta las probabilidades de selección aleatoria de facción para que todas aparezcan el mismo número de veces durante la partida."/>
+	<entry name="BleedDensity" value="Densidad de Sangría"/>
+	<entry name="BleedDensity0" value="Ninguno"/>
+	<entry name="BleedDensity1" value="Muy bajo"/>
+	<entry name="BleedDensity2" value="Bajo"/>
+	<entry name="BleedDensity3" value="Medio"/>
+	<entry name="BleedDensity4" value="Alto"/>
+	<entry name="BleedDensity5" value="Muy alto"/>
+	<entry name="BrushDensity" value="Densidad de maleza"/>
+	<entry name="BrushDensity0" value="Ninguno"/>
+	<entry name="BrushDensity1" value="Muy bajo"/>
+	<entry name="BrushDensity2" value="Bajo"/>
+	<entry name="BrushDensity3" value="Medio"/>
+	<entry name="BrushDensity4" value="Alto"/>
+	<entry name="BrushDensity5" value="Very High"/>	
+	<entry name="CacheDensity" value="Densidad de alijos"/>
+	<entry name="CacheDensity0" value="Ninguna"/>
+	<entry name="CacheDensity1" value="Muy baja"/>
+	<entry name="CacheDensity2" value="Baja"/>
+	<entry name="CacheDensity3" value="Media"/>
+	<entry name="CacheDensity4" value="Alta"/>
+	<entry name="CacheDensity5" value="Muy alta"/>
+	<entry name="ChieftessCityDensity" value="Densidad de ciudades de la Jefa"/>
+	<entry name="ChieftessCityDensity0" value="Ninguno"/>
+	<entry name="ChieftessCityDensity1" value="Muy bajo"/>
+	<entry name="ChieftessCityDensity2" value="Bajo"/>
+	<entry name="ChieftessCityDensity3" value="Medio"/>
+	<entry name="ChieftessCityDensity4" value="Alto"/>
+	<entry name="ChieftessCityDensity5" value="Muy alto"/>
+	<entry name="CicadasDensity" value="Densidad de cigarras"/>
+	<entry name="CicadasDensity0" value="Ninguna"/>
+	<entry name="CicadasDensity1" value="Muy baja"/>
+	<entry name="CicadasDensity2" value="Baja"/>
+	<entry name="CicadasDensity3" value="Media"/>
+	<entry name="CicadasDensity4" value="Alta"/>
+	<entry name="CicadasDensity5" value="Muy alta"/>
+	<entry name="ConstructRegionDensity" value="Densidad de regiones de constructos"/>
+	<entry name="ConstructRegionDensity0" value="Ninguno"/>
+	<entry name="ConstructRegionDensity1" value="Muy bajo"/>
+	<entry name="ConstructRegionDensity2" value="Bajo"/>
+	<entry name="ConstructRegionDensity3" value="Medio"/>
+	<entry name="ConstructRegionDensity4" value="Alto"/>
+	<entry name="ConstructRegionDensity5" value="Muy alto"/>
+	<entry name="DLC1" value="DLC The Twisted & The Hollow"/>
+	<entry name="DesertRegionDensity" value="Densidad de regiones desérticas"/>
+	<entry name="DesertRegionDensity0" value="Ninguno"/>
+	<entry name="DesertRegionDensity1" value="Muy bajo"/>
+	<entry name="DesertRegionDensity2" value="Bajo"/>
+	<entry name="DesertRegionDensity3" value="Medio"/>
+	<entry name="DesertRegionDensity4" value="Alto"/>
+	<entry name="DesertRegionDensity5" value="Muy alto"/>
+	<entry name="Difficulty" value="Dificultad"/>
+	<entry name="DifficultyHint" value="Modifica las ventajas de la IA y los nativos."/>
+	<entry name="Difficulty0" value="Muy fácil"/>
+	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una desventaja moderada a la lealtad de las ciudades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad"/>
+	<entry name="Difficulty0RecommendationHint" value="<style name='Italic'/>Recomendada para jugadores que prefieran centrarse en la trama."/>
+	<entry name="Difficulty1" value="Fácil"/>
+	<entry name="Difficulty1Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una desventaja pequeña a la lealtad de las ciudades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad"/>
+	<entry name="Difficulty1RecommendationHint" value="<style name='Italic'/>Recomendada para jugadores sin experiencia en la estrategia por turnos."/>
+	<entry name="Difficulty2" value="Medio"/>
+	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> no se aplica ninguna ventana ni desventaja."/>
+	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Recomendada para aficionados a los juegos de estrategia por turnos."/>
+	<entry name="Difficulty3" value="Difícil"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una ventaja pequeña a la lealtad de las ciudades y el nivel de las unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nivel<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agresividad"/>
+	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Recomendada para veteranos de los juegos de Proxy Studios."/>
+	<entry name="Difficulty4" value="Muy difícil"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una ventaja moderada a la lealtad de las ciudades y el nivel de las unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nivel<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agresividad"/>
+	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Recomendada para después de completar el juego en Difícil."/>
+	<entry name="Difficulty5" value="Ultradifícil"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una ventaja considerable a la lealtad de las ciudades y el nivel de las unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nivel<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agresividad"/>
+	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>Recomendada para después de completar el juego en Muy difícil."/>
+	<entry name="Difficulty6" value="Pesadilla"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> aplica una ventaja extrema a la lealtad de las ciudades y el nivel de las unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealtad<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nivel<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agresividad"/>
+	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>No recomendada para nada."/>
+	<entry name="DustStormDensity" value="Densidad de tormentas de arena"/>
+	<entry name="DustStormDensity0" value="Ninguna"/>
+	<entry name="DustStormDensity1" value="Muy baja"/>
+	<entry name="DustStormDensity2" value="Baja"/>
+	<entry name="DustStormDensity3" value="Media"/>
+	<entry name="DustStormDensity4" value="Alta"/>
+	<entry name="DustStormDensity5" value="Muy alta"/>
+	<entry name="EscalationPace" value="Ritmo de intensificación"/>
+	<entry name="EscalationPaceHint" value="Ajusta la rapidez con que se intensifican las hostilidades hacia el final del juego (si lo hacen)."/>
+	<entry name="EscalationPace0" value="Ninguna"/>
+	<entry name="EscalationPace1" value="Muy lento"/>
+	<entry name="EscalationPace2" value="Lento"/>
+	<entry name="EscalationPace3" value="Normal"/>
+	<entry name="EscalationPace4" value="Rápido"/>
+	<entry name="EscalationPace5" value="Muy rápido"/>
+	<entry name="FixedTeams" value="Equipos fijos"/>
+	<entry name="FixedTeamsHint" value="No permitir que los jugadores cambien el estado de la guerra y de la alianza."/>
+	<entry name="ForestDensity" value="Densidad de bosques"/>
+	<entry name="ForestDensity0" value="Ninguno"/>
+	<entry name="ForestDensity1" value="Muy bajo"/>
+	<entry name="ForestDensity2" value="Bajo"/>
+	<entry name="ForestDensity3" value="Medio"/>
+	<entry name="ForestDensity4" value="Alto"/>
+	<entry name="ForestDensity5" value="Muy alto"/>
+	<entry name="GameName" value="Nombre de la partida"/>
+	<entry name="GameNameHint" value="El nombre con el que aparecerá la partida en la lista de partidas multijugador."/>
+	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility0" value="Solo amigos"/>
+	<entry name="GameVisibility0Hint" value="La partida no aparece públicamente y solo admite la incorporación mediante listas de amigos, invitación o conexión directa."/>
+	<entry name="GameVisibility1" value="Privada"/>
+	<entry name="GameVisibility1Hint" value="La partida no aparece públicamente y solo admite la incorporación mediante invitación o conexión directa."/>
+	<entry name="GameVisibility2" value="Pública"/>
+	<entry name="GameVisibility2Hint" value="La partida aparece públicamente y cualquiera puede unirse a ella."/>
+	<entry name="GameVisibility3" value="Un jugador"/>
+	<entry name="GameVisibility3Hint" value="Nadie más puede unirse a la partida."/>
+	<entry name="Growth" value="Desarrollo de población"/>
+	<entry name="Growth0" value="Muy bajo"/>
+	<entry name="Growth1" value="Bajo"/>
+	<entry name="Growth2" value="Medio"/>
+	<entry name="Growth3" value="Alto"/>
+	<entry name="Growth4" value="Muy alto"/>
+	<entry name="Ironman" value="Hombre de hierro"/>
+	<entry name="IronmanHint" value="Limita el control del jugador sobre su archivo de guardado, eliminando la posibilidad de corregir errores y cambiar las decisiones tomadas durante la partida.<br/><br/>Algunos errores solo se pueden desbloquear con el modo Hombre de hierro activado."/>
+	<entry name="LandMass" value="Masa terrestre"/>
+	<entry name="LandMassHint" value="Cantidad de casillas de tierra."/>
+	<entry name="LandMass0" value="Muy bajo"/>
+	<entry name="LandMass1" value="Bajo"/>
+	<entry name="LandMass2" value="Medio"/>
+	<entry name="LandMass3" value="Alto"/>
+	<entry name="LandMass4" value="Muy alto"/>
+	<entry name="MapEditor" value="Panel de depuración"/>
+	<entry name="MaximumTechnologyTier" value="Grado máximo de tecnología"/>
+	<entry name="MaximumTechnologyTier0" value="0"/>
+	<entry name="MaximumTechnologyTier1" value="1"/>
+	<entry name="MaximumTechnologyTier2" value="2"/>
+	<entry name="MaximumTechnologyTier3" value="3"/>
+	<entry name="MaximumTechnologyTier4" value="4"/>
+	<entry name="MaximumTechnologyTier5" value="5"/>
+	<entry name="MaximumTechnologyTier6" value="6"/>
+	<entry name="MaximumTechnologyTier7" value="7"/>
+	<entry name="MaximumTechnologyTier8" value="8"/>
+	<entry name="MaximumTechnologyTier9" value="9"/>
+	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="Mutators/AreYouTheGreatSpeaker" value="<string name='Settings/Achievements/AreYouTheGreatSpeaker'/>"/>
+	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Duplica los efectos de la lealtad."/>
+	<entry name="Mutators/CanLoveBeMoral" value="<string name='Settings/Achievements/CanLoveBeMoral'/>"/>
+	<entry name="Mutators/CanLoveBeMoralHint" value="Captura unidades cuando se doblega su moral."/>
+	<entry name="Mutators/CanAJourneyBeAnEndInItself" value="<string name='Settings/Achievements/CanAJourneyBeAnEndInItself'/>"/>
+	<entry name="Mutators/CanAJourneyBeAnEndInItselfHint" value="Las unidades cuentan con un punto de acción extra."/>
+	<entry name="Mutators/CanAnythingRedeemThisHorror" value="<string name='Settings/Achievements/CanAnythingRedeemThisHorror'/>"/>
+	<entry name="Mutators/CanAnythingRedeemThisHorrorHint" value="Comprar unidades a los PNJ es un 50 % más barato."/>
+	<entry name="Mutators/CanFreeWillExist" value="<string name='Settings/Achievements/CanFreeWillExist'/>"/>
+	<entry name="Mutators/CanFreeWillExistHint" value="El daño de las armas varía aleatoriamente en un ±20 %."/>
+	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
+	<entry name="Mutators/DidHonorBalanceGreedHint" value="Cada vez que anules un acuerdo, te vuelves Deshonesto para siempre."/>
+	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
+	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Duplica los cambios a la moral por cada muerte."/>
+	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
+	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="Las unidades que no son neutrales pierden un 5 % de sus puntos de golpe cada turno si están fuera de ciudades o puestos fronterizos aliados."/>
+	<entry name="Mutators/DidOurUnificationMatter" value="<string name='Settings/Achievements/DidOurUnificationMatter'/>"/>
+	<entry name="Mutators/DidOurUnificationMatterHint" value="Las unidades biológicas que no son deformidades se convierten en deformidades neutrales al morir. Se activa después de todos los demás efectos provocados por la muerte."/>
+	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
+	<entry name="Mutators/MustWeSufferSoHint" value="Empieza el juego con las investigaciones del laboratorio de investigación, el holocine, el bloque de viviendas, el atrio de construcción y el ingeniero ya realizadas."/>
+	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
+	<entry name="Mutators/WasITrulyHumanHint" value="El daño sufrido se reparte entre todos los aliados adyacentes a la unidad objetivo."/>
+	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
+	<entry name="Mutators/WasPerfectionWorthItHint" value="Las unidades duplicadas cuestan un +20 % más de recursos."/>
+	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
+	<entry name="Mutators/WasZephonTrulyAliveHint" value="Alcance ilimitado de adquisición de casillas"/>
+	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
+	<entry name="Mutators/WhatAreYouHint" value="Solo se pueden investigar tecnologías de la afinidad propia o sin ninguna afinidad."/>
+	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
+	<entry name="Mutators/WhatPriceForLibertyHint" value="Los líderes cuentan con todas las afinidades de investigación."/>
+	<entry name="Mutators/WhereAreWe" value="<string name='Settings/Achievements/WhereAreWe'/>"/>
+	<entry name="Mutators/WhereAreWeHint" value="Todas las casillas están exploradas desde el principio."/>
+	<entry name="Mutators/WhyDidHumanityDieAlone" value="<string name='Settings/Achievements/WhyDidHumanityDieAlone'/>"/>
+	<entry name="Mutators/WhyDidHumanityDieAloneHint" value="Matar reduce la moral."/>
+	<entry name="Pace" value="Velocidad de la partida"/>
+	<entry name="PaceHint" value="Ajusta los costes de producción, los costes de investigación y la velocidad con que aparecen nuevas misiones."/>
+	<entry name="Pace0" value="Muy lenta"/>
+	<entry name="Pace1" value="Lenta"/>
+	<entry name="Pace2" value="Normal"/>
+	<entry name="Pace3" value="Rápida"/>
+	<entry name="Pace4" value="Muy rápida"/>
+	<entry name="QuestPace" value="Ritmo de misiones"/>
+	<entry name="QuestPaceHint" value="Ajusta la rapidez con que aparecen nuevas misiones (si lo hacen)."/>
+	<entry name="QuestPace0" value="Ninguna"/>
+	<entry name="QuestPace1" value="Muy lento"/>
+	<entry name="QuestPace2" value="Lento"/>
+	<entry name="QuestPace3" value="Normal"/>
+	<entry name="QuestPace4" value="Rápido"/>
+	<entry name="QuestPace5" value="Muy rápido"/>
+	<entry name="RegionDensity" value="Densidad de regiones"/>
+	<entry name="RegionDensity0" value="Ninguno"/>
+	<entry name="RegionDensity1" value="Muy bajo"/>
+	<entry name="RegionDensity2" value="Bajo"/>
+	<entry name="RegionDensity3" value="Medio"/>
+	<entry name="RegionDensity4" value="Alto"/>
+	<entry name="RegionDensity5" value="Very High"/>	
+	<entry name="RequiredTechnologiesPerTier" value="Tecnologías requeridas por grado"/>
+	<entry name="RequiredTechnologiesPerTier0" value="0"/>
+	<entry name="RequiredTechnologiesPerTier1" value="1"/>
+	<entry name="RequiredTechnologiesPerTier2" value="2"/>
+	<entry name="RequiredTechnologiesPerTier3" value="3"/>
+	<entry name="RequiredTechnologiesPerTier4" value="4"/>
+	<entry name="RequiredTechnologiesPerTier5" value="5"/>
+	<entry name="RequiredTechnologiesPerTier6" value="6"/>
+	<entry name="RequiredTechnologiesPerTier7" value="7"/>
+	<entry name="ResearchCost" value="Coste de investigación"/>
+	<entry name="ResearchCost0" value="Muy bajo"/>
+	<entry name="ResearchCost1" value="Bajo"/>
+	<entry name="ResearchCost2" value="Medio"/>
+	<entry name="ResearchCost3" value="Alto"/>
+	<entry name="ResearchCost4" value="Muy alto"/>
+	<entry name="ResearchedTechnologyTier" value="Grado de tecnología investigada"/>
+	<entry name="ResearchedTechnologyTier0" value="0"/>
+	<entry name="ResearchedTechnologyTier1" value="1"/>
+	<entry name="ResearchedTechnologyTier2" value="2"/>
+	<entry name="ResearchedTechnologyTier3" value="3"/>
+	<entry name="ResearchedTechnologyTier4" value="4"/>
+	<entry name="ResearchedTechnologyTier5" value="5"/>
+	<entry name="ResearchedTechnologyTier6" value="6"/>
+	<entry name="ResearchedTechnologyTier7" value="7"/>
+	<entry name="ResearchedTechnologyTier8" value="8"/>
+	<entry name="ResearchedTechnologyTier9" value="9"/>
+	<entry name="ResearchedTechnologyTier10" value="10"/>
+	<entry name="ResourceCost" value="Coste en recursos"/>
+	<entry name="ResourceCost0" value="Muy bajo"/>
+	<entry name="ResourceCost1" value="Bajo"/>
+	<entry name="ResourceCost2" value="Medio"/>
+	<entry name="ResourceCost3" value="Alto"/>
+	<entry name="ResourceCost4" value="Muy alto"/>
+	<entry name="ResourceUpkeep" value="Mantenimiento en recursos"/>
+	<entry name="ResourceUpkeep0" value="Muy bajo"/>
+	<entry name="ResourceUpkeep1" value="Bajo"/>
+	<entry name="ResourceUpkeep2" value="Medio"/>
+	<entry name="ResourceUpkeep3" value="Alto"/>
+	<entry name="ResourceUpkeep4" value="Muy alto"/>
+	<entry name="RiverDensity" value="Densidad fluvial"/>
+	<entry name="RiverDensity0" value="None"/>	
+	<entry name="RiverDensity1" value="Muy bajo"/>
+	<entry name="RiverDensity2" value="Bajo"/>
+	<entry name="RiverDensity3" value="Medio"/>
+	<entry name="RiverDensity4" value="Alto"/>
+	<entry name="RiverDensity5" value="Very High"/>	
+	<entry name="RocksDensity" value="Densidad de rocas"/>
+	<entry name="RocksDensity0" value="Ninguno"/>
+	<entry name="RocksDensity1" value="Muy bajo"/>
+	<entry name="RocksDensity2" value="Bajo"/>
+	<entry name="RocksDensity3" value="Medio"/>
+	<entry name="RocksDensity4" value="Alto"/>
+	<entry name="RocksDensity5" value="Very High"/>	
+	<entry name="RuinsDensity" value="Densidad de ruinas"/>
+	<entry name="RuinsDensity0" value="Ninguno"/>
+	<entry name="RuinsDensity1" value="Muy bajo"/>
+	<entry name="RuinsDensity2" value="Bajo"/>
+	<entry name="RuinsDensity3" value="Medio"/>
+	<entry name="RuinsDensity4" value="Alto"/>
+	<entry name="RuinsDensity5" value="Very High"/>	
+	<entry name="Seed" value="Creación del mundo"/>
+	<entry name="SimultaneousTurns" value="Turnos simultáneos"/>
+	<entry name="SimultaneousTurnsHint" value="Si se activa esta opción, todos los jugadores actúan a la vez.<br/><br/>Si se desactiva, solamente actuarán a la vez los jugadores de un mismo equipo.<br/><br/>Desactivar esta opción también hará que los turnos de la IA tarden más en resolverse, aunque a cambio realizará mejores jugadas al combatir contra otras IA."/>
+	<entry name="Size" value="Tamaño del mundo"/>
+	<entry name="Size0" value="Diminuto"/>
+	<entry name="Size0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> %2%x%3%<br/><br/><style name='Italic'/>Recomendado para 2 jugadores."/>
+	<entry name="Size1" value="Pequeño"/>
+	<entry name="Size1Hint" value="<style name='Bold'/>%1%:<style name='Default'/> %2%x%3%<br/><br/><style name='Italic'/>Recomendado para 3 jugadores."/>
+	<entry name="Size2" value="Medio"/>
+	<entry name="Size2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> %2%x%3%<br/><br/><style name='Italic'/>Recomendado para 4 jugadores."/>
+	<entry name="Size3" value="Grande"/>
+	<entry name="Size3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> %2%x%3%<br/><br/><style name='Italic'/>Recomendado para 6 jugadores."/>
+	<entry name="Size4" value="Enorme"/>
+	<entry name="Size4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> %2%x%3%<br/><br/><style name='Italic'/>Recomendado para 8 jugadores."/>
+	<entry name="SpecialResourceDensity" value="Densidad de puestos fronterizos"/>
+	<entry name="SpecialResourceDensity0" value="Ninguno"/>
+	<entry name="SpecialResourceDensity1" value="Muy bajo"/>
+	<entry name="SpecialResourceDensity2" value="Bajo"/>
+	<entry name="SpecialResourceDensity3" value="Medio"/>
+	<entry name="SpecialResourceDensity4" value="Alto"/>
+	<entry name="SpecialResourceDensity5" value="Muy alto"/>
+	<entry name="StartingResource" value="Recursos iniciales"/>
+	<entry name="StartingResource0" value="Muy bajo"/>
+	<entry name="StartingResource1" value="Bajo"/>
+	<entry name="StartingResource2" value="Medio"/>
+	<entry name="StartingResource3" value="Alto"/>
+	<entry name="StartingResource4" value="Muy alto"/>
+	<entry name="SwampRegionDensity" value="Densidad de regiones de pantano"/>
+	<entry name="SwampRegionDensity0" value="Ninguno"/>
+	<entry name="SwampRegionDensity1" value="Muy bajo"/>
+	<entry name="SwampRegionDensity2" value="Bajo"/>
+	<entry name="SwampRegionDensity3" value="Medio"/>
+	<entry name="SwampRegionDensity4" value="Alto"/>
+	<entry name="SwampRegionDensity5" value="Very High"/>	
+	<entry name="TurnTimer" value="Temporizador de turno"/>
+	<entry name="TurnTimer0" value="Ninguno"/>
+	<entry name="TurnTimer1" value="Muy breve (1 minuto)"/>
+	<entry name="TurnTimer2" value="Breve (2 minutos)"/>
+	<entry name="TurnTimer3" value="Moderado (3 minutos)"/>
+	<entry name="TurnTimer4" value="Largo (4 minutos)"/>
+	<entry name="TurnTimer5" value="Muy largo (5 minutos)"/>
+	<entry name="VictoryRequiresDefeatingNPCs" value="Ganar requiere derrotar a los PNJ"/>
+	<entry name="VictoryRequiresDefeatingNPCsHint" value="Determina si es necesario derrotar a los PNJ (Anacoreta, Jefa, ZEPHON) para conseguir una victoria por eliminación."/>
+	<entry name="VolcanicRegionDensity" value="Densidad de regiones volcánicas"/>
+	<entry name="VolcanicRegionDensity0" value="Ninguno"/>
+	<entry name="VolcanicRegionDensity1" value="Muy bajo"/>
+	<entry name="VolcanicRegionDensity2" value="Bajo"/>
+	<entry name="VolcanicRegionDensity3" value="Medio"/>
+	<entry name="VolcanicRegionDensity4" value="Alto"/>
+	<entry name="VolcanicRegionDensity5" value="Muy alto"/>
+	<entry name="VolcanoDensity" value="Densidad de volcanes"/>
+	<entry name="VolcanoDensity0" value="Ninguna"/>
+	<entry name="VolcanoDensity1" value="Muy baja"/>
+	<entry name="VolcanoDensity2" value="Baja"/>
+	<entry name="VolcanoDensity3" value="Media"/>
+	<entry name="VolcanoDensity4" value="Alta"/>
+	<entry name="VolcanoDensity5" value="Very High"/>	
+	<entry name="WildlifeDensity" value="Densidad de fauna"/>
+	<entry name="WildlifeDensity0" value="Ninguno"/>
+	<entry name="WildlifeDensity1" value="Muy bajo"/>
+	<entry name="WildlifeDensity2" value="Bajo"/>
+	<entry name="WildlifeDensity3" value="Medio"/>
+	<entry name="WildlifeDensity4" value="Alto"/>
+	<entry name="WildlifeDensity5" value="Muy alto"/>
+	<entry name="WorldSeed" value="Creación del mundo"/>
+	<entry name="WastelandRegionDensity" value="Densidad de regiones de Yermo"/>
+	<entry name="WastelandRegionDensity0" value="Ninguno"/>
+	<entry name="WastelandRegionDensity1" value="Muy bajo"/>
+	<entry name="WastelandRegionDensity2" value="Bajo"/>
+	<entry name="WastelandRegionDensity3" value="Medio"/>
+	<entry name="WastelandRegionDensity4" value="Alto"/>
+	<entry name="WastelandRegionDensity5" value="Muy alto"/>
+	<entry name="WhisperingWightsDensity" value="Densidad de criaturas susurrantes"/>
+	<entry name="WhisperingWightsDensity0" value="Ninguna"/>
+	<entry name="WhisperingWightsDensity1" value="Muy baja"/>
+	<entry name="WhisperingWightsDensity2" value="Baja"/>
+	<entry name="WhisperingWightsDensity3" value="Media"/>
+	<entry name="WhisperingWightsDensity4" value="Alta"/>
+	<entry name="WhisperingWightsDensity5" value="Muy alta"/>
+	<entry name="ZephonCityDensity" value="Densidad de ciudades de ZEPHON"/>
+	<entry name="ZephonCityDensity0" value="Ninguno"/>
+	<entry name="ZephonCityDensity1" value="Muy bajo"/>
+	<entry name="ZephonCityDensity2" value="Bajo"/>
+	<entry name="ZephonCityDensity3" value="Medio"/>
+	<entry name="ZephonCityDensity4" value="Alto"/>
+	<entry name="ZephonCityDensity5" value="Muy alto"/>
+</language>

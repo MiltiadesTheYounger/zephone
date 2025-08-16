@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Abkhan" value="아브칸"/>
+	<entry name="AbkhanProperties" value="<icon texture='GUI/Bullet'/>둥지를 보호하는 대형 혈사초 활보 생물입니다."/>
+	<entry name="Abkluth" value="아브클루스"/>
+	<entry name="AbkluthProperties" value="<icon texture='GUI/Bullet'/>턴마다 체력을 재생하는 근접 혈사초 활보 생물입니다."/>
+	<entry name="AbkluthDragoon" value="아브클루스 기병대"/>
+	<entry name="AbkluthDragoonProperties" value="<icon texture='GUI/Bullet'/>적 아브클루스를 길들일 수 있는 근접 혈사초 활보 생물입니다."/>
+	<entry name="AcrinMilitia" value="아크린 잔존병"/>
+	<entry name="AcrinMilitiaProperties" value="<icon texture='GUI/Bullet'/>강력한 치유력과 출혈을 일으키는 능력을 가진 혈사초 활보 생물입니다."/>
+	<entry name="AcrinTitan" value="아크린 타이탄"/>
+	<entry name="AcrinTitanProperties" value="<icon texture='GUI/Bullet'/>적을 인과의 우물로 끌어들여 삼킬 수 있는 생체 타이탄입니다."/>
+	<entry name="AcrinZealot" value="아크린 광신도"/>
+	<entry name="AcrinZealotProperties" value="<icon texture='GUI/Bullet'/>적의 움직임을 방해하는 근접 무기를 장착하고 혈사초 타일 사이를 순간 이동할 수 있는 혈사초 활보 생물입니다."/>
+	<entry name="AegyllanWorm" value="아이길란 벌레"/>
+	<entry name="AegyllanWormProperties" value="<icon texture='GUI/Bullet'/>지하로 이동할 수 있는 단거리 대전차 생체 보병입니다."/>
+	<entry name="AkavishProvost" value="아카비쉬 프로보스트"/>
+	<entry name="AkavishProvostProperties" value="<icon texture='GUI/Bullet'/>적을 도발하고 받는 피해를 조작할 수 있는 민첩한 대형 기계 로봇입니다."/>
+	<entry name="AmoetiasDevourer" value="아모에티아의 포식자"/>
+	<entry name="AmoetiasDevourerProperties" value="<icon texture='GUI/Bullet'/>적을 부패시키고 잡아먹거나 자신을 무력화시켜 생명을 유지하는 대형 생물체입니다."/>
+	<entry name="AnchoriteCamp" value="은수자 야영지"/>
+	<entry name="AnchoriteCampFlavor" value="<string name='Quests/Reyndverra/Intro2'/>"/>
+	<entry name="AnchoriteCampProperties" value="<icon texture='GUI/Bullet'/>대형 기계 요새입니다."/>
+	<entry name="AraneanStalker" value="아라니안 추적자"/>
+	<entry name="AraneanStalkerProperties" value="<icon texture='GUI/Bullet'/>대상을 표시할 수 있는 기계 저격 보병입니다."/>
+	<entry name="Arshem" value="아르솀"/>
+	<entry name="ArshemFlavor" value="<string name='Quests/ThickerThanWater/BrothersKeeper/StopArshem2'/>"/>
+	<entry name="ArshemProperties" value="<icon texture='GUI/Bullet'/>당신을 배신한 당신의 형제입니다."/>
+	<entry name="ArtificersLaboratory" value="공예가의 실험실"/>
+	<entry name="ArtificersLaboratoryFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/Intro'/>"/>
+	<entry name="ArtificersLaboratoryProperties" value="<icon texture='GUI/Bullet'/>지나가는 혜성을 조사하는 데 사용하는 특수한 실험실입니다."/>
+	<entry name="AssaultTrooper" value="강습 중보병"/>
+	<entry name="AssaultTrooperProperties" value="<icon texture='GUI/Bullet'/>뛰어난 장갑과 과충전 소총, 강철과 같은 의지를 가진 생체 보병입니다."/>
+	<entry name="AtlasTank" value="아틀라스 전차"/>
+	<entry name="AtlasTankProperties" value="<icon texture='GUI/Bullet'/>파괴적인 무기와 업그레이드로 완전 무장한 기계 타이탄입니다."/>
+	<entry name="AvatarOfTheEmulatedMind" value="모방된 정신의 화신"/>
+	<entry name="BanditKing" value="산적 왕"/>
+	<entry name="BanditKingFlavor" value="<string name='Quests/PhilosophersStone/Meeting2'/>"/>
+	<entry name="BanditKingProperties" value="<icon texture='GUI/Bullet'/>철학자의 돌에 오염된 산적 두목입니다."/>
+	<entry name="Bunker" value="벙커"/>
+	<entry name="BunkerProperties" value="<icon texture='GUI/Bullet'/>주변 지역과 내부에 있는 유닛을 보호하는 대형 기계화 요새입니다."/>
+	<entry name="Buster" value="폭탄광"/>
+	<entry name="BusterProperties" value="<icon texture='GUI/Bullet'/>적을 불태우는 대장갑 생체 보병입니다."/>
+	<entry name="Brynn" value="브린"/>
+	<entry name="BrynnFlavor" value="<string name='Quests/Reyndverra/Intro4'/>"/>
+	<entry name="BrynnProperties" value="<icon texture='GUI/Bullet'/>레인드베라를 찾고 있는 시계공입니다."/>
+	<entry name="CalemVorshole" value="칼렘 보르솔레"/>
+	<entry name="CalemVorsholeFlavor" value="<string name='Quests/StolenGoods/HuntThemDown2'/>"/>
+	<entry name="CalemVorsholeProperties" value="<icon texture='GUI/Bullet'/>위키드 킹스 갱단의 두목입니다."/>
+	<entry name="CassielShredder" value="카시엘 분쇄기"/>
+	<entry name="CassielShredderProperties" value="<icon texture='GUI/Bullet'/>부대 규모가 감소해도 같은 피해를 입히는 기계 근접 호버 보병입니다."/>
+	<entry name="ChayotExterminator" value="카요트 박멸기"/>
+	<entry name="ChayotExterminatorProperties" value="<icon texture='GUI/Bullet'/>원거리 전투 능력이 뛰어나며 전투 드론을 배치할 수 있는 대형 호버 차량입니다."/>
+	<entry name="CherubimTitan" value="케루빔 타이탄"/>
+	<entry name="CherubimTitanProperties" value="<icon texture='GUI/Bullet'/>타키온 무기로 적을 파괴하고 아군의 피해를 감소시켜 주는 기계 비행 타이탄입니다."/>
+	<entry name="Chieftess" value="<string name='Factions/Chieftess'/>"/>
+	<entry name="ChieftessFlavor" value="<string name='Quests/Reyndverra/FightChieftess2'/>"/>
+	<entry name="CircusAbkhan" value="서커스 아브칸"/>
+	<entry name="CircusAbkhanFlavor" value="<string name='Quests/CircusCambion/AbkluthJousting2'/>"/>
+	<entry name="CircusAbkhanProperties" value="<icon texture='GUI/Bullet'/>길들인 아브칸입니다."/>
+	<entry name="CombatDrone" value="전투 멜리사이"/>
+	<entry name="CombatDroneProperties" value="<icon texture='GUI/Bullet'/>돌격 소총으로 무장한 기계 호버 보병입니다."/>
+	<entry name="CombatMedic" value="전투 의무병"/>
+	<entry name="CombatMedicProperties" value="<icon texture='GUI/Bullet'/>다른 생체 유닛을 치유하고 강화할 수 있는 생체 보병입니다."/>
+	<entry name="Commander" value="지휘관"/>
+	<entry name="CommanderProperties" value="<icon texture='GUI/Bullet'/>전투력이 뛰어나고 전장에서 보병 유닛을 지원하는 생체 영웅입니다."/>
+	<entry name="CrlaDisciple" value="크를라의 사도"/>
+	<entry name="CrlaDiscipleProperties" value="<icon texture='GUI/Bullet'/>생산이 오래 걸리지만, 공격할 때 사선을 무시하며 다양한 주문을 시전하는 생체 보병입니다."/>
+	<entry name="CrusaderBattleTank" value="크루세이더 주력 전차"/>
+	<entry name="CrusaderBattleTankProperties" value="<icon texture='GUI/Bullet'/>다목적 포, 우수한 장갑, 많은 업그레이드를 갖춘 대형 기계 차량입니다."/>
+	<entry name="Cyclone" value="사이클론"/>
+	<entry name="CycloneProperties" value="<icon texture='GUI/Bullet'/>우수한 장갑과 많은 업그레이드를 갖춘 대형 대공 기계 차량입니다."/>
+	<entry name="DarkVassael" value="어둠의 바사엘"/>
+	<entry name="DarkVassaelProperties" value="<icon texture='GUI/Bullet'/>무시무시한 공격으로 적의 사기를 떨어뜨리는 대형 생체 생물입니다."/>
+	<entry name="Deformity" value="기형체"/>
+	<entry name="DeformityProperties" value="<icon texture='GUI/Bullet'/>처치한 적을 기형체로 만들지만, 턴마다 체력을 잃는 근접 괴물입니다."/>
+	<entry name="DevoteeOfThrokos" value="트로코스의 신봉자"/>
+	<entry name="DevoteeOfThrokosProperties" value="<icon texture='GUI/Bullet'/>부상당한 적을 상대로 강한 원거리 생체 괴물입니다."/>
+	<entry name="DreadPearlman" value="공포의 펄먼"/>
+	<entry name="DreadPearlmanFlavor" value="<string name='Quests/ConcordatCompromised/Intro2'/>"/>
+	<entry name="DreadPearlmanProperties" value="<icon texture='GUI/Bullet'/>대형 기계 요새입니다."/>
+	<entry name="Dreameater" value="꿈 포식자"/>
+	<entry name="DreameaterProperties" value="<icon texture='GUI/Bullet'/>적의 사기를 감소시키고 패주한 적을 조종하는 대형 부유 생물입니다."/>
+	<entry name="ElectOfUzhodai" value="우조다이의 선민"/>
+	<entry name="ElectOfUzhodaiProperties" value="<icon texture='GUI/Bullet'/>순간 이동으로 전장을 가로질러 최전방의 적을 징벌하기 위해 소환된 대형 근접 생체 영웅입니다."/>
+	<entry name="ElohimMaelstrom" value="엘로힘 마엘스트롬"/>
+	<entry name="ElohimMaelstromProperties" value="<icon texture='GUI/Bullet'/>고지대에서 이점을 얻는 장거리 공성 무기로 무장한 기계 호버 보병입니다."/>
+	<entry name="EMPDrone" value="EMP 멜리사이"/>
+	<entry name="EMPDroneProperties" value="<icon texture='GUI/Bullet'/>자폭하여 기계 유닛을 기절시키는 기계 호버 보병입니다."/>
+	<entry name="Engineer" value="기술자"/>
+	<entry name="EngineerProperties" value="<icon texture='GUI/Bullet'/>도시를 세우고, 도로를 건설하고, 타일을 정리하고, 기계 유닛을 수리하고, 강화하는 생체-기계 보병입니다."/>
+	<entry name="ErelimAssassin" value="에렐림 암살자"/>
+	<entry name="ErelimAssassinProperties" value="<icon texture='GUI/Bullet'/>적 후방 잠입과 근접 전투에 뛰어나도록 설계된 근접 기계 영웅입니다."/>
+	<entry name="ErelimPriest" value="에렐림 사제"/>
+	<entry name="ExousiaMarauder" value="엑소시아 머로더"/>
+	<entry name="ExousiaMarauderProperties" value="<icon texture='GUI/Bullet'/>유닛을 더 멀리 하차시킬 수 있는 대형 기계 호버 수송 차량입니다."/>
+	<entry name="FallenOrolos" value="타락한 오롤로스"/>
+	<entry name="FallenOrolosProperties" value="<icon texture='GUI/Bullet'/>근접 유닛을 오염시키고 제자리에 있을 때 명중률이 더 높은 중장거리 대포를 발사하는 대형 생체 생물입니다."/>
+	<entry name="HadesBomber" value="하데스 폭격기"/>
+	<entry name="HadesBomberProperties" value="<icon texture='GUI/Bullet'/>반물질 폭탄으로 적을 비물질화하는 기계 비행체입니다."/>
+	<entry name="Hammerhead" value="해머헤드"/>
+	<entry name="HammerheadProperties" value="<icon texture='GUI/Bullet'/>전초기지를 점령하고 혈사초를 제거하는 임무를 맡은 기계 비행체입니다."/>
+	<entry name="HashmallimHost" value="하쉬말림 모체"/>
+	<entry name="HashmallimHostProperties" value="<icon texture='GUI/Bullet'/>중력을 조작하여 엄폐물을 무시하고 대형 유닛에 피해를 주며 아군과 적의 명중률에 영향을 주는 대형 호버 차량입니다."/>
+	<entry name="Headquarters" value="<string name='Buildings/Headquarters'/>"/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>도시 방어 체계입니다."/>
+	<entry name="HollowWarlord" value="<string name='Factions/HollowWarlord'/>"/>
+	<entry name="HollowWarlordFlavor" value="<string name='Quests/Reyndverra/FollowTheChieftess2'/>"/>
+	<entry name="HonorableAristocratEngineer" value="<string name='Factions/HonorableAristocrat'/>(기술자)"/>
+	<entry name="HonorableAristocratEngineerFlavor" value="<string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/>"/>
+	<entry name="HonorableAristocratEngineerProperties" value="<icon texture='GUI/Bullet'/>매우 느리고 하나의 임무만 수행하는 엔지니어입니다."/>
+	<entry name="HonorableAristocratMissileTeam" value="네오듀크의 여단"/>
+	<entry name="HonorableAristocratMissileTeamFlavor" value="<string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/>"/>
+	<entry name="HonorableAristocratMissileTeamProperties" value="<icon texture='GUI/Bullet'/>매우 느린 미사일 팀입니다."/>
+	<entry name="HonorableAristocratOutrider" value="<string name='Factions/HonorableAristocrat'/>(<string name='Units/Outrider'/>)"/>
+	<entry name="HonorableAristocratOutriderFlavor" value="<string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/>"/>
+	<entry name="HonorableAristocratOutriderProperties" value="<icon texture='GUI/Bullet'/>매우 느린 <string name='Units/Outrider'/>입니다."/>
+	<entry name="Husband" value="남편"/>
+	<entry name="HusbandFlavor" value="<string name='Quests/ImpossibleConception/Intro2'/>"/>
+	<entry name="Hwedo" value="회도"/>
+	<entry name="HwedoFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/DefendLabSuccess'/>"/>
+	<entry name="HwedoProperties" value="<icon texture='GUI/Bullet'/>지나가는 혜성의 에너지로 만든 강력한 생체-기계 생물입니다."/>
+	<entry name="IronFeather" value="강철깃털"/>
+	<entry name="IronFeatherFlavor" value="<string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/>"/>
+	<entry name="IronFeatherProperties" value="<icon texture='GUI/Bullet'/>특별한 말라킴 파괴자 안에 갇힌 강철깃털입니다."/>
+	<entry name="IronFeatherGuardian" value="강철깃털의 수호자"/>
+	<entry name="IokSwarm" value="이오크 군체"/>
+	<entry name="IokSwarmProperties" value="<icon texture='GUI/Bullet'/>산성 물질을 토하고 주변 유닛을 잡아먹어 스스로를 치유하는 생체 비행체입니다."/>
+	<entry name="IshimEnforcer" value="이심 집행자"/>
+	<entry name="IshimEnforcerProperties" value="<icon texture='GUI/Bullet'/>고출력 공격과 저출력 공격을 번갈아 사용하며 스스로 상처를 치유할 수 있는 생체-기계 보병입니다."/>
+	<entry name="IthurielHarbinger" value="이투리엘 선견자"/>
+	<entry name="IthurielHarbingerProperties" value="<icon texture='GUI/Bullet'/>강력한 과열 대포가 장착된 대형 기계 로봇입니다."/>
+	<entry name="Jezina" value="제지나"/>
+	<entry name="JezinaFlavor" value="<string name='Quests/TheTiesThatBind/ChaseJezina2'/>"/>
+	<entry name="KlotHadal" value="클로트하달"/>
+	<entry name="KlotHadalProperties" value="<icon texture='GUI/Bullet'/>전설적인 아브클루스 기병대입니다."/>
+	<entry name="KlotHadalFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheGreatHunt2'/>"/>
+	<entry name="KriteriaAnnihilator" value="크리테리아 절멸자"/>
+	<entry name="KriteriaAnnihilatorProperties" value="<icon texture='GUI/Bullet'/>적을 처치하면 더 강력해지는 기계 호버 보병입니다."/>
+	<entry name="KryptArchai" value="크립트 아카이"/>
+	<entry name="KryptArchaiProperties" value="<icon texture='GUI/Bullet'/>수리하기 어렵지만 물질을 조작하여 아군을 보호하고 적을 무력화시키는 대형 호버 기계 영웅입니다."/>
+	<entry name="LandanGraham" value="랜단 그레이엄"/>
+	<entry name="LandanGrahamProperties" value="<icon texture='GUI/Bullet'/>타일을 정리할 수 있는 생체-기계 과학자입니다."/>
+	<entry name="LandanGrahamAugmented" value="랜단 그레이엄(강화형)"/>
+	<entry name="LandanGrahamAugmentedProperties" value="<icon texture='GUI/Bullet'/>인간과 아크린 기술로 제작한 엄청난 무기로 강화된 생체 기계 과학자입니다."/>
+	<entry name="LandanGrahamAugmentedFlavor" value="<string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/>"/>
+	<entry name="MalakimDestroyer" value="말라킴 파괴자"/>
+	<entry name="MalakimDestroyerProperties" value="<icon texture='GUI/Bullet'/>강력한 과열 무기를 장착한 생체-기계 호버 보병입니다."/>
+	<entry name="Militant" value="투쟁병"/>
+	<entry name="MilitantProperties" value="<icon texture='GUI/Bullet'/>근거리에서 더 많이 사격할 수 있는 기본 보병입니다."/>
+	<entry name="MissileTeam" value="미사일 화기반"/>
+	<entry name="MissileTeamProperties" value="<icon texture='GUI/Bullet'/>정확하게 공격하려면 제자리에 있어야 하는 생체-기계 대장갑 보병입니다."/>
+	<entry name="OminousLair" value="불길한 둥지"/>
+	<entry name="OphanimCarrier" value="오파님 모선"/>
+	<entry name="OphanimCarrierProperties" value="<icon texture='GUI/Bullet'/>수많은 드론을 배치할 수 있는 대형 기계 비행선입니다."/>
+	<entry name="Orin" value="오린"/>
+	<entry name="OrinFlavor" value="<string name='Quests/ThePulledThread/CaptureScientistSuccess2'/>"/>
+	<entry name="OrinProperties" value="<icon texture='GUI/Bullet'/>불경한 과학자입니다."/>
+	<entry name="Outrider" value="아웃라이더"/>
+	<entry name="OutriderProperties" value="<icon texture='GUI/Bullet'/>가벼운 무장과 뛰어난 정찰 능력을 갖춘 대형 기계 수송 차량입니다."/>
+	<entry name="PhenarisEpicurean" value="페나리스 에피쿠레아"/>
+	<entry name="PhenarisEpicureanProperties" value="<icon texture='GUI/Bullet'/>일시적으로 체력을 올리고 적을 근접 공격할 때 아군을 치유하는 근접 생체 보병입니다."/>
+	<entry name="PhenarisHunter" value="페나리스 사냥꾼"/>
+	<entry name="PhenarisHunterProperties" value="<icon texture='GUI/Bullet'/>은밀하게 움직이며 악몽 같은 환영을 만들고 낫으로 적의 위치를 드러내는 근접 생체 보병입니다."/>
+	<entry name="PhoenixInterceptor" value="피닉스 요격기"/>
+	<entry name="PhoenixInterceptorProperties" value="<icon texture='GUI/Bullet'/>엄청난 속도로 움직이고 다른 비행 유닛을 상대할 때 위력을 발휘하는 대형 기계 비행체입니다."/>
+	<entry name="PlangentOrolos" value="구슬픈 오롤로스"/>
+	<entry name="PlangentOrolosProperties" value="<icon texture='GUI/Bullet'/>소리를 조작해 적에게 피해를 주고 이동을 막는 대형 생체 생물입니다."/>
+	<entry name="Praetorian" value="프레토리안"/>
+	<entry name="PraetorianProperties" value="<icon texture='GUI/Bullet'/>반물질 장비와 점프팩을 휴대하며 근접전에서 적에게 충격을 주고 파괴하는 생체 보병입니다."/>
+	<entry name="RadioTelescope" value="전파 망원경"/>
+	<entry name="RadioTelescopeFlavor" value="<string name='Quests/MessageToTheStars/Contact/FindYourWay2'/>"/>
+	<entry name="ReamingCrodeus" value="리밍 크로데우스"/>
+	<entry name="ReamingCrodeusProperties" value="<icon texture='GUI/Bullet'/>적을 방해하고 삼켜 뱃속에서 소화시키는 생체 비행 타이탄입니다."/>
+	<entry name="Reaver" value="약탈단"/>
+	<entry name="ReaverProperties" value="<icon texture='GUI/Bullet'/>무장이 빈약하지만 포위되면 광란 상태에 빠지는 생체 보병입니다."/>
+	<entry name="ReaverCamp" value="약탈단 야영지"/>
+	<entry name="ReaverCampFlavor" value="<string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/>"/>
+	<entry name="ReaverCampProperties" value="<icon texture='GUI/Bullet'/>대형 기계 요새입니다."/>
+	<entry name="RepairDrone" value="수리 멜리사이"/>
+	<entry name="RepairDroneProperties" value="<icon texture='GUI/Bullet'/>아군 기계를 수리하는 호버 기계 보병입니다."/>
+	<entry name="ResourceTransport" value="자원 수송"/>
+	<entry name="Scrambler" value="스크램블러"/>
+	<entry name="ScramblerProperties" value="<icon texture='GUI/Bullet'/>전투 안팎에서 뛰어난 기동력을 발휘하는 생체 기계 바이커입니다."/>
+	<entry name="Sentry" value="파수기"/>
+	<entry name="SentryProperties" value="<icon texture='GUI/Bullet'/>특정 구역을 지키도록 설계된 기계 로봇입니다."/>
+	<entry name="SeraphimArchangel" value="세라핌 대천사"/>
+	<entry name="SeraphimArchangelProperties" value="<icon texture='GUI/Bullet'/>특이점 칼날로 적을 초토화시키는 호버 기계 타이탄입니다."/>
+	<entry name="Sharpshooter" value="저격수"/>
+	<entry name="SharpshooterProperties" value="<icon texture='GUI/Bullet'/>대보병 저격 소총과 은신 및 정찰 능력을 갖춘 생체 보병입니다."/>
+	<entry name="ShochitrisLair" value="쇼키트리스 둥지"/>
+	<entry name="ShochitrisLairProperties" value="<icon texture='GUI/Bullet'/>기형을 낳는 대형 생체 요새입니다."/>
+	<entry name="Splenetics" value="스플레네틱스"/>
+	<entry name="SpleneticsProperties" value="<string name='Units/MilitantProperties'/>"/>
+	<entry name="SurthodaisEmbrace" value="수르쏘다이의 포옹"/>
+	<entry name="SurthodaisEmbraceProperties" value="<icon texture='GUI/Bullet'/>지형을 횡단하고 유닛을 보호하는 데 특화된 대형 생체 수송 유닛입니다."/>
+	<entry name="TH3Corsair" value="TH-3 콜세어"/>
+	<entry name="TH3CorsairProperties" value="<icon texture='GUI/Bullet'/>회피 기동에 능숙한 대형 기계 수송 비행체입니다."/>
+	<entry name="TesseraCore" value="테세라 핵"/>
+	<entry name="TesseraCoreProperties" value="<icon texture='GUI/Bullet'/>중력을 조작하며 한 턴에 여러 번 행동하도록 설계된 대형 호버 기계 요새입니다."/>
+	<entry name="Test" value="테스트"/>
+	<entry name="TheFalseSpeaker" value="거짓된 연설가"/>
+	<entry name="TheFalseSpeakerFlavor" value="<string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/>"/>
+	<entry name="TheFalseSpeakerProperties" value="<icon texture='GUI/Bullet'/>오염된 크립트 아카이입니다."/>
+	<entry name="TheJackal" value="자칼"/>
+	<entry name="TheTerror" value="테러"/>
+	<entry name="TwistedChildCyber" value="실패한 실험체(사이버)"/>
+	<entry name="TwistedChildCyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment32'/>"/>
+	<entry name="TwistedChildVoice" value="실패한 실험체(목소리)"/>
+	<entry name="TwistedChildVoiceFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment12'/>"/>
+	<entry name="Valkyrie" value="발큐리아"/>
+	<entry name="ValkyrieProperties" value="<icon texture='GUI/Bullet'/>적의 죽음을 즐기는 대형 기계 비행 영웅입니다."/>
+	<entry name="VanquisherSiegeTank" value="뱅퀴셔 공성 전차"/>
+	<entry name="VanquisherSiegeTankProperties" value="<icon texture='GUI/Bullet'/>곡사포와 우수한 장갑, 많은 업그레이드를 가진 대형 기계 차량입니다."/>
+	<entry name="VorodaisLeviathan" value="보로다이의 리바이어던"/>
+	<entry name="VorodaisLeviathanProperties" value="<icon texture='GUI/Bullet'/>대규모의 적을 소탕하고 그들의 정수를 흡수하는 데 뛰어난 생체 타이탄 수송기입니다."/>
+	<entry name="VulkanR5" value="벌칸 R-5"/>
+	<entry name="VulkanR5Properties" value="<icon texture='GUI/Bullet'/>적을 강타하고 소각하는 대형 기계 로봇입니다."/>
+	<entry name="Warden" value="간수"/>
+	<entry name="WardenProperties" value="<icon texture='GUI/Bullet'/>기계 유닛의 체력을 빼앗고 피해자를 산 채로 불태우는 대형 기계 로봇입니다."/>
+	<entry name="WardenAugmented" value="간수(강화형)"/>
+	<entry name="WardenAugmentedFlavor" value="<string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/>"/>
+	<entry name="WardenAugmentedProperties" value="<icon texture='GUI/Bullet'/>극도로 진보한 간수입니다."/>
+	<entry name="Wastelander" value="황무지 개척자"/>
+	<entry name="WastelanderProperties" value="<icon texture='GUI/Bullet'/>중무장했으며 주변 아군을 강화하는 대형 기계 수송기입니다."/>
+	<entry name="WhispererOfGoldrauch" value="골드라우흐의 속삭이는 자"/>
+	<entry name="WhispererOfGoldrauchProperties" value="<icon texture='GUI/Bullet'/>원거리에서 아군을 치유하고 소환하며 적을 드러내고 피해를 입히는 생체 호버 영웅입니다."/>
+	<entry name="ZandraKyne" value="잔드라 킨"/>
+	<entry name="ZandraKyneProperties" value="<icon texture='GUI/Bullet'/>시간을 조작하는 다소 미친 천재 과학자입니다."/>
+	<entry name="ZandraKyneFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheSpaceEngine2'/>"/>
+	<entry name="ZephonBlackSite" value="제폰 비밀 시설"/>
+	<entry name="ZephonBlackSiteFlavor" value="<string name='Quests/BlackSite/Intro2'/>"/>
+	<entry name="ZephonBlackSiteProperties" value="<icon texture='GUI/Bullet'/>대형 기계 요새입니다."/>
+	<entry name="ZephonTitan" value="제폰 타이탄"/>
+	<entry name="ZephonTitanProperties" value="<icon texture='GUI/Bullet'/>간수를 제작하고, 기계 유닛을 돕고, 넓은 범위에 파괴와 죽음의 비를 내리는 기계 타이탄입니다."/>
+	
+	<!-- Flavor. -->
+	<entry name="AbkhanFlavor" value="이 괴물에 날개가 있었다면 우린 이걸 용이라고 불렀을 것이다. 이 괴물은 거친 환경에 숨어 탐욕스럽게 귀중한 자원을 축적했다. 용의 숨결도 가지고 있었지만, 불 대신 얼음으로 희생자를 태웠을 뿐이다. 이 괴물을 죽이면 며칠 후 다시 살아난다는 소문이 있었기 때문에 사람들은 그 괴물의 은신처 근처에는 머물지 않았다."/>
+	<entry name="AbkluthDragoonFlavor" value="아크린은 지구로 추락할 때 같이 온 괴물 도마뱀 같은 생명체는 지구의 야생 동물을 갈기갈기 찢어놓았다. 아크린의 유순한 성격으로 보아 애완동물이나 식용으로 키우려던 것으로 추정되지만, 그렇다고 목소리 숭배자들이 전쟁에 도마뱀을 이용하는 걸 막지는 못했다."/>
+	<entry name="AbkluthFlavor" value="아크린의 생물은 애완동물인지 먹이인지는 전혀 구분이 되지 않았다. 하지만 그들은 추락 현장의 잔해에서 빠져나와 이곳에 터를 잡았다. 생물학적으로 너무 달라 그것들을 먹을 수는 없었지만 그것들을 사냥하지 않으면 음식으로 사용할 수 있는 다른 모든 생물을 죽이거나 갈기갈기 찢어버렸다."/>
+	<entry name="AcrinMilitiaFlavor" value="아크린 생존자들은 망가진 지구에서 살아남기 위해 목소리의 속삭임을 이용했다. 징병되어 전투에 투입되었을 때 그들 모두는 망가진 몸을 재생할 수 있었다. 그들은 적을 찢는 데도 능숙했다."/>
+	<entry name="AcrinTitanFlavor" value="눈을 감으면 타이탄의 팔다리, 살점, 몸통 중앙에 있는 입을 보지 않을 수 있었지만 빌어먹을 악취는 어쩔 수 없었다. 미친 소리 같지만 그건 뼈가 부러지는 냄새 같았다. 다리가 뒤틀리고, 발이 뒤로 돌아가고, 팔이 돌에 깔리는 것 같은 느낌이었다. 고통이나 피 냄새가 아니라 자신의 몸을 바라보며 얼마나 잘못되었는지 확인하는 느낌이었다."/>
+	<entry name="AcrinZealotFlavor" value="불쌍한 녀석들. 어떤 병사들이 광신도가 혈사초 촉수가 있는 곳으로 걸어가 다른 촉수로 이동한다는 사실을 알아냈다. 그러자 몇몇 멍청한 병사들은 모든 혈사초 군집 밖에서 진을 치고 기다리기 시작했다. 마치 아크린이 화망 안으로 그냥 걸어들어오기라도 할 것처럼. 세상에, 이런 바보들을 어디서 데려온 거지?"/>
+	<entry name="AegyllanWormFlavor" value="목소리를 들었다고 모두가 똑같이 변하지는 않았다. 어떤 이들은 어둡고 조용한 곳을 찾다가 변한 모습으로 돌아와 지구의 검은 심연을 파헤치기도 했다. 돌과 흙을 헤치고 나온 친구의 얼굴을 보는 건 정말 힘든 일이었다."/>
+	<entry name="AkavishProvostFlavor" value="첫 번째 프로보스트는 불량품이었다고 추측된다. 그 첨단 지능 핵은 오작동을 일으켜 자신을 전장으로 옮길 요람을 요구했으며 “바빌론의 멸망이 가까웠다”고 외쳤다. 하지만 난 프로보스트가 오작동했다고 생각하지 않는다. 제작자가 넣지 않은 무언가가 코드 속에 숨어 있었다고 생각했다. 기계들은 목소리 추종자들처럼 종말이 어떤 모습인지 보고 싶어 했다."/>
+	<entry name="AmoetiasDevourerFlavor" value="부패하는 육체에 속지 마라. 포식자는 어떻게든 가까이 접근하여 사지를 뜯어먹을 것이다. 왼쪽 머리가 당신의 얼굴을 박살 내고 오른쪽 머리가 심장을 찢는 것으로 시작하여, 당신이 쓰러지면 그 몸을 역겨운 아가리 쪽으로 끌어당긴다..."/>
+	<entry name="AraneanStalkerFlavor" value="최고의 저격수는 적이 예상하지 못하는 위치에서 공격한다. 아라니아 스토커는 항상 절벽, 틈새, 폐허가 된 건물의 골격을 스캔하라고 가르쳤다. 저격수의 빛나는 눈을 발견하면 순식간에 총을 쏴야 했다. 가끔은 저격을 받고도 살아남았다. 놈들은 가끔 우릴 가지고 장난을 쳤다."/>
+	<entry name="AssaultTrooperFlavor" value="세상이 다시 돌아가기 시작하자 더 이상 민병대에 의존할 필요가 없었다. 진짜 피와 내장을 가진 병사들을 훈련시키고 그들의 특수한 기능에 맞는 장비를 개발할 수 있었다. 이 병사들은 더 나은 훈련을 받았고 초우라늄 도금과 놀이터에서 아이들이 가우스 소총이라고 부르는 코일건을 장착한 최초의 병사들이었다."/>
+	<entry name="AtlasTankFlavor" value="전차는 도시 블록과 같다. 인류가 몰락하기 전에는 이런 걸 만든 적이 없었다. 그 설계는 아카이브에 묻혀 있던 군사 서버에서 발견되었다. 그 정도 크기의 전차에는 원하는 모든 무기를 장착할 수 있었다. 그리고 전장에서 주포를 발사하면 천둥과 같은 오케스트라처럼 들렸고 전차의 각 부분은 땅이 갈라질 듯한 격렬한 소리를 내뿜었다."/>
+	<entry name="BunkerFlavor" value="때로는 우리가 적에게 싸움을 걸고 때로는 적이 우리에게 왔다. 우린 대부분 지하 벙커에 숨어 살아남았지만 이 방어용 벙커는 달랐다. 전차보다 저렴하고 건설하기 쉬웠지만 눈에 띄는 표적이었다."/>
+	<entry name="BusterFlavor" value="약탈단은 군비 경쟁에서 뒤처지기를 거부했다. 우리가 더 강력한 갑옷을 만들자 그들은 이를 극복하기 위해 더 강력한 무기를 찾아 헤맸다. 일부 약탈단은 불을 유난히 좋아했다. 그들은 뜨거운 바람처럼 아군의 측면을 공격하며 소이탄을 던져 우리 군대를 뼈까지 녹여버렸다. 그들은 우리가 그들 모두를 학살할 때까지 자신들이 위협이라는 걸 각인시키기 원했다."/>
+	<entry name="CassielShredderFlavor" value="분쇄기 무리가 어둠의 바사엘의 살점을 뜯어내는 모습을 보고 나니 기계의 편에 서는 것이 더 합당해 보였다. 회전 톱이 뼈에서 고기 덩어리를 뜯어냈고 바사엘은 내장을 바닥에 쏟아내며 죽었다... 냄새가 거슬리지 않을 정도로 아름다운 광경이었다."/>
+	<entry name="ChayotExterminatorFlavor" value="난 이것들이 말하는 방식이 싫었다. 어깨 위에 거대한 벌레가 떠 있는 것도 싫었는데 그 벌레의 말을 듣는 건 더 끔찍했다. 그건 마치 문장의 앞 단어만 알고 말하는 어린아이 같았다. 적어도 드론은 조용했다. 드론들이 말을 하기 시작했다면... 글쎄, 내가 무슨 짓을 했을지 생각하고 싶지 않군."/>
+	<entry name="CherubimTitanFlavor" value="그것들은 살아있는 뇌우와 같았다. 그들의 방패는 여과된 이온 냄새를 풍겼다. 그들의 대포 소리는 눈사태를 일으킬 수 있었다. 이런 거대한 괴물이 전장에 등장하면 옛 신들이 어떻게 싸웠을지 상상할 수 있었다."/>
+	<entry name="CombatDroneFlavor" value="전투 드론을 심리전에 사용할 수 있다는 사실을 알고 있었나? 난 이걸 몸소 배웠다. 드론 수십 대를 날려버리면 자만심이 생긴다. 그건 기계 무리를 찢어발기는 느낌이었다. 그러다 탄환이 소진되어 소총에서 딸깍거리는 소리가 들리면 드론이 후퇴했다. 그때부터 공포가 시작되었다."/>
+	<entry name="CombatMedicFlavor" value="기술자와 마찬가지로 의무병들도 생물학자, 의사, 간호사, 수의사, 화학자 등 다양한 직업을 가지고 있었다. 이들은 전장에서 부상자에게 다가가 부상 정도를 분류할 수 있도록 무거운 방패를 들고 다녔다. 나중에는 드론과 임플란트의 도움을 받았지만 전쟁 초기에 이들은 용감한 영웅 중의 영웅이었다."/>
+	<entry name="CommanderFlavor" value="우린 최고의 인재가 지휘관이 되길 바랐다. 그들은 전선 뒤에 숨지 않고 최전선에서 위험을 무릅쓰고 난민들과 대화하며 공포스러운 존재들과 싸웠다. 이들에게 지급된 외골격은 이들의 전투 능력을 향상시켰을 뿐만 아니라 사기를 높이는 데도 큰 도움이 되었다."/>
+	<entry name="CrlaDiscipleFlavor" value="빌어먹게 많은 사람들이 크를라의 사도 발 앞에 쓰러졌다. 그 괴물들은 목소리의 힘을 약속하며 절망에 빠진 생존자들을 유인하기 위해 멀리까지 돌아다녔다. 그들이 포섭한 불쌍한 영혼들은 모두 저주를 받았다. 그들은 어둠의 아버지의 사랑을 갈망하는 지옥의 자식들이었다."/>
+	<entry name="CrusaderBattleTankFlavor" value="괴물과 싸우기 위해 태어난 최고의 주력 전차. 우리가 이 전차를 다시 만들었을 때 인류는 건재했기 때문에 아웃라이더 제작에 필요한 허접한 도구보다 더 많은 도구가 필요했다. 하지만 여전히 AI가 아니라 소련의 망치로 수리하는 기술이 사용되었다. 포신 첨단부터 덜컹거리는 트레드까지 전부 기계식 모션 가이드로 작동했다."/>
+	<entry name="CycloneFlavor" value="적들이 곧 상공에서 우릴 공격할 거라는 사실을 깨달았을 때 우린 두려움에 떨었다. 기존 대공 방어 시스템으로는 적의 공격을 막을 수 없었다. 그래서 우리 기술자들은 기록을 파헤쳐 이동형 플랫폼에 최적화된 대공 표적 식별기를 개발했다. 하지만 그걸 작동시키는 건 까다로웠다."/>
+	<entry name="DarkVassaelFlavor" value="목소리를 듣는 모든 사람이 그걸 이해할 수 있는 건 아니다. 모두가 가장자리에서 돌아오는 건 아니다. 다른 것과 함께 돌아오는 사람도 있었다. 몸과 마음이 뒤섞인 채로 돌아오는 게 더 나을까? 아니면 아예 돌아오지 않는 게 더 나을까? 그 안에 있는 건 어떤 느낌일까?"/>
+	<entry name="DeformityFlavor" value="모든 생물은 숨을 쉬는 순간 죽기 시작한다. 기형은 매 순간 그 감각을 느낀다. 이들은 적의 시체를 통해 후손을 남기기 위해 사육된다. 살육을 멈추면 이 생물의 한 세대 전체가 사라지게 된다."/>
+	<entry name="DevoteeOfThrokosFlavor" value="가끔 정찰을 나가면 목소리 숭배자들이 신을 만나기 위해 본인의 몸을 훼손하는 모습을 볼 수 있었다. 나는 트로코스 괴짜들이 돌연변이 곤충 알로 가득 찬 접시를 삼키는 모습을 쌍안경으로 지켜봤다. 더럽고 지저분했다. 그 모습은 의식을 빙자한 자살처럼 보였다... 벌레들이 몸에서 다시 튀어나오는 모습을 보기 전까지는 말이다. 자살이 아니다. 환생이다. 가장 하등한 생명체, 벌레로 말이다."/>
+	<entry name="DreameaterFlavor" value="우린 이걸 꿈 포식자라고 불렀지만 그것들은 실제로 우리의 영혼을 먹어 치웠다. 그것들은 인간의 뇌에서 화학 물질과 의식 사이의 미세한 경계선을 정확히 알고 있었다. 사람이 그것에 가까이 다가가면 그것이 그 사람을 붙잡고, 두개골을 뜯어내고, 그 선을 찾아서 사람을 진정으로 살아있게 만드는 모든 걸 마셔버린다."/>
+	<entry name="ElectOfUzhodaiFlavor" value="이 크고 잔인한 짐승은 날 겁에 질리게 했다. 전차만한 크기. 끝에 칼날이 달린 팔. 본부에서 쉬고 있을 때 그것들은 뭘 했나? 가만히 앉아서 발밑에 앉아 있는 목소리 숭배자들에게 지금은 쓰지 않는 언어로 차원 이동에 관한 깊은 철학에 대해 말했다."/>
+	<entry name="ElohimMaelstromFlavor" value="수십 년을 버텨야 할 요새가 이 기계의 부름에 모래성처럼 무너졌다. 기계가 탄환을 발사할 때마다 등뼈가 위아래로 아치형으로 휘어졌다. 병사들은 기계의 등뼈가 아치처럼 구부러질 때에 맞춰 엄폐했지만 그래봐야 성벽이 무너질 때까지 조금 더 버틸 수 있었을 뿐이다."/>
+	<entry name="EMPDroneFlavor" value="전투 드론은 주의를 분산시킬 수 있지만 EMP 드론을 우선 파괴해야 한다. 이 떠다니는 쓰레기통이 모든 전자기기를 파괴해도 조종자를 죽일 수는 없었다. 그들은 다른 기계가 널 더 죽이기 쉽도록 자폭할 것이다."/>
+	<entry name="EngineerFlavor" value="일부는 정식 훈련을 받았지만, 대부분은 그렇지 않았다. 과학자, 건설 노동자, 기술자. 우리가 기술자라고 부르는 녀석들이 다른 이들과 구별되는 점은, 그들이 어떤 일을 하든 해낼 수 있는 기술을 가지고 있다는 것이었다. 그렇지 않은 자들은...? 글쎄, 더 이상 우리 주변에는 없었지."/>
+	<entry name="ErelimAssassinFlavor" value="우린 전쟁을 수행하기 위해 더 미묘한 도구가 필요하다는 걸 깨달았다. 이 새로운 세상에서는 총알을 칼로 바꾸는 것만으로는 충분하지 않았고 빛 자체를 구부릴 수 있는 암살자가 필요했다. 난 이 여성들이 스스로를 여전히 인간이라고 생각하는지 궁금하다. 그들은 인간의 가죽을 뒤집어쓴 칼날 집합체인가?"/>
+	<entry name="ExousiaMarauderFlavor" value="아크린이 지구에 오기 전에 TV에서 이 거대한 호버크래프트가 석유 굴착 장치나 고장 난 유조선을 신속하게 운반하고 구조하는 데 사용되는 것을 본 것 같았다. 하지만 그것들은 지금 바다에서 멀리 떨어져 있다. 당시에는 미사일 포대도 없었던 것 같다..."/>
+	<entry name="FallenOrolosFlavor" value="혀. 이빨. 사람들 위로 전염병을 옮기는 지옥 불을 뿜으며 먹잇감을 찾는 한쪽 눈... 난 어떤 추종자가 이런 괴물이 되는지 물었지만 아무도 몰랐다. 그건 암 종양에서 자랐다. 그 질병은 느리고 값비싼 과정을 통해 원하는 모든 살을 얻었고 강력한 수단을 통해 땅 전체에 퍼졌다."/>
+	<entry name="HadesBomberFlavor" value="하데스 폭격기는 단 한 번만 이륙했다. 지축을 울릴 정도로 엄청난 폭탄을 장착하고 이착륙을 반복하려면 큰 비용이 들었다. 유지 보수와 승무원 교대는 공중에서 이루어져야 했다. 폭격기는 화염을 내뿜으며 지상으로 추락해 엄청난 폭발을 일으켰고 큰 분화구를 남겼다. 분화구 표면은 유리처럼 매끄러웠다."/>
+	<entry name="HammerheadFlavor" value="해머헤드는 신뢰성이 부족했지만 강력한 도구였다. 일단 전투에 돌입하면 목표물을 골라 반복적으로 들이받았는데, 매번 더 강력한 일격을 가했다. 기묘하게도 평시에는 로봇 정원사처럼 '목소리가 만드는 혈사초'를 제거하는 데 특화된 기계였다."/>
+	<entry name="HashmallimHostFlavor" value="하쉬말림 모체는 다수의 지원 유닛과 함께 투입되었다. 모함이 너무 많은 피해를 입으면 회로가 그래비톤 프로젝터의 힘에 노출될 수 있었다. 우린 자세하게는 몰랐지만 중력을 잘못 건드리면 시간이 엉망이 되고 시간 왜곡은 AI에 지옥을 가져온다는 교훈을 배웠다."/>
+	<entry name="HeadquartersFlavor" value="도심을 방어하는 데는 특별한 종류의 근성이 필요했다. 도심에 주둔하는 동안 전투가 발생하면 도망칠 곳은 없었다. 도시 수비대는 고집스럽고 멍청한 사람들, 즉 패배를 인정하느니 죽음을 택하는 사람들을 위한 직업이었다."/>
+	<entry name="IokSwarmFlavor" value="처음에는 그것들이 박쥐인 줄 알았다. 하지만 낮에 박쥐가 날아다니니 이상하다고 생각했다. 그러다 똥이 내 갑옷에 떨어지자 어깨 전체가 지옥처럼 불타기 시작했다. 그리고 비명이 귓가를 때리자 난 방아쇠를 당길 시간이란 걸 알았다."/>
+	<entry name="IshimEnforcerFlavor" value="병사의 망가진 몸은 더 나은 무기를 위한 토대가 되었다. 마비됐다고? 그러면 척추를 교체했다. 팔다리가 날아갔다고? 더 나은 걸 달아주었다. 곧 교체 부품을 표준화하여 병사들에게 필요 여부와 상관없이 부품을 장착하기 시작했다."/>
+	<entry name="IthurielHarbingerFlavor" value="“이건 게임이 아니야!” 나는 기계에 대고 소리를 질렀다. 선견자는 나를 그 거대한 발 밑에 가두었다. 나는 며칠 동안 사냥을 했지만 내가 사냥당하고 있다는 사실은 깨닫지 못했다. 그 녀석은 나를 덫으로 유인한 후, 대포를 얼굴에 겨눈 채 나를 짓밟았다. 플라즈마 대포가 점점 더 밝게 빛나면서 그 기계는 나지막이 말했다. “승리 조건 성립. 목표 처단까지 3, 2, 1....”"/>
+	<entry name="KriteriaAnnihilatorFlavor" value="절멸자를 조종하는 AI 분파는 우리가 만난 유일한 피에 굶주린 기계였다. 적을 죽인 기계는 다음 적을 찾아 죽이기만을 원했다. 기계는 이 과정을 무한히 반복했다."/>
+	<entry name="KryptArchaiFlavor" value="크립트 아카이의 가장 기분 나쁜 점은 무엇일까? 그건 놈들의 등에 달린 큐브에는 동력원이 없다는 점이다. 그 모든 에너지는 어디에서 나오는 걸까? 대기에서? 우주에서? 어쩌면 놈들은 다른 차원에 접근해 그 세계의 혼돈을 끌어와 우리 세계를 죽이는 걸지도 모른다."/>
+	<entry name="LandanGrahamFlavor" value="랜단 그레이엄. 그는 시계공들이 모두 같은 목표를 가지고 있는 건 아니라는 산 증거였다. 그는 이야기에서 힘을 얻으려는 과학자였지만 그들 사이에서 흔한 괴짜 바보는 절대로 아니었다. 랜단과 마주칠 때마다 난 그가 아크린에 대해 자신이 말하는 것보다 더 많은 것을 알고 있다는 확신이 들었다. 어쩌면 그는 아크린의 세계에서 태어났을지도 모른다..."/>
+	<entry name="MalakimDestroyerFlavor" value="기계와 공존하기 시작하자 우린 기계처럼 생각하기 시작했다. 내게 죽은 사람은 죽은 사람이었다. 하지만 우리 기술진은 그것이 값싼 유기적 처리 능력을 낭비하는 일이라고 판단했다. 불필요한 감정 중추를 잘라내고, 기동성을 증폭하고, 큰 총을 연결하면 구시대 전사의 밤잠을 설치게 할 괴물이 탄생했다."/>
+	<entry name="MilitantFlavor" value="살아남은 모든 사람이 싸웠다. 우리 모두는 군인이 될 수 있었다. 하지만 우리가 스스로를 '민병대'라고 부른 건 정치적 또는 사회적 목표를 위해 싸웠다는 걸 반영하고 싶었기 때문이었다. 우리의 대의는 어떤 대가를 치르더라도 인류의 생존을 보장하는 것이었다."/>
+	<entry name="MissileTeamFlavor" value="많은 민병대가 전장에서 멀리 떨어진 곳에서 대전차 봇을 조종하고 싶어 했지만, 미사일 운영자와 최전방 병사들 사이에 반목이 빠르게 심해졌다. 해결책? 미사일 팀 조종사들이 드론을 넘어트리거나 적을 빗맞힐 때마다 식량 보급을 줄였다. 서로를 미워하는 것보다는 우리를 미워하도록 하는 게 더 나았다."/>
+	<entry name="OphanimCarrierFlavor" value="AI는 이 모함을 원거리 살상에 특화시켰지만 다른 전술적 목적을 달성하기 위해 드론을 장착했다. 한밤중에 모함을 발견했다면 차체 주변을 맴도는 드론이 눈처럼 보였을 거다."/>
+	<entry name="OutriderFlavor" value="예전에 군대에서 아웃라이더를 고속 수송 차량으로 사용했지만 지금은 민병대가 운전한다. 아웃라이더는 인류의 새로운 적과 정면으로 맞서도록 설계되지 않았지만 그건 대포, 핵무기, 항공모함 등 다른 모든 무기도 마찬가지였다. 적어도 아웃라이더를 타면 도망칠 기회가 있었기 때문에 많은 수가 살아남았다."/>
+	<entry name="PhenarisEpicureanFlavor" value="페나리스 에피쿠레아로 변신한 숭배자들은 인간의 지능을 유지했다. 아니, 꼭 그렇지는 않군. 그들은 더 똑똑해졌다. 그들은 기지로 끌려온 포로들의 내장을 뜯어내면서 철학적 토론을 나누곤 했다. 만약 목소리 숭배자들이 전쟁에서 승리한다면... 이게 인류의 미래가 될지도 모른다."/>
+	<entry name="PhenarisHunterFlavor" value="뱀이 몸을 좌우로 흔드는 건 끔찍한 광경이었고 사람의 두개골이 달린 뱀의 척추가 어둠 속에서 튀어나와 보초를 서고 있는 병사를 물어뜯는 건 더 끔찍한 광경이었다. 그들은 목표물을 골랐다. 그들은 우릴 타격하고 어둠 속으로 사라졌다. 그것들은 괴물처럼 보였지만 전쟁 전의 청부 살인업자처럼 싸웠다."/>
+	<entry name="PhoenixInterceptorFlavor" value="최고의 전투기 조종사는 여전히 자기 잘난 맛에 사는 녀석들과 멍청한 녀석들이었다. 이 요격기를 타고 하늘로 올라가면 다른 에이스 조종사와 춤을 추거나 괴물의 아가리로 돌진하는 치킨 게임을 할 준비가 되어 있어야 했다. 잘 무장한 요격기는 이런 두 상황에 잘 대처할 수 있었다."/>
+	<entry name="PlangentOrolosFlavor" value="타락한 오롤로스를 형성하는 암세포는 음파로 모양을 다듬을 수 있었다. 그 과정을 거쳐 태어난 생명체들은 그 누구도 들을 수 없는 목소리의 속삭임을 들을 수 있었다. 그 속삭임은 세상을 바꾼 신의 지옥 같은 설교가 폭발할 때마다 그들이 파괴적인 무기로 변한다고 했다."/>
+	<entry name="PraetorianFlavor" value="프레토리안 갑옷을 입은 병사들은 자기 몸집의 세 배에 달하는 생물의 혈관을 끊을 준비가 되어 있었다. 아니면 세상을 찢어버릴 수 있는 기계의 배선을 뜯어낼 수도 있었다. 우린 이들에게 자신들이 신이 아니라 살인 훈련을 받은 병사일 뿐임을 상기시켜야 했다."/>
+	<entry name="ReaverFlavor" value="절망이 일부 사람들을 끔찍한 결말로 몰아갔다. 인류의 최후였을지 모르는 순간 그들은 황무지에서 살아남을 확률을 높이기 위해 자신의 목숨을 버렸다. 그들의 몸은 지상을 걸었지만 몸 안에 있던 사람들은 날이 갈수록 그 존재가 희미해졌다."/>
+	<entry name="ReamingCrodeusFlavor" value="이것들이 전장에 도착하자 내가 방문한 모든 마을이... 조금 더 조용해졌다. 다들 크로데우스가 그들을 통째로 삼킬까 봐 집 밖으로 나오지 않았다. 그들은 산 위에 사는 용을 두려워하는 중세 농부와 같았다..."/>
+	<entry name="RepairDroneFlavor" value="이 드론을 무시하지 마라. 드론이 현장에서 수리되는 모습을 보면 사람도 기계처럼 쉽게 고칠 수 있었으면 좋겠다는 생각이 들었다. 우린 팔을 치료하는 일이 끊어진 회로를 다시 연결하는 것만큼 쉽다면 어떨지에 대해 농담하기도 했다. 우리 중 일부는... 그걸 단순한 농담으로 받아들이지 않았다."/>
+	<entry name="ScramblerFlavor" value="스크램블러 한 대가 굉음을 내며 지나가는 모습을 보면 죽고 싶어서 안달 난 바보, 대기 중인 장기 기증자처럼 보인다. 하지만 두 대, 세 대, 네 대, 다섯 대가 지나가면... 그 광경은 뭔가 다르게 보인다. 죽고 싶은 것이 아니다. 그들은 두 개의 바퀴와 500마력을 가진 말을 타고 함께 자유를 찾았다."/>
+	<entry name="SentryFlavor" value="제폰은 우리에게 아무런 관심이 없었다. 그것들은 그 사실을 우리에게 직접 말할 수도 있었다. 대신 뭔가를 지키는 것처럼 보이는 센트리를 배치했다. 우리는 그들이 원한을 품을 수 있다는 걸 금방 깨달았다. 개미가 반격하지 못한다고 개미를 밟아 죽이는 걸 좋아하는 사람에게 이 개미들은 정말 골치 아픈 존재였다. 그것들은 군화를 벗기 전에 군화와 함께 발가락 몇 개를 씹어먹으려는 개미와 같았다."/>
+	<entry name="SeraphimArchangelFlavor" value="이 거대한 기계를 구동하는 병렬 프로세스가 한목소리를 냈다. 그건 말이 아니라 동맥을 진동시키는 음률이었다. 어쩌면 이 기계가 전하는 메시지를 들을 수 있는 생물이 있었을지도 모른다. 그렇지 못한 생물들은 전멸에 직면했다."/>
+	<entry name="SharpshooterFlavor" value="저격수와 정찰병이 팀으로 일하는 소리를 들어본 적이 있나? 어느 순간이 오기 전까지는... 정말 냉담하지. “3구역 델타로 가라.” “교전 시작.” “육즙이 흐르는 고기 더미의 온도가 5도 떨어졌다.” “교전 시작.” “유리로 이동하라.” “목표는 사지가 4개이고 팔이 입 밖으로 나와 있다. 확인했나?” “그건... 이런, 씨발... 그래, 저게 목표로군. 확인했다.”"/>
+	<entry name="ShochitrisLairFlavor" value="쇼키트리스와의 만남은 절대 잊을 수 없다. 그들의 아랫배는 죽음의 구덩이였다. 피부는 고름으로 가득 찬 물집으로 뒤덮여 있었고 그 속에서 기어 나오는 기형은 악몽과 같았다. 제대로 미친 자들은 그들의 촉수를 껴안았을 때 느껴지는 매끈하고 촉촉한 감각을 좋아했다."/>
+	<entry name="SurthodaisEmbraceFlavor" value="이...괴물은 뼈와 팔다리, 손가락이 너무 많았고 소대 전체에 내려다볼 정도로 거대했다. 난 이 괴물이 또 다른 대량 학살용 괴물인 줄 알았지만 그건 화난 엄마처럼 행동했다. 이 괴물은 병사들을 품에 안아 옮기며 마치 병사들의 안녕을 걱정하는 것처럼 애무했다. 그건 인간을 조롱하는 행동이었다."/>
+	<entry name="TesseraCoreFlavor" value="하쉬말림 모체는 싫었지만 그것이 방어용 핵을 떨구면 뭔가 안심이 되었다. 그건 큰 물체였고 제자리를 지켰다. 그리고 반대편에 있는 걸 방어했다. 그것도 강력한 중력 무기로. 덜그럭거리는 다른 복잡한 기계와는 달리 간단하고 요점이 명확했다..."/>
+	<entry name="TH3CorsairFlavor" value="난 이게 어떻게 하늘을 나는지 전혀 몰랐다. 그건 녹은 플라스틱 덩어리처럼 보였고 화재로 쓸모 있는 부분이 다 타고 남은 클링커 조각처럼 보였다. 하지만 그 비행체가 날아와 소대원을 내려놓고 소용돌이치며 사라지는 모습을 보면 평가가 달라졌다. 그건 물에서 나온 물고기처럼 잘못된 곳에 있었을 뿐이었다고."/>
+	<entry name="ValkyrieFlavor" value="새로운 세상의 괴물과 맞설만한 인류 최초의 진짜 무기에는 대가가 따랐다. 우리에게는 엑소슈트가 필요했지만, 과학자들은 탑승자와 물리적으로 연결되어야만 작동하는 엑소슈트밖에는 만들 수 없었다. 아무도 자원하지 않으리라 생각했지만, 우리 그룹 중 몇몇 여성들이 자원했다. 그들은 적을 발할라로 데려갈 준비가 되어 있었다."/>
+	<entry name="VanquisherSiegeTankFlavor" value="병사들은 조종사들을 증오한다. 조종사들은 병사들을 증오한다. 그리고 병사들과 조종사들 모두 정복자 공성 전차 승무원 같은 포병들을 증오한다. 특권 의식에 절여진 그 개자식들은 전선에서 몇 마일 떨어진 후방에서 싸웠다. 거기서는 전장의 비명과 총성도 들리지 않았다. 그리고 누군가 그 자식들을 건드리면 “탄착점 계산 착오”라며 아군 참호를 쑥대밭으로 만들었다."/>
+	<entry name="VorodaisLeviathanFlavor" value="그들은 결코 리바이어던의 배에 매달린 우리를 청소하지 않았다. 부상당한 병사의 상처에서 흘러나온 피와 고름이 섞인 냄새가 났다. 난 그 냄새를 맡을 때마다 구역질을 했지만... 어떤 녀석들은 더 심하게 반응했다. 그 공포스러운 것들은 멀리에서 죽은 눈으로 그들을 바라보며 최후의 순간을 기다렸다."/>
+	<entry name="VulkanR5Flavor" value="우리가 지휘관에게 제공한 초기 외골격은 프로토타입에 불과했다. 기술자들이 나중에 만든 R-5는 적에게 접근할 때까지 살아남을 수 있도록 설계된 무시무시한 기계였다. 이 괴물에게 미사일을 잔뜩 퍼부었는데... 화염과 포연을 헤치고 멀쩡히 나타나 불과 총알을 뿜는 모습을 상상해 보라."/>
+	<entry name="WardenFlavor" value="원하는 모든 기계를 만들 수 있는 제폰이... 이걸 만들었다고? 전능한 AI가 왜 예비 부품을 이어 붙인 듯한 기계를 만들었을까? 우린 바보였다. 제폰은 무기를 만든 게 아니라 무기로 사용할 수 있고 자급자족할 수 있는 고철 더미를 만든 것이었다. 그 움직이는 금속은 죄악처럼 추악해지만 더 나은 살인 방법을 끊임없이 계산했다."/>
+	<entry name="WastelanderFlavor" value="약탈단의 모든 열혈 기수는 이 명마를 타고 6기통 디젤 엔진의 굉음을 내며 괴성을 지르고 싶었지만... 승무원으로 합류하는 것은 사형선고나 다름없는 일이었다. 매연에 질식할 수도 있고 스파이크에 깔리거나... 발이 미끄러져 바퀴 회전에 뼈가 으스러질 수도 있었다."/>
+	<entry name="WhispererOfGoldrauchFlavor" value="스스로 귀를 묶고 눈을 가리고... 피부에 끔찍한 짓을 한 어떤 여자에 대한 소문이 돌았다. 그녀는 아무것도 느끼고 싶지 않았다. 오직 목소리만 듣고 싶었다. 그녀는 아크린을 가장 잘 이해하는 인간이었다. 그녀는 자신의 몸을 그들의 고통으로 감싸고 새로운 목적을 새겼다. 그녀를 방해하지 않는 게 현명할 거다."/>
+	<entry name="ZephonTitanFlavor" value="파수기, 해머헤드, 간수. 제폰은 항상 인간이 만든 기계에 애착을 가졌다. 마치 인간이 만든 기계의 내부를 들여다보고 그 기계를 만든 괴물과 마주하듯이. 제폰의 타이탄은 한때 대양을 오가며 죽음을 선고하던 녹슨 전함의 심장을 빚어낸 깊은 분노의 기계였다."/>
+</language>

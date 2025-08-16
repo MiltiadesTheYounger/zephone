@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="BetaStart" value="Просим сообщать обо всех багах в каналах #zephon-beta и #zephon-beta-feedback на официальном сервере Proxy Studios в Discord.&lt;br/&gt;&lt;br/&gt;Не забывайте, что вы находитесь под NDA и можете использовать лишь эти каналы связи."/>
+	<entry name="BetaStartTitle" value="Добро пожаловать — бета"/>
+	<entry name="CallDeclined" value="Вызов отклонён"/>
+	<entry name="ConfirmDelete" value="Вы уверены, что хотите удалить «%1%»?"/>
+	<entry name="ConfirmDisband" value="Вы уверены, что хотите распустить «%1%»?"/>
+	<entry name="ConfirmDismantle" value="Вы уверены, что хотите снести «%1%»?"/>
+	<entry name="ConfirmOverwrite" value="Вы уверены, что хотите перезаписать «%1%»?"/>
+	<entry name="ConfirmRemoveItem" value="Вы уверены, что хотите уничтожить «%1%»?"/>
+	<entry name="ConfirmRestoreDefaults" value="Вы уверены, что хотите сбросить настройки (%1%) по умолчанию?"/>
+	<entry name="ConfirmSurrender" value="Вы уверены, что хотите сдаться?"/>
+	<entry name="ConnectingToServer" value="Соединение с сервером..."/>
+	<entry name="ConnectionLost" value="Соединение потеряно."/>
+	<entry name="DemoEndTitle" value="Благодарим за игру"/>
+	<entry name="DemoEndDefault" value="Это конец демоверсии.&lt;string name='Messages/DemoEndShared'/&gt;"/>
+	<entry name="DemoEndLost" value="Вы потерпели поражение. Попробуете ещё разок?&lt;string name='Messages/DemoEndShared'/&gt;"/>
+	<entry name="DemoEndShared" value="&lt;br/&gt;&lt;br/&gt;Если игра вам понравилась, пожалуйста, добавьте ZEPHON в список желаемого и подпишитесь на игру в Steam.&lt;br/&gt;&lt;br/&gt;Мы можете оставить свой отзыв на форумах Steam или сервере Proxy Studios в Discord."/>
+	<entry name="DemoStart" value="Это взгляд на раннюю и недоработанную альфа-версию игры. Вы можете столкнуться с багами, проблемным балансом и отсутствующими графическими элементами.&lt;br/&gt;&lt;br/&gt;Демоверсия включает одиночную игру и мультиплеер, но ограничена 4 игроками на карте среднего размера. Доступны 5 разных лидеров и 3 неигровые фракции. Прогресс исследований ограничен первыми 6 уровнями технологий.&lt;br/&gt;&lt;br/&gt;Полная версия игры будет включать карты большего размера, расширенные настройки игры, 8 лидеров, более 50 юнитов в 10 уровнях технологий, больше особенностей местности и заданий, масштабный финал, разблокируемые модификаторы игры, достижения, локализации, а также полную поддержку мастерской."/>
+	<entry name="DemoStartTitle" value="Добро пожаловать — демо"/>
+	<entry name="Error" value="Ошибка"/>
+	<entry name="GameLoaded" value="Игра загружена"/>
+	<entry name="GameSaved" value="Игра сохранена"/>
+	<entry name="GraphicsDriverOutdated" value="Ваш графический драйвер устарел.&lt;br/&gt;&lt;br/&gt;Для улучшения стабильности и производительности обновите ваш графический драйвер, посетив сайт поддержки производителя вашей графической карты."/>
+	<entry name="IncompatibleVersion" value="Несовместимая версия игры."/>
+	<entry name="Info" value="Информация"/>
+	<entry name="Kicked" value="Вас выбросили с сервера."/>
+	<entry name="MasterServerUnreachable" value="Не удалось подключиться к главному серверу."/>
+	<entry name="MissingDLC" value="Отсутствует DLC."/>
+	<entry name="ModUploading" value="Передача мода..."/>
+	<entry name="ModUploadComplete" value="Мод передан.&lt;br/&gt;&lt;br/&gt;Вы можете открыть подробности мода, чтобы отредактировать описание, добавить изображения и видео или изменить видимость мода в мастерской Steam."/>
+	<entry name="ModUploadFailed" value="Не удалось передать мод.&lt;br/&gt;&lt;br/&gt;Удостоверьтесь, что размер файла Preview.png / Preview.jpg не превышает 1 MB, и у вас есть необходимые разрешения для передачи мода."/>
+	<entry name="NoFreeSlots" value="На сервере нет свободного места."/>
+	<entry name="NoGames" value="Нет доступных для присоединения игр."/>
+	<entry name="NoMods" value="Нет установленных модов."/>
+	<entry name="NoValidTargets" value="&lt;style color='GUI/Red'/&gt;Нет доступных целей"/>
+	<entry name="PlayerChangedSlots" value="%1% меняет: %2% на: %3%."/>
+	<entry name="PlayerJoined" value="%1% присоединяется."/>
+	<entry name="PlayerLeft" value="%1% уходит."/>
+	<entry name="PleaseEnterYourName" value="Введите ваше имя."/>
+	<entry name="PleaseWait" value="&lt;style color='GUI/Red'/&gt;Пожалуйста, подождите..."/>
+	<entry name="PreviewStart" value="Учтите, что процесс предрелизного тестирования, отладки и перевода ещё не завершён. Вы можете наткнуться на баги, но критические проблемы маловероятны. Если вы встретите серьёзные ошибки, просим о них сообщить, и мы исправим их в течение суток.&lt;br/&gt;&lt;br/&gt;Панель отладки [Ctrl+D] к вашим услугам, если вы захотите облегчить себе жизнь (например, разблокировать все мутаторы).&lt;br/&gt;&lt;br/&gt;Просим не забывать, что эмбарго спадает 4 ноября в 6 AM PT / 1 PM GMT / 16:00 МСК.&lt;br/&gt;&lt;br/&gt;Релиз в Steam назначен на 8 ноября в 6 AM PT / 1 PM GMT / 16:00 МСК."/>
+	<entry name="PreviewStartTitle" value="Добро пожаловать — превью"/>
+	<entry name="ReceivingInfo" value="Получение информации..."/>
+	<entry name="RestartRequired" value="Чтобы изменения вступили в силу, перезапустите игру."/>
+	<entry name="RetrievingServerList" value="Получение списка серверов..."/>
+	<entry name="ScreenShotSaved" value="Скриншот сохранён"/>
+	<entry name="SetBinding" value="%1%: введите новое сочетание кнопок."/>
+	<entry name="ScreenShotSaveError" value="Ошибка при сохранении скриншота"/>
+	<entry name="ServerUnreachable" value="Не удалось подключиться к серверу.&lt;br/&gt;&lt;br/&gt;Чтобы улучшить подключение, убедитесь, что вы отключили брандмауэры и включили UPnP на своём маршрутизаторе или перенаправили TCP-порт %1% к своему локальному устройству."/>
+	<entry name="SelectTarget" value="Укажите цель"/>
+	<entry name="TerminatedWithDisableMods" value="Моды были отключены из-за сбоя. Посетите экран модов, чтобы снова их включить."/>
+	<entry name="TermsAndConditions" value="Условия и положения"/>
+	<entry name="TurnTimerPaused" value="%1% ставит таймер на паузу."/>
+	<entry name="TurnTimerUnpaused" value="%1% снимает таймер с паузы."/>
+	<entry name="UnboundControl" value="%1%: назначение удалено."/>
+	<entry name="Warning" value="Внимание"/>
+	<entry name="WorldSettingsChanged" value="Настройки мира изменены."/>
+</language>

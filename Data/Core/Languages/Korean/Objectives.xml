@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccomplishFriendlyZephonStanding" value="<string name='Factions/Zephon'/>과 <string name='Diplomacy/Standing5'/> 이상의 관계 달성"/>
+	<entry name="AccumulateAntimatter" value="반물질 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateAntimatterWithTurnLimit" value="%3%턴 안에 반물질 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateDimensionalEchoes" value="차원의 메아리 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateDimensionalEchoesWithTurnLimit" value="%3%턴 안에 차원의 메아리 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateEnergy" value="에너지 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateMinerals" value="광물 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateResearch" value="연구 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateSingularityCores" value="특이점 핵 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateSingularityCoresWithTurnLimit" value="%3%턴 안에 특이점 핵 축적<nbsp/>(%1%/%2%)"/>
+	<entry name="ArrangeInventory" value="영웅 인벤토리에서 ICAR 패턴 6개를 올바르게 정렬"/>
+	<entry name="CaptureErelimPriest" value="황무지에서 에렐림 사제 포획"/>
+	<entry name="CaptureScientist" value="황무지에서 과학자 포획"/>
+	<entry name="CaptureUnit" value="%2% 포획"/>
+	<entry name="ExecuteOrder" value="%1% 명령 실행"/>
+	<entry name="ExecuteOrderWithHonorableAristocrat" value="<string name='Factions/HonorableAristocrat'/>으로 %1% 명령 실행"/>
+	<entry name="ExecuteOrderWithEngineers" value="<string name='Units/Engineer'/>으로 %1% 명령 실행"/>
+	<entry name="ExecuteOrderWithEngineersWithinTurns" value="<string name='Units/Engineer'/>으로 %4%턴 이내에 %1% 명령 실행"/>
+	<entry name="ExecuteOrderWithinTurns" value="%4%턴 이내에 %1% 명령 실행"/>
+	<entry name="ExecuteQuantumReflector" value="영웅 유닛으로 %1%을(를) 획득하고 사용"/>
+	<entry name="FightChieftessForReyndverra" value="레인드베라의 권리를 걸고 여족장과 싸우기"/>
+	<entry name="KeepAcrinTitanAlive" value="<string name='Units/AcrinTitan'/>을(를) 살려두기<nbsp/>(%1%/%2%)"/>
+	<entry name="KeepUnitAlive" value="%2%을(를) 살려두기"/>
+	<entry name="KeepZephonTitanAlive" value="<string name='Units/ZephonTitan'/>을(를) 살려두기<nbsp/>(%1%/%2%)"/>
+	<entry name="KillAcrinTitan" value="<string name='Units/AcrinTitan'/> 처치<nbsp/>(%1%/%2%)"/>
+	<entry name="KillAnchoriteCamp" value="<string name='Factions/Anchorite'/>의 아영지 파괴하기"/>
+	<entry name="KillAnchoriteCity" value="<string name='Factions/Anchorite'/>의 가장 최근 도시 파괴하기"/>
+	<entry name="KillAnnelidDefenders" value="아넬리드 수비군 처치"/>
+	<entry name="KillArshem" value="아르솀과 그의 약탈단 처치"/>
+	<entry name="KillAugursMonsters" value="전조의 괴물들 처치"/>
+	<entry name="KillBanditKing" value="산적 왕과 그의 정예병 처치"/>
+	<entry name="KillBlackSite" value="%2%턴 이내에 제폰 비밀 시설 파괴"/>
+	<entry name="KillBlockadingReavers" value="길을 막는 약탈단 처치"/>
+	<entry name="KillBrynnAndForces" value="브린과 그의 병력 처치"/>
+	<entry name="KillCalem" value="%2%턴 안에 <string name='Units/CalemVorshole'/> 및 그의 갱단 처치"/>
+	<entry name="KillCamp" value="야영지 처치"/>
+	<entry name="KillCultists" value="%2%턴 이내에 숭배자 처치"/>
+	<entry name="KillDreadPearlman" value="%2%턴 안에 공포의 펄먼 요새 파괴"/>
+	<entry name="KillIronFeather" value="정신에서 강철깃털 정화"/>
+	<entry name="KillMarkedUnit" value="%2% 처치"/>
+	<entry name="KillMech" value="순찰 중인 기계 파괴"/>
+	<entry name="KillMonster" value="괴물 처치"/>
+	<entry name="KillOminousLair" value="<string name='Units/OminousLair'/> 처치"/>
+	<entry name="KillOrin" value="<string name='Units/Orin'/> 처치"/>
+	<entry name="KillReaverCamp" value="약탈단 야영지 처치"/>
+	<entry name="KillServerDefenders" value="서버 농장 수비군 처치"/>
+	<entry name="KillTheFalseSpeaker" value="%2% 파괴"/>
+	<entry name="KillTheTerror" value="<string name='Units/TheTerror'/> 처치"/>
+	<entry name="KillUnit" value="적 유닛 처치<nbsp/>(%1%/%2%)"/>
+	<entry name="KillWardenWithMercenaries" value="<string name='Units/HonorableAristocratMissileTeam'/>(으)로 %2% 처치"/>
+	<entry name="KillWithUnit" value="%3%(으)로 적 처치<nbsp/>(%1%/%2%)"/>
+	<entry name="KillYourHusband" value="남편 처치"/>
+	<entry name="KillZephonTitan" value="<string name='Units/ZephonTitan'/> 처치<nbsp/>(%1%/%2%)"/>
+	<entry name="PreventUnitDestruction" value="%2% 파괴 방지"/>
+	<entry name="ProduceUnit" value="%3% 생산<nbsp/>(%1%/%2%)"/>
+	<entry name="RecoverSplenetics" value="%3%턴 안에 스플레네틱스 복원<nbsp/>(%1%/%2%)"/>
+	<entry name="RecoverHusband" value="남편 되찾기"/>
+	<entry name="RepairUnit" value="%2% 수리"/>
+	<entry name="ResistVirus" value="%2%턴 동안 바이러스에서 생존하기"/>
+	<entry name="SurviveAugursMonsters" value="전조의 무리를 상대로 생존하기"/>
+	<entry name="SurviveCircusPerformers" value="서커스 캄비온 공연단을 상대로 생존하기"/>
+	<entry name="SurviveDrugAddictedReavers" value="약물에 중독된 약탈단을 상대로 생존하기"/>
+	<entry name="SurviveInvasion" value="침략에서 생존하기"/>
+	<entry name="SurviveIronFeatherGuardian" value="강철깃털의 수호자를 상대로 생존하기"/>
+	<entry name="SurviveRebelliousAcrin" value="반란을 일으킨 아크린을 상대로 생존하기"/>
+	<entry name="SurviveRebelliousMachines" value="반란을 일으킨 기계를 상대로 생존하기"/>
+	<entry name="SurviveRebelliousVeterans" value="반란을 일으킨 베테랑을 상대로 생존하기"/>
+	<entry name="SurviveRivalForces" value="라이벌 세력을 상대로 생존하기"/>
+	<entry name="SurviveSplenetics" value="스플레네틱스를 상대로 생존하기"/>
+	<entry name="SurviveUnknownAssailants" value="수수께끼의 공격자를 상대로 살아남기"/>
+	<entry name="SurviveZephonAssaultForce" value="제폰 강습군을 상대로 살아남기"/>
+	<entry name="VisitAugur" value="근처 전초기지에서 뒤틀린 전조 수색<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitBanditKing" value="산적 왕의 야영지로 부대 이동"/>
+	<entry name="VisitBlackSite" value="%4%턴 안에 대형이 아닌 영웅 유닛을 <string name='Units/ZephonBlackSite'/> 근처로 이동"/>
+	<entry name="VisitCornucopia" value="아무 유닛으로 코르누코피아 회수"/>
+	<entry name="VisitCornucopiaWithHonorableAristocrat" value="<string name='Factions/HonorableAristocrat'/>으로 코르누코피아 회수"/>
+	<entry name="VisitCortexNodes" value="피질 노드 초기화하기<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitIronFeather" value="근처 전초 기지에서 강철깃털 수색<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitJezina" value="근처 전초 기지에서 제지나 수색<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitLootStash" value="산적 왕의 전리품 은닉품 수집"/>
+	<entry name="VisitOracleShardAndClearEnemies" value="오라클 조각을 방문하여 적 제거"/>
+	<entry name="VisitPassage" value="가르식 통로 수색<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitRitualSite" value="의식 장소로 부대 이동"/>
+	<entry name="VisitTileWithErelimPriest" value="<string name='Units/ErelimPriest'/>가 있는 타일 방문"/>
+	<entry name="VisitTileWithHammerheadAndClearEnemies" value="<string name='Units/Hammerhead'/>가 있는 타일 방문 및 적 제거<nbsp/>(%3%/%2%)"/>
+	<entry name="VisitTileWithHollowWarlord" value="<string name='Factions/HollowWarlord'/>이 있는 타일 방문"/>
+	<entry name="VisitTileWithHonorableAristocrat" value="<string name='Factions/HonorableAristocrat'/>으로 보급품 전달"/>
+	<entry name="VisitTileWithJackal" value="<string name='Units/TheJackal'/>이 있는 타일 방문"/>
+	<entry name="VisitTileWithJezina" value="<string name='Units/Jezina'/>가 있는 타일 방문"/>
+	<entry name="VisitTileWithJezinaAndClearEnemies" value="<string name='Units/Jezina'/>가 있는 타일 방문 및 적 제거"/>
+	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="<string name='Units/LandanGraham'/>이 있는 타일 방문 및 적 제거"/>
+	<entry name="VisitTileWithResourceTransport" value="%4%턴 안에 <string name='Units/ResourceTransport'/>이 있는 타일 방문"/>
+	<entry name="WaitForFinalBattle" value="최종 전투에서 편을 선택하기 전에 %2%턴 기다리기"/>
+	<entry name="WaitForGlandHarvest" value="사람들이 샘을 수확하는 동안 %2%턴 기다리기"/>
+	<entry name="WaitForHwedoToFeed" value="%2%턴 동안 회도가 인구를 먹어치우는 것을 기다리기"/>
+	<entry name="WaitForYetunde" value="예툰데의 조사가 완료될 때까지 %2%턴 기다리기"/>
+</language>

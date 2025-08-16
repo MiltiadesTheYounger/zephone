@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Abkhan" value="Abkhan"/>
+	<entry name="AbkhanProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna istota krocząca po pnączach, która broni swojego gniazda"/>
+	<entry name="Abkluth" value="Abkluty"/>
+	<entry name="AbkluthProperties" value="<icon texture='GUI/Bullet'/>Biologiczne istoty kroczące po pnączach, walczące wręcz i<nbsp/>odzyskujące punkty zdrowia w<nbsp/>każdej turze"/>
+	<entry name="AbkluthDragoon" value="Abkluty dragoni"/>
+	<entry name="AbkluthDragoonProperties" value="<icon texture='GUI/Bullet'/>Biologiczne istoty kroczące po pnączach, które mogą przejąć kontrolę nad wrogim abklutem"/>
+	<entry name="AcrinMilitia" value="Niedobitki Akrynów"/>
+	<entry name="AcrinMilitiaProperties" value="<icon texture='GUI/Bullet'/>Biologiczne istoty kroczące po pnączach, posiadające silną moc leczenia i<nbsp/>zdolność przywoływania krwawych pnączy"/>
+	<entry name="AcrinTitan" value="Tytan Akrynów"/>
+	<entry name="AcrinTitanProperties" value="<icon texture='GUI/Bullet'/>Biologiczny tytan, który wciąga wrogów do swej studni przyczynowości i<nbsp/>tam ich pożera"/>
+	<entry name="AcrinZealot" value="Fanatycy Akrynów"/>
+	<entry name="AcrinZealotProperties" value="<icon texture='GUI/Bullet'/>Biologiczna istota krocząca po pnączach, posiadająca okaleczającą broń oraz zdolność teleportu pomiędzy polami z<nbsp/>krwawymi pnączami"/>
+	<entry name="AegyllanWorm" value="Aegyllańskie czerwie"/>
+	<entry name="AegyllanWormProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota przeciwpancerna do walki na krótkim dystansie, mogąca poruszać się pod ziemią"/>
+	<entry name="AkavishProvost" value="Akawiszowy prowost"/>
+	<entry name="AkavishProvostProperties" value="<icon texture='GUI/Bullet'/>Duży, mechaniczny, zwinny robot, który prowokuje wrogów i<nbsp/>manipuluje otrzymywanymi obrażeniami"/>
+	<entry name="AmoetiasDevourer" value="Pożeracz Amoetii"/>
+	<entry name="AmoetiasDevourerProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna istota, która rozkłada się i<nbsp/>musi zjadać wrogów, żeby zachować sprawność"/>
+	<entry name="AnchoriteCamp" value="Obóz Pustelnika"/>
+	<entry name="AnchoriteCampFlavor" value="<string name='Quests/Reyndverra/Intro2'/>"/>
+	<entry name="AnchoriteCampProperties" value="<icon texture='GUI/Bullet'/>Duża mechaniczna fortyfikacja"/>
+	<entry name="AraneanStalker" value="Pajęczy tropiciele"/>
+	<entry name="AraneanStalkerProperties" value="<icon texture='GUI/Bullet'/>Mechaniczni snajperzy, którzy mogą wskazywać cele"/>
+	<entry name="Arshem" value="Arshem"/>
+	<entry name="ArshemFlavor" value="<string name='Quests/ThickerThanWater/BrothersKeeper/StopArshem2'/>"/>
+	<entry name="ArshemProperties" value="<icon texture='GUI/Bullet'/>Twój własny brat, który zwrócił się przeciwko tobie"/>
+	<entry name="ArtificersLaboratory" value="Laboratorium Konstruktorki"/>
+	<entry name="ArtificersLaboratoryFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/Intro'/>"/>
+	<entry name="ArtificersLaboratoryProperties" value="<icon texture='GUI/Bullet'/>Specjalne laboratorium używane do badań nad przelatującą kometą"/>
+	<entry name="AssaultTrooper" value="Szturmani"/>
+	<entry name="AssaultTrooperProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota posiadająca doskonały pancerz, potężne karabiny i<nbsp/>żelazną wolę"/>
+	<entry name="AtlasTank" value="Czołg Atlas"/>
+	<entry name="AtlasTankProperties" value="<icon texture='GUI/Bullet'/>Mechaniczny tytan uzbrojony po zęby w<nbsp/>siejące spustoszenie uzbrojenie oraz ulepszenia"/>
+	<entry name="AvatarOfTheEmulatedMind" value="Awatar Emulowanej Świadomości"/>
+	<entry name="BanditKing" value="Król bandytów"/>
+	<entry name="BanditKingFlavor" value="<string name='Quests/PhilosophersStone/Meeting2'/>"/>
+	<entry name="BanditKingProperties" value="<icon texture='GUI/Bullet'/>Przywódca bandytów spaczony przez kamień filozoficzny"/>
+	<entry name="Bunker" value="Bunkier"/>
+	<entry name="BunkerProperties" value="<icon texture='GUI/Bullet'/>Duża mechaniczna fortyfikacja chroniąca obszar i<nbsp/>przebywające w<nbsp/>niej jednostki"/>
+	<entry name="Buster" value="Dewastatorzy"/>
+	<entry name="BusterProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota przeciwpancerna mogąca podpalić wroga"/>
+	<entry name="Brynn" value="Brynn"/>
+	<entry name="BrynnFlavor" value="<string name='Quests/Reyndverra/Intro4'/>"/>
+	<entry name="BrynnProperties" value="<icon texture='GUI/Bullet'/>Zegarmistrz szukający Reyndverry."/>
+	<entry name="CalemVorshole" value="Calem Vorshole"/>
+	<entry name="CalemVorsholeFlavor" value="<string name='Quests/StolenGoods/HuntThemDown2'/>"/>
+	<entry name="CalemVorsholeProperties" value="<icon texture='GUI/Bullet'/>Przywódca gangu Szubrawych Królów"/>
+	<entry name="CassielShredder" value="Niszczarki Cassiel"/>
+	<entry name="CassielShredderProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna, unosząca się nad ziemią jednostka piechoty do walki w<nbsp/>zwarciu, która zachowuje potencjał uszkodzeń, gdy spada liczebność jej grupy"/>
+	<entry name="ChayotExterminator" value="Eksterminator Kolczoch"/>
+	<entry name="ChayotExterminatorProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny pojazd unoszący się nad ziemią, o<nbsp/>znakomitych zdolnościach dystansowych i<nbsp/>wyposażony w<nbsp/>drony bojowe"/>
+	<entry name="CherubimTitan" value="Tytan cherubinów"/>
+	<entry name="CherubimTitanProperties" value="<icon texture='GUI/Bullet'/>Mechaniczny latający tytan, który niszczy wrogów tachionowym uzbrojeniem i<nbsp/>nakłada na sojuszników redukcję obrażeń"/>
+	<entry name="Chieftess" value="<string name='Factions/Chieftess'/>"/>
+	<entry name="ChieftessFlavor" value="<string name='Quests/Reyndverra/FightChieftess2'/>"/>
+	<entry name="CircusAbkhan" value="Cyrk abkhanów"/>
+	<entry name="CircusAbkhanFlavor" value="<string name='Quests/CircusCambion/AbkluthJousting2'/>"/>
+	<entry name="CircusAbkhanProperties" value="<icon texture='GUI/Bullet'/>Udomowiony abkhan"/>
+	<entry name="CombatDrone" value="Bojowy melisai"/>
+	<entry name="CombatDroneProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna piechota latająca uzbrojona w<nbsp/>karabin szturmowy"/>
+	<entry name="CombatMedic" value="Sanitariusze bojowi"/>
+	<entry name="CombatMedicProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota mogąca leczyć i<nbsp/>wzmacniać inne jednostki biologiczne"/>
+	<entry name="Commander" value="Dowódca"/>
+	<entry name="CommanderProperties" value="<icon texture='GUI/Bullet'/>Biologiczny, doskonale walczący bohater, wspierający w<nbsp/>walce jednostki piechoty"/>
+	<entry name="CrlaDisciple" value="Apostołowie Cr'li"/>
+	<entry name="CrlaDiscipleProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota, której wyprodukowanie zajmuje więcej czasu, lecz jej ataki nie wymagają linii widoczności, może też rzucać różnymi zaklęciami"/>
+	<entry name="CrusaderBattleTank" value="Czołg bojowy „Krzyżowiec”"/>
+	<entry name="CrusaderBattleTankProperties" value="<icon texture='GUI/Bullet'/>Duży pojazd mechaniczny z<nbsp/>uniwersalnym działem, wytrzymałym pancerzem oraz wieloma ulepszeniami"/>
+	<entry name="Cyclone" value="Cyklon"/>
+	<entry name="CycloneProperties" value="<icon texture='GUI/Bullet'/>Duży przeciwlotniczy pojazd mechaniczny z<nbsp/>wytrzymałym pancerzem oraz wieloma ulepszeniami"/>
+	<entry name="DarkVassael" value="Mroczny Vassael"/>
+	<entry name="DarkVassaelProperties" value="<icon texture='GUI/Bullet'/>Duża istota organiczna, wykonująca przerażający atak, który osłabia morale wroga"/>
+	<entry name="Deformity" value="Deformacje"/>
+	<entry name="DeformityProperties" value="<icon texture='GUI/Bullet'/>Biologiczne potwory walczące wręcz, które tworzą deformacje, zabijając wrogów, za to w<nbsp/>każdej turze tracą punkty zdrowia"/>
+	<entry name="DevoteeOfThrokos" value="Wyznawcy Throkosa"/>
+	<entry name="DevoteeOfThrokosProperties" value="<icon texture='GUI/Bullet'/>Biologiczne potwory dystansowe, silne w<nbsp/>starciu z<nbsp/>rannymi wrogami"/>
+	<entry name="DreadPearlman" value="Dread Pearlman"/>
+	<entry name="DreadPearlmanFlavor" value="<string name='Quests/ConcordatCompromised/Intro2'/>"/>
+	<entry name="DreadPearlmanProperties" value="<icon texture='GUI/Bullet'/>Duża mechaniczna fortyfikacja"/>
+	<entry name="Dreameater" value="Pożeracz umysłów"/>
+	<entry name="DreameaterProperties" value="<icon texture='GUI/Bullet'/>Duża, unosząca się nad ziemią istota, która osłabia morale wroga i<nbsp/>przejmuje kontrolę nad przeciwnikami z<nbsp/>nałożonym efektem złamania"/>
+	<entry name="ElectOfUzhodai" value="Wybraniec Uzhodaia"/>
+	<entry name="ElectOfUzhodaiProperties" value="<icon texture='GUI/Bullet'/>Duży biologiczny bohater walczący wręcz, który po przywołaniu teleportuje się na pole bitwy i<nbsp/>karci wrogów na linii frontu"/>
+	<entry name="ElohimMaelstrom" value="Wir elohimów"/>
+	<entry name="ElohimMaelstromProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna, unosząca się nad ziemią jednostka piechoty posiadająca uzbrojenie oblężnicze o<nbsp/>dalekim zasięgu; osiąga przewagę, gdy zostanie umiejscowiona na wyższych poziomach"/>
+	<entry name="EMPDrone" value="Elektromagnetyczny melisai"/>
+	<entry name="EMPDroneProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna, unosząca się nad ziemią jednostka piechoty, która dokonuje autodestrukcji, paraliżując jednostki mechaniczne"/>
+	<entry name="Engineer" value="Inżynierowie"/>
+	<entry name="EngineerProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczna piechota, która zakłada miasta, buduje drogi, oczyszcza pola oraz naprawia i<nbsp/>wzmacnia jednostki mechaniczne"/>
+	<entry name="ErelimAssassin" value="Zabójczyni erelin"/>
+	<entry name="ErelimAssassinProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna bohaterka wyróżniająca się walką w<nbsp/>zwarciu, zaprojektowana w<nbsp/>celu zakradania się na tyły wroga"/>
+	<entry name="ErelimPriest" value="Kapłanka erelin"/>
+	<entry name="ExousiaMarauder" value="Grabieżca Exousia"/>
+	<entry name="ExousiaMarauderProperties" value="<icon texture='GUI/Bullet'/>Duży, mechaniczny, unoszący się nad ziemią transporter, pozwalający na transport innych jednostek"/>
+	<entry name="FallenOrolos" value="Upadły orolos"/>
+	<entry name="FallenOrolosProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna istota niszcząca atakujących wręcz oraz strzelająca z<nbsp/>działa o<nbsp/>dalekim zasięgu; celność działa jest wyższa, jeśli jednostka ta stoi w<nbsp/>miejscu"/>
+	<entry name="HadesBomber" value="Bombowiec „Hades”"/>
+	<entry name="HadesBomberProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna jednostka latająca, która dematerializuje przeciwników za pomocą bomby antymaterii"/>
+	<entry name="Hammerhead" value="Zawisaki mechaniczne"/>
+	<entry name="HammerheadProperties" value="<icon texture='GUI/Bullet'/>Mechaniczne jednostki latające mające za zadanie przejmować placówki oraz karczować krwawe pnącza"/>
+	<entry name="HashmallimHost" value="Zastęp haszmali"/>
+	<entry name="HashmallimHostProperties" value="<icon texture='GUI/Bullet'/>Duży, mechaniczny, unoszący się nad ziemią pojazd, który manipuluje grawitacją w<nbsp/>celu ignorowania osłon, zadawania obrażeń dużym jednostkom oraz wpływania na celność sojuszników oraz wrogów"/>
+	<entry name="Headquarters" value="<string name='Buildings/Headquarters'/>"/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>Systemy obronne miasta"/>
+	<entry name="HollowWarlord" value="<string name='Factions/HollowWarlord'/>"/>
+	<entry name="HollowWarlordFlavor" value="<string name='Quests/Reyndverra/FollowTheChieftess2'/>"/>
+	<entry name="HonorableAristocratEngineer" value="<string name='Factions/HonorableAristocrat'/> (inżynier)"/>
+	<entry name="HonorableAristocratEngineerFlavor" value="<string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/>"/>
+	<entry name="HonorableAristocratEngineerProperties" value="<icon texture='GUI/Bullet'/>Szczególnie powolny inżynier, który może wykonać tylko jedno zadanie"/>
+	<entry name="HonorableAristocratMissileTeam" value="Brygada NeoDiuka"/>
+	<entry name="HonorableAristocratMissileTeamFlavor" value="<string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/>"/>
+	<entry name="HonorableAristocratMissileTeamProperties" value="<icon texture='GUI/Bullet'/>Szczególnie powolna drużyna przeciwpancerna"/>
+	<entry name="HonorableAristocratOutrider" value="<string name='Factions/HonorableAristocrat'/> (<string name='Units/Outrider'/>)"/>
+	<entry name="HonorableAristocratOutriderFlavor" value="<string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/>"/>
+	<entry name="HonorableAristocratOutriderProperties" value="<icon texture='GUI/Bullet'/>Szczególnie powolny transporter patrolowy"/>
+	<entry name="Husband" value="Mąż"/>
+	<entry name="HusbandFlavor" value="<string name='Quests/ImpossibleConception/Intro2'/>"/>
+	<entry name="Hwedo" value="Hwedo"/>
+	<entry name="HwedoFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/DefendLabSuccess'/>"/>
+	<entry name="HwedoProperties" value="<icon texture='GUI/Bullet'/>Potężna biomechaniczna istota zrodzona z<nbsp/>energii przelatującej komety"/>
+	<entry name="IronFeather" value="Żelazne Pióro"/>
+	<entry name="IronFeatherFlavor" value="<string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/>"/>
+	<entry name="IronFeatherProperties" value="<icon texture='GUI/Bullet'/>Żelazne Pióro uwięziona w<nbsp/>specjalnie zaprojektowanym malakinowym niszczycielu"/>
+	<entry name="IronFeatherGuardian" value="Strażnik Żelaznego Pióra"/>
+	<entry name="IokSwarm" value="Rój ioków"/>
+	<entry name="IokSwarmProperties" value="<icon texture='GUI/Bullet'/>Biologiczne latające istoty, które wymiotują kwasem i<nbsp/>pożerają pobliskie jednostki, aby się uleczyć"/>
+	<entry name="IshimEnforcer" value="Iszinowi egzekutorzy"/>
+	<entry name="IshimEnforcerProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczna jednostka piechoty, która podczas leczenia swoich ran naprzemiennie korzysta z<nbsp/>ataków o<nbsp/>wysokiej i<nbsp/>niskiej mocy"/>
+	<entry name="IthurielHarbinger" value="Iturielski Zwiastun"/>
+	<entry name="IthurielHarbingerProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny robot z<nbsp/>potężnymi, przegrzewającymi się działkami"/>
+	<entry name="Jezina" value="Jezina"/>
+	<entry name="JezinaFlavor" value="<string name='Quests/TheTiesThatBind/ChaseJezina2'/>"/>
+	<entry name="KlotHadal" value="Klot’Hadal"/>
+	<entry name="KlotHadalProperties" value="<icon texture='GUI/Bullet'/>Legendarna dragonka abklutów"/>
+	<entry name="KlotHadalFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheGreatHunt2'/>"/>
+	<entry name="KriteriaAnnihilator" value="Niszczyciele kryteria"/>
+	<entry name="KriteriaAnnihilatorProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna, unosząca się nad ziemią jednostka piechoty, która z<nbsp/>każdym zabitym wrogiem staje się coraz bardziej niszczycielska"/>
+	<entry name="KryptArchai" value="Kryptarchaj"/>
+	<entry name="KryptArchaiProperties" value="<icon texture='GUI/Bullet'/>Duży, mechaniczny, unoszący się nad ziemią bohater, którego trudno naprawić, wyposażony w<nbsp/>zdolność manipulacji materią w<nbsp/>celu obrony sojuszników oraz unieruchamiania wrogów"/>
+	<entry name="LandanGraham" value="Landan Graham"/>
+	<entry name="LandanGrahamProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczny naukowiec, który potrafi oczyszczać pola"/>
+	<entry name="LandanGrahamAugmented" value="Landan Graham (ulepszony)"/>
+	<entry name="LandanGrahamAugmentedProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczny naukowiec z<nbsp/>ulepszeniem w<nbsp/>postaci wspaniałej broni stworzonej dzięki technologiom ludzi i<nbsp/>Akrynów"/>
+	<entry name="LandanGrahamAugmentedFlavor" value="<string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/>"/>
+	<entry name="MalakimDestroyer" value="Malakinowi niszczyciele"/>
+	<entry name="MalakimDestroyerProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczna, unosząca się nad ziemią jednostka piechoty posiadająca potężną broń zdolną do przegrzania"/>
+	<entry name="Militant" value="Bojownicy"/>
+	<entry name="MilitantProperties" value="<icon texture='GUI/Bullet'/>Podstawowa jednostka piechoty, której szybkość ostrzału jest większa przy walce w<nbsp/>zwarciu"/>
+	<entry name="MissileTeam" value="Drużyny przeciwpancerne"/>
+	<entry name="MissileTeamProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczna, przeciwpancerna jednostka piechoty; musi stać w<nbsp/>miejscu, aby zwiększyć celność ataków"/>
+	<entry name="OminousLair" value="Złowieszcze leże"/>
+	<entry name="OphanimCarrier" value="Transporter „Ofanin”"/>
+	<entry name="OphanimCarrierProperties" value="<icon texture='GUI/Bullet'/>Duża, mechaniczna, latająca jednostka opracowana do rozlokowywania grup dronów"/>
+	<entry name="Orin" value="Orin"/>
+	<entry name="OrinFlavor" value="<string name='Quests/ThePulledThread/CaptureScientistSuccess2'/>"/>
+	<entry name="OrinProperties" value="<icon texture='GUI/Bullet'/>Bluźnierczy naukowiec"/>
+	<entry name="Outrider" value="Transporter patrolowy"/>
+	<entry name="OutriderProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny transporter o<nbsp/>lekkim wyposażeniu i<nbsp/>doskonałych możliwościach patrolowych"/>
+	<entry name="PhenarisEpicurean" value="Epikurejscy Phenaris"/>
+	<entry name="PhenarisEpicureanProperties" value="<icon texture='GUI/Bullet'/>Biologiczna jednostka piechoty przeznaczona do walki w<nbsp/>zwarciu, która tymczasowo zwiększa swoje punkty zdrowia oraz leczy sojuszników, gdy atakuje przeciwników w<nbsp/>zwarciu"/>
+	<entry name="PhenarisHunter" value="Łowcy Phenaris"/>
+	<entry name="PhenarisHunterProperties" value="<icon texture='GUI/Bullet'/>Biologiczna jednostka piechoty przeznaczona do walki w<nbsp/>zwarciu, która porusza się w<nbsp/>cieniu, wytwarza koszmarne iluzje oraz odkrywa wrogów; posiada wielkie szpony przypominające kosy"/>
+	<entry name="PhoenixInterceptor" value="Myśliwiec przechwytujący „Feniks”"/>
+	<entry name="PhoenixInterceptorProperties" value="<icon texture='GUI/Bullet'/>Duża, mechaniczna, latająca jednostka o<nbsp/>niesamowitej szybkości i<nbsp/>doskonałych osiągach podczas walki z<nbsp/>powietrznymi przeciwnikami"/>
+	<entry name="PlangentOrolos" value="Jęczący orolos"/>
+	<entry name="PlangentOrolosProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna istota, która posługuje się dźwiękiem, by zadawać obrażenia oraz unieruchamiać przeciwników"/>
+	<entry name="Praetorian" value="Pretorianie"/>
+	<entry name="PraetorianProperties" value="<icon texture='GUI/Bullet'/>Biologiczna jednostka piechoty wyposażona w<nbsp/>uzbrojenie korzystające z<nbsp/>antymaterii oraz plecaki odrzutowe, by zaskakiwać i<nbsp/>niszczyć przeciwników w<nbsp/>walce na krótkim dystansie"/>
+	<entry name="RadioTelescope" value="Radioteleskop"/>
+	<entry name="RadioTelescopeFlavor" value="<string name='Quests/MessageToTheStars/Contact/FindYourWay2'/>"/>
+	<entry name="ReamingCrodeus" value="Świdrujący Krodeus"/>
+	<entry name="ReamingCrodeusProperties" value="<icon texture='GUI/Bullet'/>Biologiczny latający tytan, który okalecza i<nbsp/>połyka przeciwników, by trawić ich w<nbsp/>swoim żołądku"/>
+	<entry name="Reaver" value="Łupieżcy"/>
+	<entry name="ReaverProperties" value="<icon texture='GUI/Bullet'/>Biologiczna, słabo wyposażona jednostka piechoty, która wpada w<nbsp/>szał bojowy, gdy jest otoczona"/>
+	<entry name="ReaverCamp" value="Obóz Łupieżców"/>
+	<entry name="ReaverCampFlavor" value="<string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/>"/>
+	<entry name="ReaverCampProperties" value="<icon texture='GUI/Bullet'/>Duża mechaniczna fortyfikacja"/>
+	<entry name="RepairDrone" value="Naprawczy melisai"/>
+	<entry name="RepairDroneProperties" value="<icon texture='GUI/Bullet'/>Mechaniczna, unosząca się nad ziemią jednostka piechoty, która naprawia mechanicznych sojuszników"/>
+	<entry name="ResourceTransport" value="Transport z<nbsp/>zasobami"/>
+	<entry name="Scrambler" value="Ścigacze"/>
+	<entry name="ScramblerProperties" value="<icon texture='GUI/Bullet'/>Biomechaniczni motocykliści, którzy równie sprawnie wchodzą do walki, jak się z<nbsp/>niej wycofują"/>
+	<entry name="Sentry" value="Wartownicy"/>
+	<entry name="SentryProperties" value="<icon texture='GUI/Bullet'/>Mechaniczne roboty opracowane w<nbsp/>celu ochrony przydzielonych obszarów"/>
+	<entry name="SeraphimArchangel" value="Archanioł serafin"/>
+	<entry name="SeraphimArchangelProperties" value="<icon texture='GUI/Bullet'/>Mechaniczny, unoszący się nad ziemią tytan, który unicestwia wrogów za pomocą ostrza osobliwości"/>
+	<entry name="Sharpshooter" value="Strzelcy wyborowi"/>
+	<entry name="SharpshooterProperties" value="<icon texture='GUI/Bullet'/>Biologiczna piechota uzbrojona w<nbsp/>karabiny wyborowe do zwalczania piechurów. Posiada też umiejętności skrytego działania i<nbsp/>prowadzenia zwiadu"/>
+	<entry name="ShochitrisLair" value="Leże Shoch'itrisa"/>
+	<entry name="ShochitrisLairProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna fortyfikacja hodująca deformacje"/>
+	<entry name="Splenetics" value="Drażliwi"/>
+	<entry name="SpleneticsProperties" value="<string name='Units/MilitantProperties'/>"/>
+	<entry name="SurthodaisEmbrace" value="Objęcia Surthodai"/>
+	<entry name="SurthodaisEmbraceProperties" value="<icon texture='GUI/Bullet'/>Duża biologiczna jednostka transportująca, biegła w<nbsp/>przemierzaniu terenów oraz ochronie jednostek"/>
+	<entry name="TH3Corsair" value="TH-3 „Korsarz”"/>
+	<entry name="TH3CorsairProperties" value="<icon texture='GUI/Bullet'/>Duża, mechaniczna, latająca jednostka transportująca, wyspecjalizowana w<nbsp/>manewrach wymijających"/>
+	<entry name="TesseraCore" value="Rdzeń Tessera"/>
+	<entry name="TesseraCoreProperties" value="<icon texture='GUI/Bullet'/>Duża, mechaniczna, unosząca się nad ziemią fortyfikacja, skonstruowana do manipulacji grawitacją oraz wielokrotnego działania"/>
+	<entry name="Test" value="Test"/>
+	<entry name="TheFalseSpeaker" value="Fałszywy Mówca"/>
+	<entry name="TheFalseSpeakerFlavor" value="<string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/>"/>
+	<entry name="TheFalseSpeakerProperties" value="<icon texture='GUI/Bullet'/>Zepsuty kryptarchaj"/>
+	<entry name="TheJackal" value="Szakal"/>
+	<entry name="TheTerror" value="Terror"/>
+	<entry name="TwistedChildCyber" value="Nieudany eksperyment (Cyberbyty)"/>
+	<entry name="TwistedChildCyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment32'/>"/>
+	<entry name="TwistedChildVoice" value="Nieudany eksperyment (Głos)"/>
+	<entry name="TwistedChildVoiceFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment12'/>"/>
+	<entry name="Valkyrie" value="Walkiria"/>
+	<entry name="ValkyrieProperties" value="<icon texture='GUI/Bullet'/>Duża, mechaniczna, latająca bohaterka, która rozkoszuje się śmiercią wrogów"/>
+	<entry name="VanquisherSiegeTank" value="Czołg oblężniczy „Pogromca”"/>
+	<entry name="VanquisherSiegeTankProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny pojazd z<nbsp/>działem artyleryjskim, wytrzymałym pancerzem oraz wieloma ulepszeniami"/>
+	<entry name="VorodaisLeviathan" value="Lewiatan Vorodaia"/>
+	<entry name="VorodaisLeviathanProperties" value="<icon texture='GUI/Bullet'/>Biologiczny, tytaniczny transportowiec, który wyróżnia się zabijaniem dużych grup przeciwników i<nbsp/>czerpaniem ich esencji"/>
+	<entry name="VulkanR5" value="Wulkan R-5"/>
+	<entry name="VulkanR5Properties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny robot, który miażdży i<nbsp/>podpala przeciwników"/>
+	<entry name="Warden" value="Nadzorca"/>
+	<entry name="WardenProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny robot, który kradnie punkty zdrowia innych mechanicznych jednostek oraz pali ofiary żywcem"/>
+	<entry name="WardenAugmented" value="Nadzorca (ulepszony)"/>
+	<entry name="WardenAugmentedFlavor" value="<string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/>"/>
+	<entry name="WardenAugmentedProperties" value="<icon texture='GUI/Bullet'/>Wysoce zaawansowany nadzorca"/>
+	<entry name="Wastelander" value="Wagabunda"/>
+	<entry name="WastelanderProperties" value="<icon texture='GUI/Bullet'/>Duży mechaniczny transporter z<nbsp/>silnym uzbrojeniem, wzmacniający pobliskich sojuszników"/>
+	<entry name="WhispererOfGoldrauch" value="Szepcząca z<nbsp/>Goldrauch"/>
+	<entry name="WhispererOfGoldrauchProperties" value="<icon texture='GUI/Bullet'/>Biologiczna, unosząca się w<nbsp/>powietrzu bohaterka posiadająca dystansowe zdolności leczenia oraz przyzywania sojuszników; potrafi również odkrywać wrogów i<nbsp/>zadawać im obrażenia"/>
+	<entry name="ZandraKyne" value="Zandra Kyne"/>
+	<entry name="ZandraKyneProperties" value="<icon texture='GUI/Bullet'/>Genialna i<nbsp/>nieco szalona naukowczyni, która manipuluje czasem"/>
+	<entry name="ZandraKyneFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheSpaceEngine2'/>"/>
+	<entry name="ZephonBlackSite" value="Tajny ośrodek ZEPHONA"/>
+	<entry name="ZephonBlackSiteFlavor" value="<string name='Quests/BlackSite/Intro2'/>"/>
+	<entry name="ZephonBlackSiteProperties" value="<icon texture='GUI/Bullet'/>Duża mechaniczna fortyfikacja"/>
+	<entry name="ZephonTitan" value="Tytan ZEPHONA"/>
+	<entry name="ZephonTitanProperties" value="<icon texture='GUI/Bullet'/>Mechaniczny tytan, który konstruuje nadzorców, wspiera mechaniczne jednostki oraz sprowadza śmierć i<nbsp/>zniszczenie na dużym obszarze"/>
+	
+	<!-- Flavor. -->
+	<entry name="AbkhanFlavor" value="Gdyby potwór ten miał skrzydła, moglibyśmy go nazywać smokiem. Czyhał na ofiary we wrogim otoczeniu, zachłannie gromadząc cenne zasoby. Posiadał nawet smoczy oddech, choć palił swe ofiary nie ogniem, a<nbsp/>lodem. Jeśli udało ci się zabić jednego z<nbsp/>nich, wolałeś nie pozostawać zbyt długo w<nbsp/>pobliżu jego leża, ponieważ niektórzy powiadali, że kilka dni po śmierci bestia pojawia się na nowo."/>
+	<entry name="AbkluthDragoonFlavor" value="Po rozbiciu Akrynowie wzięli ze sobą te stworzenia – jaszczurze potworności – niszcząc tym samym ziemską dziką przyrodę. Biorąc pod uwagę uległość tych istot w<nbsp/>stosunku do Akrynów, podejrzewam, że były one ich zwierzętami domowymi lub hodowlanymi. To jednak nie przeszkodziło kultystom Głosu korzystać z<nbsp/>nich do wojennych celów."/>
+	<entry name="AbkluthFlavor" value="Były to stworzenia Akrynów, ale nigdy nie wiedziałem, czy miały one być jedzeniem, czy zwierzątkami domowymi. Rozpierzchły się z<nbsp/>miejsca katastrofy i<nbsp/>zadomowiły na ziemskich terenach. Nie mogliśmy ich jeść – podobno z<nbsp/>powodu fundamentalnie innej biologii – lecz musieliśmy na nie polować, bo inaczej zabijały lub niszczyły to, co było dla nas jadalne."/>
+	<entry name="AcrinMilitiaFlavor" value="Ocaleni Akrynowie korzystali z<nbsp/>szeptów Głosu, by utrzymać swych ludzi przy życiu na rozbitej planecie. Każdy kosmita zaciągnięty na pole bitwy był w<nbsp/>stanie zregenerować pogruchotane ciało. Oczywiście potrafił również rozerwać je na strzępy."/>
+	<entry name="AcrinTitanFlavor" value="Mogę zamknąć oczy i<nbsp/>odsunąć od siebie widok kończyn tytana, jego cielska czy paszczy rozwierającej się do połowy jego tułowia, ale ten cholerny smród nigdzie nie zniknie. To zabrzmi głupio, ale ten smród jest jak… jak łamanie kości. Jak twoja całkowicie powykręcana noga, stopa przekręcona do tyłu czy ramię zmiażdżone przez wielki głaz. To nie jest woń bólu czy krwi, to doznanie przypominające obserwowanie swojego własnego zdeformowanego ciała."/>
+	<entry name="AcrinZealotFlavor" value="Żałosne trepy. Któregoś dnia dowiedzieli się o<nbsp/>fanatykach, czyli Akrynach, którzy potrafili wejść do jednego krzewu krwawych pnączy, by zaraz pojawić się w<nbsp/>innym. Zaraz potem każdy teren pokryty pnączami był obstawiony przez grupę kretynów, którzy obok warowali. Tak jakby Akrynowie chcieli wyłazić im prosto przed lufy. Skąd my ich wytrzasnęliśmy?"/>
+	<entry name="AegyllanWormFlavor" value="Usłyszenie Głosu nie zmieniało każdego w<nbsp/>ten sam sposób. Niektórzy nadal szukali tego ciemnego, cichego miejsca, wracali odmienieni, by je odnaleźć, zagłębiając się w<nbsp/>czarne czeluści Ziemi. Widok twarzy przyjaciela na jednym z<nbsp/>tych czerwi wygrzebujących się spomiędzy kamieni i<nbsp/>błota był trudny do zniesienia."/>
+	<entry name="AkavishProvostFlavor" value="Pierwszy prowost był prawdopodobnie łutem szczęścia; zaawansowanym rdzeniem inteligencji, który w<nbsp/>wyniku błędu systemu zażądał kołyski, by ponieść ją do bitwy, krzycząc „wkrótce nastąpi upadek Babilonu”. Myślę jednak, że to nie był żaden błąd systemu. To było coś uśpionego w<nbsp/>samym kodzie, coś, czego jego twórcy tam nie wstawili. Te maszyny były tak samo żądne ujrzenia dni ostatnich jak kultyści Głosu."/>
+	<entry name="AmoetiasDevourerFlavor" value="Niech cię nie zmyli gnijące ciało. Pożeracze zrobią wszystko, by się zbliżyć i<nbsp/>wgryźć w<nbsp/>twoje kończyny. Najpierw lewa głowa roztrzaskuje ci twarz, prawa głowa wyrywa serce, a<nbsp/>kiedy padasz na ziemię, wciąga twoje zwłoki do tej straszliwej paszczy…"/>
+	<entry name="AraneanStalkerFlavor" value="Najlepsi snajperzy uderzają z<nbsp/>najbardziej nieoczywistych pozycji. Pajęczy tropiciele nauczyli nas, aby zawsze analizować ściany klifów, skalne szczeliny czy szkielety zniszczonych budynków. Jeśli zauważyłeś ich jarzące się oczy, miałeś ułamek sekundy, aby paść na ziemię. Czasami byłeś w<nbsp/>stanie przeżyć, a<nbsp/>czasami po prostu zabawiali się twoim kosztem."/>
+	<entry name="AssaultTrooperFlavor" value="Gdy nasz świat miał się już lepiej, nie musieliśmy polegać na bojownikach. Mogliśmy wtedy szkolić prawdziwych żołnierzy i<nbsp/>opracowywać dostosowane pod nich wyposażenie. Ta jednostka była pierwszą w<nbsp/>swoim rodzaju – lepiej wyszkolona, wyposażona w<nbsp/>pancerz o<nbsp/>transuranicznym poszyciu oraz miotacze elektromagnetyczne, które dzieciaki na placach zabaw nazywają karabinami Gaussa."/>
+	<entry name="AtlasTankFlavor" value="To czołgi wielkie jak kompleksy mieszkalne. Przed upadkiem nikt takich nie produkował. Plany znaleziono na jednym z<nbsp/>militarnych serwerów, głęboko zakopane w<nbsp/>archiwum projektów. Na pojeździe takiej wielkości można zamontować wszystkiego rodzaju bronie, a<nbsp/>korzystanie z<nbsp/>nich na polu bitwy przypomina ogłuszającą orkiestrę, w<nbsp/>której każda sekcja odgrywa swoją gwałtowną, rozdzierającą ziemię partyturę."/>
+	<entry name="BunkerFlavor" value="Czasem atakujesz wroga, a<nbsp/>czasem to on napiera na ciebie. Wojnę przetrwaliśmy głównie dzięki podziemnym bunkrom, ale te obronne były inne. Były tańsze i<nbsp/>łatwiejsze w<nbsp/>budowie niż czołgi, lecz stanowiły doskonały cel ataku."/>
+	<entry name="BusterFlavor" value="Łupieżcy nie chcieli zostać w<nbsp/>tyle w<nbsp/>wyścigu zbrojeniowym. Gdy my opracowywaliśmy wytrzymalsze pancerze, oni wynajdowali potężniejsze bronie, żeby się przez te pancerze przebić. Niektórzy z<nbsp/>rozkoszą korzystali z<nbsp/>ognia. Atakowali nas z<nbsp/>flanki niczym ognisty wiatr, rzucając granatami zapalającymi, które całkowicie trawiły nasze oddziały. Chcieli, żebyśmy wiedzieli, że dopóki nie wyrżniemy ich w<nbsp/>pień, będą zawsze stanowić zagrożenie."/>
+	<entry name="CassielShredderFlavor" value="Przejście na stronę maszyn nabierało sensu, gdy widziało się stado niszczarek rozpruwające mięsne worki Mrocznego Vassaela. Piły odrywały od kości strzępy ciała, które konało z<nbsp/>wnętrznościami wylewającymi się na ziemię… ten widok robił takie wrażenie, że nawet nie przeszkadzał mi smród."/>
+	<entry name="ChayotExterminatorFlavor" value="Okropnie wkurwiały mnie ich głosy. Już sam fakt, że taki wielki insekt lata ci nad głową, jest słaby, ale gdy do tego jeszcze gada? Piski jak u<nbsp/>dzieci, które próbują wypowiedzieć swoje pierwsze słowa, ale nigdy nie uczą się niczego więcej. Dobrze, że chociaż te ich drony się nie odzywały. Gdyby wszystkie naraz zaczęły przemawiać, to chyba bym… zresztą, nie chcę myśleć o<nbsp/>tym, co bym wtedy zrobił."/>
+	<entry name="CherubimTitanFlavor" value="Oni byli jak żywe nawałnice. Ich tarcze powodowały, że powietrze cuchnęło przefiltrowanym jonem, a<nbsp/>dźwięk ich dział był w<nbsp/>stanie spowodować lawinę. Gdy taki behemot zjawiał się na polu bitwy, to czułeś się tak, jakbyś był świadkiem bitew toczonych przez dawnych bogów."/>
+	<entry name="CombatDroneFlavor" value="Wiedziałeś, że drony bojowe mogą być wykorzystywane do wojny psychologicznej? Przekonałem się o<nbsp/>tym na własnej skórze. Możesz poczuć się pewnie po rozwaleniu kilkunastu z<nbsp/>nich, jakbyś po prostu przedzierał się przez hordy machin. Po czym nagle słyszysz odgłos swojego pustego karabinu i<nbsp/>widzisz, jak drony się odwracają. To wtedy pojawia się panika."/>
+	<entry name="CombatMedicFlavor" value="Tak samo jak w<nbsp/>przypadku inżynierów, naszymi medykami byli ludzie z<nbsp/>łapanki: biolodzy, lekarze, pielęgniarze, weterynarze czy chemicy. Nosili ciężkie tarcze, by móc w<nbsp/>ogóle zbliżyć się do rannych i<nbsp/>dokonać ich selekcji na polu bitwy. W<nbsp/>późniejszym czasie dostali do pomocy drony oraz implanty, ale na początku… to byli po prostu bohaterowie, najodważniejsi z<nbsp/>odważnych."/>
+	<entry name="CommanderFlavor" value="Dowódcy byli najlepszymi ludźmi z<nbsp/>nas wszystkich. Wcale nie chowali się na tyłach, wręcz przeciwnie, działali na froncie, ryzykując życie, rozmawiali z<nbsp/>uchodźcami i<nbsp/>walczyli z<nbsp/>potwornościami. Wyposażenie w<nbsp/>egzoszkielety poprawiało ich wydajność w<nbsp/>walce, a<nbsp/>dodatkowo wywalało w<nbsp/>kosmos morale całego oddziału."/>
+	<entry name="CrlaDiscipleFlavor" value="Zbyt wielu ludzi padło do stóp apostołów Cr'li. Istoty te przemierzały ziemie, przyciągając do siebie zdesperowanych ocalałych obietnicą otrzymania mocy Głosu. Wszystkie umęczone dusze, które zdobyli, zostały potępione. Biedne dzieci piekieł, rozpaczliwie pragnące miłości swego mrocznego ojca."/>
+	<entry name="CrusaderBattleTankFlavor" value="Najlepsze czołgi bojowe używane do walki z<nbsp/>potworami. Gdy znów zaczęliśmy je produkować, ludzkość miała już solidną podstawę – oprzyrządowanie do nich wymagało bowiem czegoś lepszego niż fuszera odwalona przy transporterach patrolowych. Ale to wciąż była sowiecka, toporna technologia, żadne tam sztuczne czy inne inteligencje. Sprzęt ten był w<nbsp/>pełni mechaniczny, o<nbsp/>wysokiej precyzji ruchu, od lufy aż po terkoczące bebechy."/>
+	<entry name="CycloneFlavor" value="Gdy zorientowaliśmy się, że wrogowie niedługo przeprowadzą nalot, byliśmy przerażeni. Obrona przeciwlotnicza ze starego świata nie była w<nbsp/>stanie ich powstrzymać. Nasi inżynierowie pogrzebali więc w<nbsp/>archiwach, dzięki czemu byliśmy w<nbsp/>stanie zoptymalizować namierzanie systemu przeciwlotniczego na platformie mobilnej. Ale sterowanie musiało się odbywać bardzo skrupulatnie."/>
+	<entry name="DarkVassaelFlavor" value="Nie wszyscy, którzy słyszą Głos, są w<nbsp/>stanie go pojąć. Nie wszyscy wracają z<nbsp/>krawędzi… i<nbsp/>nie wszyscy wracają sami. Czy lepiej jest wrócić w<nbsp/>taki sposób – jako worek połączonych ludzkich systemów i<nbsp/>umysłów – czy nie wracać wcale? Jak w<nbsp/>ogóle tam jest?"/>
+	<entry name="DeformityFlavor" value="Każde stworzenie zaczyna umierać w<nbsp/>momencie, gdy po raz pierwszy łapie oddech. Deformacje odczuwają to z<nbsp/>każdą mijającą sekundą. Są hodowane, by wytwarzać nowe generacje z<nbsp/>martwych wrogów. Gdy skończą zabijać, całe pokolenia tych istot po prostu przestaną istnieć."/>
+	<entry name="DevoteeOfThrokosFlavor" value="Czasami podczas rekonesansów widywaliśmy kultystów Głosu okaleczających własne ciała, aby ujrzeć swoich bogów. Popaprańcy Throkosa – patrzyłem przez lornetkę, jak pochłaniali całe talerze jaj zmutowanych owadów. Odrażający, obleśny widok. To wyglądało jak rytualne samobójstwo… aż zobaczyłem robale wyrywające się z<nbsp/>ich ciał. To nie było samobójstwo, tylko ponowne narodziny. Jako robactwo, najniższa forma życia."/>
+	<entry name="DreameaterFlavor" value="Nazywamy je pożeraczami umysłów, lecz tak naprawdę żywią się naszymi duszami. Dokładnie wiedzą, gdzie w<nbsp/>ludzkim mózgu przebiega cienka linia między związkami chemicznymi a<nbsp/>świadomością. Jeśli zbytnio się zbliżysz, złapią cię, otworzą czaszkę, znajdą tę linię… i<nbsp/>wypiją wszystko, co czyni cię naprawdę żyjącym człowiekiem."/>
+	<entry name="ElectOfUzhodaiFlavor" value="Te ogromne, bezwzględne bestie kurewsko mnie przerażały. Wielkie jak czołg. Ramiona zakończone ostrzami. A<nbsp/>co robiły, odpoczywając w<nbsp/>swojej kwaterze głównej? Siedziały spokojnie, tocząc w<nbsp/>martwym języku głębokie filozoficzne dysputy o<nbsp/>ruchu wymiarowym z<nbsp/>podziwiającymi ich kultystami Głosu."/>
+	<entry name="ElohimMaelstromFlavor" value="Gdy te machiny weszły do gry, fortece, które miały przetrwać dekady, padły niczym zamki z<nbsp/>piasku. Z<nbsp/>każdym wystrzałem ich grzbiety wyginały się w<nbsp/>górę i<nbsp/>w<nbsp/>dół. Oddziały, które zauważyły tę prawidłowość i<nbsp/>w<nbsp/>porę się schowały, przeżyły nieco dłużej – do czasu aż zawaliły się mury."/>
+	<entry name="EMPDroneFlavor" value="Choć drony bojowe mogą rozpraszać uwagę, to jednak drony elektromagnetyczne powinny być priorytetowym celem ataku. Nie dasz rady zabić operatora, jeśli jeden z<nbsp/>tych latających kubłów rozwali ci całą elektronikę. Dokonują autodestrukcji, by ułatwić zabójstwo przeciwnika."/>
+	<entry name="EngineerFlavor" value="Niektórzy przeszli formalne szkolenie, większość go nie miała. Naukowcy, pracownicy budowlani, technicy. To, co odróżniało ludzi zwanych przez nas inżynierami od całej reszty, to fakt posiadania umiejętności potrzebnych do wykonania każdej zleconej roboty. A<nbsp/>ci, którzy ich nie mieli…? Cóż, już ich z<nbsp/>nami nie było."/>
+	<entry name="ErelimAssassinFlavor" value="Potrzebowaliśmy subtelniejszych metod prowadzenia wojny. W<nbsp/>nowym świecie zamiana pocisków na sztylety już nie wystarczała i<nbsp/>potrzebni byli skrytobójcy, którzy potrafili również zakrzywiać fale świetlne. Zastanawiałem się tylko – czy te kobiety nadal uważały się za ludzi? Czy były to już tylko układy ostrzy schowane pod ludzką skórą?"/>
+	<entry name="ExousiaMarauderFlavor" value="Przysięgam, że widziałem je w<nbsp/>telewizji, zanim jeszcze przybyli Akrynowie – olbrzymie poduszkowce wykorzystywane do szybkiego transportu lub do akcji ratunkowych na platformach wiertniczych czy tankowcach. Teraz jednak działają z<nbsp/>dala od morza… i<nbsp/>wcześniej raczej nie miały na wyposażeniu baterii rakiet…"/>
+	<entry name="FallenOrolosFlavor" value="Jęzor, zęby i<nbsp/>jedno oko spoglądające przez twoje ramię, szukając ofiary, którą mógłby trafić swym pełnym zarazy ogniem… Zapytałem, jaki kultysta mógłby przekształcić się w<nbsp/>coś takiego. Żaden. To coś wyrosło z<nbsp/>nowotworu. Był to powolny i<nbsp/>kosztowny proces, który dał temu organizmowi całą pożądaną masę oraz możliwości rozprzestrzeniania się, jakich nie miał nigdy wcześniej."/>
+	<entry name="HadesBomberFlavor" value="Bombowce „Hades” wylatywały tylko raz. Ciągłe startowanie i<nbsp/>lądowanie przy przewożeniu tak ważnych ładunków byłoby bardzo drogie. Konserwacja i<nbsp/>wymiana załogi musiała odbywać się w<nbsp/>powietrzu. Na dole pojawiały się tylko w<nbsp/>formie niszczycielskiego ognia – i<nbsp/>zostawały po nich jedynie ogromne, gładkie niczym szkło kratery."/>
+	<entry name="HammerheadFlavor" value="Zawisaki były potężne, lecz chaotyczne. Gdy zostały sprowokowane do walki, obierały cel i<nbsp/>uderzały w<nbsp/>niego wielokrotnie, a<nbsp/>każdy kolejny cios był mocniejszy od poprzedniego. Co przewrotne, gdy nie atakowały nikogo, były niczym robotyczni ogrodnicy, ponieważ specjalizowały się w<nbsp/>karczowaniu krwawych pnączy Głosu."/>
+	<entry name="HashmallimHostFlavor" value="Zastępy haszmali były rozlokowywane wraz z<nbsp/>licznymi jednostkami wspierającymi. Gdy zastępy te otrzymywały zbyt wiele obrażeń, ich obwody elektryczne mogły zostać wystawione na działanie ich własnych projektorów grawitonów. Nigdy nie poznałem szczegółów, ale ogólnie mówiono nam, że mieszanie w<nbsp/>grawitacji powoduje mieszanie w<nbsp/>czasie, a<nbsp/>zakrzywienia czasoprzestrzenne z<nbsp/>kolei zatruwają działanie sztucznej inteligencji."/>
+	<entry name="HeadquartersFlavor" value="Obrona serca miasta wymagała pewnego rodzaju uporu. Gdybyś tam stacjonował i<nbsp/>widział, że coś zaczyna się dziać, nie byłoby mowy o<nbsp/>ucieczce. To robota dla upartych oraz dla głupich – czyli dla tych, którzy wolą zginąć niż splamić swój honor porażką."/>
+	<entry name="IokSwarmFlavor" value="Z początku myślałem, że to po prostu nietoperze, choć było to dziwne, bo latały w<nbsp/>ciągu dnia. Ale wtedy ich maź trafiła w<nbsp/>mój pancerz; pokryła mi ramię, a<nbsp/>ból, który poczułem, był nie do opisania. Potem do moich uszu doleciało ich skrzeczenie i<nbsp/>już wiedziałem, że muszę zacząć strzelać."/>
+	<entry name="IshimEnforcerFlavor" value="Uszkodzone ciało żołnierza było jedynie podstawą dla lepszej broni. Paraliż? Zespolą ci kręgosłup. Brakujące kończyny? Dadzą ci coś lepszego. Wkrótce części zamienne zostały ustandaryzowane, a<nbsp/>żołnierze byli w<nbsp/>nie wyposażani, czy tego potrzebowali, czy też nie."/>
+	<entry name="IthurielHarbingerFlavor" value="„Kurwa, to nie jest gra!” – krzyknąłem do robota. A<nbsp/>on, Zwiastun, przygniótł mnie swoją ogromną stopą. Tropiłem go przez wiele dni, nie zdając sobie sprawy, że to on poluje na mnie. Zwabił mnie w<nbsp/>pułapkę, potem mnie zmiażdżył i<nbsp/>wycelował działo w<nbsp/>moją twarz. „Warunek zwycięstwa osiągnięty” – powiedział spokojnie, a<nbsp/>jego działo plazmowe świeciło coraz mocniej. – „Cel zostanie zlikwidowany za 3, 2, 1…”"/>
+	<entry name="KriteriaAnnihilatorFlavor" value="Gałąź SI kontrolująca niszczycieli była najbardziej krwiożerczą machiną, jaką kiedykolwiek napotkaliśmy. Gdy tylko udało jej się dokonać zabójstwa, pragnęła kolejnego. I<nbsp/>kolejnego. I<nbsp/>jeszcze następnego."/>
+	<entry name="KryptArchaiFlavor" value="Co było najbardziej niepokojącego w<nbsp/>kryptarchaju? Poruszający się sześcian, ponieważ nie miał on żadnego źródła zasilania. Skąd pochodziła ta cała energia? Z<nbsp/>powietrza, z<nbsp/>kosmosu? A<nbsp/>może sięgał on do innego wymiaru, czerpiąc stamtąd chaos, by zabijać w<nbsp/>naszym świecie."/>
+	<entry name="LandanGrahamFlavor" value="Landan Graham. Dowód na to, że nie wszyscy zegarmistrzowie mieli ten sam cel. Był naukowcem szukającym mocy w<nbsp/>opowieściach – nie był jednak jak reszta tych dziwacznych kretynów, których miał w<nbsp/>swoich szeregach. Z<nbsp/>każdym naszym spotkaniem coraz bardziej byłem przekonany, że wie on o<nbsp/>Akrynach o<nbsp/>wiele więcej, niż mówi. Można by nawet pomyśleć, że urodził się w<nbsp/>ich świecie…"/>
+	<entry name="MalakimDestroyerFlavor" value="Gdy tylko zaczynasz dopasowywać się do maszyn, zaczynasz myśleć tak jak one. Dla mnie martwi powinni pozostać martwi. Nasi technicy twierdzili jednak, że to marnotrawstwo taniej organicznej siły. Wystarczy wyciąć niepotrzebne ośrodki emocji, zwiększyć mobilność, podłączyć do pary dużych dział i<nbsp/>już mamy potwora, który spędzałby sen z<nbsp/>powiek wojownikom dawnego świata."/>
+	<entry name="MilitantFlavor" value="Walczył każdy, komu udało się przetrwać. Każdy z<nbsp/>nas mógł być żołnierzem, my jednak nazywaliśmy siebie „bojownikami”, ponieważ odzwierciedlało to fakt, że walczyliśmy w<nbsp/>określonym celu, społecznym lub politycznym. Ludzkość musiała przetrwać. Za wszelką cenę."/>
+	<entry name="MissileTeamFlavor" value="Wielu bojowników było chętnych, by sterować botami przeciwpancernymi z<nbsp/>dala od pola bitwy, lecz między nimi a<nbsp/>piechotą z<nbsp/>linii frontu bardzo szybko pojawiła się niechęć. Rozwiązanie? Obcinaliśmy racje żywnościowe za każdym razem, gdy pilotom z<nbsp/>drużyny przeciwpancernej spadł dron albo nie trafili w<nbsp/>coś rakietą. Lepiej, żeby nienawidzili nas niż siebie nawzajem."/>
+	<entry name="OphanimCarrierFlavor" value="SI opracowało ten transporter, by móc zabijać na dystans, lecz wyposażyło go również w<nbsp/>arsenał dronów zdolny wykonywać inne zadania taktyczne. W<nbsp/>samym środku nocy oddział ten przypominał ciało ze zbyt dużą liczbą latających wokół niego oczu."/>
+	<entry name="OutriderFlavor" value="Powojskowe szybkie transportery kierowane przez bojowników. Nie były projektowane do starć jeden na jednego z<nbsp/>nowymi wrogami ludzkości, ale w<nbsp/>starym świecie nic takie nie było – artyleria, bomby atomowe, pojazdy – wszystko było za słabe. W<nbsp/>transporterze patrolowym miałeś przynajmniej szansę na ucieczkę – i<nbsp/>to dlatego zostało ich tak wiele."/>
+	<entry name="PhenarisEpicureanFlavor" value="Kultyści przekształceni w<nbsp/>epikurejskich Phenaris zachowywali swoją inteligencję. Nie, to nieprawda. Stawali się mądrzejsi i<nbsp/>bardziej poetyccy. Przechodząc przez ogród, mogłeś dojrzeć, jak całe ich grupy debatują na filozoficzne tematy, jednocześnie przeprowadzając rozbiór ciał zaciągniętych do bazy więźniów. Gdyby wyznawcy Głosu wygrali wojnę… to tak by wyglądała przyszłość całej rasy ludzkiej."/>
+	<entry name="PhenarisHunterFlavor" value="Nie ma, kurwa, nic fajnego w<nbsp/>wijących się wężach, a<nbsp/>JESZCZE GORSZA jest ludzka czaszka na grzbiecie węża, wyłaniająca się z<nbsp/>cienia i<nbsp/>dźgająca żołnierzy pozostawionych na straży. Łowcy wybierali swoje cele. Atakowali, a<nbsp/>następnie znikali w<nbsp/>mrokach nocy. Wyglądali jak potwory, ale walczyli jak przedwojenni najemni zabójcy."/>
+	<entry name="PhoenixInterceptorFlavor" value="Mądrale oraz półgłówki wciąż byli najlepszymi pilotami myśliwców. Gdy leciałeś takim samolotem, musiałeś być gotów na taniec z<nbsp/>innym asem przestworzy lub zabawę w<nbsp/>chowanego ze szczękami potwora. Dobrze wyposażony myśliwiec przechwytujący nadawał się do obu tych celów."/>
+	<entry name="PlangentOrolosFlavor" value="Komórki rakowe, które uformowały upadłego orolosa, mogły być kształtowane przez fale dźwiękowe. Istoty zrodzone w<nbsp/>tym procesie były w<nbsp/>stanie słyszeć szepty Głosu, które nie docierały do nikogo innego – szepty przemienione w<nbsp/>niszczycielską broń, której każdy wybuch był potwornym kazaniem boga kształtującego nasz świat."/>
+	<entry name="PraetorianFlavor" value="Żołnierze wyposażeni w<nbsp/>pretoriański pancerz byli przygotowani, by stawić czoła kreaturom trzy razy większym od nich samych lub też przedzierać się przez okablowanie maszyn, które mogłyby zniszczyć świat. Musieliśmy przypominać tym oddziałom, że nie są bogami – że bogów to oni właśnie mają za zadanie zgładzić."/>
+	<entry name="ReaverFlavor" value="Desperacja powiodła niektórych ludzi do straszliwego końca. W<nbsp/>czasach, które mogły być ostatnimi chwilami w<nbsp/>dziejach ludzkości, przehandlowali swoje człowieczeństwo za cenę większej szansy na przeżycie na pustkowiach. Ich ciała stąpały po ziemi, lecz ludzie wewnątrz tych ciał każdego dnia zanikali coraz bardziej."/>
+	<entry name="ReamingCrodeusFlavor" value="Gdy to się pojawiło na polu bitwy, wszystkie wioski i<nbsp/>miasta, w<nbsp/>jakich byłem, stały się… cichsze. Wszyscy siedzieli zamknięci w<nbsp/>domach i<nbsp/>bali się, że Krodeus do nich przyjdzie i<nbsp/>połknie wszystkich w<nbsp/>całości. Zupełnie jak wieśniacy, którzy boją się smoka bytującego w<nbsp/>pobliskich górach…"/>
+	<entry name="RepairDroneFlavor" value="Nie lekceważ tych dronów. Ich zdolności naprawcze sprawiały, że my, ludzie, chcieliśmy móc łatać się tak bezproblemowo jak maszyny. Żartowaliśmy o<nbsp/>tym, co by było, gdyby naprawa ramienia była taka prosta jak wymiana przepalonych obwodów. Niektórzy z<nbsp/>nas… stwierdzili, że to nie był tylko żart."/>
+	<entry name="ScramblerFlavor" value="Jeśli w<nbsp/>pobliżu przemyka ścigacz, myślisz, że to pewnie jakiś dureń szukający śmierci. Przyszły dawca organów. Ale gdy sekundę później pojawia się drugi, trzeci, czwarty, piąty… czujesz, że to coś innego. Oni nie szukają śmierci. Razem odnaleźli wolność na dwukołowych pięciusetkonnych rumakach."/>
+	<entry name="SentryFlavor" value="ZEPHON nie chciał mieć z<nbsp/>nami nic wspólnego. Mógłby nam o<nbsp/>tym powiedzieć prosto z<nbsp/>mostu, ale zamiast tego rozlokował wartowników, którzy wyglądali tak, jakby czegoś chronili. Bardzo szybko okazało się, że potrafią żywić urazę. Jeśli byłeś piechurem, który lubi rozdeptywać mrówki, bo nie mogą oddać, to wartownicy byli jak mrówka, która przegryzie się przez buta i<nbsp/>zanim uda ci się ją zabić, odgryzie ci parę palców u<nbsp/>nogi."/>
+	<entry name="SeraphimArchangelFlavor" value="Procesy równoległe sterujące tą olbrzymią maszyną mówiły jednym głosem. Nie były to jednak słowa, lecz melodia, która powodowała rozedrganie tętnic. Możliwe, że niektóre istoty były w<nbsp/>stanie zrozumieć przekazywaną wiadomość. Na całą resztę czekało unicestwienie."/>
+	<entry name="SharpshooterFlavor" value="Słyszeliście kiedyś, jak porozumiewają się obserwator ze snajperem? To się wydaje takie beznamiętne… przynajmniej do czasu. „Przejdź do sektora delta 3”. „Kontakt”. „5 stopni od ropiejącej stery mięsa”. „Kontakt”. „Przejdź na szkło”. „Cel ma cztery kończyny, w<nbsp/>ustach trzyma rękę. Potwierdzasz?” „Ta… kurwa. Ja pierdolę… tak, to twój cel. Potwierdzam”."/>
+	<entry name="ShochitrisLairFlavor" value="Nigdy byś nie zapomniał spotkania z<nbsp/>Shoch'itrisem. Jego trzewia są głębinami śmierci. Jego skóra pokryta jest pęcherzami z<nbsp/>ropą, a<nbsp/>wypełzające z<nbsp/>niego deformacje śniłyby ci się po nocach. Prawdziwie obłąkani szukali tego szlamu, tego odczucia wilgoci, gdy bestia obejmuje ofiarę swymi mackami."/>
+	<entry name="SurthodaisEmbraceFlavor" value="To… coś. To były kości, kończyny, palce – było tego tak dużo, że wszystko górowało nad całymi plutonami. Myślałem, że ta kreatura będzie kolejnym seryjnie mordującym potworem, a<nbsp/>zachowywała się jak jakaś wynaturzona matka. Bestia brała żołnierzy w<nbsp/>swe ramiona i<nbsp/>przenosiła, głaskając ich tak, jakby o<nbsp/>nich dbała. To była kpina z<nbsp/>rasy ludzkiej."/>
+	<entry name="TesseraCoreFlavor" value="Nienawidziłem zastępów haszmali, ale jedna rzecz związana ze zrzucanymi przez nie rdzeniami obronnymi dodawała otuchy – były one zrozumiałe. Duży obiekt, pozostający nieruchomo w<nbsp/>jednym miejscu. Chroniący to, co znajdowało się po jego drugiej stronie. Posiadający potężną broń grawitacyjną. Prosto i<nbsp/>konkretnie, nie jak inne przekombinowane żelastwa…"/>
+	<entry name="TH3CorsairFlavor" value="Nigdy nie rozumiałem, jak to coś lata. Wyglądało to jak kawałek przetopionego plastiku, jakiś bubel, który jako jedyny ostał się po pożarze. Lecz potem widziałem, jak porusza się w<nbsp/>powietrzu, jak dolatuje we właściwe miejsce, wysadza cały pluton i<nbsp/>płynnie odlatuje. I<nbsp/>zmieniłem zdanie: gdy go wcześniej widziałem, znajdował się w<nbsp/>niewłaściwym otoczeniu – na ziemi, zamiast w<nbsp/>powietrzu – niczym ryba, która wyskoczyła z<nbsp/>wody."/>
+	<entry name="ValkyrieFlavor" value="Wytworzenie pierwszego prawdziwego uzbrojenia mogącego stanąć do walki z<nbsp/>potwornościami nowego świata miało wysoką cenę. Potrzebowaliśmy egzoszkieletów, lecz naukowcy byli w<nbsp/>stanie opracować jedynie takie, w<nbsp/>których piloci będą podłączeni na stałe. Myślałem, że nikt się tego nie podejmie, ale się myliłem; zgłosiło się kilka kobiet z<nbsp/>naszej grupy. Były gotowe wysłać wrogów do Walhalli."/>
+	<entry name="VanquisherSiegeTankFlavor" value="Piechota nienawidzi pilotów, a<nbsp/>piloci nienawidzą piechoty. Obie te grupy nienawidzą załóg artyleryjskich, jak choćby tych w<nbsp/>czołgach oblężniczych, Pogromcach. Te sukinsyny siedzą sobie wygodnie z<nbsp/>dala od walk, nie słysząc nawet krzyków czy wystrzałów. A<nbsp/>jak ich wkurzysz, przypadkowy ogień z<nbsp/>powodu „błędów w<nbsp/>obliczeniach” rozkurwia twój okop."/>
+	<entry name="VorodaisLeviathanFlavor" value="Nigdy nie sprzątnęli klatki zwisającej z<nbsp/>korpusu Lewiatana. Można tam poczuć mieszaninę zatęchłej krwi rannych oddziałów i<nbsp/>ściekającej ropnej mazi. Rzygałem praktycznie zawsze, ale na niektórych… działało to dużo bardziej. Stali w<nbsp/>bezruchu, z<nbsp/>pustym spojrzeniem wpatrywali się w<nbsp/>horyzont i<nbsp/>czekali na swój koniec."/>
+	<entry name="VulkanR5Flavor" value="Te wczesne egzoszkielety, które daliśmy dowódcom, były jedynie prototypami. Gdy nasi technicy w<nbsp/>końcu zaczęli poważnie działać, to zrobione przez nich bronie… R-5 to była przerażająca machina, opracowana, aby przetrwać ostrzał i<nbsp/>pozwolić zbliżyć się do przeciwnika. Wyobraź sobie, że wystrzeliwujesz w<nbsp/>to wszystkie swoje rakiety i<nbsp/>widzisz, jak maszyna znika w<nbsp/>chmurze ognia i<nbsp/>dymu… a<nbsp/>po chwili wyłania się z<nbsp/>płomieni, bez szwanku, i<nbsp/>zaczyna atak."/>
+	<entry name="WardenFlavor" value="ZEPHON mógł opracować każdą maszynę, a<nbsp/>zrobił… to. Dlaczego potężna sztuczna inteligencja produkuje ustrojstwo, które wygląda jak poskręcane z<nbsp/>żelastwa znalezionego na szrocie? Byliśmy kretynami. ZEPHON nie wyprodukował broni, a<nbsp/>jedynie uzbroił samowystarczalną i<nbsp/>autonomiczną stertę złomu. Żyjącej machiny nie obchodzi to, jak szkaradnie wygląda, bo zajęta jest ciągłym wymyślaniem lepszych sposobów na likwidację wrogów."/>
+	<entry name="WastelanderFlavor" value="Każdy narwaniec wśród Łupieżców chciał zasiąść w<nbsp/>tej pięknej bestii i<nbsp/>krzyczeć, tworząc chór z<nbsp/>rykiem sześciocylindrowego silnika diesla… ale znalezienie się w<nbsp/>tej załodze prawdopodobnie oznaczało wyrok śmierci. Można było udusić się spalinami. Nadziać na kolce… albo pośliznąć i<nbsp/>ujrzeć własne kości miażdżone przez rozpędzone koła."/>
+	<entry name="WhispererOfGoldrauchFlavor" value="Mówiono o<nbsp/>pewnej kobiecie, która zasłoniła uszy, zakryła oczy i… zrobiła coś ze swoją skórą… nie chciała po prostu czuć nic… prócz Głosu. Żaden inny człowiek nie rozumiał Akrynów tak, jak ona. Oplotła siebie ich bólem i<nbsp/>wyznaczyła nowy cel. Nie wchodź jej w<nbsp/>drogę."/>
+	<entry name="ZephonTitanFlavor" value="Wartownicy. Zawisaki. Nadzorcy. ZEPHON zawsze był przywiązany do ludzkich maszyn – jak gdyby mógł do nich zajrzeć i<nbsp/>zrozumieć potwory, które je wytworzyły. Jego tytan był machiną przepełnioną głęboką furią, stworzoną z<nbsp/>serca zardzewiałego pancernika, który niegdyś siał śmierć na oceanie."/>
+</language>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+We're only doing the absolutely necessary pop-up tips to be able to play (win introduction).
+
+Text is shortest possible. Use simple words. Short sentences. Skip flavor.
+
+Too many tips that pop-up means the player is interrupted, annoyed and stops reading all of them.
+
+We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
+-->
+<language>
+	<entry name="AcquireTile" value="Присоединение клетки"/>
+	<entry name="AcquireTileDescription" value="Перед строительством зданий вы должны захватить для них территорию. Нажмите на &lt;icon height='20' texture='Icons/Actions/AcquireTile'/&gt;&lt;nbsp/&gt;Присоединение клетки и &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;выберите клетку с 1 или более &lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;&lt;nbsp/&gt;слотами для зданий."/>
+	<entry name="AllianceVictory" value="Союзная победа"/>
+	<entry name="AllianceVictoryDescription" value="Даже если вы в союзе со всеми, для достижения победы все ваши союзники тоже должны быть в союзе друг с другом."/>
+	<entry name="Bleed" value="Течь"/>
+	<entry name="BleedDescription" value="&lt;icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/&gt;&lt;nbsp/&gt;Течь каждый ход наносит урон наземным юнитам. Не задерживайтесь на ней надолго."/>
+	<entry name="Camera" value="Камера"/>
+	<entry name="CameraDescription" value="Добро пожаловать на Землю после конца света. Чтобы переместить камеру, &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;нажмите на ландшафт и передвиньте мышь."/>
+	<entry name="CloseQuartersFire" value="Стрельба в упор"/>
+	<entry name="CloseQuartersFireDescription" value="У воинов есть оружие со свойством «&lt;icon height='20' texture='Icons/Traits/CloseQuartersFire'/&gt;&lt;nbsp/&gt;Стрельба в упор», поэтому они атакуют с удвоенной эффективности на дальности 1. Оцените позиционирование перед тем, как атаковать."/>
+	<entry name="Combat" value="Бой"/>
+	<entry name="CombatDescription" value="Нанесённый урон рассчитывается исходя из урона оружия, точности, числа атак и бронебойности, но урон оружия сперва ограничивается сверху единицами жизни одного члена целевого отряда."/>
+	<entry name="CombatAdvanced" value="Бой (углублённо)"/>
+	<entry name="CombatAdvancedDescription" value="Есть несколько важных факторов, которые следует знать о расчёте урона.&lt;br/&gt;&lt;br/&gt;Каждый отряд состоит из некоторого числа одинаковых членов группы, а общие единицы жизни юнита складываются из единиц жизни каждого отдельного члена группы. Когда юнит теряет единицы жизни, эквивалентные члену отряда, этот член группы погибает, и его оружие больше не участвует в атаках, что эффективно снижает наносимый урон на долю, соответствующую этому члену отряда. Лечение отряда возвращает к жизни членов группы и восстанавливает мощь юнита. Одиночные юниты (например, большие юниты) считаются повреждёнными, когда у них менее 50% единиц жизни, что снижает на 33% их точность.&lt;br/&gt;&lt;br/&gt;При подсчёте итогового нанесённого урона урон оружия прежде всего ограничивается сверху единицами жизни одного члена целевого отряда. Это значит, что одна атака оружия не может нанести больше урона, чем есть единиц жизни у одного члена целевого отряда. Таким образом, оружие с уроном 6, применённое против юнита «Воины», где у каждого воина по 2 единицы жизни, никогда не нанесёт больше 2 единиц урона. Это неприменимо к одиночным юнитам (например, большим юнитам), поскольку их общие единицы жизни равны единицам жизни их члена.&lt;br/&gt;&lt;br/&gt;После учёта ограничения единиц жизни мультипликативно применяются атаки, точность, броня цели и другие сокращения урона.&lt;br/&gt;&lt;br/&gt;Атаки определяют число атак, которое оружие совершает против цели, когда юнит атакует. Это наиболее ценный для повышения параметр, поскольку от него зависит урон после учёта ограничения единиц жизни. И, в отличие от точности, у него нет верхнего предела.&lt;br/&gt;&lt;br/&gt;Точность варьируется от 2 до 12, каждая единица составляет 1/12 или 0,083 от итогового урона. Её невозможно снизить ниже 2 или повысить выше 12.&lt;br/&gt;&lt;br/&gt;Броня и другие сокращения урона (укрытие, уклонение, город, неснижаемое) одного типа складываются вместе, а затем каждый тип мультипликативно снижает урон на свою величину, но ни один отдельный тип не может снизить урон более чем на 10/12 или 83%. Бронебойность определяет, сколько единиц брони игнорируется. Если не указано обратное, все сокращения урона применяются и к оружию ближнего боя, и к дистанционному.&lt;br/&gt;&lt;br/&gt;Свойства применяются с учётом этих основных факторов. Например, оружие со свойством «Разброс» получают дополнительные атаки за каждого дополнительного живого члена целевого отряда, а оружие со свойством «Игнорирует укрытия» позволяет игнорировать сокращение урона за укрытие целевого юнита.&lt;br/&gt;&lt;br/&gt;Некоторые следствия этих факторов:&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Повышение урона оружия не всегда повышает наносимый урон.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Пехота более вынослива, чем кажется по её единицам жизни. Оружие без разброса с высоким уроном одной атаки не убьёт более одного члена отряда. А при полных единицах жизни не сможет убить даже одного члена группы, если только оружие не обладает точностью 100%.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Для поражения пехоты лучше иметь высокую точность, больше атак или атаки с разбросом.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Получение единиц жизни при повышении уровня не так полезно для членов группы с низкими единицами жизни. Повышение единиц жизни нивелируется повышением ограничения единиц жизни одного члена отряда, что делает это бесполезным против оружия, которое уже превышает это ограничение.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Лечение более полезно для пехоты.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Фиксированный бонус к низкой точности более полезен, чем к высокой. Например, повышение точности с 6 до 8 (от 50% до 67%) означает повышение урона на 33%. В то же время повышение точности с 8 до 10 (от 67% до 83%) означает повышение урона на 25%.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Сокращение урона одного типа приносит лучший результат. Например, повышение брони с 0 до 1 означает повышение выживаемости только на (12-0)/(12-1)=+9%. В то же время повышение брони с 9 до 10 означает повышение выживаемости на (12-9)/(12-10)=+50%."/>
+	<entry name="ConstructInfantryBuilding" value="Постройка казарм"/>
+	<entry name="ConstructInfantryBuildingDescription" value="Постройте здание по производству юнитов, чтобы укрепить свои шаткие позиции. Нажмите на &lt;icon height='20' texture='Icons/Buildings/HumanInfantry'/&gt;&lt;nbsp/&gt;Казармы и &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;выберите подходящую клетку, чтобы начать строительство."/>
+	<entry name="Cover" value="Укрытие"/>
+	<entry name="CoverDescription" value="&lt;icon height='20' texture='Icons/Features/Forest'/&gt;&lt;nbsp/&gt;Леса, &lt;icon height='20' texture='Icons/Features/Ruins'/&gt;&lt;nbsp/&gt;руины, &lt;icon height='20' texture='Icons/Traits/Outpost'/&gt;&lt;nbsp/&gt;заставы и &lt;icon height='20' texture='Icons/Features/City'/&gt;&lt;nbsp/&gt;города наделяют НЕ-большие юниты сокращением дистанционного урона. Пользуйтесь укрытиями при любой возможности."/>
+	<entry name="EnemyInCity" value="Враг внутри города"/>
+	<entry name="EnemyInCityDescription" value="Вражеские юниты отключают здания и заставы, а также мешают строительству новых зданий на занятых ими клетках."/>
+	<entry name="EquipItem" value="Использование предметов"/>
+	<entry name="EquipItemDescription" value="&lt;icon height='20' texture='Icons/RightMouseButton'/&gt;&lt;nbsp/&gt;Щёлкните по предмету, чтобы дать его своему герою. Только что взятые предметы перезаряжаются 1 ход, прежде чем их можно использовать."/>
+	<entry name="FoundCity" value="Основание города"/>
+	<entry name="FoundCityDescription" value="Чтобы основать город, нажмите на &lt;icon height='20' texture='Icons/Actions/FoundCity'/&gt;&lt;nbsp/&gt;Основание города и &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;выберите клетку."/>
+	<entry name="HabitationBlocks" value="Жилые блоки"/>
+	<entry name="HabitationBlocksDescription" value="Каждому зданию, за исключением штаба, для работы требуется 1 единица &lt;icon height='20' texture='Icons/Attributes/Population'/&gt;&lt;nbsp/&gt;населения. Для повышения количества &lt;icon height='20' texture='Icons/Attributes/PopulationLimit'/&gt;&lt;nbsp/&gt;жилья (лимита населения) вашего города необходимо исследовать и построить &lt;icon height='20' texture='Icons/Buildings/PopulationLimit'/&gt;&lt;nbsp/&gt;Жилые блоки."/>
+	<entry name="Healing" value="Лечение"/>
+	<entry name="HealingDescription" value="Юнит получил значительный урон. Для лечения он должен оставаться на месте и не вступать в бой. Нажмите на &lt;icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/&gt;&lt;nbsp/&gt;Удержание позиции до исцеления, чтобы дождаться, пока юнит не восстановит все силы. Не лишним будет отступить к дружественной заставе или городу, где лечение идёт быстрее."/>
+	<entry name="Housing" value="Жильё"/>
+	<entry name="HousingDescription" value="В городе закончилось свободное &lt;icon height='20' texture='Icons/Attributes/PopulationLimit'/&gt;&lt;nbsp/&gt;жильё. Постройте &lt;icon height='20' texture='Icons/Buildings/PopulationLimit'/&gt;&lt;nbsp/&gt;Жилые блоки, чтобы увеличить жилое пространство и позволить населению дальше расти."/>
+	<entry name="Loyalty" value="Лояльность"/>
+	<entry name="LoyaltyDescription" value="Отрицательная лояльность снижает производство ресурсов городом. Исследуйте и постройте &lt;icon height='20' texture='Icons/Buildings/Loyalty'/&gt;&lt;nbsp/&gt;голотеатр, чтобы ваше население трудилось более эффективно."/>
+	<entry name="MarkTiles" value="Метка клеток"/>
+	<entry name="MarkTilesDescription" value="&lt;string name='Tips/Loading/54'/&gt;"/>
+	<entry name="Morale" value="Боевой дух"/>
+	<entry name="MoraleDescription" value="Потеря союзников поблизости сказалась на &lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;&lt;nbsp/&gt;боевом духе юнита. Это ухудшит его боевые качества. Чтобы юнит восстановился, не давайте ему вступать в бой или, наоборот, убивайте вражеские юниты."/>
+	<entry name="Movement" value="Движение"/>
+	<entry name="MovementDescription" value="Переместите выбранный юнит, нажав &lt;icon height='20' texture='Icons/RightMouseButton'/&gt;. Каждый юнит может двигаться только один раз за ход."/>
+	<entry name="NPCs" value="Неигровые персонажи"/>
+	<entry name="NPCsDescription" value="Помимо вас, борьбу за превосходство ведут три неигровых лидера: &lt;icon height='20' texture='Icons/Factions/Anchorite'/&gt;&lt;nbsp/&gt;Анахорет, &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt;&lt;nbsp/&gt;Дикарка и &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt;&lt;nbsp/&gt;ЗЕФОН. Заключенный с ними мир позволяет вам запрашивать их поддержку. Хорошие отношения также дают доступ к дополнительным вариантам в заданиях."/>
+	<entry name="Population" value="Население"/>
+	<entry name="PopulationDescription" value="Городу не хватает &lt;icon height='20' texture='Icons/Attributes/Population'/&gt;&lt;nbsp/&gt;населения для эффективной работы всех зданий. Вы можете щёлкнуть по значку &lt;icon height='20' texture='Icons/DisableBuilding'/&gt;, чтобы отключить здание."/>
+	<entry name="ProduceUnits" value="Производство юнитов"/>
+	<entry name="ProduceUnitsDescription" value="Начните в казармах производство &lt;icon height='20' texture='Icons/Units/Militant'/&gt;&lt;nbsp/&gt;Воинов. Другие здания продолжают своё производство в то же время. Если вы построите больше казарм, то обучение юнитов будет проходить быстрее."/>
+	<entry name="Recon" value="Разведка"/>
+	<entry name="ReconDescription" value="У многих юнитов есть активируемые способности. «Колесницы» могут раскрывать окружающую местность при помощи способности &lt;icon height='20' texture='Icons/Actions/Recon'/&gt;&lt;nbsp/&gt;Разведка."/>
+	<entry name="Research" value="Исследование"/>
+	<entry name="ResearchDescription" value="Неплохим началом будет исследовать героя. После этого вы сможете произвести его в штабе. Учтите, что смена текущего исследования сбросит весь частичный прогресс."/>
+	<entry name="TheConcordat" value="Конкордат"/>
+	<entry name="TheConcordatDescription" value="В &lt;icon height='20' texture='Icons/Shop'/&gt;&lt;nbsp/&gt;Конкордате вы в любое время можете покупать и продавать ресурсы и предметы для героев."/>
+	<entry name="Transports" value="Транспорты"/>
+	<entry name="TransportsDescription" value="Транспорты могут перевозить НЕ-большие юниты. Для погрузки &lt;icon height='20' texture='Icons/RightMouseButton'/&gt;&lt;nbsp/&gt;переместите юнит в клетку с транспортом. Погруженные юниты лечатся внутри, но при уничтожении транспорта весь груз тоже погибает вместе с ним."/>
+	<entry name="Selection" value="Выбор"/>
+	<entry name="SelectionDescription" value="&lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;щёлкните по юниту, чтобы его выбрать."/>
+	<entry name="Winning" value="Победа"/>
+	<entry name="WinningDescription" value="Чтобы победить, нанесите поражение всем игрокам или объедините всех в один союз."/>
+	<!-- Meat Harvest/player ability usage. -->
+	<!-- Dremeater in sight. Maybe fancier trigger condition, -->	
+	<!-- <entry name="Dreameaters" value="Dreameaters"/>
+	<entry name="DreameatersDescription" value="It would be wise to gather a sizable force before engaging this horror."/> -->
+
+	<entry name="Loading" value="Советы с загрузочных экранов"/>
+	<entry name="Loading/0" value="Огонь и Течь останавливают наземные юниты и наносят им урон."/>
+	<entry name="Loading/1" value="Реки, леса и руины замедляют движение наземных юнитов."/>
+	<entry name="Loading/2" value="&lt;string name='Tips/CoverDescription'/&gt;"/>
+	<entry name="Loading/3" value="Дороги повышают скорость движения наземных юнитов."/>
+	<entry name="Loading/4" value="&lt;string name='Attributes/HitpointsDescription/Healing'/&gt;"/>
+	<entry name="Loading/5" value="Юниты лечатся быстрее в заставах и городах."/>
+	<entry name="Loading/6" value="&lt;string name='Attributes/DamageDescription/Reductions'/&gt;"/>
+	<entry name="Loading/7" value="&lt;string name='Attributes/AccuracyDescription'/&gt;"/>
+	<entry name="Loading/8" value="&lt;string name='Attributes/ArmorDescription/Reduction'/&gt;"/>
+	<entry name="Loading/9" value="&lt;string name='Attributes/GroupSizeDescription/Change'/&gt;"/>
+	<entry name="Loading/10" value="&lt;string name='Attributes/LevelDescription/Death'/&gt;"/>
+	<entry name="Loading/11" value="&lt;string name='Attributes/LevelDescription/DeathNoAttacker'/&gt;"/>
+	<entry name="Loading/12" value="&lt;string name='Attributes/LevelDescription/Effect'/&gt;"/>
+	<entry name="Loading/13" value="&lt;string name='Attributes/MoraleDescription/Regeneration'/&gt;"/>
+	<entry name="Loading/14" value="&lt;string name='Attributes/MoraleDescription/Shaken'/&gt;"/>
+	<entry name="Loading/15" value="&lt;string name='Attributes/MoraleDescription/Broken'/&gt;"/>
+	<entry name="Loading/16" value="&lt;string name='Attributes/MoraleDescription/Death'/&gt;"/>
+	<entry name="Loading/17" value="Силы обороны города подвержены влиянию усилений, ослаблений и боевого духа."/>
+	<entry name="Loading/18" value="При убийстве абханов вы получаете награду в виде ресурсов и предмета."/>
+	<entry name="Loading/19" value="Нейтральные юниты не преследуют вас, если их не атакуют."/>
+	<entry name="Loading/20" value="Производство второго героя стоит вдвое больше."/>
+	<entry name="Loading/21" value="Высота местности и особенности клеток влияют на обзор и дальность юнитов."/>
+	<entry name="Loading/22" value="Снижение вражеского боевого духа весьма эффективно и может переломить ход сражения, которое вы уже считали проигранным."/>
+	<entry name="Loading/23" value="&lt;string name='Tips/TheConcordatDescription'/&gt;"/>
+	<entry name="Loading/24" value="Нехватка ресурса снижает производство зданий, для которых он требуется."/>
+	<entry name="Loading/25" value="Недостаток ресурсов вызывает у юнитов нехватку припасов, что ведёт к снижению их точности."/>
+	<entry name="Loading/26" value="Чем дольше юнит страдает от нехватки припасов, тем сильнее снижается его точность."/>
+	<entry name="Loading/27" value="Присоединение клетки с заставой к городу даёт всему городу процентные бонусы."/>
+	<entry name="Loading/28" value="Строительство нескольких зданий одного типа повышает скорость их производства."/>
+	<entry name="Loading/29" value="Излишки производства и исследования не теряются, а сохраняются для последующего применения."/>
+	<entry name="Loading/30" value="&lt;string name='Tips/HabitationBlocksDescription'/&gt;"/>
+	<entry name="Loading/31" value="Население может вырасти только до того количества, которое позволяет имеющееся жильё."/>
+	<entry name="Loading/32" value="&lt;string name='Attributes/GrowthDescription/Increase'/&gt;"/>
+	<entry name="Loading/33" value="&lt;string name='Attributes/GrowthDescription/Decrease'/&gt;"/>
+	<entry name="Loading/34" value="Нехватка населения заставляет распределять рабочие руки поровну по всем зданиям, пропорционально снижая их производство."/>
+	<entry name="Loading/35" value="&lt;string name='Attributes/LoyaltyDescription/Effect'/&gt;"/>
+	<entry name="Loading/36" value="&lt;string name='Attributes/LoyaltyDescription/CityPenalty'/&gt;"/>
+	<entry name="Loading/37" value="Влияние: &lt;string name='Attributes/InfluenceDescription'/&gt;"/>
+	<entry name="Loading/38" value="Нажмите [&lt;control name='ToggleYieldOverlay'/&gt;], чтобы показать информацию обо всех клетках."/>
+	<entry name="Loading/39" value="[&lt;control name='ToggleBuildingPower'/&gt;] по значку здания на клетке, чтобы выключить его питание, тем самым высвободив население и потребляемые зданием ресурсы."/>
+	<entry name="Loading/40" value="[&lt;control name='DismantleBuilding'/&gt;] по значку здания на клетке, чтобы снести здание."/>
+	<entry name="Loading/41" value="Повреждённые города производят меньше ресурсов, пока не будут отремонтированы."/>
+	<entry name="Loading/42" value="Накопленные ресурсы доступны для всей вашей экономики, что позволяет специализировать города и запасаться на случай войны."/>
+	<entry name="Loading/43" value="&lt;string name='Tips/WinningDescription'/&gt;"/>
+	<entry name="Loading/44" value="Укрепления, летуны и титаны находятся выше горизонта, и потому по ним проще найти линию стрельбы."/>
+	<entry name="Loading/45" value="Исследование технологий вне вашей склонности может привести к неожиданным эффективным сочетаниям."/>
+	<entry name="Loading/46" value="Каждая клетка даёт бонус ресурсов, который повышает производство в зданиях на этой клетке."/>
+	<entry name="Loading/47" value="Юниты, у которых остались действия, показаны соответствующим &lt;icon texture='Icons/Attributes/Actions'/&gt;&lt;nbsp/&gt;значком."/>
+	<entry name="Loading/48" value="Неагрессивные нейтральные юниты могут напасть на вас в свой ход, если вы в области их атаки."/>
+	<entry name="Loading/49" value="Даже неагрессивные нейтральные юниты атакуют из дозора любого, кто входит в область их атаки."/>
+	<entry name="Loading/50" value="Иногда стоит отключать дозор, чтобы случайно не спровоцировать агрессию нейтральных юнитов своими атаками."/>
+	<entry name="Loading/51" value="Урон, наносимый одной атакой оружием, ограничивается сверху единицами жизни члена целевого отряда, а затем снижается в зависимости от точности оружия."/>
+	<entry name="Loading/52" value="Атаки с разбросом поражают до 2 дополнительных членов отряда, нанося втрое больше урона по сравнению с одним."/>
+	<entry name="Loading/53" value="Большие юниты получают -33% к точности, когда у них менее половины единиц жизни."/>
+	<entry name="Loading/54" value="[&lt;control name='MarkTile'/&gt;] помечает клетки для вас и ваших союзников. Союзные ИИ склонны передвигать свои юниты ближе к вашим меткам."/>
+	<entry name="Loading/55" value="&lt;string name='Tips/AllianceVictoryDescription'/&gt;"/>
+	<entry name="Loading/56" value="Эффекты «каждого хода» (например, «В огне») срабатывают в начале хода исходного игрока."/>
+	<entry name="Loading/57" value="Юниты видят окружающую местность в радиусе 3 клеток."/>
+	<entry name="Loading/58" value="Заставы и города обеспечивают видимость смежных клеток."/>
+	<entry name="Loading/59" value="Последняя координата клетки — это её высота (X, Y, высота)."/>
+	<entry name="Loading/60" value="Передавайте предметы смежным союзным героям, перетаскивая их между клетками снаряжения."/>
+	<entry name="Loading/61" value="[&lt;control name='OrderAllIdleUnits'/&gt;] — приказ всем бездействующим юнитам."/>
+	<entry name="Loading/62" value="[&lt;control name='OrderAllUnits'/&gt;] — приказ всем юнитам."/>
+	<entry name="Loading/63" value="[&lt;control name='OrderAreaUnits'/&gt;] — приказ всем юнитам в области (радиус 3)."/>
+	<entry name="Loading/64" value="Перемещайте юниты на большие расстояния, щёлкая правой кнопкой по миникарте."/>
+	<entry name="Loading/65" value="&lt;string name='Tips/CombatDescription'/&gt;"/>
+	<entry name="Loading/66" value="Течь, леса, руины, вулканы и городские здания блокируют обзор юнитов."/>
+	<entry name="Loading/67" value="&lt;string name='Tips/EnemyInCityDescription'/&gt;"/>
+	<entry name="Loading/Count" value="68"/>
+</language>

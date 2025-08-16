@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbyssalRage" value="深渊狂怒"/>
+	<entry name="AcquireTile" value="获取地块"/>
+	<entry name="AcquireTileProperties" value="<icon texture='GUI/Bullet'/>获取距离<icon height='20' texture='Icons/Buildings/Headquarters'/>总部<br/>至多不超过%1%格范围以内的目标地面地块<icon texture='GUI/Bullet'/>仅可在已经获取的地块中建造建筑<br/><icon texture='GUI/Bullet'/>每栋建筑需要消耗1个免费的<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑槽位<br/><icon texture='GUI/Bullet'/>每个已经获取的地块都需要支付%2%<icon height='20' texture='Icons/Attributes/Influence'/>的影响力维护费用"/>
+	<entry name="AngelFlight" value="天使之翼"/>
+	<entry name="AntimatterDilation" value="反物质扩张"/>
+	<entry name="AntiparticlePurge" value="反粒子净化"/>
+	<entry name="Apotheosis" value="肉胎化神"/>
+	<entry name="Appear" value="现身"/>
+	<entry name="ArmorOfFaith" value="信仰之铠"/>
+	<entry name="ArtificersPrecision" value="一针见血"/>
+	<entry name="Assassinate" value="暗杀"/>
+	<entry name="AtramentousAura" value="墨迹光环"/>
+	<entry name="Attack" value="攻击"/>
+	<entry name="AuraOfDiscipline" value="纪律光环"/>
+	<entry name="AuraOfTheFalseSpeaker" value="虚假言者的光环"/>
+	<entry name="AuraOfTheFalseSpeakerFlavor" value="<string name='Quests/WhispersOfAFalseProphet/ProtectErelimSuccess2'/>"/>
+	<entry name="BionicImplant" value="生化植入物"/>
+	<entry name="BlackHole" value="黑洞"/>
+	<entry name="BreedDeformities" value="孵化畸变体"/>
+	<entry name="BreedDeformities0" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities0Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="BreedDeformities1" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities1Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="BreedDeformities2" value="<string name='Actions/BreedDeformities'/>"/>
+	<entry name="BreedDeformities2Flavor" value="<string name='Actions/BreedDeformitiesFlavor'/>"/>
+	<entry name="Bombardment" value="轰炸"/>
+	<entry name="BuyHint" value="<style name='Title'/>购买%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="BuyHintMax" value="[<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>]购买最大上限(%1%/%2%)。"/>
+	<entry name="BuyHintMore" value="[<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>]购买x 10(%1%/%2%)。"/>
+	<entry name="CallTheAfflicted" value="召唤被诅咒者"/>
+	<entry name="CausalWell" value="<string name='Traits/CausalWell'/>"/>
+	<entry name="CausalWellFlavor" value="<string name='Traits/CausalWellFlavor'/>"/>
+	<entry name="Capture" value="捕获"/>
+	<entry name="CarrionGlut" value="<string name='Traits/CarrionGlut'/>"/>
+	<entry name="CarrionGlutFlavor" value="<string name='Traits/CarrionGlutFlavor'/>"/>
+	<entry name="CarrionGlutProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+4<style color='Default'/> <string name='Attributes/HitpointsIcon'/>生命值/每次有单位死亡时"/>
+	<entry name="Cataphora" value="蜕变"/>
+	<entry name="CauterizeWounds" value="烧烙伤口"/>
+	<entry name="CherubicHallowing" value="智天使的圣佑"/>
+	<entry name="ChoralCelerity" value="魔音贯耳"/>
+	<entry name="ChoralCelerityProperties" value="<string name='Actions/HiredHandsDescription'/>"/>
+	<entry name="ClearTile" value="清理地块"/>
+	<entry name="ClearTileDescription" value="<icon texture='GUI/Bullet'/>移除目标地块中的<icon height='20' texture='Icons/Features/Mines'/>地雷、<icon height='20' texture='Icons/Features/Bleed'/>异血、<icon height='20' texture='Icons/Features/Ruins'/>废墟以及<icon height='20' texture='Icons/Features/Forest'/>森林，每次移除1项<br/><icon texture='GUI/Bullet'/>完成后目标地块将获得1个额外的<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑槽位"/>
+	<entry name="CombatRoutine" value="战斗程序"/>
+	<entry name="CombatRoutineProperties" value="<icon texture='GUI/Bullet'/>激活条件：生命值未满"/>
+	<entry name="ConjureBleed" value="召唤异血"/>
+	<entry name="ConstructArtificersLaboratory" value="建造<string name='Units/ArtificersLaboratory'/>"/>
+	<entry name="ConstructArtificersLaboratoryFlavor" value="<string name='Units/ArtificersLaboratoryFlavor'/>"/>
+	<entry name="ConstructBuilding" value="%1%"/>
+	<entry name="ConstructBuildingHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="ConstructBunker" value="建造<string name='Units/Bunker'/>"/>
+	<entry name="ConstructBunkerFlavor" value="<string name='Units/BunkerFlavor'/>"/>
+	<entry name="ConstructFarm" value="建造<string name='Buildings/Food'/>"/>
+	<entry name="ConstructFarmFlavor" value="<string name='Buildings/FoodFlavor'/>"/>
+	<entry name="ConstructPlayerAction" value="<string name='Actions/ProduceUnit'/>"/>
+	<entry name="ConstructPlayerActionHint" value="<string name='Actions/ProduceUnitHint'/>"/>
+	<entry name="ConstructRadioTelescope" value="建造<string name='Units/RadioTelescope'/>"/>
+	<entry name="ConstructRadioTelescopeFlavor" value="<string name='Units/RadioTelescopeFlavor'/>"/>
+	<entry name="ConstructRoad" value="建造道路"/>
+	<entry name="ConstructTesseraCore" value="建造<string name='Units/TesseraCore'/>"/>
+	<entry name="ConstructTesseraCoreFlavor" value="<string name='Units/TesseraCoreFlavor'/>"/>
+	<entry name="ConstructWarden" value="建造<string name='Units/Warden'/>"/>
+	<entry name="ConstructWardenFlavor" value="<string name='Units/WardenFlavor'/>"/>
+	<entry name="CreateShochitrisLair" value="建造<string name='Units/ShochitrisLair'/>"/>
+	<entry name="CreateShochitrisLairFlavor" value="<string name='Units/ShochitrisLairFlavor'/>"/>
+	<entry name="CryOfContrition" value="悔恨哭嚎"/>
+	<entry name="CycleWeapon" value="切换武器"/>
+	<entry name="CycleWeaponProperties" value="<icon texture='GUI/Bullet'/>切换激活的武器"/>
+	<entry name="DanceOfTheErelim" value="告死天使之舞"/>
+	<entry name="DanceOfTheErelimProperties" value="<icon texture='GUI/Bullet'/>攻击所有相邻地块中的敌方单位"/>
+	<entry name="DarkCaress" value="黑暗抚慰"/>
+	<entry name="DarkOmen" value="黑暗征兆"/>
+	<entry name="DarkOmenFlavor" value="<string name='Traits/DarkOmenFlavor'/>"/>
+	<entry name="DataHack" value="数据劫持"/>
+	<entry name="DecoyFlares" value="诱饵弹"/>
+	<entry name="DeployCombatDrone0" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone0Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployCombatDrone1" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone1Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployCombatDrone2" value="<string name='Units/CombatDrone'/>"/>
+	<entry name="DeployCombatDrone2Flavor" value="<string name='Units/CombatDroneFlavor'/>"/>
+	<entry name="DeployEMPDrone" value="<string name='Units/EMPDrone'/>"/>
+	<entry name="DeployEMPDroneFlavor" value="<string name='Units/EMPDroneFlavor'/>"/>
+	<entry name="DeployRepairDrone" value="<string name='Units/RepairDrone'/>"/>
+	<entry name="DeployRepairDroneFlavor" value="<string name='Units/RepairDroneFlavor'/>"/>
+	<entry name="DirectControl" value="直接操控"/>
+	<entry name="Disappear" value="消失"/>
+	<entry name="Disband" value="解散"/>
+	<entry name="DisbandDescription" value="<icon texture='GUI/Bullet'/>解散单位"/>
+	<entry name="DreamPrison" value="梦狱"/>
+	<entry name="EchoesFromBeyond" value="彼界回响"/>
+	<entry name="EchoesFromBeyondDescription" value="揭示目标以及相邻地块。"/>
+	<entry name="EndbringersReversal" value="末日使者的诡计"/>
+	<entry name="EndbringersReversalProperties" value="<icon texture='GUI/Bullet'/>与目标单位交换位置"/>
+	<entry name="EnhancedProbabilityAugment" value="强化概率计算装置"/>
+	<entry name="EnrichedAlloys" value="强化合金"/>
+	<entry name="Entomb" value="活埋"/>
+	<entry name="EradicateBleed" value="清除异血"/>
+	<entry name="EvasionProcessor" value="规避代码"/>
+	<entry name="EvasiveManeuvers" value="闪避动作"/>
+	<entry name="ExperimentalDrugs" value="实验性药物"/>
+	<entry name="ExperimentalDrugsFlavor" value="<string name='Quests/Pharmaceutics/Utilize'/>"/>
+	<entry name="ExperimentalDrugsProperties" value="<icon texture='GUI/Bullet'/>应用实验性效果<string name='Modifiers/ToTargetAlliedBiologicalUnit'/>"/>
+	<entry name="Extirpate" value="泯灭"/>
+	<entry name="ExtirpateProperties" value="<icon texture='GUI/Bullet'/>将敌人拖拽至距离最近的三个相邻地块中的一处（需要地块上无其他单位）"/>
+	<entry name="EyeOfZephon" value="源质之眼"/>
+	<entry name="FirstAidDrone" value="急救无人机"/>
+	<entry name="FleshTree" value="血肉收割"/>
+	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
+	<entry name="Frenzy" value="狂暴"/>
+	<entry name="FrenzyProperties" value="<icon texture='GUI/Bullet'/>激活条件：当相邻地块中有至少2个敌方单位时"/>
+	<entry name="FoundCity" value="建立城市"/>
+	<entry name="FoundCityProperties" value="<icon texture='GUI/Bullet'/>消耗单位并在目标地块上创建一座新的城市<br/><icon texture='GUI/Bullet'/>无法在距离另一座城市%1%4格范围<br/>内建立新的城市<icon texture='GUI/Bullet'/>建造首座城市后，后续每次新建城市都将使所有城市的忠诚度降低%2%"/>
+	<entry name="FoundationOfBlood" value="鲜血铸就"/>
+	<entry name="GauntletOfRuin" value="<string name='Items/GauntletOfRuin'/>"/>
+	<entry name="GauntletOfRuinProperties" value="<string name='Actions/ClearTileDescription'/>"/>
+	<entry name="GhostWalk" value="幽冥漫步"/>
+	<entry name="GravitonJammer" value="引力子干扰器"/>
+	<entry name="GravityField" value="<string name='Features/GravityField'/>"/>
+	<entry name="GravityFieldFlavor" value="<string name='Features/GravityFieldFlavor'/>"/>
+	<entry name="GroundedFire" value="固定发射"/>
+	<entry name="Hast" value="女武神的骑行"/>
+	<entry name="Heroism" value="英雄气概"/>
+	<entry name="Hijack" value="劫持"/>
+	<entry name="HiredHands" value="招贤纳士"/>
+	<entry name="HiredHandsDescription" value="<icon texture='GUI/Bullet'/>加快生产并在下一回合完成建设项目<br/><icon texture='GUI/Bullet'/>具体费用受到项目的剩余生产成本影响"/>
+	<entry name="HoldPosition" value="原地固守"/>
+	<entry name="HoldPositionDescription" value="<icon texture='GUI/Bullet'/>固守当前位置，直到与敌方单位交火"/>
+	<entry name="HoldPositionUntilHealed" value="原地固守（直到完全恢复）"/>
+	<entry name="HoldPositionUntilHealedProperties" value="<icon texture='GUI/Bullet'/>固守当前位置直至生命值完全恢复<br/><icon texture='GUI/Bullet'/>%1%<string name='Attributes/HitpointsIcon'/>生命值每回合（特性）<br/><icon texture='GUI/Bullet'/>%2%<string name='Attributes/HitpointsIcon'/>生命值每回合（治疗速率，未承受伤害且移动与动作点全满时生效）<br/><icon texture='GUI/Bullet'/>%3%"/>
+	<entry name="HolyBond" value="神圣纽带"/>
+	<entry name="HolyInferno" value="圣火狱"/>
+	<entry name="HordeMandate" value="虎狼之师"/>
+	<entry name="HymnOfDecay" value="靡靡之音"/>
+	<entry name="IcarusSatellite" value="伊卡洛斯卫星"/>
+	<entry name="ImmaculateDelivery" value="纯洁救赎"/>
+	<entry name="ImmaculateDeliveryProperties" value="<icon texture='GUI/Bullet'/>传送至友方单位相邻的目标地块（视野内）"/>
+	<entry name="InevitableEnd" value="命定之死"/>
+	<entry name="InhumanKindness" value="扭曲之爱"/>
+	<entry name="InterferenceProtocols" value="干涉协议"/>
+	<entry name="InternalRepairStation" value="内部维修站"/>
+	<entry name="IronWill" value="钢铁意志"/>
+	<entry name="JumpPack" value="火箭背包"/>
+	<entry name="JumpPackProperties" value="<icon texture='GUI/Bullet'/>飞行至目标地块（视野内）"/>
+	<entry name="Landmines" value="地雷"/>
+	<entry name="LandminesFlavor" value="<string name='Quests/TheLastDaysOfEarth/TheTiesThatBind2'/>"/>
+	<entry name="LevelUp" value="升级"/>
+	<entry name="LevelUpProperties" value="<icon texture='GUI/Bullet'/>选择能力以升级"/>
+	<entry name="LiquidDeflectionAugment" value="液态反射强化装置"/>
+	<entry name="LogisticsExperts" value="后勤专家"/>
+	<entry name="LoyaltyUpgrade" value="<string name='Traits/LoyaltyUpgrade'/>"/>
+	<entry name="LoyaltyUpgradeFlavor" value="<string name='Traits/LoyaltyUpgradeFlavor'/>"/>
+	<entry name="MarkTarget" value="标记目标"/>
+	<entry name="Masochism" value="受虐狂"/>
+	<entry name="Minelayer" value="布雷器"/>
+	<entry name="MothersFavor" value="圣母青睐"/>
+	<entry name="MothersScorn" value="圣母责难"/>
+	<entry name="Move" value="移动"/>
+	<entry name="NanomachineAcceleratorAugment" value="纳米机器加速器装置"/>
+	<entry name="NeverSurrender" value="“宁死不屈！”"/>
+	<entry name="Nightmare" value="梦魇"/>
+	<entry name="NitroBoost" value="氮气加速"/>
+	<entry name="NomadicLife" value="漂泊之民"/>
+	<entry name="NomadicLifeProperties" value="<string name='Actions/FoundCityProperties'/><br/><icon texture='GUI/Bullet'/>非<icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/><nbsp/><string name='Factions/Chieftess'/>控制情况下费用翻倍"/>
+	<entry name="OrbitalDeployment" value="轨道部署"/>
+	<entry name="OrbitalDeploymentProperties" value="<icon texture='GUI/Bullet'/>从友方城市传送到视野范围内的目标地块"/>
+	<entry name="Overwatch" value="监视攻击"/>
+	<entry name="OverwatchDescription" value="<icon texture='GUI/Bullet'/>如果敌方单位结束移动时位于攻击范围内，则对其发动攻击"/>
+	<entry name="Pandemonium" value="天劫之乱"/>
+	<entry name="Paramedic" value="医疗兵"/>
+	<entry name="Pestilence" value="疫病"/>
+	<entry name="ParticleBarrier" value="粒子屏障"/>
+	<entry name="ParticleRepair" value="粒子修复"/>
+	<entry name="PathfinderDrone" value="探路者无人机"/>
+	<entry name="PayResources/CajoleAnchorite" value="与隐者谈判"/>
+	<entry name="PayResources/CajoleAnchoriteFlavor" value="<string name='Quests/Reyndverra/Intro3'/>"/>
+	<entry name="PayResources/ContactAugur" value="联络扭曲占兆官"/>
+	<entry name="PayResources/ContactAugurFlavor" value="<string name='Quests/ChildOfTheNewWorld/Intro/ContactAugurFlavor'/>"/>
+	<entry name="PayResources/FormFunction" value="囚禁铁羽"/>
+	<entry name="PayResources/FormFunctionFlavor" value="<string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/>"/>
+	<entry name="PayResources/MassConfession" value="举办集体忏悔"/>
+	<entry name="PayResources/MassConfessionFlavor" value="<string name='Quests/WhispersOfAFalseProphet/Intro/TakeConfession2'/>"/>
+	<entry name="PayResources/MeetYourMaker" value="支付约坦迪"/>
+	<entry name="PayResources/MeetYourMakerFlavor" value="<string name='Quests/MeetYourMaker/DefendSuccess2'/>"/>
+	<entry name="PayResources/StrikeADeal" value="向星盟支付资源"/>
+	<entry name="PayResources/StrikeADealFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess2'/>"/>
+	<entry name="PayResources/ThePulledThread" value="支付协调者"/>
+	<entry name="PayResources/ThePulledThreadFlavor" value="<string name='Quests/ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor'/>"/>
+	<entry name="PayResources/TheSpaceEngine" value="支付赞德拉·凯恩"/>
+	<entry name="PayResources/TheSpaceEngineFlavor" value="<string name='Quests/TheSpaceEngine/Intro/GatherResources2'/>"/>
+	<entry name="PayResources/ThickerThanWater" value="提供资源"/>
+	<entry name="PayResources/ThickerThanWaterFlavor" value="<string name='Quests/ThickerThanWater/GatherResources'/>"/>
+	<entry name="PowerSpike" value="能量脉涌"/>
+	<entry name="ProduceChild/Cyber" value="再次尝试"/>
+	<entry name="ProduceChild/CyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment1/TryAgain2'/>"/>
+	<entry name="ProduceChild/Mix" value="挑战不可能"/>
+	<entry name="ProduceChild/MixFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment3/AttemptTheImpossible2'/>"/>
+	<entry name="ProduceChild/Voice" value="尝试孕育子嗣"/>
+	<entry name="ProduceChild/VoiceFlavor" value="<string name='Quests/ImpossibleConception/FindYourTrueLoveSuccess2'/>"/>
+	<entry name="ProduceUnit" value="%1%"/>
+	<entry name="ProduceUnitHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="QuarryFeed" value="<string name='Traits/QuarryFeed'/>"/>
+	<entry name="QuarryFeedFlavor" value="<string name='Traits/QuarryFeedFlavor'/>"/>
+	<entry name="QuantumReflector" value="<string name='Items/QuantumReflector'/>"/>
+	<entry name="QuenchResistance" value="平息反抗"/>
+	<entry name="QuenchResistanceProperties" value="<icon texture='GUI/Bullet'/>重置冷血无情特性导致的忠诚度惩罚"/>
+	<entry name="QuidProQuoEnergy" value="等价交换（能源）"/>
+	<entry name="QuidProQuoFood" value="等价交换（食物）"/>
+	<entry name="QuidProQuoMinerals" value="等价交换（矿物）"/>
+	<entry name="Reallocate" value="重新分配"/>
+	<entry name="ReallocateProperties" value="<icon texture='GUI/Bullet'/>使用生产建筑解散城市区域中指定的非召唤&非腐朽之躯单位并返还资源"/>
+	<entry name="Recon" value="侦察"/>
+	<entry name="Reconstruct" value="重建"/>
+	<entry name="Rejuvenation" value="再生"/>
+	<entry name="RejuvenationFlavor" value="<string name='Quests/ChildOfTheNewWorld/SurviveAugurSuccess2'/>"/>
+	<entry name="RemoveRoad" value="移除道路"/>
+	<entry name="Repair" value="修理"/>
+	<entry name="SatelliteScan" value="卫星扫描"/>
+	<entry name="SeedOfExtinction" value="灭绝之种"/>
+	<entry name="SellHint" value="<style name='Title'/>出售%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="SellHintMax" value="[<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>]出售全部(%1%/%2%)。"/>
+	<entry name="SellHintMore" value="[<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>]出售 x10(%1%/%2%)。"/>
+	<entry name="SereneLesion" value="静谧血溢"/>
+	<entry name="SereneLesionProperties" value="<icon texture='GUI/Bullet'/>从当前所处的异血地块传送至视野范围内的另一个异血地块。"/>
+	<entry name="SetRallyPoint" value="设置集结点"/>
+	<entry name="SetRallyPointDescription" value="<icon texture='GUI/Bullet'/>这座城市新生产的单位都将前往集结点"/>
+	<entry name="Skip" value="跳过"/>
+	<entry name="SkipDescription" value="<icon texture='GUI/Bullet'/>跳过回合"/>
+	<entry name="Skydda" value="守护之盾"/>
+	<entry name="Sleep" value="睡眠"/>
+	<entry name="SleepDescription" value="<icon texture='GUI/Bullet'/>Sleeps production until canceled"/>	
+	<entry name="SmokeLauncher" value="烟雾发射器"/>
+	<entry name="SomethingWicked" value="<string name='Weapons/SomethingWicked'/>"/>
+	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
+	<entry name="Soundquake" value="声爆"/>
+	<entry name="StickyFoam" value="黏性泡沫"/>
+	<entry name="Supplication" value="乞求"/>
+	<entry name="SurvivalTraining" value="生存训练"/>
+	<entry name="Swallow" value="吞噬"/>
+	<entry name="SystemicReset" value="系统重置"/>
+	<entry name="SystemOverload" value="系统过载"/>
+	<entry name="TacticalNuclearMissile" value="战术核弹"/>
+	<entry name="TakeCover" value="“寻找掩体！”"/>
+	<entry name="TameAbkluth" value="驯服阿布卡鲁斯"/>
+	<entry name="TargetingRelay" value="定位中继站"/>
+	<entry name="TeleportProperties" value="<icon texture='GUI/Bullet'/>传送至目标地块（视野内）"/>
+	<entry name="TempleOfCrla" value="柯·拉乐团"/>
+	<entry name="TempleOfCrlaFlavor" value="<string name='Features/TempleOfCrlaFlavor'/>"/>
+	<entry name="Terraform" value="地形改造"/>
+	<entry name="TerraformProperties" value="<icon texture='GUI/Bullet'/>子菜单"/>
+	<entry name="TheDeepWays" value="亵渎巡礼"/>
+	<entry name="TheDeepWaysProperties" value="<icon texture='GUI/Bullet'/>将目标单位与相邻单位传送至目标地块（视野内）"/>
+	<entry name="TheFog" value="黑雾"/>
+	<entry name="TheOutsider" value="外来者"/>
+	<entry name="ThePlague" value="瘟疫"/>
+	<entry name="ThePlagueFlavor" value="<string name='Quests/TheLastDaysOfEarth/ThePlague2'/>"/>
+	<entry name="ThereIsHope" value="希望不灭"/>
+	<entry name="ThrashEm" value="“粉碎他们！”"/>
+	<entry name="TimeShift" value="时间转换"/>
+	<entry name="TormentOfTheVoice" value="秘音的折磨"/>
+	<entry name="TormentOfTheVoiceFlavor" value="<string name='Quests/TheDream/AskAnchorite'/>"/>
+	<entry name="Transubstantiation" value="圣餐"/>
+	<entry name="Tune" value="调谐"/>
+	<entry name="Tunnel" value="钻洞"/>
+	<entry name="TunnelProperties" value="<icon texture='GUI/Bullet'/>从地下移动至目标地块（视野内）"/>
+	<entry name="UnearthlyPassage" value="异界通道"/>
+	<entry name="UnearthlyPassageProperties" value="<string name='Actions/TeleportProperties'/>"/>
+	<entry name="UnholyHaste" value="不洁之速"/>
+	<entry name="UzhodaisZeal" value="乌佐达之热忱"/>
+	<entry name="Valhalla" value="瓦尔哈拉"/>
+	<entry name="VoiceInfantryUpgrade" value="<string name='Traits/VoiceInfantryUpgrade'/>"/>
+	<entry name="VoiceInfantryUpgradeFlavor" value="<string name='Traits/VoiceInfantryUpgradeFlavor'/>"/>
+	<entry name="VoiceVehiclesUpgrade" value="<string name='Traits/VoiceVehiclesUpgrade'/>"/>
+	<entry name="VoiceVehiclesUpgradeFlavor" value="<string name='Traits/VoiceVehiclesUpgradeFlavor'/>"/>
+	<entry name="VorodaisGift" value="沃罗戴的馈赠"/>
+	<entry name="WhispersOfHarmony" value="和谐咏唱"/>
+	<entry name="WhispersOfTheVoice" value="秘音低语"/>
+	<entry name="WordsOfTheProphet" value="先知谏言"/>
+	<entry name="WordsOfTheProphetProperties" value="<icon texture='GUI/Bullet'/>具体费用受到目标单位的强度影响"/>
+	
+	<!-- Flavor. -->
+	<entry name="AbyssalRageFlavor" value="这是一种无法想象的愤怒。作为人类，我们会因为遭遇不公而愤怒。但是秘音拥有超乎寻常的力量。在这种纯粹情绪的影响下，任何生物都会产生对于宇宙本身的仇恨。如果你的对手带有这种不可理喻的怒火……记住，立刻转身逃跑。"/>
+	<entry name="AcquireTileFlavor" value="”安全检查与建址测绘“，我无法理解为什么还要搞战前的那一套迂腐玩意。但话又说回来，那些建造工程师知道自己在干什么。而且老话说得好，覆巢之下焉有完卵，谁也不想看见一栋建筑刚造好就塌方。如今，哪怕是面对着猛烈的炮火与恶劣的环境，人们也能够迅速且安全地扩张领土。"/>
+	<entry name="AngelFlightFlavor" value="在炽天使展翅高飞的那一刻，地球上便出现了一种前所未有的可怕武器。光是为了升空，这种机器便需要消耗超乎想象的能源，而其释放的激光轰击足以撕碎群山。厄金人过去十分畏惧类似这样的科技。而现在，他们的入侵行为反倒使这种武器得以存续。"/>
+	<entry name="AntimatterDilationFlavor" value="在以前，孩子们会用放大镜聚焦太阳光，并在木板上刻下自己的名字玩。智天使泰坦则能够利用反物质扩张技术化身为太阳与”放大镜“，媲美万千烈阳之力将在入侵者的尸骨上雕刻出一个新的帝国。当然，前提是那种力量不会让一切都灰飞烟灭。"/>
+	<entry name="AntiparticlePurgeFlavor" value="能够创造出这种用心险恶的手段的，也只有旧世界的那些财阀集团了。为了收集能源就直接毁掉一整片森林？只有漫画书里的超级恶棍才做得出这种龌龊勾当。不过凡事都有两面性，我们发现这种装置也能够有效铲除如今荼毒地表的异血物质。谁知道呢。如果能把这种装置的功率调整到最低，说不定就是一台极好的除草机。"/>
+	<entry name="ApotheosisFlavor" value="刺鼻的恶臭往往是最先显现的征兆。如果你发现那些受到秘音污染的敌人突然开始散发出浓郁的尸臭，那么很有可能，你马上就会迎接鲜血与肉块的“洗礼”。换成是遥控炸弹，携带者瞬间就会被炸得一命呜呼，但是对于那些倒霉蛋来说，他们首先会亲身感受到自己的内脏迅速腐烂膨胀，接着再剧烈爆炸并化为漫天血雨。"/>
+	<entry name="ArmorOfFaithFlavor" value="在战场上，大部分人都依靠自身的意志力在战斗，但是先知能够运用另外一种力量：信仰。他只需要信仰便能够实现最尖端科技都无法胜任的效果：真正的“无敌”。也许是超自然现象？某种甚至能够超越秘音的彼界之力？时至今日我也没有弄明白。"/>
+	<entry name="ArtificersPrecisionFlavor" value="要论缜密精细，没有人比得上工匠。无论是她的科技、编程还是战略战术皆是。假如有需要亲自管控一场战斗，她会利用一切可行的手段掌握所有情报，然后将有关对手的所有数据传递给自己的部队。纵观所有领袖……几乎没人能像她一样了解自己士兵进行的杀戮。"/>
+	<entry name="AssassinateFlavor" value="一开始，我们杀戮是为了生存，但很快，我们便开始杀戮一切阻拦我们的人。再后来，杀戮变成了一种沟通用的手段。当我们选择如此进行杀戮，我们其实是放弃了某种……内心的圣洁。但我们并不在乎这种事。因为在当时，一切都危在旦夕。"/>
+	<entry name="AtramentousAuraFlavor" value="当时，无数的敌人即将攻入我们的总部。我们都以为自己死定了。突然之间，我们的通讯器里传来了震耳欲聋的静电噪音，紧接着一道五彩斑斓的气雾便出现在了我们眼前。我们用力将其吸入。我们立刻发现自己的感官变得更加敏锐，速度更快，而且更加强大。妈的，最后我们还真守住了防线。"/>
+	<entry name="AuraOfDisciplineFlavor" value="哪怕是在枪林弹雨的前线，一名指挥官的身影也能够帮助稳定军心。我们有试过利用装甲战车实现同样的效果，但是……结果并不如人意。领袖亲临战场是任何事物都无法替代的。再强大的机器，再厚实的钢板也无法像他们那样鼓舞人心。"/>
+	<entry name="BionicImplantFlavor" value="我曾经认识一个叫露西亚的医疗兵，有天这娘们趁我不注意突然往我胳膊里打了一针微型植入物。那个疼啊，我差点没反手给她一拳。“好了，别哭哭啼啼的了”，完事后她说了这么一句话。“这可是高科技的保命手段。“我当时那个气啊，但她只是咧开了一个大大的笑容，然后猛地一巴掌拍了拍我刚刚被针扎的那条胳膊。“别担心。保险公司会给报的。“"/>
+	<entry name="BlackHoleFlavor" value="当我们开始尝试触及时空这一领域的时候，我们便抛弃了自己的人性。从那时候起，“现实”这两个字对于我们来说就变成了一种可以被程序改造的机器。虽然科学家们会说黑洞是宇宙之中最黑暗的东西，但是在我看来，真正的黑暗来源于自诩为神明的人类。"/>
+	<entry name="BombardmentFlavor" value="无论是在何时何地，战争中的某些东西永远不会改变。举个例子，如果需要高效轰炸一个地方，那你首先需要一个人去观测目标位置。我们之所以将呼叫轰炸的权利交给指挥官……并不是因为他们都是人形杀戮机器。而且因为他们知道如何确保战士们不会被友方火力误伤。"/>
+	<entry name="BreedDeformitiesFlavor" value="如果切开一头修柯·依崔斯的外皮，你会发现里面有很多装满各种有机物质的池子在翻滚冒泡。孕育生命本该是一种圣洁美丽的行为，但那却被这种生物给彻底玷污扭曲了。这些野兽会采集我们的世界中的残骸渣滓，然后将其凝聚成一头头只为了杀戮而生的武器。"/>
+	<entry name="CallTheAfflictedFlavor" value="从秘音那里，低语者得到了“创造生命的能力”的馈赠。那并不是真正的生命，只是一种扭曲畸变的怪物。但蜉蝣同样拥有转瞬即逝的短暂生命，难道畸变体的存在就真的违背天理吗？或许我们觉得自身的生命有意义这件事，才该被耻笑。"/>
+	<entry name="CataphoraFlavor" value="这种生存本能标志着啖食者与畸变体之间的本质区别。当然，多出来的那颗脑袋也是。畸变体只会在蹒跚中迎来死亡，而啖食者有时候则会挣扎着拥抱新的生命。再生状态的啖食者毫无还手之力，因此这往往是解决它们的最好机会。"/>
+	<entry name="CauterizeWoundsFlavor" value="对于第一批接受赛博义体改造的士兵来说，他们仍然需要小心保护体内的关键器官不要受损。只需要通过简单的神经编程，技术人员就可以有效地麻痹士兵们的痛觉神经元。考虑到这些人不会感受任何痛苦，原本自行难以操作的灼伤止血也变得轻而易举。"/>
+	<entry name="CherubicHallowingFlavor" value="智天使能够扩展自己的护盾并容纳区域中的其他友方单位。实话实说，那种感觉……很舒服。甚至可以说让人有种不可思议的快乐。这台非同凡响的战争机器将你拥入怀中，并献上悉心守护与庇佑……而它的沉重巨炮则会将你的敌人们炸成碎片。"/>
+	<entry name="ChoralCelerityFlavor" value="哎，一想到那天我就心里难受。当我们好不容易抓住机会奇袭秘音教徒，我们直接攻入了他们的基地，那帮疯子根本来不及拿起武器组织反击。正当我们以为大功告成的时候，他们的蒙面诗班突然发出了一声无比刺耳的高频嚎叫，接着我身边的男男女女便被那种力量的蛊惑。无论发动这种能力要付出多大的代价……在那天，我们才是真正的失败者。"/>
+	<entry name="ClearTileFlavor" value="无论是建筑还是士兵都需要牢固的地面才能站稳脚跟。我们培训工程师们便是为了实现这个目标。这活不光辛苦还危险，我们所处的这个新世界到处都是乱七八糟的外星物质。清理地形其实有点像是在做战斗准备。我们可以克服敌人，也可以克服地形，但是我们没办法同时双管齐下。"/>
+	<entry name="CombatRoutineFlavor" value="我们最初遭遇的机器敌人并不是每时每刻都做好了战斗准备，但是真正打起来之后，它们绝不会手下留情。诡异的是，那些东西被打了反而会射的更准。也许是因为用了某种三角定位程序之类的东西吧。"/>
+	<entry name="ConjureBleedFlavor" value="秘音渗透我们的世界的方法可谓是五花八门。有些人从秘音那里学会了如何开启通往另一个现实的门扉。对他们来说，空气就像是皮肤，而这些触手则会从毛孔中渗出。有时候，你会渴望被秘音包裹。但在其他时候，你会发现沉默是一种无比宝贵的馈赠。"/>
+	<entry name="ConstructRoadFlavor" value="说实话我也没想到自己会那么怀念正经的道路。坐在游骑兵里面奔波了几个月之后，我都已经习惯了那些崎岖野地和土路上的颠簸。但是每当我重新踩上光滑整洁的路面上时，我感觉自己都会立刻专注起来。重新回到熟悉的路面上，我的脑子里只有两件事：如何干掉眼前的敌人，如何保护身后的家园。"/>
+	<entry name="CryOfContritionFlavor" value="难道秘音真的……在乎……那些与自己交流的生物？难道它能够被说服？能够有意识地去怜悯有血有肉的生物？我并不觉得像秘音这样的存在会去理会凡人的死活。也许它是为了完成某种更大的目标吧。也有可能它确实拥有着一定程度上的怜悯之心。"/>
+	<entry name="DanceOfTheErelimFlavor" value="和埃勒姆待久了之后，你有可能会忘记她们其实并不完全是人类……直到她们开始自己的舞蹈。这些女人的双眼会变得像玻璃珠一样光洁透明，接着她们的机械意识便会立刻开始计算周遭敌人的动作轨迹。再接着，她们的“脸庞”便会突然掀开，身体里的刀刃四散弹出，接着便上演起杀戮之舞。如果有幸见证过她们的实战，你会发现舞蹈之中蕴含着的美丽与优雅……才是真正让人不寒而栗的东西。你会感觉她们的AI在杀戮时并不只是一味追求效率。杀戮仿佛成为了……一种艺术？难道这是一种表达？我知道一件事：那些AI想要我们去欣赏它们的成果。"/>
+	<entry name="DarkCaressFlavor" value="你有没有想象过，假如自己被那些丑恶的手指捆住是什么感觉？想象一下，一只大手突然从天而降，但是它只是像是许久不见的爱人一样轻柔摩挲着你的肩膀？那就是它的梦。它还记得那种感觉。在你死我活的战斗中，当那只大手触摸到你的身体，你也将感受到同样的渴望。"/>
+	<entry name="DarkPactFlavor" value="当我挣扎着想要逃离隐者的噬梦兽时，我感觉自己的心脏都要从胸膛里跳出来。鲜血……我的部下们的……我的朋友们的……从它的触手末端一滴滴落到了我的脸上。我以为这就是自己的最后时刻，但是伴随着眼前的一道光芒，那头怪物消失了。隐者决定饶我一命。他想要我将那天的所见所闻告诉所有人，他想要我们明白：假如我们胆敢再次威胁他，那个怪物就会卷土重来。"/>
+	<entry name="DataHackFlavor" value="机器中的幽灵知道每一个网络系统中的隐蔽路径与暗道。虽然厌恶这种手段，但她并不会因此而放弃随之而来的便利。如果有需要，她会延伸自己的意识，并通过各种后门漏洞来窥探敌人们的研究数据。只要能够实现自己的目的，她可以克服自身的厌恶情绪。"/>
+	<entry name="DecoyFlaresFlavor" value="我一直觉得诱饵弹很有意思。其实飞行员们也没办法从雷达上看见自己放出来的信号弹。原本紧随其后的跟踪导弹也会被这些东西给混淆视线而错失目标。真正能够看见这些东西的，往往都是留在地面上的部队，抬起头，人们就能看见慢慢划过天空的绚烂焰火。"/>
+	<entry name="DirectControlFlavor" value="我们曾经伏击过一支泽芬的机器巡逻队，当时我们想要回收它们外壳里的有用零件。感应到威胁之后，其中一台机器突然开始剧烈抖动，紧接着机器的线路便开始闪烁起了一种可怕的色彩……一道激光闪过，我身边的一整队义勇军便倒在了地上。惊魂未定的我瞥了一眼那台机器，那个瞬间，我感觉到了泽芬的凝视。"/>
+	<entry name="DreadShadowFlavor" value="影子。那些东西明明只是一些影子。不过是光线扭曲而营造的……把戏……但我实在是不明白。一旦被这些分身砍到，你的身上就会出现一道猎人的爪子留下的血红伤口。无所谓，你要做的就是不停扣动扳机。把身上的弹药都打空，然后祈祷你的科幻激光枪能够对抗这种甚至可以扭曲光线本身的怪物。"/>
+	<entry name="DreamPrisonFlavor" value="三十名名义勇军。整整两个导弹小队。外加一名禁卫军。在噬梦兽的控制之下，我杀了他们所有人。之后我告诉指挥官，我当时被外星人洗脑了，什么也不记得，但那其实是个谎言。我很清楚，我当时陷入了噬梦兽创造的幻象，我以为自己正在森林里打猎。我自己亲手击倒了那些鹿。我悄无声息地跟在它们后面。我用自己的猎刀剥下了猎物们的皮。无视它们临死之前的惨叫，我面无表情地将刀子捅进了它们的胸膛……"/>
+	<entry name="EchoesFromBeyondFlavor" value="秘音知道很多事情。很多不可思议的事情。设法利用这种预知能力来判断敌人的行动，这种想法会显得很可笑吗？还是说，这就是秘音用来引诱人们的手段？也许秘音给人们提供了知识，允诺给他们带来力量，但作为代价，他们需要付出更大的牺牲？低语者知道这其中的真相。但是她永远守口如瓶。"/>
+	<entry name="EndbringersReversalFlavor" value="当时我偷走了诡秘审判庭一直随身携带的那些卷轴，而她的士兵们即将抓到我。在大难临头之际，我感受到来自另一个世界的力量突然将我拉了进入，接着眨眼之间我就掉到了附近的一个安全之处。而在我原本的位置上则站着一位乌佐达的信徒，那个人已经准备好对审判庭的士兵们大开杀戒。"/>
+	<entry name="EnhancedProbabilityAugmentFlavor" value="在过去，枪手们需要凭借自己的本能反应与经验来精准弊敌。开发这种强化模块的时候，密探就从枪手身上吸取了灵感。在这个时代，就算是本能反应也可以被……模拟。各式各样的精密公式还可以将其进一步改造。类似这样的事让我感到害怕：她能够轻而易举地分离出我们作为人类的特性，然后立刻用数字代码重塑一切。"/>
+	<entry name="EnrichedAlloysFlavor" value="每当我需要坐下来维护自己的武器，我的脑海中就会不由自主浮想起那段糟糕的回忆。那时候我们都在厨房。叔叔正在清理桌子上的步枪。姑姑她……对此很生气。她之前就已经说过，不允许叔叔把那些东西带回家里。接着我的叔叔便暴跳如雷并大喊大叫。再然后……他手上的枪走火了……那个畜生……他根本不明白，那些能够轻松撕裂血肉骨骼的精密武器有多么危险。他只是觉得阳光下闪闪发光的枪管很美。"/>
+	<entry name="EntombFlavor" value="太初之蛛能够瞬间掌握你的每一处弱点并加以利用。如果被它给压制住……你会发现自己根本动弹不得。甚至就连呼吸都变得无比困难。如果旁边没有其他人能够帮忙，那很遗憾，你死定了。你只能眼睁睁地看着敌人的武器刺向你的身体。"/>
+	<entry name="EradicateBleedFlavor" value="虽然秘音拥有着扭曲现实的能力，但在大部分情况下，就算是它也得遵守这个世界的物理法则。这一点意味着就算是异血也能够被清除。泽芬和我们的科技都已经弄清楚了如何才能有效清理异血，前提是你愿意冒被意外污染的风险。"/>
+	<entry name="EvasionProcessorFlavor" value="只需要将身体的一部分控制权移交给AI程序，埃勒姆就能够轻松游走在枪林弹雨之中。她会假装露出破绽，让大意的敌人与自己展开近身搏斗。殊不知埃勒姆最擅长的就是近战。"/>
+	<entry name="EvasiveManeuversFlavor" value="资历尚浅的飞行员们往往会遵照机动规避操作手册中的建议来躲避敌方攻击。不过对于真正的精英飞行员来说，这种东西只配拿来当厕纸。我没有在开玩笑，战斗机上能够携带的东西有限……在天空之中，只有出其不意才能活到最后，所以你应该做的就是让对方无法判断你的计划。"/>
+	<entry name="ExtirpateFlavor" value="我们以为自己很安全。我们以为这次万无一失。我们以为自己能够猎杀一头泰坦。但是当那头巨兽张开长满无数肢体的深渊巨口，当它嚎叫着朝我们冲过来的时候，我们才意识到自己大错特错。无数的触须扒住了我们的装甲服上的缝隙，并将我们拉向了血淋淋的深渊。那一刻我们才意识到……自己逃不了了。"/>
+	<entry name="EyeOfZephonFlavor" value="泽芬永远在观察一切。有时候在搜索库房的时候，你会发现早就断电的摄像头突然激活。它还会利用地震仪来追踪部队的动向。我们知道如何躲避无人机的视线，但是躲躲藏藏的日子过久了之后，有时候我们会突然盯着天空中的繁星，然后思考那些闪烁的光芒到底是不是遥远太空中的灼热气体星球，还是说是泽芬安置在外太空的拍立得相机在记录着我们的一举一动。"/>
+	<entry name="FirstAidDroneFlavor" value="虽然跟真正的医学博士比，无人机差得可不止是一张文凭，但你还是可以给机器挂上几百毫升的吗啡，一两捆绷带，然后再稍稍编程让它知道什么时候该用哪个。虽然听上去有点扯淡，但大部分时候这么做真的有用……"/>
+	<entry name="FoundationOfBloodFlavor" value="在工匠看来，人不过是一种工具。照理说一名好的匠人应该懂得爱惜工具才对，但对她来说一切都是可以被替代的。我曾经警告过她，我说东西可以随便换，但人不一样。她对此表示反对。然后就演变成了一场恶战。"/>
+	<entry name="FoundCityFlavor" value="在久远的过去，建造一座城市需要花费几代人的心血。但是我们并没有那么多的闲情逸致。工程师会使用预制建筑模块创造宽阔的城市地基，而无人机则会负责迅速排布各类基础设施。我们不需要其他花里胡哨的东西，那是留给以后的事情……如果还有“以后”，如果这场战争能够结束。"/>
+	<entry name="FrenzyFlavor" value="我其实一直都明白，绝望会把一个人转变为一台杀戮机器。但是我没有想到的是，有些战士竟然会享受绝望。寡不敌众？火力不足？这种事对于他们来说根本无所谓。和这些狂战士做战友有好有坏，好处是他们说不定能在关键时刻救你一命，坏处是他们有可能会把你往火坑里带。"/>
+	<entry name="GhostWalkFlavor" value="有件事我一直很感兴趣……对于埃勒姆来说，行走在没有光芒的领域之中是什么样的感觉？那里的地球是什么样子的？是不是……比这里更加宁静和平？还是说为了实现真正的隐身，你必须走进无边黑暗，并且只依靠传感数据来前进？我曾经有问过一位埃勒姆。但是她没有回答。"/>
+	<entry name="GravitonJammerFlavor" value="在机缘巧合之下，或者说是单纯是在一次意外事故中，我们的武器研究者们发现通过操纵引力子能够实现一定程度上的干扰效果。在这种干扰场中，你会觉得自己的所有身体器官都在“翻江倒海”。"/>
+	<entry name="GroundedFireFlavor" value="有时候光凭操作员的敏锐眼光还不够。如果想要使用导弹平台精确轰击目标，你需要先让机器固定在地面中，只有这样才能有效抵消巨大的后坐力。这种方式能够实现稳定而且精准的打击。但与此同时，这也会使得无人机以及操作员非常容易受到攻击。"/>
+	<entry name="HastFlavor" value="瓦尔基里拥有着其他重装作战甲无法比拟的移动能力。这一部分要归功于其中的驾驶员，他们能够凭借自身的意志力超越安全协议的限制。成功关闭安全协议之后，瓦尔基里的驾驶员就会将装甲服的性能发挥至极限水平。为了胜利，他们甚至可以不惜牺牲自己的身体和心灵。"/>
+	<entry name="HijackFlavor" value="在我们开始部署机甲、坦克还有其他重型装甲设备之后，我原本以为女族长会知趣离开。但事实证明我是个蠢货。蛮盗帮的人愿意追随她并不是没有理由的。女族长从来不会放过任何一个值得下手的目标，看见她的蛮盗帮驾驶着我们的机器向我们袭来，我们所有人都吓坏了。"/>
+	<entry name="HiredHandsFlavor" value="男爵从不放过任何拉拢人心与建立人脉的机会。这是其他军阀和领导者们所无法理解或者说欠缺的一点。无论是靠信任还是利益，当你赢得了人民的忠诚之后，他们必当会在你有需要的时候投桃报李，尤其是在生产材料或者是武器时。"/>
+	<entry name="HolyBondFlavor" value="当猛烈的炮火落在我们的碉堡上时，眼前的一切都变成了白色。当时我以为一切都要结束了。但是有那么一瞬间，我我好像……看见了一座桥？而且还有一只伸向我的手？片刻之后，眼前的烟雾就被风吹散了。我们还活着，一名厄卡维什教长正飘浮在碉堡顶上。“你们今天不会死！”它用嘶哑的嗓音叫着。“天上的那位大人需要你们的利刃！”我身边的士兵们都激动地欢呼雀跃。只有我一个人还傻站在原地……我的手掌上仍然残留着握住朝我伸出来的手时的感觉。"/>
+	<entry name="HolyInfernoFlavor" value="那种火焰到底从何而来？炽天使并不是利用这种爆炸性燃料维持飞行的。为了寻求解答，我将这些机器的设计图纸翻来覆去检查了无数遍。但是我没有找到任何答案。唯一的线索就是炽天使不停播放的旋律……每次释放烈焰的时候，音调都会发生变化。难道这就是真相？仅凭一首曲子，它就能够释放熊熊燃烧的神圣火焰？"/>
+	<entry name="HordeMandateFlavor" value="空洞军阀是一名真正的战术家。他并不像蛮盗帮那样有勇无谋，也不是爆弹手那种狂怒的疯子，他懂得等待时机。他会耐心观察敌人。派遣小股部队进行佯攻，当敌人以为自己胜券在握的时候，空洞军阀才会真正出手。摩托引擎的轰鸣突然划破天空。这个信号意味着你需要忘记一切，除了战斗。战斗。战斗。"/>
+	<entry name="HymnOfDecayFlavor" value="第一次接触到这种扭曲痛苦的赞美诗蕴含的腐化之力时，我以为它们一定是出于某种战略意图才决定污染大地。但是经历了无数次的战斗过后……我觉得我当初的想法太过简单。也许是出于某种灵性上的意图？还是说这诞生自缺乏理智的赤裸裸的恨意？我曾经想过，那些注定失败的外星人进攻我们的世界，是否只因为我们胆敢反抗他们的末日使命。假如真是如此，那我难以想象他们的心中到底埋藏着多少无法平息的仇恨。"/>
+	<entry name="IcarusSatelliteFlavor" value="伊卡洛斯卫星网络是一家名为ICAR集团的旧世界公司开发的武器化卫星，但是这个项目最后被搁置了。在过去，我们一直将其当成是某种都市传说或阴谋论。直到后来，电驭密探为我们揭示了那个不为人知的秘密：原来她就是ICAR集团的总裁，卫星的激活秘钥一直都在她手里。现在只有她有能力驾驭伊卡洛斯的毁灭之力，就算有人设法干掉她也没办法取而代之：她早就已经在卫星系统中安放了堪比铜墙铁壁的重重加密程序。"/>
+	<entry name="ImmaculateDeliveryFlavor" value="也许这是某种母性本能？也许她还记得在战争到来之前，牵着孩子们去公园玩耍的经历？也许正是那种与生俱来的本能为她带来了力量……使得她能够在眨眼之间将军队传送至远方。当初她正是用这种手段将自己的人民从集中营转移到了废土，因为她知道，哪怕是那里有毒的空气也比惨无人道的外星监狱要更为安全。"/>
+	<entry name="IncendiaryGrenadeFlavor" value="无论是外星人、机器还是人类都有一个共同点。只要温度足够高，就都会变成一团熊熊烈焰。不过物质燃烧时产生的气味各不相同。因为痛苦而发出的嚎叫也大相径庭。无论是通过什么方式来到这个世界，谁也不希望遭遇被活活烧死的下场。"/>
+	<entry name="InevitableEndFlavor" value="曾经有一名柯·拉信徒不厌其烦地跟我描述他能够”看见所有肉体凡胎的生命之线“。我当时竟然愚蠢地问那位信徒，他能不能斩断那些线段，这样的话我们也省得整天打来打去。听见我的问题之后，男人便伸手朝我头顶上方的区域抓了一把，紧接着我立刻感觉自己无法呼吸并倒在了地上。“这我可以办到”，男人接着说道。“轻而易举。”"/>
+	<entry name="InhumanKindnessFlavor" value="千万小心，她的温暖、凝视与温柔都有可能夺走你的生命。但她的心却截然不同。原本在遥远之地咆哮奔腾的鲜血，如今再一次流淌在你的血脉之中。汹涌的鲜血流进全身的动脉，最后又灌入你自己的心脏，生命再一次回归你的身体。继续为她而战，哪怕要付出生命的代价。"/>
+	<entry name="InterferenceProtocolsFlavor" value="机器只会听从指令行事，至于那是不是你想要的结果，那就是另外一回事。不过只要加入正确的程序，我们就可以给敌人们的机器灌输各种有趣的谎言。你可以彻底打乱它们的行为模式，让它们分不清方向或者是敌友身份。当然，敌人们的技师自然也有对应的反制措施，所以这种手段并不是每次都能起作用。但是无论如何，至少这能够在短时间内打乱它们的计划，方便你躲避敌人的攻击。"/>
+	<entry name="InternalRepairStationFlavor" value="曾经有一群胸怀大志的年轻技师们给我带来了一份设计图纸，他们想要在我们的响马运输船上加装自动修理站。当时他们的上级对此不屑一顾，他们觉得这种方案完全是在浪费时间。得知这件事之后我立刻去找到了那帮管事的，我告诉他们说，战场附近经常会有急需修理和回收的设备，如果高级技师这么喜欢亲自去维修，那也许该把他们分配到伤亡最严重的前线去。之后那帮老东西立刻服软并同意了年轻人们的方案。"/>
+	<entry name="IronWillFlavor" value="有时候你会觉得比起挣扎反抗，放弃才是更轻松的选择，在这种时候，你需要提醒自己，你是为何而战。为了说服自己，每一位士兵都有不同的答案。不过对于有些人来说，他们只需要让自己听见一个熟悉的名字就可以。根本不需要什么长篇大论，短短几个字就会让他们的心中燃起熊熊斗志，为了珍视之人，一切的努力都是值得的。"/>
+	<entry name="JumpPackFlavor" value="单纯论为士兵提供空中作战能力这一点，与反重力科技的续航效率相比，常规火箭根本是望尘莫及。但这只是一方面。悬浮技术有一个致命缺陷：动作迟缓的空中单位容易变成敌人眼中的活靶子。对于精英步兵来说，他们可以熟练运用火箭喷射提供的强大推力来快速前往精确位置。说到底，战争讲究的就是一个排兵布阵，能否提前抢占有利地形是至关重要的一环。"/>
+	<entry name="LiquidDeflectionAugmentFlavor" value="无论植入了多少强化装置，密探的士兵们都无法完全躲避战场上迎面飞来的子弹。意识到这一点后，她便开始研究起如何减少敌方打击造成的影响。“要像流水一般”，曾经有一位武术大师说过这么一句话。也许是缺乏诗意或者是艺术感吧，经过多次实验之后，密探竟然……从字面意义上领悟了这句话的真谛。"/>
+	<entry name="LogisticsExpertsFlavor" value="从远方哨站运回来的补给品难免会因为各种”舟车劳顿“或者是”路面颠簸“之类的问题而在运输过程中出现损耗。彻底厌倦了这种不必要的损失，指挥官最终组建了一支专业团队并命令他们严格监控每一批货物的运输情况。这些家伙工作起来是真的一丝不苟。假如被安排到由他们来监管你的班次，那么恭喜，每一颗从废墟中挖掘出来的螺栓都要完好无损地回到基地，而且在任务完成之前你根本别想有任何开小差或者打盹的机会。"/>
+	<entry name="MarkTargetFlavor" value="在白热化的激烈战斗中，假如能有同伴在俯瞰战场的高地提供情报那将是如虎添翼。在那种情况下，一切都会变得井然有序。标记目标。等待目标进入射程。最后扣动扳机。"/>
+	<entry name="MasochismFlavor" value="“你他妈疯了吗？！”我还记得那时候的情景：一位伊壁鸠鲁门徒淡定自若地走到了我们的战壕顶上并承受了对面打来的一连串流弹。“别激动……导师”，它回答着我的质问。怎么回事……虽然这些东西根本没有面孔，但我发誓，在那一刻，我能感受到那鬼东西在朝我微笑。“我们都知道，痛苦是宇宙中不变的真理。不过你们选择逃避痛苦……”它的身体微微抽动了一下，又一轮子弹打进了它的肩膀。“而我选择享受痛苦”。"/>
+	<entry name="MinelayerFlavor" value="游骑兵的驾驶员都知道一件事：在战场上，他们的任务并不是战斗，他们只是诱饵。因此游骑兵会在关键位置埋设地雷，然后设法诱敌深入。一旦地雷引爆，他们就会立刻脚踩油门往回跑，这时候其他战士们则会负责收割残存的敌人。"/>
+	<entry name="MothersFavorFlavor" value="为人父母理应一碗水端平。但她不一样。当扭曲之母的手指划过你的脸颊，你根本不会介意流出的那一点点鲜血。在那一刻，无论你再怎么努力回想，你都不会再记得父母的面孔，你的脑海中将只剩下她对你的爱。"/>
+	<entry name="MothersScornFlavor" value="一段回忆。一个低着头不管直视父母的孩子。并不是因为被打了，而是因为怕被打。这可以说是所有孩子最害怕的场景，当父母的爱……圣母的爱……彻底消失，取而代之的则只有冷冰冰的叱责与突然严厉的嗓音，高举着的皮带随时都会狠狠落下。"/>
+	<entry name="NanomachineAcceleratorAugmentFlavor" value="密探并不是一个循规蹈矩的人，她的这个特点在创造……某些不同寻常的强化物时就彰显得淋漓尽致。无论是机器还是生物，她都会欣然使用纳米机器实现耐力与速度方面的提升。虽然这并不意味着她的士兵能够获得异于常人的速度，但也确实使他们得到了令人惊愕的精力。"/>
+	<entry name="NeverSurrenderFlavor" value="指挥官的其中一项职责是确保士兵们留在战场上，确保他们不会因为恐惧而落荒而逃。说实话对于许多人来说，只要能够保命，投降并不是一件难堪的事。不过只要在正确的领袖麾下，所有人都会心甘情愿为了一个更美好的世界而牺牲。"/>
+	<entry name="NightmareFlavor" value="在战场上，腓纳里斯猎手向来是让情报部门最为头疼的对手。我们永远搞不清到底有多少头出没，而且这并不是因为它们在快速繁殖，而是因为……我都不知道该怎么形容。它们会从另一个维度召唤一个自己的分身？不光是肉眼，就连机器都无法辨识这些东西的真假。这种事一想到就让人脑袋发晕。千奇百怪的怪物和诡异的把戏，根本没办法一一记住。我现在只想要好好地休息一番……"/>
+	<entry name="NitroBoostFlavor" value="“用之不尽的燃料与烈焰”，工坊的机械师边说边拖来了一大罐“特制游击士鸡尾酒”。虽然很感谢她，但我真希望她的态度能够……严肃一点。这可是战争，不是什么方程式赛车……"/>
+	<entry name="NomadicLifeFlavor" value="蛮盗帮已经完全适应了新世界的荒野。他们能够使用掠夺来的各类物资迅速建造起一个个营地。如果在自己的地盘附近看见类似那种的建筑，那么千万别大意，要不了多久，成群结队的强盗们就会冲向城市的围墙。"/>
+	<entry name="OrbitalDeploymentFlavor" value="如果有幸搭乘火箭前往轨道层进行远距离投送，回来的突击队士兵们往往只会有两种反应：要么是吓得魂不守舍，要么就变成你在战场上见过的最冷静的怪胎。有些人觉得漂浮在群星之间的地球是最美的事物。其他人则会意识到一个令人惊恐万分的事实：与吞没一切的虚空相比，我们是那么的渺小无力。"/>
+	<entry name="PandemoniumFlavor" value="埃洛希姆会持续不断地制造各式各样的声响，但是我发誓它们的轰鸣有时候会带着一丝愉悦……如果当时正好有一枚奇点核心。填装完毕后，它们的脊柱就会随之拱起延展并将核心纳入系统之中。然后片刻之后，它们就会发射足以撼天动地的猛烈炮击……射程之远，你甚至都无法第一时间听见爆炸的声响。你只会看见远方出现了一道强烈的光芒。然后耳边就会继续响起那让人无比烦躁的轰鸣。"/>
+	<entry name="ParamedicFlavor" value="曾经有一道散射的电浆烫烂了我屁股上的一大块肉。我们这边的医疗兵迎着头顶的密集火力冲到了我身边，她手里早已准备好了一根纳米注射器。一想到瞬间血肉再生会带来生不如死的剧痛，我就大喊说自己宁愿死也不想打。但她还是毅然决然地一针扎在了我的屁股上。在我痛苦叫唤的间隙，她还打趣说从此以后所有人都会知道，是她救了我的屁股。"/>
+	<entry name="ParticleBarrierFlavor" value="密源太初之蛛的粒子屏障是一种不可思议的护盾。通常来说，能量护盾需要稳定的能源才能维持运作，许多士兵因为能源问题战死在了沙场。但是那些屏障……它们似乎……根本不需要外部供能。也许屏障中的粒子本身就是能源？也许它们能够吸收屏障内部的能量，然后聚集在一起拦截来袭的攻击？总之我觉得这种科技……就像是魔法一样。"/>
+	<entry name="ParticleRepairFlavor" value="从密源太初之蛛的……外壳中向外涌出的粒子能够瞬间修复各类机械单位。如果有机会亲眼看见那种情景，你会以为自己正在童话故事里的仙境。伴随着一道耀眼的光芒，伤痕累累的残破机器便立刻变得崭新如初。无论是线路、电机还是能源导体，所有东西都能立刻修好。"/>
+	<entry name="PathfinderDroneFlavor" value="谁能想到竟然会栽在这玩意上。那台该死的无人机。无论是传感器还是秘音的魔法都奈何不了我，但最后却被一台比黄蜂还要小的机器人给撂倒了。太傻了。先驱并不需要掌握周遭环境的完整信息，它只需要少许精确数据就能推断出执行任务的最佳方案。"/>
+	<entry name="PestilenceFlavor" value="说实话这可以说是一种很古典的战术。比如说老鼠。载着病死者的马车。或者是直接投掷尸体的投石车。要知道天启四骑士里面，疫病可是排第一个。如果在战场上你的对手是一头堕落奥鲁罗斯，你会感觉自己几乎要被霉菌孢子窒息，那种生不如死的感觉会让你希望眼前的怪物立刻将你碾成齑粉。"/>
+	<entry name="PowerSpikeFlavor" value="开发伏尔甘机甲的技师们在操作手册中详细记录了各种操作限制。不过伏尔甘的驾驶员知道如何破解这些限制，以及在什么样的情况下才应该使用那种手段。如果机甲的能源过载，伏尔甘的机身将会不堪重负并最终炸裂。但是与此同时，你可以将那些额外的能量导入伏尔甘的武器系统。这种为了获得额外攻击力的豪赌经常能够带来意想不到的结果。"/>
+	<entry name="QuenchResistanceFlavor" value="工匠其实一直都很清楚，她治理人民的手段必然会招致后果。如果换做是其他领袖，他们会对强烈的反对视而不见，只会觉得恐怖统治就足以抵消一切反叛的念头。工匠自然没有那么愚蠢。从最初走上这条道路开始，她就知道暴力在所难免。而当需要使用暴力时，她毫不犹豫。"/>
+	<entry name="QuidProQuoEnergyFlavor" value="男爵其实一直都在监控能源网络中的小动作，他静静地观察着那些……利欲熏心之人偷偷汲取能源进行各种非法项目。不过男爵也不会无条件允许这些人行苟且之事：一旦遇到紧急情况，这些人必须立刻上交自己的储备能源。"/>
+	<entry name="QuidProQuoFoodFlavor" value="人类就跟松鼠一样喜欢储备粮食。而只有男爵能够设法让人们心甘情愿交出自己的余粮。这让我想起了有关一位救世主的古老传说：那位救世主能够凭空变出取之不尽的面包与鱼来喂养自己的追随者。如果说那个传说真有其实，也许是因为救世主与男爵懂得同样的道理：人们只有互相帮助才能生存。"/>
+	<entry name="QuidProQuoMineralsFlavor" value="矿业的世界向来是鱼龙混杂。不过就像是一位魅力四射的大明星，男爵向来八面玲珑、左右逢源。一旦自己需要额外的资源，他便会娴熟地运用人情与礼物来撬动那些巨头。"/>
+	<entry name="ReallocateFlavor" value="只要耐心在废墟残骸中寻找，你总能找到各种各样的“垃圾宝藏”。我不知道浪漫主义者究竟是怎么做到的，但是那个老东西真的拥有“变废为宝”的能力。他手下的工厂操作员都遵循着相同的逻辑：无论是武器、装甲还是工具，所有材料都蕴含着巨大的改造潜力。"/>
+	<entry name="ReconFlavor" value="所有侦察兵都知道，最好使的还是战前开发的科技。狙击手们会特意去寻找以前的摄像机，驾驶员们则会在后座上放几台战前的扫描仪……我认识的最厉害的追踪者则选择了遵循更古老的手段。他的独门秘诀：带着新鲜热乎的食物去寻找各地的难民营。毕竟哪怕是观察力最敏锐的士兵也比不上当地的热心群众。"/>
+	<entry name="ReconstructFlavor" value="能够像肉体一样自动愈合的金属？在战争后期，我见过太多仿佛从荒诞梦境中走出来的离奇事物……因此就算看见泽芬的泰坦能够像缝合肉块一样轻松缝合钢材，我也丝毫没有觉得奇怪。这就是泽芬想要实现的目标，不是吗？真正具有“生命”的机器？不过如果想要真正地活着，那你就得像人一样会流血受伤……"/>
+	<entry name="RemoveRoadFlavor" value="基础设施虽然能够提供便利，但这往往是一把双刃剑：敌人们也能够利用这种便利。如果战况吃紧，我们便会掩护工程师们前去拆除之前造好的道路。只要看准时机，我们的敌人就会被困在泥泞险恶的荒野中动弹不得，那时候就是我们反击的机会。"/>
+	<entry name="RepairFlavor" value="修理需要时间，而且技师们也需要冒风险前往受损的机器。如果想要在战场上交朋友，记住一定要保护好你们的技师团队。因为他们也会为你做同样的事。我至今都不明白，为什么还是有些士兵会将自己的技师们当成是可以随手抛弃的棋子。"/>
+	<entry name="SatelliteScanFlavor" value="I’d wander into the satellite facilities during the rare moments of downtime for some… unauthorized usage. I looked further… toward ruins of the old world. Sometimes I hoped I’d open a scan and find buildings still standing, life still going. I wanted to see a place untouched by war, someplace free from death."/> 
+	<entry name="SeedOfExtinctionFlavor" value="作为一名士兵，我只在乎手里的武器能不能杀死对面的敌人。所以对我来说，绞鳄之种不过是一种高效的炸弹。但是我听见营房里的其他人在窃窃私语，他们说那是来自另一个世界的种子。绞鳄是在将其他位面的东西拉入我们的世界。虽然听起来很疯狂……但是在这场战争中，我见过许多比这更匪夷所思的东西。"/>
+	<entry name="SereneLesionFlavor" value="我永远不理解那些选择自残的人。看见那些狂信徒用手中的西卡仪式匕首划开自己的身体，我忍不住撇过了头。但是接下来的一幕让我感受到了难以言喻的恐惧：仿佛是在怜悯那些人的痛苦，异血的触须突然将满身是血的狂信徒们拉入了通往未知地点的虚空之中。"/>
+	<entry name="SkyddaFlavor" value="从表面上看，这件事其实有点自相矛盾：瓦尔基里的驾驶员们都是视死如归，但他们仍然会在战斗中使用各类护盾。你也许会觉得，既然他们渴望的是在荣耀中死去，那为什么还要如此珍惜自己的生命？其实他们这么做是出于一种更深层次的逻辑：死亡必将到来，但应该是在正确的时间与地点。因此在那一刻到来之前，他们决不允许自己平白无故丧命。"/>
+	<entry name="SmokeLauncherFlavor" value="我不知道你们有没有意识到一点，那就是坦克其实……很大。而块头越大的目标越容易受到攻击。我们特意在坦克车上面安装烟雾发射器，就是为了方便撤退时掩护阵地。有太多愚蠢的驾驶员被火力冲昏了头脑，以为自己坐在十字军里面就天下无敌了。只有真正有脑子的驾驶员才明白坦克也有弱点，有时候发射弹幕撤退才是明智的选择。"/>
+	<entry name="SoundquakeFlavor" value="他妈的！如果要形容这玩意的话，我只有一句话……疼。疼得死去活来。就在你眼前，一头像山一样大的怪物将手里的巨炮对准了你，真正震耳欲聋的噪音压得你根本起不了身。当时我的耳朵都在流血，我感觉浑身的骨头都要被震碎了……但从外表来看，我身上其实一点伤痕都没有。当时我们其实都在撤退了……为什么那家伙还要这样子折磨我们？"/>
+	<entry name="StickyFoamFlavor" value="这些玩意恶心的要命。那股味道，比在战场上喷洒泡沫的德天使毁灭者还要难闻。考虑到那些东西根本没办法打中人，也难怪需要利用这种奇怪的技术来困住自己的敌人。"/>
+	<entry name="SupplicationFlavor" value="之前有一位喝得醉醺醺的工程师冲进了营房，她乱七八糟地讲述着自己在研究教长时发现的东西。她说自己找到了一种用从未见过的语言书写的代码。工程师还说那个东西能够命令周围所有事物聆听自己尖啸的经文。“那他妈绝对不是正常的代码”，她一边说一边猛惯着我们用乱七八糟的原料酿的土啤酒。“那是最原始的东西懂么。宇宙定律级的。那台机器说不定真的能听见上帝他老人家的话。“"/>
+	<entry name="SurvivalTrainingFlavor" value="真正的战士懂得与他人分享知识。假如你在战场上活得够久，那你肯定已经经历过无数的苦头与教训。在这种情况下，你应该将这些得来不易的经验分享给后来者。希望人们还记得这么做的价值。"/>
+	<entry name="SwallowFlavor" value="突然之间，天空变成了夏季风暴来临时的那种阴郁病态的深灰色。我原以为那场战斗我们势在必得。伴随着一道闪电，一头绞鳄穿过了云层并降临在了我们头顶，人们的欢呼们瞬间变成了惊恐万分的尖叫。怪物张开血盆大口吞下了一整辆征服者坦克，接着又像飓风一般掠过了我们所在的阵地。虽然当时雷声大作，但我仍然能够清晰地听见金属在巨大压力下变形撕裂的呜咽，还有炮手们的垂死哀嚎。"/>
+	<entry name="SystemicResetFlavor" value="“真可爱”，电驭密探咕哝着说了一句，这时候我们正挤在一艘撤退的响马驾驶舱里面。周围全是此起彼伏的警告声，有什么东西击中了飞船并关闭了我们的引擎。密探立刻在一台终端的键盘上敲起了指令。“IT行业的经典项目。有问题就关机再重启……就算现在时过境迁，原理总是一样的。“话音刚落，警报声便夏然而止，引擎再一次轰鸣启动，看来今天并不是我们的死期。"/>
+	<entry name="SystemOverloadFlavor" value="密源太初之蛛懂得运用某种……适用于一切设备的破坏协议。我们的技师根本弄不明白那到底是怎么回事。举个例子，它能够直接让武器的弹药自爆，但同时又能够干扰网络系统，或者是让秘音武器的能量直接过载。那到底是个什么东西？还有这种不可思议的力量，它究竟来自哪里？"/>
+	<entry name="TacticalNuclearMissileFlavor" value="在过去，使用这种武器可以说是真正的大逆不道之事。有很多士兵宁愿死也不会按下发射按钮。那帮傻子。当时他们还以为世界末日就要来了。但是当世界真的即将走到尽头，没有人还会在乎那种事。"/>
+	<entry name="TakeCoverFlavor" value="在不计其数的战场上重复过卧倒-找掩体的流程之后，我发现自己慢慢能够分辨不同区域的土壤的味道了。新鲜的农地有一股湿润的口感。沙漠则会带着一种像盐一样咸咸的味道。至于被秘音的异血感染的土壤……你会巴不得用消毒水洗自己的嘴。"/>
+	<entry name="TameAbkluthFlavor" value="说实话我没有想到竟然会有人能够掌握驯服阿布卡鲁斯的方法。如果这些野兽能够被驯服，那么它们……说不定能够被进一步驯化为家畜？想象一下在农场里圈养阿布卡鲁斯，生病的时候照顾它们，然后跟邻居讨论什么是最合适的饲料。那些东西是来自异世界的怪物。它们根本不配得到我们的温柔照料。"/>
+	<entry name="TargetingRelayFlavor" value="说实话这东西的名字就是个笑话。站在中继站旁边确实能够获得更好的定位数据。但反过来敌人们也会知道要优先干掉你才行。"/>
+	<entry name="TheDeepWaysFlavor" value="柯·拉的信徒渴望引导那些不惜伤害自己也要踏上这条扭曲之路的人们。他们崇尚的那位亵渎之神能够将原本需要几天才能走完的旅程压缩到短短的几分钟之内。但是在两地之间传送的过程中，你会感受到超乎想象的痛苦折磨。"/>
+	<entry name="TheFogFlavor" value="那个地方就是个死亡陷阱。但他们还是派我们进去了。就算手中的照明设备能够穿透浓雾，那些黑色的阴霾还是会钻进我们的身体并灼烧内部的器官。那些厄金人就躲在远处的迷雾中嘲讽着我们，这些潮湿的雾气能够为他们带来力量，但是对我们人类来说却犹如致命的毒药。"/>
+	<entry name="TheOutsiderFlavor" value="无论秘音的真身究竟在那里，它从来没有亲自降临过地球。但是它有一个忠诚的仆人。审判庭有悄悄提到过那个仆人，她们说那个仆人就行走在稀薄的帷幕的另一侧。我知道三姐妹一直想要把那个仆人带过来，她们觉得这将是对我们的世界的馈赠。但是我……对此持有异议。我坚决反对那种事。"/>
+	<entry name="ThereIsHopeFlavor" value="希望。浪漫主义者从来没有尝试过说服我去相信那种愚蠢的念头。他自己也无法想象一个战后的世界，但他却一直选择相信那一天终会到来。这种信念之中本身便蕴含着力量。像我这样愤世嫉俗的人只能看到眼前的东西。但他却教会了自己的部队如何看向未来。"/>
+	<entry name="ThrashEmFlavor" value="驾驶这种张牙舞爪的重型载具需要承担巨大的风险，但蛮盗帮根本不在意这种事。那些家伙永远特立独行，像外星怪物一样狂野怪诞，又像机器一样嗜杀成性。废土客就像是在黑夜中的放声尖叫，他们绝不会就此被遗忘。"/>
+	<entry name="TimeShiftFlavor" value="说实话我只有看见过寥寥数次，但裁决者确实拥有着扭曲时间本身的力量。在那些极其罕见的时刻中，这些巨大的机器能够利用堪比神明之力的庞大能源引擎穿越大地。那是超越常理的速度，我担心这种手段会过于高效实用。以至于我会担心这会不会有什么代价。"/>
+	<entry name="TransubstantiationFlavor" value="“有这么一个词”，狂信徒一边低声耳语，一边将手中的刀子推向了我的胸膛。“门徒会在仪式中代替秘音说出这个词，但是他们的力量与恩典都源于秘音……”我竭尽全力反抗……“鲜血肉身……”她的利刃划破了我的皮肤……“机械造物……”我用尽最后的力气将她一把推开，但为时已晚，她的眸子里倒映着猩红的色彩……“皆为！秘音！”"/>
+	<entry name="TuneFlavor" value="批量生产的武器虽然廉价好用，但同时也存在缺陷。在战斗期间，工程师能够采用临时的补救方法来弥补缺陷，这时候你会觉得手中的步枪仿佛成了能够打倒一切的神兵利器。但是要不了多久物理法则就会前来拨乱反正，这时候你才会意识到自己手里拿着的就是块一无是处的破铜烂铁。"/>
+	<entry name="TunnelFlavor" value="在不顾一切想要再次聆听秘音的欲望趋势下，任何生物都会产生深入地下的念头。所以能否想象，那些虫人们究竟挖入了什么样的深渊？大地深处的压力又会给他们带来什么样的影响？而当虫人们重新返回地面之后，他们的内脏会在正常压力情况下迅速扩张，这时候他们随时能够喷吐大量可以将人活活烧死的致命酸液……"/>
+	<entry name="UnearthlyPassageFlavor" value="崇拜秘音的邪教徒们学会了如何穿透分隔各个世界的墙壁。如果你突然感觉到一股腐肉恶臭扑面而来，而且头顶的天空出现了诡异的光芒，那么这说明它就要来了。很快，一只硕大的利爪便会割裂眼前的空气。这时候你其实还有转身逃跑的机会，但是当你听见一头乌佐达神选者的低语，那你眨眼之间就被它生吞活剥。"/>
+	<entry name="UnholyHasteFlavor" value="柯·拉并不喜欢“休息”这种事。如果它的信徒命令你移动，那你就必须动起来。你会感觉仿佛有其他人控制了你的身体，无论你已经有多么疲倦，你会发现自己不由自主地再次伸向自己的武器。"/>
+	<entry name="UzhodaisZealFlavor" value="想要解决乌佐达神选者，最好的方式是单打独斗。如果一昧派兵包围它，这些怪物只会变得愈发凶残，而且还能够更加轻而易举地抵挡我们的攻击。这种生物似乎会吸收人们的恐惧心理，但只要秉持信念，它必将被勇敢之人斩于剑下。"/>
+	<entry name="ValhallaFlavor" value="如果有士兵在瓦尔基里附近死去，她们……就会与某种不同寻常的缥缈存在产生链接，一头是现实世界，另一头则是……另一个世界。也许是亡者的世界吧。总而言之，她们会从中吸收力量，科学家们认为这只是驾驶员们陷入了一种战斗狂喜的状态。但是如果你亲眼目睹过她们在那种状态下的身影……你也会觉得这个世界上真的有来世。"/>
+	<entry name="VorodaisGiftFlavor" value="站在这些巨兽运送的牢笼旁，你能够听见里面传来的窃窃私语……哪怕其实里面空无一人。秘音教徒们认为那些低语来自沃罗戴，他们认为那是秘音的其中一个化身想要进入我们的世界。沃罗戴的低语会驱使你加快脚步并不断杀戮，好为它带来更多的灵魂……与血肉。凭借那些血腥的战利品，它们将创造出比那些巨兽可怕千百倍的恐怖怪物。"/>
+	<entry name="WhispersOfHarmonyFlavor" value="秘音知晓操纵血肉与金属的黑暗秘密。那些听见低语之人能够利用这种力量，也能够更加轻而易举地诱惑智慧生物接受它的拥抱。所有人心底里最想要的，难道不就是安全？而秘音可以允诺给人们带来安全……哪怕那只是个彻头彻尾的谎言。"/>
+	<entry name="WhispersOfTheVoiceFlavor" value="秘音肯定很享受看着我们绝望地想要“研究”它的各种尝试。利用给审判庭灌输的低语，它用各式各样人类未曾考虑过的潜在未来玩弄着她们的心智。也许厄金人当初也是受到了同样的蛊惑，所以它们才会选择跨越星海来毁灭我们的世界。"/>
+	<entry name="WitheringBreathFlavor" value="就算是这些来自异界的庞然大物也需要呼吸。不过每当它们张开自己的血盆大口，从体内的扭曲脏器中散溢出的腐臭气体将毒害周围的一切生灵。要知道就算是大奸大恶之人在死后也能化为滋养大地的养分。但是这些来自彼界的恶毒怪物们只会抢夺原本属于我们的干净空气，然后将其转化为屠戮的武器。"/>
+	<entry name="WordsOfTheProphetFlavor" value="化敌为友是一种不可多得的馈赠，不过先知最擅长让士兵们公开摒弃自己的旧主。他知道这种“弃暗投明”的行为同时也是一种强有力的讯息。让自己的追随者融入新的大家庭固然是好事，但是看着他们满怀激情赞扬自己并唾弃以前的领导者，这能够帮助你牢牢掌握人们的心灵。"/>
+</language>

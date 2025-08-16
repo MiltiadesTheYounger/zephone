@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Combined with Attributes.xml or Effects.xml entries.
+	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
+			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingIfNotMoved" value=" po ataku, jeśli jednostka się nie przemieszczała"/>
+	<entry name="AgainstBiologicalUnits" value=" przeciwko jednostkom biologicznym"/>
+	<entry name="AgainstFlyingUnits" value=" przeciwko jednostkom latającym"/>
+	<entry name="AgainstLargeUnits" value=" przeciwko dużym jednostkom"/>
+	<entry name="AgainstNonAdjacentUnits" value=" przeciwko jednostkom niesąsiadującym"/>
+	<entry name="AgainstNonFlyingUnits" value=" przeciwko jednostkom nielatającym"/>
+	<entry name="AgainstNonLargeUnits" value=" przeciwko niedużym jednostkom"/>
+	<entry name="AgainstNonSourceUnit" value=" przeciwko jednostce innej niż źródłowa"/>
+	<entry name="AgainstRangedWeapons" value=" przeciwko broniom dystansowym"/>
+	<entry name="AgainstThisUnit" value=" przeciwko tej jednostce"/>
+	<entry name="AgainstThisUnitWithRangedWeapons" value=" przeciwko tej jednostce, za pomocą broni dystansowych"/>
+	<entry name="AgainstZephonTitanUnits" value=" przeciwko tytanom ZEPHONA"/>
+	<entry name="AgainstUnitsAtRange1" value=" przeciwko jednostkom w<nbsp/>zasięgu nr<nbsp/>1"/>
+	<entry name="AgainstUnitsAtRange1Or2" value=" przeciwko jednostkom w<nbsp/>zasięgu nr<nbsp/>1 lub 2"/>
+	<entry name="AgainstUnitsBelow50%Hitpoints" value=" przeciwko jednostkom, które straciły ponad 50% punktów zdrowia"/>
+	<entry name="AlgaeUpgrade" value=" dla każdych struktur szklarniowych w<nbsp/>mieście"/>
+	<entry name="AntimatterUpgrade" value=" na terenie pokrytym konstruktem lub pustynią"/>
+	<entry name="ArchaiConstruct" value=" dopóki jednostka nie zostanie uleczona za pomocą akcji <string name='Actions/ParticleRepair'/>"/>
+	<entry name="Assassinate" value=" na wrogie jednostki na danym obszarze, gdy cel ginie"/>
+	<entry name="AtMostPerAttack" value=" maksymalnie na atak"/>
+	<entry name="AtRank18OrHigher" value=" o randze 7 lub wyższej"/>
+	<entry name="AtRank14OrHigher" value=" o randze 3 lub wyższej"/>
+	<entry name="CannibalizeMachines" value=" do ataków w<nbsp/>zwarciu przeciwko jednostkom mechanicznym"/>
+	<entry name="CyberInfantryUpgrade" value=" dla każdej drukarki syntetycznej w<nbsp/>mieście"/>
+	<entry name="DreamPrison" value=" na docelową wrogą jednostkę niestacjonującą w<nbsp/>kwaterze głównej z<nbsp/>nałożonym efektem złamania"/>
+	<entry name="DreamPrisonRestore" value=" – gdy pożeracz umysłów ginie"/>
+	<entry name="EachTurn" value=" w każdej turze"/>
+	<entry name="EachTurnInBleed" value=" w każdej turze na polu z<nbsp/>krwawymi pnączami"/>
+	<entry name="EachTurnLogisticsExperts" value=" w każdej turze (<icon texture='Icons/Traits/LogisticsExperts' height='20'/><nbsp/><string name='Traits/LogisticsExperts'/>)"/>
+	<entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" w każdej turze na środkowym polu i<nbsp/>z połową mocy ataku na sąsiednich polach"/>
+	<entry name="EachTurnResourceNetwork" value=" w każdej turze (<icon texture='Icons/Traits/ResourceNetwork' height='20'/><nbsp/><string name='Traits/ResourceNetwork'/>)"/>
+	<entry name="EnergyUpgrade" value=" na terenie mroźnym lub zawierającym mokradła"/>
+	<entry name="Every5Turns" value=" co każde 5 tur"/>
+	<entry name="Every10Turns" value=" co każde 10 tur"/>
+	<entry name="ForActions" value=" dla akcji"/>
+	<entry name="ForAdministrationComplex" value=" dla: <string name='Buildings/Influence'/>"/>
+	<entry name="ForAlliedUnits" value=" dla jednostek sojuszniczych"/>
+	<entry name="ForAnchoriteUnits" value=" dla jednostek Pustelnika"/>
+	<entry name="ForChieftessUnits" value=" dla jednostek Łotrzycy"/>
+	<entry name="ForConstructionYard" value=" dla: <string name='Buildings/Construction'/>"/>
+	<entry name="ForControllingCity" value=" wewnątrz miasta"/>
+	<entry name="ForCyberUnits" value=" dla jednostek cyberbytów"/>
+	<entry name="ForCyberProductionBuildings" value=" dla budowli produkcyjnych cyberbytów"/>
+	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" dla jednostek cyberbytów, gdy atakują z<nbsp/>lasów lub ruin"/>
+	<entry name="ForEnemyGroundUnits" value=" dla wrogich jednostek naziemnych"/>
+	<entry name="ForGroundUnits" value=" dla jednostek naziemnych"/>
+	<entry name="ForHumanBiologicalUnits" value=" dla ludzkich jednostek biologicznych"/>
+	<entry name="ForLargeGroundUnits" value=" dla dużych jednostek naziemnych"/>
+	<entry name="ForMeleeWeapons" value=" dla broni do walki w<nbsp/>zwarciu"/>
+	<entry name="ForNonAffinityTechnologies" value=" dla technologii ludzi, cyberbytów i<nbsp/>Głosu, z<nbsp/>którymi nie masz powiązania"/>
+	<entry name="ForNonAgileGroundUnits" value=" dla jednostek naziemnych o<nbsp/>niedużej zwinności"/>
+	<entry name="ForNonLargeCyberUnits" value=" dla niedużych jednostek cyberbytów"/>
+	<entry name="ForNonLargeGroundUnits" value=" dla niedużych jednostek naziemnych"/>
+	<entry name="ForNonLargeGroundUnitsAgainstRangedWeapons" value=" dla niedużych, nielatających jednostek przeciwko broniom dystansowym"/>
+	<entry name="ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins" value=" dla niedużych, nielatających jednostek, gdy atakują z<nbsp/>lasów lub ruin"/>
+	<entry name="ForOverwatchAttacks" value=" dla ataków podczas czuwania"/>
+	<entry name="ForRangedWeapons" value=" dla broni dystansowych"/>
+	<entry name="ForResearchLaboratory" value=" dla: <string name='Buildings/Research'/>"/>
+	<entry name="ForStationedBiologicalUnitEachTurn" value=" dla stacjonującej jednostki biologicznej, w<nbsp/>każdej turze"/>
+	<entry name="ForStationedMechanicalUnitEachTurn" value=" dla stacjonującej jednostki mechanicznej, w<nbsp/>każdej turze"/>
+	<entry name="ForStationedUnit" value=" dla jednostki stacjonującej"/>
+	<entry name="ForUnits" value=" dla jednostek"/>
+	<entry name="ForXTurns" value=" na %1%"/>
+	<entry name="ForZephonUnits" value=" dla jednostek ZEPHONA"/>
+	<entry name="FromCargoOnDeath" value=" z<nbsp/>ładunku w<nbsp/>momencie śmierci"/>
+	<entry name="FromGenerousContacts" value=" z hojnych kontaktów"/>
+	<entry name="FromHammerheads" value=" od ataku zawisaków mechanicznych"/>
+	<entry name="FromTargetTile" value=" z<nbsp/>docelowego pola"/>
+	<entry name="FromTargetAlliedUnit" value=" z docelowej jednostki sojuszniczej"/>
+	<entry name="FromTargetAlliedUnitWithMothersFavor" value=" z docelowej jednostki sojuszniczej posiadającej cechę <string name='Traits/MothersFavor'/>"/>
+	<entry name="FromTargetEnemyUnit" value=" z docelowej wrogiej jednostki"/>
+	<entry name="GluttonyUpgrade" value=" za populację (tylko populacja o<nbsp/>wielkości od 1 do 6)"/>
+	<entry name="GluttonyUpgrade2" value=" za populację (tylko populacja o<nbsp/>wielkości od 7 do 12)"/>
+	<entry name="HumanAircraftUpgrade" value=" dla każdego hangaru montażowego w<nbsp/>mieście drugiej strony"/>
+	<entry name="HumanOperationsUpgrade" value=" dla każdego laboratorium badawczego w<nbsp/>mieście"/>
+	<entry name="HumanVehiclesUpgrade" value=" dla każdej zautomatyzowanej fabryki w<nbsp/>mieście"/>
+	<entry name="IfDamagedThisTurn" value=" – jeśli jednostka została zraniona w<nbsp/>tej turze"/>
+	<entry name="IfMoved" value=" – jeśli jednostka się przemieszczała"/>
+	<entry name="IfNotDamagedThisTurn" value=" – jeśli jednostka nie została zraniona w<nbsp/>tej turze"/>
+	<entry name="IfNotMoved" value=" – jeśli jednostka się nie przemieszczała"/>
+	<entry name="InXTurns" value=" w<nbsp/>trakcie %1%"/>
+	<entry name="InCitiesOrOutposts" value=" w miastach lub placówkach"/>
+	<entry name="IndependentUpgrade" value=" – jeśli populacja ma wielkość od 1 do 6"/>
+	<entry name="IndependentUpgrade2" value=" – jeśli populacja ma wielkość od 7 do 12"/>
+	<entry name="InternalRepairStation" value=" na jednostki transportowane"/>
+	<entry name="LoyaltyUpgrade" value=" w każdej turze dla każdej budowli typu <string name='Buildings/Loyalty'/> w<nbsp/>mieście"/>
+	<entry name="OfTargetAlliedUnit" value=" docelowej jednostki sojuszniczej"/>
+	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" docelowej wrogiej jednostki niebędącej tytanem, bohaterem ani niestacjonującej w<nbsp/>kwaterze głównej o<nbsp/>skończonej wartości morale poniżej 50% punktów zdrowia"/>
+	<entry name="OfTargetEnemyAbkluth" value=" docelowego wrogiego abkluta"/>
+	<entry name="OnAdjacentTilesToTarget" value=" na polach sąsiadujących z<nbsp/>celem"/>
+	<entry name="OnAttack" value=" w trakcie ataku"/>
+	<entry name="OnBleed" value=" na krwawych pnączach"/>
+	<entry name="OnCliffs" value=" na klifach"/>
+	<entry name="OnCoast" value=" na wybrzeżu"/>
+	<entry name="OnDeath" value=" w<nbsp/>momencie śmierci"/>
+	<entry name="OnHeight3" value=" na wysokości 3"/>
+	<entry name="OnHeight4" value=" na wysokości 4"/>
+	<entry name="OnMoraleLossFromDeath" value=" przy utracie morale z<nbsp/>powodu śmierci"/>
+	<entry name="OnRemoval" value=" w<nbsp/>momencie usunięcia"/>
+	<entry name="OnRivers" value=" na rzekach"/>
+	<entry name="OnRoads" value=" na drogach"/>
+	<entry name="OnTargetAndAdjacentTiles" value=" na polu docelowym oraz polach sąsiednich"/>
+	<entry name="OnTargetTile" value=" na docelowym polu"/>
+	<entry name="OnTargetTileAndHalfOnAdjacentTiles" value=" na docelowym polu i<nbsp/>z połową mocy ataku na sąsiednich polach"/>
+	<entry name="OnTilesAdjacentToBlackHole" value=" na polach sąsiadujących z<nbsp/>czarną dziurą"/>
+	<entry name="OnTilesInTheArea" value=" na polach na danym obszarze"/>
+	<entry name="OnTilesWithOnlyThisTypeOfBuilding" value=" na polach zawierających tylko budowle tego typu"/>
+	<entry name="PerExperienceWhenKillingNeutralUnit" value=" za doświadczenie zdobyte po zlikwidowaniu neutralnej jednostki"/>
+	<entry name="PerGenerousContact" value=" za hojny kontakt"/>
+	<entry name="PerMissingGroupMember" value=" za zaginionego członka grupy"/>
+	<entry name="PerTileInCity" value=" za pole w<nbsp/>mieście"/>
+	<entry name="PopulationLimitUpgrade" value=" na polach zawierających <string name='Buildings/Loyalty'/>"/>
+	<entry name="ResearchUpgrade" value=" w<nbsp/>lasach"/>
+	<entry name="SingularityCoresUpgrade" value=" dla każdego manipulatora kwantowego w<nbsp/>każdym posiadanym mieście"/>
+	<entry name="TacticalVisor" value=" – gdy sąsiaduje z<nbsp/>innymi sojuszniczymi iszinowymi egzekutorami"/>
+	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" docelową wrogą jednostkę niebędącą tytanem, bohaterem ani niestacjonującą w<nbsp/>kwaterze głównej"/>
+	<entry name="TargetNonTitanNonFortificationUnit" value=" docelową jednostkę niebędącą tytanem ani fortyfikacją"/>
+	<entry name="TargetUnit" value=" docelową jednostkę"/>
+	<entry name="ToAdjacentAlliedBiologicalUnits" value=" na sąsiadujące biologiczne jednostki sojusznicze"/>
+	<entry name="ToAdjacentAlliedNonLargeUnits" value=" na sąsiadujące nieduże jednostki sojusznicze"/>
+	<entry name="ToAdjacentAlliedUnits" value=" na sąsiadujące jednostki sojusznicze"/>
+	<entry name="ToAdjacentEnemyUnits" value=" na sąsiadujące wrogie jednostki"/>
+	<entry name="ToAdjacentEnemyUnitsEachTurn" value=" na sąsiadujące wrogie jednostki w<nbsp/>każdej turze"/>
+	<entry name="ToAdjacentEnemyUnitsOnDeath" value=" na sąsiadujące wrogie jednostki w<nbsp/>momencie śmierci"/>
+	<entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" na sąsiadujące duże jednostki mechaniczne wroga"/>
+	<entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" na sąsiadujące duże jednostki mechaniczne wroga niebędące tytanem"/>
+	<entry name="ToAdjacentUnits" value=" na sąsiadujące jednostki"/>
+	<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" na sąsiadujące jednostki, gdy punkty zdrowia spadną poniżej 75% wartości maksymalnej"/>
+	<entry name="ToAlliedBiologicalUnitsEachTurn" value=" na biologiczne jednostki sojusznicze w<nbsp/>każdej turze"/>
+	<entry name="ToAlliedMechanicalUnitsInTheArea" value=" na mechaniczne jednostki sojusznicze na danym obszarze"/>
+	<entry name="ToAlliedNonLargeUnitsInTheArea" value=" na nieduże jednostki sojusznicze na danym obszarze"/>
+	<entry name="ToAlliedUnits" value=" na jednostki sojusznicze"/>
+	<entry name="ToAlliedUnitsEachTurn" value=" na jednostki sojusznicze w<nbsp/>każdej turze"/>
+	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" na jednostki sojusznicze na polu docelowym oraz polach sąsiednich"/>
+	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" na jednostki sojusznicze na polach docelowego obszaru"/>
+	<entry name="ToAttackedEnemy" value=" na zaatakowanego przeciwnika"/>
+	<entry name="ToAttacker" value=" na atakującego"/>
+	<entry name="ToBiologicalEnemy" value=" na biologicznego przeciwnika"/>
+	<entry name="ToBiologicalNonTitanEnemy" value=" na biologicznego przeciwnika niebędącego tytanem"/>
+	<entry name="ToBiologicalUnits" value=" na jednostki biologiczne"/>
+	<entry name="ToCity" value=" na miasto"/>
+	<entry name="ToEnemy" value=" na przeciwnika"/>
+	<entry name="ToEnemyCity" value=" na wrogie miasto"/>
+	<entry name="ToEnemyUnitAndAdjacentEnemyUnitsOnRemoval" value=" na wrogą jednostkę oraz, z<nbsp/>połową mocy ataku, sąsiadujące wrogie jednostki w<nbsp/>momencie usunięcia"/>
+	<entry name="ToEnemyUnits" value=" na wrogie jednostki"/>
+	<entry name="ToEnemyUnitsEachTurn" value=" na wrogie jednostki w<nbsp/>każdej turze"/>
+	<entry name="ToMechanicalEnemy" value=" na mechanicznego przeciwnika"/>
+	<entry name="ToMechanicalNonTitanEnemy" value=" na mechanicznego przeciwnika niebędącego tytanem"/>
+	<entry name="ToMeleeAttackers" value=" na atakujących w<nbsp/>zwarciu"/>
+	<entry name="ToNonLargeEnemy" value=" na niedużego przeciwnika"/>
+	<entry name="ToNonLargeAlliedUnits" value=" na nieduże jednostki sojusznicze"/>
+	<entry name="ToNonLowPowerWeapon" value=" na bronie o<nbsp/>poziomie mocy innym niż niski"/>
+	<entry name="ToNonTitanEnemy" value=" na przeciwnika niebędącego tytanem"/>
+	<entry name="ToSourceUnit" value=" na jednostkę źródłową"/>
+	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" na jednostkę oraz sąsiadujące biologiczne jednostki sojusznicze"/>
+	<entry name="ToTargetAlliedBiologicalUnit" value=" na docelową biologiczną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedCity" value=" na docelowe miasto sojusznicze"/>
+	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" na docelową zranioną biologiczną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" na docelową uszkodzoną mechaniczną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedDamagedUnit" value=" na docelową zranioną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedMechanicalUnit" value=" na docelową mechaniczną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" na docelową niedużą nieulepszoną jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedUnit" value=" na docelową jednostkę sojuszniczą"/>
+	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" na docelową jednostkę sojuszniczą posiadającą bronie dystansowe"/>
+	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" na docelową jednostkę sojuszniczą posiadającą cechę <string name='Traits/MothersFavor'/>"/>
+	<entry name="ToTargetAndAdjacentAlliedUnits" value=" na docelową oraz sąsiadujące jednostki sojusznicze"/>
+	<entry name="ToTargetBiologicalUnit" value=" na docelową jednostkę biologiczną"/>
+	<entry name="ToTargetEnemyCity" value=" na docelowe wrogie miasto"/>
+	<entry name="ToTargetEnemyNonTitanUnit" value=" na docelową wrogą jednostkę niebędącą tytanem ani bohaterem"/>
+	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" na docelową wrogą jednostkę niebędącą tytanem, bohaterem ani niestacjonującą w<nbsp/>kwaterze głównej"/>
+	<entry name="ToTargetEnemyUnit" value=" na docelową wrogą jednostkę"/>
+	<entry name="ToTargetEnemyZephonUnit" value=" na docelową wrogą jednostkę ZEPHONA"/>
+	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" na docelową wrogą jednostkę ZEPHONA niebędącą tytanem"/>
+	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" na docelową wrogą jednostkę ZEPHONA niebędącą tytanem ani niestacjonującą w<nbsp/>kwaterze głównej"/>
+	<entry name="ToTargetOwnBiologicalUnit" value=" na docelową własną jednostkę biologiczną"/>
+	<entry name="ToWeapons" value=" na bronie"/>
+	<entry name="UnitsOnDeath" value=" jednostki w<nbsp/>momencie śmierci"/>
+	<entry name="UzhodaisZeal" value=" dla każdej sąsiadującej wrogiej jednostki"/>
+	<entry name="VoiceAircraftUpgrade" value=" dla jednostek produkowanych dla każdej Ody do Świtu w<nbsp/>każdym posiadanym mieście"/>
+	<entry name="VoiceVehiclesUpgrade" value=" jednostki jest odzyskiwane w<nbsp/>momencie jej śmierci jako punkty produkcji na każdym Kantyku Zmierzchu w<nbsp/>mieście"/>
+	<entry name="VoiceInfantryUpgrade" value=" dla jednostek produkowanych dla każdego nocnego chóru w<nbsp/>mieście"/>
+	<entry name="WhenAttackingFromHighGround" value=" – gdy atakuje z<nbsp/>wyższych poziomów"/>
+	<entry name="WhenDurationRunsOut" value=" – gdy minie czas trwania"/>
+	<entry name="WhenFirstCaptureFeature" value=" – gdy jednostka jako pierwsza przejmie placówkę"/>
+	<entry name="WhenKillingBiologicalUnit" value=" – gdy zabije jednostkę biologiczną"/>
+	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" – gdy zabije niezdeformowaną jednostkę biologiczną"/>
+	<entry name="WhenKillingUnit" value=" – gdy zabije jednostkę"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" – gdy wroga jednostka naziemna zatrzyma się na polu"/>
+	<entry name="WhenTakingDirectDamage" value=" – gdy otrzymuje obrażenia bezpośrednie"/>
+	<entry name="WhileAbove2Loyalty" value=" – gdy wartość lojalności jest na poziomie wyższym niż<nbsp/>2"/>
+	<entry name="WhileAbove8Loyalty" value=" – gdy wartość lojalności jest na poziomie wyższym niż<nbsp/>8"/>
+	<entry name="WhileAdjacentToAlliedUnits" value=" – gdy sąsiaduje z<nbsp/>jednostkami sojuszniczymi"/>
+	<entry name="WhileBelow50%Hitpoints" value=" – gdy straci ponad 50% punktów zdrowia"/>
+	<entry name="WhileAlliedNonFlyingUnitOnTile" value=" – gdy na polu znajduje się nielatająca jednostka sojusznicza"/>
+	<entry name="WithMeleeWeapons" value=" za pomocą broni do walki w<nbsp/>zwarciu"/>
+	<entry name="WithoutBleedCultivation" value=" bez ulepszenia <string name='Upgrades/BleedCultivation'/>"/>
+</language>

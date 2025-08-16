@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Combined with Attributes.xml or Effects.xml entries.
+	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
+			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingIfNotMoved" value=" после атаки, если юнит не двигался"/>
+	<entry name="AgainstBiologicalUnits" value=" против биологических юнитов"/>
+	<entry name="AgainstFlyingUnits" value=" против летающих юнитов"/>
+	<entry name="AgainstLargeUnits" value=" против больших юнитов"/>
+	<entry name="AgainstNonAdjacentUnits" value=" против НЕ-смежных юнитов"/>
+	<entry name="AgainstNonFlyingUnits" value=" против НЕ-летающих юнитов"/>
+	<entry name="AgainstNonLargeUnits" value=" против НЕ-больших юнитов"/>
+	<entry name="AgainstNonSourceUnit" value=" против НЕ-исходного юнита"/>
+	<entry name="AgainstRangedWeapons" value=" против дистанц. оружия"/>
+	<entry name="AgainstThisUnit" value=" против этого юнита"/>
+	<entry name="AgainstThisUnitWithRangedWeapons" value=" дистанц. оружия против этого юнита"/>
+	<entry name="AgainstZephonTitanUnits" value=" против титанов ЗЕФОНА"/>
+	<entry name="AgainstUnitsAtRange1" value=" против юнитов на дальности 1"/>
+	<entry name="AgainstUnitsAtRange1Or2" value=" против юнитов на дальности 1 или 2"/>
+	<entry name="AgainstUnitsBelow50%Hitpoints" value=" против юнитов с менее 50% ед. жизни"/>
+	<entry name="AlgaeUpgrade" value=" за каждое здание «Теплицы» в городе"/>
+	<entry name="AntimatterUpgrade" value=" в типах местности пустыня и схемы"/>
+	<entry name="ArchaiConstruct" value=" не от способности «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
+	<entry name="Assassinate" value=" вражеским юнитам в области, если цель погибает"/>
+	<entry name="AtMostPerAttack" value=" (макс.) за атаку"/>
+	<entry name="AtRank18OrHigher" value=" при ранге 7 или выше"/>
+	<entry name="AtRank14OrHigher" value=" при ранге 3 или выше"/>
+	<entry name="CannibalizeMachines" value=" для ближних атак против механических юнитов"/>
+	<entry name="CyberInfantryUpgrade" value=" за каждое здание «Синтетический принтер» в городе"/>
+	<entry name="DreamPrison" value=" указанному сломленному вражескому юниту НЕ-штабу"/>
+	<entry name="DreamPrisonRestore" value=" после смерти сноедца"/>
+	<entry name="EachTurn" value=" каждый ход"/>
+	<entry name="EachTurnInBleed" value=" каждый ход на Течи"/>
+	<entry name="EachTurnLogisticsExperts" value=" каждый ход (&lt;icon texture='Icons/Traits/LogisticsExperts' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/LogisticsExperts'/&gt;)"/>
+	<entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" каждый ход на центральной клетке и на смежных клетках (с силой половины атак)"/>
+	<entry name="EachTurnResourceNetwork" value=" каждый ход (&lt;icon texture='Icons/Traits/ResourceNetwork' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/ResourceNetwork'/&gt;)"/>
+	<entry name="EnergyUpgrade" value=" в типах местности арктика и болото"/>
+	<entry name="Every5Turns" value=" каждые 5 ходов"/>
+	<entry name="Every10Turns" value=" каждые 10 ходов"/>
+	<entry name="ForActions" value=" от действий"/>
+	<entry name="ForAdministrationComplex" value=" — &lt;string name='Buildings/Influence'/&gt;"/>
+	<entry name="ForAlliedUnits" value=" для союзных юнитов"/>
+	<entry name="ForAnchoriteUnits" value=" для юнитов Анахорета"/>
+	<entry name="ForChieftessUnits" value=" для юнитов Дикарки"/>
+	<entry name="ForConstructionYard" value=" — &lt;string name='Buildings/Construction'/&gt;"/>
+	<entry name="ForControllingCity" value=" внутри города"/>
+	<entry name="ForCyberUnits" value=" для юнитов киберов"/>
+	<entry name="ForCyberProductionBuildings" value=" для производственных зданий киберов"/>
+	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" для юнитов киберов при атаке из лесов или руин"/>
+	<entry name="ForEnemyGroundUnits" value=" вражеским наземным юнитам"/>
+	<entry name="ForGroundUnits" value=" для наземных юнитов"/>
+	<entry name="ForHumanBiologicalUnits" value=" для биологических юнитов людей"/>
+	<entry name="ForLargeGroundUnits" value=" для больших наземных юнитов"/>
+	<entry name="ForMeleeWeapons" value=" для оружия ближнего боя"/>
+	<entry name="ForNonAffinityTechnologies" value=" технологий людей, киберов и Голоса вне вашей склонности"/>
+	<entry name="ForNonAgileGroundUnits" value=" для НЕ-проворных наземных юнитов"/>
+	<entry name="ForNonLargeCyberUnits" value=" для НЕ-больших юнитов киберов"/>
+	<entry name="ForNonLargeGroundUnits" value=" для НЕ-больших наземных юнитов"/>
+	<entry name="ForNonLargeGroundUnitsAgainstRangedWeapons" value=" для НЕ-больших, НЕ-летающих юнитов против дистанц. оружия"/>
+	<entry name="ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins" value=" для НЕ-больших, НЕ-летающих юнитов при атаке из лесов или руин"/>
+	<entry name="ForOverwatchAttacks" value=" для атак из дозора"/>
+	<entry name="ForRangedWeapons" value=" для дистанционного оружия"/>
+	<entry name="ForResearchLaboratory" value=" — &lt;string name='Buildings/Research'/&gt;"/>
+	<entry name="ForStationedBiologicalUnitEachTurn" value=" размещённому биологическому юниту каждый ход"/>
+	<entry name="ForStationedMechanicalUnitEachTurn" value=" размещённому механическому юниту каждый ход"/>
+	<entry name="ForStationedUnit" value=" размещённому юниту"/>
+	<entry name="ForUnits" value=" юнитам"/>
+	<entry name="ForXTurns" value=" на %1%"/>
+	<entry name="ForZephonUnits" value=" для юнитов ЗЕФОНа"/>
+	<entry name="FromCargoOnDeath" value=" с погруженных юнитов при гибели"/>
+	<entry name="FromGenerousContacts" value=" от великодушных контактов"/>
+	<entry name="FromHammerheads" value=" от молотоголовов"/>
+	<entry name="FromTargetTile" value=" с указанной клетки"/>
+	<entry name="FromTargetAlliedUnit" value=" с указанного союзного юнита"/>
+	<entry name="FromTargetAlliedUnitWithMothersFavor" value=" с указанного союзного юнита, имеющего &lt;string name='Traits/MothersFavor'/&gt;"/>
+	<entry name="FromTargetEnemyUnit" value=" с указанного вражеского юнита"/>
+	<entry name="GluttonyUpgrade" value=" за каждую ед. населения (при численности населения от 1 до 6)"/>
+	<entry name="GluttonyUpgrade2" value=" за каждую ед. населения (при численности населения от 7 до 12)"/>
+	<entry name="HumanAircraftUpgrade" value=" за каждое здание «Сборочный ангар» в каждом другом своём городе"/>
+	<entry name="HumanOperationsUpgrade" value=" за каждое здание «Научная лаборатория» в городе"/>
+	<entry name="HumanVehiclesUpgrade" value=" за каждое здание «Автофабрика» в городе"/>
+	<entry name="IfDamagedThisTurn" value=" после получения юнитом урона в этот ход"/>
+	<entry name="IfMoved" value=" после движения юнита"/>
+	<entry name="IfNotDamagedThisTurn" value=" при неполучении юнитом урона в этот ход"/>
+	<entry name="IfNotMoved" value=" при неподвижности юнита"/>
+	<entry name="InXTurns" value=" через %1%"/>
+	<entry name="InCitiesOrOutposts" value=" в городах или заставах"/>
+	<entry name="IndependentUpgrade" value=" при численности населения от 1 до 6"/>
+	<entry name="IndependentUpgrade2" value=" при численности населения от 7 до 12"/>
+	<entry name="InternalRepairStation" value=" перевозимым юнитам"/>
+	<entry name="LoyaltyUpgrade" value=" каждый ход за каждое здание «&lt;string name='Buildings/Loyalty'/&gt;» в городе"/>
+	<entry name="OfTargetAlliedUnit" value=" указанного союзного юнита"/>
+	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" указанного вражеского юнита НЕ-титана, НЕ-героя, НЕ-штаба с небесконечным боевым духом и менее 50% ед. жизни"/>
+	<entry name="OfTargetEnemyAbkluth" value=" указанного вражеского юнита абклютов"/>
+	<entry name="OnAdjacentTilesToTarget" value=" на смежных с целью клетках"/>
+	<entry name="OnAttack" value=" при атаке"/>
+	<entry name="OnBleed" value=" на Течи"/>
+	<entry name="OnCliffs" value=" на утёсах"/>
+	<entry name="OnCoast" value=" на берегу"/>
+	<entry name="OnDeath" value=" при гибели"/>
+	<entry name="OnHeight3" value=" на высоте 3"/>
+	<entry name="OnHeight4" value=" на высоте 4"/>
+	<entry name="OnMoraleLossFromDeath" value=" при потере боевого духа от смерти"/>
+	<entry name="OnRemoval" value=" при удалении"/>
+	<entry name="OnRivers" value=" на реках"/>
+	<entry name="OnRoads" value=" на дорогах"/>
+	<entry name="OnTargetAndAdjacentTiles" value=" на указанной и смежных клетках"/>
+	<entry name="OnTargetTile" value=" на указанной клетке"/>
+	<entry name="OnTargetTileAndHalfOnAdjacentTiles" value=" на указанной клетке и на смежных клетках (с силой половины атак)"/>
+	<entry name="OnTilesAdjacentToBlackHole" value=" на клетках, смежных с чёрной дырой"/>
+	<entry name="OnTilesInTheArea" value=" на клетках в области"/>
+	<entry name="OnTilesWithOnlyThisTypeOfBuilding" value=" на клетках с только этим типом здания"/>
+	<entry name="PerExperienceWhenKillingNeutralUnit" value=" за каждую ед. опыта при убийстве нейтрального юнита"/>
+	<entry name="PerGenerousContact" value=" за каждый великодушный контакт"/>
+	<entry name="PerMissingGroupMember" value=" за отсутствующего члена группы"/>
+	<entry name="PerTileInCity" value=" за каждую клетку в городе"/>
+	<entry name="PopulationLimitUpgrade" value=" на клетках со зданием «&lt;string name='Buildings/Loyalty'/&gt;»"/>
+	<entry name="ResearchUpgrade" value=" в лесах"/>
+	<entry name="SingularityCoresUpgrade" value=" за каждое здание «Квантовый манипулятор» в каждом своём городе"/>
+	<entry name="TacticalVisor" value=" при нахождении в смежной клетке с другими союзными ишимами-силовиками"/>
+	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" указанный вражеский юнит НЕ-титан, НЕ-герой, НЕ-штаб"/>
+	<entry name="TargetNonTitanNonFortificationUnit" value=" указанный юнит НЕ-титан, НЕ-укрепление"/>
+	<entry name="TargetUnit" value=" указанный юнит"/>
+	<entry name="ToAdjacentAlliedBiologicalUnits" value=" смежным союзным биологическим юнитам"/>
+	<entry name="ToAdjacentAlliedNonLargeUnits" value=" смежным союзным НЕ-большим юнитам"/>
+	<entry name="ToAdjacentAlliedUnits" value=" смежным союзным юнитам"/>
+	<entry name="ToAdjacentEnemyUnits" value=" смежным вражеским юнитам"/>
+	<entry name="ToAdjacentEnemyUnitsEachTurn" value=" смежным вражеским юнитам каждый ход"/>
+	<entry name="ToAdjacentEnemyUnitsOnDeath" value=" смежным вражеским юнитам при гибели"/>
+	<entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" смежным вражеским большим механическим юнитам"/>
+	<entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" смежным вражеским большим механическим юнитам НЕ-титанам"/>
+	<entry name="ToAdjacentUnits" value=" смежным юнитам"/>
+	<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" смежным юнитам при количестве ед. жизни менее 75%"/>
+	<entry name="ToAlliedBiologicalUnitsEachTurn" value=" союзным биологическим юнитам каждый ход"/>
+	<entry name="ToAlliedMechanicalUnitsInTheArea" value=" союзным механическим юнитам в области"/>
+	<entry name="ToAlliedNonLargeUnitsInTheArea" value=" союзным НЕ-большим юнитам в области"/>
+	<entry name="ToAlliedUnits" value=" союзным юнитам"/>
+	<entry name="ToAlliedUnitsEachTurn" value=" союзным юнитам каждый ход"/>
+	<entry name="ToAlliedUnitsInTheArea" value=" союзным юнитам в области"/>
+	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" союзным юнитам на указанной и смежных клетках"/>
+	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" союзным юнитам на клетках в указанной области"/>
+	<entry name="ToAttackedEnemy" value=" атакованному врагу"/>
+	<entry name="ToAttacker" value=" атакующему"/>
+	<entry name="ToBiologicalEnemy" value=" биологическому врагу"/>
+	<entry name="ToBiologicalNonTitanEnemy" value=" биологическому врагу НЕ-титану"/>
+	<entry name="ToBiologicalUnits" value=" биологическим юнитам"/>
+	<entry name="ToCity" value=" городу"/>
+	<entry name="ToEnemy" value=" врагу"/>
+	<entry name="ToEnemyCity" value=" вражескому городу"/>
+	<entry name="ToEnemyUnitAndAdjacentEnemyUnitsOnRemoval" value=" вражескому юниту и смежным вражеским юнитам (с силой половины атак) при удалении"/>
+	<entry name="ToEnemyUnits" value=" вражеским юнитам"/>
+	<entry name="ToEnemyUnitsEachTurn" value=" вражеским юнитам каждый ход"/>
+	<entry name="ToMechanicalEnemy" value=" механическому врагу"/>
+	<entry name="ToMechanicalNonTitanEnemy" value=" механическому врагу НЕ-титану"/>
+	<entry name="ToMeleeAttackers" value=" атакующим в ближнем бою"/>
+	<entry name="ToNonLargeEnemy" value=" НЕ-большому врагу"/>
+	<entry name="ToNonLargeAlliedUnits" value=" НЕ-большим союзным юнитам"/>
+	<entry name="ToNonLowPowerWeapon" value=" НЕ-разряженному оружию"/>
+	<entry name="ToNonTitanEnemy" value=" врагу НЕ-титану"/>
+	<entry name="ToSourceUnit" value=" исходному юниту"/>
+	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" юниту и смежным союзным биологическим юнитам"/>
+	<entry name="ToTargetAlliedBiologicalUnit" value=" указанному союзному биологическому юниту"/>
+	<entry name="ToTargetAlliedCity" value=" указанному союзному городу"/>
+	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" указанному повреждённому союзному биологическому юниту"/>
+	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" указанному повреждённому союзному механическому юниту"/>
+	<entry name="ToTargetAlliedDamagedUnit" value=" указанному повреждённому союзному юниту"/>
+	<entry name="ToTargetAlliedMechanicalUnit" value=" указанному союзному механическому юниту"/>
+	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" указанному союзному НЕ-большому юниту без апгрейдов"/>
+	<entry name="ToTargetAlliedUnit" value=" указанному союзному юниту"/>
+	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" указанному союзному юниту с дистанц. оружием"/>
+	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" указанному союзному юниту, имеющему &lt;string name='Traits/MothersFavor'/&gt;"/>
+	<entry name="ToTargetAndAdjacentAlliedUnits" value=" указанному и смежным союзным юнитам"/>
+	<entry name="ToTargetBiologicalUnit" value=" указанному биологическому юниту"/>
+	<entry name="ToTargetEnemyCity" value=" указанному вражескому городу"/>
+	<entry name="ToTargetEnemyNonTitanUnit" value=" указанному вражескому юниту НЕ-титану, НЕ-герою"/>
+	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" указанному вражескому юниту НЕ-титану, НЕ-герою, НЕ-штабу"/>
+	<entry name="ToTargetEnemyUnit" value=" указанному вражескому юниту"/>
+	<entry name="ToTargetEnemyZephonUnit" value=" указанному вражескому юниту ЗЕФОНа"/>
+	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" указанному вражескому юниту ЗЕФОНа НЕ-титану"/>
+	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" указанному вражескому юниту ЗЕФОНа НЕ-титану, НЕ-штабу"/>
+	<entry name="ToTargetOwnBiologicalUnit" value=" указанному своему биологическому юниту"/>
+	<entry name="ToWeapons" value=" оружию"/>
+	<entry name="UnitsOnDeath" value=" юниты при гибели"/>
+	<entry name="UzhodaisZeal" value=" за каждый смежный вражеский юнит"/>
+	<entry name="VoiceAircraftUpgrade" value=" производимых юнитов за каждое здание «Ода рассвету» в каждом своём городе"/>
+	<entry name="VoiceVehiclesUpgrade" value=" при гибели передаётся в виде производства каждому зданию «Гимн заката» в городе"/>
+	<entry name="VoiceInfantryUpgrade" value=" производимых юнитов за каждое здание «Полуночный хор» в городе"/>
+	<entry name="WhenAttackingFromHighGround" value=" при атаке с возвышенности"/>
+	<entry name="WhenDurationRunsOut" value=" по окончании времени действия"/>
+	<entry name="WhenFirstCaptureFeature" value=" при первом захвате заставы"/>
+	<entry name="WhenKillingBiologicalUnit" value=" при убийстве биологического юнита"/>
+	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" при убийстве биологического НЕ-уродующего юнита"/>
+	<entry name="WhenKillingUnit" value=" при убийстве юнита"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" при остановке вражеского наземного юнита на клетке"/>
+	<entry name="WhenTakingDirectDamage" value=" при получении прямого урона"/>
+	<entry name="WhileAbove2Loyalty" value=" при лояльности более 2"/>
+	<entry name="WhileAbove8Loyalty" value=" при лояльности более 8"/>
+	<entry name="WhileAdjacentToAlliedUnits" value=" при соседстве с союзными юнитами"/>
+	<entry name="WhileBelow50%Hitpoints" value=" при количестве ед. жизни менее 50%"/>
+	<entry name="WhileAlliedNonFlyingUnitOnTile" value=" при нахождении на клетке союзного НЕ-летающего юнита"/>
+	<entry name="WithMeleeWeapons" value=" с оружием ближнего боя"/>
+	<entry name="WithoutBleedCultivation" value=" без особенности «&lt;string name='Upgrades/BleedCultivation'/&gt;»"/>
+</language>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+We're only doing the absolutely necessary pop-up tips to be able to play (win introduction).
+
+Text is shortest possible. Use simple words. Short sentences. Skip flavor.
+
+Too many tips that pop-up means the player is interrupted, annoyed and stops reading all of them.
+
+We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
+-->
+<language>
+	<entry name="AcquireTile" value="Adquirir casilla"/>
+	<entry name="AcquireTileDescription" value="Para erigir más construcciones tienes que capturar nuevas casillas. Haz clic en «<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Adquirir casilla» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla que tenga al menos 1<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>ranura de edificio."/>
+	<entry name="AllianceVictory" value="Alianza victoriosa"/>
+	<entry name="AllianceVictoryDescription" value="Aunque te alíes con todos, para alcanzar la victoria todos tus aliados también deben aliarse entre sí."/>
+	<entry name="Bleed" value="Sangría"/>
+	<entry name="BleedDescription" value="<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>La Sangría causa daño a las unidades terrestres cada turno. No te quedes en ella mucho tiempo."/>
+	<entry name="Camera" value="Cámara"/>
+	<entry name="CameraDescription" value="Bienvenido a la Tierra postapocalíptica. Para desplazar la cámara, pulsa <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>encima del terreno y mueve el ratón."/>
+	<entry name="CloseQuartersFire" value="Fuego a quemarropa"/>
+	<entry name="CloseQuartersFireDescription" value="Los militantes tienen un arma con <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Fuego a quemarropa y atacan con el doble de su cadencia a alcance 1. Piensa bien dónde colocarlos antes de atacar."/>
+	<entry name="Combat" value="Combate"/>
+	<entry name="CombatDescription" value="El daño infligido se calcula a partir del daño, precisión, número de ataques y penetración de armadura del arma. Sin embargo, su daño se limita primero a los puntos de golpe de un solo miembro del grupo objetivo."/>
+	<entry name="CombatAdvanced" value="Combate (avanzado)"/>
+	<entry name="CombatAdvancedDescription" value="Existen varios puntos clave a tener en cuenta sobre el cálculo del daño.<br/><br/>Cada unidad está formada por varios miembros idénticos de un grupo, y sus puntos de golpe totales se calculan sumando los de cada individuo. Cuando una unidad pierde los puntos de golpe de uno de sus miembros, este muere y deja de aportar el daño con sus armas, lo que reduce el daño infligido en proporción. Si se cura a la unidad, el miembro vuelve a la vida y se recupera su poder. Las unidades de un solo miembro, como las más grandes, reciben daño si sus puntos de golpe son inferiores al 50 %, lo que hace que pierdan un 33 % de precisión.<br/><br/>Al calcular el daño final infligido por un arma, su valor de daño se limita primero por los puntos de golpe de un solo miembro del grupo de la unidad objetivo. Eso significa que un solo ataque de un arma nunca puede hacer más daño que los puntos de golpe de un miembro individual del grupo objetivo. Por ejemplo, un arma con 6 de daño contra un grupo de militantes, donde cada uno tiene 2 puntos de golpe, nunca causará más de 2 de daño. En el caso de unidades con un solo miembro, como las unidades grandes, esto no se aplica, ya que sus puntos de golpe totales se corresponden a los de su único miembro.<br/><br/>Después de alcanzar el límite de puntos de golpe, los ataques, la precisión y las reducciones de daño del objetivo, como su armadura y otras reducciones, se aplican de manera multiplicativa.<br/><br/>Los ataques determinan el número de ataques que un arma realiza contra su objetivo cuando la unidad ataca. Es la estadística más importante a mejorar, ya que aumenta el daño tras aplicar el límite de puntos de golpe, y, a diferencia de la precisión, no tiene un tope de límite.<br/><br/>La precisión puede variar de 2 a 12, y cada punto equivale a 1/12, o 0,083, que se multiplica al valor de daño final. No puede reducirse por debajo de 2 ni aumentarse por encima de 12.<br/><br/>La armadura y otras reducciones de daño (como la cobertura, la evasión, la ciudad o la invulnerabilidad) del mismo tipo se suman entre sí y luego reducen el daño multiplicativamente según su factor correspondiente, pero ningún tipo individual puede reducir el daño en más de 10/12, o 83 %. La penetración de armadura indica cuántos puntos de armadura se ignoran. A menos que se especifique lo contrario, todas las reducciones de daño se aplican tanto a las armas cuerpo a cuerpo como a distancia.<br/><br/>Los rasgos se basan en estos conceptos básicos. Por ejemplo, las armas con el rasgo de salpicadura reciben ataques extra por cada miembro vivo extra en el grupo objetivo, y las que tienen el rasgo de ignorar cobertura pasan por alto la reducción de daño por cobertura del objetivo.<br/><br/>Esto presenta algunas consecuencias:<br/><icon texture='GUI/Bullet'/>Aumentar el daño de un arma no siempre incrementa el daño infligido.<br/><icon texture='GUI/Bullet'/>La infantería es más resistente de lo que sugieren sus puntos de golpe. Las armas de un solo ataque, con mucho daño y sin salpicadura, no pueden matar a más de un miembro del grupo. De hecho, contra enemigos con el máximo de puntos de golpe, ni siquiera uno, salvo que la precisión sea del 100 %.<br/><icon texture='GUI/Bullet'/>Para acabar con la infantería, es mejor tener la precisión alta, más ataques o salpicadura.<br/><icon texture='GUI/Bullet'/>Cuando algún miembro del grupo tiene pocos puntos de golpe, ganar más al subir de nivel no sirve de mucho. El aumento se anula por el nuevo límite de daño por miembro, así que no es útil contra armas que ya superaban ese tope.<br/><icon texture='GUI/Bullet'/>La infantería se puede beneficiar más de curarse.<br/><icon texture='GUI/Bullet'/>Además, mejorar una precisión baja con un incremento fijo resulta más beneficioso que hacerlo con una alta. Por ejemplo, subir de 6 a 8 (del 50 % al 67 %) aumenta el daño un 33 %. Por otro lado, subir de 8 a 10 (del 67 % al 83 %) solo lo aumenta un 25 %.<br/><icon texture='GUI/Bullet'/>Las reducciones de daño del mismo tipo se vuelven más efectivas cuanto más se acumulan. Por ejemplo, aumentar la armadura de 0 a 1 solo aporta un aumento en la supervivencia de (12-0)/(12-1)=+9 %. Sin embargo, aumentar la armadura de 9 a 10 otorga (12-9)/(12-10)=+50 % de supervivencia."/>
+	<entry name="ConstructInfantryBuilding" value="Construir barracones"/>
+	<entry name="ConstructInfantryBuildingDescription" value="Erige construcciones de producción de unidades para reforzar tu exigua presencia. Haz clic en «<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracones» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla válida para empezar a construir en ella."/>
+	<entry name="Cover" value="Cobertura"/>
+	<entry name="CoverDescription" value="Los <icon height='20' texture='Icons/Features/Forest'/><nbsp/>bosques, las <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruinas, los <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>puestos fronterizos y las <icon height='20' texture='Icons/Features/City'/><nbsp/>ciudades proporcionan una reducción del daño a distancia para las unidades que no sean grandes. Ponlas a cubierto siempre que puedas."/>
+	<entry name="EnemyInCity" value="Presencia enemiga en la ciudad"/>
+	<entry name="EnemyInCityDescription" value="Las unidades enemigas desactivan edificios, puestos fronterizos e impiden la construcción de nuevos edificios en la casilla de la unidad."/>
+	<entry name="EquipItem" value="Equipar objeto"/>
+	<entry name="EquipItemDescription" value="Haz <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>clic en un objeto para que tu héroe se equipe con él. Los objetos recién equipados se someten a un periodo de recarga de 1 turno antes de poder utilizarlos."/>
+	<entry name="FoundCity" value="Fundar ciudad"/>
+	<entry name="FoundCityDescription" value="Para fundar tu primera ciudad, haz clic en «<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Fundar ciudad»  y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla."/>
+	<entry name="HabitationBlocks" value="Bloques de viviendas"/>
+	<entry name="HabitationBlocksDescription" value="A excepción del cuartel general, cada construcción requiere 1 <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>de población para funcionar correctamente. Es crucial investigar y construir <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Bloques de viviendas para incrementar la capacidad de <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>alojamiento de tu ciudad (el límite de población)."/>
+	<entry name="Healing" value="Curación"/>
+	<entry name="HealingDescription" value="Esta unidad ha sufrido daños de consideración. Para curarse, debe permanecer inmóvil y no participar en combate. Haz clic en «<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Mantener posición hasta curarse» para esperar a que recupere toda su vitalidad. Plantéate la posibilidad de retirarla a un puesto fronterizo o ciudad aliada que acelerará su tasa de curación."/>
+	<entry name="Housing" value="Alojamiento"/>
+	<entry name="HousingDescription" value="La capacidad de <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>alojamiento de la ciudad está al máximo. Construye <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Bloques de viviendas para aumentar la cantidad de espacio habitable y permitir que tu población vuelva a crecer."/>
+	<entry name="Loyalty" value="Lealtad"/>
+	<entry name="LoyaltyDescription" value="Un valor negativo de lealtad está reduciendo la producción de recursos de la ciudad. Investiga y construye un <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>Holocine para que la población continúe trabajando eficazmente."/>
+	<entry name="MarkTiles" value="Marcar casillas"/>
+	<entry name="MarkTilesDescription" value="<string name='Tips/Loading/54'/>"/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="La unidad ha sufrido una pérdida de <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>moral debido a las bajas de los aliados cercanos. Esto reducirá su eficacia en combate. Para que se recupere, mantenla apartada del combate o mata unidades enemigas."/>
+	<entry name="Movement" value="Movimiento"/>
+	<entry name="MovementDescription" value="Mueve la unidad pulsando <icon height='20' texture='Icons/RightMouseButton'/>. Cada unidad solamente puede moverse una vez por turno."/>
+	<entry name="NPCs" value="PNJ"/>
+	<entry name="NPCsDescription" value="Hay tres líderes no jugadores que se disputan la supremacía: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>el Anacoreta, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>la Jefa y <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. Si mantienes relaciones pacíficas con ellos, podrás pedirles ayuda. Llévate bien con ellos y desbloquearás opciones adicionales en las misiones."/>
+	<entry name="Population" value="Población"/>
+	<entry name="PopulationDescription" value="La ciudad carece de <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>población suficiente para que todas sus construcciones funcionen a pleno rendimiento. Puedes hacer clic en <icon height='20' texture='Icons/DisableBuilding'/> para desactivar una construcción."/>
+	<entry name="ProduceUnits" value="Producir unidades"/>
+	<entry name="ProduceUnitsDescription" value="Inicia la producción de <icon height='20' texture='Icons/Units/Militant'/><nbsp/>militantes en los barracones. Otras construcciones pueden seguir produciendo al mismo tiempo. Si construyes más barracones, las unidades completarán su formación más deprisa."/>
+	<entry name="Recon" value="Analizar"/>
+	<entry name="ReconDescription" value="Muchas unidades tienen habilidades que se pueden activar. Las surcadoras pueden revelar sus alrededores usando la habilidad <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Analizar."/>
+	<entry name="Research" value="Investigación"/>
+	<entry name="ResearchDescription" value="Investigar un héroe es un buen punto de partida, así podrás producirlo como unidad en el cuartel general. Ten en cuenta que cambiar la investigación activa hará que se pierda todo el progreso parcial."/>
+	<entry name="TheConcordat" value="El Concordato"/>
+	<entry name="TheConcordatDescription" value="Puedes comprar y vender recursos y objetos de héroe en cualquier momento visitando <icon height='20' texture='Icons/Shop'/><nbsp/>el Concordato."/>
+	<entry name="Transports" value="Transportes"/>
+	<entry name="TransportsDescription" value="Los transportes pueden llevar unidades que no sean grandes como cargamento. Para embarcar una unidad, <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>muévela a la casilla del transporte. Las unidades embarcadas se curan dentro del transporte, pero si este es destruido, su cargamento muere con él."/>
+	<entry name="Selection" value="Selección"/>
+	<entry name="SelectionDescription" value="Haz <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>clic en una unidad para seleccionarla."/>
+	<entry name="Winning" value="Ganar la partida"/>
+	<entry name="WinningDescription" value="Para ganar la partida, derrota a todos los jugadores o únelos a todos bajo una sola alianza."/>
+	<!-- Meat Harvest/player ability usage. -->
+	<!-- Dremeater in sight. Maybe fancier trigger condition, -->	
+	<!-- <entry name="Dreameaters" value="Dreameaters"/>
+	<entry name="DreameatersDescription" value="It would be wise to gather a sizable force before engaging this horror."/> -->
+
+	<entry name="Loading" value="Consejos de la pantalla de carga"/>
+	<entry name="Loading/0" value="La Sangría y el fuego frenan en seco a las unidades terrestres y les causan daños."/>
+	<entry name="Loading/1" value="Los ríos, bosques y ruinas reducen la capacidad de movimiento de las unidades terrestres."/>
+	<entry name="Loading/2" value="<string name='Tips/CoverDescription'/>"/>
+	<entry name="Loading/3" value="Las carreteras aumentan la capacidad de movimiento de las unidades terrestres."/>
+	<entry name="Loading/4" value="<string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="Loading/5" value="Las unidades se curan más deprisa en puestos fronterizos y ciudades."/>
+	<entry name="Loading/6" value="<string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="Loading/7" value="<string name='Attributes/AccuracyDescription'/>"/>
+	<entry name="Loading/8" value="<string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="Loading/9" value="<string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="Loading/10" value="<string name='Attributes/LevelDescription/Death'/>"/>
+	<entry name="Loading/11" value="<string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="Loading/12" value="<string name='Attributes/LevelDescription/Effect'/>"/>
+	<entry name="Loading/13" value="<string name='Attributes/MoraleDescription/Regeneration'/>"/>
+	<entry name="Loading/14" value="<string name='Attributes/MoraleDescription/Shaken'/>"/>
+	<entry name="Loading/15" value="<string name='Attributes/MoraleDescription/Broken'/>"/>
+	<entry name="Loading/16" value="<string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="Loading/17" value="Las defensas de las ciudades se ven afectadas por los potenciadores, las mermas y la moral."/>
+	<entry name="Loading/18" value="Matar abkhanes te proporciona recursos y un objeto."/>
+	<entry name="Loading/19" value="Las unidades neutrales no te perseguirán a menos que las ataques."/>
+	<entry name="Loading/20" value="Producir un segundo héroe te cuesta el doble."/>
+	<entry name="Loading/21" value="La elevación del terreno y las características de las casillas afectan a la línea de visión y el alcance de las unidades."/>
+	<entry name="Loading/22" value="Reducir la moral del enemigo tiene un efecto devastador y puede procurarte la victoria en batallas que dabas por perdidas."/>
+	<entry name="Loading/23" value="<string name='Tips/TheConcordatDescription'/>"/>
+	<entry name="Loading/24" value="Si se te agota un recurso, disminuirá la producción de las construcciones que lo necesiten."/>
+	<entry name="Loading/25" value="Quedarte sin recursos hará que tus unidades tengan un abastecimiento insuficiente y sufran penalizaciones a la precisión."/>
+	<entry name="Loading/26" value="Cuanto más tiempo pase una unidad con un abastecimiento insuficiente, mayor será la penalización a la precisión."/>
+	<entry name="Loading/27" value="Adquirir una casilla de puesto fronterizo con una ciudad otorga bonificaciones percentiles a toda la ciudad."/>
+	<entry name="Loading/28" value="Construir múltiples construcciones de un mismo tipo incrementa su velocidad de producción."/>
+	<entry name="Loading/29" value="Los excedentes de producción e investigación se trasladan al siguiente objeto."/>
+	<entry name="Loading/30" value="<string name='Tips/HabitationBlocksDescription'/>"/>
+	<entry name="Loading/31" value="El crecimiento de la población está limitado por los alojamientos disponibles."/>
+	<entry name="Loading/32" value="<string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="Loading/33" value="<string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="Loading/34" value="Si la población escasea, se repartirá equitativamente por todas las construcciones existentes, lo cual reducirá su producción en una cantidad proporcional."/>
+	<entry name="Loading/35" value="<string name='Attributes/LoyaltyDescription/Effect'/>"/>
+	<entry name="Loading/36" value="<string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="Loading/37" value="Influencia: <string name='Attributes/InfluenceDescription'/>"/>
+	<entry name="Loading/38" value="Pulsa [<control name='ToggleYieldOverlay'/>] para mostrar los detalles de cada casilla."/>
+	<entry name="Loading/39" value="[<control name='ToggleBuildingPower'/>] en el icono de construcción de una casilla para activar o desactivar la energía que recibe, liberando así su población y los recursos que consume."/>
+	<entry name="Loading/40" value="[<control name='DismantleBuilding'/>] en el icono de construcción de una casilla para demoler la construcción."/>
+	<entry name="Loading/41" value="Las ciudades dañadas sufren penalizaciones por destrucción a su producción de recursos hasta que son reparadas."/>
+	<entry name="Loading/42" value="Los recursos se acumulan y comparten globalmente, permitiéndote así especializar tus ciudades y abastecerte para la guerra."/>
+	<entry name="Loading/43" value="<string name='Tips/WinningDescription'/>"/>
+	<entry name="Loading/44" value="Las fortificaciones, unidades voladoras y titanes vuelan a mayor altitud y es más fácil trazar líneas de tiro hacia ellos."/>
+	<entry name="Loading/45" value="Investigar una tecnología con la que no tengas afinidad puede proporcionarte sinergias exclusivas."/>
+	<entry name="Loading/46" value="Cada casilla tiene una bonificación de recursos que incrementa la producción de las construcciones erigidas en ella."/>
+	<entry name="Loading/47" value="Las unidades que aún tienen acciones disponibles se marcan con el icono <icon texture='Icons/Attributes/Actions'/><nbsp/>."/>
+	<entry name="Loading/48" value="Las unidades neutrales atadas pueden atacarte durante su turno si estás dentro de su alcance."/>
+	<entry name="Loading/49" value="Incluso las unidades neutrales atadas vigilarán y atacarán a cualquiera que entre dentro de su alcance."/>
+	<entry name="Loading/50" value="Plantéate desactivar la vigilancia para que tus ataques no desaten a unidades neutrales atadas."/>
+	<entry name="Loading/51" value="El daño causado por cada ataque se ve limitado por los puntos de golpe del miembro de la escuadra seleccionado como blanco, y luego se reduce en función de la precisión del arma utilizada."/>
+	<entry name="Loading/52" value="Los ataques de salpicadura alcanzan a un máximo de 2 miembros de escuadra adicionales e infligen el triple de daño que a un solo miembro."/>
+	<entry name="Loading/53" value="Las unidades grandes sufren una penalización del –33 % a la precisión cuando tienen menos de la mitad de sus puntos de golpe."/>
+	<entry name="Loading/54" value="[<control name='MarkTile'/>] para marcar casillas para ti y tus aliados. Los aliados controlados por la IA tenderán a mover sus unidades hacia las casillas marcadas."/>
+	<entry name="Loading/55" value="<string name='Tips/AllianceVictoryDescription'/>"/>
+	<entry name="Loading/56" value="Los efectos de «cada turno», como los de «En llamas», se activan al comienzo del turno del jugador de origen."/>
+	<entry name="Loading/57" value="Las unidades tienen un alcance de visión de 3 casillas."/>
+	<entry name="Loading/58" value="Los puestos fronterizos y las ciudades otorgan visión a las casillas adyacentes."/>
+	<entry name="Loading/59" value="La última coordenada de la casilla es su altura (x, y, altura)."/>
+	<entry name="Loading/60" value="Transfiere objetos a héroes aliados adyacentes arrastrándolos desde el inventario."/>
+	<entry name="Loading/61" value="[<control name='OrderAllIdleUnits'/>] para ordenar a todas las unidades inactivas."/>
+	<entry name="Loading/62" value="[<control name='OrderAllUnits'/>] para ordenar a todas las unidades."/>
+	<entry name="Loading/63" value="[<control name='OrderAreaUnits'/>] para ordenar a todas las unidades de la zona (en un radio de 3 casillas)."/>
+	<entry name="Loading/64" value="Desplaza unidades a grandes distancias haciendo clic derecho en el minimapa."/>
+	<entry name="Loading/65" value="<string name='Tips/CombatDescription'/>"/>
+	<entry name="Loading/66" value="Los bosques, ruinas, volcanes, construcciones de la ciudad y la Sangría obstruyen la visión de las unidades."/>
+	<entry name="Loading/67" value="<string name='Tips/EnemyInCityDescription'/>"/>
+	<entry name="Loading/Count" value="68"/>
+</language>

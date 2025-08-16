@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- %1% icon, %2% name, %3% target/conditional, %4% duration, %5% details -->
+	<entry name="AddFeature" value="<icon texture='GUI/Bullet'/>Crea %1%<nbsp/>%2%%3%%4%%5%"/>
+	<entry name="AddItem" value="<icon texture='GUI/Bullet'/>Concede %1%<nbsp/>%2%%3%%4%"/>
+	<entry name="AddPlayerAction" value="<icon texture='GUI/Bullet'/>Genera %1%<nbsp/>%2%%3%%4%%5%"/>
+	<entry name="AddTrait" value="<icon texture='GUI/Bullet'/>Aplica %1%<nbsp/>%2%%3%%4%%5%"/>
+	<entry name="AddTraitToTargetOrSource" value="<icon texture='GUI/Bullet'/>Aplica %1%<nbsp/>%2% al objetivo o la fuente%3%%4%%5%"/>
+	<entry name="AddUnit" value="<icon texture='GUI/Bullet'/>Produce %1%<nbsp/>%2%%3%%4%%5%%6%"/>
+	<entry name="AddUnitToPlayer" value="<string name='Effects/AddUnit'/>"/>
+	<entry name="AddUpgrade" value="<icon texture='GUI/Bullet'/>Desbloquea %1%<nbsp/>%2%%3%%4%"/>
+	<entry name="RemoveFeature" value="<string name='Effects/RemoveTrait'/>"/>
+	<entry name="RemoveTrait" value="<icon texture='GUI/Bullet'/>Elimina %1%<nbsp/>%2%%3%%4%"/>
+	
+	<!-- %1% conditional from Modifiers.xml -->
+	<entry name="ChangePlayer" value="<icon texture='GUI/Bullet'/>Cambia el control%1%"/>
+	<entry name="ChangePlayerTo" value="<icon texture='GUI/Bullet'/>Cambia el control%1% a %2%"/>
+	<entry name="Disembark" value="<icon texture='GUI/Bullet'/>Desembarca%1%"/>
+	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Embarca%1%"/>
+	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Mata la carga%1%"/>
+	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Arrastra%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Elimina potenciadores%1%"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Elimina mermas%1%"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restablece los puntos de acción%1%"/>
+	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Restablece los periodos de recarga%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restablece los puntos de movimiento%1%"/>
+	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>Revela las casillas%1%"/>
+
+	<!-- %1% name, %2% conditional from Modifiers.xml -->
+	<!-- <entry name="UnlockItem" value="%1% is now available at The Concordat for this and future playthroughs"/> -->
+	<entry name="UnlockMutator" value="<icon texture='GUI/Bullet'/>Desbloquea al mutador %1%%2%Ahora se puede activar para futuras partidas."/>
+	
+	<!-- %1% conditional from Modifiers.xml, %2% player name -->
+	<entry name="ChangePlayerToOwner" value="<icon texture='GUI/Bullet'/>Restablece el control%1%"/>
+	
+	<!-- %1% percentage amount, %2% conditional from Modifiers.xml -->
+	<entry name="SourceWeaponDamage" value="<icon texture='GUI/Bullet'/>Inflige %1% ataques de daño de arma recibido%2%"/>
+	
+	<!-- %1% conditional from Modifiers.xml, %2% details -->
+	<entry name="WeaponDamage" value="<icon texture='GUI/Bullet'/>Inflige daño%1%%2%"/>
+	
+</language>

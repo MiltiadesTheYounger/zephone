@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcrinConstruction" value="Стройкомплекс акринов"/>
+	<entry name="AcrinConstructionProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Присоединяет клетки, зачищает клетки и строит здания, а также производит минералы и влияние"/>
+	<entry name="AcrinInfantry" value="Полуночный хор акринов"/>
+	<entry name="AcrinInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит юниты акринов, а также повышает лояльность и производит водоросли"/>
+	<entry name="Algae" value="Ферментационный бак"/>
+	<entry name="AlgaeProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит водоросли"/>
+	<entry name="Antimatter" value="Генератор антиматерии"/>
+	<entry name="AntimatterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Преобразует энергию в антиматерию"/>
+	<entry name="Chips" value="Криофабрикатор"/>
+	<entry name="ChipsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит чипы"/>
+	<entry name="Construction" value="Стройкомплекс"/>
+	<entry name="ConstructionProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Присоединяет клетки, зачищает клетки, производит инженеров и строит здания, а также производит минералы и влияние"/>
+	<entry name="CyberAircraft" value="Небесная твердыня"/>
+	<entry name="CyberAircraftProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит авиацию киберов, а также добавляет жильё, повышает лояльность и производит чипы&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/OphanimCarrier'/&gt; &lt;string name='Units/OphanimCarrier'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/OphanimCarrierProperties'/&gt;"/>
+	<entry name="CyberInfantry" value="Синтетический принтер"/>
+	<entry name="CyberInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит пехоту киберов, а также минералы и чипы&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/IshimEnforcer'/&gt; &lt;string name='Units/IshimEnforcer'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/IshimEnforcerProperties'/&gt;"/>
+	<entry name="CyberOperations" value="Сетевой разветвитель"/>
+	<entry name="CyberOperationsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Проводит операции киберов, а также производит влияние и чипы&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Actions/InterferenceProtocols'/&gt; &lt;string name='Actions/InterferenceProtocols'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;icon texture='GUI/Bullet'/&gt;Временно снижает точность выбранного юнита врага"/>
+	<entry name="CyberVehicles" value="Антигравовый сборщик"/>
+	<entry name="CyberVehiclesProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит технику киберов, а также исследование и чипы&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/ExousiaMarauder'/&gt; &lt;string name='Units/ExousiaMarauder'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/ExousiaMarauderProperties'/&gt;"/>
+	<entry name="DimensionalEchoes" value="Камеры затворничества"/>
+	<entry name="DimensionalEchoesProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Преобразует водоросли в отзвуки измерений"/>
+	<entry name="Energy" value="Электростанция"/>
+	<entry name="EnergyProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит энергию"/>
+	<entry name="Food" value="Теплицы"/>
+	<entry name="FoodProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит пищу"/>
+	<entry name="Headquarters" value="Штаб"/>
+	<entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит героев и основные ресурсы"/>
+	<entry name="HumanAircraft" value="Сборочный ангар"/>
+	<entry name="HumanAircraftProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит авиацию людей, а также минералы и влияние&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/TH3Corsair'/&gt; &lt;string name='Units/TH3Corsair'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/TH3CorsairProperties'/&gt;"/>
+	<entry name="HumanInfantry" value="Казармы"/>
+	<entry name="HumanInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит пехоту людей, а также добавляет жильё и повышает лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/Militant'/&gt; &lt;string name='Units/Militant'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/MilitantProperties'/&gt;"/>
+	<entry name="HumanOperations" value="Орбитальный канал связи"/>
+	<entry name="HumanOperationsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Проводит операции людей, а также производит исследование и влияние&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Actions/SatelliteScan'/&gt; &lt;string name='Actions/SatelliteScan'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;icon texture='GUI/Bullet'/&gt;Раскрывает клетки"/>
+	<entry name="HumanVehicles" value="Автофабрика"/>
+	<entry name="HumanVehiclesProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит технику людей, а также минералы и исследование&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/Outrider'/&gt; &lt;string name='Units/Outrider'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/OutriderProperties'/&gt;"/>
+	<entry name="Influence" value="Административный комплекс"/>
+	<entry name="InfluenceProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит влияние"/>
+	<entry name="Loyalty" value="Голотеатр"/>
+	<entry name="LoyaltyProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Повышает лояльность"/>
+	<entry name="Minerals" value="Очиститель минералов"/>
+	<entry name="MineralsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит минералы"/>
+	<entry name="PopulationLimit" value="Жилой блок"/>
+	<entry name="PopulationLimitProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Добавляет жильё"/>
+	<entry name="ReaverConstruction" value="Стройкомплекс Опустошителей"/>
+	<entry name="ReaverConstructionProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Присоединяет клетки, зачищает клетки и строит здания, а также производит минералы и влияние"/>
+	<entry name="ReaverInfantry" value="Казармы Опустошителей"/>
+	<entry name="ReaverInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит юниты Опустошителей, а также добавляет жильё и повышает лояльность"/>
+	<entry name="Research" value="Научная лаборатория"/>
+	<entry name="ResearchProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит исследование"/>
+	<entry name="SingularityCores" value="Квантовый манипулятор"/>
+	<entry name="SingularityCoresProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Преобразует чипы в сингулярные ядра"/>
+	<entry name="Transuranium" value="Трансурановый стабилизатор"/>
+	<entry name="TransuraniumProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Преобразует минералы в трансуран"/>
+	<entry name="VoiceAircraft" value="Ода рассвету"/>
+	<entry name="VoiceAircraftProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит летунов Голоса, а также исследование и водоросли&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/IokSwarm'/&gt; &lt;string name='Units/IokSwarm'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/IokSwarmProperties'/&gt;"/>
+	<entry name="VoiceInfantry" value="Полуночный хор"/>
+	<entry name="VoiceInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит пехоту Голоса, а также повышает лояльность и производит водоросли&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/AbkluthDragoon'/&gt; &lt;string name='Units/AbkluthDragoon'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/AbkluthDragoonProperties'/&gt;"/>
+	<entry name="VoiceOperations" value="Псалтирь масок"/>
+	<entry name="VoiceOperationsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Проводит операции Голоса, а также производит влияние и водоросли&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Actions/HymnOfDecay'/&gt; &lt;string name='Actions/HymnOfDecay'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;icon texture='GUI/Bullet'/&gt;Наносит временный урон на выбранной клетке"/>
+	<entry name="VoiceVehicles" value="Гимн заката"/>
+	<entry name="VoiceVehiclesProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит существ Голоса, а также пищу и водоросли&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Изначально производит: &lt;icon height='20' texture='Icons/Units/DarkVassael'/&gt; &lt;string name='Units/DarkVassael'/&gt;&lt;br/&gt; &lt;style color='GUI/Gray'/&gt;&lt;string name='Units/DarkVassaelProperties'/&gt;"/>
+	<entry name="ZephonConstruction" value="Стройкомплекс ЗЕФОНа"/>
+	<entry name="ZephonConstructionProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Присоединяет клетки, зачищает клетки и строит здания, а также производит минералы и влияние"/>
+	<entry name="ZephonInfantry" value="Синтетический принтер ЗЕФОНа"/>
+	<entry name="ZephonInfantryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Производит юниты ЗЕФОНа, а также минералы и чипы"/>
+	
+	<!-- Flavor. -->
+	<entry name="AlgaeFlavor" value="Доводилось нюхать микопротеиновый чан? Воняет хуже, чем в казарменном туалете в рыбный день. И это только для получения съедобной массы. Но то, что разводят в фермобаках... из такого трипа не возвращаются. Мы называли эту дрянь водорослями, но это просто удобное слово для обозначения чего-то, что даже на фундаментальном биологическом уровне не имеет с нами ничего общего. А культисты Голоса её ЕДЯТ."/>
+	<entry name="AntimatterFlavor" value="Один замечательный учёный мне однажды всё популярно объяснил — мы создаём антипротоны и позитроны, а затем пуляем ими в замедлитель, чтобы сделать антиводород. Потом стабилизируем его в синхротронах, чтобы использовать в... ну, во всём, для чего нужна эта безумно опасная антиматерия."/>
+	<entry name="ChipsFlavor" value="Возможно, ЗЕФОН и впрямь был «китайской комнатой», чьи мотивы и мысли фундаментально для нас непостижимы, но этот ИИ определённо знал себя и знал, что для него хорошо. Мы построили фабрикатор, способный воспроизвести качество на уровне оборудования самого ЗЕФОНа. Если мы надеялись выжить, то должны были красть у лучших."/>
+	<entry name="ConstructionFlavor" value="Поначалу мы строили всё по старинке. В поте лица и с энтузиазмом. На стройплощадках не было ничего экзотического — только экскаваторы, грузовики, краны, геополимерный бетон, опорные конструкции. Но даже с такими примитивные технологиями мы могли построить что угодно."/>
+	<entry name="CyberAircraftFlavor" value="На первый взгляд ни одна из этих машин не была способна летать. Куда подевались крылья, лопасти, двигатели, элероны и рули? Техники поведали, что секрет в «низком соотношении антиграва к массе». Вот этим-то наука и отличается от слепой веры в то, что я не грохнусь с неба."/>
+	<entry name="CyberInfantryFlavor" value="Печатать солдата? Это казалось бессмыслицей. В первый день, когда были запущены эти фабрики, я наблюдал за их работой, и это было... не от мира сего. Технология печати позволяла на лету латать органику и производить синтетику. Сперва мы только улучшали человеческие тела — но в итоге начали печатать их с нуля."/>
+	<entry name="CyberOperationsFlavor" value="Работать в тени ЗЕФОНа? Идея была амбициозная. ИИ уже создал целую глобальную сеть, и одной её части нам хватило бы для диверсий и кибервойн. Но риск был очень велик. Заметь нас ЗЕФОН, он мог бы нас запросто уничтожить. Но... вдруг он нас заметил? Вдруг он нас изучал?"/>
+	<entry name="CyberVehiclesFlavor" value="Я считал, что антигравитация просто слегка усовершенствует логистику. Конечно, не так-то легко удерживать машину в воздухе, но зато не придётся беспокоиться о том, что какая-то выбоина выведет из строя транспорт с солдатами. Однако эти машины оказались лишь началом. Антигравитация была не просто научной диковинкой. Она была секретом новой жизни."/>
+	<entry name="DimensionalEchoesFlavor" value="Заталкиваете кучку отшельников Голоса в камеры, запечатываете их и никогда больше не открываете. Можно подумать, что через несколько часов они помрут от нехватки воздуха, но верующие говорят, что те живы. И камеры определённо начинают производить «отзвуки» — альтернативные варианты будущего и прошлого, осязаемые, управляемые. Просто никогда, никогда не открывайте камеры."/>
+	<entry name="EnergyFlavor" value="Когда мы вновь впервые зажгли свет, это казалось чудом. Со старым слитым по капле бензином и дерьмовыми генераторами особо не повоюешь. Некоторые гражданские что-то ворчали по поводу сжигания угля и газа — двух веществ, которые когда-то чуть не обрекли нашу планету на гибель. Но наша планета уже была обречена. Ещё немного — и мы бы её уже не вернули. Подобные возражения были недопустимы."/>
+	<entry name="FoodFlavor" value="Наши первые урожаи не учли мутагенов в почве. Это стоило нам... немало жизней. После этого мы уже никогда не воспринимали еду как должное. Каждый кусочек был на счету. Пока у нас была энергия, никто не голодал. Конечно, наших врагов радовало видеть, как мы умираем с голоду."/>
+	<entry name="HeadquartersFlavor" value="Нельзя вести войну, не имея надёжной базы. Все наши оборонительные стратегии сводились к защите этого сооружения. Если бы оно пало, всё было бы потеряно."/>
+	<entry name="HumanAircraftFlavor" value="Слабым местом авиации всегда оставались пилоты. Пилоты могут потерять сознание, пострадать от перегрузок, истечь кровью и умереть... и это ещё цветочки. Создание качественных летательных аппаратов означало разработку с учётом этих недостатков. Мы были обязаны ставить людей превыше поднимаемой в небо техники..."/>
+	<entry name="HumanInfantryFlavor" value="Без пехотинцев ни одной войны не выиграть. Чтобы получить передовые технологии или отдаться Голосу, сперва нужны люди, готовые идти на смерть с оружием в руках. Из пехотинцев могли получиться отличные солдаты, но сначала они должны были выжить."/>
+	<entry name="HumanOperationsFlavor" value="Наземная часть этой системы была достаточно знакомой — просто гора мощных передатчиков и тарелок. Но то, с чем ей приходилось связываться, было совсем иным — смесью обломков спутниковой сети людей с уничтоженным флотом пришельцев. Хитрость заключалась в том, чтобы применить первые для работы со вторыми с целью получения выгоды на поверхности. Чаще всего это получалось."/>
+	<entry name="HumanVehiclesFlavor" value="Ещё одна классическая задача ведения войны: для перевозки оружия, припасов или людей нужна техника, которая переживёт путешествие. Конечно, мы начинали с малого. Со временем мы создали транспорты и танки, которые превзошли даже самые смелые мечты инженеров старого мира."/>
+	<entry name="InfluenceFlavor" value="М-да. То самое место. Центр организации нашего города. Да, я рад, что оно делало свою работу — организовывало наше общество и экономику, производило впечатление на соседей. Но я на дух не переносил бюрократов, со всеми их бланками в трёх экземплярах, большими круглыми печатями и образцовым бумагомаранием. Я любую битву на передовой предпочту форме 2B(II)i."/>
+	<entry name="LoyaltyFlavor" value="Захватывающий симулятор, объединяющий людей в выдуманной мечте. Даже лучшие из нас сбегали сюда из нашего адского мира. Худшие же... люди с дурными наклонностями... использовали его для промывки мозгов. Я до сих пор не знаю, что стало с некоторыми из этих экспериментов. Возможно, они страдают и по сей день."/>
+	<entry name="MineralsFlavor" value="Высшие чины называли её «очистителем минералов», как будто мы продавали её сами себе, но все прекрасно понимали, что это всего лишь шахта. Да, там были навороченные машины. Да, она автоматически проводила разведку, выемку грунта и обратную засыпку. Но это всё ещё была шахта, и трудиться в ней было непросто."/>
+	<entry name="PopulationLimitFlavor" value="Сколько человек можно засунуть в среднестатистический дом? Чтобы они жили там счастливо и желательно долго? Как близко можно всех разместить? Сколько места достаточно для личного пространства? Архитектор, спроектировавший жилой блок, был чёртовым гением. Три с половиной человека на квадратный метр, но это работало."/>
+	<entry name="ResearchFlavor" value="Техники, исследователи, учёные — все они стекались сюда. Когда я был моложе — глупее — то думал, что здесь прячутся от жестокости войны. Конечно, им хотелось, чтобы мы так и думали. Здесь нашли место некоторые из самых чудовищных умов. Зачем стрелять самому... когда можно сделать пистолет?"/>
+	<entry name="SingularityCoresFlavor" value="Разгадать секреты квантовой физики? Легко. Применить эти знания на поле боя? Астрономически дорого и почти невозможно. Потребовалось специальное оборудование, которое могло... как же мне сказали? «Извлекать из чипов вычислительную мощность квантового уровня?» У меня голова пухла, когда я пытался понять математику, которая заставляла это место крутиться."/>
+	<entry name="TransuraniumFlavor" value="Ну, не буду притворяться, что понимаю. Я знаю, что трансурановые элементы нестабильны. Я знаю, что в этой нестабильности скрывается огромная энергия. Я не знаю, как работали машины, которые остановили её выход, которые превратили эти элементы в нечто плотное и невероятно прочное. Сказать по правде, я не знаю, есть ли на свете кто-нибудь, кто всё это понимает."/>
+	<entry name="VoiceAircraftFlavor" value="Однажды я разговаривал с древним акрином — он утверждал, что он последний из анахоретов своей расы времён до Голоса. И он сказал мне, что Голос похож на песню, которая поёт по кругу о началах и концах, что время — это петля, песней заставляющая вселенную существовать. Я сказал ему, что надеюсь, что мы уже на рассвете, вот-вот улетим в новый мир, и он печально улыбнулся."/>
+	<entry name="VoiceInfantryFlavor" value="Однажды мои лазутчики нашли здание хора. Оно было чем-то вроде естественного амфитеатра, усилителя. Они говорили со мной, пока подходили к нему, пока теряли разум от его пения, пока входили в его портал. Я слушал эту песню, и мне тоже захотелось пойти с ними, но меня отделяли от них километры. Больше я их не видел, но на следующий день у Голоса появились новые солдаты."/>
+	<entry name="VoiceOperationsFlavor" value="Если верить послушникам Голоса, просветление — достойная цель, но не единственная. Иногда Голос сам по себе является целью. Я не претендую на понимание их заумной религии, но они говорят со своими... богами. И боги говорят в ответ, отзываются на молитвы."/>
+	<entry name="VoiceVehiclesFlavor" value="Как мне говорили, не все преображённые Голосом достигают просветления, особенно те, кто ниже акринов по статусу. Но и не умирают. Потерпевшие неудачу теряют стремление, исцеляются, но меняются, получают звериные черты. Может быть, отсюда и берутся странные существа акринов? Неудавшиеся фанатики? Или же просто существа, жившие на их родине, присоединившиеся к их межзвёздному путешествию?"/>
+</language>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcrinConstruction" value="Atrio de construcción acrin"/>
+	<entry name="AcrinConstructionProperties" value="<icon texture='GUI/Bullet'/>Adquiere casillas, despeja casillas y erige construcciones, además de generar minerales e influencia"/>
+	<entry name="AcrinInfantry" value="Coro de Medianoche acrin"/>
+	<entry name="AcrinInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce unidades acrin, además de aumentar la lealtad y generar algas"/>
+	<entry name="Algae" value="Cuba de fermentación"/>
+	<entry name="AlgaeProperties" value="<icon texture='GUI/Bullet'/>Genera algas"/>
+	<entry name="Antimatter" value="Central de antimateria"/>
+	<entry name="AntimatterProperties" value="<icon texture='GUI/Bullet'/>Convierte la energía en antimateria"/>
+	<entry name="Chips" value="Criofábrica"/>
+	<entry name="ChipsProperties" value="<icon texture='GUI/Bullet'/>Genera chips"/>
+	<entry name="Construction" value="Atrio de construcción"/>
+	<entry name="ConstructionProperties" value="<icon texture='GUI/Bullet'/>Adquiere casillas, despeja casillas, produce ingenieros y erige construcciones, además de generar minerales e influencia"/>
+	<entry name="CyberAircraft" value="Fortaleza aérea"/>
+	<entry name="CyberAircraftProperties" value="<icon texture='GUI/Bullet'/>Produce aeronaves cibernéticas, aumenta el alojamiento y la lealtad, además de generar chips<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/OphanimCarrier'/> <string name='Units/OphanimCarrier'/><br/>    <style color='GUI/Gray'/><string name='Units/OphanimCarrierProperties'/>"/>
+	<entry name="CyberInfantry" value="Impresora sintética"/>
+	<entry name="CyberInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce infantes cibernéticos, además de generar minerales y chips<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/IshimEnforcer'/> <string name='Units/IshimEnforcer'/><br/>    <style color='GUI/Gray'/><string name='Units/IshimEnforcerProperties'/>"/>
+	<entry name="CyberOperations" value="Divisor de red"/>
+	<entry name="CyberOperationsProperties" value="<icon texture='GUI/Bullet'/>Produce operaciones cibernéticas, además de generar influencia y chips<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Actions/InterferenceProtocols'/> <string name='Actions/InterferenceProtocols'/><br/>    <style color='GUI/Gray'/><icon texture='GUI/Bullet'/>Reduce temporalmente la precisión de la unidad enemiga objetivo"/>
+	<entry name="CyberVehicles" value="Ensamblador antigravitatorio"/>
+	<entry name="CyberVehiclesProperties" value="<icon texture='GUI/Bullet'/>Produce vehículos cibernéticos, además de generar investigación y chips<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/ExousiaMarauder'/> <string name='Units/ExousiaMarauder'/><br/>    <style color='GUI/Gray'/><string name='Units/ExousiaMarauderProperties'/>"/>
+	<entry name="DimensionalEchoes" value="Cenobio Sellado"/>
+	<entry name="DimensionalEchoesProperties" value="<icon texture='GUI/Bullet'/>Convierte las algas en ecos dimensionales"/>
+	<entry name="Energy" value="Central energética"/>
+	<entry name="EnergyProperties" value="<icon texture='GUI/Bullet'/>Genera energía"/>
+	<entry name="Food" value="Granja-invernadero"/>
+	<entry name="FoodProperties" value="<icon texture='GUI/Bullet'/>Genera comida"/>
+	<entry name="Headquarters" value="Cuartel general"/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>Produce héroes y genera recursos básicos"/>
+	<entry name="HumanAircraft" value="Hangar de montaje"/>
+	<entry name="HumanAircraftProperties" value="<icon texture='GUI/Bullet'/>Produce aeronaves humanas, además de generar minerales e influencia<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/TH3Corsair'/> <string name='Units/TH3Corsair'/><br/>    <style color='GUI/Gray'/><string name='Units/TH3CorsairProperties'/>"/>
+	<entry name="HumanInfantry" value="Barracones"/>
+	<entry name="HumanInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce infantes humanos, además de aumentar el alojamiento y la lealtad<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/Militant'/> <string name='Units/Militant'/><br/>    <style color='GUI/Gray'/><string name='Units/MilitantProperties'/>"/>
+	<entry name="HumanOperations" value="Enlace orbital"/>
+	<entry name="HumanOperationsProperties" value="<icon texture='GUI/Bullet'/>Produce operaciones humanas, además de generar investigación e influencia<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Actions/SatelliteScan'/> <string name='Actions/SatelliteScan'/><br/>    <style color='GUI/Gray'/><icon texture='GUI/Bullet'/>Revela casillas"/>
+	<entry name="HumanVehicles" value="Fábrica automatizada"/>
+	<entry name="HumanVehiclesProperties" value="<icon texture='GUI/Bullet'/>Produce vehículos humanos, además de generar minerales e investigación<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/Outrider'/> <string name='Units/Outrider'/><br/>    <style color='GUI/Gray'/><string name='Units/OutriderProperties'/>"/>
+	<entry name="Influence" value="Instalación administrativa"/>
+	<entry name="InfluenceProperties" value="<icon texture='GUI/Bullet'/>Genera influencia"/>
+	<entry name="Loyalty" value="Holocine"/>
+	<entry name="LoyaltyProperties" value="<icon texture='GUI/Bullet'/>Aumenta la lealtad"/>
+	<entry name="Minerals" value="Extractor de minerales"/>
+	<entry name="MineralsProperties" value="<icon texture='GUI/Bullet'/>Genera minerales"/>
+	<entry name="PopulationLimit" value="Bloque de viviendas"/>
+	<entry name="PopulationLimitProperties" value="<icon texture='GUI/Bullet'/>Aumenta el alojamiento"/>
+	<entry name="ReaverConstruction" value="Atrio de construcción asediador"/>
+	<entry name="ReaverConstructionProperties" value="<icon texture='GUI/Bullet'/>Adquiere casillas, despeja casillas y erige construcciones, además de generar minerales e influencia"/>
+	<entry name="ReaverInfantry" value="Barracones de asediadores"/>
+	<entry name="ReaverInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce unidades de asediador, además de aumentar el alojamiento y la lealtad"/>
+	<entry name="Research" value="Laboratorio de investigación"/>
+	<entry name="ResearchProperties" value="<icon texture='GUI/Bullet'/>Genera investigación"/>
+	<entry name="SingularityCores" value="Manipulador cuántico"/>
+	<entry name="SingularityCoresProperties" value="<icon texture='GUI/Bullet'/>Convierte los chips en núcleos de singularidad"/>
+	<entry name="Transuranium" value="Estabilizador de transuranio"/>
+	<entry name="TransuraniumProperties" value="<icon texture='GUI/Bullet'/>Convierte los minerales en transuranio"/>
+	<entry name="VoiceAircraft" value="Himno al Alba"/>
+	<entry name="VoiceAircraftProperties" value="<icon texture='GUI/Bullet'/>Produce volantes de la Voz, además de investigación y algas<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/IokSwarm'/> <string name='Units/IokSwarm'/><br/>    <style color='GUI/Gray'/><string name='Units/IokSwarmProperties'/>"/>
+	<entry name="VoiceInfantry" value="Coro de Medianoche"/>
+	<entry name="VoiceInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce infantes de la Voz, además de aumentar la lealtad y generar algas<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/AbkluthDragoon'/> <string name='Units/AbkluthDragoon'/><br/>    <style color='GUI/Gray'/><string name='Units/AbkluthDragoonProperties'/>"/>
+	<entry name="VoiceOperations" value="Himnario Enmascarado"/>
+	<entry name="VoiceOperationsProperties" value="<icon texture='GUI/Bullet'/>Produce operaciones de la Voz, además de generar influencia y algas<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Actions/HymnOfDecay'/> <string name='Actions/HymnOfDecay'/><br/>    <style color='GUI/Gray'/><icon texture='GUI/Bullet'/>Inflige daño a la casilla objetivo temporalmente"/>
+	<entry name="VoiceVehicles" value="Cántico del Ocaso"/>
+	<entry name="VoiceVehiclesProperties" value="<icon texture='GUI/Bullet'/>Produce criaturas de la Voz, además de generar comida y algas<br/><icon texture='GUI/Bullet'/>Inicialmente produce <icon height='20' texture='Icons/Units/DarkVassael'/> <string name='Units/DarkVassael'/><br/>    <style color='GUI/Gray'/><string name='Units/DarkVassaelProperties'/>"/>
+	<entry name="ZephonConstruction" value="Atrio de construcción de ZEPHON"/>
+	<entry name="ZephonConstructionProperties" value="<icon texture='GUI/Bullet'/>Adquiere casillas, despeja casillas y erige construcciones, además de generar minerales e influencia"/>
+	<entry name="ZephonInfantry" value="Impresora sintética de ZEPHON"/>
+	<entry name="ZephonInfantryProperties" value="<icon texture='GUI/Bullet'/>Produce unidades de ZEPHON y genera minerales y chips"/>
+	
+	<!-- Flavor. -->
+	<entry name="AlgaeFlavor" value="¿Has probado a oler una cuba de micoproteínas? Huele peor que los retretes de un barracón después de que haya marisco para comer. Y eso solo es lo que se usa para hacer lodo comestible. Lo que se cría en las cubas de fermentación... te da un viaje del que nadie vuelve. Lo llamamos algas, pero no es más que un eufemismo para algo que no se rige siquiera por nuestros principios biológicos. Pues resulta que los siervos de la Voz se lo comen de verdad."/>
+	<entry name="AntimatterFlavor" value="Un gran científico me explicó una vez que los antiprotones y positrones que generamos los metemos en un desacelerador para producir antihidrógeno. Luego, lo estabilizamos en grandes cantidades para formar sincrotrones y utilizarlos en... bueno, para lo que sea que se utilice la antimateria."/>
+	<entry name="ChipsFlavor" value="Puede que se tratara de un cuarto chino cuyas motivaciones y pensamientos no lleguemos a comprender, pero la IA de ZEPHON se conocía a sí misma perfectamente y sabía lo que la hacía funcionar mejor. Construimos una fábrica que podía imitar el hardware de ZEPHON. Si queríamos sobrevivir, teníamos que robar a los mejores."/>
+	<entry name="ConstructionFlavor" value="Al principio erigíamos nuestras construcciones a la vieja usanza: con sudor y ahínco. En el atrio de construcción no había lujos: excavadoras, camiones, grúas, hormigón de geopolímero, vigas... Pero, incluso con esa tecnología primitiva, podíamos construir lo que se nos ocurriera."/>
+	<entry name="CyberAircraftFlavor" value="A primera vista, ninguna de estas máquinas debería haber sido capaz de volar. ¿Dónde estaban las alas, las aspas, los motores o las superficies de control? Nuestros técnicos nos dijeron que el secreto era «una proporción concreta de antigravedad y masa». Les tomé la palabra: era mejor que confiar en que no se caería del cielo."/>
+	<entry name="CyberInfantryFlavor" value="¿Imprimir a un soldado? El proceso parecía un disparate. El primer día que estas fábricas entraron en funcionamiento, las vi trabajar y era... de otro mundo. La tecnología de impresión podía reparar componentes orgánicos y fabricar componentes sintéticos sin perder el ritmo. Primero utilizamos estas instalaciones para mejorar el cuerpo humano y, con el tiempo, empezamos a imprimirlo desde cero."/>
+	<entry name="CyberOperationsFlavor" value="¿Trabajar a la sombra de ZEPHON? La idea era de lo más ambiciosa. La IA ya había construido toda una red global y podríamos utilizar una fracción de ella para el sabotaje y la guerra cibernética. Era un riesgo tremendo. Si ZEPHON se hubiera dado cuenta de nuestra presencia, nos habría aniquilado. Pero quizá... sí que se fijó en nosotros. Quizá nos estaba estudiando."/>
+	<entry name="CyberVehiclesFlavor" value="Pensaba que la antigravedad no sería más que una innovación logística. A ver, que las máquinas vuelen es complicado, pero ahora no había que preocuparse de que un bache acabara con el transporte de tus tropas. Sin embargo, esas máquinas eran solo el principio. La antigravedad no era únicamente una revolución en una convención de científicos. Era el secreto de nuevos tipos de vida."/>
+	<entry name="DimensionalEchoesFlavor" value="Mete a un manípulo de ermitaños de la Voz en cámaras, séllalas y no las vuelvas a abrir. Uno pensaría que morirían en cuestión de horas, por falta de aire, pero los creyentes dicen que están vivos. Lo cierto es que de las cámaras empiezan a emanar «ecos»: futuros y pasados alternativos, tangibles, controlables. Pero nunca... nunca hay que abrir las cámaras."/>
+	<entry name="EnergyFlavor" value="La primera vez que volvimos a tener luz fue un milagro. No podíamos guerrear con gasolina reciclada y generadores de mierda. Algunos civiles refunfuñaron ante la idea de quemar carbón y gas, dos elementos que estuvieron a punto de condenar nuestro planeta... pero es que nuestro planeta ya estaba condenado. Estábamos a punto de recuperarlo. No era el momento de disentir."/>
+	<entry name="FoodFlavor" value="Nuestras primeras cosechas no tuvieron en cuenta el suelo mutado, lo que nos costó... muchas vidas. Después de aquello, nunca volvimos a dar la comida por sentada. Cada bocado que diéramos sería tenido en cuenta. Mientras tuviéramos poder, nadie pasaría hambre. Por supuesto, nuestros enemigos estaban encantados de vernos morir de hambre."/>
+	<entry name="HeadquartersFlavor" value="No se podía hacer la guerra sin una base segura. Todas nuestras estrategias defensivas se reducían a proteger esta estructura. Si caía, todo estaba perdido."/>
+	<entry name="HumanAircraftFlavor" value="El punto débil de todas las aeronaves que enviábamos era el piloto. Los pilotos pueden desmayarse, sucumbir a las fuerzas G, desangrarse hasta morir... y eso es solo el principio. Producir aeronaves de calidad significaba diseñarlas teniendo en cuenta esas flaquezas. Teníamos que dar prioridad a las personas sobre la maquinaria a la hora del vuelo."/>
+	<entry name="HumanInfantryFlavor" value="No se podía ganar ninguna guerra sin soldados rasos. Antes de ponerte a descifrar tecnología avanzada o someterse a la Voz, hacían falta cuerpos armados preparados para morir. De las filas de la infantería podían salir grandes soldados, pero primero tenían que sobrevivir."/>
+	<entry name="HumanOperationsFlavor" value="La parte terrestre de este sistema la conocíamos: un conjunto de transmisores y antenas parabólicas de alta potencia. En cambio, lo que transmitía no: restos de satélites humanos mezclados con naves extraterrestres destruidas. Lo inteligente era utilizar lo primero para manipular lo segundo en beneficio de las unidades terrestres. Y solía funcionar."/>
+	<entry name="HumanVehiclesFlavor" value="Otro problema clásico de la guerra: si necesitabas transportar armas, suministros o personas, necesitabas material que pudiera hacer el viaje. Empezamos poco a poco, por supuesto. Con el tiempo construimos transportes y tanques que superaban con creces la capacidad de los ingenieros del Viejo Mundo."/>
+	<entry name="InfluenceFlavor" value="Uf. Este sitio... El centro organizativo de nuestra ciudad. Sí, valoro que diera sensación de seguridad, que organizara nuestra sociedad y economía, que impresionara a nuestros vecinos. Pero es que no aguantaba a los burócratas, con sus formularios triplicados, sus sellos de goma y sus trajes de cartón. Prefiero antes una batalla en primera línea que rellenar el formulario 2B(II)i."/>
+	<entry name="LoyaltyFlavor" value="Una estructura de simulación inmersiva, capaz de hacer que el público compartiera un sueño. Los que tenían buenas intenciones la utilizaban para huir de este mundo infernal. Los que no... los más maquiavélicos... la utilizaban para lavar cerebros. Aún no sé qué fue de algunos de aquellos experimentos. Puede que sigan sufriendo hoy en día."/>
+	<entry name="MineralsFlavor" value="Los mandamases lo llamaban «extractor de minerales» para que quedara más bonito, pero todos sabíamos que era una mina de toda la vida. Sí, tenía máquinas de lujo que buscaban, excavaban y rellenaban automáticamente. Pero, a fin de cuentas, era una mina de toda la vida y eso significaba partirse el lomo trabajando."/>
+	<entry name="PopulationLimitFlavor" value="¿Cuántas personas crees que podrían caber en una casa normal? ¿Y que fueran felices viviendo allí indefinidamente? ¿Dónde empezaría y terminaría el espacio de uno? ¿Qué se considera el espacio personal? El arquitecto que diseñó el bloque de viviendas era un genio diabólico. La gente duerme y vive codo con codo, pero funciona."/>
+	<entry name="ResearchFlavor" value="Técnicos, investigadores, científicos… todos ellos se hacinaban aquí. Cuando era más joven, e ingenuo, pensaba que aquí era donde los más débiles se escondían de la dureza de la guerra. Eso es lo que querían que pensáramos, por supuesto. Algunas de las mentes más monstruosas encontraron aquí su lugar en el mundo. ¿Por qué apretar el gatillo… si puedes fabricarlo?"/>
+	<entry name="SingularityCoresFlavor" value="¿Descubrir los secretos de la física cuántica? Eso es fácil. ¿Poner en práctica esos conocimientos en el campo de batalla? Carísimo y casi imposible. Necesitábamos una instalación especial que pudiera... ¿cómo era? ¿«Extraer la potencia de procesamiento cuántica de los chips»? Me dolía la cabeza solo de intentar procesar las matemáticas que hacían funcionar este lugar."/>
+	<entry name="TransuraniumFlavor" value="No voy a hacer como que entiendo qué hace. Sé que los elementos transuránicos son inestables. Sé que en esa inestabilidad hay enormes cantidades de energía latente. No sé cómo funcionaron las máquinas que impidieron que escapara, que convirtieron esos elementos en algo denso y con una fuerza sobrenatural. No sé si hay alguien vivo que lo entienda, si te soy sincero."/>
+	<entry name="VoiceAircraftFlavor" value="Una vez hablé con un acrin de los antiguos que afirmaba ser el último de los anacoretas de su raza anteriores a la Voz. Me dijo que la Voz es más bien una canción cíclica que canta los comienzos y los finales, que el tiempo es un bucle que canta al universo para que nazca. Le dije que esperaba que estuviéramos en el Alba, a punto de volar hacia un nuevo mundo. Él me sonrió, por desgracia."/>
+	<entry name="VoiceInfantryFlavor" value="Mis exploradores encontraron una vez un Coro. Era como una arena natural, un amplificador. Me hablaban a medida que se acercaban, se derrumbaban con su canción y se adentraban en su portal. Yo escuché la canción y también quise ir con ellos, pero estaba a kilómetros de distancia. No volví a verlos, pero la Voz tenía nuevos soldados al día siguiente."/>
+	<entry name="VoiceOperationsFlavor" value="La iluminación es un objetivo digno, dicen los devotos de la Voz, pero no el único. A veces, la Voz es una meta en sí misma. No pretendo comprender su complicada religión, pero tienen un contacto directo con sus... sus dioses. Y los dioses les contestan, incluso responden a sus plegarias."/>
+	<entry name="VoiceVehiclesFlavor" value="Me han dicho que no todas las alteraciones de la Voz alcanzan la iluminación, sobre todo las que derivan de los acrin de un modo u otro. Tampoco mueren. Los que fracasan se alejan de la pasión, curados, pero cambiados, a menudo en forma de bestia. Me pregunto si de ahí proceden las extrañas criaturas de los acrin, los fanáticos fallidos, o si solo son criaturas autóctonas de su hogar, que se unieron a ellos en el viaje a través de las estrellas."/>
+</language>

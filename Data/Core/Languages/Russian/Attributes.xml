@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulatedGrowth" value="Накопленный рост"/>
+	<entry name="AccumulatedGrowthIcon" value="&lt;icon height='20' texture='Icons/Attributes/Growth'/&gt;"/>
+	<entry name="Accuracy" value="Точность"/>
+	<entry name="AccuracyDescription" value="Каждая единица точности увеличивает шанс попадания примерно на 8,3%."/>
+	<entry name="AccuracyIcon" value="&lt;icon height='20' texture='Icons/Attributes/Accuracy'/&gt;"/>
+	<entry name="ActionPoints" value="Пункты действия"/>
+	<entry name="ActionPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
+	<entry name="ActionPointsMax" value="Макс. пунктов действия"/>
+	<entry name="ActionPointsMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
+	<entry name="Actions" value="Действия"/>
+	<entry name="ActionsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
+	<entry name="ActionsDescription" value="Сколько действий может выполнить юнит. Использование действия может потратить всё движение."/>
+	<entry name="AdditionalMembersHit" value="попадания с половинной точностью по членам группы"/>
+	<entry name="AdditionalMembersHitIcon" value="&lt;icon height='20' texture='Icons/Attributes/GroupSize'/&gt;"/>
+	<entry name="Algae" value="Водоросли"/>
+	<entry name="AlgaeDescription" value="Используется для производства и содержания юнитов Голоса."/>
+	<entry name="AlgaeIcon" value="&lt;icon height='20' texture='Icons/Attributes/Algae'/&gt;"/>
+	<entry name="AlgaeCost" value="Цена (водоросли)"/>
+	<entry name="AlgaeCostDescription" value="Количество водорослей, расходуемое на производство объекта."/>
+	<entry name="AlgaeCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Algae'/&gt;"/>
+	<entry name="AlgaeUpkeep" value="Траты на содержание (водоросли)"/>
+	<entry name="AlgaeUpkeepDescription" value="Количество водорослей, расходуемое каждый ход на содержание объекта."/>
+	<entry name="AlgaeUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Algae'/&gt;"/>
+	<entry name="Antimatter" value="Антиматерия"/>
+	<entry name="AntimatterDescription" value="Используется для производства и содержания продвинутых особых юнитов."/>
+	<entry name="AntimatterIcon" value="&lt;icon height='20' texture='Icons/Attributes/Antimatter'/&gt;"/>
+	<entry name="AntimatterCost" value="Цена (антиматерия)"/>
+	<entry name="AntimatterCostDescription" value="Количество антиматерии, расходуемое на производство объекта."/>
+	<entry name="AntimatterCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Antimatter'/&gt;"/>
+	<entry name="AntimatterUpkeep" value="Траты на содержание (антиматерия)"/>
+	<entry name="AntimatterUpkeepDescription" value="Количество антиматерии, расходуемое каждый ход на содержание объекта."/>
+	<entry name="AntimatterUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Antimatter'/&gt;"/>
+	<entry name="Armor" value="Броня"/>
+	<entry name="ArmorDescription" value="Снижает &lt;icon height='20' texture='Icons/Attributes/Damage'/&gt; урон, получаемый от оружия и способностей. &lt;string name='Attributes/ArmorDescription/Reduction'/&gt;"/>
+	<entry name="ArmorDescription/Reduction" value="Каждая единица брони снижает урон примерно на 8,3% (макс. 83%), но оружие и способности игнорируют количество единиц брони, меньшее или равное их значению бронебойности."/>
+	<entry name="ArmorIcon" value="&lt;icon height='20' texture='Icons/Attributes/Armor'/&gt;"/>
+	<entry name="ArmorDamageReduction" value="Сокращение урона за броню"/>
+	<entry name="ArmorDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="ArmorPenetration" value="Бронебойность"/>
+	<entry name="ArmorPenetrationDescription" value="Количество единиц брони цели, которое оружие игнорирует, когда юнит атакует с его помощью."/>
+	<entry name="ArmorPenetrationIcon" value="&lt;icon height='20' texture='Icons/Attributes/ArmorPenetration'/&gt;"/>
+	<entry name="Attacks" value="Атаки"/>
+	<entry name="AttacksDescription" value="Число атак, которое оружие совершает против цели, когда юнит атакует с его помощью."/>
+	<entry name="AttacksIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Атаки за каждого дополнительного члена группы цели"/>
+	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
+	<entry name="BuildingSlots" value="Слоты для зданий"/>
+	<entry name="BuildingSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;"/>
+	<entry name="BlockSight" value="видимость с НЕ-смежных клеток"/>
+	<entry name="BlockSight+" value="Блокирует"/>
+	<entry name="CanBeShaken" value="потрясённым"/>
+	<entry name="CanBeShaken+" value="Может быть"/>
+	<entry name="CanBeShaken-" value="Не может быть"/>
+	<entry name="CanBeShakenIcon" value="&lt;icon height='20' texture='Icons/Traits/Shaken'/&gt;"/>
+	<entry name="CanCaptureOutposts" value="захватывать заставы"/>
+	<entry name="CanCaptureOutposts+" value="Может"/>
+	<entry name="CanCaptureOutposts-" value="Не может"/>
+	<entry name="CanCaptureOutpostsIcon" value="&lt;icon height='20' texture='Icons/Traits/Outpost'/&gt;"/>
+	<entry name="CanEnemyOverwatch" value="атаки из дозора по этому подразделению"/>
+	<entry name="CanEnemyOverwatch-" value="Предотвращает"/>
+	<entry name="CanEnemyOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="пассивно лечиться с неполными пунктами движения"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Может"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Не может"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/HealingRate'/&gt;"/>
+	<entry name="CanOverwatch" value="входить в дозор"/>
+	<entry name="CanOverwatch+" value="Может"/>
+	<entry name="CanOverwatch-" value="Не может"/>
+	<entry name="CanOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
+	<entry name="CargoSlots" value="Слоты груза"/>
+	<entry name="CargoSlotsDescription" value="Число НЕ-больших юнитов, которое этот юнит может перевозить в своём грузовом отсеке."/>
+	<entry name="CargoSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/CargoSlots'/&gt;"/>
+	<entry name="CargoSlotsRequired" value="Требуемые слоты груза"/>
+	<entry name="CargoSlotsRequiredIcon" value="&lt;icon height='20' texture='Icons/Attributes/CargoSlots'/&gt;"/>
+	<entry name="Charges" value="Заряды"/>
+	<entry name="ChargesIcon" value="&lt;icon height='20' texture='Icons/Attributes/Charges'/&gt;"/>
+	<entry name="Chips" value="Чипы"/>
+	<entry name="ChipsDescription" value="Используется для производства и содержания юнитов киберов."/>
+	<entry name="ChipsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Chips'/&gt;"/>
+	<entry name="ChipsCost" value="Цена (чипы)"/>
+	<entry name="ChipsCostDescription" value="Количество чипов, расходуемое на производство объекта."/>
+	<entry name="ChipsCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Chips'/&gt;"/>
+	<entry name="ChipsUpkeep" value="Траты на содержание (чипы)"/>
+	<entry name="ChipsUpkeepDescription" value="Количество чипов, расходуемое каждый ход на содержание объекта."/>
+	<entry name="ChipsUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Chips'/&gt;"/>
+	<entry name="CityDamageReduction" value="Сокращение урона за город"/>
+	<entry name="CityDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="CityLoyaltyUpkeep" value="Траты на содержание города (лояльность)"/>
+	<entry name="ConcordatBuyCost" value="Цена покупки у Конкордата"/>
+	<entry name="ConsumedActionPoints" value="Потребляемые пункты действия"/>
+	<entry name="ConsumedActionPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
+	<entry name="ConsumedMovement" value="Потребляемое движение"/>
+	<entry name="ConsumedMovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
+	<entry name="Cooldown" value="Перезарядка"/>
+	<entry name="CooldownIcon" value="&lt;icon height='20' texture='Icons/Attributes/Turns'/&gt;"/>
+	<entry name="CoverDamageReduction" value="Сокращение урона за укрытие"/>
+	<entry name="CoverDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="Damage" value="Урон"/>
+	<entry name="DamageDescription" value="Урон, наносимый вражескому юниту каждой атакой оружием. &lt;string name='Attributes/DamageDescription/Reductions'/&gt;"/>
+	<entry name="DamageDescription/Reductions" value="Наносимый урон ограничен сверху максимумом единиц жизни одного члена группы вражеского юнита, а затем снижается в зависимости от точности, вражеской брони, а также свойств сокращения урона."/>
+	<entry name="DamageIcon" value="&lt;icon height='20' texture='Icons/Attributes/Damage'/&gt;"/>
+	<entry name="DamageTaken" value="Полученный урон"/>
+	<entry name="DamageTakenIcon" value="&lt;icon height='20' texture='Icons/Attributes/Damage'/&gt;"/>
+	<entry name="DeathExperience" value="Опыт от смерти"/>
+	<entry name="DeathExperienceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
+	<entry name="DeathMorale" value="Боевой дух от смерти"/>
+	<entry name="DeathMoraleIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
+	<entry name="DimensionalEchoes" value="Отзвуки измерений"/>
+	<entry name="DimensionalEchoesDescription" value="Используется для производства и содержания продвинутых юнитов Голоса."/>
+	<entry name="DimensionalEchoesIcon" value="&lt;icon height='20' texture='Icons/Attributes/DimensionalEchoes'/&gt;"/>
+	<entry name="DimensionalEchoesCost" value="Цена (отзвуки измерений)"/>
+	<entry name="DimensionalEchoesCostDescription" value="Количество отзвуков измерений, расходуемое на производство объекта."/>
+	<entry name="DimensionalEchoesCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/DimensionalEchoes'/&gt;"/>
+	<entry name="DimensionalEchoesUpkeep" value="Траты на содержание (отзвуки измерений)"/>
+	<entry name="DimensionalEchoesUpkeepDescription" value="Количество отзвуков измерений, расходуемое каждый ход на содержание объекта."/>
+	<entry name="DimensionalEchoesUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/DimensionalEchoes'/&gt;"/>
+	<entry name="DuplicateTypeCost" value="Цена за повторение типа"/>
+	<entry name="Energy" value="Энергия"/>
+	<entry name="EnergyDescription" value="Используется для содержания зданий, а также для производства и содержания особых юнитов."/>
+	<entry name="EnergyIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
+	<entry name="EnergyCost" value="Цена (энергия)"/>
+	<entry name="EnergyCostDescription" value="Количество энергии, расходуемое на производство объекта."/>
+	<entry name="EnergyCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
+	<entry name="EnergyUpkeep" value="Траты на содержание (энергия)"/>
+	<entry name="EnergyUpkeepDescription" value="Количество энергии, расходуемое каждый ход на содержание объекта."/>
+	<entry name="EnergyUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
+	<entry name="EvasionDamageReduction" value="Сокращение урона за уклонение"/>
+	<entry name="EvasionDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="Experience" value="Опыт"/>
+	<entry name="ExperienceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
+	<entry name="ExperienceGainRate" value="Коэффициент опыта"/>
+	<entry name="FlatResourcesFromOutposts" value="Постоянные ресурсы от застав"/>
+	<entry name="Food" value="Пища"/>
+	<entry name="FoodDescription" value="Используется для содержания населения в городах, а также для производства и содержания юнитов преимущественно людей и Голоса."/>
+	<entry name="FoodIcon" value="&lt;icon height='20' texture='Icons/Attributes/Food'/&gt;"/>
+	<entry name="FoodCost" value="Цена (пища)"/>
+	<entry name="FoodCostDescription" value="Количество пищи, расходуемое на производство объекта."/>
+	<entry name="FoodCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Food'/&gt;"/>
+	<entry name="FoodUpkeep" value="Траты на содержание (пища)"/>
+	<entry name="FoodUpkeepDescription" value="Количество пищи, расходуемое каждый ход на содержание объекта."/>
+	<entry name="FoodUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Food'/&gt;"/>
+	<entry name="GroupSize" value="Размер группы"/>
+	<entry name="GroupSizeDescription" value="Число живых, а также общее число членов группы. &lt;string name='Attributes/GroupSizeDescription/Change'/&gt;"/>
+	<entry name="GroupSizeDescription/Change" value="Члены группы теряются и восстанавливаются вместе с потерей и восстановлением единиц жизни. Погибшие члены группы не наносят урон и тем самым снижают общий наносимый юнитом урон."/>
+	<entry name="GroupSizeIcon" value="&lt;icon height='20' texture='Icons/Attributes/GroupSize'/&gt;"/>
+	<entry name="GroupSizeMax" value="Макс. размер группы"/>
+	<entry name="GroupSizeMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/GroupSize'/&gt;"/>
+	<entry name="Growth" value="Рост населения"/>
+	<entry name="GrowthDescription" value="Как быстро растёт численность населения города. &lt;string name='Attributes/GrowthDescription/Increase'/&gt;"/>
+	<entry name="GrowthDescription/Decrease" value="Рост населения снижается при нехватке пищи или жилья."/>
+	<entry name="GrowthDescription/Increase" value="При достаточном накоплении роста население увеличивается на единицу. &lt;string name='Attributes/GrowthDescription/Decrease'/&gt;"/>
+	<entry name="GrowthIcon" value="&lt;icon height='20' texture='Icons/Attributes/Growth'/&gt;"/>
+	<entry name="HealingRate" value="Скорость лечения"/>
+	<entry name="HealingRateIcon" value="&lt;icon height='20' texture='Icons/Attributes/HealingRate'/&gt;"/>
+	<entry name="HealingReceived" value="Получаемое лечение"/>
+	<entry name="Hitpoints" value="Единицы жизни"/>
+	<entry name="HitpointsDescription" value="Количество &lt;icon height='20' texture='Icons/Attributes/Damage'/&gt; урона, которое юнит может выдержать до гибели. &lt;string name='Attributes/HitpointsDescription/Healing'/&gt;"/>
+	<entry name="HitpointsDescription/Healing" value="Юниты лечатся автоматически, если не получили урона и сохранили все пункты движения и действия."/>
+	<entry name="HitpointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="HitpointsFromMax" value="Единицы жизни"/>
+	<entry name="HitpointsFromMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="HitpointsMax" value="Макс. единиц жизни"/>
+	<entry name="HitpointsMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="IgnoreLineOfSight" value="прямую видимость."/>
+	<entry name="IgnoreLineOfSight+" value="Игнорирует"/>
+	<entry name="IgnoreZoneOfControl" value="двигаться сквозь юниты врага"/>
+	<entry name="IgnoreZoneOfControl+" value="Позволяет"/>
+	<entry name="Influence" value="Влияние"/>
+	<entry name="InfluenceDescription" value="Используется для присоединения и содержания клеток города, применения особых способностей, для найма и содержания героев, а также для приобретения предметов и ресурсов."/>
+	<entry name="InfluenceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
+	<entry name="InfluenceCost" value="Цена (влияние)"/>
+	<entry name="InfluenceCostDescription" value="Количество влияния, расходуемое на производство объекта."/>
+	<entry name="InfluenceCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
+	<entry name="InfluenceCostFromExperience" value="Цена (влияние)"/>
+	<entry name="InfluenceCostFromExperienceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
+	<entry name="InfluencePerAlliance" value="Влияние за каждый союз для обеих сторон"/>
+	<entry name="InfluencePerPopulation" value="Влияние за каждую ед. населения"/>
+	<entry name="InfluencePerTradeAgreement" value="Влияние за каждое торговое соглашение для обеих сторон"/>
+	<entry name="InfluenceUpkeep" value="Траты на содержание (влияние)"/>
+	<entry name="InfluenceUpkeepDescription" value="Количество влияния, расходуемое каждый ход на содержание объекта."/>
+	<entry name="InfluenceUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
+	<entry name="InvulnerableDamageReduction" value="Неснижаемое сокращение урона"/>
+	<entry name="InvulnerableDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="ItemSlots" value="Слоты предметов"/>
+	<entry name="ItemSlotsDescription" value="Число предметов, которое может взять этот юнит."/>
+	<entry name="ItemSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/ItemSlots'/&gt;"/>
+	<entry name="Level" value="Уровень"/>
+	<entry name="LevelDescription" value="Уровень опыта этого юнита. &lt;string name='Attributes/LevelDescription/Effect'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Attributes/LevelDescription/Death'/&gt; &lt;string name='Attributes/LevelDescription/DeathNoAttacker'/&gt;"/>
+	<entry name="LevelDescription/Effect" value="Каждый уровень выше первого повышает &lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt; единицы жизни и &lt;icon height='20' texture='Icons/Attributes/Damage'/&gt; урон юнита на 5%, а также &lt;icon height='20' texture='Icons/Attributes/Morale'/&gt; боевой дух на 10%."/>
+	<entry name="LevelDescription/Death" value="Когда юнит погибает, атаковавший и его союзники получают опыт в радиусе 3 клеток от погибшего юнита. Атаковавший всегда получает опыт, независимо от расстояния."/>
+	<entry name="LevelDescription/DeathNoAttacker" value="Если юнит погиб без атаковавшего, то все враги погибшего юнита получают опыт в радиусе 3 клеток от него."/>
+	<entry name="LevelIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
+	<entry name="LevelMax" value="Макс. уровень"/>
+	<entry name="LevelMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
+	<entry name="LifeSteal" value="Кража жизни"/>
+	<entry name="LifeStealIcon" value="&lt;icon height='20' texture='Icons/Attributes/LifeSteal'/&gt;"/>
+	<entry name="LifeStealFromDamage" value="Кража жизни"/>
+	<entry name="LifeStealFromDamageIcon" value="&lt;icon height='20' texture='Icons/Attributes/LifeSteal'/&gt;"/>
+	<entry name="Loyalty" value="Лояльность"/>
+	<entry name="LoyaltyDescription" value="Приверженность населения вашей цели. &lt;string name='Attributes/LoyaltyDescription/Effect'/&gt; &lt;string name='Attributes/LoyaltyDescription/CityPenalty'/&gt;"/>
+	<entry name="LoyaltyDescription/Effect" value="Каждая положительная единица лояльности повышает производство ресурсов городом на 1%, тогда как каждая отрицательная единица снижает производство ресурсов городом на 2% (макс. -50%)."/>
+	<entry name="LoyaltyDescription/CityPenalty" value="Каждый город после первого снижает лояльность всех городов на 6."/>
+	<entry name="LoyaltyIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
+	<entry name="LoyaltyUpkeep" value="Траты на содержание (лояльность)"/>
+	<entry name="LoyaltyUpkeepDescription" value="Количество лояльности, расходуемое каждый ход на содержание объекта."/>
+	<entry name="LoyaltyUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
+	<entry name="MaximumHitpointsPerGroupMember" value="Макс. единиц жизни за члена группы"/>
+	<entry name="MaximumHitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="Morale" value="Боевой дух"/>
+	<entry name="MoraleDescription" value="Психологическое состояние юнита. &lt;string name='Attributes/MoraleDescription/Regeneration'/&gt; &lt;string name='Attributes/MoraleDescription/Shaken'/&gt; &lt;string name='Attributes/MoraleDescription/Broken'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Attributes/MoraleDescription/Death'/&gt;"/>
+	<entry name="MoraleDescription/Regeneration" value="Боевой дух восстанавливается, если за прошлый ход юнит не получил урона."/>
+	<entry name="MoraleDescription/Shaken" value="Если у юнита менее 66% боевого духа, то он становится &lt;icon height='20' texture='Icons/Traits/Shaken'/&gt; потрясённым, что снижает его атаки и повышает атаки врага на 17%."/>
+	<entry name="MoraleDescription/Broken" value="Если у юнита менее 33% боевого духа, то он становится &lt;icon height='20' texture='Icons/Traits/Broken'/&gt; сломленным, что снижает его атаки и повышает атаки врага на 33%."/>
+	<entry name="MoraleDescription/Death" value="Когда юнит погибает, союзники юнита в радиусе 3 клеток от погибшего юнита и от атаковавшего теряют боевой дух в зависимости от ценности опыта погибшего юнита, тогда как союзники атаковавшего получают боевой дух в той же области."/>
+	<entry name="MoraleIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
+	<entry name="MoraleLoss" value="Потеря боевого духа"/>
+	<entry name="MoraleLossIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
+	<entry name="MoraleRegeneration" value="Восстановление боевого духа"/>
+	<entry name="MoraleRegenerationIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
+	<entry name="MoraleMax" value="Макс. боевого духа"/>
+	<entry name="MoraleMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
+	<entry name="Movement" value="Движение"/>
+	<entry name="MovementDescription" value="Сколько клеток юнит может преодолеть за один ход. Пересечённая местность требует более одного пункта движения. Перемещение в клетку, смежную с врагом, заканчивает движение."/>
+	<entry name="MovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
+	<entry name="MovementCost" value="Расход движения"/>
+	<entry name="MovementCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
+	<entry name="MovementMax" value="Макс. движения"/>
+	<entry name="MovementMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
+	<entry name="Minerals" value="Минералы"/>
+	<entry name="MineralsDescription" value="Используется для строительства зданий, а также производства и содержания юнитов преимущественно людей и киберов."/>
+	<entry name="MineralsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Minerals'/&gt;"/>
+	<entry name="MineralsCost" value="Цена (минералы)"/>
+	<entry name="MineralsCostDescription" value="Количество минералов, расходуемое на производство объекта."/>
+	<entry name="MineralsCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Minerals'/&gt;"/>
+	<entry name="MineralsUpkeep" value="Траты на содержание (минералы)"/>
+	<entry name="MineralsUpkeepDescription" value="Количество минералов, расходуемое каждый ход на содержание объекта."/>
+	<entry name="MineralsUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Minerals'/&gt;"/>
+	<entry name="PerHeroCost" value="Цена за каждого существующего героя"/>
+	<entry name="Population" value="Население"/>
+	<entry name="PopulationDescription" value="Используется для эксплуатации зданий в городе. Для каждого здания требуется одна единица населения. Если требуемая численность превышает текущее население, эффективность производства зданий снижается."/>
+	<entry name="PopulationIcon" value="&lt;icon height='20' texture='Icons/Attributes/Population'/&gt;"/>
+	<entry name="PopulationCost" value="Расход населения"/>
+	<entry name="PopulationCostDescription" value="Численность населения, расходуемая действием."/>
+	<entry name="PopulationCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Population'/&gt;"/>
+	<entry name="PopulationFoodUpkeep" value="Траты на содержание населения (пища)"/>
+	<entry name="PopulationInfluenceUpkeep" value="Траты на содержание населения (влияние)"/>
+	<entry name="PopulationLimit" value="Жильё"/>
+	<entry name="PopulationLimitDescription" value="Свободное жилое пространство, доступное для населения."/>
+	<entry name="PopulationLimitIcon" value="&lt;icon height='20' texture='Icons/Attributes/PopulationLimit'/&gt;"/>
+	<entry name="PopulationLoyaltyUpkeep" value="Траты на содержание населения (лояльность)"/>
+	<entry name="PopulationMineralsUpkeep" value="Траты на содержание населения (минералы)"/>
+	<entry name="Production" value="Производство"/>
+	<entry name="ProductionDescription" value="Как быстро здание что-то производит. После завершения задачи излишки производства сохраняются."/>
+	<entry name="ProductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/Production'/&gt;"/>
+	<entry name="ProductionPerBuildingFromCost" value="цены производства"/>
+	<entry name="ProductionPerBuildingFromCostIcon" value="&lt;string name='Attributes/ProductionIcon'/&gt;"/>
+	<entry name="ProductionCost" value="Цена (производство)"/>
+	<entry name="ProductionCostDescription" value="Количество производства, расходуемое на производство объекта."/>
+	<entry name="ProductionCostIcon" value="&lt;string name='Attributes/ProductionIcon'/&gt;"/>
+	<entry name="Radius" value="Радиус"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="&lt;icon height='20' texture='Icons/Attributes/Radius'/&gt;"/>
+	<entry name="Range" value="Дальность"/>
+	<entry name="RangeIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
+	<entry name="RangeDescription" value="Максимальное расстояние (в клетках) от юнита, на котором по цели можно попасть оружием или способностью. Помимо этого, если не указано иное, использование оружия или способности требует прямой видимости."/>
+	<entry name="RangeMax" value="Макс. дальность"/>
+	<entry name="RangeMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
+	<entry name="RangeMin" value="Мин. дальность"/>
+	<entry name="RangeMinIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
+	<entry name="RangedAccuracy" value="Дистанц. точность"/>
+	<entry name="RangedDamageReduction" value="Сокращение дистанц. урона"/>
+	<entry name="RangedDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
+	<entry name="RequiredActionPoints" value="Требуемые действия"/>
+	<entry name="RequiredActionPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
+	<entry name="RequiredMovement" value="Требуемое движение"/>
+	<entry name="RequiredMovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
+	<entry name="Research" value="Исследование"/>
+	<entry name="ResearchDescription" value="Используется для открытия новых технологий. После совершения открытия излишки исследования сохраняются."/>
+	<entry name="ResearchIcon" value="&lt;icon height='20' texture='Icons/Attributes/Research'/&gt;"/>
+	<entry name="ResearchCost" value="Цена исследования"/>
+	<entry name="ResearchCostDescription" value="Количество потребляемого исследования."/>
+	<entry name="ResearchCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Research'/&gt;"/>
+	<entry name="ResearchFromCity" value="Копирование производства исследования"/>
+	<entry name="ResearchFromCityIcon" value="&lt;icon height='20' texture='Icons/Attributes/Research'/&gt;"/>
+	<entry name="ResearchPerKillFromExperience" value="Исследование"/>
+	<entry name="ResearchPerKillFromExperienceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Research'/&gt;"/>
+	<entry name="ResearchUpkeep" value="Траты на содержание (исследование)"/>
+	<entry name="ResearchUpkeepDescription" value="Количество исследования, расходуемое каждый ход на содержание объекта."/>
+	<entry name="ResearchUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Research'/&gt;"/>
+	<entry name="ResourcesFromCity" value="Копирование производства ресурсов"/>
+	<entry name="ResourcesPerKillFromCost" value="Ресурсы за убийства"/>
+	<entry name="ResourcesPerReallocateFromCost" value="Возврат ресурсов"/>
+	<entry name="DamageSelf" value="Урон себе"/>
+	<entry name="DamageSelfIcon" value="&lt;icon height='20' texture='Icons/Attributes/Damage'/&gt;"/>
+	<entry name="Sight" value="Дальность обзора"/>
+	<entry name="SightIcon" value="&lt;icon height='20' texture='Icons/Attributes/Sight'/&gt;"/>
+	<entry name="SightDescription" value="Как далеко видит юнит.&lt;br/&gt;&lt;br/&gt;Видимость может снижаться из-за таких особенностей местностей, как леса, дым и утёсы."/>
+	<entry name="SlotsRequired" value="Требуемые слоты"/>
+	<entry name="SingularityCores" value="Сингулярные ядра"/>
+	<entry name="SingularityCoresDescription" value="Используется для производства и содержания продвинутых юнитов киберов."/>
+	<entry name="SingularityCoresIcon" value="&lt;icon height='20' texture='Icons/Attributes/SingularityCores'/&gt;"/>
+	<entry name="SingularityCoresCost" value="Цена (сингулярные ядра)"/>
+	<entry name="SingularityCoresCostDescription" value="Количество сингулярных ядер, расходуемое на производство объекта."/>
+	<entry name="SingularityCoresCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/SingularityCores'/&gt;"/>
+	<entry name="SingularityCoresUpkeep" value="Траты на содержание (сингулярные ядра)"/>
+	<entry name="SingularityCoresUpkeepDescription" value="Количество сингулярных ядер, расходуемое каждый ход на содержание объекта."/>
+	<entry name="SingularityCoresUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/SingularityCores'/&gt;"/>
+	<entry name="Standing" value="Дипломатические отношения"/>
+	<entry name="TileAcquisitionRange" value="Радиус присоединения клеток"/>
+	<entry name="TileAcquisitionRangeIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
+	<entry name="TradeGain" value="Выгода торговли"/>
+	<entry name="Transuranium" value="Трансуран"/>
+	<entry name="TransuraniumDescription" value="Используется для производства и содержания продвинутых юнитов людей и киберов."/>
+	<entry name="TransuraniumIcon" value="&lt;icon height='20' texture='Icons/Attributes/Transuranium'/&gt;"/>
+	<entry name="TransuraniumCost" value="Цена (трансуран)"/>
+	<entry name="TransuraniumCostDescription" value="Количество трансурана, расходуемое на производство объекта."/>
+	<entry name="TransuraniumCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Transuranium'/&gt;"/>
+	<entry name="TransuraniumUpkeep" value="Траты на содержание (трансуран)"/>
+	<entry name="TransuraniumUpkeepDescription" value="Количество трансурана, расходуемое каждый ход на содержание объекта."/>
+	<entry name="TransuraniumUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Transuranium'/&gt;"/>
+	<entry name="Turns" value="Ходы"/>
+	<entry name="TurnsDescription" value="Число ходов, расходуемое на производство объекта."/>
+	<entry name="TurnsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Turns'/&gt;"/>
+	<entry name="TypeLimit" value="Лимит типа"/>
+	<entry name="UnitCost" value="Цена юнита"/>
+	<entry name="UnitUpkeep" value="Траты на содержание юнита"/>
+</language>

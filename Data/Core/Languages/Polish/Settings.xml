@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Achievements/AreYouTheGreatSpeaker" value="Czy to ty jesteś Wielkim Mówcą?"/>
+	<entry name="Achievements/CanAJourneyBeAnEndInItself" value="Czy sama podróż może być zakończeniem?"/>
+	<entry name="Achievements/CanAnythingRedeemThisHorror" value="Czy cokolwiek może zadośćuczynić tej grozie?"/>
+	<entry name="Achievements/CanFreeWillExist" value="Czy może istnieć wolna wola?"/>
+	<entry name="Achievements/CanLoveBeMoral" value="Czy miłość może być moralna?"/>
+	<entry name="Achievements/DidHonorBalanceGreed" value="Czy honor równoważył chciwość?"/>
+	<entry name="Achievements/DidMyDeathMeanAnything" value="Czy moja śmierć cokolwiek znaczyła?"/>
+	<entry name="Achievements/DidOurSacrificeMeanNothing" value="Czy nasze poświęcenie nic nie znaczyło?"/>
+	<entry name="Achievements/DidOurUnificationMatter" value="Czy nasze zjednoczenie coś znaczyło?"/>
+	<entry name="Achievements/MustWeSufferSo" value="Czy musimy tak cierpieć?"/>
+	<entry name="Achievements/WasITrulyHuman" value="Naprawdę byłam człowiekiem?"/>
+	<entry name="Achievements/WasPerfectionWorthIt" value="Czy doskonałość była tego warta?"/>
+	<entry name="Achievements/WasZephonTrulyAlive" value="Czy ZEPHON naprawdę żył?"/>
+	<entry name="Achievements/WhatAreYou" value="Czym jesteś?"/>
+	<entry name="Achievements/WhatPriceForLiberty" value="Jaka jest cena wolności?"/>
+	<entry name="Achievements/WhereAreWe" value="Gdzie jesteśmy?"/>
+	<entry name="Achievements/WhyDidHumanityDieAlone" value="Dlaczego człowieczeństwo umiera w<nbsp/>samotności?"/>
+	<entry name="Audio" value="Dźwięk"/>
+	<entry name="Audio/AmbientVolume" value="Głośność dźwięków otoczenia"/>
+	<entry name="Audio/AmbientVolumeHint" value="Regulacja głośności dźwięków otoczenia."/>
+	<entry name="Audio/CinematicVolume" value="Głośność dźwięków w<nbsp/>filmach"/>
+	<entry name="Audio/CinematicVolumeHint" value="Regulacja głośności przerywników filmowych."/>
+	<entry name="Audio/EffectVolume" value="Głośność efektów"/>
+	<entry name="Audio/EffectVolumeHint" value="Regulacja głośności efektów."/>
+	<entry name="Audio/InterfaceVolume" value="Głośność interfejsu"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Regulacja głośności dźwięków interfejsu."/>
+	<entry name="Audio/MasterVolume" value="Głośność podstawowa"/>
+	<entry name="Audio/MasterVolumeHint" value="Regulacja głośności podstawowej."/>
+	<entry name="Audio/MusicVolume" value="Głośność muzyki"/>
+	<entry name="Audio/MusicVolumeHint" value="Regulacja głośności muzyki."/>
+	<entry name="Audio/MuteInBackground" value="Wyciszenie gry w<nbsp/>tle"/>
+	<entry name="Audio/MuteInBackgroundHint" value="Wyciszenie całego dźwięku, gdy gra jest zminimalizowana lub jej okno jest nieaktywne."/>
+	<entry name="Audio/OutputDevice" value="Urządzenie do odbioru dźwięku"/>
+	<entry name="Audio/OutputDeviceHint" value=""/>
+	<entry name="Audio/ResponseVolume" value="Głośność odpowiedzi"/>
+	<entry name="Audio/ResponseVolumeHint" value="Regulacja głośności odpowiedzi."/>
+	<entry name="Audio/SilenceBetweenTracks" value="Cisza między ścieżkami"/>
+	<entry name="Audio/SilenceBetweenTracksHint" value=""/>
+	<entry name="Controls" value="Sterowanie"/>
+	<entry name="Controls/Back" value="Powrót (kompendium)"/>
+	<entry name="Controls/Cancel" value="Anuluj"/>
+	<entry name="Controls/Cargo0" value="Ładunek 1"/>
+	<entry name="Controls/Cargo1" value="Ładunek 2"/>
+	<entry name="Controls/Cargo2" value="Ładunek 3"/>
+	<entry name="Controls/Cargo3" value="Ładunek 4"/>
+	<entry name="Controls/Cargo4" value="Ładunek 5"/>
+	<entry name="Controls/Cargo5" value="Ładunek 6"/>
+	<entry name="Controls/Cargo6" value="Ładunek 7"/>
+	<entry name="Controls/Cargo7" value="Ładunek 8"/>
+	<entry name="Controls/Cargo8" value="Ładunek 9"/>
+	<entry name="Controls/Cargo9" value="Ładunek 10"/>
+	<entry name="Controls/Chat" value="Czat"/>
+	<entry name="Controls/DismantleBuilding" value="Rozbiórka budowli"/>
+	<entry name="Controls/ForceEndTurn" value="Wymuszenie zakończenia tury"/>
+	<entry name="Controls/Forward" value="Dalej (kompendium)"/>
+	<entry name="Controls/LobbyAdvancedParameters" value="Pokaż zaawansowane ustawienia lobby rozgrywki"/>
+	<entry name="Controls/LobbyBasicParameters" value="Pokaż podstawowe ustawienia lobby rozgrywki"/>
+	<entry name="Controls/LobbyChat" value="Pokaż czat lobby rozgrywki"/>
+	<entry name="Controls/LobbyMutators" value="Pokaż modyfikatory lobby rozgrywki"/>
+	<entry name="Controls/MarkTile" value="Zaznacz pole"/>
+	<entry name="Controls/NextMusicTrack" value="Następna ścieżka muzyczna"/>
+	<entry name="Controls/NextTask" value="Następne zadanie"/>
+	<entry name="Controls/OK" value="OK"/>
+	<entry name="Controls/OpenCommunicationsScreen" value="Otwórz ekran wiadomości"/>
+	<entry name="Controls/OpenCompendiumScreen" value="Otwórz ekran kompendium"/>
+	<entry name="Controls/OpenShopScreen" value="Otwórz ekran sklepu"/>
+	<entry name="Controls/OpenResearchScreen" value="Otwórz ekran badań"/>
+	<entry name="Controls/OrderAllIdleUnits" value="Wydaj rozkazy wszystkim bezczynnym jednostkom"/>
+	<entry name="Controls/OrderAllUnits" value="Wydaj rozkazy wszystkim jednostkom"/>
+	<entry name="Controls/OrderAreaUnits" value="Wydaj rozkazy jednostkom na danym obszarze"/>
+	<entry name="Controls/PlayerAction0" value="Akcja gracza 1"/>
+	<entry name="Controls/PlayerAction1" value="Akcja gracza 2"/>
+	<entry name="Controls/PlayerAction2" value="Akcja gracza 3"/>
+	<entry name="Controls/PlayerAction3" value="Akcja gracza 4"/>
+	<entry name="Controls/PlayerAction4" value="Akcja gracza 5"/>
+	<entry name="Controls/PlayerAction5" value="Akcja gracza 6"/>
+	<entry name="Controls/PlayerAction6" value="Akcja gracza 7"/>
+	<entry name="Controls/PlayerAction7" value="Akcja gracza 8"/>
+	<entry name="Controls/PlayerAction8" value="Akcja gracza 9"/>
+	<entry name="Controls/PlayerAction9" value="Akcja gracza 10"/>
+	<entry name="Controls/QuickLoad" value="Szybkie ładowanie"/>
+	<entry name="Controls/QuickSave" value="Szybki zapis"/>
+	<entry name="Controls/RebuildGUI" value="Modyfikacja interfejsu użytkownika"/>
+	<entry name="Controls/ReloadModifiedResources" value="Ponowne ładowanie zmodyfikowanych zasobów"/>
+	<entry name="Controls/SaveJPGScreenShot" value="Zapisz zrzut ekranu w<nbsp/>formacie JPG"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Zapisz zrzut ekranu w<nbsp/>formacie JPG bez HUD"/>
+	<entry name="Controls/SavePNGScreenShot" value="Zapisz zrzut ekranu w<nbsp/>formacie PNG"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Zapisz zrzut ekranu w<nbsp/>formacie PNG bez HUD"/>
+	<entry name="Controls/ScrollDown" value="Przewijaj w<nbsp/>dół"/>
+	<entry name="Controls/ScrollLeft" value="Przewijaj w<nbsp/>lewo"/>
+	<entry name="Controls/ScrollRight" value="Przewijaj w<nbsp/>prawo"/>
+	<entry name="Controls/ScrollUp" value="Przewijaj w<nbsp/>górę"/>
+	<entry name="Controls/SelectNext" value="Zaznacz następny element (jednostka, miasto)"/>
+	<entry name="Controls/SelectPrevious" value="Zaznacz poprzedni element (jednostka, miasto)"/>
+	<entry name="Controls/ShowInCompendium" value="Pokaż w<nbsp/>kompendium"/>
+	<entry name="Controls/ToggleBuildingPower" value="Wł./wył. zasilanie budowli"/>
+	<entry name="Controls/ToggleCliffHighlights" value="Wł./wył. oznaczenia klifów"/>
+	<entry name="Controls/ToggleDebugPanel" value="Wł./wył. panel usuwania błędów"/>
+	<entry name="Controls/ToggleDisplayMode" value="Wł./wył. tryb wyświetlania"/>
+	<entry name="Controls/ToggleFPSDisplay" value="Wł./wył. wyświetlanie FPS"/>
+	<entry name="Controls/ToggleGrid" value="Wł./wył. siatkę"/>
+	<entry name="Controls/ToggleHUD" value="Wł./wył. HUD"/>
+	<entry name="Controls/ToggleLoadScreen" value="Wł./wył. ekran ładowania"/>
+	<entry name="Controls/ToggleMixerPanel" value="Wł./wył. panel miksera"/>
+	<entry name="Controls/ToggleSaveScreen" value="Wł./wył. ekran zapisu"/>
+	<entry name="Controls/ToggleSceneUpdate" value="Wł./wył. aktualizację sceny"/>
+	<entry name="Controls/ToggleSettingsScreen" value="Wł./wył. ekran ustawień"/>
+	<entry name="Controls/ToggleStatsScreen" value="Wł./wył. ekran statystyk"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Wł./wył. nakładkę jednostek"/>
+	<entry name="Controls/ToggleYieldOverlay" value="Wł./wył. nakładkę wydajności"/>
+	<entry name="Controls/UnitAction0" value="Akcja jednostki 1"/>
+	<entry name="Controls/UnitAction1" value="Akcja jednostki 2"/>
+	<entry name="Controls/UnitAction2" value="Akcja jednostki 3"/>
+	<entry name="Controls/UnitAction3" value="Akcja jednostki 4"/>
+	<entry name="Controls/UnitAction4" value="Akcja jednostki 5"/>
+	<entry name="Controls/UnitAction5" value="Akcja jednostki 6"/>
+	<entry name="Controls/UnitAction6" value="Akcja jednostki 7"/>
+	<entry name="Controls/UnitAction7" value="Akcja jednostki 8"/>
+	<entry name="Controls/UnitAction8" value="Akcja jednostki 9"/>
+	<entry name="Controls/UnitAction9" value="Akcja jednostki 10"/>
+	<entry name="Controls/UnitAction10" value="Akcja jednostki 11"/>
+	<entry name="Controls/UnitAction11" value="Akcja jednostki 12"/>
+	<entry name="Controls/UnitAction12" value="Akcja jednostki 13"/>
+	<entry name="Controls/UnitAction13" value="Akcja jednostki 14"/>
+	<entry name="Controls/UnitAction14" value="Akcja jednostki 15"/>
+	<entry name="Controls/UnitItem0" value="Element jednostki 1"/>
+	<entry name="Controls/UnitItem1" value="Element jednostki 2"/>
+	<entry name="Controls/UnitItem2" value="Element jednostki 3"/>
+	<entry name="Controls/UnitItem3" value="Element jednostki 4"/>
+	<entry name="Controls/UnitItem4" value="Element jednostki 5"/>
+	<entry name="Controls/UnitItem5" value="Element jednostki 6"/>
+	<entry name="Controls/UnitItem6" value="Element jednostki 7"/>
+	<entry name="Controls/UnitItem7" value="Element jednostki 8"/>
+	<entry name="Controls/UnitItem8" value="Element jednostki 9"/>
+	<entry name="Controls/UnitItem9" value="Element jednostki 10"/>
+	<entry name="General" value="Ogólne"/>
+	<entry name="General/AnimationSpeed" value="Szybkość animacji"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Automatyczne przejście (jednostka)"/>
+	<entry name="General/AutoCycleUnitsHint" value="Automatyczne przejście do następnej bezczynnej jednostki."/>
+	<entry name="General/AutoSendReports" value="Wysyłaj statystyki użytkowania i<nbsp/>raporty o<nbsp/>awariach"/>
+	<entry name="General/AutoSendReportsHint" value="Automatyczne wysyłanie statystyk użytkowania i<nbsp/>raportów o<nbsp/>awariach do Proxy Studios, aby pomóc w<nbsp/>usprawnieniu funkcji gry, jej stabilności oraz działania.<br/><br/><style color='GUI/Yellow'/>Prywatność jest dla nas bardzo ważna. Chcemy zbierać tylko dane niezbędne do usprawniania gry dla wszystkich użytkowników. Gromadzone informacje obejmują zanonimizowane interakcje z<nbsp/>grą (na przykład liczbę prób połączeń z<nbsp/>grą wieloosobową, także nieudanych, rodzajów rozpoczętych rozgrywek, użytych funkcji, klikanych przycisków oraz czasu gry), a<nbsp/>także zanonimizowane informacje techniczne (na przykład o<nbsp/>wersji i<nbsp/>języku gry, systemie operacyjnym, konfiguracji sprzętowej, a<nbsp/>także podstawowe informacje o<nbsp/>błędach i<nbsp/>awariach). Dane te są przetwarzane w<nbsp/>celu dostarczenia użytkownikom niezawodnego produktu wysokiej jakości. Przechowuje się je nie dłużej niż rok i<nbsp/>nie są one udostępniane osobom trzecim."/>
+	<entry name="General/EdgeScroll" value="Przesuwanie na krawędziach"/>
+	<entry name="General/EdgeScrollHint" value="Przesuwa kamerę, gdy kursor myszy znajduje się na krawędzi ekranu w<nbsp/>trybie pełnoekranowym."/>
+	<entry name="General/Language" value="Język"/>
+	<entry name="General/LanguageHint" value="Język tekstu."/>
+	<entry name="General/ResetTips" value="Resetuj podpowiedzi"/>
+	<entry name="General/ResetTipsHint" value="Resetuje podpowiedzi w<nbsp/>grze, przez co będą ponownie wyświetlane."/>
+	<entry name="General/ScreenShake" value="Wstrząsy ekranu"/>
+	<entry name="General/ScreenShakeHint" value="Eksplozje oraz śmierć dużych jednostek na ekranie powodują wstrząsy kamery."/>
+	<entry name="General/ScrollAcceleration" value="Przyspieszenie przewijania"/>
+	<entry name="General/ScrollAccelerationHint" value="Przyspieszenie przewijania kamery."/>
+	<entry name="General/ScrollSpeed" value="Szybkość przewijania"/>
+	<entry name="General/ScrollSpeedHint" value="Szybkość przewijania kamery."/>
+	<entry name="General/ScrollToAction" value="Automatyczne przewijanie do akcji"/>
+	<entry name="General/ScrollToActionHint" value="W trakcie tury SI kamera automatycznie przenosi się na miejsce aktywności."/>
+	<entry name="General/ShowAttackArea" value="Pokaż obszar ataku"/>
+	<entry name="General/ShowAttackAreaHint" value="Zawsze pokazuje obszar ataku jednostki. Gdy ta opcja jest wyłączona, można go wyświetlić poprzez przytrzymanie przycisku Shift."/>
+	<entry name="General/ShowCliffHighlights" value="Pokaż oznaczenia klifów"/>
+	<entry name="General/ShowCliffHighlightsHint" value="Wyświetlanie kreskowanych linii oznaczających klify."/>
+	<entry name="General/ShowCinematics" value="Wyświetlaj filmy"/>
+	<entry name="General/ShowCinematicsHint" value="Wyświetlanie przerywników filmowych."/>
+	<entry name="General/ShowGrid" value="Pokaż siatkę"/>
+	<entry name="General/ShowGridHint" value="Wyświetlanie siatki na ziemi."/>
+	<entry name="General/ShowPerformance" value="Pokaż wydajność"/>
+	<entry name="General/ShowPerformanceHint" value="Wyświetlanie informacji o<nbsp/>wydajności."/>
+	<entry name="General/ShowSubtitles" value="Pokaż napisy"/>
+	<entry name="General/ShowSubtitlesHint" value="Wyświetlanie napisów na dole ekranu podczas przerywników filmowych, będących tłumaczeniem lub transkrypcją dialogów i<nbsp/>narracji."/>
+	<entry name="General/ShowTips" value="Pokaż podpowiedzi"/>
+	<entry name="General/ShowTipsHint" value="Wyświetlanie przydatnych podpowiedzi gry."/>
+	<entry name="General/TerminateWithDisableMods" value="Wyłącz modyfikacje, gdy wystąpi błąd wczytywania"/>
+	<entry name="General/TerminateWithDisableModsHint" value=""/>
+	<entry name="General/TerminateWithMarkContentCorrupt" value="Zaznacz uszkodzone dane, gdy wystąpi błąd wczytywania"/>
+	<entry name="General/TerminateWithMarkContentCorruptHint" value=""/>
+	<entry name="Network" value="Sieć"/>
+	<entry name="Network/ListenPort" value="Port odbioru"/>
+	<entry name="Network/ListenPortHint" value="Port TCP dla przychodzących połączeń podczas prowadzenia rozgrywki."/>
+	<entry name="Network/PreferRelayedData" value="Preferowanie przekazanych danych"/>
+	<entry name="Network/PreferRelayedDataHint" value="Zamiast łączyć się bezpośrednio z<nbsp/>hostem, przekazuj wszystkie dane przez serwer przekaźnikowy, jeśli jest dostępny.<br/><br/>Zwiększy to opóźnienie sieciowe.<br/><br/>Kiedy ta opcja jest wyłączona, dane są nadal przekazywane, jeśli nie powiedzie się początkowe bezpośrednie połączenie.<br/><br/><style color='GUI/Yellow'/>Używaj tej opcji tylko, jeśli masz problemy z<nbsp/>połączeniem i<nbsp/>nie możesz rozwiązać ich w<nbsp/>inny sposób."/>
+	<entry name="Network/RemoteAddress" value="Zdalny adres"/>
+	<entry name="Network/RemotePort" value="Zdalny port"/>
+	<entry name="Video" value="Grafika"/>
+	<entry name="Video/AnisotropicFiltering" value="Filtrowanie anizotropowe"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Jasność"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Cienie chmur"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Kontrast"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Głębia mgły"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Głębia pola widzenia"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/Device" value="Karta graficzna"/>
+	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>Zmiana tego ustawienia zostanie wprowadzona po ponownym uruchomieniu gry."/>
+	<entry name="Video/DisplayMode" value="Tryb wyświetlania"/>
+	<entry name="Video/DisplayMode0" value="Pełny ekran"/>
+	<entry name="Video/DisplayMode1" value="Okno"/>
+	<entry name="Video/DisplayMode2" value="Bez obramowania"/>
+	<entry name="Video/DisplayModeHint" value="Umożliwia zmianę trybu wyświetlania gry. Tryby okien mogą spowodować spadek płynności.<br/><br/><style color='GUI/Yellow'/>Tryb okna może działać najlepiej w<nbsp/>czasie nagrywania w<nbsp/>rozdzielczości systemowej."/>
+	<entry name="Video/Exposure" value="Ekspozycja"/>
+	<entry name="Video/ExposureHint" value="Rozjaśnia lub zaciemnia scenę, nie wpływając na graficzny interfejs użytkownika."/>
+	<entry name="Video/FixedTimeOfDay" value="Stała pora dnia"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Stała pora dnia przez"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Antyaliasing"/>
+	<entry name="Video/FXAAHint" value="Zmniejsza aliasing poprzez wygładzanie krawędzi za pomocą FXAA, ale może zmniejszyć wydajność. Korzysta z<nbsp/>mocy obliczeniowej twojej karty graficznej."/>
+	<entry name="Video/Gamma" value="Gamma"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/GUIScale" value="Skala graficznego interfejsu użytkownika"/>
+	<entry name="Video/GUIScaleCustom" value="Własna: %1%%%"/>
+	<entry name="Video/GUIScaleHint" value="Skaluje graficzny interfejs użytkownika."/>
+	<entry name="Video/MaxFocusedTickrate" value="Maksimum skoncentrowanych FPS"/>
+	<entry name="Video/MaxFocusedTickrateHint" value=""/>
+	<entry name="Video/MaxMinimizedTickrate" value="Maksimum zminimalizowanych FPS"/>
+	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
+	<entry name="Video/MaxUnfocusedTickrate" value="Maksimum nieskoncentrowanych FPS"/>
+	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Monitor pełnoekranowy"/>
+	<entry name="Video/MonitorHint" value=""/>
+	<entry name="Video/MultiThreadedRendering" value="Rendering wielowątkowy"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Wykorzystuje do renderingu wiele rdzeni procesora, co może zwiększyć płynność. Wyłączenie tego ustawienia może usunąć ewentualne artefakty wizualne."/>
+	<entry name="Video/Resolution" value="Rozdzielczość"/>
+	<entry name="Video/ResolutionHint" value="Pozwala zmienić rozdzielczość, w<nbsp/>jakiej wyświetlana jest gra. Wyższe rozdzielczości dają lepszy obraz, ale mocno wpływają na płynność działania."/>
+	<entry name="Video/ShadowQuality" value="Jakość cieni"/>
+	<entry name="Video/ShadowQuality0" value="Niska"/>
+	<entry name="Video/ShadowQuality1" value="Średnia"/>
+	<entry name="Video/ShadowQuality2" value="Wysoka"/>
+	<entry name="Video/ShadowQualityHint" value="Określa wielkość mapy cieni używanej w<nbsp/>renderingu cieni. Wyższa jakość cieni sprawia, że są one bardziej szczegółowe, ale wymaga wydajniejszej karty graficznej."/>
+	<entry name="Video/TextureQuality" value="Jakość tekstur"/>
+	<entry name="Video/TextureQuality0" value="Niska"/>
+	<entry name="Video/TextureQuality1" value="Średnia"/>
+	<entry name="Video/TextureQuality2" value="Wysoka"/>
+	<entry name="Video/TextureQualityHint" value="Określa wielkość tekstur używanych w<nbsp/>grze. Wyższa jakość tekstur poprawia wygląd terenu i<nbsp/>jednostek, ale wymaga większej pamięci graficznej (VRAM)."/>
+	<entry name="Video/VerticalSynchronization" value="Synchronizacja pionowa"/>
+	<entry name="Video/VerticalSynchronization-1" value="Adaptacyjna"/>
+	<entry name="Video/VerticalSynchronization0" value="Brak"/>
+	<entry name="Video/VerticalSynchronization1" value="Zwykła"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Synchronizuje liczbę wyświetlanych klatek z<nbsp/>częstotliwością odświeżania twojego monitora."/>
+	<entry name="World" value="Świat"/>
+</language>

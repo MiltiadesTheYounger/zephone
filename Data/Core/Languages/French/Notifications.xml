@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1% est en guerre avec %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% a signé un traité de paix avec %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% a signé un accord commercial avec %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% a conclu une alliance avec %2%."/>
+	<entry name="CityFoundedSummary" value="%1% a été fondée."/>
+	<entry name="CityGrownSummary" value="%1% a atteint %2% de population."/>
+	<entry name="FactionDefeated" value="Faction vaincue"/>
+	<entry name="FactionDiscovered" value="Faction découverte"/>
+	<entry name="FactionDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="Foundations" value="Fondations superficielles"/>
+	<entry name="FoundationsWithMutator" value="Fondations altérées"/>
+	<entry name="Interlude0" value="Un brin d'espoir"/>
+	<entry name="Interlude0Info" value="Votre peuple espérait qu'en retournant à la surface, il trouverait une nature sauvage et non un monde de monstres et d'ignobles machines de ZEPHON. Des rapports nous parviennent régulièrement sur des réfugiés qui se sont aventurés trop près du territoire des gardiens, et ont fini massacrés pour leur intrusion.<br/><br/>Quelle est la place de ZEPHON là-dedans<nbsp/>? Ironiquement, ce sont les monstres qui en savent le plus sur les machines. Votre équipe de communication est surprise d'entendre un jour la voix d'un chef Acrinn, l'Anachorète, diffusée sur une vieille fréquence radio AM.<br/><br/>Il ressemble à un prédicateur dont la voix aurait autrefois hanté les ondes de la campagne déserte. Dans ses sermons, il proclame que son peuple veut la paix. «<nbsp/>Chercher un nouvel avenir, sans Vox<nbsp/>», prétend-il. «<nbsp/>Savoir que c'est Vox qui a chassé les humains –<nbsp/>qui a chassé ZEPHON<nbsp/>– et non mon peuple.<nbsp/>»<br/><br/>Ses prêches sombrent parfois dans la divagation. Il évoque de mystérieuses usines qui crachent du feu et de la fumée dans la nuit. Il pleure son peuple tué par les gardiens qui les surveillent.<br/><br/>«<nbsp/>Vouloir la paix, rien que la paix. La paix doit illuminer la terre comme le soleil qui se lève sur un océan scintillant<nbsp/>», entonne l'Anachorète.<br/><br/>Vous écoutez son sermon en pensant que si la paix est une aube lointaine, il y a encore une longue nuit devant vous."/>
+	<entry name="Interlude1" value="Les signes du désespoir"/>
+	<entry name="Interlude1Info" value="L'Anachorète a repris la parole sur les ondes. Il semble particulièrement agité. «<nbsp/>Pleurer la perte de mon peuple massacré par ZEPHON<nbsp/>», déclame-t-il dans un micro. «<nbsp/>Entendre le bruit écrasant des usines de ZEPHON qui grondent dans la nuit. S'interroger sur l'arme qu'il forge dans les profondeurs.<nbsp/>»<br/><br/>«<nbsp/>Les profondeurs<nbsp/>»... ça, c'est nouveau. ZEPHON fait comme si les usines n'existaient pas. Mais si leurs marchandises sont expédiées sur la côte, au fond de l'océan... personne ne saura jamais ce qu'il fabriquait.<br/><br/>L'Anachorète poursuit<nbsp/>: «<nbsp/>Se souvenir que notre mission sur cette planète était un... génocide<nbsp/>», énonce-t-il lentement. «<nbsp/>Espérer que la mission était morte avec la flotte Acrinn.<nbsp/>»<br/><br/>Vous vous crispez en attendant la suite. «<nbsp/>La flotte est toujours en orbite. D'horribles créatures de guerre dorment dans ses entrailles.<nbsp/>»<br/><br/>Comment le sait-il<nbsp/>? Personne ne devrait pouvoir accéder à la flotte. La voix de l'Anachorète faiblit comme s'il pouvait entendre vos pensées malgré la distance.<br/><br/>«<nbsp/>Préparer...<nbsp/>» Il se reprend, et poursuit d'un ton plus dur<nbsp/>: «<nbsp/>Savoir, que nous devons faire le nécessaire pour empêcher notre propre génocide.<nbsp/>»"/>
+	<entry name="PlayerLost" value="Défaite<nbsp/>!"/>
+	<entry name="PlayerLostSummary" value="%1% s'est fait vaincre<nbsp/>!"/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="Victoire<nbsp/>!"/>
+	<entry name="PlayerWonSummary" value="%1% remporte la victoire<nbsp/>!"/>
+	<entry name="ProductionCompletedSummary" value="Production<nbsp/>: %2% par %1%."/>
+	<entry name="RegionDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="ResearchCompleted" value="Recherches terminées"/>
+	<entry name="ResearchCompletedSummary" value="Recherche<nbsp/>: %1%."/>
+	<entry name="RewardGainedSummary" value="Obtenu<nbsp/>: %2%."/>
+	<entry name="TileAcquiredSummary" value="Case acquise par %1%."/>
+	<entry name="TileCapturedSummary" value="Capture<nbsp/>: %2% par %1%."/>
+	<entry name="TileClearedSummary" value="Déblaiement<nbsp/>: %2% par %1%."/>
+	<entry name="UnitAttackedSummary" value="Attaque<nbsp/>: %2% par %1%."/>
+	<entry name="UnitCapturedSummary" value="Capture<nbsp/>: %2% par %1%."/>
+	<entry name="UnitDamagedSummary" value="Dégâts<nbsp/>: %2% par %1%."/>
+	<entry name="UnitKilledSummary" value="Élimination<nbsp/>: %2% par %1%."/>
+	<entry name="UnitGainedTraitSummary" value="Obtention<nbsp/>: %2% par %1%."/>
+	<entry name="UnitTransformedSummary" value="Évolution<nbsp/>: %1% en %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1%<nbsp/>: utilisation de %2% sur %3%."/>
+</language>

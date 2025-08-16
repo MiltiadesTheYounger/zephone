@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbyssalRage" value="Бездонная ярость"/>
+	<entry name="AcquireTile" value="Присоединение клетки"/>
+	<entry name="AcquireTileProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Присоединяет указанную клетку поверхности на расстоянии до %1% кл. от &lt;icon height='20' texture='Icons/Buildings/Headquarters'/&gt; Штаба&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Здания можно строить только на присоединённых клетках&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Каждому зданию требуется свободный &lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt; слот для зданий&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Каждая присоединённая клетка тратит на содержание %2% &lt;icon height='20' texture='Icons/Attributes/Influence'/&gt; влияния"/>
+	<entry name="AngelFlight" value="Полёт ангела"/>
+	<entry name="AntimatterDilation" value="Растяжение антиматерии"/>
+	<entry name="AntiparticlePurge" value="Чистка античастицами"/>
+	<entry name="Apotheosis" value="Апофеоз"/>
+	<entry name="Appear" value="Появление"/>
+	<entry name="ArmorOfFaith" value="Доспехи веры"/>
+	<entry name="ArtificersPrecision" value="Точность Мастерицы"/>
+	<entry name="Assassinate" value="Жестокое убийство"/>
+	<entry name="AtramentousAura" value="Чудесная аура"/>
+	<entry name="Attack" value="Атака"/>
+	<entry name="AuraOfDiscipline" value="Аура слаженности"/>
+	<entry name="AuraOfTheFalseSpeaker" value="Аура Лжевестника"/>
+	<entry name="AuraOfTheFalseSpeakerFlavor" value="&lt;string name='Quests/WhispersOfAFalseProphet/ProtectErelimSuccess2'/&gt;"/>
+	<entry name="BionicImplant" value="Бионический имплант"/>
+	<entry name="BlackHole" value="Чёрная дыра"/>
+	<entry name="BreedDeformities" value="Порождение уродств"/>
+	<entry name="BreedDeformities0" value="&lt;string name='Actions/BreedDeformities'/&gt;"/>
+	<entry name="BreedDeformities0Flavor" value="&lt;string name='Actions/BreedDeformitiesFlavor'/&gt;"/>
+	<entry name="BreedDeformities1" value="&lt;string name='Actions/BreedDeformities'/&gt;"/>
+	<entry name="BreedDeformities1Flavor" value="&lt;string name='Actions/BreedDeformitiesFlavor'/&gt;"/>
+	<entry name="BreedDeformities2" value="&lt;string name='Actions/BreedDeformities'/&gt;"/>
+	<entry name="BreedDeformities2Flavor" value="&lt;string name='Actions/BreedDeformitiesFlavor'/&gt;"/>
+	<entry name="Bombardment" value="Бомбардировка"/>
+	<entry name="BuyHint" value="&lt;style name='Title'/&gt;Купить: %1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
+	<entry name="BuyHintMax" value="[&lt;string name='Controls/Alt'/&gt;+&lt;string name='Controls/MouseLeft'/&gt;] — купить макс. (%1% за %2%)."/>
+	<entry name="BuyHintMore" value="[&lt;string name='Controls/Control'/&gt;+&lt;string name='Controls/MouseLeft'/&gt;] — купить ×10 (%1% за %2%)."/>
+	<entry name="CallTheAfflicted" value="Зов прокажённых"/>
+	<entry name="CausalWell" value="&lt;string name='Traits/CausalWell'/&gt;"/>
+	<entry name="CausalWellFlavor" value="&lt;string name='Traits/CausalWellFlavor'/&gt;"/>
+	<entry name="Capture" value="Захват"/>
+	<entry name="CarrionGlut" value="&lt;string name='Traits/CarrionGlut'/&gt;"/>
+	<entry name="CarrionGlutFlavor" value="&lt;string name='Traits/CarrionGlutFlavor'/&gt;"/>
+	<entry name="CarrionGlutProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+4&lt;style color='Default'/&gt; &lt;string name='Attributes/HitpointsIcon'/&gt; ед. жизни при каждой гибели любого юнита в области"/>
+	<entry name="Cataphora" value="Катафора"/>
+	<entry name="CauterizeWounds" value="Прижигание ран"/>
+	<entry name="CherubicHallowing" value="Херувимская защита"/>
+	<entry name="ChoralCelerity" value="Хоровая стремительность"/>
+	<entry name="ChoralCelerityProperties" value="&lt;string name='Actions/HiredHandsDescription'/&gt;"/>
+	<entry name="ClearTile" value="Зачистка клетки"/>
+	<entry name="ClearTileDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет &lt;icon height='20' texture='Icons/Features/Mines'/&gt; мины, &lt;icon height='20' texture='Icons/Features/Bleed'/&gt; Течь, &lt;icon height='20' texture='Icons/Features/Ruins'/&gt; руины и &lt;icon height='20' texture='Icons/Features/Forest'/&gt; лес с указанной клетки, по одной особенности за раз&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Освобождает &lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt; слот для зданий на указанной клетке"/>
+	<entry name="CombatRoutine" value="Подпрограмма боя"/>
+	<entry name="CombatRoutineProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Можно использовать при неполных ед. жизни"/>
+	<entry name="ConjureBleed" value="Призыв Течи"/>
+	<entry name="ConstructArtificersLaboratory" value="Сооружение: &lt;string name='Units/ArtificersLaboratory'/&gt;"/>
+	<entry name="ConstructArtificersLaboratoryFlavor" value="&lt;string name='Units/ArtificersLaboratoryFlavor'/&gt;"/>
+	<entry name="ConstructBuilding" value="%1%"/>
+	<entry name="ConstructBuildingHint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%9%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
+	<entry name="ConstructBunker" value="Сооружение: &lt;string name='Units/Bunker'/&gt;"/>
+	<entry name="ConstructBunkerFlavor" value="&lt;string name='Units/BunkerFlavor'/&gt;"/>
+	<entry name="ConstructFarm" value="Сооружение: &lt;string name='Buildings/Food'/&gt;"/>
+	<entry name="ConstructFarmFlavor" value="&lt;string name='Buildings/FoodFlavor'/&gt;"/>
+	<entry name="ConstructPlayerAction" value="&lt;string name='Actions/ProduceUnit'/&gt;"/>
+	<entry name="ConstructPlayerActionHint" value="&lt;string name='Actions/ProduceUnitHint'/&gt;"/>
+	<entry name="ConstructRadioTelescope" value="Сооружение: &lt;string name='Units/RadioTelescope'/&gt;"/>
+	<entry name="ConstructRadioTelescopeFlavor" value="&lt;string name='Units/RadioTelescopeFlavor'/&gt;"/>
+	<entry name="ConstructRoad" value="Сооружение: Дорога"/>
+	<entry name="ConstructTesseraCore" value="Сооружение: &lt;string name='Units/TesseraCore'/&gt;"/>
+	<entry name="ConstructTesseraCoreFlavor" value="&lt;string name='Units/TesseraCoreFlavor'/&gt;"/>
+	<entry name="ConstructWarden" value="Сооружение: &lt;string name='Units/Warden'/&gt;"/>
+	<entry name="ConstructWardenFlavor" value="&lt;string name='Units/WardenFlavor'/&gt;"/>
+	<entry name="CreateShochitrisLair" value="Создание: &lt;string name='Units/ShochitrisLair'/&gt;"/>
+	<entry name="CreateShochitrisLairFlavor" value="&lt;string name='Units/ShochitrisLairFlavor'/&gt;"/>
+	<entry name="CryOfContrition" value="Плач раскаяния"/>
+	<entry name="CycleWeapon" value="Смена оружия"/>
+	<entry name="CycleWeaponProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Меняет активное оружие"/>
+	<entry name="DanceOfTheErelim" value="Танец эрелима"/>
+	<entry name="DanceOfTheErelimProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Атакует все смежные вражеские юниты"/>
+	<entry name="DarkCaress" value="Тёмная ласка"/>
+	<entry name="DarkOmen" value="Тёмное знамение"/>
+	<entry name="DarkOmenFlavor" value="&lt;string name='Traits/DarkOmenFlavor'/&gt;"/>
+	<entry name="DataHack" value="Взлом данных"/>
+	<entry name="DecoyFlares" value="Ракеты-обманки"/>
+	<entry name="DeployCombatDrone0" value="&lt;string name='Units/CombatDrone'/&gt;"/>
+	<entry name="DeployCombatDrone0Flavor" value="&lt;string name='Units/CombatDroneFlavor'/&gt;"/>
+	<entry name="DeployCombatDrone1" value="&lt;string name='Units/CombatDrone'/&gt;"/>
+	<entry name="DeployCombatDrone1Flavor" value="&lt;string name='Units/CombatDroneFlavor'/&gt;"/>
+	<entry name="DeployCombatDrone2" value="&lt;string name='Units/CombatDrone'/&gt;"/>
+	<entry name="DeployCombatDrone2Flavor" value="&lt;string name='Units/CombatDroneFlavor'/&gt;"/>
+	<entry name="DeployEMPDrone" value="&lt;string name='Units/EMPDrone'/&gt;"/>
+	<entry name="DeployEMPDroneFlavor" value="&lt;string name='Units/EMPDroneFlavor'/&gt;"/>
+	<entry name="DeployRepairDrone" value="&lt;string name='Units/RepairDrone'/&gt;"/>
+	<entry name="DeployRepairDroneFlavor" value="&lt;string name='Units/RepairDroneFlavor'/&gt;"/>
+	<entry name="DirectControl" value="Прямое управление"/>
+	<entry name="Disappear" value="Исчезновение"/>
+	<entry name="Disband" value="Роспуск"/>
+	<entry name="DisbandDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Расформировывает юнит"/>
+	<entry name="DreamPrison" value="Оковы сна"/>
+	<entry name="EchoesFromBeyond" value="Потустороннее эхо"/>
+	<entry name="EchoesFromBeyondDescription" value="Раскрывает указанную и прилегающие клетки."/>
+	<entry name="EndbringersReversal" value="Инверсия уничтожителя"/>
+	<entry name="EndbringersReversalProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Меняется расположением с указанным юнитом"/>
+	<entry name="EnhancedProbabilityAugment" value="Апгрейд — Улучшение вероятности"/>
+	<entry name="EnrichedAlloys" value="Обогащённые сплавы"/>
+	<entry name="Entomb" value="Заточение"/>
+	<entry name="EradicateBleed" value="Искоренение Течи"/>
+	<entry name="EvasionProcessor" value="Процессор уворотов"/>
+	<entry name="EvasiveManeuvers" value="Манёвры уклонения"/>
+	<entry name="ExperimentalDrugs" value="Экспериментальные препараты"/>
+	<entry name="ExperimentalDrugsFlavor" value="&lt;string name='Quests/Pharmaceutics/Utilize'/&gt;"/>
+	<entry name="ExperimentalDrugsProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Добавляет экспериментальный эффект&lt;string name='Modifiers/ToTargetAlliedBiologicalUnit'/&gt;"/>
+	<entry name="Extirpate" value="Вырывание"/>
+	<entry name="ExtirpateProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Можно использовать, если врага можно притянуть в одну из трёх ближайших к нему смежных клеток"/>
+	<entry name="EyeOfZephon" value="Око ЗЕФОНа"/>
+	<entry name="FirstAidDrone" value="Дрон первой помощи"/>
+	<entry name="FleshTree" value="Урожай мяса"/>
+	<entry name="FleshTreeFlavor" value="&lt;string name='Features/FleshTreeFlavor'/&gt;"/>
+	<entry name="Frenzy" value="Буйство"/>
+	<entry name="FrenzyProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Можно использовать, если в смежных клетках есть два или более вражеских юнита"/>
+	<entry name="FoundCity" value="Основание города"/>
+	<entry name="FoundCityProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Расходует юнит для основания нового города на указанной клетке&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Города можно строить на расстоянии не менее %1% клеток друг от друга&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Каждый новый город после первого снижает лояльность во всех городах на %2%"/>
+	<entry name="FoundationOfBlood" value="Построено на крови"/>
+	<entry name="GauntletOfRuin" value="&lt;string name='Items/GauntletOfRuin'/&gt;"/>
+	<entry name="GauntletOfRuinProperties" value="&lt;string name='Actions/ClearTileDescription'/&gt;"/>
+	<entry name="GhostWalk" value="Призрачный шаг"/>
+	<entry name="GravitonJammer" value="Гравитонный глушитель"/>
+	<entry name="GravityField" value="&lt;string name='Features/GravityField'/&gt;"/>
+	<entry name="GravityFieldFlavor" value="&lt;string name='Features/GravityFieldFlavor'/&gt;"/>
+	<entry name="GroundedFire" value="Вкапывание"/>
+	<entry name="Hast" value="Рывок"/>
+	<entry name="Heroism" value="Героизм"/>
+	<entry name="Hijack" value="Угон"/>
+	<entry name="HiredHands" value="Наёмная сила"/>
+	<entry name="HiredHandsDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Ускоряет производство, оно завершится на следующий же ход&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Цена пропорциональна оставшейся цене производства"/>
+	<entry name="HoldPosition" value="Удержание позиции"/>
+	<entry name="HoldPositionDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Не двигается с места, пока не отвлечётся на врага"/>
+	<entry name="HoldPositionUntilHealed" value="Удержание позиции до исцеления"/>
+	<entry name="HoldPositionUntilHealedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Не двигается с места, пока полностью не исцелится&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%1% &lt;string name='Attributes/HitpointsIcon'/&gt; ед. жизни за ход от свойств&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/HitpointsIcon'/&gt; ед. жизни за ход от скорости лечения, пока не получает урона и сохраняет все пункты действия и движения&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3%"/>
+	<entry name="HolyBond" value="Священные узы"/>
+	<entry name="HolyInferno" value="Священное пекло"/>
+	<entry name="HordeMandate" value="Директива орды"/>
+	<entry name="HymnOfDecay" value="Гимн распада"/>
+	<entry name="IcarusSatellite" value="Спутник «Икар»"/>
+	<entry name="ImmaculateDelivery" value="Непорочное появление"/>
+	<entry name="ImmaculateDeliveryProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортируется в указанную видимую клетку, смежную с союзным юнитом"/>
+	<entry name="InevitableEnd" value="Неизбежный конец"/>
+	<entry name="InhumanKindness" value="Нечеловеческая нежность"/>
+	<entry name="InterferenceProtocols" value="Протоколы вмешательства"/>
+	<entry name="InternalRepairStation" value="Внутренний восстановитель"/>
+	<entry name="IronWill" value="Стальная воля"/>
+	<entry name="JumpPack" value="Прыжковый ранец"/>
+	<entry name="JumpPackProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Перелетает в указанную видимую клетку"/>
+	<entry name="Landmines" value="Наземные мины"/>
+	<entry name="LandminesFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheTiesThatBind2'/&gt;"/>
+	<entry name="LevelUp" value="Новый уровень"/>
+	<entry name="LevelUpProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Выбрать способности для нового уровня"/>
+	<entry name="LiquidDeflectionAugment" value="Апгрейд — Жидкостное отражение"/>
+	<entry name="LogisticsExperts" value="Специалисты по логистике"/>
+	<entry name="LoyaltyUpgrade" value="&lt;string name='Traits/LoyaltyUpgrade'/&gt;"/>
+	<entry name="LoyaltyUpgradeFlavor" value="&lt;string name='Traits/LoyaltyUpgradeFlavor'/&gt;"/>
+	<entry name="MarkTarget" value="Метка цели"/>
+	<entry name="Masochism" value="Мазохизм"/>
+	<entry name="Minelayer" value="Миноукладчик"/>
+	<entry name="MothersFavor" value="Благосклонность Матери"/>
+	<entry name="MothersScorn" value="Порицание Матери"/>
+	<entry name="Move" value="Движение"/>
+	<entry name="NanomachineAcceleratorAugment" value="Апгрейд — Ускорение наномашинами"/>
+	<entry name="NeverSurrender" value="«Мы не сдадимся!»"/>
+	<entry name="Nightmare" value="Кошмар"/>
+	<entry name="NitroBoost" value="Нитроускорение"/>
+	<entry name="NomadicLife" value="Бродячая жизнь"/>
+	<entry name="NomadicLifeProperties" value="&lt;string name='Actions/FoundCityProperties'/&gt;&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Удвоенная цена, если контролируется не &lt;icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/&gt;&lt;nbsp/&gt;Дикаркой"/>
+	<entry name="OrbitalDeployment" value="Орбитальное развёртывание"/>
+	<entry name="OrbitalDeploymentProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортируется из союзного города в указанную видимую клетку"/>
+	<entry name="Overwatch" value="Дозор"/>
+	<entry name="OverwatchDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Атакует вражеские юниты, которые завершают движение в пределах дальности атаки"/>
+	<entry name="Pandemonium" value="Грехопад"/>
+	<entry name="Paramedic" value="Срочная помощь"/>
+	<entry name="Pestilence" value="Мор"/>
+	<entry name="ParticleBarrier" value="Барьер частиц"/>
+	<entry name="ParticleRepair" value="Ремонт частицами"/>
+	<entry name="PathfinderDrone" value="Дрон-следопыт"/>
+	<entry name="PayResources/CajoleAnchorite" value="Переговорить с Анахоретом"/>
+	<entry name="PayResources/CajoleAnchoriteFlavor" value="&lt;string name='Quests/Reyndverra/Intro3'/&gt;"/>
+	<entry name="PayResources/ContactAugur" value="Связаться со Скверным Авгуром"/>
+	<entry name="PayResources/ContactAugurFlavor" value="&lt;string name='Quests/ChildOfTheNewWorld/Intro/ContactAugurFlavor'/&gt;"/>
+	<entry name="PayResources/FormFunction" value="Схватить СтальноеПеро"/>
+	<entry name="PayResources/FormFunctionFlavor" value="&lt;string name='Quests/FormFunction/DefendPeopleSuccess/ImprisonIronFeatherFlavor'/&gt;"/>
+	<entry name="PayResources/MassConfession" value="Организовать массовую исповедь"/>
+	<entry name="PayResources/MassConfessionFlavor" value="&lt;string name='Quests/WhispersOfAFalseProphet/Intro/TakeConfession2'/&gt;"/>
+	<entry name="PayResources/MeetYourMaker" value="Заплатить Йетунде"/>
+	<entry name="PayResources/MeetYourMakerFlavor" value="&lt;string name='Quests/MeetYourMaker/DefendSuccess2'/&gt;"/>
+	<entry name="PayResources/StrikeADeal" value="Заплатить Плеяде"/>
+	<entry name="PayResources/StrikeADealFlavor" value="&lt;string name='Quests/ConcordatCompromised/ComplyCarefullySuccess2'/&gt;"/>
+	<entry name="PayResources/ThePulledThread" value="Заплатить Конкордату"/>
+	<entry name="PayResources/ThePulledThreadFlavor" value="&lt;string name='Quests/ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor'/&gt;"/>
+	<entry name="PayResources/TheSpaceEngine" value="Заплатить Зандре Кайн"/>
+	<entry name="PayResources/TheSpaceEngineFlavor" value="&lt;string name='Quests/TheSpaceEngine/Intro/GatherResources2'/&gt;"/>
+	<entry name="PayResources/ThickerThanWater" value="Собрать ресурсы"/>
+	<entry name="PayResources/ThickerThanWaterFlavor" value="&lt;string name='Quests/ThickerThanWater/GatherResources'/&gt;"/>
+	<entry name="PowerSpike" value="Скачок мощности"/>
+	<entry name="ProduceChild/Cyber" value="Попытаться вновь"/>
+	<entry name="ProduceChild/CyberFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment1/TryAgain2'/&gt;"/>
+	<entry name="ProduceChild/Mix" value="Попытаться совершить невозможное"/>
+	<entry name="ProduceChild/MixFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherExperiment3/AttemptTheImpossible2'/&gt;"/>
+	<entry name="ProduceChild/Voice" value="Попытаться зачать ребёнка"/>
+	<entry name="ProduceChild/VoiceFlavor" value="&lt;string name='Quests/ImpossibleConception/FindYourTrueLoveSuccess2'/&gt;"/>
+	<entry name="ProduceUnit" value="%1%"/>
+	<entry name="ProduceUnitHint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%9%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
+	<entry name="QuarryFeed" value="&lt;string name='Traits/QuarryFeed'/&gt;"/>
+	<entry name="QuarryFeedFlavor" value="&lt;string name='Traits/QuarryFeedFlavor'/&gt;"/>
+	<entry name="QuantumReflector" value="&lt;string name='Items/QuantumReflector'/&gt;"/>
+	<entry name="QuenchResistance" value="Подавление сопротивления"/>
+	<entry name="QuenchResistanceProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Сбрасывает штраф Бесчеловечной к лояльности"/>
+	<entry name="QuidProQuoEnergy" value="Услуга за услугу (энергия)"/>
+	<entry name="QuidProQuoFood" value="Услуга за услугу (пища)"/>
+	<entry name="QuidProQuoMinerals" value="Услуга за услугу (минералы)"/>
+	<entry name="Reallocate" value="Перераспределение"/>
+	<entry name="ReallocateProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Используйте производственное здание, чтобы распустить указанный НЕ-призванный, НЕ-распадающийся юнит в городе и вернуть затраченные ресурсы"/>
+	<entry name="Recon" value="Разведка"/>
+	<entry name="Reconstruct" value="Реконструкция"/>
+	<entry name="Rejuvenation" value="Омоложение"/>
+	<entry name="RejuvenationFlavor" value="&lt;string name='Quests/ChildOfTheNewWorld/SurviveAugurSuccess2'/&gt;"/>
+	<entry name="RemoveRoad" value="Удаление дороги"/>
+	<entry name="Repair" value="Ремонт"/>
+	<entry name="SatelliteScan" value="Спутниковое сканирование"/>
+	<entry name="SeedOfExtinction" value="Семя истребления"/>
+	<entry name="SellHint" value="&lt;style name='Title'/&gt;Продать: %1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
+	<entry name="SellHintMax" value="[&lt;string name='Controls/Alt'/&gt;+&lt;string name='Controls/MouseLeft'/&gt;] — продать всё (%1% за %2%)."/>
+	<entry name="SellHintMore" value="[&lt;string name='Controls/Control'/&gt;+&lt;string name='Controls/MouseLeft'/&gt;] — продать ×10 (%1% за %2%)."/>
+	<entry name="SereneLesion" value="Невозмутимая рана"/>
+	<entry name="SereneLesionProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортируется из Течи в указанную видимую клетку с Течью"/>
+	<entry name="SetRallyPoint" value="Установка точки сбора"/>
+	<entry name="SetRallyPointDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Устанавливает точку сбора для юнитов, создаваемых в этом городе"/>
+	<entry name="Skip" value="Пропуск"/>
+	<entry name="SkipDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Пропускает ход"/>
+	<entry name="Skydda" value="«Скидда»"/>
+	<entry name="Sleep" value="Сон"/>
+	<entry name="SleepDescription" value="&lt;icon texture='GUI/Bullet'/&gt;Приостанавливает производство до отмены этого действия"/>	
+	<entry name="SmokeLauncher" value="Дымовой гранатомёт"/>
+	<entry name="SomethingWicked" value="&lt;string name='Weapons/SomethingWicked'/&gt;"/>
+	<entry name="SomethingWickedFlavor" value="&lt;string name='Quests/CircusCambion/ErelimPuppets2'/&gt;"/>
+	<entry name="Soundquake" value="Звукотрясение"/>
+	<entry name="StickyFoam" value="Липкая пена"/>
+	<entry name="Supplication" value="Увещевание"/>
+	<entry name="SurvivalTraining" value="Уроки выживания"/>
+	<entry name="Swallow" value="Проглатывание"/>
+	<entry name="SystemicReset" value="Системный сброс"/>
+	<entry name="SystemOverload" value="Перегрузка системы"/>
+	<entry name="TacticalNuclearMissile" value="Тактическая ядерная ракета"/>
+	<entry name="TakeCover" value="«В укрытие!»"/>
+	<entry name="TameAbkluth" value="Приручение абклютов"/>
+	<entry name="TargetingRelay" value="Целеуказатель"/>
+	<entry name="TeleportProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортируется в указанную видимую клетку"/>
+	<entry name="TempleOfCrla" value="Мадригал Кр'ла"/>
+	<entry name="TempleOfCrlaFlavor" value="&lt;string name='Features/TempleOfCrlaFlavor'/&gt;"/>
+	<entry name="Terraform" value="Терраформирование"/>
+	<entry name="TerraformProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Подменю"/>
+	<entry name="TheDeepWays" value="Нечистое паломничество"/>
+	<entry name="TheDeepWaysProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортирует юнит и смежные юниты в указанную видимую клетку"/>
+	<entry name="TheFog" value="Туман"/>
+	<entry name="TheOutsider" value="Потусторонний"/>
+	<entry name="ThePlague" value="Эпидемия"/>
+	<entry name="ThePlagueFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/ThePlague2'/&gt;"/>
+	<entry name="ThereIsHope" value="Есть ещё надежда"/>
+	<entry name="ThrashEm" value="«Хреначь их!»"/>
+	<entry name="TimeShift" value="Временной сдвиг"/>
+	<entry name="TormentOfTheVoice" value="Пытка Голосом"/>
+	<entry name="TormentOfTheVoiceFlavor" value="&lt;string name='Quests/TheDream/AskAnchorite'/&gt;"/>
+	<entry name="Transubstantiation" value="Пресуществление"/>
+	<entry name="Tune" value="Настройка"/>
+	<entry name="Tunnel" value="Подземный ход"/>
+	<entry name="TunnelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Перемещается под землёй в указанную видимую клетку"/>
+	<entry name="UnearthlyPassage" value="Неземной проход"/>
+	<entry name="UnearthlyPassageProperties" value="&lt;string name='Actions/TeleportProperties'/&gt;"/>
+	<entry name="UnholyHaste" value="Нечестивая спешка"/>
+	<entry name="UzhodaisZeal" value="Рвение Узодай"/>
+	<entry name="Valhalla" value="Вальхалла"/>
+	<entry name="VoiceInfantryUpgrade" value="&lt;string name='Traits/VoiceInfantryUpgrade'/&gt;"/>
+	<entry name="VoiceInfantryUpgradeFlavor" value="&lt;string name='Traits/VoiceInfantryUpgradeFlavor'/&gt;"/>
+	<entry name="VoiceVehiclesUpgrade" value="&lt;string name='Traits/VoiceVehiclesUpgrade'/&gt;"/>
+	<entry name="VoiceVehiclesUpgradeFlavor" value="&lt;string name='Traits/VoiceVehiclesUpgradeFlavor'/&gt;"/>
+	<entry name="VorodaisGift" value="Дар Вародай"/>
+	<entry name="WhispersOfHarmony" value="Песнь гармонии"/>
+	<entry name="WhispersOfTheVoice" value="Нашёптывания Голоса"/>
+	<entry name="WordsOfTheProphet" value="Слова Пророка"/>
+	<entry name="WordsOfTheProphetProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Цена растёт пропорционально силе цели"/>
+	
+	<!-- Flavor. -->
+	<entry name="AbyssalRageFlavor" value="Тебе такой ярости испытывать не приходилось. Люди злятся, когда считают мир несправедливым. Но Голос может извлечь на поверхность нечто более глубокое. То, что наполняет его творения ненавистью к самой вселенной. Если столкнёшься с такой яростью... спасайся."/>
+	<entry name="AcquireTileFlavor" value="Я не мог поверить, что мы продолжали проводить инспекции, исследования местности и проверки безопасности, всю это довоенную чушь. Но городские планировщики своё дело знали. Какой смысл строить здание, которое тут же обрушится? Они научились работать даже под обстрелом и в тяжелейших условиях, чтобы мы могли безопасно расширять территорию."/>
+	<entry name="AngelFlightFlavor" value="И вот взмыл в воздух серафим — оружие, какого ещё не видела Земля. Чтобы поднять в воздух одного из них, требовалась уйма энергии, а разряд превращал орудия в лазерные пушки, способные свернуть горы. Акрины боялись подобной технологии. А теперь она существует из-за их вторжения."/>
+	<entry name="AntimatterDilationFlavor" value="Детишки когда-то подставляли увеличительные стёкла под солнечные лучи, чтобы выжигать на древесине свои имена. Херувим-титан использовал растяжение антиматерии сразу и как солнце, и как стекло, чтобы вырезать сам дух царствия на костях наших врагов. Если вообще оставались эти кости."/>
+	<entry name="AntiparticlePurgeFlavor" value="Конечно же, это устройство создала корпорация старого мира. Собирать энергию, уничтожая леса? Это что-то на уровне комиксовых злодеев. Оправдывало его одно — оно не менее эффективно справлялось с Течью, заразившей поверхность планеты. Кто знает — возможно, если позволит миниатюризация, то и с сорняками можно будет бороться."/>
+	<entry name="ApotheosisFlavor" value="Зловоние было верным знаком. Если твой одарённый Голосом враг начинает вонять, как труп в выгребной яме, — значит, через несколько секунд тебя накроет взрыв его крови и кишок. Дистанционный заряд бы вмиг убил своего носителя, но эти бедолаги успевали ощутить моментальное гниение внутренностей, прежде чем разлететься на куски."/>
+	<entry name="ArmorOfFaithFlavor" value="Большинство из нас перед сражениями запасались силой воли, но Пророк собирал нечто другое — веру. С её помощью он делал то, что техники и близко не могли понять: излучал абсолютную неуязвимость. Сверхъестественная способность? Сила, превосходящая Голос? Этого я так и не узнал."/>
+	<entry name="ArtificersPrecisionFlavor" value="Мастерица следила за точностью. В своём ремесле — программировании — и на войне. Наблюдая за ходом сражения, она использовала каждый имеющийся в её распоряжении инструмент, чтобы собирать и уточнять данные для наведения, отправляемые войскам. Немногие другие лидеры испытывали такую... интимную близость к убийствам, которые совершали их солдаты."/>
+	<entry name="AssassinateFlavor" value="Сначала мы убивали, чтобы выжить, потом убивали тех, кто стоял у нас на пути. Затем мы начали убивать, чтобы послать сообщение — превратили убийство в средство коммуникации. Мы отказались от чего-то... святого, когда решили убивать таким способом. Но нам было всё равно. К тому времени на карту было поставлено слишком многое."/>
+	<entry name="AtramentousAuraFlavor" value="Часы отделяли нас от штурма нашего штаба противником. И у нас не было ни шанса. Но вдруг, откуда ни возьмись, пронеслась переливающаяся волна, от которой коммуникаторы зашипели помехами. Мы вдохнули её. Почувствовали прилив ясности, скорости, силы. И мы удержали чёртову оборону."/>
+	<entry name="AuraOfDisciplineFlavor" value="Одно появление командира на передовой заставляло войска сосредоточиться. Мы пытались добиться того же с помощью бронетехники, но... эффект был совсем не тот. В присутствии командира было что-то личное, что невозможно воспроизвести с помощью машин."/>
+	<entry name="BionicImplantFlavor" value="Люсия, наш медик, однажды подкралась ко мне и впрыснула один из этих имплантов в руку. Было чертовски больно, я едва на неё не накинулся. «Терпи, малыш», — только и сказала она. — «Воспринимай это как высокотехнологичную прививочку». Когда я продолжил ворчать, она улыбнулась и похлопала по плечу, которое только что поранила. «Не волнуйся. Отправлю счёт в твою страховую»."/>
+	<entry name="BlackHoleFlavor" value="Наша человечность умерла, когда мы начали разрушать сам пространственно-временной континуум. Мы воспринимали реальность как машину, которую можно запрограммировать. Чёрные дыры, возможно, когда-то были темнейшими местами во Вселенной, но всё же нет ничего темнее человека, который решил поиграть в бога."/>
+	<entry name="BombardmentFlavor" value="Некоторых вещей война не изменила. Например, если хочешь получить точный артиллерийский удар, то тебе нужен хороший корректировщик. Мы доверяли нашим командирам указывать цель... не только потому, что они могли её поразить. Но и потому, что они могли вывести наши же войска из зоны поражения."/>
+	<entry name="BreedDeformitiesFlavor" value="В чреве шох'итриса пузырились сгустки органической материи. В зарождении жизни должно быть что-то сакральное — но только не здесь. Эта тварь собирала отбросы нашего мира и слепляла их воедино, чтобы созданная ей жизнь послужила её оружием."/>
+	<entry name="CallTheAfflictedFlavor" value="Голос наделил Шепчущую даром: способностью создавать жизнь. Но не настоящую жизнь, а только пародию на неё. Впрочем, разве уродства принципиально отличаются от мух-однодневок? Возможно, мы заслуживали насмешки за мысль о том, что наша жизнь что-то значит."/>
+	<entry name="CataphoraFlavor" value="Алчущих от уродств отличал инстинкт выживания. А, ну ещё лишняя голова. Уродства неизбежно ковыляли навстречу смерти, алчущие же иногда хватались за жизнь когтистыми лапами. Поймай одного из них в момент регенерации, и задавишь эту жизнь, не лишившись кожи на спине."/>
+	<entry name="CauterizeWoundsFlavor" value="Первые солдаты, которые получили кибернетические апгрейды, оставались уязвимыми к поражению важных органов. Слегка пошаманив над программой, наши технари смогли заглушить их болевые рецепторы. А если они и так не чувствуют боли, то почему бы не пойти дальше, позволив им прижигать собственные раны?"/>
+	<entry name="CherubicHallowingFlavor" value="Херувим был способен укрывать своим щитом соседние подразделения. Было в этом что-то... успокаивающее. Странно приятное. Огромное орудие войны обволакивало тебя своими объятиями, предлагая укрытие и защиту... пока его пушки крошили врагов на куски."/>
+	<entry name="ChoralCelerityFlavor" value="Боги, какой был ужасный день. Мы застали культистов Голоса врасплох, нанесли удар по их базе, не дав им мобилизоваться. Но из псалтиря масок раздался пронзительный вопль, и через несколько секунд невинные люди оказались в его полной власти. Чего бы этот трюк ни стоил неприятелю... моим людям он обошёлся дороже."/>
+	<entry name="ClearTileFlavor" value="Как здания, так и солдаты нуждались в твёрдой почве. Мы обучали инженеров расчищать местность для тех и других. Работа тяжёлая и опасная — наш новый мир был до краёв наполнен всевозможными чужеродными веществами. Ты как будто готовился к бою. Можно сражаться либо с землёй, либо с врагом, но одновременно — это уже для кого угодно перебор."/>
+	<entry name="CombatRoutineFlavor" value="Первые встреченные нами машины не всегда находились в боевой готовности, но приходили в неё, как только начиналась стрельба. Даже жутко становилось от того, как метко они начинали стрелять, когда сами получали пулю. Наверное, какая-то триангуляционная подпрограмма или что-то вроде."/>
+	<entry name="ConjureBleedFlavor" value="У Голоса много способов попасть в наш мир. Он подсказал некоторым существам, как открывать дыры в другую реальность. Сам воздух был похож на кожу, из которой истекали эти отростки. Иногда тебе хотелось, чтобы тебя окружал Голос. Но иногда ты желал доселе неслыханной тишины."/>
+	<entry name="ConstructRoadFlavor" value="Я и не подозревал, как сильно мне недоставало нормальных дорог. За месяцы тряски в «Колеснице» я привык к езде по ухабам и камням. Но возвращение ровной трассы помогло мне сосредоточиться. На враге, который ждал впереди, — и на защите дома, что остался позади."/>
+	<entry name="CryOfContritionFlavor" value="Волновали ли Голос те, кто к нему обращался? Нужно ли было его убедить? Научить сопереживать живым существам? Я не думал, что спасение жизней будет представлять ценность для подобной сущности. Возможно, он видел более широкую картину. Или ему и впрямь было не чуждо какое-то милосердие."/>
+	<entry name="DanceOfTheErelimFlavor" value="Ты мог забыть, что эрелимы не совсем люди — пока не видел их танец. Их глаза стекленели, их машинный разум просчитывал движения всех врагов поблизости. Затем их лица открывались, их клинки вытягивались, и они начали резню. Красота и завораживающая грация их движений... это было самое страшное. ИИ убивал не только из практических соображений. Теперь он убивал ради... искусства? Самовыражения? Неважно. Я просто понимал: он хочет покрасоваться."/>
+	<entry name="DarkCaressFlavor" value="Можешь вообразить прикосновение этих мерзких пальцев? Представь гигантскую руку, которая опускается и касается твоего плеча как давно потерянная любовь? Она мечтает об этом. Она помнит это ощущение. И её желание — это то, что ты почувствуешь, когда она потянется к тебе в пылу битвы."/>
+	<entry name="DarkPactFlavor" value="Моё сердце колотилось в груди всё быстрее, пока я отползал от сноедца Анахорета. Кровь моих солдат — моих товарищей — капала с его щупалец мне на лицо. Я уже отсчитывал последние секунды, но тут монстр исчез во вспышке света. Анахорет сохранил мне жизнь. Он хотел, чтобы я рассказал миру о монстре — и о том, что он выпустит это чудище на волю, если мы опять посмеем ему угрожать."/>
+	<entry name="DataHackFlavor" value="Модель Разума знала все потайные закоулки и обходные пути любой сети. Она ненавидела ими пользоваться, но нашла им определённое применение. Она могла потянуться своим разумом, зайти с чёрного хода и поглядеть, что исследуют наши враги. Такая функция её устраивала."/>
+	<entry name="DecoyFlaresFlavor" value="Забавная штука эти обманки. Сами пилоты на них не смотрят. Сбитые ими с толку ракеты не понимают, что они такое. Видят их обычно только находящиеся на земле солдаты — те, у кого нашлась секунда взглянуть наверх и увидеть медленные вспышки, ползущие по небу."/>
+	<entry name="DirectControlFlavor" value="Мы устроили засаду на патруль машин ЗЕФОНа — надеялись разобрать их на запчасти. Одна из машин внезапно резко дёрнулась, её цепи засветились ужасающим и неописуемым цветом, а затем она одним ударом смела целый отряд ополчения. Я встретился взглядом с этой штукой, и мне показалось, что в ответ на меня посмотрел сам ЗЕФОН."/>
+	<entry name="DreadShadowFlavor" value="Тени. Они были лишь тенями. Игрой света, который... что-то делал, мать его. Когда твою руку полосовал один из двойников, это был коготь всё того же исходного охотника. Ты продолжал стрелять. Тебе оставалось только стрелять и надеяться, что твоя футуристическая энергетическая пушка способна что-то противопоставить монстру, творящему такую херню с самим светом."/>
+	<entry name="DreamPrisonFlavor" value="30 воинов. Два ракетных расчёта. Преторианец. Столько народу я положил, когда мой разум подчинил себе сноедец... Я сказал командованию, что был под гипнозом и ничего не помнил, но я солгал. Он подсунул мне видение — я охотился в лесу на оленей. Подстреливал их. Выслеживал их. Свежевал их. Каждый из них звал на помощь, пока я втыкал нож ему между рёбер..."/>
+	<entry name="EchoesFromBeyondFlavor" value="Голос знал многое. Многое из того, что казалось невозможным. Было ли мелочно пользоваться его предчувствиями, чтобы видеть наших врагов? Или именно так Голос привлекал людей? Может, он показывал им знания, обещал власть, а затем предлагал ещё больше? Шепчущая знала. Но никогда не говорила."/>
+	<entry name="EndbringersReversalFlavor" value="Я украл свитки, которые хранил при себе Незримый Трибунал, и меня с минуты на минуту должны были схватить его солдаты. В решающий миг я почувствовал, как меня захватывает притяжение другого мира, и меня выкинуло в безопасное место. На том месте, где только что был я, теперь стоял культист Узодай, готовый перебить застигнутые врасплох войска Трибунала."/>
+	<entry name="EnhancedProbabilityAugmentFlavor" value="Стрелкам прошлого требовалась развитая интуиция, чтобы попадать точно в цель. Оперативница вдохновлялась ими при создании этого конкретного апгрейда. Интуицию можно было... сымитировать. Переработать с помощью уравнений. У нее был талант брать то, что делало нас людьми, и воссоздавать это с помощью цифр."/>
+	<entry name="EnrichedAlloysFlavor" value="Когда я садился чинить свой огнестрел, всегда всплывали неприятные воспоминания. Кухонный стол. Мой дядя чистит свои ружья. Моя тётя... злится. Она сказала ему, чтобы держал их подальше от дома. Он наорал на неё в ответ. Оружие выстрелило... и... Этот урод даже не думал о том, как ухоженное оружие из добротных материалов способно пробивать плоть и кость. Ему просто нравилось смотреть, как оно блестит на солнце."/>
+	<entry name="EntombFlavor" value="Архий использовал все твои уязвимые места одновременно. Если он парализовал тебя... ты не мог пошевелиться. Ты едва мог дышать. Если некому было спасти твою шкуру, то пиши пропало, ты был мёртв. Тебе оставалось лишь с широко раскрытыми глазами смотреть, как твои враги наносят смертельный удар."/>
+	<entry name="EradicateBleedFlavor" value="Хотя иногда Голос очень широко трактовал наши законы физики, ему приходилось им подчиняться. Благодаря этому от заражения Течью всё-таки можно было избавиться. Как ЗЕФОН, так и наши учёные сообразили, что Течь можно вычистить — если тебя устраивал риск её близкого воздействия."/>
+	<entry name="EvasionProcessorFlavor" value="Эрелимы позволяли своему кибернетическому аспекту взять верх — совсем чуточку, — чтобы невредимыми пройти под градом пуль. Они подпускали к себе врагов, полагавших, что вот-вот нанесут удар в ближнем бою. Но ближний бой был стихией эрелимов."/>
+	<entry name="EvasiveManeuversFlavor" value="Пилоты-новички получали инструкцию по стандартным маневрам для ухода от вражеского огня. Лучшие пилоты выбрасывали эту инструкцию в окно. Иногда буквально. Если хочешь выжить в небе — будь непредсказуемым, лети туда, где цель ни за что не будет тебя ожидать."/>
+	<entry name="ExtirpateFlavor" value="Мы были на безопасной дистанции, всё рассчитали и вот-вот должны были убить титана. Все эти факты разбились о безжалостную реальность, когда тварь раскрыла свою пасть, полную щупалец, и издала дикий рёв прямо в нашу сторону. Незримые усики будто опутали наш танк и потащили внутрь мясистого рта. Жить нам оставалось считанные секунды."/>
+	<entry name="EyeOfZephonFlavor" value="ЗЕФОН неусыпно следил за тобой. При зачистке складов отключенные камеры оживали. Сейсмографы отслеживали передвижения войск. Мы знали, как укрываться от беспилотников, но через некоторое время мы уже смотрели на звёзды и гадали — был ли мигающий огонёк далёким газовым шаром или одним из его спутников, который прямо сейчас делал живописные снимки нашего местоположения."/>
+	<entry name="FirstAidDroneFlavor" value="Нельзя дать дрону докторскую степень, но можно снабдить его несколькими сотнями кубиков морфия, упаковкой бинтов и достаточно хорошей программой, чтобы он понимал, что из этого применять. Чаще всего, конечно..."/>
+	<entry name="FoundationOfBloodFlavor" value="Для Мастерицы люди были всего лишь орудием. Хотелось надеяться, что хорошая ремесленница полюбит свои инструменты, но у неё таких привязанностей не возникало. Однажды я предупредил её, что предметы можно заменить, а людей нет. Она дала понять, что не согласна. В очень жестокой форме."/>
+	<entry name="FoundCityFlavor" value="Давным-давно наши предки тратили целые поколения на строительство городов. Для нас такая роскошь была непозволительной. Инженеры закладывали основу для огромных городских пространств при помощи модульных зданий и дронов, позволявших быстро возводить минимальную инфраструктуру. Перестроить всё можно и позже... если война вообще закончится."/>
+	<entry name="FrenzyFlavor" value="Неудивительно, что отчаяние могло любого превратить в машину для убийства. Удивительно, что некоторым бойцам это нравилось. Численное превосходство? Огневое превосходство? Для них это не имело значения. Нахождение рядом с этими берсеркерами могло сохранить тебе жизнь, но с равной вероятностью могло и убить."/>
+	<entry name="GhostWalkFlavor" value="Мне всегда хотелось знать... каково для эрелимов ходить там, где нет отражённого света? Как выглядела Земля? Было ли это место... более мирным? Или поддержание истинной невидимости означало, что тебе предстояло идти сквозь пустоту, ориентируясь только по датчикам? Однажды я спросил одну из них. Она не ответила."/>
+	<entry name="GravitonJammerFlavor" value="Наши исследователи в области оружия случайно выяснили, что гравитоны можно менять для создания дезориентирующего эффекта. Ощущение того, как твои внутренние органы взмывают в воздух, было описано как «в высшей степени некомфортное»."/>
+	<entry name="GroundedFireFlavor" value="Зоркого взгляда оператора не всегда было достаточно. Иногда, чтобы произвести залп, ракетной платформе приходилось зарываться опорами в землю для компенсации отдачи. Выстрел становился более точным. А оператор и машина — более уязвимыми для врага."/>
+	<entry name="HastFlavor" value="«Валькирии» обладали манёвренностью, недостижимой для остальной другой тяжёлой техники. Это потому, что их пилоты могли обходить протоколы безопасности благодаря исключительно силе воли. Отключив защитные меры, операторы «Валькирий» использовали свои экзоскелеты на пределе возможностей. Они ломали свои тела и опустошали свой разум в погоне за победой."/>
+	<entry name="HijackFlavor" value="Когда мы перешли на мехи, танки и другую тяжёлую технику, я думал, Дикарка от нас отстанет. Я был идиотом. Опустошители следовали за ней не просто так. Она с полувзгляда распознавала любую возможность для удачного налёта и знала, как сильно мы удивимся при виде её Опустошителей, атакующих нас на наших же собственных машинах."/>
+	<entry name="HiredHandsFlavor" value="Аристократ создал себе целую сеть полезных связей. Другие командиры и потенциальные правители этого не понимали. Когда ты завоевал лояльность своих людей — доверием или деньгами, — ты мог потребовать ответной услуги в нужный момент, особенно при производстве материалов или вооружения."/>
+	<entry name="HolyBondFlavor" value="Артобстрел накрыл наш бункер, и всё вокруг стало белым-бело. Я уж подумал, что это конец. Но на миг я увидел... мост? Тянущуюся ко мне руку? А потом дым рассеялся. Мы всё ещё были живы, и над нашим подразделением нависал акавит-пробст. «ВАШЕ ВРЕМЯ ЕЩЁ НЕ ИСТЕКЛО!» — возопил он. — «ТОМУ, ЧТО НАВЕРХУ, НУЖНЫ ВАШИ КЛИНКИ!» Пехотинцы вокруг меня возликовали и бросились в атаку. А я только стоял... всё ещё ощущая ладонью прикосновение протянутой руки."/>
+	<entry name="HolyInfernoFlavor" value="Откуда бралось пламя? Серафимы летали не на таком взрывоопасном топливе. Я раз за разом просматривал их чертежи, пытаясь найти ответ. Ответа не было. Единственной зацепкой была издаваемая ими мелодия... всегда менявшая частоту, когда они разверзали врата в преисподнюю. В этом был ответ? Они высвобождали священный огонь с помощью песни?"/>
+	<entry name="HordeMandateFlavor" value="Бесцельный Воитель был тактиком. В отличие от дикарей вроде Опустошителей или взрывников, в которых всегда пылала ярость, он умел ЖДАТЬ. Наблюдать. Послать армию в бой и позволить противнику решить, что от победы его отделяют сантиметры... А затем он отдавал сигнал. Рёв мотора байка. Сигнал к тому, чтобы отринуть все знания и сражаться. До. Смерти."/>
+	<entry name="HymnOfDecayFlavor" value="Когда я впервые ощутил ядовитое касание этого измученного псалтиря, я предположил, что у подобного отравления земли есть какая-то стратегическая цель. Но после стольких сражений... наверняка было что-то ещё. Духовный акт? Или просто детская злоба? Я представил, что обречённые инопланетяне выплёскивают ненависть на наш мир за то, что мы осмелились воспротивиться их геноцидальной миссии. От этой мысли меня пробрало до костей."/>
+	<entry name="IcarusSatelliteFlavor" value="Сеть спутников «Икар» была оружием, разработанным компанией прошлого мира, которое так и не активировали. Мы слишком долго полагали, что это просто сказочка. А потом появилась Вольная Оперативница с недостающим звеном: ключом авторизации, который считал её президентом корпорации И.К.А.Р. Лишь она была в состоянии призвать огневую мощь «Икара» — если бы даже кто-то убил её и отобрал ключ, то ему ни за что не удалось бы пробиться через её слои шифрования на этой чёртовой штуке."/>
+	<entry name="ImmaculateDeliveryFlavor" value="Был ли это материнский инстинкт? Может, она вспоминала, как гуляла с детьми в парке до войны? Возможно, подобный инстинкт порождает силу... силу в мгновение ока перемещать армии на огромное расстояние. Как тогда, когда она перенесла своих сторонников из лагеря в пустошь, зная, что токсичный воздух безопаснее плена."/>
+	<entry name="IncendiaryGrenadeFlavor" value="Пришельцы, машины, люди. При достаточной температуре горело что угодно. Различались только запахи. И крики. Каким бы образом ты ни пришёл в этот мир, сгорание заживо было ужасным способом его покинуть."/>
+	<entry name="InevitableEndFlavor" value="Культист Кр'ла все уши мне прожужжал насчёт того, что он видит «нити жизни», которые, видите ли, «соединяют каждого человека с этим бренным миром». Я сдуру спросил, может ли он перерезать эти нити и избавить нас от всех проблем. Он наклонился, потянул что-то над моей головой, и я рухнул на месте, задыхаясь. «Могу», — ответил он. — «О, ещё как могу»."/>
+	<entry name="InhumanKindnessFlavor" value="Если ты был неосторожен, её тепло, её взгляд, её доброта могли вытянуть из тебя всю жизнь. Но её же сердце могло и вернуть тебе жизнь. Кровь пульсировала, сперва ревя на огромном расстоянии, а затем в твоих венах. В твоих артериях, затем уже в твоём сердце, и жизнь возвращалась. А затем ты мог продолжать сражаться, готовый умереть за неё."/>
+	<entry name="InterferenceProtocolsFlavor" value="Машины делают то, что ты им скажешь, а не то, чего ты от них хочешь. С нужной программой ты мог скормить машинам противника любую занятную ложь. Они будут думать, что верх это низ, друг это враг, а свет это тьма. Конечно же, неприятель разрабатывал соответствующие контрмеры, так что этот метод не был панацеей. Но хотя бы ненадолго уклоняться от вражеских пуль становилось проще."/>
+	<entry name="InternalRepairStationFlavor" value="Группа подающих надежды молодых техников пришла ко мне с планом установки восстановительных станций на наши транспорты «Мародёр». Начальство противилось этому, называя пустой тратой времени. Я намекнул, что рядом с полем боя валялось ещё много запчастей, и если старшие техники так горят заниматься ремонтом, то им найдётся подходящее поручение. Они уступили."/>
+	<entry name="IronWillFlavor" value="Когда решение сдаться начинало привлекать больше, чем продолжение борьбы, нужно было напомнить себе, за что ты сражаешься. Каждый солдат тихо шептал себе что-то своё. Некоторые произносили имя. Эти слова наполняли твою кровь огнём и заставляли снова почувствовать важность борьбы."/>
+	<entry name="JumpPackFlavor" value="Антигравитационная технология значительно превосходила любые возможности ракетных ранцев, удерживавших солдат в воздухе. Ну и что с того. Медлительные воздушные подразделения были лёгкими мишенями. Высокоточные реактивные рывки оставались такими же полезными для смены позиций элитной пехоты. В конце концов, война — это игра про позиционирование."/>
+	<entry name="LiquidDeflectionAugmentFlavor" value="Солдаты Оперативницы не могли уклоняться от каждого выстрела. Она переключилась на уменьшение силы получаемых ударов. «Будьте как вода», — сказал один великий мастер. Немного поэкспериментировав, она смогла превратить это в... буквальное улучшение."/>
+	<entry name="LogisticsExpertsFlavor" value="Припасы, которые везли с застав, вечно «выпадали из грузовиков». Командование устало мириться с потерями и приказало нам собрать спецов, которые следили бы за каждой поставкой. Они из нас все жилы вытягивали. Если они наблюдали за твоей сменой, то не давали тебе глаз сомкнуть, пока каждый кусок металлолома не пересчитают."/>
+	<entry name="MarkTargetFlavor" value="В гуще битвы чертовски полезно иметь наблюдателя, расположенного на каком-нибудь утёсе и указывающего цели. Создаётся такой приятный ритм. Отметить цель. Задать цель. Ликвидировать цель."/>
+	<entry name="MasochismFlavor" value="«Какого хрена ты творишь?!» Я вспомнил, как наорал на одного из этих проклятых эпикурейцев, который шёл над нашей траншеей, принимая на себя очередь пуль, которые даже не должны были никого задеть. «Не беспокойся так... наставник», — сказал он. Что за ерунда... у него не было лица, но, клянусь, он улыбнулся мне. «Мы оба знаем, что боль постоянна. Ты бежишь от неё...» Он дёрнулся, когда ещё одна пуля попала ему в плечо. «Я же ей наслаждаюсь»."/>
+	<entry name="MinelayerFlavor" value="Водители «Колесниц» знали: если начинали свистеть пули, они были не бойцами, а наживкой. Их задача — установить мины в удачных позициях и заманить туда врага. Как только ловушка захлопывалась, они могли дать по газам и уйти, а то, что на них охотилось, становилось лёгкой добычей для всех нас."/>
+	<entry name="MothersFavorFlavor" value="Матери не должны выбирать любимчиков. Но она так делала. Когда Безобразная Мать протягивала руку и проводила пальцами по твоей щеке, ты не возражал против того, что текла кровь. Её любовь замещала тебе память о настоящих родителях, как бы сильно ты за неё ни цеплялся."/>
+	<entry name="MothersScornFlavor" value="Воспоминание. Ребёнок, который боится встретиться с родителем взглядом. Не потому, что тот бьёт ребёнка, а потому, что тот может. Ребёнок боится этого мига, когда любовь родителя — любовь Матери — будет отнята и заменена ледяными словами, громким голосом, ремнём, который вытащили и приготовили к удару."/>
+	<entry name="NanomachineAcceleratorAugmentFlavor" value="Оперативницу вполне устраивало создание... определённых улучшений эффективности. С помощью наномашин она могла повысить выносливость и скорость как у механических, так и у биологических подразделений. Её войска двигались не намного быстрее, но зато проходили гораздо больше."/>
+	<entry name="NeverSurrenderFlavor" value="Задача командира — удерживать войска на поле боя, не дать им разбежаться, если страх возьмёт верх. Слишком многие из нас с радостью сдались бы, означай это ещё один прожитый день. Но верный лидер в верном месте способен пробудить в тебе желание отдать жизнь за лучший мир."/>
+	<entry name="NightmareFlavor" value="Разведка никогда не могла уследить за тем, сколько охотников Фенариса находилось на поле боя. Они не размножались, они просто... не знаю. Призывали собственную копию из другого измерения? Одурачивали всех, даже машины? Понятия не имею. Слишком много монстров и трюков, которые нужно держать в голове. Я просто хотел отдохнуть..."/>
+	<entry name="NitroBoostFlavor" value="«К полному баку — байк в подарок», — говорила работница автомастерской, доставая канистру её так называемой «особой формулы для бродяг». Жаль, что она так... легкомысленно к этому относилась. Это была война, а не гонки по просёлочным дорогам..."/>
+	<entry name="NomadicLifeFlavor" value="Опустошители знают, как покорить дикую местность. Они умело превращают награбленные товары в припасы для лагеря. Если они разбивают лагерь рядом с твоей территорией — берегись. Совсем скоро их стая начнёт переползать через стены."/>
+	<entry name="OrbitalDeploymentFlavor" value="Штурмовики, вылетавшие на орбиту для дальнего развёртывания, возвращались либо перепуганными до усрачки, либо самыми невозмутимыми ублюдками, которых ты когда-либо встречал на поле боя. Кто-то считал, что парящая среди звёзд Земля была самым прекрасным зрелищем на свете. А кто-то ощущал ужас от того, насколько мы крошечные в этой большой чёрной пучине небытия."/>
+	<entry name="PandemoniumFlavor" value="Элохимы издавали разные звуки, но, клянусь, я слышал, как они... мурлыкали от восторга, когда рядом оказывалось ядро сингулярности. Ты его устанавливал, а их хребты изгибались и вытягивались, когда они всасывали его в свой организм. Секундой позже они выстрелят так далеко, что... Боже, ты даже не услышишь взрыва. Только увидишь свет, сияющий вдалеке. А услышишь ты только это чёртово мурлыканье."/>
+	<entry name="ParamedicFlavor" value="Шальной разряд плазмы вырвал кусок мяса прямо из моей задницы. Я смотрел, как санитарка бросилась ко мне под шквальным огнём, держа наготове нанитовый инъектор. Я сказал ей, что адская боль от регенерирующей плоти того не стоит — уж лучше я умру. Она меня всё равно подлатала. Но по её хихиканью я понял — каждая собака теперь услышит, как она буквально спасла мою задницу."/>
+	<entry name="ParticleBarrierFlavor" value="Никакая другая защита не вела себя так, как барьер частиц крипт-архия. Обычно щитам требовался источник энергии — я потерял слишком много солдат, чтобы эта энергия не иссякла. А эти барьеры... ну... просто работали. Может быть, частицы и были источником энергии? Черпали внутреннюю энергию и группировались, чтобы отразить приближающиеся снаряды? Это было... не от мира сего."/>
+	<entry name="ParticleRepairFlavor" value="Частицы, вылетающие у крипт-архия из... из корпуса, творили с машинами настоящие чудеса. Всё было прямо как в сказке. Поток сияющих огоньков, которые возвращали механизмы в рабочее состояние. Электропроводка, сервоприводы, энергетические каналы — они чинили вообще всё."/>
+	<entry name="PathfinderDroneFlavor" value="Так он и достал меня. С помощью херова дрона. Я привык укрываться от любых сенсоров и магии Голоса, но меня накрыл бот размером меньше боевого мелисая. Как глупо. Предвестнику незачем было знать обо всём, что происходило вокруг него, достаточно было точечных фрагментов информации, необходимых для выполнения его задачи."/>
+	<entry name="PestilenceFlavor" value="Ещё один старый военный трюк. Крысы. Чумные повозки. Катапульты с трупами. В конце концов, первым всадником Апокалипсиса был Мор. Когда столкнёшься на поле боя с падшим оролосом и почувствуешь, как тебя душат споры плесени, то будешь хотеть, чтобы чудовище уже просто поскорее тебя раздавило."/>
+	<entry name="PowerSpikeFlavor" value="Техники вписали в руководства к «Вулкану» всевозможные ограничения. Пилоты «Вулкана» знали, как и когда их нарушать. Если превысишь допустимую мощность, то от «Вулкана» буквально начнут отлетать куски. Но в обмен ты мог направить эту мощность во всё его оружие. Конечно, этот дополнительный урон был большим риском, но он часто того стоил."/>
+	<entry name="QuenchResistanceFlavor" value="Мастерица знала, что её обращение с людьми не останется без последствий. Другие лидеры не обратили бы внимание на негативную реакцию или решили бы, что достаточно держать людей в страхе. Она была не настолько глупа. Она с первого дня знала, что насилие неизбежно. И она пользовалась им без малейшего колебания."/>
+	<entry name="QuidProQuoEnergyFlavor" value="Аристократ неустанно следил за энергосистемой и видел, как некоторые... не настолько достойные типы заимствовали энергию для запрещённых проектов. Он позволил им работать — при условии, что в случае нужды они откроют для него свои энергетические хранилища."/>
+	<entry name="QuidProQuoFoodFlavor" value="Все всегда припрятывали еду. Аристократ был единственным, кто мог заставить людей с ней расстаться. Это чем-то напоминало ту старую басню о спасителе, который мог накормить своих последователей бесконечным запасом хлеба и рыбы. Если этот спаситель был настоящим, то, возможно, он и Аристократ говорили на одном языке — языке взаимопомощи и выживания."/>
+	<entry name="QuidProQuoMineralsFlavor" value="Мир торговли минералами был полон колоритных персонажей. Аристократ обращался с ними, как шоумен на сцене. Он задабривал их услугами и подарками, чтобы добиваться благоприятных сделок, когда ему требовались дополнительные ресурсы."/>
+	<entry name="ReallocateFlavor" value="Проведи достаточно времени, копаясь в хламе, и каждый кусок мусора покажется сокровищем. Не знаю, как ему это удавалось, но Романтик знал, как извлечь максимум пользы из всего. Он поручил производителям следовать той же логике: оружие, броня, инструменты — всё это можно повторно использовать для более важной цели."/>
+	<entry name="ReconFlavor" value="Разведчики всех мастей знали, насколько довоенная техника была хороша для рекогносцировки. Снайперы откапывали объективы старых камер, водители хранили на заднем сиденье довоенные сканеры... Лучший следопыт, которого я знал, прибегал к ещё более древним способам. Его фишка: возить с собой свежую еду и выискивать лагеря беженцев. Местные всегда знали больше, чем даже самый зоркий из солдат."/>
+	<entry name="ReconstructFlavor" value="Металл, заживавший как плоть? В последние дни войны всё было как в лихорадочном сне... Я и глазом не повёл, когда титаны ЗЕФОНа сшивали сталь, как сырое мясо. Он же этого и добивался, разве нет? Машины, которые были по-настоящему живыми? Может, чтобы жить по-настоящему, тебе нужно истекать кровью..."/>
+	<entry name="RemoveRoadFlavor" value="Есть у инфраструктуры такая особенность — ты можешь её построить, но потом ей может завладеть твой враг. В трудной ситуации мы отправляли инженеров разбирать дороги, а сами прикрывали их огнём. Если мы правильно разыгрывали карты, наши враги увязали в грязи, беззащитные, готовые к тому, чтобы мы обрушили на них адский дождь."/>
+	<entry name="RepairFlavor" value="Ремонт требовал времени на подготовку, а техник должен был находиться в непосредственной близости от машины. Если ты хотел быстро завести друга, то обеспечивал безопасность тому, кто ремонтировал твою технику. В конце концов, он делал для тебя то же самое. Я до сих пор не могу поверить, что были солдаты, которые жертвовали ремонтниками, как пешками."/>
+	<entry name="SatelliteScanFlavor" value="В редкие моменты бездействия я приходил на спутниковые станции для... несанкционированного использования. Я всё смотрел на руины старого мира. Иногда надеялся, что открою сканер и увижу, что здания всё ещё стоят, а жизнь всё ещё кипит. Я хотел увидеть место, не тронутое войной, место, свободное от смерти."/> 
+	<entry name="SeedOfExtinctionFlavor" value="Я не мог избавиться от этого солдатского инстинкта. Для меня семена кродеуса были просто ещё одним взрывчатым веществом, от которого нужно было бежать на поле боя. Но в казармах ходили разговоры, что семена пришли из другого мира. Что кродеусы соединяли несколько измерений. Звучало это... не безумнее, чем всё остальное в тот вторник."/>
+	<entry name="SereneLesionFlavor" value="Никогда не был поклонником членовредительства. Меня тошнило от зрелища, как фанатики вскрывают себя своими ритуальными сикками. Но смотреть, как Течь отвечает взаимностью, раскрывается и уносит их в пустоту, — вот это был кромешный ужас."/>
+	<entry name="SkyddaFlavor" value="Было вот какое противоречие: операторы «Валькирии» были зациклены на смерти, но в бой шли со щитами. Если они искали грандиозной смерти, зачем пытаться сохранить свои жизни? Но в их логике был и другой аспект: смерть должна прийти в нужное время и в нужном месте. Защищаясь, они делали этот день возможным."/>
+	<entry name="SmokeLauncherFlavor" value="Не знаю, в курсе ли ты, но танки... большие. В том смысле, что они лёгкая мишень. Мы установили на них дымовые гранатомёты, чтобы прикрывать отступление. Многие недоумки, сидящие в «Крестоносце», считали себя неуязвимыми. Недоумки поумнее понимали, когда нужно сбросить дымовуху и свалить."/>
+	<entry name="SoundquakeFlavor" value="Твою мать! Из всех способов, которыми тебя могут прижать, этот... этот ещё и был болезненным. Очень болезненным. Когда гигантский грёбаный монстр направляет на тебя пушку и испускает настолько мощный звук, что аж гравитация усиливается. У меня из ушей текла кровь, казалось, что кости вот-вот сломаются... И при этом на мне не было ни царапины. Мы уже отступали... зачем ему было вот так нас останавливать?"/>
+	<entry name="StickyFoamFlavor" value="Какой же мерзкой была эта дрянь. Она воняла ещё хуже, чем малакимы-уничтожители, которые распыляли её на поле боя. Видать, если ты стреляешь так же хреново, как они, тебе нужны любые технологические преимущества, чтобы сдержать врага."/>
+	<entry name="SupplicationFlavor" value="Иногда инженеры возвращались в казармы пьяными. Одна из них рассказала о работе над пробстом. О коде, написанном на языках, каких она никогда не видела. О функциях, которые заставляли всё вблизи слушать его визгливые поучения. «Нихрена это не код», — сказала она между глотками дерьмового эля. — «Это исконное писание. Чёртовы вселенские заповеди. Эта машина, возможно, ближе к Богу, чем любой из нас когда-либо будет»."/>
+	<entry name="SurvivalTrainingFlavor" value="Сильные солдаты понимали ценность обмена знаниями. Когда выжил так долго, ты уже усвоил тысячу уроков на собственном горьком опыте. Есть смысл передать свои знания следующему поколению. Я надеюсь, что этот принцип всё ещё правдив."/>
+	<entry name="SwallowFlavor" value="Небо было таким тошнотворно тёмно-серым, как бывает во время сильной летней грозы. Я думал, мы уже выиграли битву. Но наше ликование сменилось криками, когда сверкнула молния и сквозь облака спустился кродеус. Он целиком проглотил танк «Покоритель», а затем взмыл над нашей позицией. Даже раскаты грома не могли заглушить скрежет разрываемого металла и крики экипажа."/>
+	<entry name="SystemicResetFlavor" value="«Миленько», — буркнула под нос Вольная Оперативница, когда мы запрыгнули в кузов спасающегося «Мародёра». Завыла сигнализация — что-то попало по нам и заглушила двигатели. Она вбивала в терминал команду за командой. «Классика айтишников — выключить, включить... Другие времена, секрет успеха тот же». Сигнал тревоги умолк, и двигатели транспорта с рёвом вернулись к жизни, позволяя нам умереть в другой день."/>
+	<entry name="SystemOverloadFlavor" value="Крипт-архий владел каким-то протоколом саботажа для... всего на свете. Это было бессмыслицей, наши специалисты рвали на себе волосы. Он работал на оружии, вызывая детонацию боеприпасов, но также приводил к хаосу в компьютерных сетях и заставлял тварей Голоса подавиться собственной мощью. Что это такое? Откуда у него эта сила?"/>
+	<entry name="TacticalNuclearMissileFlavor" value="Было время, когда даже мысль о запуске такого оружия казалась недопустимой. Хорошие люди скорее умрут, чем нажмут на кнопку. Простофили. Они думали, что стоят на пороге апокалипсиса. Когда конец света близок, ускорить процесс уже не кажется таким плохим предложением."/>
+	<entry name="TakeCoverFlavor" value="Я побывал в окопах на стольких полях сражений, что начал разбираться во вкусе грязи. В свежей фермерской почве много влаги. Песок пустыни может соблазнить привкусом соли. А земля, где протекал Голос... от неё хотелось плеваться, пока во рту не пересохнет."/>
+	<entry name="TameAbkluthFlavor" value="Меня тревожило то, как некоторые люди научились приручать абклютов. Если этих тварей можно приручить, значит, их можно... одомашнить, так? Меня передёрнуло при мысли о том, как кормить абклютов на ферме, лечить их, если они заболеют, обсуждать, какой корм им давать. Они были чудовищами. Меньше всего на свете мне хотелось проявлять к ним доброту."/>
+	<entry name="TargetingRelayFlavor" value="Ироничное название. Конечно, целеуказатель повышал твою точность. Но при этом ты сам становился более приоритетной целью."/>
+	<entry name="TheDeepWaysFlavor" value="Ученики Кр'ла были готовы всех провести по тем ужасным дорогам, ради которых они себя изувечили. Их нечестивый бог знал, как сократить недельное путешествие до нескольких минут. Телепортируясь из пункта А в пункт Б, ты ощущал каждую мучительную секунду."/>
+	<entry name="TheFogFlavor" value="Это была смертельная ловушка. Но нас всё равно туда отправили. Даже разгоняемый нашими фонарями туман проникал во все отверстия и обжигал внутренности. Акрины дразнили нас издалека из пелены, смеялись над тем, как плесневелый воздух, от которого они сами светились силой, заставлял нас захлёбываться собственной желчью."/>
+	<entry name="TheOutsiderFlavor" value="Из какого бы тела ни исходил Голос, его нога никогда не ступала на землю. Однако у него был слуга. Трибунал шептал о нём, говоря нам, что его отделяет от нас лишь тонкая завеса. Я знал, что троице хотелось его впустить — они думали, что это подарок для нашего мира. Я... выразил несогласие. Громко."/>
+	<entry name="ThereIsHopeFlavor" value="Надежда. Романтик не заставил меня поверить в эту глупость. Он не мог описать мир после войны, но всё равно в него верил. В этом была какая-то сила. Реалисты вроде меня видят лишь то, что у них прямо перед глазами. А он учил своих солдат смотреть в будущее."/>
+	<entry name="ThrashEmFlavor" value="Опустошителям было плевать, что крутить огромной стрелой крана с болтающимся на ней ковшом было опасной затеей. Они всегда всё делали по-своему — дикостью они могли соперничать с чудовищами, а убийственностью — с машинами. «Пустынник» был своего рода криком в ночи о том, что от них так легко не отделаться."/>
+	<entry name="TimeShiftFlavor" value="Я нечасто видел, как это происходит, но сила, которую задействовали критерии, искажала само время. В такие редкие моменты эта громадины, оснащенные богоподобным генератором энергии, стремительно пролетали над землёй. Ничто не должно мчаться так быстро — я боялся, что это будет слишком полезно, слишком эффективно. Что за искажение времени придётся заплатить."/>
+	<entry name="TransubstantiationFlavor" value="«Есть одно слово», — шептала фанатичка мне на ухо, прижимая нож к моей груди. — «Ученик в роли Голоса произносит это слово, но его сила и грация принадлежат Голосу...» Я отталкивал её что было силы. «...Течь и Тело...» Её клинок резал мою кожу. «Вместе с Механизмом и Машиной...» Я наконец отбросил её прочь, но было слишком поздно, её глаза уловили цвет моей крови. «Принадлежат! Голосу!»"/>
+	<entry name="TuneFlavor" value="К сожалению, массовое производство оружия приводило к изъянам. В полевых условиях инженер мог внести краткосрочные исправления, которые заставляли твою винтовку стрелять так, будто это воплощение самой судьбы. Затем физика брала своё, и ты вновь оставался со стандартизированным хламом."/>
+	<entry name="TunnelFlavor" value="Лишь желание услышать зов Голоса могло вернуть любое существо к земле. Можешь представить, как глубоко уходили копатели? Насколько велико было давление в глубинах? А когда они с рёвом выскакивали на поверхность, давление ослабевало и их внутренности расширялись, готовые извергнуть кислоту, способную растворить человека заживо..."/>
+	<entry name="UnearthlyPassageFlavor" value="Культисты Голоса учились пронзать перегородки между мирами. Ты знал, что сейчас произойдёт, когда тебя окутывал приторный запах гниющей плоти и небо начинало мерцать. Огромная клешня прорезала сам воздух. У тебя были мгновения на бегство, а если ты слышал сдавленный шёпот избранника Узодай, то оставались секунды до того, как он сдерёт с тебя кожу заживо."/>
+	<entry name="UnholyHasteFlavor" value="Кр'ла не очень понимал концепцию «отдыха». Когда его ученики приказывали тебе шевелиться, ты ШЕВЕЛИЛСЯ. Тобой будто овладевала какая-то другая сила, заставлявшая снова хвататься за оружие, независимо от твоей измотанности."/>
+	<entry name="UzhodaisZealFlavor" value="Лучший способ победить избранника Узодай — это сразиться с ним один на один. Окружи его, и он станет только более опасным, более стойким к ударам. Эта тварь, казалось, подпитывалась страхом собравшихся людей, но если тебе хватит смелости встретиться с ней лицом к лицу, то она падёт от твоего клинка."/>
+	<entry name="ValhallaFlavor" value="Когда солдаты гибли рядом с «Валькирией», они... соединялись с чем-то, с какой-то эфемерной сущностью между нашим миром и... другим. Не исключено, что с загробным. Она черпала силу в этой связи — наши учёные предположили, что это было что-то вроде эйфории. Но если ты увидишь, как она сражается в этом состоянии... то тоже уверуешь в загробную жизнь."/>
+	<entry name="VorodaisGiftFlavor" value="Встань рядом с клетью левиафана, и услышишь перешёптывания, даже если ты там один. Культисты считают, что это Вародай, воплощение Голоса, пытающееся проникнуть в наш мир. Оно побуждает двигаться проворнее, убивать быстрее, собирать больше душ... больше плоти. Порождать чудовищ, в сравнении с которыми левиафан похож на домашнюю зверюшку."/>
+	<entry name="WhispersOfHarmonyFlavor" value="Голос знал тёмные секреты восстановления плоти и металла. Слышавшие его шепот могли понять большую его часть и ещё легче подчинять его влиянию ещё больше мыслящих существ. Что ещё нужно, кроме обещания безопасности? Голос пообещал бы что угодно, даже зная, что это ложь."/>
+	<entry name="WhispersOfTheVoiceFlavor" value="Голос, должно быть, забавлялся нашими отчаянными попытками исследовать его суть. Он нашёптывал Трибуналу о различных вариантах будущего, о возможностях, которые человечество не рассматривало. Может быть, именно это он делал и с акринами — может быть, именно поэтому они явились уничтожить наш мир."/>
+	<entry name="WitheringBreathFlavor" value="Левиафаны вдыхают воздух так же, как и мы. Но когда они открывают свои гигантские пасти и выдыхают, — а выдыхают они невероятно медленно, — их нечеловеческие внутренности опустошают землю вокруг них. Даже от самого мерзкого человеческого существа может быть польза. А всё, что делают эти твари, — отнимают наш воздух и взамен ломают наши тела."/>
+	<entry name="WordsOfTheProphetFlavor" value="Превращение врага в друга — всегда благо, но Пророк обладал талантом заставлять солдат отвергать старых хозяев. Он знал, что такой отказ выступает мощным сигналом. Одно дело, когда твои последователи приветствуют новых прихожан, и совсем другое — когда они восхваляют твоего лидера и осуждают своих прежних."/>
+</language>

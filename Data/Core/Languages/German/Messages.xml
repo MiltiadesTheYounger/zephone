@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="BetaStart" value="Bitte melde alle Fehler unter #zephon-beta und #zephon-beta-feedback auf dem offiziellen „Proxy Studios“-Discord-Server.<br/><br/>Denke daran, dass du eine Verschwiegenheitserklärung akzeptiert hast und Diskussionen zum Spiel nur in diesen Kommunikationskanälen erlaubt sind."/>
+	<entry name="BetaStartTitle" value="Willkommen zur Beta"/>
+	<entry name="CallDeclined" value="Anruf abgelehnt"/>
+	<entry name="ConfirmDelete" value="Bist du sicher, dass du „%1%“ löschen willst?"/>
+	<entry name="ConfirmDisband" value="Bist du sicher, dass du „%1%“ auflösen willst?"/>
+	<entry name="ConfirmDismantle" value="Bist du sicher, dass du „%1%“ zerlegen willst?"/>
+	<entry name="ConfirmOverwrite" value="Bist du sicher, dass du „%1%“ überschreiben willst?"/>
+	<entry name="ConfirmRemoveItem" value="Bist du sicher, dass du „%1%“ zerstören willst?"/>
+	<entry name="ConfirmRestoreDefaults" value="Bist du sicher, dass du die Standardeinstellungen von %1% wiederherstellen willst?"/>
+	<entry name="ConfirmSurrender" value="Bist du sicher, dass du aufgeben willst?"/>
+	<entry name="ConnectingToServer" value="Verbinde mit dem Server …"/>
+	<entry name="ConnectionLost" value="Verbindung verloren."/>
+	<entry name="DemoEndTitle" value="Danke fürs Spielen"/>
+	<entry name="DemoEndDefault" value="Damit ist die Demo beendet.<string name='Messages/DemoEndShared'/>"/>
+	<entry name="DemoEndLost" value="Du wurdest besiegt. Erneut versuchen?<string name='Messages/DemoEndShared'/>"/>
+	<entry name="DemoEndShared" value="<br/><br/>If you enjoyed playing, please wishlist and follow ZEPHON on Steam.
+	<br/><br/>If you would like to leave us feedback, we welcome you to post on the Steam forums or on the Proxy Studios Discord."/>
+	<entry name="DemoStart" value="This is an early look at an in-development alpha version of the game. As such, there will be bugs, imbalances and missing assets.
+	<br/><br/>The demo includes single player and multiplayer, but is limited to up to four player on a medium-sized map. 5 different leaders are available for selection and 3 NPC factions are present. Research progress is limited to the first 6 tech tiers.
+	<br/><br/>The full version will contain larger maps, advanced game setup options, 8 leaders, over 50 units spread across 10 tiers of research, more terrain features and quests, an end-game grand finale, unlockable game modifiers, achievements, multiple languages as well as full workshop support."/>
+	<entry name="DemoStartTitle" value="Willkommen zur Demo"/>
+	<entry name="Error" value="Fehler"/>
+	<entry name="GameLoaded" value="Spiel geladen"/>
+	<entry name="GameSaved" value="Spiel gespeichert"/>
+	<entry name="GraphicsDriverOutdated" value="Dein Grafiktreiber ist veraltet.<br/><br/>Um Stabilität und Leistung zu verbessern, aktualisiere bitte deinen Grafiktreiber. Besuche dazu die Support-Website deines Grafikkartenherstellers."/>
+	<entry name="IncompatibleVersion" value="Inkompatible Spielversion."/>
+	<entry name="Info" value="Info"/>
+	<entry name="Kicked" value="Du wurdest vom Server gekickt."/>
+	<entry name="MasterServerUnreachable" value="Verbindung zum Master-Server konnte nicht hergestellt werden."/>
+	<entry name="MissingDLC" value="Fehlender DLC."/>
+	<entry name="ModUploading" value="Hochladen von Mod …"/>
+	<entry name="ModUploadComplete" value="Mod hochgeladen.<br/><br/>Du kannst die Mod-Details öffnen, um die Beschreibung zu ändern, weitere Bilder und Videos hinzuzufügen oder die Sichtbarkeit des Mods im Steam Workshop einzustellen."/>
+	<entry name="ModUploadFailed" value="Hochladen von Mod fehlgeschlagen.<br/><br/>Vergewissere dich, dass Preview.png / Preview.jpg nicht größer als 1 MB ist und dass du die nötigen Rechte hast, um diesen Mod hochzuladen."/>
+	<entry name="NoFreeSlots" value="Auf dem Server ist kein freier Platz verfügbar."/>
+	<entry name="NoGames" value="Keine Spiele zum Beitreten verfügbar."/>
+	<entry name="NoMods" value="Keine Mods installiert."/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Keine gültigen Ziele"/>
+	<entry name="PlayerChangedSlots" value="%1% wurde von %2% auf %3% geändert."/>
+	<entry name="PlayerJoined" value="%1% ist beigetreten."/>
+	<entry name="PlayerLeft" value="%1% ist gegangen."/>
+	<entry name="PleaseEnterYourName" value="Bitte gib deinen Namen ein."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Bitte warten"/>
+	<entry name="PreviewStart" value="Bitte beachte, dass wir vor der Veröffentlichung noch weitere Tests durchführen, Fehler beheben und die endgültige Übersetzung implementieren. Es kann also sein, dass du auf Fehler stößt, die dich aber hoffentlich nicht am Fortschritt hindern. Lass uns wissen, wenn du auf größere Probleme stößt, und wir werden sie innerhalb von 24 Stunden beheben.<br/><br/>Du kannst gerne das Debug-Panel [Strg+D] benutzen, wenn du Cheats aktivieren möchtest (z. B., um alle Mutatoren freizuschalten).<br/><br/>Bitte denke daran, dass du bis zum 4. November um 06:00 Uhr PT / 14:00 Uhr MESZ unter Embargo stehst.<br/><br/>Der Steam-Release findet am 8. November um 06:00 Uhr PT / 14:00 Uhr MESZ statt."/>
+	<entry name="PreviewStartTitle" value="Willkommen zur Vorschau"/>
+	<entry name="ReceivingInfo" value="Infos erhalten …"/>
+	<entry name="RestartRequired" value="Du musst das Spiel neu starten, damit die Änderungen wirksam werden."/>
+	<entry name="RetrievingServerList" value="Rufe Serverliste ab …"/>
+	<entry name="ScreenShotSaved" value="Bildschirmfoto gespeichert"/>
+	<entry name="SetBinding" value="Drücke eine neue Tastenkombination, um sie mit %1% zu verbinden."/>
+	<entry name="ScreenShotSaveError" value="Fehler beim Speichern des Bildschirmfotos"/>
+	<entry name="ServerUnreachable" value="Die Verbindung zum Server konnte nicht hergestellt werden.<br/><br/>Um die Verbindung zu verbessern, stelle sicher, dass du deine Firewalls deaktiviert und UPnP auf deinem Router aktiviert hast oder den TCP-Port %1% auf dein lokales System weitergeleitet hast."/>
+	<entry name="SelectTarget" value="Ziel auswählen"/>
+	<entry name="TerminatedWithDisableMods" value="Die Mods wurden wegen eines Absturzes deaktiviert. Besuche den Mods-Bildschirm, um sie wieder zu aktivieren."/>
+	<entry name="TermsAndConditions" value="Geschäftsbedingungen"/>
+	<entry name="TurnTimerPaused" value="%1% pausierter Timer."/>
+	<entry name="TurnTimerUnpaused" value="%1% nicht pausierter Timer."/>
+	<entry name="UnboundControl" value="Belegung von %1% entfernt."/>
+	<entry name="Warning" value="Warnung"/>
+	<entry name="WorldSettingsChanged" value="Welt-Einstellungen geändert."/>
+</language>
