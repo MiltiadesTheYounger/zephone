@@ -34,9 +34,9 @@
 	<entry name="ChangePlayerToOwner" value="&lt;icon texture='GUI/Bullet'/&gt;Повертає початкову сторону%1%"/>
 	
 	<!-- %1% percentage amount, %2% conditional from Modifiers.xml -->
-	<entry name="SourceWeaponDamage" value="&lt;icon texture='GUI/Bullet'/&gt;Наносить %1% атакувального урона від зброї%2%"/>
+	<entry name="SourceWeaponDamage" value="<icon texture='GUI/Bullet'/>Завдає %1% атак шкодою, отриманою від зброї%2%"/>
 	
 	<!-- %1% conditional from Modifiers.xml, %2% details -->
-	<entry name="WeaponDamage" value="&lt;icon texture='GUI/Bullet'/&gt;Наносить урон%1%%2%"/>
+	<entry name="WeaponDamage" value="&lt;icon texture='GUI/Bullet'/&gt;Завдає шкоду%1%%2%"/>
 	
 </language>
