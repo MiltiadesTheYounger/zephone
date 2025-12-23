@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="Frachtplätze erforderlich"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="Ladungen"/>
+	<entry name="BuildingSlotsDescription" value="Die Anzahl der Gebäude, die auf einem Feld gebaut werden können."/>
+<entry name="Charges" value="Ladungen"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="Chips"/>
 	<entry name="ChipsDescription" value="Wird für die Produktion und Wartung von Cyber-Einheiten verwendet."/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="Die Menge an Dimensionsechos, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="Typenkosten verdoppeln"/>
+	<entry name="DuplicateTypeCostLimit" value="Limit für doppelte Typenkosten"/>
 	<entry name="Energy" value="Energie"/>
 	<entry name="EnergyDescription" value="Wird für die Wartung von Gebäuden sowie die Wartung und Produktion von Spezialeinheiten verwendet."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="Sichtlinie"/>
 	<entry name="IgnoreLineOfSight+" value="Ignoriert"/>
-	<entry name="IgnoreZoneOfControl" value="Bewegung durch feindliche Einheiten"/>
+	<entry name="IgnoreZoneOfControl" value="Bewegung durch feindliche Einheiten und deren Kontrollzone"/>
 	<entry name="IgnoreZoneOfControl+" value="Ermöglicht"/>
-	<entry name="Influence" value="Einfluss"/>
+	<entry name="HitpointsPerGroupMember" value="Lebenspunkte pro Gruppenmitglied"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="Einfluss"/>
 	<entry name="InfluenceDescription" value="Wird zum Erwerb und zur Erhaltung von Stadtfeldern, zum Auslösen von Spezialfähigkeiten, zur Rekrutierung von Heldeneinheiten und zum Kauf von Gegenständen und Ressourcen verwendet."/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Einflusskosten"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Loyalitäts-Unterhalt"/>
 	<entry name="LoyaltyUpkeepDescription" value="Die Menge an Loyalität, die jeden Zug benötigt wird, um das Wesen zu erhalten."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Max. Trefferpunkte pro Gruppenmitglied"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="Moral"/>
 	<entry name="MoraleDescription" value="Der psychologische Zustand der Einheit. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="Die Moral regeneriert sich, wenn die Einheit im vorherigen Zug keinen Schaden erlitten hat."/>

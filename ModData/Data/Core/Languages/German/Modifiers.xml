@@ -3,9 +3,11 @@
 	<!-- Combined with Attributes.xml or Effects.xml entries.
 	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
 			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingMechanicalUnit" value=" nach dem Angriff auf die mechanische Einheit"/>
 	<entry name="AfterAttackingIfNotMoved" value=" nach dem Angriff, wenn sich die Einheit nicht bewegt hat"/>
 	<entry name="AgainstBiologicalUnits" value=" gegen biologische Einheiten"/>
 	<entry name="AgainstFlyingUnits" value=" gegen fliegende Einheiten"/>
+	<entry name="AgainstFortifications" value=" gegen Befestigungen"/>
 	<entry name="AgainstLargeUnits" value=" gegen große Einheiten"/>
 	<entry name="AgainstNonAdjacentUnits" value=" gegen nicht benachbarte Einheiten"/>
 	<entry name="AgainstNonFlyingUnits" value=" gegen nicht fliegende Einheiten"/>
@@ -23,8 +25,8 @@
 	<entry name="ArchaiConstruct" value=" außer bei Heilung von <string name='Actions/ParticleRepair'/>"/>
 	<entry name="Assassinate" value=" gegen feindliche Einheiten im Bereich, wenn das Ziel stirbt"/>
 	<entry name="AtMostPerAttack" value=" höchstens pro Angriff"/>
-	<entry name="AtRank18OrHigher" value=" bei Rang 7 oder höher"/>
-	<entry name="AtRank14OrHigher" value=" bei Rang 3 oder höher"/>
+	<entry name="AtRank18OrHigher" value=" ab Rang 7 oder höher"/>
+	<entry name="AtRank14OrHigher" value=" ab Rang 3 oder höher"/>
 	<entry name="CannibalizeMachines" value=" für Nahkampfangriffe gegen mechanische Einheiten"/>
 	<entry name="CyberInfantryUpgrade" value=" für jeden Synthetischen Drucker in der Stadt"/>
 	<entry name="DreamPrison" value=" gegen anvisierten, kaputten Feind (kein Hauptquartier)"/>
@@ -40,13 +42,11 @@
 	<entry name="ForActions" value=" für Aktionen"/>
 	<entry name="ForAdministrationComplex" value=" für <string name='Buildings/Influence'/>"/>
 	<entry name="ForAlliedUnits" value=" für verbündete Einheiten"/>
-	<entry name="ForAnchoriteUnits" value=" für Einsiedler-Einheiten"/>
-	<entry name="ForChieftessUnits" value=" für Stammesführerin-Einheiten"/>
 	<entry name="ForConstructionYard" value=" für <string name='Buildings/Construction'/>"/>
 	<entry name="ForControllingCity" value=" innerhalb der Stadt"/>
 	<entry name="ForCyberUnits" value=" für Cyber-Einheiten"/>
+	<entry name="ForCyberTechnologies" value=" für Cyber-Technologien"/>
 	<entry name="ForCyberProductionBuildings" value=" für Cyber-Produktionsgebäude"/>
-	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" für Cyber-Einheiten beim Angriff aus Wäldern oder Ruinen"/>
 	<entry name="ForEnemyGroundUnits" value=" für feindliche Bodeneinheiten"/>
 	<entry name="ForGroundUnits" value=" für Bodeneinheiten"/>
 	<entry name="ForHumanBiologicalUnits" value=" für menschliche biologische Einheiten"/>
@@ -65,9 +65,10 @@
 	<entry name="ForStationedMechanicalUnitEachTurn" value=" für stationierte mechanische Einheit pro Zug"/>
 	<entry name="ForStationedUnit" value=" für stationierte Einheit"/>
 	<entry name="ForUnits" value=" für Einheiten"/>
+	<entry name="ForVoiceUnits" value=" für Stimmen-Einheiten"/>
 	<entry name="ForXTurns" value=" für %1%"/>
-	<entry name="ForZephonUnits" value=" für ZEPHON-Einheiten"/>
 	<entry name="FromCargoOnDeath" value=" von Fracht bei Tod"/>
+	<entry name="FromFireDamage" value=" durch Feuerschaden"/>
 	<entry name="FromGenerousContacts" value=" von freigiebigen Kontakten"/>
 	<entry name="FromHammerheads" value=" von Hammerheads"/>
 	<entry name="FromTargetTile" value=" vom Zielfeld"/>
@@ -89,6 +90,7 @@
 	<entry name="IndependentUpgrade2" value=" wenn die Bevölkerung zwischen 7 und 12 liegt"/>
 	<entry name="InternalRepairStation" value=" zu transportierten Einheiten"/>
 	<entry name="LoyaltyUpgrade" value=" jeden Zug pro <string name='Buildings/Loyalty'/> in der Stadt"/>
+	<entry name="OfFlagshipProductOnDeath" value=" von <string name='Actions/PlatinumScionAffinityUpgrade2'/><string name='Modifiers/OnDeath'/>"/>
 	<entry name="OfTargetAlliedUnit" value=" der anvisierten verbündeten Einheit"/>
 	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" der anvisierten feindlichen Einheit (kein Titan, kein Held, kein Hauptquartier) mit begrenzter Moral und weniger als 50 % Trefferpunkte"/>
 	<entry name="OfTargetEnemyAbkluth" value=" des Zielfeinds Abkluth"/>
@@ -98,6 +100,7 @@
 	<entry name="OnCliffs" value=" bei Klippen"/>
 	<entry name="OnCoast" value=" an der Küste"/>
 	<entry name="OnDeath" value=" beim Tod"/>
+	<entry name="InForestRuinSmokeScreen" value=" in Wäldern, Ruinen oder Rauchwänden"/>
 	<entry name="OnHeight3" value=" bei Höhe 3"/>
 	<entry name="OnHeight4" value=" bei Höhe 4"/>
 	<entry name="OnMoraleLossFromDeath" value=" bei Moralverlust durch Tod"/>
@@ -118,6 +121,7 @@
 	<entry name="ResearchUpgrade" value=" in Wäldern"/>
 	<entry name="SingularityCoresUpgrade" value=" pro Quanten-Manipulator in jeder eigenen Stadt"/>
 	<entry name="TacticalVisor" value=" wenn neben anderen verbündeten Ishim-Vollstreckern stehst"/>
+	<entry name="TacticalInsertion" value=" auf Zielwald, -Ruine oder -Rauchwand ohne feindliche Stadt"/>
 	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" feindliche anvisierte Einheit (kein Titan, kein Held, kein Hauptquartier)"/>
 	<entry name="TargetNonTitanNonFortificationUnit" value=" anvisierte Einheit (kein Titan, keine Befestigung)"/>
 	<entry name="TargetUnit" value=" Zieleinheit"/>
@@ -136,13 +140,18 @@
 	<entry name="ToAlliedNonLargeUnitsInTheArea" value=" zu verbündeten Einheiten (nicht groß) in der Region"/>
 	<entry name="ToAlliedUnits" value=" zu verbündeten Einheiten"/>
 	<entry name="ToAlliedUnitsEachTurn" value=" zu verbündeten Einheiten pro Zug"/>
+	<entry name="ToAlliedUnitsInTheArea" value=" zu verbündeten Einheiten in der Region"/>
 	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" zu verbündeten Einheiten auf Ziel und angrenzenden Feldern"/>
 	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" zu verbündeten Einheiten auf Feldern im Zielbereich"/>
+	<entry name="ToAnchorite" value=" zum Einsiedler"/>
 	<entry name="ToAttackedEnemy" value=" zum angegriffenen Feind"/>
 	<entry name="ToAttacker" value=" zum Angreifer"/>
+	<entry name="ToBuildingsOnTargetAlliedCityTile" value=" zu Gebäuden auf dem Zielfeld der verbündeten Stadt"/>
 	<entry name="ToBiologicalEnemy" value=" zum biologischen Feind"/>
 	<entry name="ToBiologicalNonTitanEnemy" value=" zum biologischen Feind (keine Titanen)"/>
 	<entry name="ToBiologicalUnits" value=" zu biologischen Einheiten"/>
+	<entry name="ToChieftess" value=" zu Stammesführerin"/>
+	<entry name="ToChieftessAnchoriteZephon" value=" zu Stammesführerin, Einsiedler und ZEPHON"/>
 	<entry name="ToCity" value=" zur Stadt"/>
 	<entry name="ToEnemy" value=" zum Feind"/>
 	<entry name="ToEnemyCity" value=" zur feindlichen Stadt"/>
@@ -152,45 +161,58 @@
 	<entry name="ToMechanicalEnemy" value=" zum mechanischen Feind"/>
 	<entry name="ToMechanicalNonTitanEnemy" value=" zum mechanischen Feind (keine Titanen)"/>
 	<entry name="ToMeleeAttackers" value=" zu Nahkampf-Angreifern"/>
+	<entry name="ToNonHeadquartersBuildingsOnTargetAlliedCityTile" value=" zu Gebäuden (kein Hauptquartier) auf dem Zielfeld der verbündeten Stadt"/>
 	<entry name="ToNonLargeEnemy" value=" zu Feinden (nicht groß)"/>
 	<entry name="ToNonLargeAlliedUnits" value=" zu verbündeten Einheiten (nicht groß)"/>
 	<entry name="ToNonLowPowerWeapon" value=" zu Waffen (keine niedrige Leistung)"/>
 	<entry name="ToNonTitanEnemy" value=" zu Feinden (kein Titan)"/>
 	<entry name="ToSourceUnit" value=" zur Quelleinheit"/>
+	<entry name="ToSpawnedUnit" value=" zu erschienener Einheit"/>
 	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" zu Einheiten und benachbarten verbündeten biologischen Einheiten"/>
+	<entry name="ToUnitAndAdjacentAlliedUnits" value=" zu Einheiten und benachbarten verbündeten Einheiten"/>
 	<entry name="ToTargetAlliedBiologicalUnit" value=" zur anvisierten verbündeten biologischen Einheit"/>
 	<entry name="ToTargetAlliedCity" value=" zur anvisierten verbündeten Stadt"/>
+	<entry name="ToTargetAlliedCherubimTitan" value=" zur anvisierten verbündeten <string name='Units/CherubimTitan'/>-Einheit"/>
 	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" zur anvisierten verbündeten beschädigten biologischen Einheit"/>
 	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" zur anvisierten verbündeten beschädigten mechanischen Einheit"/>
 	<entry name="ToTargetAlliedDamagedUnit" value=" zur anvisierten verbündeten beschädigten Einheit"/>
 	<entry name="ToTargetAlliedMechanicalUnit" value=" zur anvisierten verbündeten mechanischen Einheit"/>
 	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" zur anvisierten verbündeten nicht-augmentierten Einheit (nicht groß)"/>
+	<entry name="ToTargetAlliedNonLargeUnit" value=" zur anvisierten verbündeten Einheit (nicht groß)"/>
+	<entry name="ToTargetAlliedNonTitanUnit" value=" zur anvisierten verbündeten Einheit (kein Titan)"/>
+	<entry name="ToTargetAlliedOutpost" value=" zum anvisierten verbündeten Außenposten"/>
 	<entry name="ToTargetAlliedUnit" value=" zur anvisierten verbündeten Einheit"/>
 	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" zur anvisierten verbündeten Einheit mit Fernkampfwaffen"/>
 	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" zur anvisierten verbündeten Einheit mit <string name='Traits/MothersFavor'/>"/>
 	<entry name="ToTargetAndAdjacentAlliedUnits" value=" zum Ziel und benachbarten verbündeten Einheiten"/>
 	<entry name="ToTargetBiologicalUnit" value=" zur anvisierten biologischen Einheit"/>
 	<entry name="ToTargetEnemyCity" value=" zur anvisierten feindlichen Stadt"/>
+	<entry name="ToTargetEnemyNonLargeUnit" value=" zur anvisierten feindlichen Einheit (nicht groß)"/>
 	<entry name="ToTargetEnemyNonTitanUnit" value=" zur anvisierten feindlichen Einheit (kein Titan, kein Held)"/>
 	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" zur feindlichen anvisierte Einheit (kein Titan, kein Held, kein Hauptquartier)"/>
 	<entry name="ToTargetEnemyUnit" value=" zur anvisierten feindlichen Einheit"/>
+	<entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" zur anvisierten feindlichen Einheit sowie links und rechts des Zielfeldes mit halber Angriffskraft"/>
 	<entry name="ToTargetEnemyZephonUnit" value=" zur anvisierten feindlichen ZEPHON-Einheit"/>
 	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" zur anvisierten feindlichen ZEPHON-Einheit (kein Titan)"/>
 	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" zur anvisierten feindlichen ZEPHON-Einheit (kein Titan, kein Hauptquartier)"/>
+	<entry name="ToTargetOwnUnit" value=" zur anvisierten eigenen Einheit"/>
 	<entry name="ToTargetOwnBiologicalUnit" value=" zur anvisierten eigenen biologischen Einheit"/>
 	<entry name="ToWeapons" value=" zu Waffen"/>
+	<entry name="ToZephon" value=" zu ZEPHON"/>
 	<entry name="UnitsOnDeath" value=" Einheiten beim Tod"/>
 	<entry name="UzhodaisZeal" value=" für jede benachbarte feindliche Einheit"/>
 	<entry name="VoiceAircraftUpgrade" value=" für produzierte Einheiten für jedes Tribut an die Morgendämmerung in jeder eigenen Stadt"/>
 	<entry name="VoiceVehiclesUpgrade" value=" wird beim Tod als Produktion bei jedem Lobgesang der Dämmerung in der Stadt gewonnen"/>
 	<entry name="VoiceInfantryUpgrade" value=" für produzierte Einheiten pro Mitternachtschor in der Stadt"/>
+	<entry name="WhenAttackingFromForestsOrRuins" value=" beim Angriff aus Wäldern oder Ruinen"/>
 	<entry name="WhenAttackingFromHighGround" value=" beim Angriff von oben"/>
 	<entry name="WhenDurationRunsOut" value=" wenn die Dauer abläuft"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" wenn die feindliche Bodeneinheit auf dem Spielfeld stehen bleibt"/>
 	<entry name="WhenFirstCaptureFeature" value=" wenn du als Erster einen Außenposten eroberst"/>
 	<entry name="WhenKillingBiologicalUnit" value=" beim Töten einer biologischen Einheit"/>
 	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" beim Töten einer biologischen Einheit (nicht deformierend)"/>
 	<entry name="WhenKillingUnit" value=" beim Töten einer Einheit"/>
-	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" wenn die feindliche Bodeneinheit auf dem Spielfeld stehen bleibt"/>
+	<entry name="WhenUnitMoves" value=" wenn sich die Einheit bewegt"/>
 	<entry name="WhenTakingDirectDamage" value=" wenn du direkten Schaden erleidest"/>
 	<entry name="WhileAbove2Loyalty" value=" bei mehr als 2 Loyalität"/>
 	<entry name="WhileAbove8Loyalty" value=" bei mehr als 8 Loyalität"/>

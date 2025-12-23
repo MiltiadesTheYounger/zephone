@@ -8,20 +8,31 @@
 	<entry name="AccumulateEnergy" value="Sammle Energie<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateMinerals" value="Sammle Mineralien<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateResearch" value="Sammle Forschung<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateResearchWithTurnLimit" value="Sammle Forschung innerhalb von %3% Zügen<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateSingularityCores" value="Sammle Singularitätskerne<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateSingularityCoresWithTurnLimit" value="Sammle Singularitätskerne innerhalb von %3% Zügen<nbsp/>(%1%/%2%)"/>
 	<entry name="ArrangeInventory" value="Ordne alle 6 IKAR-Muster im Inventar eines Helden richtig an"/>
 	<entry name="CaptureErelimPriest" value="Fange den Erelim-Priester im Ödland"/>
 	<entry name="CaptureScientist" value="Fange den Wissenschaftler im Ödland"/>
 	<entry name="CaptureUnit" value="Erfasse %2%"/>
+	<entry name="ConstructBarracks" value="Kaserne bauen"/>
+	<entry name="CreateCaitiffWithPerfectForever" value="Erstelle <string name='Units/Caitiff'/> mit <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)"/>
+	<entry name="DefeatHeartlessArtificer" value="Besiege die <string name='Factions/HeartlessArtificer'/>"/>
+	<entry name="EstablishContacts" value="Kontakte knüpfen<nbsp/>(%1%/%2%)"/>
+	<entry name="ExecuteDiplomaticActions" value="Führe diplomatische Aktionen aus<nbsp/>(%1%/%2%)"/>
 	<entry name="ExecuteOrder" value="Führe Befehl %1% aus"/>
 	<entry name="ExecuteOrderWithHonorableAristocrat" value="Führe Befehl %1% mit <string name='Factions/HonorableAristocrat'/> aus"/>
 	<entry name="ExecuteOrderWithEngineers" value="Führe Befehl %1% mit <string name='Units/Engineer'/> aus"/>
 	<entry name="ExecuteOrderWithEngineersWithinTurns" value="Führe Befehl %1% mit <string name='Units/Engineer'/> in %4% Zügen aus"/>
 	<entry name="ExecuteOrderWithinTurns" value="Führe Befehl %1% in %4% Zügen aus"/>
+	<entry name="ExecutePlayerAbilityProductRecall" value="Führe Spielerfähigkeit aus <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)"/>
 	<entry name="ExecuteQuantumReflector" value="Beanspruche und verwende %1% mit der Heldeneinheit"/>
+	<entry name="ExecuteTimeOutOfJoint" value="Ausführen <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)"/>
 	<entry name="FightChieftessForReyndverra" value="Kämpfe gegen die Stammesführerin um das Recht auf Reyndverra"/>
+	<entry name="FormTradeAgreementWithNPC" value="Handelsabkommen mit einem NPC schließen"/>
+	<entry name="FoundCity" value="Stadt gründen"/>
 	<entry name="KeepAcrinTitanAlive" value="Halte <string name='Units/AcrinTitan'/> am Leben<nbsp/>(%1%/%2%)"/>
+	<entry name="KeepDeformityAlive" value="<string name='Units/Deformity'/> am Leben erhalten<nbsp/>(%1%/%2%)"/>
 	<entry name="KeepUnitAlive" value="Halte %2% am Leben"/>
 	<entry name="KeepZephonTitanAlive" value="Halte <string name='Units/ZephonTitan'/> am Leben<nbsp/>(%1%/%2%)"/>
 	<entry name="KillAcrinTitan" value="Töte <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)"/>
@@ -36,9 +47,11 @@
 	<entry name="KillBrynnAndForces" value="Töte Brynn und seine Streitkraft"/>
 	<entry name="KillCalem" value="Töte <string name='Units/CalemVorshole'/> und seine Bande innerhalb von %2% Zügen"/>
 	<entry name="KillCamp" value="Lösche das Lager aus"/>
+	<entry name="KillCityInTheClouds" value="Lösche die Stadt in den Wolken aus"/>
 	<entry name="KillCultists" value="Töte die Kultisten innerhalb von %2% Zügen"/>
 	<entry name="KillDreadPearlman" value="Zerstöre die Festung Dread Pearlman innerhalb von %2% Zügen"/>
 	<entry name="KillIronFeather" value="Lösche Eisenfeder aus deinen Gedanken"/>
+	<entry name="KillLaborUnionUnits" value="Töte die Aufrührer der Gewerkschaft"/>
 	<entry name="KillMarkedUnit" value="Töte %2%"/>
 	<entry name="KillMech" value="Zerstöre den patrouillierenden Mech"/>
 	<entry name="KillMonster" value="Töte das Monster"/>
@@ -46,9 +59,12 @@
 	<entry name="KillOrin" value="Töte <string name='Units/Orin'/>"/>
 	<entry name="KillReaverCamp" value="Lösche das Räuber-Lager aus"/>
 	<entry name="KillServerDefenders" value="Töte die Verteidiger der Server-Farm"/>
+	<entry name="KillStormhearthFacility" value="Zerstöre die Sturmhafen-Anlage"/>
 	<entry name="KillTheFalseSpeaker" value="Zerstöre %2%"/>
 	<entry name="KillTheTerror" value="Töte <string name='Units/TheTerror'/>"/>
 	<entry name="KillUnit" value="Töte feindliche Einheiten<nbsp/>(%1%/%2%)"/>
+	<entry name="KillUrsaMajorDefenders" value="Töte die Verteidiger von Ursa Major innerhalb von %2% Zügen"/>
+	<entry name="KillVillage" value="Vernichte Dörfer (%1%/%2%)"/>
 	<entry name="KillWardenWithMercenaries" value="Töte %2% mit <string name='Units/HonorableAristocratMissileTeam'/>"/>
 	<entry name="KillWithUnit" value="Töte Feinde mit %3%<nbsp/>(%1%/%2%)"/>
 	<entry name="KillYourHusband" value="Töte deinen Ehemann"/>
@@ -59,6 +75,7 @@
 	<entry name="RecoverHusband" value="Hol deinen Ehemann zurück"/>
 	<entry name="RepairUnit" value="%2% reparieren"/>
 	<entry name="ResistVirus" value="Widerstehe dem Virus für %2% Züge"/>
+	<entry name="SendHeroUnitToFight" value="Lass eine Heldeneinheit in der Arena kämpfen"/>
 	<entry name="SurviveAugursMonsters" value="Überlebe gegen die Horde des Wahrsagers"/>
 	<entry name="SurviveCircusPerformers" value="Überlebe gegen die Darsteller von Zirkus Cambion"/>
 	<entry name="SurviveDrugAddictedReavers" value="Überlebe gegen die drogenabhängigen Räuber"/>
@@ -70,6 +87,7 @@
 	<entry name="SurviveRivalForces" value="Überlebe gegen die feindlichen Truppen"/>
 	<entry name="SurviveSplenetics" value="Überlebe gegen die Splenetiker"/>
 	<entry name="SurviveUnknownAssailants" value="Überlebe gegen die unbekannten Angreifer"/>
+	<entry name="SurviveVoiceInvasion" value="Überlebe die Invasion der Stimme"/>
 	<entry name="SurviveZephonAssaultForce" value="Überlebe gegen die ZEPHON-Sturmtruppe"/>
 	<entry name="VisitAugur" value="Durchsuche Außenposten in der Nähe nach dem Verdorbenen Wahrsager<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitBanditKing" value="Bewege deine Truppen zum Lager des Banditenkönigs"/>
@@ -77,13 +95,19 @@
 	<entry name="VisitCornucopia" value="Beschaffe das Füllhorn mit einer beliebigen Einheit"/>
 	<entry name="VisitCornucopiaWithHonorableAristocrat" value="Beschaffe das Füllhorn mit <string name='Factions/HonorableAristocrat'/>"/>
 	<entry name="VisitCortexNodes" value="Kortexmodule zurücksetzen<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitIronFeather" value="Durchsuche nahe gelegene Außenposten nach Eisenfedern<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitIronFeather" value="Durchsuche nahe gelegene Außenposten nach Eisenfeder<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitJezina" value="Durchsuche nahe gelegene Außenposten nach Jezina<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitLootStash" value="Sammle die Beute des Banditenkönigs"/>
 	<entry name="VisitOracleShardAndClearEnemies" value="Besuche den Orakelsplitter und beseitige die Feinde"/>
 	<entry name="VisitPassage" value="Suche nach der Garcic-Passage<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitRitualSite" value="Bewege deine Truppen zur rituellen Stätte"/>
+	<entry name="VisitTileWithGroupSize1" value="Besuche das Feld mit einer Gruppengröße von 1<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize3" value="Besuche das Feld mit einer Gruppengröße von 3<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize6" value="Besuche das Feld mit einer Gruppengröße von 6<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithDeformity" value="Besuche das Feld mit erhaltenen <string name='Units/Deformity'/>"/>
+	<entry name="VisitTileWithIokSwarm" value="Besuche das Feld mit <string name='Units/IokSwarm'/>"/>
 	<entry name="VisitTileWithErelimPriest" value="Besuche das Feld mit <string name='Units/ErelimPriest'/>"/>
+	<entry name="VisitTileWithFlyingUnit" value="Besuche das Feld mit einer fliegenden Einheit, um die Stadt zu lokalisieren<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitTileWithHammerheadAndClearEnemies" value="Besuche Felder mit <string name='Units/Hammerhead'/> und beseitige die Feinde<nbsp/>(%3%/%2%)"/>
 	<entry name="VisitTileWithHollowWarlord" value="Besuche das Feld mit <string name='Factions/HollowWarlord'/>"/>
 	<entry name="VisitTileWithHonorableAristocrat" value="Liefere die Vorräte mit <string name='Factions/HonorableAristocrat'/>"/>
@@ -91,6 +115,7 @@
 	<entry name="VisitTileWithJezina" value="Besuche das Feld mit <string name='Units/Jezina'/>"/>
 	<entry name="VisitTileWithJezinaAndClearEnemies" value="Besuche das Feld mit <string name='Units/Jezina'/> und beseitige die Feinde"/>
 	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="Besuche das Feld mit <string name='Units/LandanGraham'/> und beseitige die Feinde"/>
+	<entry name="VisitTileWithPhenarisHunter" value="Besuche das Feld mit <string name='Units/PhenarisHunter'/>"/>
 	<entry name="VisitTileWithResourceTransport" value="Besuche das Feld innerhalb von %4% Zügen mit <string name='Units/ResourceTransport'/>"/>
 	<entry name="WaitForFinalBattle" value="Warte %2% Züge, bevor du dich für eine Seite in der finalen Schlacht entscheidest"/>
 	<entry name="WaitForGlandHarvest" value="Warte %2% Züge, während die Drüsen deines Volkes geerntet werden"/>
