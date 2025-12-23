@@ -20,11 +20,11 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Załadowuje%1%"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Dokonuje zniszczenia ładunku%1%"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Wciąga%1%"/>
-	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Usuwa wzmocnienia%1%"/>
-	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Usuwa osłabienia%1%"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Zeruje punkty akcji%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Usuwa wzmocnienia%1% (poza wzmocnieniami nałożonymi przez akcje pasywne)"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Usuwa osłabienia%1% (poza złamaniem, uszkodzeniem, roztrzęsieniem oraz osłabieniami nałożonymi przez akcje pasywne)"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Przywraca punkty akcji%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Zeruje poziomy odnowienia%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Zeruje punkty ruchu%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Przywraca punkty ruchu%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>Odsłania pola%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

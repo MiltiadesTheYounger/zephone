@@ -6,13 +6,17 @@
 	<entry name="Achievements/CanFreeWillExist" value="Czy może istnieć wolna wola?"/>
 	<entry name="Achievements/CanLoveBeMoral" value="Czy miłość może być moralna?"/>
 	<entry name="Achievements/DidHonorBalanceGreed" value="Czy honor równoważył chciwość?"/>
+	<entry name="Achievements/DidIDoomMyFriends" value="Czy skazałem moich przyjaciół na zagładę?"/>
 	<entry name="Achievements/DidMyDeathMeanAnything" value="Czy moja śmierć cokolwiek znaczyła?"/>
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="Czy nasze poświęcenie nic nie znaczyło?"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="Czy nasze zjednoczenie coś znaczyło?"/>
+	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="Czy mądrość jest miarą wartości?"/>
 	<entry name="Achievements/MustWeSufferSo" value="Czy musimy tak cierpieć?"/>
+	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="Byłem najlepszy, co nie?"/>
 	<entry name="Achievements/WasITrulyHuman" value="Naprawdę byłam człowiekiem?"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="Czy doskonałość była tego warta?"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="Czy ZEPHON naprawdę żył?"/>
+	<entry name="Achievements/WhatAmITruly" value="Czym tak naprawdę jestem?"/>
 	<entry name="Achievements/WhatAreYou" value="Czym jesteś?"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="Jaka jest cena wolności?"/>
 	<entry name="Achievements/WhereAreWe" value="Gdzie jesteśmy?"/>
@@ -69,7 +73,7 @@
 	<entry name="Controls/OpenResearchScreen" value="Otwórz ekran badań"/>
 	<entry name="Controls/OrderAllIdleUnits" value="Wydaj rozkazy wszystkim bezczynnym jednostkom"/>
 	<entry name="Controls/OrderAllUnits" value="Wydaj rozkazy wszystkim jednostkom"/>
-	<entry name="Controls/OrderAreaUnits" value="Wydaj rozkazy jednostkom na danym obszarze"/>
+	<entry name="Controls/OrderAreaUnits" value="Wydaj rozkazy jednostkom w<nbsp/>promieniu 3 pól"/>
 	<entry name="Controls/PlayerAction0" value="Akcja gracza 1"/>
 	<entry name="Controls/PlayerAction1" value="Akcja gracza 2"/>
 	<entry name="Controls/PlayerAction2" value="Akcja gracza 3"/>
@@ -144,6 +148,8 @@
 	<entry name="General/AutoSendReportsHint" value="Automatyczne wysyłanie statystyk użytkowania i<nbsp/>raportów o<nbsp/>awariach do Proxy Studios, aby pomóc w<nbsp/>usprawnieniu funkcji gry, jej stabilności oraz działania.<br/><br/><style color='GUI/Yellow'/>Prywatność jest dla nas bardzo ważna. Chcemy zbierać tylko dane niezbędne do usprawniania gry dla wszystkich użytkowników. Gromadzone informacje obejmują zanonimizowane interakcje z<nbsp/>grą (na przykład liczbę prób połączeń z<nbsp/>grą wieloosobową, także nieudanych, rodzajów rozpoczętych rozgrywek, użytych funkcji, klikanych przycisków oraz czasu gry), a<nbsp/>także zanonimizowane informacje techniczne (na przykład o<nbsp/>wersji i<nbsp/>języku gry, systemie operacyjnym, konfiguracji sprzętowej, a<nbsp/>także podstawowe informacje o<nbsp/>błędach i<nbsp/>awariach). Dane te są przetwarzane w<nbsp/>celu dostarczenia użytkownikom niezawodnego produktu wysokiej jakości. Przechowuje się je nie dłużej niż rok i<nbsp/>nie są one udostępniane osobom trzecim."/>
 	<entry name="General/EdgeScroll" value="Przesuwanie na krawędziach"/>
 	<entry name="General/EdgeScrollHint" value="Przesuwa kamerę, gdy kursor myszy znajduje się na krawędzi ekranu w<nbsp/>trybie pełnoekranowym."/>
+	<entry name="General/FriendNames" value="Ksywki znajomych"/>
+	<entry name="General/FriendNamesHint" value="Pozwala używać ksywek znajomych w<nbsp/>wiadomościach od ZEPHONA wewnątrz gry."/>
 	<entry name="General/Language" value="Język"/>
 	<entry name="General/LanguageHint" value="Język tekstu."/>
 	<entry name="General/ResetTips" value="Resetuj podpowiedzi"/>

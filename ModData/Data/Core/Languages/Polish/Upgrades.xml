@@ -3,15 +3,22 @@
 	<entry name="AbhorrentUpgrade" value="Tylko do kości"/>
 	<entry name="AbhorrentUpgrade2" value="Dobroć innych"/>
 	<entry name="AfflictionsAntiphon" value="Antyfona cierpienia"/>
+	<entry name="AgelessHungerUpgrade" value="Rozkoszne nasycenie"/>
+	<entry name="AgelessHungerUpgrade2" value="Obfitość czasu"/>
 	<entry name="ArmorOfFaithUpgrade" value="Tarcza Mówcy"/>
 	<entry name="ArtificersPrecisionUpgrade" value="Ręczne sterowanie"/>
 	<entry name="AssetStripping" value="Łupienie zasobów"/>
 	<entry name="AtramentousEchoes" value="Atramentowe echa"/>
 	<entry name="AugmentsUpgrade" value="Pigułki augmentacji"/>
 	<entry name="AugmentsUpgrade2" value="Projekty firmy ICAR"/>
+	<entry name="AugmentsUpgrade2Properties" value="<icon texture='GUI/Bullet'/>Pozwala na stosowanie innych wzmocnień na już ulepszonych jednostkach"/>
 	<entry name="BleedCultivation" value="Kultywacja krwawych pnączy"/>
 	<entry name="BleedCultivationProperties" value="<icon texture='GUI/Bullet'/>Usuwa w<nbsp/>twoich miastach negatywne efekty krwawych pnączy<br/><icon texture='GUI/Bullet'/>Pozwala w<nbsp/>twoich miastach na stawianie budowli na krwawych pnączach<br/><icon texture='GUI/Bullet'/>Pozwala na to, aby <string name='Buildings/Construction'/> wytwarzał krwawe pnącza"/>
 	<entry name="Bunker" value="<string name='Units/Bunker'/>"/>
+	<entry name="AnnelidHarness" value="Uprząż dla pierścienic"/>
+	<entry name="CadentialTravel" value="Podróż kadencyjna"/>
+	<entry name="CaelumCeteRuler" value="<string name='Units/CaelumCete'/> (Wielka Niedźwiedzica)"/>
+	<entry name="CloneWaveUpgrade" value="Przyspieszona ligacja"/>
 	<entry name="CombatDrone" value="<string name='Units/CombatDrone'/>"/>
 	<entry name="ConcordatAdvancedResources" value="Dostęp premium"/>
 	<entry name="ConcordatAdvancedResourcesProperties" value="<icon texture='GUI/Bullet'/>Odblokowuje w<nbsp/>Konkordacie kupno i<nbsp/>sprzedaż następujących elementów: <string name='Attributes/TransuraniumIcon'/><nbsp/><string name='Attributes/Transuranium'/>, <string name='Attributes/AntimatterIcon'/><nbsp/><string name='Attributes/Antimatter'/>, <string name='Attributes/DimensionalEchoesIcon'/><nbsp/><string name='Attributes/DimensionalEchoes'/> oraz <string name='Attributes/SingularityCoresIcon'/><nbsp/><string name='Attributes/SingularityCores'/>."/>
@@ -27,6 +34,8 @@
 	<entry name="DataHackUpgrade" value="Podbieranie zasobów"/>
 	<entry name="DreadShadow" value="Przerażający cień"/>
 	<entry name="DreadShadowFlavor" value="<string name='Actions/DreadShadowFlavor'/>"/>
+	<entry name="EconomiesOfScaleUpgrade" value="Na skróty"/>
+	<entry name="EconomiesOfScaleUpgrade2" value="Na kilogramy"/>
 	<entry name="EMPDrone" value="<string name='Units/EMPDrone'/>"/>
 	<entry name="EmulatedMindAffinityUpgrade" value="Siatkowe przesunięcie"/>
 	<entry name="EngineerLifeUpgrade" value="Oszukana hojność"/>
@@ -39,12 +48,15 @@
 	<entry name="FurtiveTribunalAffinityUpgrade" value="Bliżej siebie"/>
 	<entry name="GluttonyUpgrade" value="Marketing szeptany"/>
 	<entry name="GluttonyUpgrade2" value="Słynne uczty"/>
+	<entry name="GourmandsFate" value="Los smakosza"/>
 	<entry name="HeartfeltLossUpgrade" value="Hartowanie serc"/>
 	<entry name="HeartfeltLossUpgrade2" value="Jeszcze więcej wspomnień"/>
 	<entry name="HiredHandsUpgrade" value="Sieć przysług"/>
 	<entry name="HiredHandsUpgrade2" value="Ochotnicze nadgodziny"/>
 	<entry name="HitAndRunUpgrade" value="Uderz, a<nbsp/>po tym uciekaj"/>
 	<entry name="HitAndRunUpgrade2" value="Repozytorium starć firmy ICAR"/>
+	<entry name="HollowWarlordAffinityUpgrade2For" value="jednostki ludzkie"/>
+	<entry name="HolopatterFor" value="jednostki cyberbytów"/> 
 	<entry name="HonorboundUpgrade" value="Silniejsze więzi"/>
 	<entry name="HonorboundUpgrade2" value="Bogactwo narodów"/>
 	<entry name="HordeMandateUpgrade" value="Imperialni szaleńcy"/>
@@ -55,37 +67,58 @@
 	<entry name="ImmoralUpgrade2" value="System zaufania społecznego"/>
 	<entry name="IndependentUpgrade" value="Działalność na niewielką skalę"/>
 	<entry name="IndependentUpgrade2" value="Obszerne powiązania"/>
+	<entry name="InfiniteCountAffinityUpgrade" value="Porzucone upiory"/>
+	<entry name="InfiniteCountAffinityUpgrade2For" value="jednostki Głosu"/>
+	<entry name="JustShipItUpgrade" value="Weryfikacja pomysłów"/>
 	<entry name="LeaveNoManBehindUpgrade" value="Protokoły Zbawienia"/>
 	<entry name="LeaveNoManBehindUpgrade2" value="Szybkie wycofanie"/>
+	<entry name="Missing" value="Brak"/>
+	<entry name="MobileHardpointsFor" value="nielatające jednostki ludzkie"/>
 	<entry name="MothersFavorUpgrade2" value="Najdroższy"/>
 	<entry name="MothersFavorUpgrade" value="Hołubiony skarb"/>
 	<entry name="MysticismUpgrade" value="Nauki eksperymentalne"/>
 	<entry name="MysticismUpgrade2" value="Schizma naukowa"/>
 	<entry name="MultiSpectralScattering" value="Wielospektralne rozproszenie"/>
 	<entry name="NuminousReveries" value="Tajemnicze sny"/>
+	<entry name="PerfectForeverUpgrade" value="Tymczasowa współpraca"/>
+	<entry name="PerfectForeverUpgrade2" value="Pełne wdrożenia"/>
+	<entry name="PersonalVisitUpgrade" value="Biuro terenowe"/>
 	<entry name="QuidProQuoUpgrade" value="Sekretny kartel"/>
 	<entry name="ReallocateUpgrade" value="Poetycka sprawiedliwość"/>
 	<entry name="ResourceNetworkUpgrade" value="Perfekcyjna logistyka"/>
 	<entry name="ResourceNetworkUpgrade2" value="Rutynowe zadania"/>
 	<entry name="RestlessUpgrade" value="Życie w<nbsp/>trasie"/>
 	<entry name="RestlessUpgrade2" value="Król szos"/>
+	<entry name="RogueOperativeAffinityUpgradeFor" value="niedużych jednostek cyberbytów"/>
+	<entry name="RogueOperativeAffinityUpgrade2For" value="<string name='Upgrades/RogueOperativeAffinityUpgradeFor'/>"/>
 	<entry name="SatelliteScanUpgrade" value="Naprawa sond"/>
+	<entry name="SeeAsISeeUpgrade" value="Wyśnione pałace"/>
 	<entry name="ScavengerUpgrade" value="Hiena cmentarna"/>
 	<entry name="ScavengerUpgrade2" value="Padlinożerca"/>
 	<entry name="ShochitrisLair" value="<string name='Units/ShochitrisLair'/>"/>
 	<entry name="ShochitrisLairUpgrade" value="Gorliwe dożywianie"/>
 	<entry name="SurthodaisKiss" value="Pocałunek Surthodai"/>
+	<entry name="SurthodaisKissFor" value="jednostki Głosu niebędące Kroczącymi po pnączach"/>
 	<entry name="SurvivalTrainingUpgrade" value="Symulacyjne przechwycenie"/>
 	<entry name="SystemicResetUpgrade" value="Zakłócenia systemowe"/>
+	<entry name="TacticalInsertionUpgrade" value="Cisi specjaliści"/>
 	<entry name="TalesOfTheHuntUpgrade" value="Tanie podniety"/>
 	<entry name="TalesOfTheHuntUpgrade2" value="Chanożerca"/>
+	<entry name="TediousNegotiations" value="Nudne negocjacje"/>
 	<entry name="TesseraCore" value="<string name='Units/TesseraCore'/>"/>
 	<entry name="TenderMinistrationsUpgrade" value="Pij do oporu"/>
 	<entry name="TenderMinistrationsUpgrade2" value="Myśl o<nbsp/>tobie"/>
+	<entry name="TheLooper" value="Pętla czasu"/>
 	<entry name="TheOutsiderUpgrade" value="Modulowana harmonia"/>
 	<entry name="ThereIsHopeUpgrade" value="Pierzasty drobiazg"/>
 	<entry name="ThereIsHopeUpgrade2" value="<string name='Traits/ThereIsHopeUpgrade2'/>"/>
 	<entry name="ThereIsHopeUpgrade2Flavor" value="<string name='Traits/ThereIsHopeUpgrade2Flavor'/>"/>
+	<entry name="TheSureThingUpgrade" value="Potentat górniczy"/>
+	<entry name="TheSureThingUpgradeProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+50%<style color='Default'/> do stopy oprocentowania"/>
+	<entry name="TheSureThingUpgrade2" value="Opanowanie rynku"/>
+	<entry name="TheSureThingUpgrade2Properties" value="<string name='Upgrades/TheSureThingUpgradeProperties'/>"/>
+	<entry name="TimeOutOfJointUpgrade" value="W poszukiwaniu straconego czasu"/>
+	<entry name="TimeOutOfJointUpgrade2" value="Skradzione chwile"/>
 	<entry name="TransubstantiationUpgrade" value="Metabol"/>
 	<entry name="TrappedUpgrade" value="Ostateczny bastion"/>
 	<entry name="TrappedUpgrade2" value="Ostateczna utopia"/>
@@ -93,9 +126,11 @@
 	<entry name="TwistedMotherAffinityUpgrade" value="Zostań ze mną"/>
 	<entry name="UndyingUpgrade" value="Inhibitory antygenów"/>
 	<entry name="UndyingUpgrade2" value="Nieokiełznana replikacja"/>
+	<entry name="UnionSuppression" value="Tłumienie związków"/>
 	<entry name="UnrestrainedDisassembly" value="Nieograniczona dezasemblacja"/>
 	<entry name="UntoldProphetAffinityUpgrade2" value="<string name='Traits/UntoldProphetAffinityUpgrade2'/>"/>
 	<entry name="UntoldProphetAffinityUpgrade2Flavor" value="<string name='Traits/UntoldProphetAffinityUpgrade2Flavor'/>"/>
+	<entry name="VorodaisBargainUpgrade" value="Dobrowolne ofiary"/>
 	<entry name="WeWhoAreAboutToDieUpgrade" value="Synchroniczne miasto"/>
 	<entry name="WeWhoAreAboutToDieUpgrade2" value="Kult Zabijaki"/>
 	<entry name="WhispersOfTheVoiceUpgrade" value="Wyznaczone wejście"/>
@@ -103,10 +138,12 @@
 	<entry name="WordsOfTheProphetUpgrade" value="Nowe modlitwy"/>
 	<entry name="WordsOfTheProphetUpgrade2" value="Cytaty tetragramowe"/>
 	
-	<!-- Flavor. -->
-	<entry name="AbhorrentUpgradeFlavor" value="Zastanawiało mnie, jak się to potoczy, skoro wreszcie Matka znalazła przyjaciół. Czy można dźgnąć przyjaciela w<nbsp/>plecy tylko dlatego, że odstręcza nas jego widok? Raczej nie. Matka znalazła sojuszników… nigdy nie robiła zamieszania… i<nbsp/>powoli, na własny sposób, odzyskiwała to, co oni wcześniej ukradli."/>
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbhorrentUpgrade2Flavor" value="Każda matka wie, jak sprawić, by dziecko jej posłuchało, a<nbsp/>jednocześnie myślało, że to jego własny pomysł. Poczucie winy. Smutne oczy. Jej żałosne zawodzenie niewątpliwie oczarowało sojuszników. Litość może dać początek miłości… i<nbsp/>przyciągnąć własny rodzaj mocy."/>
+	<entry name="AbhorrentUpgradeFlavor" value="Zastanawiało mnie, jak się to potoczy, skoro wreszcie Matka znalazła przyjaciół. Czy można dźgnąć przyjaciela w<nbsp/>plecy tylko dlatego, że odstręcza nas jego widok? Raczej nie. Matka znalazła sojuszników… nigdy nie robiła zamieszania… i<nbsp/>powoli, na własny sposób, odzyskiwała to, co oni wcześniej ukradli."/>
 	<entry name="AfflictionsAntiphonFlavor" value="Posłuchaj wystarczająco długo kultystów Głosu, gdy śpiewają Pieśń Rozkładu, a<nbsp/>usłyszysz tych, którzy śpiewają najdłużej, tych, u<nbsp/>których słychać prawdziwą emocję. Tą emocją zawsze była rozpacz. Rozlewała się ona na terenach, gdzie słyszano Pieśń, i<nbsp/>gnębiła dusze żołnierzy jeszcze długo po odejściu tego, który śpiewał."/>
+	<entry name="AgelessHungerUpgrade2Flavor" value="Nie mam pojęcia, jakie to ma podstawy naukowe, ale picie całego tego czasu sprawia, że skóra blednie i<nbsp/>rozciąga się niczym folia na surowym mięsie, a<nbsp/>cała krew pod skórą zanika. Każde miasto stało się siedliskiem świrów wołających o<nbsp/>więcej zgonów, by mogli oni przeżyć kolejną dekadę."/>
+	<entry name="AgelessHungerUpgradeFlavor" value="Ukradziony czas ma dużo słodszy smak, gdy jest odzyskiwany. Wszyscy mieszkańcy czuli przypływ adrenaliny za każdym razem, gdy siły Hrabiego domagały się życia. On się żywił nami, a<nbsp/>my żywiliśmy się jego przeciwnikami. Jak moglibyśmy chcieć pokoju, skoro wojna oferuje coś takiego?"/>
 	<entry name="AnchoriteStandingFlavor" value="To było bardzo dziwne. Posłańcy Pustelnika pojawili się znienacka z<nbsp/>darami dla naszych ludzi. Mówili, że to „za ukończenie próby”. Ale jakiej próby? Praktyczny Romantyk stwierdził, że Pustelnik nas testował. Gdyby złączyć w<nbsp/>całość czyny, za które nagradzał… moglibyśmy już na zawsze przypodobać się tajemniczemu eremicie."/>
 	<entry name="ArmorOfFaithUpgradeFlavor" value="Wojna się przeciągała. Prorok rozszerzył moc mistycznej niezłomności do granic możliwości. Pewnego dnia poprosił, by przynieść mu kowalskie narzędzia. Publicznie naznaczył siebie samego znamieniem, które wyglądało jak para ust otaczająca oboje oczu. Pomimo bólu nawet nie jęknął. Po tym wszystkim jeszcze więcej jego wyznawców nosiło w<nbsp/>sobie tę niezłomną wiarę."/>
 	<entry name="ArtificersPrecisionUpgradeFlavor" value="Dla Konstruktorki broń miała większą wartość niż ludzie, którzy jej używali. Zaprzestała prób wyszkolenia lepszych żołnierzy i<nbsp/>koniec końców opracowała systemy, dzięki którym każda broń palna, energetyczna czy wyrzutnia rakiet mogły rozpocząć ostrzał na jej polecenie."/>
@@ -116,15 +153,18 @@
 	<entry name="AugmentsUpgradeFlavor" value="Instalacja ulepszeń zajmowała sporo czasu. Czasu, którego mieliśmy coraz mniej. Agentka się wściekła i<nbsp/>powiedziała, że powinniśmy karmić żołnierzy tymi augmentacjami, to może będzie szybciej. Jeden z<nbsp/>inżynierów nie wiedział, że ona żartuje, i<nbsp/>opracował… drony wielkości pigułki, które miały za zadanie konstruować i<nbsp/>instalować augmentacje poprzez krwiobieg. Chłopaczek zrobił się biały jak ściana, gdy wyjaśniłem, że nie powinien brać jej słów dosłownie. Ale w<nbsp/>sumie dobrze, że to zrobił…"/>
 	<entry name="BleedCultivationFlavor" value="Szepty Głosu oszukiwały nasze rozumy i<nbsp/>zmysły. Któregoś dnia wstaliśmy i<nbsp/>nagle wielkie połacie krwawych pnączy pachniały niczym kapryfolium. Ludzie chcieli je hodować w<nbsp/>domach i<nbsp/>pławić się w<nbsp/>tym zapachu. Ja się powstrzymałem i<nbsp/>obserwowałem, jak nasze miasta przekształcają się w<nbsp/>poskręcane pnączami wieże, jak gdyby pochodziły z<nbsp/>innej planety…"/>
 	<entry name="ChieftessStandingFlavor" value="Układy z<nbsp/>Łotrzycą – oprócz jednego – były obarczone ryzykiem. Ogłosiła, że każdy, kto pozwoli Łupieżcom integrować się ze swoimi ludźmi, wyleci z<nbsp/>jej listy „do rozjebania”. Gdy naciskałeś na nią w<nbsp/>tej sprawie, mówiła, że to „tylko dobre wychowanie”. Czy chodziło o<nbsp/>życzliwość dla jej podwładnych? Czy może był to jakiś przebiegły plan, żeby nas zinfiltrować i<nbsp/>przejąć nasze miasta?"/>
+	<entry name="CloneWaveUpgradeFlavor" value="Niesamowite – wejść do ośrodka klonowania i<nbsp/>stracić orientację w<nbsp/>tym, kto jest klonem, a<nbsp/>kto nie. Same klony też miały z<nbsp/>tym problem, a<nbsp/>gdy wyciągano ciało ze zbiornika i<nbsp/>przyodziewano je w<nbsp/>uniform… to wyglądało niczym wyrzucanie ziarenka piasku na plażę."/>
 	<entry name="ConcordatAdvancedResourcesFlavor" value="Jeśli chcesz mieć dostęp do najlepszych ofert Konkordatu – rzeczy pochowanych w<nbsp/>nieznanych bunkrach i<nbsp/>kryjówkach – musisz się wykazać. Udowodnić swoją lojalność. Wysłać paru „ochotników”; naukowców, którzy nie mają po co żyć, by pokazać, że jesteś w<nbsp/>stanie poświęcić swoich najlepszych ludzi dla unikatowych towarów Konkordatu. I<nbsp/>nigdy, PRZENIGDY nie pytać, co się z<nbsp/>nimi stało."/>
 	<entry name="CostOfConvictionUpgrade2Flavor" value="Gdy wyznawcy ukrywają się w<nbsp/>jaskiniach, nazywamy to kultem. Gdy zajmują własną część miasta, to już religia. Lecz gdy wypełniają ulice, tonąc we wspólnej energii i<nbsp/>krzycząc do nieba – to będzie… bóg. I<nbsp/>tego już nie da się powstrzymać. Gdy nie bierzesz w<nbsp/>tym udziału, to czujesz, jak gdyby porwał cię sztorm."/>
-	<entry name="CostOfConvictionUpgradeFlavor" value="Dzieciak – dziecię, Prorok, nazywaj go jak chcesz – zrozumiał, o<nbsp/>co chodzi. Spowodował, że jego wyznawcy bardziej się otworzyli, i<nbsp/>przyjął ich do siebie. Poświęcał czas, by odwiedzać ludzi, błogosławić ich i<nbsp/>wysłuchiwać ich żali. To była tylko gra? Czy robił to szczerze? A<nbsp/>może sprawnie manewrował między jednym a<nbsp/>drugim?"/>
+	<entry name="CostOfConvictionUpgradeFlavor" value="Dzieciak – dziecię, Prorok, nazywaj go, jak chcesz – zrozumiał, o<nbsp/>co chodzi. Spowodował, że jego wyznawcy bardziej się otworzyli, i<nbsp/>przyjął ich do siebie. Poświęcał czas, by odwiedzać ludzi, błogosławić ich i<nbsp/>wysłuchiwać ich żali. To była tylko gra? Czy robił to szczerze? A<nbsp/>może sprawnie manewrował między jednym a<nbsp/>drugim?"/>
 	<entry name="CultExpansionUpgrade2Flavor" value="Niewierzący i<nbsp/>tak w<nbsp/>końcu stanęliby po stronie Proroka. Nie z<nbsp/>powodu samego lęku czy zastraszania, tylko z<nbsp/>uwagi na taką luźną wiarę, którą posiadamy, a<nbsp/>dzięki której nie czujemy się, jakbyśmy gdzieś nie pasowali. Tacy ludzie niby gadają między sobą, że nie wierzą w<nbsp/>Wielkiego Mówcę, ale potem, tuż przed walką, po cichu się do niego modlą."/>
 	<entry name="CultExpansionUpgradeFlavor" value="Najstarsze narzędzie wykorzystywane przez wszystkie imperia: kościół. Posyłanie kapłanów to zaledwie początek. Daj im domy i<nbsp/>schronienia, gdzie mogą głosić, a<nbsp/>przyciągniesz tych rzeczywiście zainteresowanych. Pod okiem Proroka ci, którzy byli wyznawcami, stają się wielbicielami, a<nbsp/>następnie fanatykami – gotowymi poświęcić się na rzecz jego krwawej krucjaty."/>
 	<entry name="CyberOperationsUpgradeFlavor" value="Technik stacjonujący przy rozdzielaczach sieciowych opracował plan wskrzeszenia starej sieci telefonicznej pomiędzy stacjami – takiej z<nbsp/>tablicą rozdzielczą, do której mogłeś się dostać poprzez odtworzenie odpowiedniego dźwięku. W<nbsp/>dawnych czasach to był koszmar, jeśli chodzi o<nbsp/>bezpieczeństwo. A<nbsp/>teraz? „Nikt nie zakrada się do centrali telefonicznych, by podpiąć się do linii” – odparł technik. „Wykorzystajmy je do dodatkowych działań”."/>
 	<entry name="DarkOmenUpgrade2Flavor" value="Według jednej z<nbsp/>krążących pogłosek Akrynowie nigdy nie wynaleźli żadnej formy teleskopu, ponieważ ich kapłani mogli poprosić Głos, by widzieć na odległości tak duże, że nawet inna planeta nie była problemem. Może właśnie to wyjaśniało zwiększające się możliwości Tajemnego Trybunału oraz jakim cudem trzy mistyczki mogły z<nbsp/>każdym rokiem widzieć coraz dalej."/>
 	<entry name="DarkOmenUpgradeFlavor" value="„Ktoś nas obserwuje” – same te słowa wystarczały, żeby cię przerazić, jeśli sądziłeś, że Trybunał cię śledził. Jednak w<nbsp/>miarę upływu czasu nabrało to nowego wymiaru. Ich spojrzenie stało się czymś, co można było poczuć w<nbsp/>powietrzu… a<nbsp/>spojrzenie Głosu czuło się nawet we własnych kościach. Wiedziałeś, że to cię przenika. Wiedziałeś, że to doskonali swój plan, w<nbsp/>jaki sposób najłatwiej cię złamać."/>
 	<entry name="DataHackUpgradeFlavor" value="Podbieranie zasobów z<nbsp/>linii zaopatrzenia wrogów? Żaden komputer by tego nie wymyślił. Im bardziej doszukiwałeś się sztucznej inteligencji w<nbsp/>działaniach Emulowanej Świadomości, tym większe było prawdopodobieństwo znalezienia iskry ludzkiego umysłu walczącego o<nbsp/>przetrwanie."/>
+	<entry name="EconomiesOfScaleUpgrade2Flavor" value="Pęd – to jedyna prawda wojny, którą rozumiał Dziedzic, i<nbsp/>jedyna, dzięki której był w<nbsp/>stanie myśleć jak żołnierz. Fabryka jak najszybciej produkująca oddziały oraz wysyłanie ich na śmierć jednego po drugim… wszystko działało dużo sprawniej, jeśli tylko pozwoliłeś maszynom pracować."/>
+	<entry name="EconomiesOfScaleUpgradeFlavor" value="Stanie przy mapie strategicznej, nanoszenie na nią pozycji własnych oddziałów i<nbsp/>uświadamianie sobie, że mam tysiące ciał i<nbsp/>nadal mnóstwo zasobów… lubiłem to. To było doświadczenie najbliższe temu, jak Dziedzic spoglądał na świat. Gdy tylko obniżyłeś cenę, każdy stawał się zastępowalny."/>
 	<entry name="EmulatedMindAffinityUpgradeFlavor" value="„T-t-tylko MUŚNIJ. MUŚNIJ. MUŚNIJ celownik kilka kilka stopni tylko tylko muśnij ZMIEŃ bieg r.z.e.k.i o<nbsp/>centymetry a<nbsp/>w<nbsp/>dole rzeki bieg przesunie się o<nbsp/>KILOMETRY. ZIEMIA nie ma celności tylko BRONIE ją mają bronie stworzone przez człowieka, przez tęgie umysły, muśnięcie jest tylko muśnięciem, jeśli umysł stwierdzi, że zaszła zmiana”. – dziennik aktualizacji<nbsp/>1.888 dla protokołów zakłócających"/>
 	<entry name="EngineerLifeUpgrade2Flavor" value="Konstruktorka była w<nbsp/>stanie kontrolować rozmnażanie swoich ludzi, ale nie mogła ich zmusić, żeby chcieli się rozmnażać. Myślałem, że nawet ona nie ma władzy nad tą sferą życia. Ale źle myślałem. Metodą bioinżynierii opracowała substancje zwiększające płodność i<nbsp/>podawała je do wodociągów. Każdy kontakt seksualny – nawet z<nbsp/>zabezpieczeniem – był w<nbsp/>stanie zamienić każdego, niezależnie od płci, w<nbsp/>fabrykę materiału genetycznego. Podłość, potworność. Odebrała swoim ludziom najbardziej osobisty wybór, jakiego mogą dokonać."/>
 	<entry name="EngineerLifeUpgradeFlavor" value="Konstruktorka zjednywała sobie zwolenników obietnicą: dzięki swojej wiedzy będzie w<nbsp/>stanie zapewnić, że wszystkie ich dzieci będą dorastać zdrowe i<nbsp/>bezpieczne, wolne od chorób nowego świata. Jednakże bezpieczeństwo to miało swoją cenę. Każde dziecko, które przyszło na świat pod jej kontrolą… było dzieckiem, na którym nie wahała się eksperymentować, jeśli widziała taką potrzebę."/>
@@ -155,7 +195,9 @@
 	<entry name="ImmoralUpgradeFlavor" value="Konstruktorka miała obsesję na punkcie dzieci. Ocaleni przychodzili do niej z<nbsp/>wyrobionym zdaniem o<nbsp/>świecie, ale dzieci… dzieci można było ukształtować. Dopasować. Przekonać, że warte są mniej niż zero. A<nbsp/>gdy dorosły i<nbsp/>niektóre uparte jednostki ośmieliły się jej sprzeciwić, miała miliony „dronów” tak poskromionych, że nie myślały nawet o<nbsp/>dołączeniu do jakiegokolwiek buntu."/>
 	<entry name="IndependentUpgrade2Flavor" value="Wiecznie kontrkulturowa hakerka. Agentka zaakceptowałaby zwiększenie populacji tylko wtedy, gdyby mogła postawić „X” w<nbsp/>nazwie polityki. Może inni przywódcy powinni dać poszaleć swojemu wewnętrznemu dziecku… a<nbsp/>może zbyt wielu już to zrobiło."/>
 	<entry name="IndependentUpgradeFlavor" value="Przebiegła Agentka rzuciła megakorporacje na kolana przy pomocy małej załogi oraz inteligentnej inżynierii społecznej. Nigdy nie chciała rządzić faktycznym gangiem i<nbsp/>zawsze wolała swój bliski krąg zaufanych ludzi. Dzięki temu nikt nie był w<nbsp/>stanie wbić jej noża w<nbsp/>plecy."/>
+	<entry name="InfiniteCountAffinityUpgradeFlavor" value="„Chcesz zostać najlepszą wersją siebie?” Ten gnojek myślał, że to zabawne. Kanalie Hrabiego przyszły na świat, mając mniej blizn i<nbsp/>więcej organów, niż powinny mieć. Ale ta „najlepsza wersja” Kanalii była niewiele lepsza od zwykłej gnijącej deformacji."/>
 	<entry name="InterferenceProtocolsUpgradeFlavor" value="Programista, który opracował tego robaka, aż pękał z<nbsp/>dumy. Mówił o<nbsp/>spowalnianiu wrogich maszyn poprzez zmuszenie ich do rozwiązywania skomplikowanych działań, zanim będą mogły wykonać proste zadania. Zapytałem, jakim cudem nikt wcześniej nie wymyślił takiego wirusa. „Też się nad tym zastanawiam” – odpowiedział, bawiąc się jednocześnie monetą. „Nikt nie myśli tak, jak ja. Nawet sam ZEPHON”."/>
+	<entry name="JustShipItUpgradeFlavor" value="Po kolejnej rundzie „analizy rynku” Dziedzic wymyślił kolejne brednie na temat swoich gównianych fabryk. „To dopiero początek” – mówił, mimo że zdecydowanie świat chylił się ku końcowi. – „Pomyślcie, jaki to ma potencjał! Moi żołnierze stoją u<nbsp/>progu zmian”. Tyle że nie stali u<nbsp/>progu. Leżeli. Dwa metry pod ziemią."/>
 	<entry name="LeaveNoManBehindUpgrade2Flavor" value="Uruchomione Protokoły Zbawienia mocno zużywały nasze zasoby. Poległy Żołnierz wciąż nie był w<nbsp/>stanie poświęcić ani jednego swojego człowieka. Idealistyczny dureń. Ale inteligentny. Szkolił nas z<nbsp/>przeprowadzania szybkich ewakuacji. Naszym nowym modelem działań było „Dostać się, wydostać się i<nbsp/>dostać kasę”."/>
 	<entry name="LeaveNoManBehindUpgradeFlavor" value="„Protokoły Zbawienia” – to nazwa, jakiej użył Poległy Żołnierz dla utworzonych specjalnych oddziałów legalnego szabrownictwa, które dołączały do jednostek na polu bitwy. Trzymały się one na dystans, nie korzystały z<nbsp/>broni ani nie szturmowały żadnych miejsc, by nieść pomoc. Dopiero po walce odzyskiwały porzucony ekwipunek oraz zgarniały rannych."/>
 	<entry name="MilitaryBackgroundUpgradeFlavor" value="Poległy Żołnierz był bardzo drobiazgowy, jeśli chodzi o<nbsp/>historię wojskowości. Gdybyś zajrzał do jego dziennika, zauważyłbyś notatki pisane przez niego do siebie samego, w<nbsp/>stylu: „taktyki kawalerii – przydatne przy użyciu transporterów patrolowych?”. Wierzył w<nbsp/>wielkich przywódców, którzy dowodzili w<nbsp/>dawnych czasach. Zalecałem mu, aby ważył swe słowa i<nbsp/>odnalazł sposób na wytyczenie własnej ścieżki."/>
@@ -164,25 +206,34 @@
 	<entry name="MysticismUpgrade2Flavor" value="Rano w<nbsp/>kompleksie administracyjnym znaleźliśmy ciało mistyka. Ta śmierć nie znaczyłaby nic, gdyby nie to, że sam Trybunał przyszedł, by obejrzeć zwłoki. „Widział to” – szepnęła Pierwsza z<nbsp/>Triady. „Rozmawiał z<nbsp/>tym” – rzekła Druga. Trzecia jedynie wyciągnęła nóż i<nbsp/>odcięła nieboszczykowi usta."/>
 	<entry name="MysticismUpgradeFlavor" value="Wielu ocalałych naukowców uciekało w<nbsp/>przestrachu od Trybunału. Niektórzy jednak przybywali, będąc pod wrażeniem Triady. Szukali kogoś, kto zezwoli im na najbardziej koszmarne eksperymenty – kogo nie będzie obchodzić etyka czy niezawodność. Ci naukowcy chcieli się pobawić w<nbsp/>Boga – i<nbsp/>znaleźli go, gotowego podzielić się z<nbsp/>nimi swoim podwórkiem."/>
 	<entry name="NuminousReveriesFlavor" value="Płyny wydobywające się z<nbsp/>ciał wysadzonych w<nbsp/>powietrze przez dowódców Głosu były modyfikowane chemicznie, by przyklejały się do skóry. To jakoś zbytnio nie bolało. Za to wiesz, co bolało? Sklejone na polu bitwy powieki, w<nbsp/>najgorszym możliwym momencie."/>
+	<entry name="PerfectForeverUpgrade2Flavor" value="Krążyły pogłoski o<nbsp/>Kanaliach, które stały się na tyle silne, by opuszczać wojska Hrabiego i<nbsp/>grasować po miastach w<nbsp/>środku nocy. Podkradały się do drzwi, pukały trzy razy i<nbsp/>prosiły o<nbsp/>wpuszczenie do środka. Moja babcia mnie przed czymś takim ostrzegała…"/>
+	<entry name="PerfectForeverUpgradeFlavor" value="Zwierzęta – eee, nie, bestie Hrabiego – w<nbsp/>miarę wojny stawały się coraz potężniejsze. Mówił, że miało to związek z… częstotliwością? Wątkami wyciąganymi z… mojej osi czasu? Powód tego wiecznie wylatywał mi z<nbsp/>głowy. Ale mówił, że mu przykro. Pamiętam to, mówił, że mu przykro…"/>
+	<entry name="PersonalVisitUpgradeFlavor" value="Dziedzic chciał, by pracownicy myśleli, że może się on zjawić w<nbsp/>danym ośrodku w<nbsp/>każdej chwili. Żadnych słów ostrzeżenia od solidarnych szoferów. Dlatego też miał własne biuro we wszystkich fabrykach oraz światła i<nbsp/>hologramy, przez które wydawało się, że właśnie wpadł z<nbsp/>wizytą. Nikt nie mógł spokojnie odetchnąć, a<nbsp/>ludzie brali się do roboty, gdy tylko zauważali jego podobiznę."/>
 	<entry name="QuidProQuoUpgradeFlavor" value="Tylko Honorowy Arystokrata był w<nbsp/>stanie wskrzesić sztuczki korporacji ze starego świata. Zadał sobie wiele trudu, by oszukani handlarze częściej dzielili się swoimi towarami. Myśleli, że handlują z<nbsp/>różnymi partnerami, a<nbsp/>to wszystko były firmy Arystokraty i<nbsp/>jego agenci, którzy czasem wręcz dosłownie zakładali maski, aby ukryć swą prawdziwą tożsamość…"/>
 	<entry name="ReallocateUpgradeFlavor" value="Praktyczny Romantyk był jedynym przywódcą frakcji, który usiadł przy jednym stole z<nbsp/>żołnierzami chcącymi zaprzestać walki. Większość by takich ludzi straciła lub wtrąciła do więzienia. On ich wysłuchał i<nbsp/>wyjaśnił, jak mogą pomóc w<nbsp/>wojnie, będąc poza obszarem walk. Gdy stracili wolę życia, chciał dać im możliwość, by ją odzyskali."/>
-	<entry name="ResourceNetworkUpgrade2Flavor" value="A glitch in the Emulated Mind's programming risked driving her to hyperfocus on managing outpost extraction. If she wanted to protect her core functions she needed to dump that piece of her programming. She did—into a virtual clone of herself. Now it could manage outpost resources while she turned her full attention to the rest of the war."/> 
+	<entry name="ResourceNetworkUpgrade2Flavor" value="Błąd w<nbsp/>kodzie Emulowanej Świadomości niósł za sobą ryzyko spowodowania intensywnej koncentracji na zarządzaniu zasobami w<nbsp/>placówkach. Chcąc chronić swoje główne funkcje, Świadomość musiała pozbyć się tej części kodu. Zrobiła to, przenosząc ją do wirtualnego klona jej samej. Dzięki temu klon ten mógł zarządzać zasobami placówek, podczas gdy ona sama mogła poświęcić całą swoją uwagę na innych aspektach prowadzenia wojny."/>
 	<entry name="ResourceNetworkUpgradeFlavor" value="Wielu lekceważyło mistrzowskie zarządzanie logistyką przez Emulowaną Świadomość, uważając to za efekt uboczny jej cybernetycznego stanu. Myślę, że to nie była prawda. Widać było ludzką rękę w<nbsp/>przesuwaniu linii zaopatrzenia i<nbsp/>pozyskiwaniu zasobów. Było w<nbsp/>tym zrozumienie dla ludzkich ograniczeń. W<nbsp/>jej poprzednim życiu – przed wojną – to mogła być część jej pracy."/>
 	<entry name="RestlessUpgrade2Flavor" value="Przez pustkowia biegły najróżniejsze drogi, nawet takie, których nie widzieliśmy. A<nbsp/>przynajmniej tak twierdził Zabijaka, ale cholera, on… jak? Po pewnym czasie potrafił wskazać ekipie inżynierskiej jakieś miejsce, a<nbsp/>ona znajdowała tam starą drogę. Czy pamiętał, jak po nich jeździł? A<nbsp/>może wyczuwał zapach asfaltu? A<nbsp/>może… nie, niemożliwe, żeby tworzył je siłą woli…"/>
 	<entry name="RestlessUpgradeFlavor" value="Ryk silnika. Świst kul. Wiatr we włosach i<nbsp/>owady między zębami. Tak wyglądała nasza walka u<nbsp/>boku Zabijaki. Na drodze strzelaliśmy na oślep seriami do przypadkowych przechodniów. Dzięki szkoleniu wiedzieliśmy, że trzeba strzelać z<nbsp/>poprawką, ale nic nie mogło nas przygotować na skurcze pojawiające się po wielu godzinach siedzenia na stanowisku strzelca."/>
 	<entry name="SatelliteScanUpgradeFlavor" value="Gdy niewyspana specjalistka wpisała nieprawidłowe współrzędne podczas rutynowego skanowania satelitarnego, odpowiedziała jej konstelacja sond. Urządzenia Akrynów oraz ludzi zaśmiecały układ słoneczny, czekając tylko na to, aż ktoś je obudzi."/>
 	<entry name="ScavengerUpgrade2Flavor" value="Myślę, że Romantyk od samego początku wiedział, że będzie musiał być bardziej… „praktyczny”, niż chciał. Pewnego dnia rozkazał nam, żebyśmy rozdali żołnierzom specjalne kanistry pod ciśnieniem. Rozkładały one materię na surowce, których potrzebowaliśmy do wygrania wojny. „Używajcie tego tylko na martwych lub zniszczonych” – ostrzegł. „Jeśli kogokolwiek tym zabijecie, wywalę was na zbity pysk”."/>
 	<entry name="ScavengerUpgradeFlavor" value="„Myślałem, że to ty miałeś być człowiekiem z<nbsp/>zasadami” – powiedziałem, gdy zobaczyłem, jak Romantyk uchyla trumnę. Kopaliśmy na cmentarzu. Potrzebowaliśmy paliwa do ognia. „Jestem” – odparł, ględząc coś pod nosem na temat tego, że zasady powinny przynosić korzyść żyjącym. „A martwi… raczej ich nie potrzebują, prawda?”"/>
+	<entry name="SeeAsISeeUpgradeFlavor" value="Czy kiedykolwiek znalazłeś się w<nbsp/>narastającej rozpaczy? To teraz wyobraź sobie, że nie chodzi o<nbsp/>samą gonitwę myśli, ale że cały twój umysł błąka się po salach marmurowego pałacu. Panikujesz, chcesz krzyczeć, ale wiesz, że musisz uciekać, bo tuż za tobą na każdym kroku czyha Hrabia. On nie zawsze chce twojego czasu. Czasem potrzebuje twojego strachu."/>
 	<entry name="ShochitrisLairUpgradeFlavor" value="Kultyści spędzili cały tydzień na karmieniu siłą Shoch'itrisa mieszanką przypraw obcych oraz leków znalezionych w<nbsp/>bazach starego świata. Przez ten biało-czerwony proszek czyraki na powierzchni jego skóry powiększyły się, a<nbsp/>on sam na polu bitwy zaczął wypluwać z<nbsp/>siebie bardziej wynaturzone deformacje."/>
 	<entry name="SurthodaisKissFlavor" value="Przyszła do ciebie we śnie. Prowadziła do swojego świata. Wyglądała na przybitą, gdy rzekłeś, że nie możesz iść przez krwawe pnącza. „Z tym pocałunkiem możesz” – odparła, po czym przycisnęła swoje usta do twoich. I<nbsp/>pędy dostały się do twoich ust. Obudziłeś się. Kolejnego dnia, gdy szedłeś przez krwawe pnącza, czułeś, jak gdyby jej zwyrodnienia wciąż dotykały twojej skóry."/>
 	<entry name="SurvivalTrainingUpgradeFlavor" value="Poległy Żołnierz przeglądał każdy pobitewny raport i<nbsp/>zachodził w<nbsp/>głowę, co by zrobił, gdyby był na froncie. Myśli te przerodziły się w<nbsp/>obsesję, dlatego zlecił opracowanie symulatora walk, który miał za zadanie nauczać podwładnych jego własnego instynktu. Każdej jego myśli. Aż wszyscy żołnierze staną się jego przedłużeniem…"/>
 	<entry name="SystemicResetUpgradeFlavor" value="Jakiś inżynier zrugał mnie za narzekanie na rozmagnesowujące się karabiny Gaussa. Miałem zły dzień i<nbsp/>zarzuciłem mu, że dali nam felerną broń. „To nie my, kretynie” – rzucił. – „Cybernetyczne dziwolągi zjebały ci spluwę. Teraz bardzo kreatywnie korzystają z<nbsp/>kodu”. Odrzucił do mnie karabin. – „Ogarnij się i<nbsp/>daj mi się zająć robotą”."/>
+	<entry name="TacticalInsertionUpgradeFlavor" value="Pieśń rangerów niosła się cicho po całym obozie. „Zabójczy sztylet swą opowieść snuje, prawdziwy ranger w<nbsp/>świetle gwiazd poluje”. Wymknąłem się. Ujrzałem naszą załogę – samych weteranów – przygotowujących się do startu. „W szeregach wroga śmierć czyha sroga, więc splam swą broń krwią, gdy wrogowie śpią”."/>
 	<entry name="TalesOfTheHuntUpgrade2Flavor" value="„Władca, który pojechał za zachód, by podbić kontynent… mówisz, że był »chanem«?” Zabijaka ożywił się, gdy objaśniałem mu taktykę „charasz”. Zignorował lekcję historii, chciał tylko dowiedzieć się czegoś więcej o<nbsp/>tym człowieku. Nie ma to jak zamiłowanie do dramaturgii."/>
 	<entry name="TalesOfTheHuntUpgradeFlavor" value="Łupieżcy zginęli, ale to samo spotkało moją drużynę. Wszystkich zabito w<nbsp/>walce wręcz poza murami miasta. A<nbsp/>ludzie na blankach… wznosili okrzyki radości? Po prostu podobało im się przedstawienie. Co za pojeby."/>
 	<entry name="TenderMinistrationsUpgrade2Flavor" value="Gnając przez pola, można było się zamyślić i<nbsp/>zapomnieć, o<nbsp/>co walczymy, szczególnie, że wojna zdawała się nie mieć końca. Ale kiedy Matka stawała się silniejsza, to samo działo się z<nbsp/>nami. Odzyskiwaliśmy siły nawet w<nbsp/>ruchu. Dokładnie widzieliśmy, dla kogo walczymy."/>
 	<entry name="TenderMinistrationsUpgradeFlavor" value="„To jest woda, a<nbsp/>to studnia…” Dlaczego te słowa rozbrzmiewały w<nbsp/>moim umyśle? To nie jej słowa, ale coś, co wydawało się takie oczywiste, kiedy się nami opiekowała. Szept z<nbsp/>innego świata, mantra, która… leczyła? A<nbsp/>może krzywdziła? Na pewno szkodziła mojej głowie."/>
-	<entry name="TheOutsiderUpgradeFlavor" value="Trybunał wzywał Obcego za pomocą pieśni. Gdy Triada wykonywała ten śpiew poprawnie, moc Głosu niosła się razem z<nbsp/>nim, a<nbsp/>odrażająca bestia istniejąca poza czasem i<nbsp/>przestrzenią stawała się silniejsza – wiedziała, że prawdziwy pan to wszystko obserwuje."/>
+	<entry name="TheOutsiderUpgradeFlavor" value="Trybunał wzywał Obcego za pomocą śpiewu. Gdy Triada wykonywała ten śpiew poprawnie, moc Głosu niosła się razem z<nbsp/>nim, a<nbsp/>odrażająca bestia będąca poza czasem i<nbsp/>przestrzenią zostawała z<nbsp/>nimi na dłużej – wiedziała, że prawdziwy pan to wszystko obserwuje."/>
 	<entry name="ThereIsHopeUpgradeFlavor" value="Przyparli mnie do muru. Znowu. Pocisk drasnął mnie w<nbsp/>dupsko. Sprawdziłem plecak w<nbsp/>poszukiwaniu bandaża, a<nbsp/>zamiast niego znalazłem wyrzeźbionego ptaka – symbol nadziei Romantyka… musiał mi go ukradkiem tam włożyć. Poczułem, że coś z<nbsp/>niego wypadło. Żadna tam magia Głosu ani cybergówno SI, tylko bibelot własnoręcznie wykonany przez Romantyka. Ból nieco zelżał. Wystarczająco na tyle, by złapać karabin i<nbsp/>wrócić do walki."/>
+	<entry name="TheSureThingUpgrade2Flavor" value="Jeśli nie masz konkurencji, możesz dyktować ceny. Powiedzenie to jest tak samo prawdziwe na apokaliptycznym rynku minerałów, jak i<nbsp/>w koloniach robotniczych. Tyrani wszelkiej maści wiedzą, że iluzja wyboru potrafi utrzymać tłum w<nbsp/>ryzach."/>
+	<entry name="TheSureThingUpgradeFlavor" value="Nie znałem się na tym, ale wiedziałem, jak wygląda desperacja. Z początku to Dziedzic błagał kontrahentów, zawierając transakcje związane z<nbsp/>minerałami. Ale gdy znalazł nowe złoża, role się odwróciły – to oni byli zdesperowani i<nbsp/>akceptowali umowy na złych dla siebie warunkach."/>
+	<entry name="TimeOutOfJointUpgrade2Flavor" value="Tylko ja czułem niechęć do mocy Hrabiego. Do jego „daru”. Wiedziałem najwięcej o<nbsp/>tym, jak cenny jest czas, jak niewiele go ma olbrzymia większość ludzi i<nbsp/>jak bolesne jest rozciąganie go w<nbsp/>nieskończoność. Hrabia udawał, że ten czas oddaje. A po prostu kradł go w<nbsp/>innej postaci."/>
+	<entry name="TimeOutOfJointUpgradeFlavor" value="„Cóż za niewdzięczność!” – powiedział z<nbsp/>pogardą w<nbsp/>odpowiedzi na mój wybuch. – „Wszyscy moi zwolennicy wykrwawiają swój czas na ziemi. Ale kiedy chcę niektórym z<nbsp/>was go oddać, słyszę wasze biadolenie. Niech będzie. Ktoś inny otrzyma ten dar…”"/>
 	<entry name="TransubstantiationUpgradeFlavor" value="Fanatycy Głosu dali mi do myślenia… Czy wszyscy, z<nbsp/>maszynami włącznie, byliśmy częścią Głosu? „Skoro tak uważasz” – odpowiedział Romantyk. – „Nasze dusze znajdują się między tym, co cybernetyczne, a<nbsp/>tym, co dziwne. Gdybyśmy zbudowali most, Głos mógłby przejść na drugą stronę. A<nbsp/>gdyby przeprawa została wysadzona…” – zamyślił się… na pewno rozmyślał o<nbsp/>własnym moście."/>
 	<entry name="TrappedUpgrade2Flavor" value="„Jedno miasto, jeden świat, jeden naród”. Nowa wizja Emulowanej Świadomości, w<nbsp/>której ludzkość żyje w<nbsp/>jednym ogromnym mieście, skrywała gorzką prawdę: lata wojny sprawiły, że jej ludzie byli tak przestraszeni, podzieleni i<nbsp/>paranoiczni, jak ona sama. Ale wszystkim innym mówili, że żyją w<nbsp/>najwspanialszym miejscu na Ziemi."/>
 	<entry name="TrappedUpgradeFlavor" value="Uwięzienie w<nbsp/>pojedynczym mieście doprowadziło Emulowaną Świadomość do paranoi – choć potężne mury dawały jej ludziom nadzieję. Nie obawiali się konsekwencji jednego udanego ataku. Zamiast tego sądzili, że znaleźli przywódcę, który zrobi wszystko, by ochronić swoich poddanych."/>
@@ -191,10 +242,11 @@
 	<entry name="UndyingUpgrade2Flavor" value="A więc taki był w<nbsp/>tym wszystkim haczyk. Tkanka Poległego Żołnierza nie uzdrawiała tak po prostu ciał nosicieli. Gdy wojna się skończyła… było jak w<nbsp/>świętej księdze: „…i stworzył Bóg człowieka na swój obraz, na obraz Boga go stworzył”. Zamień „Bóg” na „Poległy Żołnierz” i<nbsp/>wtedy zrozumiesz, jaki mieliśmy problem."/>
 	<entry name="UndyingUpgradeFlavor" value="W miarę jak wojna się przedłużała, ciała tych, którzy nosili tkankę Poległego Żołnierza, walczyły z<nbsp/>tą tkanką. Byliśmy zmuszeni osłabiać ich układy odpornościowe i<nbsp/>sprawiać, by uznawały one tkankę ich dowódcy za swoją własną. Ich ciała łączyły się z<nbsp/>nim na zawsze."/>
 	<entry name="UnrestrainedDisassemblyFlavor" value="Dobra, przyznaję. „Antycząstkowa czystka” była jedną z<nbsp/>najlepszych rzeczy, jakie mieliśmy. Oczyszczała z<nbsp/>mazi obcych, gromadziła nieco bardzo potrzebnej energii, a<nbsp/>po podrasowaniu była w<nbsp/>stanie złagodzić ból wszystkich biologicznych istot stojących na linii działania urządzenia. Korporacje z<nbsp/>dawnego świata były okrutne, lecz tego właśnie potrzebowaliśmy."/>
+	<entry name="VorodaisBargainUpgradeFlavor" value="Nadeszła wiadomość z<nbsp/>góry: od tej chwili Vorodai żąda jedynie krwi „ochotników”. Gówno prawda. Wszystkich, których poświęcaliśmy, nazywaliśmy po wszystkim „ochotnikami”. Ten strach przed tym, że wybiorą właśnie ciebie – i<nbsp/>że powiedzą twojej rodzinie, że sam tego chciałeś… myślę, że właśnie tym żywił się Vorodai."/>
 	<entry name="WeWhoAreAboutToDieUpgrade2Flavor" value="Ach, kult. Kolejny uparty przywódca obiecujący słabym, chorym i<nbsp/>umierającym wszystkie odpowiedzi na pytania o<nbsp/>przyszłość. Odurzał ich spalinami, a<nbsp/>nie pieprzeniem Głosu… Może cały ten gaz sączący się z<nbsp/>Ziemi czynił go potężniejszym nie bez powodu. Może przez cały czas ropa była silniejsza od Głosu."/>
 	<entry name="WeWhoAreAboutToDieUpgradeFlavor" value="Kurwa, później nie przeszkadzało mu, że nasi żołnierze wymknęli się spod kontroli i<nbsp/>zaczęli rozwalać sobie łby. Wszystkie miejskie placówki i<nbsp/>strefy pogrążyły się w<nbsp/>chaosie, zamieniły się w… jak się to nazywa? „Strefy pogo”? Zabijaka chyba lubił, gdy jego podwładni walczyli między sobą. Po tym wszystkim straciłem do niego trochę sympatii."/>
 	<entry name="WhispersOfTheVoiceUpgrade2Flavor" value="Trybunał nie potrzebował, by ktokolwiek „akceptował” fakt, że nauka i<nbsp/>skalany Głosem mistycyzm współdziałały w<nbsp/>harmonii, wystarczyło to rozkazać. Nauka obserwuje i<nbsp/>bada rzeczywistość, a<nbsp/>jeśli rzeczywistość jest związana z<nbsp/>wolą Głosu… to naukowcom nie pozostaje nic innego, jak zostać kapłanami."/>
 	<entry name="WhispersOfTheVoiceUpgradeFlavor" value="Triumwirat, czy też Trybunał, miał zadziwiające przeczucie co do tego, jakie badania powinny być w<nbsp/>następnej kolejności przeprowadzane przez naukowców. Nie dlatego, że Triada znała prawdę kryjącą się za nauką… ale dlatego, że Głos pokazał im, jak będzie wyglądać już ustanowiona przyszłość."/>
-	<entry name="WordsOfTheProphetUpgrade2Flavor" value="Ktoś – zapewne Poległy Żołnierz – rozkazał spalenie ksiąg Proroka i<nbsp/>uwięzienie każdego, kto rozsiewał słowa Wielkiego Mówcy na jego terytorium. Dzieciak jednak był sprytny. Wysłał tam swoich wyznawców, ale dał im błogosławione przez Głos księgi, których treść była widoczna jedynie dla tych, którzy byli na nią gotowi. Przyciągnął tym większą liczbę wyznawców i<nbsp/>nawet łatwiej ich werbował, by walczyli dla sprawy."/>
+	<entry name="WordsOfTheProphetUpgrade2Flavor" value="Ktoś – zapewne Poległy Żołnierz – rozkazał spalenie ksiąg Proroka i<nbsp/>uwięzienie każdego, kto rozsiewał słowa Wielkiego Mówcy na jego terytorium. Dzieciak jednak był sprytny. Wysłał tam swoich wyznawców, ale dał im błogosławione przez Głos księgi o<nbsp/>treści widocznej jedynie dla tych, którzy byli na nią gotowi. Przyciągnął tym większą liczbę wyznawców i<nbsp/>nawet łatwiej ich werbował, by walczyli dla sprawy."/>
 	<entry name="WordsOfTheProphetUpgradeFlavor" value="To niesamowite. Stań w<nbsp/>szeregach tych, którzy sprzeciwiali się Nieobliczalnemu Prorokowi, a<nbsp/>i<nbsp/>tak odnajdziesz wśród nich jakichś jego wyznawców. Słowa heretyków i<nbsp/>wygnanych sprawiały, że jego religia rozlewała się poza granice jego terytorium. To wstrząsnęło wszystkimi – bo gdy Prorok szeptał żołnierzowi do ucha, istniało duże prawdopodobieństwo, że zmieni on stronę walki…"/>
 </language>

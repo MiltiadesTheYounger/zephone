@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="Wymaganych miejsc na ładunek"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="Ładunki"/>
+	<entry name="BuildingSlotsDescription" value="Liczba budynków, które można zbudować na polu."/>
+<entry name="Charges" value="Ładunki"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="Układy scalone"/>
 	<entry name="ChipsDescription" value="Używane do wytwarzania oraz utrzymania jednostek cyberbytów."/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="Liczba ech wymiarowych zużywanych w<nbsp/>każdej turze, aby utrzymać dany podmiot."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="Koszt duplikacji typu"/>
+	<entry name="DuplicateTypeCostLimit" value="Limit kosztu duplikacji typu"/>
 	<entry name="Energy" value="Energia"/>
 	<entry name="EnergyDescription" value="Używana do utrzymania budowli, a<nbsp/>także do wytwarzania oraz utrzymania jednostek specjalnych."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="zasięg widzenia"/>
 	<entry name="IgnoreLineOfSight+" value="Ignoruje"/>
-	<entry name="IgnoreZoneOfControl" value="ruch przez pola z<nbsp/>wrogimi jednostkami"/>
+	<entry name="IgnoreZoneOfControl" value="ruch przez pola z<nbsp/>wrogimi jednostkami i ich strefę kontroli"/>
 	<entry name="IgnoreZoneOfControl+" value="Pozwala na"/>
-	<entry name="Influence" value="Wpływ"/>
+	<entry name="HitpointsPerGroupMember" value="Punkty życia na członka grupy"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="Wpływ"/>
 	<entry name="InfluenceDescription" value="Wykorzystywany do zdobywania oraz utrzymywania pól dla miasta, wykonywania zdolności specjalnych, rekrutacji i<nbsp/>utrzymywania jednostek bohaterów, jak również do zakupu przedmiotów i<nbsp/>zasobów."/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Koszt w<nbsp/>punktach wpływu"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Koszt utrzymania w<nbsp/>punktach lojalności"/>
 	<entry name="LoyaltyUpkeepDescription" value="Liczba punktów lojalności zużywanych w<nbsp/>każdej turze, aby utrzymać dany podmiot."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Maksymalna liczba punktów zdrowia każdego członka oddziału"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="Morale"/>
 	<entry name="MoraleDescription" value="Stan psychiczny jednostki. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="Morale odnawia się, jeśli jednostka nie otrzymała obrażeń w<nbsp/>poprzedniej turze."/>
