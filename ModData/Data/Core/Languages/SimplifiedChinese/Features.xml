@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>随机提供高级秘音奖励"/>
 	<entry name="ArcDischarge" value="放电电弧"/>
 	<entry name="Arctic" value="极地"/>
+	<entry name="ArenaCyber" value="竞技场（赛博）"/>
+	<entry name="ArenaCyberFlavor" value="<string name='Quests/TheMartialEthic/ArenaCyberVictory2'/>"/>
+	<entry name="ArenaHuman" value="竞技场（人类）"/>
+	<entry name="ArenaHumanFlavor" value="<string name='Quests/TheMartialEthic/ArenaHumanVictory2'/>"/>
+	<entry name="ArenaVoice" value="竞技场（秘音）"/>
+	<entry name="ArenaVoiceFlavor" value="<string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/>"/>
+	<entry name="AtmosphericAnchor" value="大气锚点"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
 	<entry name="Bleed" value="异血"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="厄瑞玻斯挖掘机"/>
 	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5%几率提供随机物品奖励"/>
 	<entry name="Fire" value="火焰"/>
+	<entry name="FiveSoldiers1" value="需要1个实体"/>
+	<entry name="FiveSoldiers1Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers3" value="需要3个实体"/>
+	<entry name="FiveSoldiers3Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers6" value="需要6个实体"/>
+	<entry name="FiveSoldiers6Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
 	<entry name="FleshTree" value="血肉之树"/>
 	<entry name="Forest" value="森林"/>
 	<entry name="GravityField" value="重力场"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
 	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
 	<entry name="PhaseGenerator" value="相位发电机"/>
+	<entry name="ReaverDepot" value="蛮盗帮据点"/>
+	<entry name="ReaverDepotProperties" value="<icon texture='GUI/Bullet'/>每隔20回合生成蛮盗帮或者是爆弹手"/>
 	<entry name="RecyclingTanks" value="回收培养罐"/>
 	<entry name="River" value="河流"/>
 	<entry name="Road" value="道路"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
 	<entry name="SmokeScreen" value="烟幕"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="SurvivorsBazaar" value="幸存者的集市"/>
 	<entry name="Swamp" value="沼泽"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -71,7 +88,7 @@
 	<entry name="Watchtower" value="监视塔"/>
 	<entry name="WhisperingWights" value="低语亡魂"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanDreyFlavor" value="阿布卡罕会使用削尖的松树树干筑巢。我们有向厄金猎人们询问过该如何对付这些巨兽，猎人告诉我说，在厄金人的母星，手持长枪的猎人们会组成方阵并慢慢朝兽穴推进。这种手段安全而且高效，但是耗时长久。我们并没有那种闲情逸致。比起传统的冷兵器，威力巨大的火炮能够直接将野兽和它们的巢穴炸得稀巴烂。"/>
 	<entry name="AcrinCrashSiteFlavor" value="每当我们以为厄金人的轨道舰队已经全军覆没的时候，总会又有一艘飞船像陨石一般在熊熊烈焰中坠入大气层。厄金人会前往飞船碎片回收来自母星的设备。人类则会设法夺取里面的科技。至于泽芬……我到现在也不明白泽芬到底有什么目的。我只知道这些失事地点已经成为了兵家必争之地。"/>
 	<entry name="AdvancedCyberCacheFlavor" value="有那么一段时间里面，我的几位副官们都在绞尽脑汁思考处理这些储备补给品时的策略。如果拿到的是资源，那我们应该将其全部投入生产。如果找到的是军事单位，我们则可以将它们纳入自己的军事体系。但我劝他们没必要在这种事情上多费心思。与其祈祷能够从中得到什么神兵利器，不如好好思考该如何弄死眼前的敌人。"/>
@@ -79,6 +96,7 @@
 	<entry name="AdvancedVoiceCacheFlavor" value="这些宝贵的厄金人物资可以说是一种”从天而降“的馈赠。在它们的入侵舰队覆灭后，每天我们都能看见许多轨道残骸在引力的牵扯下坠向地面，有时候这些残骸会带来新的物资或者是幸存者。虽然这些补给能够帮助我们生存，但它们也同样提醒着我们：就在头顶的天空之上有一座巨大的金属坟场，谁也不知道这些坠落的残骸是否潜藏着致命的危险。"/>
 	<entry name="ArcDischargeFlavor" value="你知道这种现象的来源吗？泽芬的地下线路覆盖了地球上的每一块区域，如果挖开地面，你会发现里面铺设着绵延几百公里的铜线。在泽芬操纵的庞大能源网络中，这些电弧可以说只是里面微乎其微的几个小数点。你可以设法利用这部分散溢的能量，但你的敌人们也一样。"/>
 	<entry name="ArcticFlavor" value="旧世界的冰冷荒原已经成为了那些长着雪白身躯的外星野兽的家，现在这些地方就是那些超级进化后的阿布卡鲁斯的狩猎场。尽管风险巨大，但我们仍然会尝试开发这些区域：这种特殊地形能够帮助我们的科研团队进行工作。相对干燥的气候、开阔的地形以及低温环境对于武器测试项目来说都是有利无弊，反正那帮科学家是这么说的。不过也有可能只是他们单纯喜欢寒冷罢了。"/>
+	<entry name="AtmosphericAnchorFlavor" value="又是钟表匠的科技。那些家伙坚持称创造这些东西是为了在冷热空气交汇的地区采集自然能量。但是我认为他们根本不理解自己的人民。就凭他们的聪明才智，怎么可能没有察觉这种装置存在潜在的武器化用途……但是自始至终都没有人提出质疑。"/>
 	<entry name="BleedFlavor" value="秘音来自另一个现实的触须就像是鲜血一般从缝隙中渗入了我们的世界，那些地方就像是通往疯狂与噩梦的门扉。这些东西不属于我们的地球。那些扭曲而且布满黏液的肢体不断向外伸展，无论是血肉还是金属都会成为它们的食粮。就算是在梦中，我也无法逃脱那种可怕的景象。噩梦往往会在满月期间浮现，在那种时候，我会在满身冷汗之中突然惊醒，然后惊魂未定地回忆着梦里面想要将我拉入地下的可怕力量。原本我以为那只是单纯的梦，但后来我在餐厅中听见了其他人的窃窃私语。他们也梦到了那个让人透不过气的恐怖存在。"/>
 	<entry name="BrushFlavor" value="在仅存的植被区域中，你能够找到以植物为食的小动物，以及捕食小动物的食肉动物，这是一种生命的轮回。如果我们还有更多时间，我们原本可以更加融洽和谐地融入到大自然的秩序之中。但现在我们没有多余的精力再去顾虑除了生存以外的问题。兵马未动粮草先行，为了活下来，我们必须填饱每一位士兵的肚子。"/>
 	<entry name="CicadasFlavor" value="听着，我其实对这种事情没有意见。昆虫富含蛋白质，而且稍加处理便能做成一顿美味佳肴。就算是在战前，有很多地区与国家的人们都有吃蝉的习惯。现在这些昆虫成为了我们喂养人口的得力帮手，不管你愿不愿意，你的选择就只有两种：要么饿死，要么闭上嘴安心吃虫。"/>
@@ -97,6 +115,7 @@
 	<entry name="MicrochipFabricatorFlavor" value="泽芬采用了一种去中心化的工厂网络来生产自己需要的微型芯片。曾经我们天真地以为，只需要占领一座工厂就能够打击到泽芬的痛点。但事实上它对此根本不屑一顾。就算一处工厂被关闭，它眨眼之间便能够在另一个安全地点建设起新的车间，而且流水线从始至终都不需要暂停调整。"/>
 	<entry name="NuclearFalloutFlavor" value="哼。虽然现在人们张口闭口都在骂泽芬和厄金人是毁灭地球的畜生，但不要忘记……我们曾经也厚颜无耻地拨动过末日时钟的指针，难道不是吗？在人类还无法彻底脱离地心引力的那个时代，我们就曾经将全世界的所有文明逼到了毁灭的边缘。真正该令人感到讽刺的是，我们现在竟然需要用这种充满罪孽的武器来拯救属于我们的地球。"/>
 	<entry name="PhaseGeneratorFlavor" value="曾经我遇到过一名女子正在修理像这样的发电机，那是我人生中第一次与钟表匠们接触。当时我跟她……争论着谁该拥有这些建筑。“你们的目的是为了赢下这场战争，但我的目的是为了阻止下一场战争。“她这么反驳着我最初的观点。最后我们决定双方各退一步。假如我们愿意将一部分能源分给钟表匠，他们将会启动护盾程序并保护我们的人民。"/>
+	<entry name="ReaverDepotFlavor" value="我曾经跟铂金子嗣展开了一场持续数个月的漫长鏖战……在我们当时交火的地区的正中心位置上，恰好有一座蛮盗帮基地。于是每隔几周，有一方就会推进战线并占领那里，而那里的蛮盗帮成员们也会立刻调转枪头对准之前的雇主。虽然没有任何忠诚可言，但这反而在某些程度上使得他们相当可靠。"/>
 	<entry name="RecyclingTanksFlavor" value="这些东西实在是令人作呕。那些在废土之中苟延残喘的秘音教徒会建造像这样的设施来生产额外的菌藻。虽然死亡无处不在，但是这些疯子根本没有挖掘墓地的习惯，他们会直接把各式各样的尸体和肉块脏器丢入一个剧毒池沼，然后等待它们逐渐化为一锅恶臭难当的“浓汤”。每次需要去这种地方的时候，我都会随身携带一套粒子面罩。"/>
 	<entry name="RiverFlavor" value="地球上的所有猎食动物都知道一个道理：猎物在寻找水源期间会暴露出最大的破绽。而猎物们也很清楚，寻找水源需要冒生命危险。我们应该做的就是成为猎人，但如果你发现自己不幸成为了他人眼中的猎物，有一条保命的秘诀可以告诉你：就算是最迅捷的猎人，也会受困于奔流不息的河水。"/>
 	<entry name="RoadFlavor" value="首次修建完一条完整的公路之后的当晚，我驾驶着一辆游骑兵在上面一路狂奔。我知道自己这么做是在浪费汽油，但是只要能够重新感受到吹拂发梢的气流，听见转弯时轮胎在柏油路面上拼命刮擦的吱嘎声，我觉得一切都值得了。我不想再回去打仗了。我只想在公路上永无休止地疾驰。"/>

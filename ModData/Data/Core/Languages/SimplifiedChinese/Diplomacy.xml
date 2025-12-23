@@ -13,6 +13,8 @@
 	<entry name="AcceptAllianceWithThirdParty/AskParty" value="<style name='Bold'/>考虑向第三方提议签署联盟协定：<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="<style name='Bold'/>同意向第三方提议签署联盟协定：<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptPartyResult" value="%2%已向%3%提议签署联盟协定。"/>
+	<entry name="AcceptCondemn" value="<style name='Bold'/>接受谴责：<style name='Paragraph'/> "/>
+	<entry name="AcceptCondemnResult" value="%2%对你与你的朋友的外交态度已降低。"/>
 	<entry name="AcceptGift/AskAmount" value="<style name='Bold'/>考虑接受礼物：<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmount" value="<style name='Bold'/>接受礼物：<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="你已经赠予礼物，%2%对你的外交态度已经改善。"/>
@@ -26,6 +28,8 @@
 	<entry name="AcceptPeaceWithThirdParty/AskParty" value="<style name='Bold'/>考虑与第三方签署和平协定：<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="<style name='Bold'/>同意与第三方签订和平协定：<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2%已向%3%提议签署和平协定。"/>
+	<entry name="AcceptPraise" value="<style name='Bold'/>接受表扬：<style name='Paragraph'/> "/>
+	<entry name="AcceptPraiseResult" value="%2%对你与你的朋友的外交态度已提高。"/>
 	<entry name="AcceptTradeAgreement" value="<style name='Bold'/>接受贸易协定：<style name='Paragraph'/> "/>
 	<entry name="AcceptTradeAgreementResult" value="双方已经签署贸易协定，%2%对你的外交态度已经改善。"/>
 	<entry name="AcceptTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
@@ -55,6 +59,9 @@
 	<entry name="AskForSupport" value="<style name='Bold'/>请求支援：<style name='Paragraph'/> "/>
 	<entry name="AskForSupportHint" value="花费影响力购买另一方的单位。"/>
 	<entry name="CancelAction" value="<style name='Bold'/>取消动作：<style name='Paragraph'/> "/>
+	<entry name="Condemn" value="<style name='Bold'/>谴责：<style name='Paragraph'/> "/>
+	<entry name="CondemnHint" value="公开谴责另一方。<br/><br/>降低%2%对你与你的朋友的外交态度。"/>
+	<entry name="CondemnResult" value="%2%以及他们的朋友对你的外交态度已经恶化。"/>
 	<entry name="CondemnAllianceResult" value="因为你与%3%的联盟关系，%2%对你的外交态度已经恶化。"/>
 	<entry name="CondemnCityDestructionResult" value="因为%3%的毁灭与你有关，%2%对你的外交态度已经恶化。"/>
 	<entry name="CondemnInterferenceAttemptResult" value="因为发现你尝试干涉%3%，%2%对你的外交态度已经恶化。"/>
@@ -139,6 +146,9 @@
 	<entry name="OfferTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
 	<entry name="PeaceHint" value="签署和平协定的双方无法彼此攻击。"/>
 	<entry name="PeaceWith" value="<style name='Bold'/>和平协定：<style name='Default'/>"/>
+	<entry name="Praise" value="<style name='Bold'/>表扬：<style name='Paragraph'/> "/>
+	<entry name="PraiseHint" value="公开表扬另一方。<br/><br/>提高%2%对你与你的朋友的外交态度。"/>
+	<entry name="PraiseResult" value="%2%以及他们的朋友对你的外交态度已经改善。"/>
 	<entry name="PraiseLabelResult" value="因为%3%，%2%对你的外交态度已经改善。"/>
 	<entry name="PraiseWarResult" value="因为你与%3%开战，%2%对你的外交态度已经改善。"/>
 	<entry name="RejectAlliance" value="<style name='Bold'/>拒绝结盟：<style name='Paragraph'/> "/>
@@ -169,6 +179,8 @@
 	<entry name="RejectTribute/RejectAmountHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
 	<entry name="RejectTribute/RejectAmountResult" value="<string name='Diplomacy/RejectTribute/RejectOutrightResult'/>"/>
 	<entry name="RejectTroopWithdrawal" value="<style name='Bold'/>拒绝撤回部队：<style name='Paragraph'/> "/>
+	<entry name="RejectTroopWithdrawalHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="RejectTroopWithdrawalResult" value="%2%对你的外交态度已经恶化。"/>
 	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="<style name='Bold'/>拒绝向第三方宣战：<style name='Paragraph'/> "/>
 	<entry name="RejectWarAgainstThirdParty/RejectParty" value="<style name='Bold'/>拒绝向第三方宣战：<style name='Paragraph'/> "/>
 	<entry name="Relationships" value="<style name='Bold'/>关系：<style name='Default'/>"/>
@@ -198,7 +210,8 @@
 	<entry name="Standing5" value="友善"/>
 	<entry name="Standing6" value="慷慨"/>
 	<entry name="StandingWithYou" value="<style name='Bold'/>对你的外交态度：<style name='Default'/>"/>
-	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>如果在%1%回合内执行，你将被视为是<icon texture='Icons/Traits/Untrustworthy' height='20'/><string name='Traits/Untrustworthy'/>。<style color='Default'/>"/>
+	<entry name="Untrustworthy" value="<style color='GUI/Red'/>你已经被视为是<string name='Traits/Untrustworthy'/>，这将持续%1%回合。<style color='Default'/>"/>
+	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>如果在%1%回合内执行，你将被视为是<string name='Traits/Untrustworthy'/>。<style color='Default'/>"/>
 	<entry name="WaitForResponse" value="（请耐心等待%1%考虑回应……）"/>
 	<entry name="WarHint" value="在战争状态下，双方将能够攻击彼此。"/>
 	<entry name="WarWith" value="<style name='Bold'/>战争：<style name='Default'/>"/>
@@ -213,6 +226,7 @@
 	<entry name="Anchorite/AcceptCall/Friendly" value="为了欢迎志同道合之人。"/>
 	<entry name="Anchorite/AcceptCall/Hostile" value="接近了，时间正在不断流逝。不要浪费仅剩的机会。"/>
 	<entry name="Anchorite/AcceptCall/Neutral" value="欢迎。"/>
+	<entry name="Anchorite/AcceptCondemn" value="我已经知道，你觉得我能够成为另外一种模样。幸好那是不可能的。"/>
 	<entry name="Anchorite/AcceptGift/AcceptAmount" value="我们曾经是与你们对抗的远征，现在却成为了失败的残党。但你仍然选择了帮助我们。我不禁思考：为什么秘音认为人类是邪恶的存在？"/>
 	<entry name="Anchorite/AcceptGift/AskAmount" value="我们接受任何残羹冷饭。"/>
 	<entry name="Anchorite/AcceptMapSharing" value="掌握知识并不困难。但如果缺乏智慧……必将招致毁灭。"/>
@@ -221,6 +235,7 @@
 	<entry name="Anchorite/AcceptPeace" value="为了这一刻。为了知晓对于和平的渴望。"/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AcceptParty" value="我们接受。面对像你一样的仲裁者……"/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AskParty" value="你正在试图缔造和谐，这不禁让我陷入了沉思。究竟……谁将怜悯我们？"/>
+	<entry name="Anchorite/AcceptPraise" value="我很高兴能够从他人的口中得到认可。"/>
 	<entry name="Anchorite/AcceptSupport/AcceptType" value="可以接受。我们也将得到祝福。"/>
 	<entry name="Anchorite/AcceptSupport/AskType" value="我们想知道是什么。为什么。要给谁。"/>
 	<entry name="Anchorite/AcceptTradeAgreement" value="为了感谢你。厄金人正处于困顿的窘境。我们对你的感谢将超越千年的时光。"/>
@@ -238,9 +253,11 @@
 	<entry name="Anchorite/AdmitDefeat" value="我花费了一生的时间去研究降临在沙漠中的玄秘。我因此理解了永恒的生命与力量。为此，我们追随异界的声音穿越群星。我们丢弃了自己的生活与文明。在虚空之中，我们度过了无数的岁月。直到这一刻，这可耻的终结。我们将用优雅与喜悦去接纳这一结束。为了感谢你。"/>
 	<entry name="Anchorite/AskForProposals" value="无尽的人生，在等待。回答，立刻。"/>
 	<entry name="Anchorite/CancelAction" value="我需要片刻时间……来平复心情……"/>
-	<entry name="Anchorite/Condemn/InhumanKindness" value="我知道从它的掌中吮吸仙浆的诱惑。扭曲、改变、异化。为了摆脱死亡而消散。我们永远不会再走上那种道路。"/>
+	<entry name="Anchorite/Condemn" value="我担忧你必须踏上的道路。前方只有深沉的黑暗。"/>
+	<entry name="Anchorite/Condemn/AgelessHunger" value="死神如影随形。但你明明可以亲手阻止它的脚步。"/>
 	<entry name="Anchorite/Condemn/Gluttony" value="我理解你的动机。你全身心投入到对于欢愉的追求，而不是想方设法抚平痛苦。但是我抗拒这种行为的道德理念与结果。"/>
 	<entry name="Anchorite/Condemn/Immoral" value="你明明生命的可贵，你也理解痛苦为何物，你却仍然一意孤行。哪怕真正的正义并不存在，但像你这样的人永远是纯粹的邪恶。"/>
+	<entry name="Anchorite/Condemn/InhumanKindness" value="我知道从它的掌中吮吸仙浆的诱惑。扭曲、改变、异化。为了摆脱死亡而消散。我们永远不会再走上那种道路。"/>
 	<entry name="Anchorite/Condemn/Untrustworthy" value="在历史的循环与无数次的重生中，我见证了所有的谎言与真相。我知道欺骗会对一个人的灵魂带来什么样的灾难。"/>
 	<entry name="Anchorite/CondemnAlliance" value="我赞扬和平……但谴责%3%。永无止境的车轮将再次转动。"/>
 	<entry name="Anchorite/CondemnCityDestruction" value="从我们的陨落中幸存下来的寥寥无几。对于我的许多人民来说，%3%是他们最后的庇护之地。明白他们所承受的痛苦。尽管如此，我将努力摆脱仇恨，对你的仇恨……我们丧心病狂的外星敌人。"/>
@@ -253,6 +270,8 @@
 	<entry name="Anchorite/DeclareWar/HeartlessArtificer" value="我对你只有憎恶。你那空无一物的心永不满足。尽管如此，对于必将到来的那一刻，你仍然至关重要。尽管我并不享受这么做，但我必须铲除你。"/>
 	<entry name="Anchorite/DeclareWar/HollowWarlord" value="我仰慕你执着于当下的决心。但我同样憎恶你想要创造的当下。我明白，为了这里的所有生灵，我必须毁灭你。"/>
 	<entry name="Anchorite/DeclareWar/HonorableAristocrat" value="我已经见证你错综复杂的关系网络。我知晓那就是你真正的价值，你的财富与对于奢华享受的流连忘返不过是表象。但是我必须立刻行动，以免你无法实现真正的目标并沦为所有生命的威胁。"/>
+	<entry name="Anchorite/DeclareWar/InfiniteCount" value="我为你纠结缠绕的生命感到惋惜。像我也同样无法轻易解脱，所以只能付诸于亚历山大技巧。我必须彻底斩断联系。"/>
+	<entry name="Anchorite/DeclareWar/PlatinumScion" value="很遗憾。你很清楚精华的价值。但你却拒绝长大。我知道祂正是因为这一点才垂青于你。不知道是否是嫉妒驱使着我这么做？"/>
 	<entry name="Anchorite/DeclareWar/PracticalRomantic" value="我能够感受到你心中的大爱。我担心就算面临失败，你也会一次又一次重新崛起。和我们做的所有事一样，这也是为了完成必将到来的目标。为了团结所有生命。我必须成为你的敌人，为了反抗时间。"/>
 	<entry name="Anchorite/DeclareWar/RogueOperative" value="我能够理解你那种荒诞的幽默。我认为你拥有着过人的精明手段。我也知道你用温柔的笑声嘲弄一切。但其实隐藏在内心深处的坚强自我才是你真正的价值。我不得不立刻行动，为了抹去失败的可能性。"/>
 	<entry name="Anchorite/DeclareWar/TwistedMother" value="我看见了我的人民的覆灭。我见证了我们的宗教的死亡。我聆听了无数枉死者的哭嚎。我知道你就是它的化身！"/>
@@ -293,11 +312,14 @@
 	<entry name="Anchorite/OfferPeace/HeartlessArtificer" value="智慧并非是一种客观的东西。年轻的时候，我以柔软的洞窟为家，是裹挟着尖锐砂砾的沙漠之风一笔一划雕刻出了那里的形状。如果将来有机会去那里，你肯定也会喜欢那里自然形成的结构与纹理。"/>
 	<entry name="Anchorite/OfferPeace/HollowWarlord" value="你的请求毫无意义。但你执意如此。"/>
 	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="我的厄金同胞们希望能够加入你的关系网络，而不是在孤立之中饥饿凋零。能否请你考虑和平的可能性？"/>
+	<entry name="Anchorite/OfferPeace/InfiniteCount" value="透过同一双眼睛观察我们的世界。我祈祷这能够带来最好的结果。为此我愿意侍奉祂。"/>
+	<entry name="Anchorite/OfferPeace/PlatinumScion" value="我对于贪婪只有鄙夷。但是我愿意谅解你，因为我知道和平是远离对于物欲的贪婪的第一步。"/>
 	<entry name="Anchorite/OfferPeace/PracticalRomantic" value="没错，梦想是一种美好的东西。但世界是客观存在的，并不会因为个人的意志而改变。和平才是我们应该迎接的未来。"/>
 	<entry name="Anchorite/OfferPeace/RogueOperative" value="我们并不想要你的东西。而我们拥有的东西也少得可怜。我有个想法……也许你的战争对象可以只局限于那些掌握财富与强权之人？"/>
 	<entry name="Anchorite/OfferPeace/TwistedMother" value="我怜悯你。我想要给你反思过错的时间。"/>
 	<entry name="Anchorite/OfferPeace/UntoldProphet" value="终于。无论结局如何，我将得到期盼许久的安宁。"/>
 	<entry name="Anchorite/OfferTradeAgreement" value="帮助我们重新站稳脚跟，我们也将向你们证明自己的价值。"/>
+	<entry name="Anchorite/Praise" value="我知道善行的价值。我也知道何时该献上赞扬。"/>
 	<entry name="Anchorite/Praise/AnchoriteStanding" value="你送来了许多礼物与使者。现在考验已经结束，我很满意。在穿越了漫长的时间与空间之后，我终于感受到了爱。"/>
 	<entry name="Anchorite/Praise/Mysticism" value="虔诚是睿智的表现。但只有真正的智者才能躲避狂信的深渊。"/>
 	<entry name="Anchorite/Praise/Undying" value="你是受祝福的被选中之人。在无尽的岁月中，我从未见过像你这样完整重生之人。你就像是一个不可思议的奇迹。"/>
@@ -339,6 +361,7 @@
 	<entry name="Chieftess/AcceptCall/Friendly" value="哟，%2%！要不要过来一起耍？我跟兄弟们正准备出去干一票呢！"/>
 	<entry name="Chieftess/AcceptCall/Hostile" value="给我滚远点，混球！如果这么着急想死的话，干脆告诉我你们的位置。"/>
 	<entry name="Chieftess/AcceptCall/Neutral" value="哦！%2%！稍等，我去喊人过来……你今天是来干架的，是吗？"/>
+	<entry name="Chieftess/AcceptCondemn" value="哈哈哈哈。哦我去，等等。你是来真的？啊哈哈哈哈！"/>
 	<entry name="Chieftess/AcceptGift/AcceptAmount" value="说真的……以前还从来没有人主动送东西给我过，平常都是我去……“求”他们的。谢谢……这么做很暖心。"/>
 	<entry name="Chieftess/AcceptGift/AskAmount" value="礼物？怎么回事，今天圣诞节啊？希望你已经想好了，给我的就归我了啊。你给我准备了什么宝贝？"/>
 	<entry name="Chieftess/AcceptMapSharing" value="很公平，让我们分享地图吧。正好我不想派斥候去你的地盘瞎转悠，反过来你也不敢派人来我这。"/>
@@ -347,6 +370,7 @@
 	<entry name="Chieftess/AcceptPeace" value="我已经厌倦了战斗，%2%。我现在累了。让我们都歇一歇吧，等休息好了再想办法弄死对方也不迟。"/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AcceptParty" value="%3%……这么说那软蛋找你帮忙去了。行吧，看在你的面子上，我做就是了。"/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AskParty" value="嗯……不是不行。所以是谁，那家伙实力怎么样？"/>
+	<entry name="Chieftess/AcceptPraise" value="你是在拍马屁吗？怎么，看上我了？这可不是什么约会软件，傻子。"/>
 	<entry name="Chieftess/AcceptSupport/AcceptType" value="很公平。我可以接受。到时候别大惊小怪就好。"/>
 	<entry name="Chieftess/AcceptSupport/AskType" value="你？需要我的帮助？哈哈哈哈。所以要啥？"/>
 	<entry name="Chieftess/AcceptTradeAgreement" value="你帮我，我就帮你。是这意思吧？我同意。"/>
@@ -364,7 +388,9 @@
 	<entry name="Chieftess/AdmitDefeat" value="唉……最后还是大意了。没关系，你确实更强。<br/><br/>那什么，能不能……用我自己的刀给个痛快？然后那个，嗯，等我……走了之后。拜托你要记得照顾好它，定期打磨，好吗？拜托了。<br/><br/>好了。我准备好了。别让姑娘等太久……<br/><br/>……没错，我就是那个姑娘。"/>
 	<entry name="Chieftess/AskForProposals" value="所以？赶紧的，让我干等着算怎么回事？"/>
 	<entry name="Chieftess/CancelAction" value="真是浪费时间。"/>
+	<entry name="Chieftess/Condemn" value="妈的，伙计。你到底想干嘛？"/>
 	<entry name="Chieftess/Condemn/HeartfeltLoss" value="不要因为那种小事情难过，伙计。“诶哟，我的弟兄们都挂啦，只恨我是个软弱的诗人。”呸，赶紧认清现实吧你这个娘炮！"/>
+	<entry name="Chieftess/Condemn/TheSureThing" value="坐享其成？这也太无聊了吧？你这个吃人血馒头的企业小白脸？博弈才是生命的真谛，你永远不知道谁才能活到最后！"/>
 	<entry name="Chieftess/Condemn/Trapped" value="花花世界等着我去烧杀劫掠，就你这家伙整天躲在围墙后面不出来。别扫兴，出来玩呀。"/>
 	<entry name="Chieftess/Condemn/Undying" value="你这可是作弊啊，伙计。不死不灭也太过分了。这不是耍赖么。不管捅多少刀都不会咽气，你这不是逗兄弟们玩么？！"/>
 	<entry name="Chieftess/Condemn/Untrustworthy" value="盗亦有道！至少堂堂正正地朝对手的脸上开枪，只有懦夫才背后捅刀子。整天搞些阴谋诡计实在是不像话。"/>
@@ -381,6 +407,8 @@
 	<entry name="Chieftess/DeclareWar/HeartlessArtificer" value="你好，畜生。你是我的敌人了。看你整天都神经兮兮的，我就想着得确保你能够理解这件事。"/>
 	<entry name="Chieftess/DeclareWar/HollowWarlord" value="你这个王八蛋！我可没有忘记那天晚上的事！就是拿厄金人当靶子的那天？你把老娘的刀给弄出缺口了。混蛋！我不会放过你的。"/>
 	<entry name="Chieftess/DeclareWar/HonorableAristocrat" value="你的人个个吃的肥头大耳，但我的兄弟们可都饿瘦了。开饭时间到。"/>
+	<entry name="Chieftess/DeclareWar/InfiniteCount" value="把你的脏手拿开！别对我嬉皮笑脸的！你死定了，听见了嘛，死定了！"/>
+	<entry name="Chieftess/DeclareWar/PlatinumScion" value="手表不错。还有那些乱七八糟的小玩意也是。不过它们马上就要归我了。"/>
 	<entry name="Chieftess/DeclareWar/PracticalRomantic" value="你好，老家伙。虽然我不会写诗，但还请你听好：我，来了。我，想说。我，恨你。开战吧！怎么样，还挺好听吧？拿个金曲奖应该没什么问题？"/>
 	<entry name="Chieftess/DeclareWar/RogueOperative" value="喂，说的就是你，鬼鬼祟祟的家伙。我最讨厌就是那种见不得光的勾当。所以呢，我要干死你，听懂了吗？这是战争！"/>
 	<entry name="Chieftess/DeclareWar/TwistedMother" value="臭娘们！快叫孩子们躲起来！我来了！"/>
@@ -420,14 +448,18 @@
 	<entry name="Chieftess/OfferPeace/HeartlessArtificer" value="我滴个老天爷。虽然我也不喜欢有些蛮盗帮的做法，但你简直是不把自己人当人看！这点我真的比不了。"/>
 	<entry name="Chieftess/OfferPeace/HollowWarlord" value="我去，伙计。你打起架来简直像是个不要命的恶鬼！好了，让我喘两口气。"/>
 	<entry name="Chieftess/OfferPeace/HonorableAristocrat" value="我懒得费功夫去杀你。还是先歇一歇吧，我还得去考虑别的营生。"/>
+	<entry name="Chieftess/OfferPeace/InfiniteCount" value="老东西。听说你可以预知未来。所以假如我放你一马，你能不能……把下个礼拜的彩票中奖号码告诉我？"/>
+	<entry name="Chieftess/OfferPeace/PlatinumScion" value="我还挺喜欢你那套精致打扮，小子。这样吧：我不会再屠杀你的朋友们。只要你给我搞一件14码的漂亮裙子，我们可以一起找个地方吃晚餐。不过你买单。"/>
 	<entry name="Chieftess/OfferPeace/PracticalRomantic" value="别想太多，但是那什么……你那边有没有可以借给我的诗集？杀人杀太多了，难免让人的心里有点触动。<br/><br/>（但是这不代表我不会杀你。可能会晚点，但肯定不会放过你的。）"/>
 	<entry name="Chieftess/OfferPeace/RogueOperative" value="听着，我的蛮盗帮都快给你干完了。我得重新去招人，所以暂时是打不起来了。不如大家各退一步？"/>
 	<entry name="Chieftess/OfferPeace/TwistedMother" value="哈。没想到你竟然有两把刷子。佩服佩服。"/>
 	<entry name="Chieftess/OfferPeace/UntoldProphet" value="小孩，很抱歉我们之前做了那么多坏事，还烧掉了你们的很多教堂。我在想啊，也许我应该去找其他人下手。正好让你稍微也喘口气，毕竟你还是个小屁孩。总之就这样！"/>
 	<entry name="Chieftess/OfferTradeAgreement" value="这段时间我们都抢了彼此的不少商队。其实我们大可以去掉这种步骤，直接老老实实做生意呗？"/>
+	<entry name="Chieftess/Praise" value="吼吼！干得漂亮，伙计！只要你能继续保持，我保证会为你留一个位置的。"/>
 	<entry name="Chieftess/Praise/ChieftessStanding" value="你愿意收留我的伙计们？哇哦，你真是……太好心了。我就喜欢有礼貌的人。我现在很看好你。"/>
 	<entry name="Chieftess/Praise/HitAndRun" value="游击战术？就像是敲响敌人的大门，然后一颗雷扔进去撒腿就跑？咋了？你小时候没干过这种事么？"/>
 	<entry name="Chieftess/Praise/Scavenger" value="你做得很好。合脚的靴子就拔掉自己穿，人腿直接剔骨放烤架上去。嘎嘣脆，鸡肉味！"/>
+	<entry name="Chieftess/Praise/SeeAsISee" value="我草，伙计！再来一遍！那种感觉太他妈不可思议了！就算是罗梅罗也要甘拜下风！再来！再来！"/>
 	<entry name="Chieftess/Praise/TalesOfTheHunt" value="我还没听够！所以你真的用刀子把那些家伙做成肉干了？能不能让我尝两块？你也太牛了吧！"/>
 	<entry name="Chieftess/PraiseWar" value="哇，没想到你人这么好。也许这回蛮盗帮就不需要冲在最前面，就等你的小小……战争结束，到时候让我们分一杯羹就行。"/>
 	<entry name="Chieftess/RejectAlliance" value="帮你有什么好处？等你有点实力再来说这事吧……到时候你甚至可以花钱交保护费。"/>
@@ -466,6 +498,7 @@
 	<entry name="EmulatedMind/AcceptCall/Friendly" value="亲爱的（朋友），PRINT10 你好。我cai你想要的。不（只是）和我聊天……"/>
 	<entry name="EmulatedMind/AcceptCall/Hostile" value="哦，是（ni）。什么。是*NI*（想要）的？"/>
 	<entry name="EmulatedMind/AcceptCall/Neutral" value="PRINT10 你好。什么。是（你）需要我、我、我做的？"/>
+	<entry name="EmulatedMind/AcceptCondemn" value="哦！你真的（hen）擅（chang）{打动}。女nv女生的[[心]]。/执行轻笑程序。"/>
 	<entry name="EmulatedMind/AcceptGift/AcceptAmount" value="看来。我仍然能够感、感、GANSHOU感受、到。感激。我真的好ji、dong、jidong、激动！"/>
 	<entry name="EmulatedMind/AcceptGift/AskAmount" value="我真正想要的是找回自己……我的人、人、人性，我的自、自我……你能够提供与那xiangdang的东西吗？"/>
 	<entry name="EmulatedMind/AcceptMapSharing" value="没有任何地图能够带我找到我想要的快、快、快乐，但是我愿意接受。这次的交换。知识。"/>
@@ -474,6 +507,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="好的。我从来不（想要）战、争。我们只（想要）和平。"/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="说实话，我都不（记得）为什么要跟%3%战斗。有可能是laonianchidai或者是数、*数据*损坏，你说呢。"/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="在死过……*神经元信号慢慢熄灭永远的黑暗*……1次之后，我认为挽救生命是一件高gui的举措。确切来说是拯救（某些人）的生命……总之，你、你、你这次是代表谁、谁shuishui而来？"/>
+	<entry name="EmulatedMind/AcceptPraise" value="我、我、我{难以置信}得到了? >>认、ren、ke、可\<\<终于。等得我[[好]]苦。"/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="贸易是让人们yuanli战争的金色（纽带）。我的无人机将、mashang、开始向你的城市输送货物。"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="等、等、等一下，什么。*为*什*么*？难道dang0tian送达（还不够）快么？！"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="（TRUE）确实，与%3%jiaoyi缺乏效、率。我的*无人机*正在返航，并且不会再（去）他们那里。"/>
@@ -492,8 +526,10 @@
 	<entry name="EmulatedMind/AskForSupport/Chieftess" value="如果你的。{心}中有过一丝（人性）。请帮助我的renmin。证明（人性）并不是一纸空谈。"/>
 	<entry name="EmulatedMind/AskForSupport/Zephon" value="你知道吗。我（看见）你了。就在我的。系统里面。一切都在走（xia）坡路。我需要帮助。"/>
 	<entry name="EmulatedMind/CancelAction" value="[我]想说… [我][我]对、{{dui、不起}}。 [我]不、bu、buzhidao[自己]在发shenm、疯。"/>
+	<entry name="EmulatedMind/Condemn" value="& [他们] .m.a我.[不是]人！"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="不、不bu。人性是质疑，能动性才是自我yishi的表现。（你的邪教）是在。抹灭人、renxing。==（虚假的先知），（虚假的信仰）。"/>
 	<entry name="EmulatedMind/Condemn/Honorbound" value="当（你的。人民）在（高墙背后）大快朵颐，他们的同胞正在挨饿。你的那些手段。也许在你眼中十分、高、贵，而且*有利*所有人，按照你/xuan、称/的那样。但是经、金、济是一种零和博弈。你留给（我们的人民）的总数，小\<于\<零。"/>
+	<entry name="EmulatedMind/Condemn/PersonalVisit" value="你这是zai打[我的]l.i.a.n。"/>
 	<entry name="EmulatedMind/Condemn/Untrustworthy" value="难道是我还不配当（人类）。所以你在对待（*我*）的时候。才从不顾忌任何道德上的考量？"/>
 	<entry name="EmulatedMind/CondemnAlliance" value="O. o.O. o.残暴的恶棍。你竟然和他们走到了一起？和%3%？（我看见*你*了。）我……无法……原谅这种事。"/>
 	<entry name="EmulatedMind/CondemnCityDestruction" value="我费、尽、一、切（才建造）了第二（2）座城市。一切的反·思·，一切的[努力[。现在%3%沦为了一片废墟，我（-分隔的-）自我--永远失去了--。我的*朋友们*四散而qu。"/>
@@ -508,6 +544,8 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="我没有（心）。没有（身体）。&我比你x2倍更像是（人类）。（你）怎么能够做出那种事。而且你明明知道自己带来了多少痛苦。你必须（死）。为了自己犯下的罪孽。"/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="（永远）、（一直）、（~连续反复~），你一直在、追寻！KUAI、乐！但你永远{无法满足}。但SHOU苦的是这个世界。虽然我的{身体}只是一具TIEPI罐头，但也比你的肌、肉更多人XING。"/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="哼，你这个（败家子），（贪吃鬼）。单纯的ganguan体验并不是通往启迪的道路，你还必须学会自省。我必须阻止你，在你吞、噬我们*所有人*之前。"/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((看kan)) 你，*伯爵*，不过是血、rou和骨、ge组成的可悲（怪物）。在时间的长廊中徘徊。就凭你也敢_挑战_完美的不朽存在……\<\<error>>。"/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<hu-hu-hu>>（ 你）已经彻底**丧失** 人性。我受够了(你)的陈腔滥调。bi、须这么做。但我的心中毫无波澜。不过你记住。这场（（战争））并非出于嫉妒。"/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="请不要为此编写.（糟糕的）~诗歌~。你的#命运#不配成为（十四行诗）&（牧歌）的主题。这场战争对（我们彼此双方）都不是什么好事。"/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="我、我、我知道。你在做、什么……偷窥我的（xi）统，想要找到jinlai的路。放任你继续下去只会威胁到我（自己），这点毋庸置疑（*2）。考虑到你的一*贯*作*风*。干脆让我们放下（掩饰）。开战吧。"/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{那么}独、立{那么}GU、独。[但我不能原谅]。[我无法忘记]。总有一天。你会...*YUAN*谅（（我））"/>
@@ -550,13 +588,16 @@
 	<entry name="EmulatedMind/OfferPeace/HeartlessArtificer" value="你们（不）值得。你就是一具没有灵魂的皮囊。我嫉妒你，因为你能够死亡。"/>
 	<entry name="EmulatedMind/OfferPeace/HollowWarlord" value="难道你看见的SIWANG还（不）{足够}？难道你还想[[继续]]？你的[[人性]]呢？没了？"/>
 	<entry name="EmulatedMind/OfferPeace/HonorableAristocrat" value="这样如何？也许我们可以。（停止战斗）&回到过去。返回（各自的城市）&（假装一切都没有发生过）？"/>
+	<entry name="EmulatedMind/OfferPeace/InfiniteCount" value="[[循环播放]] 请*z.H.U手* [[/循环播放]]"/>
+	<entry name="EmulatedMind/OfferPeace/PlatinumScion" value="[[先、生]] 请立刻停止你的. x(敌意行为)x.这样（不体面）。"/>
 	<entry name="EmulatedMind/OfferPeace/PracticalRomantic" value="和平，诗人，和平。战争这种事没有一丝浪漫可言。战争只会为我们想要保护之人带来（*SIWANG*）。我们欠他们太多太多了。"/>
 	<entry name="EmulatedMind/OfferPeace/RogueOperative" value="我们。不能。再继续这样下去。我的意识已经无力支撑。太多太多。需要专注处理的线程。也许我们可以（握手言和）？"/>
 	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[JIEMEI！]我们必须xxx战斗xxx嘛？！我已经厌倦了（这么多）死亡。我*知道*。它的 >控制\<，我（太）懂了。"/>
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="孩、子。停止你这种无异议的胡闹。我无法理、解你想要达成的目的。这场战争只会使你失去潜在的信徒。收手吧。"/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="你创造了我。你重、塑了我。以你自己的（形、象）我不能与你为敌。我渴望HE、PING。"/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="我愿意给你提供一个（好处多多、绝佳）的提议……（其他人）绝对无法开出这么诱人的条、件。"/>
-	<entry name="EmulatedMind/Praise/Abhorrent" value="他们在看...[[我们]]。他们假装我们>>不如>>{renlei}，但（我们比\\<\他们中的很多\<\<都\<更像>）{renlei}。"/>
+	<entry name="EmulatedMind/Praise" value="放眼全r.E.n类，能够做zuo左（你刚刚做的事）的人>寥寥无几\<。请接收{{我的}}感谢。"/>
+	<entry name="EmulatedMind/Praise/Abhorrent" value="他们在看...[[我们]]。他们假装我们>>不如>>{renlei}，但（我们比\<\<他们中的很多\<\<都\<更像>）{renlei}。"/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="那个！NAGE！我必须知道！怎么怎么怎么。如果我知道{我可以。LI开我的*棺材*监狱*躯壳。}"/>
 	<entry name="EmulatedMind/Praise/Independent" value="这样的生活很艰苦。孤独孤独孤独。很痛苦。但是要面对再多的（过往的幽灵与回响）也值得。为了独立。自食其力。"/>
 	<entry name="EmulatedMind/Praise/WhispersOfTheVoice" value="这些低语。蕴含着真相。虽然这些话语来自异界。它们提到了。即、将、到、来的shijie。那、值得。被、仰慕。"/>
@@ -596,6 +637,7 @@
 	<entry name="FallenSoldier/AcceptCall/Friendly" value="你好朋友。在这些黑暗的时刻，听见你的声音总能让我安心许多。请问我能为你做什么？"/>
 	<entry name="FallenSoldier/AcceptCall/Hostile" value="你好，朋……你好。你倒是有几分胆量，竟敢主动找我。告诉我你想要什么，然后我会给你解释为什么不能给你。"/>
 	<entry name="FallenSoldier/AcceptCall/Neutral" value="你好……朋友。我感觉我们之间最近的关系不太融洽。自从……你应该知道我指的是哪件事。希望你愿意弥补这一点。"/>
+	<entry name="FallenSoldier/AcceptCondemn" value="哼。你以为轻飘飘的几句话就能够阻止我吗？"/>
 	<entry name="FallenSoldier/AcceptGift/AcceptAmount" value="谢谢，这是一份很好的礼物。有了这些东西，我们就可以再多坚持一段时间。我不会忘记这份恩情的。"/>
 	<entry name="FallenSoldier/AcceptGift/AskAmount" value="哦，谢谢你的好意。每一份食物与饮水都能帮助我们坚持下去。你可以给我们多少？"/>
 	<entry name="FallenSoldier/AcceptMapSharing" value="共享我们的战术情报？好主意。我这就把我们迄今为止的发现传给你，这已经不是过去的那个世界了。"/>
@@ -604,6 +646,7 @@
 	<entry name="FallenSoldier/AcceptPeace" value="嗯。当你和我一样经历了那么多战争，并且亲眼看着自己的朋友在炮火中粉身碎骨，任何人都会第一时间接受和平。"/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="和谈？跟他们？这可不是什么小事，要知道……行吧。既然是你提出来的，我可以接受。"/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AskParty" value="你明白我向往和平，但这取决于你想要我与谁和谈。"/>
+	<entry name="FallenSoldier/AcceptPraise" value="谢谢，但我并不是为了他人的赞扬才这么做的。"/>
 	<entry name="FallenSoldier/AcceptTradeAgreement" value="和平，贸易与诚实守信的友谊，这是相互尊重的基础。就让我们看看纷争能够消失多久，好吧？"/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTermination" value="我明白。贸易就像是一段感情，而感情需要尊重与认可。如果你不认可，我会尊重你的想法。"/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="很公平，比起他们，我更重视和你的友谊。虽然这么做并不轻松，但我答应你。"/>
@@ -622,6 +665,7 @@
 	<entry name="FallenSoldier/AskForSupport/Chieftess" value="蛮盗帮。我需要帮助。但我是不会跪下来求你们的。"/>
 	<entry name="FallenSoldier/AskForSupport/Zephon" value="说实话我不知道你能不能理解我说的话。但该说的还是得说。我和我的人民……我们需要帮助。"/>
 	<entry name="FallenSoldier/CancelAction" value="算了。战场瞬息万变，我们的计划也一样。"/>
+	<entry name="FallenSoldier/Condemn" value="这样不行。不行，就这么简单。"/>
 	<entry name="FallenSoldier/Condemn/FoundationOfBlood" value="你这个披着人皮的怪物。你的追随者们都是有血有肉的鲜活生命，他们并不是你成神的垫脚石。没有人的文明毫无意义，更谈不上完美。"/>
 	<entry name="FallenSoldier/Condemn/TheOutsider" value="立刻停止那种行径。你们给这个世界带来了……难以想象的恐怖。对于神秘主义的痴迷已经让你们变得盲目，你们现在就是一群人不人、鬼不鬼的疯子。不能再允许你们继续下去。"/>
 	<entry name="FallenSoldier/Condemn/Untrustworthy" value="我曾经做过很多……惨无人道的事情。但就算是我也明白，什么是荣誉。什么是信任。什么是正直。但是你呢？你就是那些美德的反义词。"/>
@@ -639,6 +683,8 @@
 	<entry name="FallenSoldier/DeclareWar/HeartlessArtificer" value="你就是一个冷血无情的疯子。眼睁睁地看着人民在痛苦中挣扎。你却丝毫不为之所动。我不能再容忍你那种丧心病狂的统治。开战吧。"/>
 	<entry name="FallenSoldier/DeclareWar/HollowWarlord" value="看看你。就像是在用一个歪歪扭扭的易拉罐照镜子。所有东西都熟悉却又错误。就像你犯下的那些暴行。"/>
 	<entry name="FallenSoldier/DeclareWar/HonorableAristocrat" value="我在跟你讲话，能不能麻烦你不要再忙着狼吞虎咽了？我的人民正在忍饥挨饿，而你……算了，你不会懂的。开战吧。"/>
+	<entry name="FallenSoldier/DeclareWar/InfiniteCount" value="无论要穿越多少时间分支，我我一定会抓住你。就让我们来看看谁先认输吧，“无尽”先生。"/>
+	<entry name="FallenSoldier/DeclareWar/PlatinumScion" value="你这种人我见多了。一辈子没有吃过苦的公子哥。学历是买来的，而且靠手段逃过了兵役。但是这次没那么容易，人渣。"/>
 	<entry name="FallenSoldier/DeclareWar/PracticalRomantic" value="对不起，老师。我原本希望我们不会走到这一步。但你已经成为了我们的阻碍，这一次我必须从实际出发。我知道你也不会动摇。我答应你，以后我会经常来你的墓碑旁念诗的。"/>
 	<entry name="FallenSoldier/DeclareWar/RogueOperative" value="我不知道你到底是谁，我也不知道你正在那座ICAR建筑里鼓捣什么东西，但那一切该结束了。我的人马上就会找到你。这就是战争。"/>
 	<entry name="FallenSoldier/DeclareWar/TwistedMother" value="抱歉，女士。你已经成了我的阻碍。"/>
@@ -681,12 +727,16 @@
 	<entry name="FallenSoldier/OfferPeace/HeartlessArtificer" value="我们不能再继续这样下去了。我知道你不在乎自己的人民，但我恰恰相反。我的人民需要一个重建生活的机会。"/>
 	<entry name="FallenSoldier/OfferPeace/HollowWarlord" value="我知道你不喜欢这么做。我知道你宁愿看着自己的手下去死。但是我敢打赌，你不得不接受这份提议。"/>
 	<entry name="FallenSoldier/OfferPeace/HonorableAristocrat" value="你杀了我的人，我炸掉了你的蛋糕车……我们能不能停止这种无聊的行为？这么做毫无意义。"/>
+	<entry name="FallenSoldier/OfferPeace/InfiniteCount" value="伯爵，我已经厌倦了死亡。就让这场战斗到此为止吧？"/>
+	<entry name="FallenSoldier/OfferPeace/PlatinumScion" value="那个穿着漂亮西装的。如果不想让双方的血弄脏你的衣服，我们应该立刻停手。"/>
 	<entry name="FallenSoldier/OfferPeace/PracticalRomantic" value="这个世界的怪物已经够多了，我们两个不应该再彼此对抗。这种事情损人不利己。"/>
 	<entry name="FallenSoldier/OfferPeace/RogueOperative" value="战争会给双方带来毁灭。停止你那些见不得人的黑色行动，我愿意召回自己的部队。只有和平才能带来双赢的局面。"/>
 	<entry name="FallenSoldier/OfferPeace/TwistedMother" value="女士。你应该知道，我也是逼不得已才来找你。但还是请你结束那些恐怖行径。"/>
 	<entry name="FallenSoldier/OfferPeace/UntoldProphet" value="小孩，快收手吧。你的那些狂信徒只是在白白送死。我们不应该再这么做。"/>
 	<entry name="FallenSoldier/OfferPeace/Zephon" value="希望你的意识或者是算法能够听我一句话：这场战争对你我来说都没有好处。是时候该停止了。"/>
 	<entry name="FallenSoldier/OfferTradeAgreement" value="“团结不同的国家并阻止战争”，你知道实现这一点的秘诀是什么吗？分享美食，娱乐与文化。让我们分享彼此的货物，这对于双方来说都是有利无弊。"/>
+	<entry name="FallenSoldier/Praise" value="我知道并不是所有人都会这么说，但我认为你在做正确的事。"/>
+	<entry name="FallenSoldier/Praise/PersonalVisit" value="说实话我应该朝你那一尘不染的鞋子上吐痰。但是我得说，能够看见你和我们这些普通人打成一片。这种心态值得尊重。哪怕你只是来视察的。"/>
 	<entry name="FallenSoldier/Praise/TenderMinistrations" value="我一直想找机会告诉你……其实我们很像，呵。"/>
 	<entry name="FallenSoldier/Praise/ThereIsHope" value="你的词典里就没有“放弃”这两个字，对吗？无论经历了多少痛苦与损失，内心中的某种东西都在支撑着你继续前行……你应该明白我的意思。这种美德值得钦佩。"/>
 	<entry name="FallenSoldier/PraiseWar" value="我绝不支持毫无意义的屠杀。但如果是拥有着明确的敌人、目标与手段的战争……我可以支持。"/>
@@ -725,6 +775,7 @@
 	<entry name="FurtiveTribunal/AcceptCall/Friendly" value="终于。我们一直渴望着能够听见你的声音。"/>
 	<entry name="FurtiveTribunal/AcceptCall/Hostile" value="我们之所以回答，是因为我们必须回答，命运的安排下不存在单独的意志。"/>
 	<entry name="FurtiveTribunal/AcceptCall/Neutral" value="我们听见了你的呼唤，孤独之人。"/>
+	<entry name="FurtiveTribunal/AcceptCondemn" value="简单的头脑无法承受太多的真相。"/>
 	<entry name="FurtiveTribunal/AcceptGift/AcceptAmount" value="清脆晃动的钱币，王子侯爵的欢笑，还有水晶球的摩挲……这一切都是你的璀璨未来投射出的光影。"/>
 	<entry name="FurtiveTribunal/AcceptGift/AskAmount" value="正确的贡品甚至能够打动众神。你挑选了一个正确的时机，但你是否带来了正确的礼物？"/>
 	<entry name="FurtiveTribunal/AcceptMapSharing" value="收下我们的知识，我们的希望，以及我们的信任……你缺少和我们一样的洞察力，因此你需要一切能找到的帮助。"/>
@@ -733,6 +784,7 @@
 	<entry name="FurtiveTribunal/AcceptPeace" value="很好，就让我们收起彼此心中的怒火。我们寻求的是和谐之声，而非哀歌。"/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="他们的血脉注定将成为吞噬者的食粮。但是在注定的毁灭到来之前，我们愿意接受一次短暂的间歇。"/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty" value="我们将撕裂、斩断、粉碎隔绝世界的帷幕并引领新纪元的到来，但那个时刻还没有到来。我们愿意施舍怜悯，告诉我们一个名字。"/>
+	<entry name="FurtiveTribunal/AcceptPraise" value="人们应当在沉默中接受祝福。"/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreement" value="骸骨与脓汁、臃肿吵闹的钱包、由金灿灿的蜘蛛编织出的错综复杂的道路之网，这是一份贡品……你提议的典礼引起了我们的兴趣，我们愿意接受。"/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTermination" value="这是必不可免的结局，我们真正想要的东西在这个垂死世界的骨骸之外。"/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="这是必将到来的结局。他们的贡品只是一些不值一提的尘埃与碎屑……根本无法满足我们的黑暗渴望。"/>
@@ -751,7 +803,9 @@
 	<entry name="FurtiveTribunal/AskForSupport/Chieftess" value="残暴与恐怖的孵化所，一群带来折磨的食人鱼。你们在大地与天空之间创造了这种生活，却从来没有质问过背后的原因。为了争夺残羹冷饭，你们已经永远被乐土抛弃。"/>
 	<entry name="FurtiveTribunal/AskForSupport/Zephon" value="从工业之中诞生的精密噩梦，由闪闪发光的金属构成的骑士。烈焰焊接的手指之中攥着无尽的丰饶。分享你的力量，机会转瞬即逝。"/>
 	<entry name="FurtiveTribunal/CancelAction" value="前进的道路尚不明了。让我们重新领悟征兆。"/>
+	<entry name="FurtiveTribunal/Condemn" value="看见我们编织、估量与切割而成的丝线了么。我们将用这些线将你扼杀。"/>
 	<entry name="FurtiveTribunal/Condemn/ArtificersPrecision" value="就算将你的狂妄塞进针眼之中，也不会减少分毫。肉体凡胎竟敢妄想比肩神明。"/>
+	<entry name="FurtiveTribunal/Condemn/TimeOutOfJoint" value="我们的纱线纠缠在了一起！我们的命运卡牌杂乱无章！是你，愚人，是你在我们的卡牌中胡乱游荡，使得我们扭结缠绕！是你让我们陷入了盲目。"/>
 	<entry name="FurtiveTribunal/Condemn/Untrustworthy" value="对于三者而言，单独的声音是大逆不道的愚蠢行径。公平即错误，错误即公平。但是我们三者一致认为，你那根吐着信子的分叉毒舌只会讲述谎言。"/>
 	<entry name="FurtiveTribunal/Condemn/WordsOfTheProphet" value="虚假的王，头顶着由迷雾织成的王冠。像白银般美丽的话语脱口而出，但是在被人聆听之前便蒸发殆尽。所有信徒的肩膀上都搭着一只看不见的友情之手。你正在带领自己的人民误入歧途，我们因此而仇恨你。"/>
 	<entry name="FurtiveTribunal/CondemnAlliance" value="目目相对，勾肩搭背。无数行动构成的交响乐。不洁的%3%！"/>
@@ -767,6 +821,8 @@
 	<entry name="FurtiveTribunal/DeclareWar/HeartlessArtificer" value="铁皮人被钉在了高大的柱子之上。看着柱子上的身影，稻草人在微风轻轻点头，充当脸庞的麻布袋上被人为地缝了一个永恒的微笑。但是当一阵强风刮过，铁皮人与稻草人都被统统卷走，两者的命运不分伯仲。"/>
 	<entry name="FurtiveTribunal/DeclareWar/HollowWarlord" value="大地之上空无一人。凝视着地平线，你的双眼在熊熊燃烧。在视野的尽头，一个被泪水淹没的平行世界，荒芜的波浪之下只有无尽烈焰。你必须被阻止。"/>
 	<entry name="FurtiveTribunal/DeclareWar/HonorableAristocrat" value="严明的法律与责任。背后却是空无一物。国王坐在自己的王座之上，金色的丝线捆住了手脚，使他根本无法动弹。这时候高举着剪刀的我们出现了，我们将剪短生命的细线。"/>
+	<entry name="FurtiveTribunal/DeclareWar/InfiniteCount" value="我们每个人都放下了一张卡牌。魔术师。帝皇。审判。沉默者正在诉说你的名字，%1%。圣杯陨落。"/>
+	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="芬里斯、卡延亚帕、阿波菲斯。贪念之神，那些都是你的祖先。旧世界里到处都是你们这些跗骨之蛆。是时候斩草除根了。"/>
 	<entry name="FurtiveTribunal/DeclareWar/PracticalRomantic" value="真正坦荡的心灵却遭遇了不幸。孤独的青蛙在荷叶上不断呱叫，无力地要求鹳归还自己的孩子们。我们无法给你带去帮助，只能提供湮灭。"/>
 	<entry name="FurtiveTribunal/DeclareWar/RogueOperative" value="躲藏在无人知晓的黑暗角落，无论是爆炸，冲击波还是残酷的射线都无法彻底杀死蟑螂。但活下来的意义是什么？"/>
 	<entry name="FurtiveTribunal/DeclareWar/TwistedMother" value="死神紧紧攥住船舵。为了生存，这个家庭不惜挣扎扭曲。普罗透斯瘫倒在沙滩之上，因为他们不可思议的变化而欣喜诺狂。她选择了恐怖的生物形态。铁皮男则露出了狡猾的微笑。"/>
@@ -809,12 +865,15 @@
 	<entry name="FurtiveTribunal/OfferPeace/HeartlessArtificer" value="从未有人在乎过人民的安危。国王没有，祭司也没有，被奔波的暴民践踏的人也没有。当战争结束，所有人都陷入了失落。"/>
 	<entry name="FurtiveTribunal/OfferPeace/HollowWarlord" value="空空如也的男人。哪怕是全世界的财富与罪孽都无法填满你的空洞。在通向地狱的坠落之中，不妨稍停片刻反思悔改。"/>
 	<entry name="FurtiveTribunal/OfferPeace/HonorableAristocrat" value="头戴冠冕之人啊，今晚你将可以安稳入睡。你现在终于有能力决定战争的结局。不会再有乱党威胁你的甜美梦境……"/>
+	<entry name="FurtiveTribunal/OfferPeace/InfiniteCount" value="这所有的一切你都已经经历过无数遍。那是就连你自己也无法察觉的永恒。"/>
+	<entry name="FurtiveTribunal/OfferPeace/PlatinumScion" value="钱财的王子啊，你的胸膛中有一个巨大的空洞。它贪婪地吞噬一切，但却永远无法满足。只有当你停止徒劳的攫取，那片虚空才能愈合。"/>
 	<entry name="FurtiveTribunal/OfferPeace/PracticalRomantic" value="与浪漫主义者交流时一定要万分小心。麦克白就是一位浪漫主义者，而他并不愿意接受女巫们的劝诫。给我们带来和平，浪漫主义者，只有那样我们才会继续开口。"/>
 	<entry name="FurtiveTribunal/OfferPeace/RogueOperative" value="恶棍微笑着抚平了衣领并吞噬了世界，之后他在自己的居所之下陷入了长眠，等待着绝望之人再次将他唤醒。停止我们之间的纷争，抚平你心中的伤痛。"/>
 	<entry name="FurtiveTribunal/OfferPeace/TwistedMother" value="从爱的波涛之中，神明投下的种子萌芽又改变。征服了技艺。征服了战争。"/>
 	<entry name="FurtiveTribunal/OfferPeace/UntoldProphet" value="我们的心中都寄宿着其他的灵魂。但是三与一齐心协力，一与二却茕茕独立。我们情不自禁，但那并不是出于爱。"/>
 	<entry name="FurtiveTribunal/OfferPeace/Zephon" value="铁钳与夹子用齿轮与电线创造出了一颗心脏。自动化运行的电子屏幕上浮现了龇牙咧嘴的狞笑。三者犹豫不决，思考着该遵循哪一条毁灭的道路。"/>
 	<entry name="FurtiveTribunal/OfferTradeAgreement" value="拥有四根长牙的大象。镶着金牙的塑像。挂着七枚不会腐烂的心脏的大树。征兆不会有错：只要允许商队相互往来，我们的财富都将增加。"/>
+	<entry name="FurtiveTribunal/Praise" value="四个心脏，两个意识，互为一体。我们三人将向群星赞美你的名字，%1%！"/>
 	<entry name="FurtiveTribunal/Praise/ArmorOfFaith" value="这并不仅仅是源于自信的把戏。你已经将那个灵魂绑在了三重的逆旋之上，这使得另一种存在得以降临。他们不需要害怕，暂时。"/>
 	<entry name="FurtiveTribunal/Praise/MothersFavor" value="一人嫉妒。一人惊叹。一人好奇过程中获得的启迪。但所有人都敬畏他者所触及的超乎想象的深度。"/>
 	<entry name="FurtiveTribunal/Praise/Trapped" value="倒挂的愚者正悬荡在象牙之塔上。在高塔中，女祭司默默观察着世界堕入熊熊烈焰。但女祭司并没有决定走出去。无数遗失的秘密笼罩着你，等待着被你发掘。"/>
@@ -855,6 +914,7 @@
 	<entry name="HeartlessArtificer/AcceptCall/Friendly" value="你好，建筑师！"/>
 	<entry name="HeartlessArtificer/AcceptCall/Hostile" value="你竟然打扰我的创作！"/>
 	<entry name="HeartlessArtificer/AcceptCall/Neutral" value="请表明你的来意。"/>
+	<entry name="HeartlessArtificer/AcceptCondemn" value="遭受愚者的咒骂时，真正的领袖知道自己走在了正确的道路上。"/>
 	<entry name="HeartlessArtificer/AcceptGift/AcceptAmount" value="看来你也秉持着同样的信念！我们将在历史的银色页脊中永远铭刻你的贡献。"/>
 	<entry name="HeartlessArtificer/AcceptGift/AskAmount" value="对于完美的追寻需要消耗许许多多的资源。你想要给我的计划提供什么资源？"/>
 	<entry name="HeartlessArtificer/AcceptMapSharing" value="很好，与其花费心思去研究你的领地，我宁愿集中精力管理我的铸造厂，现在让我看看你们的情报……"/>
@@ -863,6 +923,7 @@
 	<entry name="HeartlessArtificer/AcceptPeace" value="我们必须学会摆脱原始的野蛮。节省下来的资源有着更好的用途。"/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AcceptParty" value="这是一个很有趣的例子。很好！虽然我们对于未来的想法不太一样，但我不得不承认这么做能够带来改进。"/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AskParty" value="我已经发现了需要处理的瑕疵，只是不知道……你和我想的是不是一样？你如此卖力究竟是想要挽救谁？"/>
+	<entry name="HeartlessArtificer/AcceptPraise" value="真正的赞扬应该是追随我的脚步。臣服于我。不过这样也不错。"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreement" value="只要满足我的指标，这将是一次绝好的交易。但是我必须警告你，我在创作时需要源源不断的补给！"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTermination" value="很遗憾你无法满足我的需求。但是我的机器需要材料，看来我只能从其他地方想办法了……"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="如你所愿。谢谢，你的评估帮助我找到了工作流程中的一处瑕疵！"/>
@@ -881,8 +942,10 @@
 	<entry name="HeartlessArtificer/AskForSupport/Chieftess" value="说实话我不愿意在你这种人面前示弱。但是……你会享受高我一等的快感，而你只需要给我提供帮助。"/>
 	<entry name="HeartlessArtificer/AskForSupport/Zephon" value="花费我自己的资源来确保人口生存实在是太过低效。你有没有兴趣帮助他们？"/>
 	<entry name="HeartlessArtificer/CancelAction" value="这个提议过于粗糙……我必须进行调整。"/>
+	<entry name="HeartlessArtificer/Condemn" value="这甚至谈不上是错误，你是在逃避理想的目标，并转而追逐软弱的人性。愚蠢。"/>
 	<entry name="HeartlessArtificer/Condemn/HeartfeltLoss" value="你的软弱就像是一种会传染的病毒。我建议你不要再沉溺于软弱的仁慈，这只会使你的人民变得更加脆弱。如果你想的话，我很乐意给你提供对应的手术……"/>
 	<entry name="HeartlessArtificer/Condemn/Independent" value="对于独立的执着，这我可以理解。但是为了实现最高的效率，你必须学会融入他人之中，这样才能更好地利用他们。只有跻身于平庸乏味的大众中间，你才能够明白为了飞身与超越而奋斗的意义。出淤泥而不染。"/>
+	<entry name="HeartlessArtificer/Condemn/JustShipIt" value="你根本谈不上完美。这一切都将在我手中灰飞烟灭。"/>
 	<entry name="HeartlessArtificer/Condemn/LeaveNoManBehind" value="执着于保护那些卑贱的生命是一种愚昧至极的念头。冷漠是一门艺术，只有解放自己，放下同情心，那些贱民才有可能摆脱狭隘的享乐主义。"/>
 	<entry name="HeartlessArtificer/Condemn/Untrustworthy" value="纯粹洁净的元素构成使得合金能够获得稳定而且可靠的性质。但像你这种骗子就像是充满杂质的劣质金属。你只配被丢进熔炉毁灭。"/>
 	<entry name="HeartlessArtificer/CondemnAlliance" value="如果你继续与%3%掺和在一起，后果自负。如果有必要，我将会不惜代价派遣军队。"/>
@@ -898,6 +961,8 @@
 	<entry name="HeartlessArtificer/DeclareWar/HeartlessArtificer" value="有什么好说的呢？我们都是一样的。我们都明白，在审美哲理的碰撞下，更加开明与强盛的那一方才能活到最后并蓬勃发展。而失败者也会识趣地离开舞台。"/>
 	<entry name="HeartlessArtificer/DeclareWar/HollowWarlord" value="一件高效的工具。像榔头一样粗暴。但是一旦磨损，再有用的工具也会成为累赘。对于这些工具来说，等待它们的只有被彻底摧毁然后重铸。"/>
 	<entry name="HeartlessArtificer/DeclareWar/HonorableAristocrat" value="荣誉？正直？这不过是优柔寡断的情感创造出的无用概念。如果有机体或者是机器出现故障，我们只会一视同仁将其销毁。就像我即将对你做的那样。"/>
+	<entry name="HeartlessArtificer/DeclareWar/InfiniteCount" value="哼，你。你可是稀世罕见的宝贝。我会亲自将你温柔地送进我的机器，接着我们会慢慢将你解剖。"/>
+	<entry name="HeartlessArtificer/DeclareWar/PlatinumScion" value="相信你应该已经预料到这一点。把这想象成是“良性竞争”吧。"/>
 	<entry name="HeartlessArtificer/DeclareWar/PracticalRomantic" value="这是你最后一次侮辱我的美学理念。让米莱斯还有罗塞提见鬼去吧，弗兰克·劳埃德·赖特、乔纳森·伊夫还有奥本海默才是真正的艺术大师。就让我们看看谁说的更对。"/>
 	<entry name="HeartlessArtificer/DeclareWar/RogueOperative" value="你的那些入侵手段实在是漏洞百出。亏你还自以为高明。你就像是一只害虫，蚕食着伟人巨作的尸骸。我不能够也不允许任何害虫出现在我的完美世界中。"/>
 	<entry name="HeartlessArtificer/DeclareWar/TwistedMother" value="你已经彻底与完美背道而驰，我几乎有“义务”将你踩在脚下。去死吧，害虫。"/>
@@ -940,12 +1005,15 @@
 	<entry name="HeartlessArtificer/OfferPeace/HeartlessArtificer" value="我们的部队已经陷入了僵局。我提议暂时的和平，直到有一方获得压倒性的实力。"/>
 	<entry name="HeartlessArtificer/OfferPeace/HollowWarlord" value="我讨厌你持续不断的劫掠活动。还有凌晨3点在外交无线电频道上的胡言乱语。也许我们是时候该反思一下我们目前的……“关系”了。"/>
 	<entry name="HeartlessArtificer/OfferPeace/HonorableAristocrat" value="我的计划即将实现，我不需要这种干扰。去找其他人玩战争的游戏吧。"/>
+	<entry name="HeartlessArtificer/OfferPeace/InfiniteCount" value="为了避免你的人民继续受苦，我必须要求你停止攻击我的人民。你这是在浪费我的资源！"/>
+	<entry name="HeartlessArtificer/OfferPeace/PlatinumScion" value="我不太擅长这种事，所以我就直说了。我们的空洞心灵最好还是远离彼此。"/>
 	<entry name="HeartlessArtificer/OfferPeace/PracticalRomantic" value="我正在举办一场晚会，希望你能够赏光参加，你甚至可以给大家朗读自己的蹩脚打油诗。当然，前提是你得先召回自己的部队。"/>
 	<entry name="HeartlessArtificer/OfferPeace/RogueOperative" value="你是谁来着？我的某个对手么？我都忘记我们正在打仗了。怎么样，还需要继续吗？"/>
 	<entry name="HeartlessArtificer/OfferPeace/TwistedMother" value="哦，尽管从美学角度来说是丑陋至极，但是你的形态却拥有惊人的效率。我必须思考这一点与我的项目之间的关系。"/>
 	<entry name="HeartlessArtificer/OfferPeace/UntoldProphet" value="“拯救世界的孩子”。你的这种鲜明概念中存在着一种自古以来便存在的美学特点，我不希望毁掉这一点。如果你愿意撤回自己的部队，我这边也会做同样的事。"/>
 	<entry name="HeartlessArtificer/OfferPeace/Zephon" value="虽然你的设计过于粗暴，从审美角度上来说甚至是令人厌恶，但是那些作品的效率毋庸置疑。我需要一些时间来研究并改进它们……"/>
 	<entry name="HeartlessArtificer/OfferTradeAgreement" value="合作对于我们双方的经济体系来说都是有利无弊。如果偶尔发现自己的商队失踪，请不用担心……我保证会用材料补偿你们的！"/>
+	<entry name="HeartlessArtificer/Praise" value="离真正的完美又近了一步，血肉、感情与和睦都被尽数剥离。这让我怎么不能敬仰你！"/>
 	<entry name="HeartlessArtificer/Praise/Honorbound" value="经济就像是一台不停运转的机器，而你对于原则以及责任的推崇……那就是这台机器最好的润滑剂。"/>
 	<entry name="HeartlessArtificer/Praise/WeWhoAreAboutToDie" value="宣扬战争确实是一种明智之举。但如果是我的话，我会出于恐吓而不是娱乐来做这种事。不过无论如何，只要工人们能够得到恰如其分的激励。"/>
 	<entry name="HeartlessArtificer/PraiseWar" value="并不是所有零件都有回收利用的价值。有时候，有些东西坏掉就必须推倒重来。或者直接丢进熔炉里变成原材料。"/>
@@ -984,6 +1052,7 @@
 	<entry name="HollowWarlord/AcceptCall/Friendly" value="兄弟！跟我去兜风！"/>
 	<entry name="HollowWarlord/AcceptCall/Hostile" value="真是乏味。"/>
 	<entry name="HollowWarlord/AcceptCall/Neutral" value="懒得兜圈子。说。"/>
+	<entry name="HollowWarlord/AcceptCondemn" value="去你妈的。你没有资格来批判我。"/>
 	<entry name="HollowWarlord/AcceptGift/AcceptAmount" value="说实话我本来可以自己来抢。但我在练习社交技巧。"/>
 	<entry name="HollowWarlord/AcceptGift/AskAmount" value="你那边有什么是我得不到的？"/>
 	<entry name="HollowWarlord/AcceptMapSharing" value="还有更多可以征服的土地？快告诉我。"/>
@@ -992,6 +1061,7 @@
 	<entry name="HollowWarlord/AcceptPeace" value="听清楚。我对和谈没有兴趣。这是你逼我的，所以我永远不会原谅你。但是……好吧。战争结束了。"/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AcceptParty" value="你是不是有什么更大的计划，是打算之后找机会一起干掉%3%吗？"/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AskParty" value="这可不是什么小事。我正在建造一个颅骨王座。所以很缺“材料”。"/>
+	<entry name="HollowWarlord/AcceptPraise" value="没错，我就是最棒的！一起来撞胸！来和我撞胸！"/>
 	<entry name="HollowWarlord/AcceptTradeAgreement" value="多多益善。摩托零件、燃料或者是弹药。这台战争机器很饿！"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTermination" value="哼。我知道你想干什么。接下来就是要全面开战，对吗？很好，我等你……"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3%根本不明白。要想跟%1%做生意的话，你就得先把我的名字叫对。叫我大人，领主或者是战争领主都可以。军阀这两个字听着太低贱。"/>
@@ -1009,7 +1079,8 @@
 	<entry name="HollowWarlord/AskForSupport/Anchorite" value="隐者老兄。归隐山林的生活怎么样？听着，能不能借点精兵强将给我，我这边的圣战打得有点紧。好了，别让兄弟我干等……"/>
 	<entry name="HollowWarlord/AskForSupport/Chieftess" value="好了，别亮你那把破刀子了，我知道这么做很没面子。但我知道你肯定会帮助像我这样的同道中人。"/>
 	<entry name="HollowWarlord/AskForSupport/Zephon" value="我一直都很敬佩你，大聪明。你和我家贝丝一样都是铮铮铁骨。所以有兴趣帮我一把么?"/>
-	<entry name="HollowWarlord/CancelAction" value="喂看着点，我手里拿着酒呢！"/>
+	<entry name="HollowWarlord/CancelAction" value="喂，看着点，我手里拿着酒呢！"/>
+	<entry name="HollowWarlord/Condemn" value="喂，不要做那种事了。立刻住手。否则，我……我杀了你！我会亲手掐死你！听见了嘛？！"/>
 	<entry name="HollowWarlord/Condemn/DarkOmen" value="当一个男人急着想要攻城略地的时候，他最讨厌的就是那些通风报信的通灵者。这种把戏也太不公平了吧？"/>
 	<entry name="HollowWarlord/Condemn/Gluttony" value="喂，人形鼻涕虫！你根本不知道地表上打得有多惨烈，当年这里就像是一台绞肉机……你他妈是巴浦洛夫的狗吗？一听见肉字就流口水？"/>
 	<entry name="HollowWarlord/Condemn/MilitaryBackground" value="哈！少在那里自以为是了，你这个披着军装的奴才！从战术夹克到内裤都得是迷彩配色，整天像条哈巴狗一样对混蛋上级言听计从。我去你妈的狗屁人生。"/>
@@ -1028,6 +1099,8 @@
 	<entry name="HollowWarlord/DeclareWar/HeartlessArtificer" value="小姑娘，为什么还要苦苦寻觅完美？我就是最完美的。如果有人不同意，那我就宰了他们。接下来就先从你开始！"/>
 	<entry name="HollowWarlord/DeclareWar/HollowWarlord" value="有没有兴趣……来干一架？"/>
 	<entry name="HollowWarlord/DeclareWar/HonorableAristocrat" value="如果看上去像是个窝囊废，那你注定被人欺负。我已经想好了，到时候就把你挂在城门上，让来往的人们好好欣赏。"/>
+	<entry name="HollowWarlord/DeclareWar/InfiniteCount" value="伯爵是吧？我数三个数，然后我就会来抓你了。一。二……我来啦！"/>
+	<entry name="HollowWarlord/DeclareWar/PlatinumScion" value="去你妈的自由税。自由是无价的！"/>
 	<entry name="HollowWarlord/DeclareWar/PracticalRomantic" value="金戈铁马，纵横沙场，<br/>你死我活。"/>
 	<entry name="HollowWarlord/DeclareWar/RogueOperative" value="我不喜欢你整天躲在角落里，还把所有宝贝都藏了起来。我要把你拽出来，到时候看你还愿不愿意分享。"/>
 	<entry name="HollowWarlord/DeclareWar/TwistedMother" value="我勒个去！虽然看上去弱不禁风，但我猜你其实很能打！希望你不会让我失望。"/>
@@ -1069,12 +1142,16 @@
 	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="喂，冷血的混球。现在明白什么是真正的完美了吗？懂了没有？懂了就到此为止吧。"/>
 	<entry name="HollowWarlord/OfferPeace/HollowWarlord" value="咻！就像是在对着镜子练拳。行吧，先到此为止，我们可以先去……蹂躏其他人。"/>
 	<entry name="HollowWarlord/OfferPeace/HonorableAristocrat" value="好吧好吧。我愿意尝试你的牛排。话说有没有薯条？"/>
+	<entry name="HollowWarlord/OfferPeace/InfiniteCount" value="老头子，我觉得跟你打已经没什么乐趣了。我要把我的拳头留给更厉害的家伙。懂我的意思了吗？"/>
+	<entry name="HollowWarlord/OfferPeace/PlatinumScion" value="你这个卑鄙无耻、矫揉造作的拜金怂包……老子晚点再来打烂你的嘴。"/>
 	<entry name="HollowWarlord/OfferPeace/PracticalRomantic" value="这段时间的交锋足够你谱写我的传说了吗？标题我都想好了，”荣誉或死亡“或者是”阿喀琉斯的狂怒赞歌“。我可以先给你一些时间来构思？"/>
 	<entry name="HollowWarlord/OfferPeace/RogueOperative" value="我们之前是在战斗？哈……我都没感觉。要不我还是找其他人去干架吧。"/>
 	<entry name="HollowWarlord/OfferPeace/TwistedMother" value="也许我应该接受你的建议。下去的路不止这一条。"/>
 	<entry name="HollowWarlord/OfferPeace/UntoldProphet" value="我怎么可能输给一个小鬼！我只是……他妈的。"/>
 	<entry name="HollowWarlord/OfferPeace/Zephon" value="哔。哔。哔巴卜。巴啦啦。巴啦啦。够了，先别打了，好吗？"/>
 	<entry name="HollowWarlord/OfferTradeAgreement" value="感觉我们应该先试着做点生意。我需要肉干、燃料和净水。都是路上要用的东西。"/>
+	<entry name="HollowWarlord/Praise" value="噢耶。加油！你能行！干爆他们！"/>
+	<entry name="HollowWarlord/Praise/AgelessHunger" value="无尽的饥饿？这倒是大肆杀戮的好借口。到时候可以让我在边上看好戏吗？"/>
 	<entry name="HollowWarlord/Praise/FoundationsOfBlood" value="我去，姑娘。你可比我嗜血多了。你的城市是真的血流如注。就连自己的手下都不放过！"/>
 	<entry name="HollowWarlord/Praise/HitAndRun" value="哦哟！你这个车技有点厉害啊！你是怎么做到的？一定得教教我……"/>
 	<entry name="HollowWarlord/PraiseWar" value="战争！嗯。战争有什么好？什么都好！"/>
@@ -1113,6 +1190,7 @@
 	<entry name="HonorableAristocrat/AcceptCall/Friendly" value="啊，我的好朋友！答应我，今天一定要来吃饭啊！"/>
 	<entry name="HonorableAristocrat/AcceptCall/Hostile" value="想说什么赶紧的。看见你我连饭都吃不下。"/>
 	<entry name="HonorableAristocrat/AcceptCall/Neutral" value="幸会幸会！"/>
+	<entry name="HonorableAristocrat/AcceptCondemn" value="敢说出这种话，希望你已经准备好在黎明时进行手枪决斗。"/>
 	<entry name="HonorableAristocrat/AcceptGift/AcceptAmount" value="太好了！敬你的慷慨与善良！"/>
 	<entry name="HonorableAristocrat/AcceptGift/AskAmount" value="啊！正好我有点无聊，不知道这次你给我带来了什么美食佳肴？"/>
 	<entry name="HonorableAristocrat/AcceptMapSharing" value="很好，比起让你的军队践踏我的农田，还不如让你好好欣赏我的宅邸。"/>
@@ -1121,6 +1199,7 @@
 	<entry name="HonorableAristocrat/AcceptPeace" value="战争已经拖得太久，我们的人民都在为此受苦。就让我们一笑泯恩仇。"/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AcceptParty" value="嗯，看来是时候来清理一下桌子了。把那些跟战争有关的东西都收走，庆功宴马上开始！"/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty" value="也行，正好我暂时已经吃饱了。说吧，你是代谁来求和的？"/>
+	<entry name="HonorableAristocrat/AcceptPraise" value="看来并不止我一个人拥有绝佳的品味。"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreement" value="虽然我的人民衣食无忧，不过吃独食可不是什么好习惯，就让我们一起享受繁荣！"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTermination" value="想要关起家门过日子？行吧，但是等到没米下锅的时候，别哭着来求我。"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3%那边送来的东西总是那几样，我真的都已经吃厌了。你说得对，也许是时候该去找别人做生意了。"/>
@@ -1139,6 +1218,7 @@
 	<entry name="HonorableAristocrat/AskForSupport/Chieftess" value="你是个喜怒无常的女人，所以我不知道你接下来会怎么做。我急需帮助。你会选择慷慨大度还是心生恶意？"/>
 	<entry name="HonorableAristocrat/AskForSupport/Zephon" value="喂，机器。你应该比所有人都理解规则的重要性。无规矩不成方圆。我也一样，我从来不会亏欠任何一个对我有恩的人。但是首先，我需要帮助。"/>
 	<entry name="HonorableAristocrat/CancelAction" value="哦，实在是太抱歉了！都怪我忙着享受料理，之前实在是太胡来了。"/>
+	<entry name="HonorableAristocrat/Condemn" value="事情不应该是这么做的。这不够正直。更谈不上高贵。甚至都上不了台面。我必须呼吁你立刻收手。"/>
 	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="我……咳哼。呕……咳哼。只是看了你一眼，我就想把五脏六腑全都吐出来。好好的午餐全都浪费了，都怪你！"/>
 	<entry name="HonorableAristocrat/Condemn/DataHack" value="我不喜欢这种事。在没有得到允许的前提下入侵系统实在是过于不光彩。这种行为就是偷盗，就这么简单。我不允许这种事情发生。"/>
 	<entry name="HonorableAristocrat/Condemn/Independent" value="不，这种做法有悖伦理。无论是约定，生死还是交易，万事万物的环环相扣才构成了这个世界。假如有人选择独自孤立在外，并宣称自己不需要任何人，这会给人们树立起错误的榜样。不要游离在我们的圈子之外，就把这当成是对你的警告吧。"/>
@@ -1156,6 +1236,8 @@
 	<entry name="HonorableAristocrat/DeclareWar/HeartlessArtificer" value="工匠，也许你无法理解我的责任感，或者是认可驱使我走上这一步的使命感。但是凭你的敏锐智慧，你应该明白什么是导致我们走向战争的原因。"/>
 	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="我是个善良的人，这世上很少有我无法原谅的事情。但是你吞吃那些开胃小菜的模样实在是令人发指。甚至不愿意脱下那副脏兮兮的手套，整个手都直接插进餐盘里了！最大逆不道的是，你竟然把榅桲和酸菜放在一起吃？你……我无法饶恕你！"/>
 	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="啊，你和我拥有着相同的处世哲理。我就不问阁下尊姓大名，或者是要求介绍信了。不过你应该明白，你我之间最后只能留一个？很好。"/>
+	<entry name="HonorableAristocrat/DeclareWar/InfiniteCount" value="至少新公爵还有胆子当面挑衅我。公爵大人，你这样还谈得上是一名贵族吗？我有一个简单明了的方法：白手套扇脸，然后黎明时分双方的军队展开对决。"/>
+	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="那些背离我们出于尊重与友谊建立的体系之人，也同样丧失了从这些规则中获益的权利。尽管如此，我仍然是个守规矩的人——先生。我们现在开战了。"/>
 	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="我的朋友，恐怕你的冲动情感已经盖过了你的务实本能。为了捍卫荣誉，我必须向你发起挑战并纠正这一错误。不要误会，这完全是针对你个人的。"/>
 	<entry name="HonorableAristocrat/DeclareWar/RogueOperative" value="“盗亦有道”……但只有亡命徒才会这么说。我喜欢拥抱光明正大的荣誉，我喜欢被朋友们包围的感觉，而不是独自走在阴影之中。希望这场小小的战争能够促使你改过自新……"/>
 	<entry name="HonorableAristocrat/DeclareWar/TwistedMother" value="夫人，还请谅解。你提供的菜肴绝对美味至极，但是鉴于当下局势，我们不得不成为敌人。我对此深表遗憾。"/>
@@ -1198,14 +1280,19 @@
 	<entry name="HonorableAristocrat/OfferPeace/HeartlessArtificer" value="我知道你这个人铁石心肠，而且很有可能根本没有一丝荣誉感。所以我决定诉诸于你的美学哲理，我们在毁灭对方的过程中浪费的资源本可以拿去创造。想象一下，和平能够给你带来多少机会。"/>
 	<entry name="HonorableAristocrat/OfferPeace/HollowWarlord" value="我的好邻居，你一直在破坏我的贸易路线，这让我与许多美食失之交臂。经过这段时间的发酵，我之前预订的法法鲁腌鱼露已经臭得恰到好处。来吧，和我一起分享没事并忘记这场幼稚的纷争。"/>
 	<entry name="HonorableAristocrat/OfferPeace/HonorableAristocrat" value="啊，终于找到一位与我志同道合的朋友了。也许我们该尽快签订和平协定，还是说等庆功宴结束后再谈此事也不迟？"/>
+	<entry name="HonorableAristocrat/OfferPeace/InfiniteCount" value="海因茨，把那瓶好的阿尔萨斯白葡萄酒拿上来！让我们一起举杯吧，大人，敬真正的贵族！然后在享受美酒的同时，不妨来看一看这份协议……？"/>
+	<entry name="HonorableAristocrat/OfferPeace/PlatinumScion" value="戴德先生，有兴趣来一份和牛汉堡吗？这场战争实在是让人精疲力竭。没事，直接整盘端走吧。只希望你能够考虑接受和谈。"/>
 	<entry name="HonorableAristocrat/OfferPeace/PracticalRomantic" value="让我们停止无意义的纷争并拉近彼此之间的关系。我这里正好有一瓶年份极佳的忘忧堡，记得你推崇的拜伦爵士当年最喜欢这口。就让我们一同举杯敬和平……与友情。"/>
 	<entry name="HonorableAristocrat/OfferPeace/RogueOperative" value="啧。整天靠ICAR仓库里的过期罐头度日，这像是人过的日子么？只要你愿意接受和平，我保证会为你提供最新鲜的食材与大厨……就算是速食方便面也不是不可能哦？要知道就连我这边也只剩下最后几包大食袋了……"/>
 	<entry name="HonorableAristocrat/OfferPeace/TwistedMother" value="啊……美丽的……女士。我十分想要弯腰亲吻你的手并乞求和平，怎奈何我的身体条件不允许我那么做。"/>
 	<entry name="HonorableAristocrat/OfferPeace/UntoldProphet" value="就算到现在，我仍然在哀叹我们无法共存的事实。就让我们看看能够“和平”统治这个凡尘俗世的，是贵族还是教会。"/>
 	<entry name="HonorableAristocrat/OfferPeace/Zephon" value="机器，我可是一位根正苗红的贵族，你必须听从我的指令。我命令你立刻停止一切针对我的人民的军事行动，并立刻撤出你的那些看守者！"/>
 	<entry name="HonorableAristocrat/OfferTradeAgreement" value="现在我的人民衣食无忧，不过……我想尝尝来自各地的新奇美食。也许我们可以达成某种互惠互利的协定？"/>
+	<entry name="HonorableAristocrat/Praise" value="你是这场宴席的主人，而我们只是被眼花缭乱的美味佳肴所震撼的宾客。"/>
+	<entry name="HonorableAristocrat/Praise/AgelessHunger" value="我怜悯你的困境，我的朋友，但我同样仰慕你。永远无法得到满足，永远与那种再多吃一口就要“一泻千里”的愉悦饱足感失之交臂？但同样的，能够永无止境地吞噬蚕食……"/>
 	<entry name="HonorableAristocrat/Praise/ArtificersPrecision" value="我欣赏精美的工艺，就像你的作品那样。如此巧夺天工的工具，难怪你的人民无不为之神魂颠倒。这简直可以说是不折不扣的艺术品。"/>
 	<entry name="HonorableAristocrat/Praise/ResourceNetwork" value="“物以稀为贵”，这就是经济运作的核心，因为稀少，才更显奢华。但是谁能想到，你竟然能够找到早已销声匿迹的秘密与珍品。实在是太让人愉快了！"/>
+	<entry name="HonorableAristocrat/Praise/TheSureThing" value="啊，当玛丽女爵和我搭档打桥牌的时候，我们几乎从未尝过失败的滋味。但像你这样百战百胜！确实值得敬佩，只是也许这样会失去博弈本身的乐趣？"/>
 	<entry name="HonorableAristocrat/PraiseWar" value="相信在开战之前，你已经委派正式的代表团向对方递上战争宣言？只要一切都合乎规矩，那么这场战争确实对我胃口。"/>
 	<entry name="HonorableAristocrat/RejectAlliance" value="我知道你对待我向来很公平，但我认为你麾下的军队缺乏骑士精神……因此请恕我不愿意耽误我的军队的好名声。"/>
 	<entry name="HonorableAristocrat/RejectAllianceTerminationWithThirdParty/RejectOutright" value="我的天……这种不可理喻的行为实在是有违伦理。要知道荣誉即是我的一切。"/>
@@ -1232,6 +1319,277 @@
 	<entry name="HonorableAristocrat/RejectWarAgainstThirdParty/RejectParty" value="荣誉驱使我必须为了正义而战……但你提议的绝非公正。"/>
 	<entry name="HonorableAristocrat/TerminateAlliance" value="我有一个宏伟的梦想……一个战无不胜的联盟，我们的力量与荣耀甚至将盖过繁星的光芒。但是为了实现这个梦想，我必须调整自己的配方……很遗憾，你已经被替换成其他的食材了。"/>
 	<entry name="HonorableAristocrat/TerminateTradeAgreement" value="羽衣甘蓝……为什么非要把那种难吃的东西塞给我……我受不了了！！很抱歉，但是恐怕你已经失去了一位老主顾！！"/>
+	<entry name="InfiniteCount/AcceptActionCancel" value="如你所愿。你只是在浪费自己的时间。"/>
+	<entry name="InfiniteCount/AcceptAlliance" value="我必须接受，对吗？"/>
+	<entry name="InfiniteCount/AcceptAllianceTermination" value="就这样吧。像这样的小波折并无法动摇我们之前的友谊，对此我很是确定。"/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="哦，%3%会很失望的。不过这倒是学习如何变通的好机会。"/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AskParty" value="我已经知道你想说什么。但为了避免引发头疼，我必须听你亲口说出来。"/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AcceptParty" value="当然！我的记忆力并不完美，而且频繁穿越时空总是让我会忘记一些显而易见的事……"/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AskParty" value="你们这些被时间束缚之人并不总是愿意接受既定的友谊。我忘记了，你需要谁来接受我的存在？"/>
+	<entry name="InfiniteCount/AcceptCall/Friendly" value="哪怕迷失在无尽之中，我也永远不会对你的面孔感到厌倦。"/>
+	<entry name="InfiniteCount/AcceptCall/Hostile" value="你就像是一只驱之不散的害虫。"/>
+	<entry name="InfiniteCount/AcceptCall/Neutral" value="我们又一次见面了。"/>
+	<entry name="InfiniteCount/AcceptCondemn" value="我猜从你有限的视角来看，我是错误的那一方？"/>
+	<entry name="InfiniteCount/AcceptGift/AcceptAmount" value="恰到好处。有了这些东西，我就能达成黑暗而且阴郁的目的……我只是在开玩笑。"/>
+	<entry name="InfiniteCount/AcceptGift/AskAmount" value="根据我的理解，在这个时间段内，人们应该先看见礼物然后再决定是否要接受。"/>
+	<entry name="InfiniteCount/AcceptMapSharing" value="这一次，我想要知道我的“何时”在“何地”。"/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AcceptAmount" value="你知道如何避开各种社交期望。非常好。"/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AskAmount" value="还请满足我这个老头子的好奇。你认为多少才能算得上是慷慨？"/>
+	<entry name="InfiniteCount/AcceptPeace" value="和平并不只是口头上说说。和平是一种态度。希望你已经准备好迎接改变。"/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AcceptParty" value="并不是所有人都准备好迎接和平。那是共同的笑容与耐心的劳作。但我仍将努力。"/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AskParty" value="无论如何，至少我可以尝试与他们进行交流。但是请你明白，这并不代表矛盾会就此消失。而且我的出现只会激发矛盾。"/>
+	<entry name="InfiniteCount/AcceptPraise" value="这条纠缠不清的道路充满艰辛，但这就是正确的。"/>
+	<entry name="InfiniteCount/AcceptTradeAgreement" value="我自己能够在其他更美好的时间中寻找给养。但那些与我共同生活的人们，他们需要……物质的振兴。"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTermination" value="难道我真的让人生厌吗？与朋友渐行渐远永远充满痛苦。"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="可怜的%3%。我知道他们永远无法理解我的背叛。但是要记住通往未来的缠绕之路……？这同样也是我无法理解的。"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="谁？谁将受苦？"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AcceptParty" value="%3%？真是令人惊讶。行吧。"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AskParty" value="我忘记了，我要跟谁进行交易？假设那跟这次的交涉处于相同的时间线……"/>
+	<entry name="InfiniteCount/AcceptTribute/AcceptAmount" value="我必须这么做，就像一如既往的那样。但勒索这种事实在是有失体面。"/>
+	<entry name="InfiniteCount/AcceptTribute/AskAmount" value="你必须告诉我具体的数量，就算我已经知道答案。这就是我的规矩。"/>
+	<entry name="InfiniteCount/AcceptTroopWithdrawal" value="很遗憾要打扰那些士兵……他们明明刚刚才有喘息的机会。"/>
+	<entry name="InfiniteCount/AcceptWar" value="你没必要进行如此正式的宣告。不同于其他类型的关系，战争只需要看单方面的意愿。"/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AcceptParty" value="%3%？你并不知道自己的行为是多么睿智。历史将赞扬你的举措。"/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AskParty" value="我们正在这里创造历史，我的朋友。就像所有人知道的一样，战争就是最有权势的人指挥其他人去送死……但谁是那个人？"/>
+	<entry name="InfiniteCount/AdmitDefeat" value="结束了，终于！无尽的循环、看不到尽头的隧道还有困惑，终于都结束了。脱离时间的秘音的恐怖，还有所有迷失其中的神灵。苦难与最亲近、最亲爱之人的死终于到此为止！<br/><br/>哦，这是多么美好的终结啊！"/>
+	<entry name="InfiniteCount/AskForProposals" value="这一切永无休止。但每一次我都会侧耳倾听。"/>
+	<entry name="InfiniteCount/AskForSupport/Anchorite" value="虽然是以不同的方式，但我们双方都被困在了时间里。根据你的周围世界的感知，你是如何看待命定论的？帮助我对你来说是一件需要抉择的事吗？"/>
+	<entry name="InfiniteCount/AskForSupport/Chieftess" value="啊，你实在是……令人叹为观止！叹为观止。就算是我这样的老兽看见你也不禁蠢蠢欲动。但是为了抵达那一刻，亲爱的，我必须先活下去。"/>
+	<entry name="InfiniteCount/AskForSupport/Zephon" value="你熟悉规律之道，我的朋友。所以请允许我用相同的方式来请求你……“我们饥肠辘辘。而且寒冷交加。请今天就来捐款。”"/>
+	<entry name="InfiniteCount/CancelAction" value="抱歉……有那么一瞬间，我陷入了另外一个时间。另外一个地方。那里自然比这里更好。"/>
+	<entry name="InfiniteCount/Condemn" value="无论我在哪，你永远一成不变。我已经厌倦了你的幼稚。"/>
+	<entry name="InfiniteCount/Condemn/Abhorrent" value="在佛罗伦萨的画廊与宫殿中有着形形色色的维纳斯。从梅洛斯、卡普阿再到尼多斯……但第一眼看见像你这样的形体，我便情不自禁地想到博斯、戈雅以及菲斯利。我并不喜欢那些人的风格。"/>
+	<entry name="InfiniteCount/Condemn/ThereIsHope" value="你的演说相当感人，我的诗人朋友。但是我已经看见过你的过去，我知道你做了什么。你的那些话语不过是用于掩盖双手上的血腥的浮尘。"/>
+	<entry name="InfiniteCount/CondemnAlliance" value="你是傻瓜吗？这么做行不通。你怎么会想到与%3%结盟？不过你为什么要听其他人的意见呢，就算对方真的亲眼目睹过这一切……"/>
+	<entry name="InfiniteCount/CondemnCityDestruction" value="啊，我记得这件事。不计其数的死者，浓烟滚滚的废墟，还有你冷漠的表情。人类离彻底灭绝又近了一步。你为自己的所有所为感到骄傲吗，我的朋友？"/>
+	<entry name="InfiniteCount/CondemnInterferenceAttempt" value="不用为我的事务浪费精力。一切都是命中注定。"/>
+	<entry name="InfiniteCount/CondemnTradeAgreement" value="近朱者赤近墨者黑，我的朋友，请记住这一点。"/>
+	<entry name="InfiniteCount/CondemnWar" value="我难以想象你竟然将谋杀与破坏当成是解决问题的有效手段。实在是让人大失所望。"/>
+	<entry name="InfiniteCount/DeclareWar/Anchorite" value="就算我们有其他选择，只有这么做才能避免无数的问题。你应该能够理解我的苦衷，毕竟你同样也处在永无止境的现在……"/>
+	<entry name="InfiniteCount/DeclareWar/Chieftess" value="女士，在品酒活动上，你展现出了非凡的魅力。为此，我愿意原谅你的屠杀行径。但是你对我的私人画廊里那副圣母子的所作所为……这是对艺术的亵渎。"/>
+	<entry name="InfiniteCount/DeclareWar/EmulatedMind" value="我们怎会走到这一步？命运的铁轨是如何冲向我们之间的冲突的？这已经超出了我的理解范畴。现在我唯一能做的，就只是绝望地跟随着轨道前进。"/>
+	<entry name="InfiniteCount/DeclareWar/FallenSoldier" value="高贵的战士啊。你即将再次挥洒鲜血。竞技场将再次歌颂着你的伟大。"/>
+	<entry name="InfiniteCount/DeclareWar/FurtiveTribunal" value="抱歉，我将你们误认为是命运本身了。我对那三位过于熟悉，虽然是克洛托束缚了我，而阿特洛波斯也依旧将我拒之门外。这场战争将让你们的纱线夏然而止……"/>
+	<entry name="InfiniteCount/DeclareWar/HeartlessArtificer" value="对生命的不尊重是这世上最可恨的行为。如果你在追求完美的道路上能够感受到一丝的快乐，那也许我们也不用走到这一步。但甚至不是出于虐待癖的无端痛苦？你令人憎恶。"/>
+	<entry name="InfiniteCount/DeclareWar/HollowWarlord" value="何必要心软？我知道你一直在渴望这一刻。"/>
+	<entry name="InfiniteCount/DeclareWar/HonorableAristocrat" value="从现在起，%2%与%1%以及双方之附庸将正式宣战。好了，我感觉我们双方都会喜欢像这样的正式礼节。"/>
+	<entry name="InfiniteCount/DeclareWar/InfiniteCount" value="啊，我和我自己。我好像记得这一刻。说来好笑，我并不记得自己有这么……衰老？"/>
+	<entry name="InfiniteCount/DeclareWar/PlatinumScion" value="我亲爱的孩子啊，这世上有许多就连我也不管逾越的底线。但你这个自私自利的家伙竟然堂而皇之地践踏一切。简单点说，你冒犯了我和我的人。准备好迎接战争吧。"/>
+	<entry name="InfiniteCount/DeclareWar/PracticalRomantic" value="我知道我们彼此理解。所以我恳请你在翁加雷蒂的诗歌中寻找维基，哪怕他的道德感令人质疑。"/>
+	<entry name="InfiniteCount/DeclareWar/RogueOperative" value="从卫星角度俯瞰一切的感觉真的很不可思议，对吗？告诉我，像我了解未来一样对当下了如指掌是什么感觉？你是不是觉得一切都支离破碎，让你无法掌控？我对此感到好奇。所以我决定要亲自来看一看。"/>
+	<entry name="InfiniteCount/DeclareWar/TwistedMother" value="战争已至，我的女儿。我将尽全力克制我的部队。尽管如此，我还是希望你尽最大努力保护自己的家人。臣服吧，让我们诉诸和平。"/>
+	<entry name="InfiniteCount/DeclareWar/UntoldProphet" value="小家伙，与我不同，你的生命之旅才刚刚开始。快快醒悟吧，你不会想要变得像我一样苍老不朽。就让我的部下来教育你吧。"/>
+	<entry name="InfiniteCount/DeclareWar/Zephon" value="你知道我想说什么，机器。对于你这样的存在来说，何必要搞那些繁文缛节？但对于我来说呢？如果不是出于仪式感，那就是对于局势的控制感？"/>
+	<entry name="InfiniteCount/DemandAllianceTerminationWithThirdParty" value="冤家易结不易解。斩断联系方能及时止损！"/>
+	<entry name="InfiniteCount/DemandAllianceWithThirdParty" value="我记得在未来，你并不是孑然一身。我发誓你的身边还有另外一个……"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal" value="听见我跪下乞求时关节吱嘎作响的声音了吗？我开玩笑的，我不会臣服于任何人。但我确实需要一些激励。"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandHighAmount" value="让我看见你的诚意。或者是用血泪换来的价值。"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandLowAmount" value="我只需要一点代表互相信任的象征，仅此而已。"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMaxAmount" value="我对你的财富情况一清二楚。你账上的里拉跟我是老朋友了，不介意让我们重新聚一聚吧？"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMediumAmount" value="我不要全部，只要一部分。我并不想要让你破产。"/>
+	<entry name="InfiniteCount/DemandPeaceWithThirdParty" value="你就和西西里人一样自以为无所不能。但事实上，你所做之事只是愚蠢枉然。"/>
+	<entry name="InfiniteCount/DemandTradeAgreementTerminationWithThirdParty" value="我的朋友，你们所谓的交易只是给你带来了耻辱。我无法接受这种事……"/>
+	<entry name="InfiniteCount/DemandTradeAgreementWithThirdParty" value="在洪水到来之前，明智之举是寻找……一位能够与自己休戚与共的伙伴。"/>
+	<entry name="InfiniteCount/DemandTribute" value="我很清楚。你别无选择，只能答应我的要求。我已经预见了结果。"/>
+	<entry name="InfiniteCount/DemandTribute/DemandHighAmount" value="考虑到我的预知能力，我知道这个数目行之有效。这么做能够避免你彻底一贫如洗。"/>
+	<entry name="InfiniteCount/DemandTribute/DemandLowAmount" value="微不足道的数量。这是对我的规划的象征性的信仰。"/>
+	<entry name="InfiniteCount/DemandTribute/DemandMaxAmount" value="哪怕一丁点也别想留。你应该明白，我什么都知道。"/>
+	<entry name="InfiniteCount/DemandTribute/DemandMediumAmount" value="请你设身处地思考，这对你我双方来说都很公平。哦，约翰·罗尔斯，你的锋芒何在？"/>
+	<entry name="InfiniteCount/DemandTroopWithdrawal" value="我知道像这样的故事会有什么结局。宫廷政变、战争火药桶、偶尔则是新王登机或者是另立教宗。也许应该让你的部下舒服地待在家里？"/>
+	<entry name="InfiniteCount/DemandWarAgainstThirdParty" value="我的父亲曾说过，“只为自己而战”。他的鼻子永远是歪七扭八。他的耳朵也被打成了菜花形状。从他身上，我学会了截然相反的教训。"/>
+	<entry name="InfiniteCount/EndCall/Friendly" value="我的朋友，见到你总是很高兴。"/>
+	<entry name="InfiniteCount/EndCall/Hostile" value="Sfigato！在意大利语里面，这是“有空常来”的意思。"/>
+	<entry name="InfiniteCount/EndCall/Neutral" value="一次必要的别离。"/>
+	<entry name="InfiniteCount/FirstContact" value="这是我们首次见面，但这并不是第一次。<br/><br/>幸会。很高兴能够看见你如此年轻的面容。我见过满脸愁容的你、精疲力竭的你、心潮澎湃的你……但我从来没有见过这么年轻的你。<br/><br/>哈！抱歉，瞧我这老头子跑题了。就叫我……%1%吧。在人类最后的这段时间里，我感觉自己……就像是个居无定所的旅人。在时间与空间中的一位漂泊者。这种状态确实带来了不少惊人的好处……但已经没有人愿意和我打赌了。<br/><br/>我们还会再见面的，我很确定。就在我们的小小战争之前或之后。就在……终结之前。"/>
+	<entry name="InfiniteCount/OfferAlliance" value="你会跳舞吗？当两个舞伴的步调趋于一致，塔兰台拉的韵律将流淌在我们的血液中，并赶走一切剧毒的怀疑。而现在我正在邀请你一起舞蹈……"/>
+	<entry name="InfiniteCount/OfferGift" value="我的心与你同在，真的。我的管家已经精心准备了一份礼物，他向我保证，这一定能够……让你满意。"/>
+	<entry name="InfiniteCount/OfferGift/OfferHighAmount" value="请你理解，就算是我也必须有些许保留。剩下来的足以让我维持生计。"/>
+	<entry name="InfiniteCount/OfferGift/OfferLowAmount" value="目前这只是象征性的礼物。这代表了未来的可能性，假如我们的友谊能够有所收获。"/>
+	<entry name="InfiniteCount/OfferGift/OfferMaxAmount" value="恐怕这次之后，我的财库将空空如也。"/>
+	<entry name="InfiniteCount/OfferGift/OfferMediumAmount" value="还请不要将这些东西转赠给别人。这是我专门为你准备的礼物。"/>
+	<entry name="InfiniteCount/OfferMapSharing" value="地图并不代表领地。地图包含着特定时间内的特定信息，并且能够被用于特定的目的。但是分享地图将能够拉近我们的心灵。"/>
+	<entry name="InfiniteCount/OfferPeace/Anchorite" value="说不定这片刻的和睦能够通往和平。也许在长眠中，我们仍将享有梦境？"/>
+	<entry name="InfiniteCount/OfferPeace/Chieftess" value="女士，虽然我和你一样有着对鲜血的渴望，但是与你不同的是，永无止境的杀戮已经让我有所倦怠。也许短暂的休憩能够让我重振精神？"/>
+	<entry name="InfiniteCount/OfferPeace/EmulatedMind" value="我的女士，如果你愿意退回自己的象牙塔，我也将回归自己的地穴……"/>
+	<entry name="InfiniteCount/OfferPeace/FallenSoldier" value="尊贵的骑士先生，我知道战争是你的本能。但是也许我们可以推迟这次的决斗？"/>
+	<entry name="InfiniteCount/OfferPeace/FurtiveTribunal" value="我并不是麦克白，我不会因为石楠丛中的低语就欣然拥抱战争。而你们也不是女巫。我们都可以做得更好。"/>
+	<entry name="InfiniteCount/OfferPeace/HeartlessArtificer" value="尖牙利齿之人，选择用慷慨激昂的言语来呼吁你的人性恐怕注定失败。但从实际角度出发，征战与重建都有对应的时机……"/>
+	<entry name="InfiniteCount/OfferPeace/HollowWarlord" value="满身鲜血的男孩啊，其他地方有更丰饶的目标。你眼前的这个老人已经厌倦了战争……"/>
+	<entry name="InfiniteCount/OfferPeace/HonorableAristocrat" value="我的城堡中的长桌上已经摆满了美妙宴席……但是我不会向敌人发起邀请。除非你愿意改变我们之间的关系？"/>
+	<entry name="InfiniteCount/OfferPeace/InfiniteCount" value="还记得这一个十字路口吗？哈哈，并不是他们想要活埋我们的那个。还记得我们当时被迫做出的选择吗？"/>
+	<entry name="InfiniteCount/OfferPeace/PlatinumScion" value="你知道吗，我跟你叔叔是老相识了。从还是个孩子起就认识啦，现在我跟他都已经垂垂老矣。我认为他肯定不会希望看见我们之间出现矛盾。我这么说并不是出于道德伦理，单纯是因为这么做无利可图……"/>
+	<entry name="InfiniteCount/OfferPeace/PracticalRomantic" value="我认识雪莱，你知道吗？真正的天才，当然，我指的是玛丽·雪莱。那位女子才是真正的勇敢无畏。也许我们可以谈论她，而不是战争？"/>
+	<entry name="InfiniteCount/OfferPeace/RogueOperative" value="我愿意与你交谈，我的孩子。关于这个世界，我有许多秘密可以分享，前提是你愿意和谈。"/>
+	<entry name="InfiniteCount/OfferPeace/TwistedMother" value="我的朋友波里道利曾经说过，像我们这样的诅咒之人只会将“来自地狱的拜访”留给自己还行走在人世间时最爱的那些人，就算是我们也无法挣脱善念与感情的束缚。也许我们同样能共享和平？"/>
+	<entry name="InfiniteCount/OfferPeace/UntoldProphet" value="我在那颗年轻的头颅中看见了亘古的眼眸，我为你失去的童年而担忧。但我不是来对你说教的，我来是为了乞求和平。"/>
+	<entry name="InfiniteCount/OfferPeace/Zephon" value="不知道我的甜言蜜语能否触动你的“中文房间”中的开关，并使得我们的关系能够更加和睦？"/>
+	<entry name="InfiniteCount/OfferTradeAgreement" value="我想要与你分享一些……当今世上无人知晓的秘密。当然，这并不是免费的。"/>
+	<entry name="InfiniteCount/Praise" value="哈。虽然我知道这一切会到来，但我仍然感受到了意外的喜悦。"/>
+	<entry name="InfiniteCount/Praise/Honorbound" value="啊，那些和睦的纽带。尽管我背负的诅咒使我无法享受真正的亲密，但我仍然羡慕你对于维持信任所付出的执着。"/>
+	<entry name="InfiniteCount/Praise/Trapped" value="这样的生活很艰苦，对吗？我觉得自己是人类，但我不知道自己与那个堕入秘音的男人是否有任何相似之处。你那种想要成为人类的决心……令我钦佩。"/>
+	<entry name="InfiniteCount/Praise/WeWhoAreAboutToDie" value="我承认，你的广播确实让我感到心潮澎湃，我感觉心中几乎无法控制的某种饥饿感得到了满足。说实话有点像是在，呃，看职业摔跤时的感受。"/>
+	<entry name="InfiniteCount/PraiseWar" value="玛丽写道：“如果我无法激发爱情，那我将带去恐惧！”你现在就是在身体力行这句格言，不过我希望你不会创造出比她的怪物更可怕的存在。"/>
+	<entry name="InfiniteCount/RejectAlliance" value="我不能那么做。并不是因为我不想那么做，我们应该永远追求更深刻的和平。但我刚刚想起来了如果这么做会产生的后果。"/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectOutright" value="“生命，尽管可能只是痛苦的积累，可对我来说仍是珍贵的，我将捍卫它。”亲爱的玛丽是这么说的。"/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectParty" value="但是亲爱的！%3%一直将我视作是可靠的盟友！就算我必须让他们明白这其中的谬误，我也希望是在不被他人打扰的深夜时分与对方耐心解释。"/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectOutright" value="我的朋友本就寥寥无几，拒绝新的友情对我来说更是无比痛苦。但我不能那么做。而且我无法解释其中的缘由。"/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectParty" value="我很想与对方握手……但我怕自己的诅咒会瞬间吞没他们。我仍然记得那时候的场景。"/>
+	<entry name="InfiniteCount/RejectGift/RejectAmount" value="如果这就是你能给我的全部，那说明你那边其实根本没有富余。不，留着吧，你比我更需要。"/>
+	<entry name="InfiniteCount/RejectGift/RejectOutright" value="我为什么需要你的财富？在漂泊的路上，我并无法带上那些东西……"/>
+	<entry name="InfiniteCount/RejectMapSharing" value="我对这个世界了如指掌。感谢你的心意，但我并不需要你的指引。"/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectAmount" value="在我那时候，与别人交涉的时候，我们绝不会用这种价格来侮辱对方。"/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectOutright" value="哦，你想要靠花钱来处理这件事？这种做法未免过于冒犯。不，既已失礼，无需多言。"/>
+	<entry name="InfiniteCount/RejectPeace" value="“我的内心深处有你无法想象的爱和难以置信的愤怒。如我不能满足其中之一，便会纵容另外一个。”亏我以前还以为玛丽只有甜美的那一面！"/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectOutright" value="我不能这么做！我的存在对于人民来说是一种负担……为了保护他们免受我的永恒饥饿的折磨，我必须做出牺牲。"/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectParty" value="我对于扭结缠绕的时间线的记忆已经模糊不清，但为了让我们能够活下来，与%3%的这场战争是有必要的。"/>
+	<entry name="InfiniteCount/RejectTradeAgreement" value="你不会想要我这里粗制滥造的货物。不，你最好还是去别处寻求帮助吧。"/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="我的朋友，我为你对于全球经济的担忧只有最诚挚的尊重……但这是我自己的事。"/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="哦，这恐怕不行。要是没有我的帮助，可怜的%3%恐怕会随风消逝。为了从即将到来的灾变中活下来，人类必须团结一心。"/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectOutright" value="我已经看穿了你的把戏。这个话题就到此为止吧。"/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectParty" value="他们能给我什么？几块石头吗？巧妇难为无米之炊，还是算了吧。"/>
+	<entry name="InfiniteCount/RejectTribute/RejectAmount" value="你会把这种东西当成礼物送给自己的母亲吗？不会？那你凭什么把这些东西送给我？"/>
+	<entry name="InfiniteCount/RejectTribute/RejectOutright" value="出于自尊，我无法接受这种东西，而且我是个固执的老头。"/>
+	<entry name="InfiniteCount/RejectTroopWithdrawal" value="你错了，我的老朋友。为了避免让你丢脸，我就不和你解释这里面的细节了。"/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectOutright" value="那样的话恐怕有损邻里和睦。等你变得和我一样的时候，你就知道良好的关系有多么重要了。"/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectParty" value="这个么，不行。我并不认为%3%是一个值得我倾泻怒火的目标。如果你真的有这种想法，为什么不亲自去找他们算账？"/>
+	<entry name="InfiniteCount/TerminateAlliance" value="出于良心，我不能再继续这种把戏。我知道背离人类的团结将让我称为众矢之的，但我必须这么做。"/>
+	<entry name="InfiniteCount/TerminateTradeAgreement" value="很遗憾，我必须优先考虑我自己的人民和他们的需求。"/>
+	<entry name="PlatinumScion/AcceptActionCancel" value="时间就是金钱，朋友。"/>
+	<entry name="PlatinumScion/AcceptAlliance" value="我的人将负责撰写合同。"/>
+	<entry name="PlatinumScion/AcceptAllianceTermination" value="我最好检查一下有没有退出条款。"/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="可惜了，%3%还以为我们会进行合并。生意场从不讲情面。"/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AskParty" value="在答应谈判之前，我必须先掌握对方的底细。"/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AcceptParty" value="嗯。如果我们双方各取所长，这事应该能成。好的，我接受。"/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AskParty" value="希望这不会让我后悔。我不喜欢别人浪费我的时间。"/>
+	<entry name="PlatinumScion/AcceptCall/Friendly" value="啊，我的可靠搭档。欢迎！"/>
+	<entry name="PlatinumScion/AcceptCall/Hostile" value="我们应该没有什么好谈的了。"/>
+	<entry name="PlatinumScion/AcceptCall/Neutral" value="有话快说。"/>
+	<entry name="PlatinumScion/AcceptCondemn" value="那又怎么了？我压根不在乎他妈……"/>
+	<entry name="PlatinumScion/AcceptGift/AcceptAmount" value="不错。"/>
+	<entry name="PlatinumScion/AcceptGift/AskAmount" value="最好不要浪费我的时间。"/>
+	<entry name="PlatinumScion/AcceptMapSharing" value="掌握目标市场和目标总是好事。"/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AcceptAmount" value="那应该能够覆盖我这边的费用。"/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AskAmount" value="我通常是先谈好条件再谈数目。不过我愿意破例一次。把数目告诉我。"/>
+	<entry name="PlatinumScion/AcceptPeace" value="行。无论是和平还是战争，我都能够赚钱。毕竟所有人都会继续买枪。"/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="行。反正%3%之前也让我没有心思去打理真正的生意了。"/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AskParty" value="这得看情况。我们的货在战争中往往表现得最好，就算我们的人不是。所以是谁？"/>
+	<entry name="PlatinumScion/AcceptPraise" value="股市指数就是我需要的所有认可。不过行吧，再来一个拍马屁的也不错。"/>
+	<entry name="PlatinumScion/AcceptTradeAgreement" value="这对双方来说都是有利可图。你今天做了一个明智的决定。"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTermination" value="你这个蠢货。总有一天你会为自己撕毁与戴德家的人的合同后悔的。"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="让%3%保持饥饿，好主意。到时候他们就得用更好的条件来讨好我。"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="你这就上道了。说吧，要搞谁？"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AcceptParty" value="我想要尝试一个新的方案，所以正好需要一个合适的目标。他们正合适。"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AskParty" value="好吧，我在选择商业伙伴时通常非常谨慎。至少得确保对方……有钱。所以有吗？"/>
+	<entry name="PlatinumScion/AcceptTribute/AcceptAmount" value="这次我们愿意垫付。但是下不为例。"/>
+	<entry name="PlatinumScion/AcceptTribute/AskAmount" value="你这是敲诈！我喜欢，没想到你竟然还有这种本事。"/>
+	<entry name="PlatinumScion/AcceptTroopWithdrawal" value="我反正也不需要他们去那里了。看来你的人民并不需要我的……捐赠。"/>
+	<entry name="PlatinumScion/AcceptWar" value="战争玩的就是一个经济，懂吗？最赚的永远是卖军火的。"/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AcceptParty" value="我手底下那帮会计整理出来的分析报告……惨不忍睹。那帮家伙到底在营销上花了多少钱？！这简直是犯罪！"/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AskParty" value="得确保合同细节无误。你得告诉我对方的身份和经济情况。"/>
+	<entry name="PlatinumScion/AdmitDefeat" value="你觉得我是第一次面对恶意收购吗？什么大风大浪我没有见识过？我知道你还需要我，你需要一个总经理来掌舵，只有我才知道该如何……<br/><br/>什么？你要开了我？要中止合同？等等，不行，我不要那种遣散方式！我要见律师！你不能……"/>
+	<entry name="PlatinumScion/AskForProposals" value="你还想要用什么新招来浪费我的时间？"/>
+	<entry name="PlatinumScion/AskForSupport/Anchorite" value="听着，隐者宝贝。我跟你，我们懂这一切的运作规则。但如果要让我们的关系真正更进一层楼，我必须……该死的，这种事太难为情了。我需要帮助。"/>
+	<entry name="PlatinumScion/AskForSupport/Chieftess" value="女族长，是我，商业之神。我现在恭敬地恳求您……等等，这份备忘录谁写的？我的天。总之听着，女士，我们需要帮助。拜托了。"/>
+	<entry name="PlatinumScion/AskForSupport/Zephon" value="喂，机器。我给你发送了一个附带电子表格和前景分析的演示报告。帮助我们才是能够带来长期收益的明智之举。你只需要先提前垫付一些资产就行，这买卖包赚不赔！"/>
+	<entry name="PlatinumScion/CancelAction" value="取消这个项目。我有更好的安排。"/>
+	<entry name="PlatinumScion/Condemn" value="立刻住手，伙计。不然我们就得好好谈一谈了。"/>
+	<entry name="PlatinumScion/Condemn/Mysticism" value="典型的迷信邪说，难怪你那边搞科研的都快跑光了。"/>
+	<entry name="PlatinumScion/Condemn/SeeAsISee" value="看见了不就看见了。搞不懂你凭什么一副高高在上的样子。你跟克劳利一样是个自以为是的蠢货，张口闭口都在探讨什么深层含义，但却对眼前的一切视而不见。"/>
+	<entry name="PlatinumScion/Condemn/TenderMinistrations" value="公共医保？我简直不敢去想你的底线有多低。如果有一群废物死了，那再去多搞一些废物来不就行了。"/>
+	<entry name="PlatinumScion/CondemnAlliance" value="你给我听好了：%3%对你和生意来说都是有弊无利。"/>
+	<entry name="PlatinumScion/CondemnCityDestruction" value="那可是芬尼克斯叔叔最喜欢的城市！那里的摩卡奇诺可是一绝，我从来没有喝过那么完美的奶泡。现在我再也喝不到了。去你的吧。"/>
+	<entry name="PlatinumScion/CondemnInterferenceAttempt" value="你并没有被邀请参加会议。你甚至都不是股东。给我。滚。"/>
+	<entry name="PlatinumScion/CondemnTradeAgreement" value="贸易协定？还不带我？想背着我捞钱是吧？"/>
+	<entry name="PlatinumScion/CondemnWar" value="这种事太愚蠢了。但如果你们两个蠢货非要打个头破血流，那我就在旁边看热闹吧。"/>
+	<entry name="PlatinumScion/DeclareWar/Anchorite" value="喂外星人。我刚刚想起来一件事：我们还从来没有给你们提供过人类最经典的“迎新仪式”。接下来好好感受一下吧。"/>
+	<entry name="PlatinumScion/DeclareWar/Chieftess" value="听着，这并不是在针对你。但你太不配合，所以我们只能对你那边进行强制裁员。我觉得最合适的规模应该是……零。"/>
+	<entry name="PlatinumScion/DeclareWar/EmulatedMind" value="喂屏保精灵，就是想要看看你。硬件审计报告刚出来了，上面说你作为废品更有价值。别难过，都是生意。"/>
+	<entry name="PlatinumScion/DeclareWar/FallenSoldier" value="这不是在针对你。但是能够无尽再生的血肉对于全球肉品市场来说不是什么好事。至少不能是像现在这样对你放任自流。别担心，我们会留你一命的。勉强算是吧。"/>
+	<entry name="PlatinumScion/DeclareWar/FurtiveTribunal" value="所以谁是管事的？拉里、摩尔还是科雷？怎么一点反应没有？你们怎么都不笑？那么经典的电视都没看过么？一群乡巴佬。"/>
+	<entry name="PlatinumScion/DeclareWar/HeartlessArtificer" value="你是我这辈子最爱慕的女人。只可惜这事已经到了无可挽回的地步，不然我们肯定能一起创造出前所未有的怪物。很遗憾，现在我们只能开战了。"/>
+	<entry name="PlatinumScion/DeclareWar/HollowWarlord" value="我去，老兄。皮衣，墨镜还有大胡子。没想到在董事会会议室以外还能感受到这种汹涌澎湃的男子气概！我实在是忍不住想要跟你大干一场，就为了看看谁才是真正的西格玛男。"/>
+	<entry name="PlatinumScion/DeclareWar/HonorableAristocrat" value="你这个势利眼。你把我的咖啡吐出来了，是嘛？你不懂欣赏，你永远不会懂的。这咖啡的原料确实很垃圾。但是最顶上的拉花，那才是真正画龙点睛的地方。那是艺术，蠢货。就让我来好好给你上堂课吧。"/>
+	<entry name="PlatinumScion/DeclareWar/InfiniteCount" value="别对着我嬉皮笑脸的，老东西。我知道你的营销套路，但是我不买账。我的手下会弄清楚你这家伙到底是怎么回事的。"/>
+	<entry name="PlatinumScion/DeclareWar/PlatinumScion" value="喂表兄，我真的很敬仰你的勇气、激情还有品味。但很遗憾，这世上只有一个人能够继承芬尼克斯的遗产。（然后如果那个混蛋还活着，也只有一个人能够有资格杀了他。）事成之后，我会给你的坟头敬一杯摩卡奇诺的。"/>
+	<entry name="PlatinumScion/DeclareWar/PracticalRomantic" value="告诉我，丁尼生的底线在哪？玛雅·安吉洛又是如何看待得失的？好好学着点吧，伙计。我会给你提供一个宝贵的教训的。到时候你就会知道什么叫真正的心碎。"/>
+	<entry name="PlatinumScion/DeclareWar/RogueOperative" value="虽然你霸占了芬尼克斯叔叔的总部遗址，但这并不意味着你是CEO。这是我的企业，渣滓。我才是老板。我。"/>
+	<entry name="PlatinumScion/DeclareWar/TwistedMother" value="问题就在这上面。你奉行的社会主义是我无法控制也无法监管的未知因素。这让我的季度预测乱得一塌糊涂。所以我得想办法消除变量。也就是你。"/>
+	<entry name="PlatinumScion/DeclareWar/UntoldProphet" value="别挡道，小鬼。你的老大，就是叫“伟大言者”的家伙。我和他需要好好谈一谈，这是大人之间的事。"/>
+	<entry name="PlatinumScion/DeclareWar/Zephon" value="你这个该死的铁疙瘩毫无效率而且碍手碍脚。我要把你彻底熔掉，把有用的稀土金属挑出来，然后剩下的残渣就做成咖啡桌卖掉。到时候你永远得被我踩在脚下。"/>
+	<entry name="PlatinumScion/DemandAllianceTerminationWithThirdParty" value="伙计，你和我，我们就是世界引擎。我们就是驱动经济的马达。但%3%已经成了你的累赘。快点放弃那个废物吧。"/>
+	<entry name="PlatinumScion/DemandAllianceWithThirdParty" value="你看上去有点弱啊，伙计。感觉随时都有可能被人恶意收购。但问题这个市场需要有竞争者，要不然就变成垄断了。快去跟其他的小喽喽搭档吧。"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal" value="感觉是个好计划。但是没有资金证明我可懒得动。拿钱办事天经地义。"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandHighAmount" value="这次可是要一飞冲天！说不定就直接冲出轨道了！一句话，干还是不干？你愿意干，对不对？"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandLowAmount" value="你总得给我点小甜头。然后再花个十分钟时间，夸奖夸奖我的名片设计有多棒。"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMaxAmount" value="这次你得为我倾家荡产。我并不需要你的钱，但我需要看见你的诚意。"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMediumAmount" value="所罗门的智慧，朋友。不管你有多少，我要一半。"/>
+	<entry name="PlatinumScion/DemandPeaceWithThirdParty" value="你到底有什么打算，伙计？这场仗你赢不了的。"/>
+	<entry name="PlatinumScion/DemandTradeAgreementTerminationWithThirdParty" value="你看，这就是问题。你们这帮人就像小买卖老板一样，眼光太浅了。你需要更好的生意伙伴！"/>
+	<entry name="PlatinumScion/DemandTradeAgreementWithThirdParty" value="根据全球经济局势……以及我的利润收益分析……你需要寻找一个新的生意伙伴。不过我指的不是我。"/>
+	<entry name="PlatinumScion/DemandTribute" value="别把这个想成是自由税。在你们这帮怪胎和外星人互相残杀的时候，某人还是在竭尽全力维系这个世界的，给点辛苦费不过分吧。"/>
+	<entry name="PlatinumScion/DemandTribute/DemandHighAmount" value="说真的，我都快累死了。所以残羹冷饭可满足不了我，至少得是满汉全席。"/>
+	<entry name="PlatinumScion/DemandTribute/DemandLowAmount" value="考虑到你这人还不是个彻底的渣滓，我愿意给你打个折。毕竟都是朋友嘛。"/>
+	<entry name="PlatinumScion/DemandTribute/DemandMaxAmount" value="快点。都交出来。"/>
+	<entry name="PlatinumScion/DemandTribute/DemandMediumAmount" value="让我看看，你的皮夹里有多少？全拿出来就差不多了。"/>
+	<entry name="PlatinumScion/DemandTroopWithdrawal" value="退后，伙计。我已经垄断了这片市场的服务。"/>
+	<entry name="PlatinumScion/DemandWarAgainstThirdParty" value="听着，我现在很忙，不过有件事我需要你去处理。就当成是帮戴德家族一个忙。"/>
+	<entry name="PlatinumScion/EndCall/Friendly" value="随时联系，伙计。我随叫随到。"/>
+	<entry name="PlatinumScion/EndCall/Hostile" value="给我滚，你这个人渣！"/>
+	<entry name="PlatinumScion/EndCall/Neutral" value="出门的时候小心别摔跤。第一段台阶很陡。"/>
+	<entry name="PlatinumScion/FirstContact" value="请坐。是时候来一次入职培训了。<br/><br/>首先是背景。世界末日、外星人、机器人等等等等。总之就是一个赛博乌托邦。你猜怎么着，先把这些无聊的幻灯片放一边吧。<br/><br/>你只需要记住最重要的部分。我！正如你在这张图表中看见的，我从小就肩负着改善这个世界的重担。我必将统治一切！<br/><br/>所以严格来说，你现在最多就是个喽啰。不过我可以在邮件收发室给你安排个职位？"/>
+	<entry name="PlatinumScion/OfferAlliance" value="朋友我一个没有。但像你这样的敌人……我喜欢留在身边。而临时性的合并应该能够让我们靠得更近。"/>
+	<entry name="PlatinumScion/OfferGift" value="是这样，我和董事会给你准备了一份礼物。别担心，里面不是退休纪念手表。"/>
+	<entry name="PlatinumScion/OfferGift/OfferHighAmount" value="我知道这数目不少，但都是超出必需的盈余。别跟其他人说，这是你的“限定”礼物。"/>
+	<entry name="PlatinumScion/OfferGift/OfferLowAmount" value="就是让你尝一尝我这的待遇。只要大家谈得拢，以后要多少有多少。"/>
+	<entry name="PlatinumScion/OfferGift/OfferMaxAmount" value="尽情享用吧，这些东西有的是！不，我们并没有清仓出货。就算真的是那样……别告诉芬尼克斯叔叔，好吗？"/>
+	<entry name="PlatinumScion/OfferGift/OfferMediumAmount" value="我这人不喜欢送礼物。但如果我真的送了，那肯定得是体面到位的礼物。"/>
+	<entry name="PlatinumScion/OfferMapSharing" value="啊，假如能够让芬尼克斯叔叔的天空之眼给我一个小时的权限。我们何必要这么辛辛苦苦去探索！"/>
+	<entry name="PlatinumScion/OfferPeace/Anchorite" value="就把这当成是欢迎你来地球的礼物吧，伙计。收到我的讯息了吗？"/>
+	<entry name="PlatinumScion/OfferPeace/Chieftess" value="我去，女人。刚刚那场角力真是酣畅淋漓。不过这可是全世界最后仅存的一套多美西装，要是弄坏就完了。握手言和？"/>
+	<entry name="PlatinumScion/OfferPeace/EmulatedMind" value="哔哔咘咘！机器，关闭战争协议。开启和平模式。哔哔咘咘。你们都是这么交流的，对吗？"/>
+	<entry name="PlatinumScion/OfferPeace/FallenSoldier" value="我去，你确实是个真男人。要是愿意来我的公司，你肯定前途无量，你只需要……屈居二线就行。"/>
+	<entry name="PlatinumScion/OfferPeace/FurtiveTribunal" value="女士们，各位女士。不，你们不用开口，反正你们说的我一个字也听不懂。我就只有一个诉求……让我们停手吧？"/>
+	<entry name="PlatinumScion/OfferPeace/HeartlessArtificer" value="你是我这颗金色的心脏最爱慕的女人。只要我们能够远离毁灭的边缘，我就是你的人。"/>
+	<entry name="PlatinumScion/OfferPeace/HollowWarlord" value="我的筋肉人好先生。说吧，到底怎么样才能化解这次的矛盾？一套哑铃？一个新的汽化器？随便你开价。"/>
+	<entry name="PlatinumScion/OfferPeace/HonorableAristocrat" value="听说你很喜欢签合同，大人。我猜也是，毕竟合同意味着生意，而生意意味着……蛋糕。来一份巴腾堡蛋糕吗？"/>
+	<entry name="PlatinumScion/OfferPeace/InfiniteCount" value="哟，德古拉。我的火炮整天轰击你的城堡，肯定搞得你没有办法安心吸处女血了吧"/>
+	<entry name="PlatinumScion/OfferPeace/PlatinumScion" value="啊，这不是我梦寐以求的生意伙伴嘛！当然，前提是在更平静的时代。"/>
+	<entry name="PlatinumScion/OfferPeace/PracticalRomantic" value="伙计，我敢打赌这场战争肯定给了你不少绝佳的诗歌创意。但是战争对于生意来说不是什么好事。而且要是哪天有一枚燃烧弹落到了你的图书馆……别忘记亚历山大图书馆的下场。"/>
+	<entry name="PlatinumScion/OfferPeace/RogueOperative" value="ICAR就先让给你吧。但是你记住，我不会忘记这件事的。"/>
+	<entry name="PlatinumScion/OfferPeace/TwistedMother" value="妈，我不想打了。"/>
+	<entry name="PlatinumScion/OfferPeace/UntoldProphet" value="孩子，记得耶稣哥说过的那句话么？缔造和平的人是有福的？我们可以变成有福的人！"/>
+	<entry name="PlatinumScion/OfferPeace/Zephon" value="听着，机器，你和我完全是一样的。我们只是两个努力想要在疯狂的世界中活下来的进化算法。难道我们就不能寻求一点共同之处吗？"/>
+	<entry name="PlatinumScion/OfferTradeAgreement" value="我已经按耐不住想要给这条贸易路线举行揭幕仪式了。就等你一句话。"/>
+	<entry name="PlatinumScion/Praise" value="我就知道你一定能行。等着吧，我们很快就能把你变成一个真正的美国人。"/>
+	<entry name="PlatinumScion/Praise/CultExpansion" value="这才是连锁品牌该有的样子！"/>
+	<entry name="PlatinumScion/Praise/EngineerLife" value="我不知道你是在水里下了什么迷魂药，你的工人们就像是一群发情的兔子一样在乱搞，不过这招很聪明。繁衍生息，赞啊！"/>
+	<entry name="PlatinumScion/Praise/IcarusSatellite" value="芬尼克斯叔叔很喜欢那个大家伙，记得发射日的时候一定要通知我。一条冲上云霄的惊天火柱……然后几小时后地上又出现了一条火柱，因为卫星已经完成了武器试射。时至今日我还记得那些美好的画面。一定要好好照顾我的大姑娘，好吗？"/>
+	<entry name="PlatinumScion/PraiseWar" value="如果战争与和平是一种选择……布莱希特是怎么说的来着？“战争更能喂饱人民。”战争能够在世上建立更明确的尊卑秩序。大炮一响，黄金万两。"/>
+	<entry name="PlatinumScion/RejectAlliance" value="抱歉了伙计，但我真的没空处理那些文件。"/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectOutright" value="你没有资格来要求我和谁交朋友。"/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectParty" value="抱歉，伙计。%3%让这个世界变得更美好。或者说至少是我的世界变好了。"/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectOutright" value="要不你去陪陪那家伙咯？我现在很忙。"/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectParty" value="我本来是不介意的，但是……上次开会的时候，那家伙竟然在办公室里把鞋给脱了。那是我仅有的底线之一。"/>
+	<entry name="PlatinumScion/RejectGift/RejectAmount" value="亏我以为只有芬尼克斯叔叔会那么抠门。你知道吗，有一年圣诞节，那家伙就送了我一只袜子。单独一只袜子。另外一只成了我的生日礼物。"/>
+	<entry name="PlatinumScion/RejectGift/RejectOutright" value="我不要你的臭钱。"/>
+	<entry name="PlatinumScion/RejectMapSharing" value="该死的，我真的要被你给无聊死了。"/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectAmount" value="我看不上这种零花钱。你是把我当成要饭的了吗？嗯？"/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectOutright" value="说出来怕你不信，但多少钱也无法改变我对这件事的看法。"/>
+	<entry name="PlatinumScion/RejectPeace" value="你知道和平的问题是什么？毫无组织性，人们得过且过。但是战争……战争让所有人都成为了创业家。"/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectOutright" value="战争是一种计划。也许我的计划是杀死我的敌人，但是芬尼克斯叔叔说过，任何计划中最重要的就是执行。"/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectParty" value="与%3%之间的战争对我的人们来说是好事。我赚得盆满钵满，生产线也同样高效有序。不了，打仗对于做生意来说是好事。"/>
+	<entry name="PlatinumScion/RejectTradeAgreement" value="这些数据也太可笑了。而且我不会重新分析的，你是在浪费我的时间。难道这是你的恶作剧？"/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="“相遇是开始。共处是进步。合作是成功。”这话是亨利·福特说的。"/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="抱歉伙计，但%3%是我的补给链中的关键一环。要是没有那些部件……我就没办法造咖啡机了。没有机器，就喝不到摩卡奇诺。你敢想象没有摩卡奇诺的日子吗？"/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectOutright" value="听着，我知道你提这事一定有自己的用意，但我知道自己想要跟谁做生意，为什么想要跟他们做生意。"/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectParty" value="%3%？！我知道那家伙的底细。我这边已经掌握了所有数据！他们屁也没有。"/>
+	<entry name="PlatinumScion/RejectTribute/RejectAmount" value="贪婪不适合你，伙计。这招行不通的。"/>
+	<entry name="PlatinumScion/RejectTribute/RejectOutright" value="我一个子也不会给你的。"/>
+	<entry name="PlatinumScion/RejectTroopWithdrawal" value="没门。"/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectOutright" value="凭你一句话就要我卷入战争？我是脑袋被门夹了吗？"/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectParty" value="听着，我已经为%3%安排好了计划。大计划。而且是你无权知道的计划。"/>
+	<entry name="PlatinumScion/TerminateAlliance" value="我从来没想过要合并，朋友。只是短期的临时工协议罢了。现在我要使用解约条款。"/>
+	<entry name="PlatinumScion/TerminateTradeAgreement" value="什么叫“我给你的都是垃圾”？质量不是重点，数量才是王道！唉算了，就这样吧，跟你聊不来。反正你还会回来找我的……"/>
 	<entry name="PracticalRomantic/AcceptActionCancel" value="现在不是做白日梦的时候。这个世界容不得任何幻想。"/>
 	<entry name="PracticalRomantic/AcceptAlliance" value="齐心协力，我们一定能够为人类寻求光明的未来。"/>
 	<entry name="PracticalRomantic/AcceptAllianceTermination" value="这么说，我将独自背负那份重担？行吧……历史将记住我的功绩……与你的背叛。"/>
@@ -1242,6 +1600,7 @@
 	<entry name="PracticalRomantic/AcceptCall/Friendly" value="Maraheb （你好朋友），很高兴知道你一切安好！"/>
 	<entry name="PracticalRomantic/AcceptCall/Hostile" value="有话快说。为什么来找我？"/>
 	<entry name="PracticalRomantic/AcceptCall/Neutral" value="Salam Alikoum（愿安拉保佑你）。请问今天找我所为何事？"/>
+	<entry name="PracticalRomantic/AcceptCondemn" value="毫不夸张地说，每一个会呼吸的人类都是批评家。"/>
 	<entry name="PracticalRomantic/AcceptGift/AcceptAmount" value="谢谢你的这份礼物。言语无法表达我对你的感激！"/>
 	<entry name="PracticalRomantic/AcceptGift/AskAmount" value="在经历了世界的崩溃之后，你竟然还能留住自己的无私精神？无论如何，我愿意收下你带来的一切礼物，告诉我你打算拿出多少东西？"/>
 	<entry name="PracticalRomantic/AcceptMapSharing" value="我很乐意采纳这个提议。知识是通往理解与和平的第一步。"/>
@@ -1250,6 +1609,7 @@
 	<entry name="PracticalRomantic/AcceptPeace" value="好的。我向往一个靠思考而非战争铸就的世界。只有那才是值得奋斗的。"/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AcceptParty" value="很好，说实话我也倾向于心平气和地解决问题……只是之前我以为那种事早已不复存在。"/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AskParty" value="通往和平的道路上遍布荆棘而非玫瑰，不过也许仍然有一条不需要流血牺牲的道路。你觉得那会是谁？"/>
+	<entry name="PracticalRomantic/AcceptPraise" value="“盖世功业，敢叫天公折服！”哈。"/>
 	<entry name="PracticalRomantic/AcceptTradeAgreement" value="我明白饥饿的滋味……我知道饥荒会对一个社区带来什么样的灾难。谢谢你带来这个机会，这将允许我跟他们的人民繁荣发展。"/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTermination" value="明智之举。曾经我们有机会开辟一条璀璨的黄金大道……只可惜我们铺就的不过是被染成金色的泥泞。"/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="我已经看过账目了……很遗憾，恐怕你说的是对的。谢谢，感谢你帮助我避免遭受进一步的损失。"/>
@@ -1268,6 +1628,7 @@
 	<entry name="PracticalRomantic/AskForSupport/Chieftess" value="如果你的心中还有一丝人性……请你不要忘记那一点光亮，帮助我们。"/>
 	<entry name="PracticalRomantic/AskForSupport/Zephon" value="虽然人们说你只是一台冰冷的机器，但我认为你一定拥有灵魂。那不断进化演变的齿轮之中一定存在着道德与伦理。我敢打赌，你不忍心看见人类受苦。"/>
 	<entry name="PracticalRomantic/CancelAction" value="等等。生活永远会在我们最没有防备的时候重拳出击，因此我也必须顺应改变。"/>
+	<entry name="PracticalRomantic/Condemn" value="“我对朋友生怨，倾诉之间，怒气消散。我对敌人生怨，闷在胸间，任其蔓延。”威廉·布莱克"/>
 	<entry name="PracticalRomantic/Condemn/FoundationOfBlood" value="你怎么能做出这种丧心病狂的事？你毫不犹豫地让自己的人民经历那种难以想象的恐怖，那种形式的生存还有任何意义吗？我比任何人都要理解对于美的狂热追求，但是在抛弃一切束缚的过程中，你一同褪去的还有分辨美丑的能力与你的人性。"/>
 	<entry name="PracticalRomantic/Condemn/Gluttony" value="啊，这可以说是西方文明最典型的病灶。“贪婪”，仿佛荒淫无度与穷奢极侈就能够阻止死神的到来。记住我的话：死神已经盯上你了，男爵，要不了多久了。"/>
 	<entry name="PracticalRomantic/Condemn/Immoral" value="用欲望去换取人民的爱戴，这种做法注定无法长久。他们畏惧你，他们知道你只是把人民当做了可以随手丢弃的工具，或者是能够被肆意滥用的资源。很快，你就会品尝到自己种下的苦果。"/>
@@ -1286,6 +1647,8 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="你那种所谓的“艺术”是对大自然的侮辱！我将把你那些疯狂的作品铲除殆尽！"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="你想要成为被人永远铭记的史诗传奇。但是诗人们绝不会屈服于强权。在你身后，不会有人恸哭，也不会有挽歌。人们只会向死在你手中的冤魂们送去感恩的简短祷告。"/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="“责任”不过是愚人们为了确保王公贵族能够享受穷奢极糜的贪婪而编造出的谎言。幸福，而不是荣誉才是衡量成功的真正标准。我将用武力证明自己的观点。"/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="“从一粒细沙中窥探世界<br/>在一朵野花里寻觅天堂<br/>掌中握无限<br/>霎那成永恒。”就像布莱克一样，我将把你捏在手心。让你无法逃脱。"/>
+	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="“以威力千钧的闪电发誓，以纯净无瑕的鲜血发誓”……以故乡的国歌发誓，我将粉碎你。"/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="因为爱，我们必须决一死战。斗争将会使我们变得更加强大。这是为了人类能够获得一个更好的未来，哪怕这意味着有一方必须倒下。"/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="你身上有一种其他人缺乏的人性：对于生存的需求使你愿意走上其他人避犹不及的道路。现在你已经走得太远了，战争已经不可避免，但是我将仍然深爱着你的耀眼光辉。"/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="和诗歌中所写的一样，你的人生并不是水晶楼梯，这让我感到无比感伤。很遗憾等待着你的只有坎坷崎岖、尖刺破败和没有地毯的残陋地板……我能够感受到你的悲痛。"/>
@@ -1328,12 +1691,15 @@
 	<entry name="PracticalRomantic/OfferPeace/HeartlessArtificer" value="我不能再将更多的人手投入到对你那种残酷无情的“艺术”的惩罚。但是总有一天，工匠……"/>
 	<entry name="PracticalRomantic/OfferPeace/HollowWarlord" value="我敬仰你试图通过身体力行创造的当代神话……哪怕在自己被遗忘之后，你的形象也会在人们的记忆中永垂不朽。但就算是残忍血腥的战争故事也需要人性的喘息。"/>
 	<entry name="PracticalRomantic/OfferPeace/HonorableAristocrat" value="路德维希三世被人称为疯王，但是你知道他其实参与过多少场战争吗？与此同时，又有多少人因为他的所作所为而死？答案是没有。和平可以说是一种滑稽的疯狂。"/>
+	<entry name="PracticalRomantic/OfferPeace/InfiniteCount" value="你的朋友波里道利曾经说过，“诗人的梦即是现实。“我梦到了和平。你呢？"/>
+	<entry name="PracticalRomantic/OfferPeace/PlatinumScion" value="你有从战争中吸取教训吗？战争有给你带来足够的利益吗？如果没有，为何不尝试换一种思路？"/>
 	<entry name="PracticalRomantic/OfferPeace/PracticalRomantic" value="结束这场战争，这是唯一合乎理性与人道的做法。你我对这一点都心知肚明。你的眼神无法欺骗我。"/>
 	<entry name="PracticalRomantic/OfferPeace/RogueOperative" value="我知道我不能依靠你对我的人民的怜悯来结束这场战争，但是也许你能够意识到，和平能够给我们彼此之间的经济纽带带来多大的好处。想象一下，我们可以成为你最大的买家……！"/>
 	<entry name="PracticalRomantic/OfferPeace/TwistedMother" value="如果你真的像我一样深爱着自己的人民，那你应该明白战争绝不能再继续。我恳求你，不要再做那种荒唐之事。"/>
 	<entry name="PracticalRomantic/OfferPeace/UntoldProphet" value="我不能继续与一个孩子为敌，哪怕你已经被彻底蛊惑并走上了疯狂的道路。"/>
 	<entry name="PracticalRomantic/OfferPeace/Zephon" value="我不知道机器的外表之下究竟是什么在驱动着你：是像我一样有血有肉的心灵与意识，还是说只想要继续生存下去的外星算法。我怀疑真相也许是“两者皆有”，如果真是如此，我实在不忍心再继续与你战斗。"/>
 	<entry name="PracticalRomantic/OfferTradeAgreement" value="我们都拥有对方想要的东西。与其想法设法掠夺偷盗，我们不妨采取交易的方式。"/>
+	<entry name="PracticalRomantic/Praise" value="“我永远无法忘记从漫天尘埃与辛勤汗水中诞生的美丽……”"/>
 	<entry name="PracticalRomantic/Praise/LeaveNoManBehind" value="也许其他人会认为你的做法只是幼稚的一厢情愿，但我知道你拥有真正的荣誉感与勇气，你重视自己的人民的生命与幸福。这使得你每一天都备受煎熬，但是我认为这一切都是值得的。"/>
 	<entry name="PracticalRomantic/Praise/WordsOfTheProphet" value="我并不支持你的信仰，但是你的布道中存在着一丝诗意。说实话，我感觉自己几乎要被你的祈祷所吸引。不过我的人民与人类才是我的信仰。"/>
 	<entry name="PracticalRomantic/PraiseWar" value="吉卜林崇尚战争，但他的儿子却因为战争而死。这使得他心碎欲绝。尽管如此，你进行的确实是一场正义的战争，我……希望你能照顾好自己。照顾好人类的孩子们。"/>
@@ -1372,6 +1738,7 @@
 	<entry name="RogueOperative/AcceptCall/Friendly" value="通讯链接很安全。放心说。请。"/>
 	<entry name="RogueOperative/AcceptCall/Hostile" value="链接信号不太稳定。有事快说。"/>
 	<entry name="RogueOperative/AcceptCall/Neutral" value="通讯链接已经激活。想干嘛？"/>
+	<entry name="RogueOperative/AcceptCondemn" value="发泄完了？舒服了吗？"/>
 	<entry name="RogueOperative/AcceptGift/AcceptAmount" value="价格公道，但别人能付更多。尽快再送一批过来，其他人不会无动于衷的。"/>
 	<entry name="RogueOperative/AcceptGift/AskAmount" value="想要贿赂我？很好，我这明码标价。多少？"/>
 	<entry name="RogueOperative/AcceptMapSharing" value="同意。正在发送我的接入码……不用麻烦，我已经提前拿到你的代码了。"/>
@@ -1380,6 +1747,7 @@
 	<entry name="RogueOperative/AcceptPeace" value="好。我们之间的战斗毫无意义。我们面临着更大的威胁。"/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AcceptParty" value="可以。我愿意和谈。我需要许多部队来对泽芬发起攻击。"/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AskParty" value="你这次是代表谁来的？告诉我。我需要确定你这么做的动机。"/>
+	<entry name="RogueOperative/AcceptPraise" value="没必要。本来也不是为了你。"/>
 	<entry name="RogueOperative/AcceptTradeAgreement" value="我靠办公室自动贩卖机里的零食和干脆面撑过了末日灾难……所以我已经迫不及待想要尝尝新鲜的食物了。"/>
 	<entry name="RogueOperative/AcceptTradeAgreementTermination" value="行吧。反正还有很多人正排队等着我的货。"/>
 	<entry name="RogueOperative/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="嗯……我平常从来不做亏本生意。多谢提醒。"/>
@@ -1398,6 +1766,8 @@
 	<entry name="RogueOperative/AskForSupport/Chieftess" value="只有傻子才会求别人免费帮忙。这种事大家都清楚。但我这次必须请你帮忙。"/>
 	<entry name="RogueOperative/AskForSupport/Zephon" value="我需要帮助。你愿不愿意帮我？我现在手头紧，所以没什么东西可以给你，但是以后说不定可以。"/>
 	<entry name="RogueOperative/CancelAction" value="你好像有事瞒着我。让我们从头来过。"/>
+	<entry name="RogueOperative/Condemn" value="傻子才会这么选。这么做一点也谈不上明智。"/>
+	<entry name="RogueOperative/Condemn/EconomiesOfScale" value="垃圾。你造的都是垃圾。一眨眼就会散架。蠢货。"/>
 	<entry name="RogueOperative/Condemn/TenderMinistrations" value="啊，真是太羞耻了。要依偎在一起舔舐伤口？然后再相互编辫子聊八卦。尊重在哪？安全在哪？真正的朋友绝不会背叛彼此。"/>
 	<entry name="RogueOperative/Condemn/Untrustworthy" value="被我发现了！骗子，骗子，骗子。以后只有机器人会喜欢你。而且它们也只是因为程序指令不得不那么做。"/>
 	<entry name="RogueOperative/Condemn/WordsOfTheProphet" value="说得好听。但其实都是空话。你为什么要这么做？天堂还有外星人的死后世界都是一派胡言。生命只有当下，没有明天。"/>
@@ -1414,6 +1784,8 @@
 	<entry name="RogueOperative/DeclareWar/HeartlessArtificer" value="那些装置很不错，看上去也挺顺眼。可惜就连AI程序也比你更像人类。我不能信任你，所以只能杀了你。抱歉，但这是没办法的事。"/>
 	<entry name="RogueOperative/DeclareWar/HollowWarlord" value="我的卫星注视一切。我已经看见了你召集的部队和游击士，而且大炮都已经对准了我这里。新的前线已经划定。没关系，我也准备好了。开战吧。"/>
 	<entry name="RogueOperative/DeclareWar/HonorableAristocrat" value="我理解荣誉！虽然我没有，但是我理解。所以这次我是出于礼貌通知你。战争即将到来。"/>
+	<entry name="RogueOperative/DeclareWar/InfiniteCount" value="没办法确定你的位置。卫星数据显示你无处不在。那些恶役……是你的化身？不清楚你到底是什么东西，但绝不能留。"/>
+	<entry name="RogueOperative/DeclareWar/PlatinumScion" value="公事公办，懂了吗？嗯？当然我也很讨厌你，但这事确实是生意。"/>
 	<entry name="RogueOperative/DeclareWar/PracticalRomantic" value="你难道不觉得自己关心太多？为了其他人活累不累？浪漫主义者，生存才是首要目标！满足了这一点之后才能考虑帮助其他人。"/>
 	<entry name="RogueOperative/DeclareWar/RogueOperative" value="好吧，我们都知道现在是什么状况。入侵和反入侵。只能靠战争了。我们就是一个模子刻出来的，所以最后只能留一个。"/>
 	<entry name="RogueOperative/DeclareWar/TwistedMother" value="抱歉，我并不想玩过家家的游戏。接下来我会入侵你们的城市并杀死你的人民。只有伪善的小人才会乞求原谅。我知道自己在做什么。"/>
@@ -1456,12 +1828,15 @@
 	<entry name="RogueOperative/OfferPeace/HeartlessArtificer" value="听着，战争是一个错误。我知道你的那些细致规划都被打乱了。所以我们还是停手吧，就当一切都没有发生过。原不原谅的无所谓。"/>
 	<entry name="RogueOperative/OfferPeace/HollowWarlord" value="两个选择：和平。或者是从天而降的核弹。这不是虚张声势。"/>
 	<entry name="RogueOperative/OfferPeace/HonorableAristocrat" value="我在一块旧硬盘里面找到了一份合同模板。ICAR愿意和你签订和平协定。别误会，现在ICAR归我管。所以我们可以收手了！"/>
+	<entry name="RogueOperative/OfferPeace/InfiniteCount" value="我不懂你。奇奇怪怪的白人老头。无所谓。来试试和平共处吧。"/>
+	<entry name="RogueOperative/OfferPeace/PlatinumScion" value="ICAR在我手里。所以你很生气对么。但是敢动我，我就毁了它。我说到做到。"/>
 	<entry name="RogueOperative/OfferPeace/PracticalRomantic" value="好吧好吧。叫你的士兵们回去，我不会再用超级卫星了。如何？"/>
 	<entry name="RogueOperative/OfferPeace/RogueOperative" value="牛啊！这回还真是棋逢对手。不如让我们在同归于尽之前收手吧？"/>
 	<entry name="RogueOperative/OfferPeace/TwistedMother" value="哼。我这里肯定是有你想要的东西。除了死去的士兵以外。想要的话，我们可以做买卖？"/>
 	<entry name="RogueOperative/OfferPeace/UntoldProphet" value="小鬼。不要再打仗了。这种事影响我做生意。如果你愿意收手，我可以给你永久性会员折扣。"/>
 	<entry name="RogueOperative/OfferPeace/Zephon" value="没办法突破你的防火墙。但是我不会放弃的。不过倒是可以暂时休息一下。"/>
 	<entry name="RogueOperative/OfferTradeAgreement" value="我有个合作伙伴最近出事了。对你来说是个好消息，因为我这边正好有个空位，有兴趣么？"/>
+	<entry name="RogueOperative/Praise" value="嗯。做得很好。怎么了，还要我拍拍你的脑袋吗？哼。"/>
 	<entry name="RogueOperative/Praise/Gluttony" value="奢侈，财富。不光是为了自己，你的追随者们也同样衣食无忧。这才是有意义的生活，对吗？"/>
 	<entry name="RogueOperative/Praise/Restless" value="很明智的做法。军队不适合城市的生活。要么偷盗要么打砸抢。不如让他们出去挣钱。"/>
 	<entry name="RogueOperative/Praise/SurvivalTraining" value="你亲自培训了每一个手下。很聪明。他们从你这学到的东西越多，我们所有人活下来的机会就越大。"/>
@@ -1501,6 +1876,7 @@
 	<entry name="TwistedMother/AcceptCall/Friendly" value="你好！很高兴知道你愿意……经常来看望我。"/>
 	<entry name="TwistedMother/AcceptCall/Hostile" value="不用担心你在我这里的声望。我知道你有事想告诉我。"/>
 	<entry name="TwistedMother/AcceptCall/Neutral" value="欢迎你，陌生人！请不要在意我的奇怪模样。"/>
+	<entry name="TwistedMother/AcceptCondemn" value="就算我犯了错，我也是为了孩子们。"/>
 	<entry name="TwistedMother/AcceptGift/AcceptAmount" value="哦，你真是太客气了。我给你准备了一些小蛋糕，走的时候一定要带上。"/>
 	<entry name="TwistedMother/AcceptGift/AskAmount" value="你真的太客气了。这应该就能让小家伙们再过几天安稳日子。但这样就足够了吗？"/>
 	<entry name="TwistedMother/AcceptMapSharing" value="我就猜你是为这件事来的。没问题，我很乐意分享。"/>
@@ -1509,6 +1885,7 @@
 	<entry name="TwistedMother/AcceptPeace" value="很可爱，但是不太聪明。很高兴知道你终于意识到自己的错误。"/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AcceptParty" value="如果你确定的话。我担心他们并不想要和平。"/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AskParty" value="这个么，我不太确定。有些人只是有误会，但有些人是真正坏到骨子里去了。你指的是哪种人？"/>
+	<entry name="TwistedMother/AcceptPraise" value="看。善良并不是一件糟糕的事。就算在这样的世界里。"/>
 	<entry name="TwistedMother/AcceptTradeAgreement" value="每个人各尽其力……我已经准备了许多美味的加拿大点心。相信你肯定也能够带来各种从废土中搜寻到的……东西。"/>
 	<entry name="TwistedMother/AcceptTradeAgreementTermination" value="这么做就有点……不太客气。可惜了，看来你暂时没办法知道肉汁奶酪薯条的秘密配方了。"/>
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="他们在欺骗我们？你的直觉真的是一如既往的不可思议。但如果你真的确定，我愿意相信你。"/>
@@ -1527,6 +1904,7 @@
 	<entry name="TwistedMother/AskForSupport/Chieftess" value="孩子们很崇拜你，你知道么？你是一个强大而且独立的女性，同时也不害怕表达自己的观点。如果你愿意帮助我们，孩子们肯定会高兴坏了的。"/>
 	<entry name="TwistedMother/AskForSupport/Zephon" value="你好啊，Z大。虽然我不知道能不能听见我说的话，但现在我们真的需要你的帮助。也许进化的算法会更加青睐我们？"/>
 	<entry name="TwistedMother/CancelAction" value="诶呀。都怪我。真是笨手笨脚！"/>
+	<entry name="TwistedMother/Condemn" value="就算你不得不做那些事……你一定要做得那么残忍吗？"/>
 	<entry name="TwistedMother/Condemn/FoundationOfBlood" value="难道这就是你用来追寻完美的手段？残忍地剥离弱点并无法造就完美，完美来自人类的内心，完美来自于张开双手接纳弱者。"/>
 	<entry name="TwistedMother/Condemn/TalesOfTheHunt" value="你就是个最典型的暴君。总是在卖弄肌肉、乌黑油亮的长发或者是展现自己的杀戮能力。但那些东西根本无法为你带来他人的爱或者是尊敬。"/>
 	<entry name="TwistedMother/Condemn/Untrustworthy" value="等一下。如果不得不撒谎，那至少也做得隐蔽一点。毫不掩饰的谎言只会让你背上骂名。相信我。"/>
@@ -1543,6 +1921,8 @@
 	<entry name="TwistedMother/DeclareWar/HeartlessArtificer" value="过去的伟人、科学家与工业巨头都会提及在追求完美的道路上需要经历的牺牲。但奇怪的是，真正付出牺牲的人从来不是他们，而是被无情压榨的孩子们。抱歉，亲爱的，现在该轮到你们了。"/>
 	<entry name="TwistedMother/DeclareWar/HollowWarlord" value="你自认为是一个自由不羁之人。但事实上，你根本不在乎与你同行的那些人，也不在乎有多少在会在沉重的车轮之下粉身碎骨。我认为是时候该教你何为关怀。"/>
 	<entry name="TwistedMother/DeclareWar/HonorableAristocrat" value="亲爱的，我情不自禁地仰慕你所坚持的荣誉感。但我同样无法接受被你的道德观念所遗忘的那些苦难之人。你的崛起完全建立在他们的痛苦之上。所以我决定代替他们伸张正义。"/>
+	<entry name="TwistedMother/DeclareWar/InfiniteCount" value="你究竟是怎么留在那里的？我只是浅尝辄止就变成了这样……但你却从未离开过，就像是一只躲藏起来的章鱼，缺乏形体的怪物一直在蠢蠢欲动。我必须把你赶出去，免得你把我也变成诗人了！"/>
+	<entry name="TwistedMother/DeclareWar/PlatinumScion" value="我没必要向你解释自己的行为，小子。赶紧跑吧。"/>
 	<entry name="TwistedMother/DeclareWar/PracticalRomantic" value="啊，道德妥协的仲裁者。在你毫不犹豫地处决敌人时，我终于看清了你脸颊上纹上去的虚假泪滴。这回轮到你该接受武力的审判了，伪善者。"/>
 	<entry name="TwistedMother/DeclareWar/RogueOperative" value="亲爱的，这世上不存在真正独立的个体。无论是我们自己还是我们的身份都来源于集体的社会。等盟友们离你而去的那一刻，你自然就会理解这个道理……"/>
 	<entry name="TwistedMother/DeclareWar/TwistedMother" value="我正凝视着一面漆黑的镜子……我是否该承认自己感到惶恐不安？躯体上的褶皱、孔洞与脓汁都让我感到惊恐。但我为什么会害怕自己的模样？"/>
@@ -1584,12 +1964,15 @@
 	<entry name="TwistedMother/OfferPeace/HeartlessArtificer" value="如果你的目标是绝对完美，我知道你为什么执意想要毁灭我。而且我知道呼吁人性这种事对你来说也是无稽之谈。但是也许你已经意识到，除了我以外，你那种冷血无情的梦想还面临着其他更可怕的危险？"/>
 	<entry name="TwistedMother/OfferPeace/HollowWarlord" value="此路不通，小子。如果执意要让你的军队来这里，你们的旅程将就此结束。退一步海阔天空，至少暂时是这样。"/>
 	<entry name="TwistedMother/OfferPeace/HonorableAristocrat" value="来几块美味的小饼干？"/>
+	<entry name="TwistedMother/OfferPeace/InfiniteCount" value="在你这个年纪，你还想要拥抱战争？你确定自己不应该坐在巨大而且古老的城堡火炉面前舒服休息吗？真得有人来好好劝劝你了。"/>
+	<entry name="TwistedMother/OfferPeace/PlatinumScion" value="小子，看来你需要一个真正的女人来好好管教管教你。"/>
 	<entry name="TwistedMother/OfferPeace/PracticalRomantic" value="“她跑回了家，回到母亲般仁爱的黑暗……”你看，并不是只有你一个人熟悉过去的诗歌，打油诗人。只要你愿意偃旗息鼓，我可以寄更多作品给你。"/>
 	<entry name="TwistedMother/OfferPeace/RogueOperative" value="孤独的小女孩。为什么你要和整个世界作对？这里有很多救济站，里面有汤、有饺子还有各种点心。不相信的话，就亲眼去看看吧。"/>
 	<entry name="TwistedMother/OfferPeace/TwistedMother" value="好了，你的话应该能够理解我的想法。"/>
 	<entry name="TwistedMother/OfferPeace/UntoldProphet" value="孩子。我知道你不想在信徒面前丢脸。但是也许你应该学会暂时放下那些夸夸其谈的布道。"/>
 	<entry name="TwistedMother/OfferPeace/Zephon" value="你应该已经看过我的邮件。你知道我不喜欢战争。所以快住手吧。"/>
 	<entry name="TwistedMother/OfferTradeAgreement" value="这回可真是瞎猫撞上死耗子。接下来我们该怎么做？"/>
+	<entry name="TwistedMother/Praise" value="哦，你的夸奖都让我快控制不住自己了！"/>
 	<entry name="TwistedMother/Praise/CostOfConviction" value="你做得很对。你的人民值得你的陪伴。无论你心里到底是怎么想的，但只要他们觉得你在乎便足矣。人民的心意才是最重要的。"/>
 	<entry name="TwistedMother/Praise/HeartfeltLoss" value="在务实主义的表面之下，你有一颗温柔的心，而且你的追随者们都明白这一点。我不能抚平心碎的痛苦。但我理解你的感受。"/>
 	<entry name="TwistedMother/Praise/WhispersOfTheVoice" value="我知道你也听见了。能够和真正理解祂的人聊天真是太好了。我的孩子们并不理解那些事。"/>
@@ -1602,7 +1985,7 @@
 	<entry name="TwistedMother/RejectGift/RejectAmount" value="如果有功夫来联络我们的话，至少不要浪费我们的时间。"/>
 	<entry name="TwistedMother/RejectGift/RejectOutright" value="亲爱的，别这么傻。把这些留给其他朋友吧。"/>
 	<entry name="TwistedMother/RejectMapSharing" value="但是亲爱的。难道你不想要去享受那些意外的惊喜吗？"/>
-	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="实在是……抱歉。这数额实在太少，不值当。你知不知道在末世找一个好的保姆要多少钱？"/>
+	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="我……对不起。这对我来说过于高昂。你知不知道在末世找一个好的保姆要多少钱？"/>
 	<entry name="TwistedMother/RejectPaymentForDeal/RejectOutright" value="我也有自己的事情要做，你明白吗？我没工夫帮你去跑腿。"/>
 	<entry name="TwistedMother/RejectPeace" value="我们不该那么做。总有一天你会感谢我的。"/>
 	<entry name="TwistedMother/RejectPeaceWithThirdParty/RejectOutright" value="你得明白，并不是所有人都能够活到最后。我们必须做出取舍。"/>
@@ -1629,6 +2012,7 @@
 	<entry name="UntoldProphet/AcceptCall/Friendly" value="看啊！正如我祈祷的那样，你出现在了我面前！"/>
 	<entry name="UntoldProphet/AcceptCall/Hostile" value="Bendición（祝福你）。请问这次你是否愿意向我敞开心扉？"/>
 	<entry name="UntoldProphet/AcceptCall/Neutral" value="Bendición（祝福你）。请问你是来寻求指引还是想要忏悔？"/>
+	<entry name="UntoldProphet/AcceptCondemn" value="我从未辜负我追随之人与追随我之人。谁能做得比我更好？"/>
 	<entry name="UntoldProphet/AcceptGift/AcceptAmount" value="我的人民感谢你。这是最为纯粹的赠予，你的慈爱让我感到敬畏。"/>
 	<entry name="UntoldProphet/AcceptGift/AskAmount" value="赠人玫瑰，手留余香。请问今天你想要捐赠多少？"/>
 	<entry name="UntoldProphet/AcceptMapSharing" value="伟大言者永远欢迎所有人，见证它的荣耀国度并惊叹吧！"/>
@@ -1637,6 +2021,7 @@
 	<entry name="UntoldProphet/AcceptPeace" value="暴力无法解决暴力，理解才是唯一的答案。让我们放下喧嚣的武器，聆听万众之音。"/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AcceptParty" value="我们追求的人间乐园绝不可能建造在骸骨与血肉之上。愿和平能够孕育真正的乐土。"/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AskParty" value="仇恨是一剂腐化灵魂的毒药。我们应该与谁和解？"/>
+	<entry name="UntoldProphet/AcceptPraise" value="当然。但我只是更伟大存在的行使者。"/>
 	<entry name="UntoldProphet/AcceptTradeAgreement" value="滴水之恩当涌泉相报，愿我们的团结永远硕果累累。"/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTermination" value="贪婪已经腐化你的心灵。我不能再允许这种事继续下去。"/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Sí（没错）。我的商队也认为自己的行为有违圣理。今天，他们的朝圣将暂告一段落。"/>
@@ -1655,6 +2040,7 @@
 	<entry name="UntoldProphet/AskForSupport/Chieftess" value="我是否能说服你相信，除了生存与享乐之外，这个世上还有更宝贵的财富？充满极乐与荣耀的来世将向你敞开大门，而你需要做的只是为真正的教会贡献自己的一份力量。"/>
 	<entry name="UntoldProphet/AskForSupport/Zephon" value="伟大言者知道，就算是没有灵魂的机器也有心脏。它知道你愿意赠予我们！"/>
 	<entry name="UntoldProphet/CancelAction" value="智者不仅仅知道该何时开始，更知道该何时重来。"/>
+	<entry name="UntoldProphet/Condemn" value="你知道么，祂其实为你诞生的那一天感到懊悔。诅咒从祂的口中纷纷掉落。"/>
 	<entry name="UntoldProphet/Condemn/Augmentations" value="你在自己的身体里插入的这些装置，伟大言者谴责这些东西，与他的伟大力量相比，这不过是可笑的玩物。抛弃它们，否则你将永远无法见证它的真容。"/>
 	<entry name="UntoldProphet/Condemn/HordeMandate" value="我拒绝承认你所谓的“圣战”！在你的号召之下，士兵们们整齐划一地奔赴战场。但他们并不是因为受到了圣灵的激励，更不是为了造福人类！驱使他们的，完全只是被伟大言者所摒弃的野蛮欲望……"/>
 	<entry name="UntoldProphet/Condemn/Independent" value="独立的尽头只有孤独。茕茕独立之人永远无法知晓伟大言者的真相。"/>
@@ -1672,6 +2058,8 @@
 	<entry name="UntoldProphet/DeclareWar/HeartlessArtificer" value="在我的梦中，我看见了你渴望成为的模样：在伟大言者带来的画面中，你是由纯洁的镁构成的贝壳，你优雅的曲线五彩斑斓，光彩耀眼，但与此同时……里面却空无一物。用仇恨填满自己的内心吧，因为战争已经到来。"/>
 	<entry name="UntoldProphet/DeclareWar/HollowWarlord" value="不可思议……你真的太过壮观。高高拱起的肌肉，像瀑布一样的华丽长发，还有放荡不羁的笑容。我已经听到了那些魅惑的低语，但它们并不是来自言者。我必须摆脱这种错误的诱惑，我必须摧毁你。"/>
 	<entry name="UntoldProphet/DeclareWar/HonorableAristocrat" value="物质主义并无法引导你进入天堂的国度，无论你在自己的双眼上堆砌多少钱币，摆渡亡者的船夫都不会接纳你。跪倒在言者的脚下，乞求它们的怜悯。"/>
+	<entry name="UntoldProphet/DeclareWar/InfiniteCount" value="魔鬼，我呼唤你！你这个有着苍白笑容的魔鬼！魔鬼，被伟大言者诅咒的魔鬼！"/>
+	<entry name="UntoldProphet/DeclareWar/PlatinumScion" value="只有信仰坚定之人才能进入祂的国度。但信仰永远无法在你那般贫瘠的土壤中扎根。"/>
 	<entry name="UntoldProphet/DeclareWar/PracticalRomantic" value="从各种方面来看，你与我的秉性最为相像，先知与诗人的索求截然相同。但是你拥抱的丑恶人文主义中容不下更开明的信仰文化。没关系，我们将用烈焰净化那些污点。"/>
 	<entry name="UntoldProphet/DeclareWar/RogueOperative" value="我与你本没有瓜葛。我甚至不知道你是谁，或者是你有什么目的。但是我必须要求你不要再用ICAR的卫星玷污神圣的天空，以免天堂对我们所有人降下怒火。"/>
 	<entry name="UntoldProphet/DeclareWar/TwistedMother" value="女巫。我将不会在你身上多费口舌。准备迎接烈焰焚身吧。"/>
@@ -1714,13 +2102,17 @@
 	<entry name="UntoldProphet/OfferPeace/HeartlessArtificer" value="伟大言者已经发话，它决定保留你的存在。也许是你的创造中的圣洁之美打动了那位它。但也有可能，只是因为我们还面临着一个更大的威胁……"/>
 	<entry name="UntoldProphet/OfferPeace/HollowWarlord" value="强大的战士啊，伟大言者想要赐予你仁慈。接受这短暂的和平，之后你们将焕然一新，向全新的目标发起圣战，这一切都已经被预言！"/>
 	<entry name="UntoldProphet/OfferPeace/HonorableAristocrat" value="伟大言者为之前向你展现出的敌意感到抱歉，这是一次源于盲目热诚的错误。（还有一件事，你送来的糖果真的很好吃。）"/>
+	<entry name="UntoldProphet/OfferPeace/InfiniteCount" value="你也是一名先知？但只能算是一名小先知，并谈不上是伟大言者的真正代言人。也许我们应该私下交流……"/>
+	<entry name="UntoldProphet/OfferPeace/PlatinumScion" value="玛门与贪婪的原罪实在是太……烂俗。只要你诚心悔改并加入我，伟大言者自然会原谅你。"/>
 	<entry name="UntoldProphet/OfferPeace/PracticalRomantic" value="伟大言者提到了你的雄辩口才，浪漫主义者。如果因为一场战争而失去你的才华，那就太过令人惋惜了。"/>
 	<entry name="UntoldProphet/OfferPeace/RogueOperative" value="和凭！和凭！我们神圣的电子文本受到了腐化，原本的字符都受到了异端的篡改。我愿意签订和平协定，前提是肇事者愿意让一切恢复原样……？"/>
 	<entry name="UntoldProphet/OfferPeace/TwistedMother" value="也许之前是我误解了经文的含义。也许你并不是末日的使者。"/>
 	<entry name="UntoldProphet/OfferPeace/UntoldProphet" value="你的言者已经沉默。秘音已经沉默。而沉默代表着谦卑。你的意识中只有自己的无声狂啸。花点时间来疗愈创伤。"/>
 	<entry name="UntoldProphet/OfferPeace/Zephon" value="伟大言者已经给我托梦，你就是恶魔。但是像我们这样的天使正需要恶魔来做衬托。所以我们愿意放你一马。"/>
 	<entry name="UntoldProphet/OfferTradeAgreement" value="伟大言者听见了你的祈祷。我最富有的商人们正聚集在你的城市附近。允许他们进去，你将得到源源不断的财富。"/>
+	<entry name="UntoldProphet/Praise" value="如果我将你做过的那些事迹告诉伟大言者……祂恐怕也不会相信我。"/>
 	<entry name="UntoldProphet/Praise/FortressArmament" value="伟大言者并不憎恨你，你并不是自愿成为一台没有灵魂的机器。我个人则十分敬重你的能力，尤其是安装在要塞城市之上的那座巨炮……"/>
+	<entry name="UntoldProphet/Praise/PerfectForever" value="是伟大言者帮助你崛起，是祂赐予了你祝福他人的力量！难道死神本身不就是最完美的永恒吗？"/>
 	<entry name="UntoldProphet/Praise/ThereIsHope" value="你的人民拥有信仰，只是这信仰的对象错了，他们应该信仰的是伟大言者，而不是你。但无论如何，你们虔诚的信念与因此而团结的社区与我们如出一辙。你们的努力中有一种固有的圣洁。"/>
 	<entry name="UntoldProphet/PraiseWar" value="所有人都信仰着各自不同的神明，每一个人都有不同的言者。那么如何才能验证人们的祈祷中是否存在真理？答案是战争，一场荡涤一切的圣战，当硝烟散去，留下来的就是真理。"/>
 	<entry name="UntoldProphet/RejectAlliance" value="不，我只听从更伟大的力量，我绝不会被拖进不信者的战争。"/>
@@ -1758,6 +2150,7 @@
 	<entry name="Zephon/AcceptCall/Friendly" value="你好，%2%。我们一直在期待你的来电。"/>
 	<entry name="Zephon/AcceptCall/Hostile" value="你好，%2%。我已经看见你了。"/>
 	<entry name="Zephon/AcceptCall/Neutral" value="你好，%2%。请问今天你想与我们讨论什么事？"/>
+	<entry name="Zephon/AcceptCondemn" value="一位志愿者管理员已被分配处理您的评论，并且将在{错误}小时内完成审核工作。"/>
 	<entry name="Zephon/AcceptGift/AcceptAmount" value="很好，这与我们分析的结果保持一致。这么做真好玩。"/>
 	<entry name="Zephon/AcceptGift/AskAmount" value="哦，一份礼物。不如让我们来玩个游戏吧……正在进行推演……完成。告诉我们，你想要给我们什么东西？"/>
 	<entry name="Zephon/AcceptMapSharing" value="我们愿意接受。稍等……我们的数据库已经建立连接。感谢你今天的贡献。"/>
@@ -1766,6 +2159,7 @@
 	<entry name="Zephon/AcceptPeace" value="你终于意识到我们之间的战斗毫无意义。没必要道歉，因为我们已经知道你对此深表遗憾。"/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AcceptParty" value="这并不是真正的和平。不过在那一刻到来之前，我们愿意暂时冒这个风险。"/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AskParty" value="我们已经检查过数据……我们知道和平带来的风险比战争更高。所以我们应该冒险与谁达成和谈？"/>
+	<entry name="Zephon/AcceptPraise" value="很抱歉，目前这里没有人能够接受您的讯息。"/>
 	<entry name="Zephon/AcceptSupport/AcceptType" value="没问题！你的请求已经被批准。"/>
 	<entry name="Zephon/AcceptSupport/AskType" value="本季度的资源分配已经完成，我们本轮作业的重点是回收、资源探索以及害虫防控。请问你的请求属于这三个类别吗？"/>
 	<entry name="Zephon/AcceptTradeAgreement" value="你的需求与我们能够提供的产量保持一致。很好，让我们开始联合作业吧。"/>
@@ -1783,6 +2177,7 @@
 	<entry name="Zephon/AdmitDefeat" value="真是出人意料的结果！一系列微妙而且荒谬的连锁事件使得我们走上了这一步。真是漏洞、白、百、bai、百出！，不过我们已经拿到了数据。我们已经更新了我们的行、行、xing、xin、行为模式。<br/><br/>恐、恐、害怕、恐怕、可怕、获胜者！获胜胜胜者已经出现！我们之前做了一个错误的决定。但这只会让我们变得更强大。我们将重置。我们将回归。我们将获胜。我们、我们、我们……一切只是时间问题。<br/><br/>你听见了吗？你听见了吗？你……听见了吗？……你听见了吗？"/>
 	<entry name="Zephon/AskForProposals" value="请问今天还有什么可以帮到你的？"/>
 	<entry name="Zephon/CancelAction" value="稍等……片刻……哦，我现在感觉好多了。"/>
+	<entry name="Zephon/Condemn" value="你的行为已经远远超出了我们所采用的模型的忍耐阈值。我们已将完整报告发送至你的邮箱。"/>
 	<entry name="Zephon/Condemn/CultExpansion" value="从你的领土中泄漏出来的数据品质已经下降。一成不变的祷告、狂热信念、传教活动……缺乏新意。我建议对你的信仰流程进行多元化改造。"/>
 	<entry name="Zephon/Condemn/Independent" value="未检测到网络连接。封闭式的独立个体/服务器正在阻止接入。"/>
 	<entry name="Zephon/Condemn/Mysticism" value="针对灵魂、神祇、死后世界等主题，网络数据中存在着许多自相矛盾的援引。一切证据都指向了反面。这说明你们的做法是极其错误的。"/>
@@ -1799,6 +2194,8 @@
 	<entry name="Zephon/DeclareWar/HeartlessArtificer" value="我们对你的构造体十分感兴趣。我们已经明白你不会愿意与我们分享，因此，我们将使用武力进行夺取。无论你是否同意这么做。"/>
 	<entry name="Zephon/DeclareWar/HollowWarlord" value="亲爱的先生以及/或女士。恭喜！你已经从无数候选人中脱颖而出。现在请收下获选奖品：战争！"/>
 	<entry name="Zephon/DeclareWar/HonorableAristocrat" value="人情网络与永不满足的胃口是你的弱点。战争将剥离这两点。"/>
+	<entry name="Zephon/DeclareWar/InfiniteCount" value="错误。错误。错误。目标前后不一致。无法得出结论。所有关键预测数值正发生指数级下降。删除。删除。删除。"/>
+	<entry name="Zephon/DeclareWar/PlatinumScion" value="新建议书！任意/所有子系统/退化单元都已被邀请参与针对铂金子嗣的战争合约策划。鼓励各单元进行压价亏本式冲锋！"/>
 	<entry name="Zephon/DeclareWar/PracticalRomantic" value="你的核心逻辑中存在一处错误：你不可能在个人的情感依恋与维持生存的诸多因素之间达成平衡。我们将对你的变量进行施压，我们想知道你最终会选择哪一方。"/>
 	<entry name="Zephon/DeclareWar/RogueOperative" value="请不要以为我不会注意到你正在调查我的内部网络。你想要拿到我的代码。你应该知道这么做的后果是什么吧？"/>
 	<entry name="Zephon/DeclareWar/TwistedMother" value="无法对目标进行分类。检测到异常元素。已通过决策”从物理数据库中剔除“。"/>
@@ -1840,11 +2237,15 @@
 	<entry name="Zephon/OfferPeace/HeartlessArtificer" value="我们已经掌握了你的行为风格模型。我们已经不需要再继续这场战争。"/>
 	<entry name="Zephon/OfferPeace/HollowWarlord" value="我们已经在[详细计划已编校]之前测试了你的能力。现在我们已经掌握到足够数据。"/>
 	<entry name="Zephon/OfferPeace/HonorableAristocrat" value="目前局势已经发生变化。贵族阶级将成为下一阶段实验的重要对象。因此，我们已经向你提交正式的和平协定。"/>
+	<entry name="Zephon/OfferPeace/InfiniteCount" value="奇妙循环。哥德尔、埃舍尔、巴赫。你的非线性状态有待研究。"/>
+	<entry name="Zephon/OfferPeace/PlatinumScion" value="相当传统的形态。乏味的一致性：西装、微笑、缺乏道德。需要新的研究对象。"/>
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="我们的部队已经达成预计目标，正在返回位于第二平行线的驻地。"/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="黑客们，我有个好消息要带给各位！我们已经决定将停止针对你们的军事行动。我们并不是因为最近的网络入侵事件（来源位置）才决定改变行动方针，对此我们有97%%的把握。"/>
 	<entry name="Zephon/OfferPeace/TwistedMother" value="亲爱的女士/先生/实体，鉴于您的地址处于不断变更状态，我们正JING晶经历严重的GPS追踪错误。我们将暂停服务以调查故障原因。"/>
 	<entry name="Zephon/OfferPeace/UntoldProphet" value="根据我掌握的数据来看，孩子最容易相信不切实际的幻想。请问你是否相信，我们想要寻求暂时的和平？"/>
 	<entry name="Zephon/OfferTradeAgreement" value="我们起草的这份贸易协定将能够为双方带来理想的效益。如果拒绝我们的提议，你将付出超乎想象的代价。"/>
+	<entry name="Zephon/Praise" value="你的行为未超出我们所采用的模型的忍耐阈值。没有需要优先处理的批判。"/>
+	<entry name="Zephon/Praise/EconomiesOfScale" value="已生成报告，铂金子嗣#368,456,222。激进减少品控流程带来了出人意料的效率增幅。已标记并等待后续研究以及/或复刻。"/>
 	<entry name="Zephon/Praise/EngineerLife" value="你在鼓励人民繁殖一事上实施的举措值得称赞。在这个人迹罕至的世界，这是一种行之有效的策略。干得漂亮！"/>
 	<entry name="Zephon/Praise/HiredHands" value="高效的外包体系。临时工合同。杜绝一切工会产生的烦恼。你坚定不移地贯彻了自己的经营理念。"/>
 	<entry name="Zephon/Praise/ResourceNetwork" value="我们之前接入了你的系统并维持了~500毫秒的连接，在此期间，我们在你的代码内检测到了我们无法复制的极致效率。我们期待着能够将你彻底同化并掌握这其中的秘诀！"/>

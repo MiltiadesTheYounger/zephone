@@ -20,11 +20,11 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>%1%进入载具"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>%1%击杀运输的单位"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>拖拽%1%"/>
-	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>移除增益%1%"/>
-	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>移除减益%1%"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>重置动作点%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>移除增益%1%（除了被动动作带来的增益）"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>移除减益%1%（除了崩溃、受损、动摇以及被动动作带来的减益）"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>恢复动作点%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>重置冷却%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>重置移动点%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>恢复移动点%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>%1%揭示地块"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="需要运输槽位"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="次数"/>
+	<entry name="BuildingSlotsDescription" value="可以在一个格子上建造的建筑物数量。"/>
+<entry name="Charges" value="次数"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="芯片"/>
 	<entry name="ChipsDescription" value="用于生产与维护赛博单位。"/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="维护单位或建筑需要每回合支付的位面回响数量。"/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="复制类型费用"/>
+	<entry name="DuplicateTypeCostLimit" value="复制类型费用上限"/>
 	<entry name="Energy" value="能源"/>
 	<entry name="EnergyDescription" value="用于维护建筑，以及生产与维护特殊单位。"/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="视野"/>
 	<entry name="IgnoreLineOfSight+" value="无视"/>
-	<entry name="IgnoreZoneOfControl" value="穿越敌方单位"/>
+	<entry name="IgnoreZoneOfControl" value="穿越敌方单位以及其控制区域"/>
 	<entry name="IgnoreZoneOfControl+" value="允许"/>
-	<entry name="Influence" value="影响力"/>
+	<entry name="HitpointsPerGroupMember" value="每组成员生命值"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="影响力"/>
 	<entry name="InfluenceDescription" value="用于获取与维护城市地块、发动特殊技能、招募以及维护英雄单位，除此以外还能够用于购买物品与资源。"/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="影响力费用"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="忠诚度维护费用"/>
 	<entry name="LoyaltyUpkeepDescription" value="维护单位或建筑需要每回合支付的忠诚度数量。"/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="队伍成员生命值上限（个体）"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="士气"/>
 	<entry name="MoraleDescription" value="单位的心理状态。<string name='Attributes/MoraleDescription/Regeneration'/><string name='Attributes/MoraleDescription/Shaken'/><string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="只要没有承受伤害，单位将在下一回合恢复士气。"/>

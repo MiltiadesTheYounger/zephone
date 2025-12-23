@@ -3,9 +3,11 @@
 	<!-- Combined with Attributes.xml or Effects.xml entries.
 	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
 			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingMechanicalUnit" value=" 攻击机械单位之后"/>
 	<entry name="AfterAttackingIfNotMoved" value=" 在攻击结束后，如果单位没有移动过"/>
 	<entry name="AgainstBiologicalUnits" value=" 对抗生物单位"/>
 	<entry name="AgainstFlyingUnits" value=" 对抗飞行单位"/>
+	<entry name="AgainstFortifications" value=" 对抗防御工事"/>
 	<entry name="AgainstLargeUnits" value=" 对抗大型单位"/>
 	<entry name="AgainstNonAdjacentUnits" value=" 对抗非相邻地块上的单位"/>
 	<entry name="AgainstNonFlyingUnits" value=" 对抗非飞行单位"/>
@@ -40,13 +42,11 @@
 	<entry name="ForActions" value=" ：行动点"/>
 	<entry name="ForAdministrationComplex" value=" ：<string name='Buildings/Influence'/>"/>
 	<entry name="ForAlliedUnits" value=" ：友方单位"/>
-	<entry name="ForAnchoriteUnits" value=" ：隐者单位"/>
-	<entry name="ForChieftessUnits" value=" ：女族长单位"/>
 	<entry name="ForConstructionYard" value=" ：<string name='Buildings/Construction'/>"/>
 	<entry name="ForControllingCity" value=" ：位于城市内"/>
 	<entry name="ForCyberUnits" value=" ：赛博单位"/>
+	<entry name="ForCyberTechnologies" value=" （赛博科技）"/>
 	<entry name="ForCyberProductionBuildings" value=" ：赛博类生产建筑"/>
-	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" （从森林或废墟发起进攻的赛博单位）"/>
 	<entry name="ForEnemyGroundUnits" value=" ：敌方地面单位"/>
 	<entry name="ForGroundUnits" value=" ：地面单位"/>
 	<entry name="ForHumanBiologicalUnits" value=" ：人类生物单位"/>
@@ -65,9 +65,10 @@
 	<entry name="ForStationedMechanicalUnitEachTurn" value=" ：驻扎的机械单位（每回合）"/>
 	<entry name="ForStationedUnit" value=" ：驻扎的单位"/>
 	<entry name="ForUnits" value=" ：单位"/>
+	<entry name="ForVoiceUnits" value=" （秘音单位）"/>
 	<entry name="ForXTurns" value=" ：%1%"/>
-	<entry name="ForZephonUnits" value=" ：泽芬单位"/>
 	<entry name="FromCargoOnDeath" value=" 运输的单位死亡时"/>
+	<entry name="FromFireDamage" value=" （来自火焰伤害）"/>
 	<entry name="FromGenerousContacts" value=" 来自慷慨联络"/>
 	<entry name="FromHammerheads" value=" （来自锤头鲨）"/>
 	<entry name="FromTargetTile" value=" （来自目标地块）"/>
@@ -89,6 +90,7 @@
 	<entry name="IndependentUpgrade2" value=" 如果人口数量为7至12"/>
 	<entry name="InternalRepairStation" value=" 为运输的单位"/>
 	<entry name="LoyaltyUpgrade" value=" 每回合（城市中每有一座<string name='Buildings/Loyalty'/>）"/>
+	<entry name="OfFlagshipProductOnDeath" value=" ，<string name='Actions/PlatinumScionAffinityUpgrade2'/><string name='Modifiers/OnDeath'/>"/>
 	<entry name="OfTargetAlliedUnit" value=" （目标友军单位）"/>
 	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" （目标敌军为非泰坦、非英雄且非总部单位，拥有有限的士气并且生命值低于50%）"/>
 	<entry name="OfTargetEnemyAbkluth" value=" （目标敌方阿布卡鲁斯）"/>
@@ -98,6 +100,7 @@
 	<entry name="OnCliffs" value=" （悬崖）"/>
 	<entry name="OnCoast" value=" （海岸）"/>
 	<entry name="OnDeath" value=" 死亡时"/>
+	<entry name="InForestRuinSmokeScreen" value=" 在森林、废墟或烟幕中"/>
 	<entry name="OnHeight3" value=" （位于高度3）"/>
 	<entry name="OnHeight4" value=" （位于高度4）"/>
 	<entry name="OnMoraleLossFromDeath" value=" 因死亡导致士气损失"/>
@@ -118,6 +121,7 @@
 	<entry name="ResearchUpgrade" value=" （森林）"/>
 	<entry name="SingularityCoresUpgrade" value=" ：每座量子操纵器（需要其他城市也拥有此建筑，并且会根据拥有此建筑的城市数量叠加）"/>
 	<entry name="TacticalVisor" value=" 相邻地块上存在友方以欣执行者单位时"/>
+	<entry name="TacticalInsertion" value=" 于没有敌方城市的目标森林、废墟或烟幕中"/>
 	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" （目标敌军为非泰坦、非英雄且非总部单位）"/>
 	<entry name="TargetNonTitanNonFortificationUnit" value=" 目标非泰坦非防御工事单位"/>
 	<entry name="TargetUnit" value=" （目标单位）"/>
@@ -136,13 +140,18 @@
 	<entry name="ToAlliedNonLargeUnitsInTheArea" value=" （区域中的友方非大型单位）"/>
 	<entry name="ToAlliedUnits" value=" （友方单位）"/>
 	<entry name="ToAlliedUnitsEachTurn" value=" 每回合（友方单位）"/>
+	<entry name="ToAlliedUnitsInTheArea" value=" （区域中的友方单位）"/>
 	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" （目标以及相邻地块上的友方单位）"/>
 	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" （目标区域地块上的友方单位）"/>
+	<entry name="ToAnchorite" value=" （隐者）"/>
 	<entry name="ToAttackedEnemy" value=" （攻击的敌方单位）"/>
 	<entry name="ToAttacker" value=" （袭击者）"/>
+	<entry name="ToBuildingsOnTargetAlliedCityTile" value=" （目标友方城市地块上的建筑）"/>
 	<entry name="ToBiologicalEnemy" value=" （生物敌人）"/>
 	<entry name="ToBiologicalNonTitanEnemy" value=" （敌方生物非泰坦单位）"/>
 	<entry name="ToBiologicalUnits" value=" （生物单位）"/>
+	<entry name="ToChieftess" value=" （女族长）"/>
+	<entry name="ToChieftessAnchoriteZephon" value=" （女族长、隐者以及泽芬）"/>
 	<entry name="ToCity" value=" （城市）"/>
 	<entry name="ToEnemy" value=" （敌人）"/>
 	<entry name="ToEnemyCity" value=" （敌方城市）"/>
@@ -152,45 +161,58 @@
 	<entry name="ToMechanicalEnemy" value=" （敌方机械单位）"/>
 	<entry name="ToMechanicalNonTitanEnemy" value=" （敌方机械非泰坦单位）"/>
 	<entry name="ToMeleeAttackers" value=" （近战袭击者）"/>
+	<entry name="ToNonHeadquartersBuildingsOnTargetAlliedCityTile" value=" （目标友方城市地块上的非总部建筑）"/>
 	<entry name="ToNonLargeEnemy" value=" （敌方非大型单位）"/>
 	<entry name="ToNonLargeAlliedUnits" value=" （友方非大型单位）"/>
 	<entry name="ToNonLowPowerWeapon" value=" （非低功率状态的武器）"/>
 	<entry name="ToNonTitanEnemy" value=" （非泰坦敌人）"/>
 	<entry name="ToSourceUnit" value=" （来源单位）"/>
+	<entry name="ToSpawnedUnit" value=" （已生成的单位）"/>
 	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" （单位以及相邻友方生物单位）"/>
+	<entry name="ToUnitAndAdjacentAlliedUnits" value=" （单位以及相邻地块上的友方单位）"/>
 	<entry name="ToTargetAlliedBiologicalUnit" value=" （目标友方生物单位）"/>
 	<entry name="ToTargetAlliedCity" value=" （目标友方城市）"/>
+	<entry name="ToTargetAlliedCherubimTitan" value=" （目标友方<string name='Units/CherubimTitan'/>）"/>
 	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" （目标友方受损的生物单位）"/>
 	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" （目标友方受损的机械单位）"/>
 	<entry name="ToTargetAlliedDamagedUnit" value=" （目标友方受损单位）"/>
 	<entry name="ToTargetAlliedMechanicalUnit" value=" （目标友方机械单位）"/>
 	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" （目标友方非大型且非强化单位）"/>
+	<entry name="ToTargetAlliedNonLargeUnit" value=" （目标友方非大型单位）"/>
+	<entry name="ToTargetAlliedNonTitanUnit" value=" （目标友方非泰坦单位）"/>
+	<entry name="ToTargetAlliedOutpost" value=" （目标友方前哨站）"/>
 	<entry name="ToTargetAlliedUnit" value=" （目标友方单位）"/>
 	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" （携带远程武器的目标友方单位）"/>
 	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" （拥有<string name='Traits/MothersFavor'/>的目标友方单位）"/>
 	<entry name="ToTargetAndAdjacentAlliedUnits" value=" （目标以及相邻地块上的友方单位）"/>
 	<entry name="ToTargetBiologicalUnit" value=" （目标生物单位）"/>
 	<entry name="ToTargetEnemyCity" value=" （目标敌方城市）"/>
+	<entry name="ToTargetEnemyNonLargeUnit" value=" （目标敌方非大型单位）"/>
 	<entry name="ToTargetEnemyNonTitanUnit" value=" （目标敌方非泰坦且非英雄单位）"/>
 	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" （目标敌军为非泰坦、非英雄且非总部单位）"/>
 	<entry name="ToTargetEnemyUnit" value=" （目标英雄单位）"/>
+	<entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" （目标敌方单位，同时以一半的攻击次数攻击目标地块左右两侧的敌人）"/>
 	<entry name="ToTargetEnemyZephonUnit" value=" （目标敌方泽芬单位）"/>
 	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" （目标敌方泽芬非泰坦单位）"/>
 	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" （目前敌方泽芬非泰坦非总部单位）"/>
+	<entry name="ToTargetOwnUnit" value=" （目标己方单位）"/>
 	<entry name="ToTargetOwnBiologicalUnit" value=" （目标我方生物单位）"/>
 	<entry name="ToWeapons" value=" ：武器"/>
+	<entry name="ToZephon" value=" （泽芬）"/>
 	<entry name="UnitsOnDeath" value=" 单位死亡时"/>
 	<entry name="UzhodaisZeal" value=" （相邻地块上每有1个敌方单位）"/>
 	<entry name="VoiceAircraftUpgrade" value=" ：拥有黎明赞歌的城市生产的单位（需要其他城市也拥有此建筑，并且会根据拥有此建筑的城市数量叠加）"/>
 	<entry name="VoiceVehiclesUpgrade" value=" 死亡时转化为生产力（城市中每有1座黄昏颂歌）"/>
 	<entry name="VoiceInfantryUpgrade" value=" ：生产的单位（城市中每有1座午夜合唱团）"/>
+	<entry name="WhenAttackingFromForestsOrRuins" value=" 从森林或废墟发起进攻时"/>
 	<entry name="WhenAttackingFromHighGround" value=" 攻击位于更低处的敌人时"/>
 	<entry name="WhenDurationRunsOut" value=" 时间结束时"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" 当敌方地面单位停留在地块上时"/>
 	<entry name="WhenFirstCaptureFeature" value=" 率先占领前哨站时"/>
 	<entry name="WhenKillingBiologicalUnit" value=" 击杀生物单位时"/>
 	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" 击杀非畸形变异的生物单位时"/>
 	<entry name="WhenKillingUnit" value=" 击杀单位时"/>
-	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" 当敌方地面单位停留在地块上时"/>
+	<entry name="WhenUnitMoves" value=" （单位移动时）"/>
 	<entry name="WhenTakingDirectDamage" value=" 承受直接伤害时"/>
 	<entry name="WhileAbove2Loyalty" value=" 忠诚度高于2时"/>
 	<entry name="WhileAbove8Loyalty" value=" 忠诚度高于8时"/>
