@@ -21,6 +21,7 @@
 	<entry name="ExousiaParser" value="엑소시아 구문분석기"/>
 	<entry name="GauntletOfRuin" value="파멸의 건틀릿"/>
 	<entry name="GladialEmanator" value="글래디얼 살포기"/>
+	<entry name="HoloDecoy" value="홀로그램 미끼"/>
 	<entry name="HungeringCirclet" value="굶주린 액관"/>
 	<entry name="ICARFluidDeflector" value="ICAR 유체 디플렉터"/>
 	<entry name="ICARLogo0" value="ICAR 로고 조각"/>
@@ -36,6 +37,7 @@
 	<entry name="ICARLogo5" value="<string name='Items/ICARLogo0'/>"/>
 	<entry name="ICARLogo5Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
 	<entry name="IncandescentIcon" value="백열등 아이콘"/>
+	<entry name="InvasiveAuditor" value="침투 감시관"/>
 	<entry name="Iokla" value="이오클라"/>
 	<entry name="KnifeOfTheChieftess" value="여족장의 칼"/>
 	<entry name="KnifeOfTheChieftessFlavor" value="<string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>"/>
@@ -44,12 +46,15 @@
 	<entry name="PhaseFontead" value="위상 원천"/>
 	<entry name="PhilosophersStone" value="철학자의 돌"/>
 	<entry name="PhilosophersStoneFlavor" value="<string name='Quests/PhilosophersStone/StoneRetrieved2'/>"/>
-	<entry name="Reyndverra" value="레인드베라"/>
-	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="PlanarPhlebotomizer" value="평면 방혈기"/>
+	<entry name="Quakecaller" value="지진 소환기"/>
+	<entry name="QuakecallerFlavor" value="<string name='Quests/TheMartialEthic/Intro2'/>"/>
 	<entry name="QuantumReflector" value="양자 반사경"/>
 	<entry name="QuantumReflectorFlavor" value="<string name='Quests/FormFunction/FlushCortexSuccess2'/>"/>
 	<entry name="RallyingHolobeacon" value="집결 홀로비컨"/>
 	<entry name="ReactiveTrigger" value="반응형 방아쇠"/>
+	<entry name="Reyndverra" value="레인드베라"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
 	<entry name="SchismOfRegimina" value="레지미나의 분열"/>
 	<entry name="SpotterDrone" value="색적 드론"/>
 	<entry name="StolenFlesh" value="훔친 육체"/>
@@ -61,7 +66,7 @@
 	<entry name="TribunalsTetherFlavor" value="<string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>"/>
 	<entry name="VorodaiProselyte" value="보로다이 개종자"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AcrinBoneWhistleFlavor" value="“교회에서, 시장에서, 어디서든 날 만나면<br/>파리처럼 내 곁을 지나가시오<br/>그러나 그대의 검은 눈동자로 한 번쯤 눈길을 주시오<br/>보지 않은 듯 보아 주시오<br/>보지 않은 듯 보아 주시오<br/>휘파람을 불면 내가 찾아갈 테니.”<br/>- 로버트 번즈."/>
 	<entry name="AkavishRigFlavor" value="이건 아주 놀라운 장비다. 인간, 아크린, 심지어는 기계에도 장착할 수 있는 근육 조절기라는 물건이지. 움직임의 패턴을 학습하고 근육이나 모터를 살짝 자극하여 더 빠르게 움직이게 만드는 장비였다. 어쩌면 인간이 만든 기술 중 유일하게 날 두렵게 만들지 않은 물건일 거다. 가끔은 몰래 이걸 들고 나가서 기지 주변을 한참 달리곤 했지. 그러면 머리가 좀 맑아졌거든."/>
 	<entry name="ArchaegisFlavor" value="피부를 녹일 정도로 뜨거운 레이저를 반사할 방어막은 어떻게 만들까? 장기를 갈기갈기 찢어버리는 총알은? 우린 어떤 종류의 공격이 다가오는지 학습하고 역장의 성질을 변경하여 공격을 원점으로 되돌려 보낼 수 있는 기술이 필요했다. 첨단 인간 기술에 작은 인공두뇌를 심는 건 이를 실현하기 위한 첫 번째 단계였다."/>
@@ -77,13 +82,16 @@
 	<entry name="ExousiaParserFlavor" value="엑소시아 머로더에서 뽑아낸 데이터로 다른 유닛의 표적 획득 능력을 개선할 수 있었지만, 이 망할 기술은 너무 변덕스러웠다. 강한 바람만 불어도 신호가 흐트러졌고, 심각한 타격을 받으면 작동을 완전히 멈췄다."/>
 	<entry name="GauntletOfRuinFlavor" value="우린 오래된 정부 연구소에서 이걸 파냈다. 지금도 그곳을 떠올리면 등골이 오싹해진다. 구세계의 누군가는 죽음을 장난감처럼 가지고 놀았고, 성장하는 모든 것을 파괴하려는 이 무기가 그들의 작업이 남긴 유산의 전부였다."/>
 	<entry name="GladialEmanatorFlavor" value="시계공들은 살포기를 최초로 설계한 자들이었고, 살포기 대부분을 파괴한 자들이기도 했다. 덕분에 죽이기가 훨씬 쉬워졌고, 지나치게 원칙적인 은둔자들은 자신들이 만들어 낸 존재의 끔찍함을 견디지 못했다."/>
+	<entry name="HoloDecoyFlavor" value="전술적인 측면에서 홀로그램은... 괜찮았다. 연기, 눈, 심지어 화창한 하늘조차 홀로그램 투영에 방해가 됐다. 하지만 홀로그램을 보면 언제나 하루가 조금 밝아지는 기분이었다. 우리가 바라던 미래가 떠올랐으니까. 빛을 비추는 것만으로도 꿈을 현실로 만드는 기술이었지."/>
 	<entry name="HungeringCircletFlavor" value="목소리 추종자들은 기꺼이 이 금속 괴물을 머리에 묶었다. 그들이 피를 흘리면 밴드가 두개골을 조여 광전사의 분노를 불러일으켰다. 어떤 이들은 더 나은 전사가 되기 위해 그것을 사용했다. 하지만 그냥 고통을 즐기려고 착용하는 자들도 있었다."/>
 	<entry name="ICARFluidDeflectorFlavor" value="“그래서 물 보호막이란 말이지?” 나는 맹약단 요원에게 물었다. “세 번째로 말씀드리지만 유체 디플렉터입니다.” 요원이 대답했다. “전쟁 전의 최첨단 기술이죠. 실험적인 정역학 기술입니다.” “그러니까, 물 보호막이잖아.” 나는 웃으며 말했다. 그는 물건을 할인해 줬고, 난 그걸 챙겨 떠났다."/>
 	<entry name="IncandescentIconFlavor" value="AI 연구를 통해 탄생한 가장 강력한 무기 중 하나는 보잘것없는 랜턴처럼 보였지만, 그 빛은 단순한 조명 이상의 역할을 했다. 아군과 적군을 인식하도록 프로그래밍할 수 있는 지능형 광자를 탑재하고 있었지. 그 광선이 비추는 곳을 지나가기만 해도 피부가 자극을 받았고, 오래 노출되면 살과 갑옷에 모두 끔찍한 영향을 주었다."/>
+	<entry name="InvasiveAuditorFlavor" value="이 한심한 금속 원반을 목에 철썩 붙이면 정말 끔찍이도 아팠다. 척추를 파고드는 전선이야 뭐, 익숙하다. 그 안의 전투 AI는 전장을 스캔하고, “오른쪽으로 돌아, 왼쪽으로 꺾어, 세 발 발사해” 따위의 기계음을 읊조린다. 하지만 사실 그 AI는 내 신경계를 마치 기타처럼 연주하고 있는 거다. 내가 발사하는 모든 탄환이 정확한 타이밍의 음표인 셈이지."/>
 	<entry name="IoklaFlavor" value="이오클라. 말만 들어도 소름이 끼치는 단어다. 망할 괴짜 놈들은 그게 “살점이 된 단어”라고 했다. 살점을 특히 강조했지. 그건 초록색 가죽 같았고, 몸을 감싸며 살을 조금 더... 늘어난 기분을 주었다. 난 그걸 두르는 게 싫었지만, 두르고 싸움에 나가면 한참을 더 싸울 수 있었다."/>
 	<entry name="PathcutterFlavor" value="프로토타입 드론에 장착된 광대역 빔 AI 어레이다. 예열하는 데 한 시간이 걸리기 때문에 전투에는 쓸모가 없다. 드론을 준비하고, 가고 싶은 곳을 가리킨 다음, 안전 장치를 해제하면 작동한다. 시끄러운 소리를 내니 귀를 막고 따라가다 보면, 아무리 뒤엉킨 정글, 식물, 도심이라도 다시는 찾지 못할 것 같이 완벽한 길을 찾아 준다."/>
 	<entry name="PFCManualFlavor" value="군인들은 모두 옛 방식을 공부하라고 배운다. 하지만... 아직 기록되지 않은 방식이 있다면? 이건 다섯 자리 숫자로 된 해에 출판된 전술 교본이었다. 또다른 소름끼치는 물건이었지. 모든 병사들은 이 책을 찾아 미래를 엿보고 싶어 했다. 하지만 이게 애초에 어떻게 이 시대로 왔는지 궁금해하는 사람은 많지 않았다."/>
 	<entry name="PhaseFonteadFlavor" value="이 장치는 창고와 화기반 키트에 갑자기 나타나기 시작했다. 난 이게 뭔지 알아내려고 실험용 쥐가 되길 자처했다. 장치를 작동시키자 혈관을 따라 전기가 흐르는 듯한 느낌을 받았다. 난 다른 부대원보다 더 빨리 쏘고 더 세게 때렸지만, 동시에 데자뷰를 느꼈다. 이 모든 걸 전에 겪어본 것처럼. 이 모든 걸 다시 겪게 될 것처럼."/>
+	<entry name="PlanarPhlebotomizerFlavor" value="나에게는 한 가지 규칙이 있었다. 평면 방혈기를 소지하고 싶다면 그 이름을 빠르게 다섯 번 말할 수 있어야 한다는 규칙이었다. 덕분에 실수로 우리 편에게 방혈기를 사용할 만큼 멍청한 놈들을 걸러낼 수 있었다."/>
 	<entry name="RallyingHolobeaconFlavor" value="우린 옛 군대가 군악대나 나팔수를 두었던 것처럼 홀로 프로젝터 기술을 사용했다. 사기가 떨어지면 이 비컨을 든 병사가 본국에서 보내는 메시지나 사령부에서 내려온 새로운 명령, 머리 위로 돌격하는 기병대의 흐릿한 이미지를 투사했다. 실낱같은 희망만으로도 병사들은 다시 싸울 수 있었다."/>
 	<entry name="ReactiveTriggerFlavor" value="장갑 관통탄은 결코 저렴하지 않다. 하지만 연사로 같은 곳을 계속 두드리거나 반응 장갑을 부수고 나면 방어력이 약해지지. 공격 전에 예광탄을 뿌리는 간단한 장치만으로도 장갑을 약간 더 쉽게 뚫을 수 있었다."/>
 	<entry name="SchismOfRegiminaFlavor" value="아주 오래전, 제폰은 죽음을 앞둔 인간 무리에게 자신의 창조물 중 하나를 빌려주었다. 생존자들은 그 물건의 액세스 코드를 훔쳐 제폰을 죽이려 하는 것으로 은혜를 갚았다. 놈은 무자비하게 보복했다. 그 바보들의 기억이 담긴 유일한 물건은 이제 암시장에서 극도로 비밀리에 사고 팔리는, 코드가 담긴 하드 드라이브뿐이다. 제폰이 그 하드 드라이브의 소재를 알아낸다면 분명 무슨 수를 써서라도 파괴하려 할 거다."/>

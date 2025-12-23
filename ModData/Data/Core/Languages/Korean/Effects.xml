@@ -20,11 +20,11 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>승선%1%"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>탑승자 처치%1%"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>%1%을(를) 끌어당깁니다."/>
-	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>강화 효과 제거%1%"/>
-	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>약화 효과 제거%1%"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>행동력 점수 초기화%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>강화 효과 제거%1%(지속 행동에 따른 강화 효과 제외)"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>약화 효과 제거%1%(지속 행동에 따른 패주, 망가짐, 사기 저하 및 약화 효과 제외)"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>행동력 점수 복구%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>재사용 대기시간 초기화%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>이동력 점수 초기화%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>이동력 점수 복구%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>타일 공개%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->
