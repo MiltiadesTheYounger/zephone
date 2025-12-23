@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="Ranuras de cargamento necesarias"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="Cargas"/>
+	<entry name="BuildingSlotsDescription" value="El número de edificios que se pueden construir en una casilla."/>
+<entry name="Charges" value="Cargas"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="Chips"/>
 	<entry name="ChipsDescription" value="Sirven para producir y mantener unidades cibernéticas."/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="La cantidad de ecos dimensionales que cuesta mantener a la entidad en cada turno."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="Coste de tipo duplicado"/>
+	<entry name="DuplicateTypeCostLimit" value="Límite de coste de tipo duplicado"/>
 	<entry name="Energy" value="Energía"/>
 	<entry name="EnergyDescription" value="Sirve para mantener construcciones, así como para producir y mantener unidades especiales."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="línea de visión"/>
 	<entry name="IgnoreLineOfSight+" value="Ignora"/>
-	<entry name="IgnoreZoneOfControl" value="movimiento a través de unidades enemigas"/>
+	<entry name="IgnoreZoneOfControl" value="movimiento a través de unidades enemigas y su zona de control"/>
 	<entry name="IgnoreZoneOfControl+" value="Permite"/>
-	<entry name="Influence" value="Influencia"/>
+	<entry name="HitpointsPerGroupMember" value="Puntos de vida por miembro del grupo"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="Influencia"/>
 	<entry name="InfluenceDescription" value="Sirve para adquirir y mantener casillas de ciudad, invocar habilidades especiales, reclutar y mantener unidades heroicas, así como para comprar objetos y recursos."/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Coste de influencia"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Mantenimiento de lealtad"/>
 	<entry name="LoyaltyUpkeepDescription" value="La cantidad de lealtad que cuesta mantener a la entidad en cada turno."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Puntos de golpe máx. por miembro de grupo"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="Moral"/>
 	<entry name="MoraleDescription" value="El estado psicológico de la unidad. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="La moral se regenera si la unidad no ha recibido daño el turno anterior."/>

@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede una recompensa de la Voz avanzada al azar"/>
 	<entry name="ArcDischarge" value="Arco eléctrico"/>
 	<entry name="Arctic" value="Árctico"/>
+	<entry name="ArenaCyber" value="Arena (cibernética)"/>
+	<entry name="ArenaCyberFlavor" value="<string name='Quests/TheMartialEthic/ArenaCyberVictory2'/>"/>
+	<entry name="ArenaHuman" value="Arena (humana)"/>
+	<entry name="ArenaHumanFlavor" value="<string name='Quests/TheMartialEthic/ArenaHumanVictory2'/>"/>
+	<entry name="ArenaVoice" value="Arena (Voz)"/>
+	<entry name="ArenaVoiceFlavor" value="<string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/>"/>
+	<entry name="AtmosphericAnchor" value="Ancla atmosférica"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
 	<entry name="Bleed" value="Sangría"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="Excavadora Erebus"/>
 	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5 % de probabilidad de recibir un objeto aleatorio"/>
 	<entry name="Fire" value="Incendio"/>
+	<entry name="FiveSoldiers1" value="Se requiere una entidad"/>
+	<entry name="FiveSoldiers1Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers3" value="Se requieren tres entidades"/>
+	<entry name="FiveSoldiers3Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers6" value="Se requieren seis entidades"/>
+	<entry name="FiveSoldiers6Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
 	<entry name="FleshTree" value="Árbol de carne"/>
 	<entry name="Forest" value="Bosque"/>
 	<entry name="GravityField" value="Campo gravitatorio"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
 	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
 	<entry name="PhaseGenerator" value="Generador de fase"/>
+	<entry name="ReaverDepot" value="Depósito de asediadores"/>
+	<entry name="ReaverDepotProperties" value="<icon texture='GUI/Bullet'/>Produce asediadores o arrasadores cada 20 turnos"/>
 	<entry name="RecyclingTanks" value="Depósitos de reciclaje"/>
 	<entry name="River" value="Río"/>
 	<entry name="Road" value="Carretera"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
 	<entry name="SmokeScreen" value="Pantalla de humo"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="SurvivorsBazaar" value="Bazar del superviviente"/>
 	<entry name="Swamp" value="Pantano"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -71,7 +88,7 @@
 	<entry name="Watchtower" value="Atalaya"/>
 	<entry name="WhisperingWights" value="Criaturas susurrantes"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanDreyFlavor" value="Los abkhan construían sus nidos con los troncos afilados de los pinos. Preguntamos a los cazadores acrin cómo podíamos hacerlos salir y aprendimos que en su mundo los acrin avanzaban lentamente hacia sus nidos utilizando picas. Las cacerías podían durar días enteros. No teníamos tiempo para eso. Los cañonazos funcionarían mucho más rápido."/>
 	<entry name="AcrinCrashSiteFlavor" value="Cada vez que pensabas que una nave acrin se había estrellado desde la órbita, otra iluminaba el cielo mientras ardía en la atmósfera. Los acrin las saqueaban para recuperar trozos de su mundo natal. Los humanos las asaltaban para robarles la tecnología. Y ZEPHON... bueno, sigo sin saber qué pretendía ZEPHON. Solo sé que tuvimos que luchar para buscarnos la vida."/>
 	<entry name="AdvancedCyberCacheFlavor" value="Durante un tiempo, algunos de mis lugartenientes intentaron averiguar el sentido de estas entregas de alijos. Si nos daban recursos, debía ser para maximizar una forma específica de producción. Si encontrábamos unidades, suponíamos que debíamos construir estrategias en torno a ellas. Les dije que espabilasen. Que si querían jugar con la suerte, se echaran un tarot."/>
@@ -79,13 +96,14 @@
 	<entry name="AdvancedVoiceCacheFlavor" value="Aquellos alijos acrin tan valiosos caían literalmente del cielo. Tras la destrucción de su flota, veíamos a diario cómo descendían restos desde la órbita, a veces dejando caer suministros o supervivientes justo en nuestra frontera. Encontrar estos alijos debería haber sido un alivio, pero no era más que un recordatorio del gran cementerio de metal que se abalanzaba sobre nuestras cabezas y que hacía llover escombros que podrían matarnos a todos."/>
 	<entry name="ArcDischargeFlavor" value="¿Sabes lo que era? El cableado de ZEPHON subyacía por todas partes: kilómetros y kilómetros de cobre en bruto. Estos arcos eran una fracción, de una fracción, de una fracción del poder de ZEPHON que se abalanzaba sobre ti. Podías aprovecharte de ese poder si querías, pero tus enemigos también podían hacerlo."/>
 	<entry name="ArcticFlavor" value="Las frígidas tierras yermas de la antigua Tierra eran ahora el hogar de abkluth blancos como la nieve que hiperevolucionaban para cazar en un nuevo entorno. Aun así, llegamos aquí por una razón vital: este terreno proporcionaba a nuestros técnicos un entorno óptimo para realizar sus investigaciones. Decían que la humedad y las bajas temperaturas, además de la claridad de visión, hacían que las pruebas de armamento fueran mucho más eficaces. Quizá simplemente preferían el frío."/>
+	<entry name="AtmosphericAnchorFlavor" value="Más tecnología de los relojeros. Aseguraron que las habían fabricado para generar electricidad en regiones donde el aire cálido chocaba con el frío, pero creo que no conocían a su propia gente. A alguno se le ocurrió que podían convertirlas en armas... y, en lugar de avisar de ello, se lo calló."/>
 	<entry name="BleedFlavor" value="Las extremidades de la Voz surgieron desde una realidad hasta la nuestra y dejaron la puerta abierta a la locura. No deberían haber plagado nuestra tierra. Esas ramas enfermizas y viscosas se extendían en busca de carne, o metal, que engullir. Ni siquiera en sueños puedo escapar de tal estampa. Algunas noches, a menudo cuando hace luna llena, me despierto sudando, sintiendo aún su atracción fantasmal que me arrastra hacia la tierra. Suponía que todo estaba en mi cabeza, pero he oído los susurros en el comedor. Otros también sueñan con que los aplastan."/>
 	<entry name="BrushFlavor" value="Era normal ver pequeñas criaturas alimentándose de plantas en las praderas, mamíferos más grandes alimentándose de las criaturas, y así sucesivamente. Si hubiéramos tenido más tiempo, podríamos haber encontrado la manera de introducirnos poco a poco en ese ciclo. En lugar de eso, lo interrumpimos, entramos a la fuerza. Un ejército marcha sobre su estómago, y nosotros teníamos estómagos que llenar."/>
 	<entry name="CicadasFlavor" value="Mira, yo no hago las reglas. Los bichos eran ricos en proteínas y fáciles de cocinar para hacer comidas copiosas. Algunos de los nuestros habían vivido en países de antes de la guerra en los que las cigarras formaban parte del menú habitual. Cazarlas alimentaba los estómagos de nuestra gente, y quien se quejara tenía dos opciones: morirse de hambre o tragarse su orgullo."/>
 	<entry name="CityFlavor" value="La guerra urbana es brutal. Cada trozo de cobertura que protege a tus tropas parece brindar el doble de protección a tu enemigo. Prefería defender ciudades sitiadas que luchar calle a calle. En un asedio, sentías solidaridad con los civiles y con otros soldados. En las calles, solo podías confiar en tu escuadrón. Cualquier otro podría clavarte un puñal en la espalda."/>
 	<entry name="ConstructFlavor" value="ZEPHON debía de necesitar una cantidad inconcebible de energía para librar su guerra contra los acrin. Los técnicos supusieron que si los combustibles fósiles o las energías renovables se desconectaban rápidamente, reaccionaría construyendo zonas como estas para generar un nuevo recurso de energía eficiente. Si te adentrabas lo suficiente en una de estas zonas, pensarías que el planeta se había convertido en una máquina gigante."/>
 	<entry name="CrystalBasinFlavor" value="Los centros mineros ricos en minerales no solo eran buenos centros de recursos, sino que también proporcionaban mucha cobertura. Aprendimos a construir fortalezas en regiones como estas y a utilizarlas para endurecer nuestras fronteras. Por supuesto, se convirtieron en objetivos de gran valor cuando nuestros enemigos quisieron atacar nuestras líneas de suministro, pero, para tender las mejores trampas, hace falta el mejor cebo."/>
-	<entry name="CyberCacheFlavor" value="Las máquinas no necesitan acumular provisiones y, desde luego, no dejan nada cuando abandonan una base. Entonces, ¿qué hacían en el Yermo? ¿Alguien... o algo estaba experimentando con nosotros? ¿Dispensando suministros para ver cómo cambiaba el signo de la guerra? Han pasado tantos años y aún no sé quién está detrás de ellas."/>
+	<entry name="CyberCacheFlavor" value="Las máquinas no necesitan esconder sus suministros y, desde luego, no dejan nada atrás cuando abandonan una base. Entonces, ¿qué hacían estos contenedores en el Yermo? ¿Acaso alguien... o algo estaba experimentando con nosotros, repartiendo suministros para ver cómo afectaban al curso de la guerra? Después de todos estos años, aún no sé quién está detrás de ellos."/>
 	<entry name="DesertFlavor" value="Las llanuras abiertas y el clima estable hacían del desierto un entorno extraordinariamente estable para generar electricidad. Pero ofrecía a nuestros trabajadores un entorno hostil e infernal en el que trabajar. La deshidratación podía acabar con humanos y extraterrestres por igual, y las tormentas de arena eran especialmente dañinas para las máquinas."/>
 	<entry name="DustStormFlavor" value="El blindaje podía bloquear la arena. Los escáneres podían penetrar en la oscuridad. Pero nada podía proteger la mente contra la ira de todo aquello. Los relámpagos, la arena y el viento se emborronaban y la Tierra gruñía en señal de venganza. Sabía de la violencia que habíamos traído a su superficie y esta, esta tormenta, era su forma de contraatacar."/>
 	<entry name="ErebusExcavatorFlavor" value="El Caudillo y la Jefa fueron los únicos que supieron decirme cómo acabaron las excavadoras de la época anterior a la guerra sobre los depósitos de chips. Él afirmaba que cruzaban la tierra como bestias poderosas. Ella comentó que vio cómo las máquinas de ZEPHON los colocaron en su sitio. Creo que él estaba borracho."/>
@@ -97,6 +115,7 @@
 	<entry name="MicrochipFabricatorFlavor" value="El proceso de fabricación de microchips de ZEPHON se basaba en una red descentralizada. Hubo un breve periodo en el que pensamos que capturar a un número suficiente de estas fábricas llamaría su atención. Pero ¿por qué iba a importarle? Si una fábrica se desconectaba, podía crear otra nueva a una distancia segura, con su cadena de producción apenas interrumpida."/>
 	<entry name="NuclearFalloutFlavor" value="Ja. La gente solo habla de cuando ZEPHON y los acrin arrasaron con la Tierra... pero nosotros jugueteamos con el apocalipsis, ¿no? Los que no pudieron llegar a la órbita casi consiguen hacer que la civilización desaparezca. Generaciones después, seguimos usando sus armas y la Tierra sigue ardiendo a su paso."/>
 	<entry name="PhaseGeneratorFlavor" value="La primera vez que me crucé con una relojera, estaba realizando el mantenimiento de uno de estos generadores. Discutimos... sobre quién debía controlarlos. «Tú estás aquí para ganar una guerra. Y yo para detener la próxima», dijo. Hicimos un trato. Si dirigíamos una parte de la energía a los relojeros, ellos activarían un escudo para proteger a nuestra gente."/>
+	<entry name="ReaverDepotFlavor" value="Me metí en un conflicto con el Vástago que duró meses... y había una base de asediadores justo en medio del territorio por el que luchábamos. Cada pocas semanas, uno de nosotros conseguía avanzar lo suficiente para hacerse con ella y los asediadores cambiaban de bando de inmediato. La ausencia de lealtad también puede dar confianza."/>
 	<entry name="RecyclingTanksFlavor" value="Me revuelven el estómago. Los siervos de la Voz que se ganaban la vida patéticamente en el Yermo construyeron estas instalaciones para fabricar más algas. No había necesidad de construir cementerios cuando se podía arrojar cadáveres y vísceras a un pozo tóxico que producía un fango de carne repugnante. Cuando visitaba este tipo de lugares, tenía que ponerme una máscara de partículas."/>
 	<entry name="RiverFlavor" value="Todos los depredadores de la Tierra sabían que el momento más fácil para capturar a una presa es cuando busca agua. Y las víctimas sabían que cuando buscan agua, se arriesgaban a ser cazadas. Lo más sensato es convertirse en el depredador, pero, si acabas siendo la presa, recuerda que cruzar un arroyo frenará a la mayoría de los cazadores."/>
 	<entry name="RoadFlavor" value="La primera noche después de que nos construyeran las primeras carreteras, me subí a una surcadora y conduje durante kilómetros. Quemé más gasolina de la cuenta solo para sentir cómo el viento corría por mi pelo y cómo los neumáticos agarraban el asfalto al tomar las curvas. No quería volver a la guerra. Solo quería conducir para siempre."/>
