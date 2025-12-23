@@ -21,6 +21,7 @@
 	<entry name="ExousiaParser" value="Analyseur Exousia"/>
 	<entry name="GauntletOfRuin" value="Gantelet de ruine"/>
 	<entry name="GladialEmanator" value="Émanateur glaive"/>
+	<entry name="HoloDecoy" value="Holo-leurre"/>
 	<entry name="HungeringCirclet" value="Cercle de la faim"/>
 	<entry name="ICARFluidDeflector" value="Déflecteur fluidique d'ICAR"/>
 	<entry name="ICARLogo0" value="Bout de logo d'ICAR"/>
@@ -36,6 +37,7 @@
 	<entry name="ICARLogo5" value="<string name='Items/ICARLogo0'/>"/>
 	<entry name="ICARLogo5Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
 	<entry name="IncandescentIcon" value="Icône incandescente"/>
+	<entry name="InvasiveAuditor" value="Auditeur invasif"/>
 	<entry name="Iokla" value="Iok'la"/>
 	<entry name="KnifeOfTheChieftess" value="Couteau de la Cheftaine"/>
 	<entry name="KnifeOfTheChieftessFlavor" value="<string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>"/>
@@ -44,12 +46,15 @@
 	<entry name="PhaseFontead" value="Source phasique"/>
 	<entry name="PhilosophersStone" value="Pierre philosophale"/>
 	<entry name="PhilosophersStoneFlavor" value="<string name='Quests/PhilosophersStone/StoneRetrieved2'/>"/>
-	<entry name="Reyndverra" value="Reyndverra"/>
-	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="PlanarPhlebotomizer" value="Phlébotomiseur planaire"/>
+	<entry name="Quakecaller" value="Vexamen"/>
+	<entry name="QuakecallerFlavor" value="<string name='Quests/TheMartialEthic/Intro2'/>"/>
 	<entry name="QuantumReflector" value="Réflecteur quantique"/>
 	<entry name="QuantumReflectorFlavor" value="<string name='Quests/FormFunction/FlushCortexSuccess2'/>"/>
 	<entry name="RallyingHolobeacon" value="Holobalise de ralliement"/>
 	<entry name="ReactiveTrigger" value="Déclencheur réactif"/>
+	<entry name="Reyndverra" value="Reyndverra"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
 	<entry name="SchismOfRegimina" value="Schisme de Regimina"/>
 	<entry name="SpotterDrone" value="Drone observateur"/>
 	<entry name="StolenFlesh" value="Chair volée"/>
@@ -61,7 +66,7 @@
 	<entry name="TribunalsTetherFlavor" value="<string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>"/>
 	<entry name="VorodaiProselyte" value="Prosélyte Vorodai"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AcrinBoneWhistleFlavor" value="«<nbsp/>À l'église ou au marché toutes les fois que vous me rencontrerez<br/>Passez comme si vous ne vous souciiez pas plus de moi que d'une mouche<nbsp/>;<br/>Mais lancez-moi une œillade de votre bel œil noir.<br/>Cependant regardez comme si vous ne me regardiez pas.<br/>Cependant regardez comme si vous ne me regardiez pas.<br/>Oh<nbsp/>! sifflez, et je viendrai à vous, mon garçon.<nbsp/>»<br/>— Robert Burns"/>
 	<entry name="AkavishRigFlavor" value="Cet appareil était une technologie fascinante<nbsp/>: un modificateur musculaire qui pouvait s'adapter à n'importe quel corps, humain, mécanique ou Acrinn. Il étudiait le schéma de tes mouvements et donnait un coup de pouce à tes muscles ou à tes moteurs pour que tu te déplaces plus vite. C'est peut-être la seule de nos technologies qui ne m'a jamais fait peur. Parfois, je faisais le mur avec l'un d'entre eux, que j'utilisais pour faire de longues courses autour de la base. Ça m'aidait à me vider l'esprit."/>
 	<entry name="ArchaegisFlavor" value="Comment faire pour qu'un bouclier renvoie des lasers assez chauds pour faire fondre la peau<nbsp/>? Ou des balles qui déchirent les organes en lambeaux<nbsp/>? Nous avions besoin d'une technologie capable d'anticiper le type d'attaque et de modifier un champ de force pour la renvoyer à l'expéditeur. L'implantation d'un minuscule cerveau cybernétique sur une technologie humaine avancée a été notre première étape pour donner vie à cette technologie."/>
@@ -77,13 +82,16 @@
 	<entry name="ExousiaParserFlavor" value="Nous pouvions utiliser les données des Maraudeurs Exousia pour améliorer les capacités de ciblage d'une autre unité, mais cette fichue technologie était capricieuse. Une forte brise pouvait brouiller le signal et un coup dur l'éteignait complètement."/>
 	<entry name="GauntletOfRuinFlavor" value="Nous avons déniché ça dans un ancien laboratoire du gouvernement. Cet endroit me donne encore des frissons. Quelqu'un dans l'ancien monde jouait avec la mort comme s'il s'agissait d'un jouet et ceci, une arme qui ciblait toute forme de croissance, était tout ce qui restait de son travail."/>
 	<entry name="GladialEmanatorFlavor" value="Les Horlogers ont été les premiers à concevoir l'émanateur... et ce sont eux qui en ont détruit la plupart. Ces reclus aux principes exagérés n'arrivaient pas à assumer la machine à tuer qu'ils avaient créée."/>
+	<entry name="HoloDecoyFlavor" value="D'un point de vue, les hologrammes étaient... pratiques. La fumée, la neige, même un ciel ensoleillé pouvait foirer la projection. Mais chaque fois que j'en voyais un, ça me remontait un peu le moral. Comme un rappel de ce qu'on voulait faire de l'avenir. Un rêve concrétisé en un simple faisceau de lumière."/>
 	<entry name="HungeringCircletFlavor" value="Les adeptes de Vox attachaient volontiers ces monstruosités métalliques à leur tête. Lorsqu'ils saignaient, la bande se resserrait contre leur crâne et leur donnait la fureur d'un berserker. Certains les utilisaient pour devenir de meilleurs combattants. Mais je voyais bien que d'autres les portaient parce qu'ils aimaient la douleur."/>
 	<entry name="ICARFluidDeflectorFlavor" value="«<nbsp/>Alors c'est un bouclier d'eau<nbsp/>?<nbsp/>» que je demande à l'agent du Concordat. «<nbsp/>Pour la TROISIÈME fois, c'est un déflecteur fluidique<nbsp/>», répond-il. «<nbsp/>Une technologie hydrostatique expérimentale d'avant-guerre.<nbsp/>» J'insiste en souriant<nbsp/>: «<nbsp/>Un bouclier d'eau, quoi.<nbsp/>» Il m'a fait une remise pour que je prenne ça, et surtout mes cliques et mes claques."/>
 	<entry name="IncandescentIconFlavor" value="L'une des armes les plus puissantes créées dans le cadre de nos recherches sur l'IA ressemblait à une humble lanterne, mais la lumière qu'elle émettait faisait bien plus qu'éclairer<nbsp/>: elle contenait des photons intelligents pouvant être programmés pour reconnaître les alliés des ennemis. Le simple fait de traverser un champ de photons peut irriter la peau, et une exposition prolongée est un véritable enfer pour la chair comme pour les blindages."/>
+	<entry name="InvasiveAuditorFlavor" value="Ça faisait un mal de CHIEN de se faire plaquer sur le cou une de ces conneries de disques métalliques. Les fils qui te vrillent la colonne, bon, ça, on s'y habitue. L'IA militaire à l'intérieur scanne le champ de bataille et on entend une machine qui fait «<nbsp/>tournez à droite, un peu à gauche, tirez trois fois<nbsp/>». En fait, elle joue de ton système nerveux comme on joue de la guitare. Chacun de tes tirs est une note jouée au bon moment."/>
 	<entry name="IoklaFlavor" value="Iok'la. Le simple fait de prononcer ce mot donne la chair de poule. Ces foutus monstres y voyaient «<nbsp/>une parole faite chair<nbsp/>». Et quelle emphase sur la chair... Verte, coriace, elle s'enroulait autour de toi pour te donner un peu plus de... corps. Je détestais m'en équiper. Mais chaque fois que je le faisais, j'arrivais à rester dans le combat de plus en plus longtemps."/>
 	<entry name="PathcutterFlavor" value="Un réseau d'IA à large faisceau, monté sur un prototype de drone. Inutile pour le combat, car il lui faut une heure pour chauffer. Tu l'installes, tu le diriges vers l'endroit où tu veux aller et tu désactives la sécurité. Puis tu te bouches les oreilles pour ne pas entendre son hurlement et tu le suis. Il trouve des chemins incroyablement parfaits dans la jungle la plus enchevêtrée, végétale ou urbaine, des chemins que tu ne pourras plus jamais retrouver."/>
 	<entry name="PFCManualFlavor" value="Les soldats apprennent tous à étudier les anciennes méthodes. Mais qu'en est-il... des méthodes qui n'ont pas encore été écrites<nbsp/>? C'était un autre objet effrayant, un livre de tactiques d'une année à cinq chiffres. Chaque soldat voulait mettre la main dessus pour avoir un aperçu de l'avenir. Nous n'étions pas assez nombreux à nous demander comment il était arrivé jusqu'ici."/>
 	<entry name="PhaseFonteadFlavor" value="Ces appareils ont commencé à apparaître de nulle part dans les salles de stockage et les dotations des artilleurs. Je me suis porté volontaire pour être le rat de laboratoire et découvrir ce que c'était. J'en ai activé un et j'ai senti ce qui semblait être de l'électricité couler dans mes veines. Je tirais plus vite et je frappais plus fort que n'importe qui dans mon unité, mais j'avais aussi un sentiment constant de déjà vu. Comme si j'avais déjà vécu tout cela auparavant. Comme si j'allais vivre tout cela... encore<nbsp/>?"/>
+	<entry name="PlanarPhlebotomizerFlavor" value="J'avais une règle<nbsp/>: si tu voulais transporter le phlébotomiseur planaire, tu devais pouvoir prononcer son nom cinq fois de suite à toute bringue. Ça évitait les attardés susceptibles de l'utiliser contre leur propre escouade."/>
 	<entry name="RallyingHolobeaconFlavor" value="Nous avons utilisé la technologie des holoprojecteurs comme les armées d'autrefois utilisaient les tambours. Ou les clairons. En cas de coup dur, les troupes portant ces balises projetaient des messages du pays, de nouveaux ordres de l'état-major ou simplement des images fantomatiques de la cavalerie qui chargeait au-dessus de nos têtes. Toute lueur d'espoir suffisait à redonner de l'énergie à nos hommes."/>
 	<entry name="ReactiveTriggerFlavor" value="Les munitions perforantes ne sont pas bon marché, mais beaucoup de défenses s'effondrent si tu les pilonnes avec des tirs répétés ou si tu déclenches un blindage réactif. Un dispositif simple qui répand des balles traçantes avant le gros de l'attaque peut faciliter un peu la perforation."/>
 	<entry name="SchismOfRegiminaFlavor" value="Il y a très longtemps, ZEPHON a prêté l'une de ses créations à une bande d'humains proches de la mort. Ces survivants lui ont rendu la pareille en volant les codes d'accès de l'unité et en essayant de tuer leur sauveur. La riposte a été... impitoyable. Aujourd'hui, le seul souvenir de ces idiots est un disque dur contenant les codes, acheté et vendu au marché noir dans le plus grand secret. Si ZEPHON apprend où se trouve ce disque dur, il ne reculera devant rien pour le détruire."/>

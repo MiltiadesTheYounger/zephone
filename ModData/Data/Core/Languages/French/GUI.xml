@@ -39,7 +39,7 @@
 	<entry name="BuildingZephon" value="Bâtiment ZEPHON"/>
 	<entry name="Buildings" value="Bâtiments"/>
 	<entry name="BuildingsConstructed" value="Bâtiments construits"/>
-	<entry name="BuildingsDisabledDueToEnemies" value="<style color='GUI/Red'/>%1% disabled due to enemies on tiles.<style color='Default'/>"/> <!-- %1% is amount of buildings. -->
+	<entry name="BuildingsDisabledDueToEnemies" value="<style color='GUI/Red'/>%1% désactivé(s)<nbsp/>: ennemis sur les cases.<style color='Default'/>"/> <!-- %1% is amount of buildings. -->
 	<entry name="Buy" value="Acheter"/>
 	<entry name="BuyBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Buy'/>"/>
 	<entry name="Call" value="Appeler"/>
@@ -73,6 +73,7 @@
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Consomme de l'action"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Consomme du déplacement"/>
 	<entry name="Continue" value="Continuer"/>
+	<entry name="ControllerDifficultyWarningHint" value="Désactive de nombreux succès de victoire."/>
 	<entry name="Cooldown" value="Délai"/>
 	<entry name="Copy" value="Copier"/>
 	<entry name="CopyInviteCode" value="Copier le code d'invitation"/>
@@ -104,10 +105,12 @@
 	<entry name="DisableTips" value="Désactiver les conseils"/>
 	<entry name="DisableTipsHint" value="Ne plus afficher les conseils en pop-up. Vous pouvez les réactiver dans les paramètres."/>
 	<entry name="DismantleBuildingHint" value="Démonter le bâtiment de ce type avec le plus faible rendement.<br/><br/>Pour démonter un bâtiment donné, interagissez avec les emplacements de bâtiments sur la carte."/>
+	<entry name="DismantleOperationHint" value="Clic droit pour démanteler 1."/>
 	<entry name="Disconnected" value="Déconnexion"/>
 	<entry name="DismissReports" value="Effacer tout (%1%)"/>
 	<entry name="DragToChangeLoadOrder" value="Glisser pour modifier la priorité de chargement."/>
-	<entry name="Economy" value="Économie"/>
+	<entry name="DuplicateItemHint" value="Les objets passifs en double ne se cumulent pas."/>
+<entry name="Economy" value="Économie"/>
 	<entry name="Elite" value="Élite"/>
 	<entry name="EmptyBuildingSlotHint" value="Emplacement de bâtiment vide."/>
 	<entry name="EnableBuildingHint" value="Alimenter le bâtiment de ce type ayant le rendement le plus élevé, en lui attribuant de la population.<br/><br/>Pour alimenter un bâtiment précis, interagissez avec les emplacements de bâtiments sur la carte."/>
@@ -117,10 +120,10 @@
 	<entry name="EndTurnHint" value="Terminer votre tour [<control name='NextTask'/>]."/>
 	<entry name="EnemyOnTile" value="<style color='GUI/Red'/>Ennemi sur la case<style name='Default'/>"/>
 	<entry name="Enter" value="Entrer"/>
-	<entry name="EquipItemHint" value="Clic droit pour équiper."/>
-	<entry name="EstimatedCasualties" value="%1%/%2% pertes estimées"/>
+	<entry name="EquipItemHint" value="Cliquez pour équiper."/>
+	<entry name="EstimatedCasualties" value="%1%/%2% pertes résultantes"/>
 	<entry name="Events" value="Événements"/>
-	<entry name="ExecuteQueuedOrder" value="Exécuter l'ordre en attente (1/%1%)"/>
+	<entry name="ExecuteQueuedOrder" value="Exécuter l'ordre (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Exécuter l'ordre mis en file d'attente au tour précédent [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] pour exécuter tous les ordres en attente.<br/>[<control name='SelectNext'/>] pour sélectionner l'unité suivante.<br/>[<control name='SelectPrevious'/>] pour sélectionner l'unité précédente."/>
 	<entry name="Extra" value="Bonus"/>
 	<entry name="ExitCity" value="Quitter la ville"/>
@@ -161,7 +164,7 @@
 	<entry name="Installed" value="Installé"/>
 	<entry name="Introduction" value="Introduction"/>
 	<entry name="IntroductionGame" value="<string name='GUI/Introduction'/>"/>
-	<entry name="IntroductionGameHint" value="Commencer une partie de présentation."/>
+	<entry name="IntroductionGameHint" value="Commencer une partie guidée en difficulté facile avec le <string name='Factions/FallenSoldier'/>."/>
 	<entry name="InvalidName" value="Nom non valide."/>
 	<entry name="Inventory" value="Inventaire"/>
 	<entry name="InviteEpicFriend" value="Inviter un ami Epic"/>
@@ -202,6 +205,7 @@
 	<entry name="Multiplayer" value="Multijoueur"/>
 	<entry name="Mutators" value="Mutateurs"/>
 	<entry name="MutatorsHint" value="<style name='Title'/>Mutateurs [<control name='LobbyMutators'/>]"/>
+	<entry name="NPCAdvancementTooLow" value="Avancement de PNJ insuffisant."/>
 	<entry name="Name" value="Nom"/>
 	<entry name="New" value="Nouveau"/>
 	<entry name="NewGame" value="Nouvelle partie"/>
@@ -218,11 +222,11 @@
 	<entry name="NotOwner" value="N'est pas propriétaire de l'unité."/>
 	<entry name="NotReady" value="Pas prêt"/>
 	<entry name="NotUsable" value="Inutilisable"/>
+	<entry name="OK" value="OK"/>
+	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Objectifs"/>
 	<entry name="ObjectivesCompleted" value="Objectifs atteints"/>
 	<entry name="Off" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
-	<entry name="OK" value="OK"/>
-	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
 	<entry name="Okay" value="OK"/>
 	<entry name="On" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Il n'est possible de changer ce paramètre qu'au menu principal."/>
@@ -234,7 +238,7 @@
 	<entry name="Or" value="ou"/>
 	<entry name="OrderCity" value="Ordres aux villes (%1%)"/>
 	<entry name="OrderCityHint" value="Sélectionner la ville inactive suivante [<control name='NextTask'/>]."/>
-	<entry name="OrderQueuedUnits" value="Ordres aux unités en attente (%1%)"/>
+	<entry name="OrderQueuedUnits" value="Unités en attente (%1%)"/>
 	<entry name="OrderQueuedUnitsHint" value="Sélectionnez l'unité suivante avec un ordre en file d'attente [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] pour exécuter tous les ordres en attente."/>
 	<entry name="OrderUnits" value="Ordres aux unités (%1%)"/>
 	<entry name="OrderUnitsHint" value="Sélectionner l'unité inactive suivante [<control name='NextTask'/>]."/>
@@ -262,7 +266,7 @@
 	<entry name="PoweredBuildingsHint" value="Quantité de bâtiments alimentés de ce type. [<control name='ToggleBuildingPower'/>] sur l'icône du bâtiment sur la carte pour alimenter / couper l'alimentation d'un bâtiment spécifique."/>
 	<entry name="Properties" value="Propriétés"/>
 	<entry name="Quests" value="Quêtes"/>
-	<entry name="QuestOptionHint" value="%4%%7%<style color='Default'/>%8%"/>
+	<entry name="QuestOptionHint" value="<style color='GUI/Red'/>%4%<style name='Default'/>%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="Coût<nbsp/>: %1%"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
@@ -293,6 +297,7 @@
 	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% de difficulté"/>
 	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% des caractéristiques"/>
 	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% de loyauté"/>
+	<entry name="ResourceFromOperations" value="    <icon texture='GUI/Bullet'/>%1% des opérations"/>
 	<entry name="ResourceFromPace" value="    <icon texture='GUI/Bullet'/>%1% de vitesse du jeu"/>
 	<entry name="ResourceFromPlayer" value="    <icon texture='GUI/Bullet'/>%1% du joueur"/>
 	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% de la population"/>
@@ -313,6 +318,7 @@
 	<entry name="Rewards" value="Récompenses"/>
 	<entry name="RewardsReceived" value="Récompenses reçues"/>
 	<entry name="Queued" value="En attente."/>
+	<entry name="QuestCycleBetweenHighlightedTilesHint" value="Cliquez pour faire défiler les tuiles en surbrillance."/>
 	<entry name="QuickSelectLeaderHint" value="Sélectionner rapidement le chef."/>
 	<entry name="Quit" value="Quitter"/>
 	<entry name="Save" value="Sauvegarder"/>
@@ -417,7 +423,6 @@
 	<entry name="Weapon" value="Arme"/>
 	<entry name="Weapons" value="Armes"/>
 	<entry name="WorldDataChecksumsDiffer" value="Les données du monde diffèrent (local = %1%, serveur = %2%)."/>
-	<entry name="WorldSeedHint" value="Seed de monde, cliquer pour copier."/>
 	<entry name="XTile" value="%1% case"/>
 	<entry name="XTiles" value="%1% cases"/>
 	<entry name="XTurn" value="%1% tour"/>

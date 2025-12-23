@@ -31,7 +31,7 @@
 	<entry name="ArcticRegionDensity2" value="Faible"/>
 	<entry name="ArcticRegionDensity3" value="Intermédiaire"/>
 	<entry name="ArcticRegionDensity4" value="Élevée"/>
-	<entry name="ArcticRegionDensity5" value="Very High"/>	
+	<entry name="ArcticRegionDensity5" value="Très élevée"/>	
 	<entry name="AutoDisableSimultaneousTurns" value="Désactivation auto tours simultanés"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="Désactiver automatiquement les tours simultanés quand des unités ennemies non IA arrivent à 5<nbsp/>cases ou moins de distance."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Éviter les factions aléatoires en double"/>
@@ -49,7 +49,7 @@
 	<entry name="BrushDensity2" value="Faible"/>
 	<entry name="BrushDensity3" value="Intermédiaire"/>
 	<entry name="BrushDensity4" value="Élevée"/>
-	<entry name="BrushDensity5" value="Very High"/>	
+	<entry name="BrushDensity5" value="Très élevée"/>	
 	<entry name="CacheDensity" value="Densité des caches"/>
 	<entry name="CacheDensity0" value="Aucune"/>
 	<entry name="CacheDensity1" value="Très faible"/>
@@ -78,7 +78,8 @@
 	<entry name="ConstructRegionDensity3" value="Intermédiaire"/>
 	<entry name="ConstructRegionDensity4" value="Élevée"/>
 	<entry name="ConstructRegionDensity5" value="Très élevée"/>
-	<entry name="DLC1" value="DLC The Twisted & The Hollow"/>
+	<entry name="DLC1" value="DLC The Twisted & The Hollow"/> <!-- DLC name. Do not translate. -->
+	<entry name="DLC2" value="DLC The Platinum & The Infinite"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="Densité des régions désertiques"/>
 	<entry name="DesertRegionDensity0" value="Aucune"/>
 	<entry name="DesertRegionDensity1" value="Très faible"/>
@@ -87,7 +88,7 @@
 	<entry name="DesertRegionDensity4" value="Élevée"/>
 	<entry name="DesertRegionDensity5" value="Très élevée"/>
 	<entry name="Difficulty" value="Difficulté"/>
-	<entry name="DifficultyHint" value="Modifie les avantages de l'IA et des autochtones."/>
+	<entry name="DifficultyHint" value="Modifie les avantages de l'IA."/>
 	<entry name="Difficulty0" value="Très facile"/>
 	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> désavantage modéré de loyauté des villes donné.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté"/>
 	<entry name="Difficulty0RecommendationHint" value="<style name='Italic'/>Recommandé pour les joueurs qui privilégient le scénario."/>
@@ -98,16 +99,16 @@
 	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> aucun avantage ou désavantage donné."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Recommandé pour les fans de stratégie au tour par tour."/>
 	<entry name="Difficulty3" value="Difficile"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> léger avantage de loyauté des villes et de niveau des unités donné.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> léger avantage de loyauté des villes et de niveau des unités, ainsi qu'une petite augmentation de l'agressivité diplomatique de l'IA.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Recommandé pour les vieux routards des jeux Proxy Studios."/>
 	<entry name="Difficulty4" value="Très difficile"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> avantage modéré de loyauté des villes et de niveau des unités donné.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> avantage modéré de loyauté des villes et de niveau des unités, ainsi qu'une augmentation modérée de l'agressivité diplomatique de l'IA.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Recommandé après avoir roulé sur le mode Difficile."/>
 	<entry name="Difficulty5" value="Ultra difficile"/>
-	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> gros avantage de loyauté des villes et de niveau des unités donné.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> gros avantage de loyauté des villes et de niveau des unités, ainsi qu'une forte augmentation de l'agressivité diplomatique de l'IA.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
 	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>Recommandé après avoir roulé sur le mode Très difficile."/>
 	<entry name="Difficulty6" value="Cauchemar"/>
-	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> énorme avantage de loyauté des villes et de niveau des unités donné.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%<nbsp/>:<style name='Default'/> énorme avantage de loyauté des villes et de niveau des unités, ainsi qu'une augmentation extrême de l'agressivité diplomatique de l'IA.<br/><icon texture='GUI/Bullet'/>%2% en <string name='Attributes/LoyaltyIcon'/> loyauté<br/><icon texture='GUI/Bullet'/>%3% en <string name='Attributes/LevelIcon'/> niveau<br/><icon texture='GUI/Bullet'/>%4% en <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressivité"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>Non recommandé."/>
 	<entry name="DustStormDensity" value="Densité des tempêtes de sable"/>
 	<entry name="DustStormDensity0" value="Aucune"/>
@@ -135,7 +136,7 @@
 	<entry name="ForestDensity5" value="Très élevée"/>
 	<entry name="GameName" value="Nom de la partie"/>
 	<entry name="GameNameHint" value="Le nom sous lequel cette partie apparaît dans la liste de parties multijoueur."/>
-	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility" value="Visibilité de la partie"/> 
 	<entry name="GameVisibility0" value="Amis seulement"/>
 	<entry name="GameVisibility0Hint" value="La partie n'est pas listée publiquement et ne peut être rejointe que par la liste d'amis, invitation ou connexion directe."/>
 	<entry name="GameVisibility1" value="Privée"/>
@@ -184,20 +185,28 @@
 	<entry name="Mutators/CanFreeWillExistHint" value="Part aléatoire de ±20<nbsp/>% dans les dégâts des armes."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
 	<entry name="Mutators/DidHonorBalanceGreedHint" value="Dès le premier accord rompu, vous devenez définitivement Indigne de confiance."/>
+	<entry name="Mutators/DidIDoomMyFriends" value="<string name='Settings/Achievements/DidIDoomMyFriends'/>"/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="Les cases hors de vue deviennent inexplorées à chaque tour."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
 	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Changement de moral dû à la mort doublé."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
 	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="Les unités non neutres perdent 5<nbsp/>% de PV par tour lorsqu'elles se trouvent à l'extérieur de villes ou d'avant-postes alliés."/>
 	<entry name="Mutators/DidOurUnificationMatter" value="<string name='Settings/Achievements/DidOurUnificationMatter'/>"/>
 	<entry name="Mutators/DidOurUnificationMatterHint" value="Les unités biologiques non difformes qui meurent deviennent des difformités neutres. Se déclenche après les autres effets de mort."/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="<string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/>"/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="Gain d'expérience doublé."/>
 	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="Vous commencez avec les recherches Laboratoire de recherche, Holocinéma, Bloc d'habitation, Chantier de construction et Ingénieur."/>
+	<entry name="Mutators/MustWeSufferSoHint" value="Vous commencez avec les recherches Laboratoire de recherche, Complexe administratif, Holocinéma, Bloc d'habitation, Chantier de construction et Ingénieur."/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="<string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/>"/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Les ressources cumulées génèrent 10<nbsp/>% d'intérêts par tour."/>
 	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
 	<entry name="Mutators/WasITrulyHumanHint" value="Les dégâts sont répartis entre tous les alliés adjacents à l'unité cible."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
 	<entry name="Mutators/WasPerfectionWorthItHint" value="Les unités en double coûtent +20<nbsp/>% de ressources."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
 	<entry name="Mutators/WasZephonTrulyAliveHint" value="Portée d'acquisition de cases illimitée."/>
+	<entry name="Mutators/WhatAmITruly" value="<string name='Settings/Achievements/WhatAmITruly'/>"/>
+	<entry name="Mutators/WhatAmITrulyHint" value="Vitesse de production d'unités doublée."/>
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
 	<entry name="Mutators/WhatAreYouHint" value="Vous ne pouvez rechercher que les technologies avec votre affinité ou sans affinité."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
@@ -227,7 +236,7 @@
 	<entry name="RegionDensity2" value="Faible"/>
 	<entry name="RegionDensity3" value="Intermédiaire"/>
 	<entry name="RegionDensity4" value="Élevée"/>
-	<entry name="RegionDensity5" value="Very High"/>	
+	<entry name="RegionDensity5" value="Très élevée"/>	
 	<entry name="RequiredTechnologiesPerTier" value="Technologies requises par grade"/>
 	<entry name="RequiredTechnologiesPerTier0" value="0"/>
 	<entry name="RequiredTechnologiesPerTier1" value="1"/>
@@ -268,26 +277,26 @@
 	<entry name="ResourceUpkeep3" value="Élevé"/>
 	<entry name="ResourceUpkeep4" value="Très élevé"/>
 	<entry name="RiverDensity" value="Densité des cours d'eau"/>
-	<entry name="RiverDensity0" value="None"/>	
+	<entry name="RiverDensity0" value="Aucune"/>	
 	<entry name="RiverDensity1" value="Très faible"/>
 	<entry name="RiverDensity2" value="Faible"/>
 	<entry name="RiverDensity3" value="Intermédiaire"/>
 	<entry name="RiverDensity4" value="Élevée"/>
-	<entry name="RiverDensity5" value="Very High"/>	
+	<entry name="RiverDensity5" value="Très élevée"/>	
 	<entry name="RocksDensity" value="Densité des roches"/>
 	<entry name="RocksDensity0" value="Aucune"/>
 	<entry name="RocksDensity1" value="Très faible"/>
 	<entry name="RocksDensity2" value="Faible"/>
 	<entry name="RocksDensity3" value="Intermédiaire"/>
 	<entry name="RocksDensity4" value="Élevée"/>
-	<entry name="RocksDensity5" value="Very High"/>	
+	<entry name="RocksDensity5" value="Très élevée"/>	
 	<entry name="RuinsDensity" value="Densité des ruines"/>
 	<entry name="RuinsDensity0" value="Aucune"/>
 	<entry name="RuinsDensity1" value="Très faible"/>
 	<entry name="RuinsDensity2" value="Faible"/>
 	<entry name="RuinsDensity3" value="Intermédiaire"/>
 	<entry name="RuinsDensity4" value="Élevée"/>
-	<entry name="RuinsDensity5" value="Very High"/>	
+	<entry name="RuinsDensity5" value="Très élevée"/>	
 	<entry name="Seed" value="Seed de monde"/>
 	<entry name="SimultaneousTurns" value="Tours simultanés"/>
 	<entry name="SimultaneousTurnsHint" value="Si cette option est activée, tous les joueurs agissent ensemble.<br/><br/>Si elle est désactivée, seuls les joueurs de la même équipe agissent en même temps.<br/><br/>Désactiver cette option prolongera les tours de l'IA, mais elle fera de meilleurs choix face aux autres IA."/>
@@ -321,7 +330,7 @@
 	<entry name="SwampRegionDensity2" value="Faible"/>
 	<entry name="SwampRegionDensity3" value="Intermédiaire"/>
 	<entry name="SwampRegionDensity4" value="Élevée"/>
-	<entry name="SwampRegionDensity5" value="Very High"/>	
+	<entry name="SwampRegionDensity5" value="Très élevée"/>	
 	<entry name="TurnTimer" value="Chrono de tour"/>
 	<entry name="TurnTimer0" value="Aucun"/>
 	<entry name="TurnTimer1" value="Très court (1 minute)"/>
@@ -344,7 +353,7 @@
 	<entry name="VolcanoDensity2" value="Faible"/>
 	<entry name="VolcanoDensity3" value="Intermédiaire"/>
 	<entry name="VolcanoDensity4" value="Élevée"/>
-	<entry name="VolcanoDensity5" value="Very High"/>	
+	<entry name="VolcanoDensity5" value="Très élevée"/>	
 	<entry name="WildlifeDensity" value="Densité de la faune"/>
 	<entry name="WildlifeDensity0" value="Aucune"/>
 	<entry name="WildlifeDensity1" value="Très faible"/>
@@ -352,7 +361,9 @@
 	<entry name="WildlifeDensity3" value="Intermédiaire"/>
 	<entry name="WildlifeDensity4" value="Élevée"/>
 	<entry name="WildlifeDensity5" value="Très élevée"/>
-	<entry name="WorldSeed" value="Seed de monde"/>
+	<entry name="WorldParameters" value="Paramètres du monde"/>
+	<entry name="WorldParametersHint" value="Une chaîne codée de tous les paramètres du monde, y compris les mutateurs, mais sans les joueurs.<br/><br/>Utilisez-la pour partager votre configuration de monde avec d'autres ou pour la sauvegarder pour plus tard."/>
+<entry name="WorldSeed" value="Seed de monde"/>
 	<entry name="WastelandRegionDensity" value="Densité des No Man's Lands"/>
 	<entry name="WastelandRegionDensity0" value="Aucune"/>
 	<entry name="WastelandRegionDensity1" value="Très faible"/>

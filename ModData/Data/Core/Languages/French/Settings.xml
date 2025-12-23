@@ -6,13 +6,17 @@
 	<entry name="Achievements/CanFreeWillExist" value="Le libre arbitre existe-t-il ?"/>
 	<entry name="Achievements/CanLoveBeMoral" value="L'amour peut-il être moral ?"/>
 	<entry name="Achievements/DidHonorBalanceGreed" value="L'honneur a-t-il contrebalancé la cupidité ?"/>
+	<entry name="Achievements/DidIDoomMyFriends" value="Ai-je condamné mes amis<nbsp/>?"/>
 	<entry name="Achievements/DidMyDeathMeanAnything" value="Ma mort a-t-elle eu un sens ?"/>
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="Notre sacrifice n'a-t-il servi à rien ?"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="Notre unification a-t-elle eu un sens ?"/>
+	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="La valeur se juge-t-elle à la sagesse<nbsp/>?"/>
 	<entry name="Achievements/MustWeSufferSo" value="Devons-nous tant souffrir ?"/>
+	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="C'était pas la meilleure des vies, ça<nbsp/>?"/>
 	<entry name="Achievements/WasITrulyHuman" value="Étais-je vraiment humaine ?"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="La perfection en valait-elle la peine ?"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="ZEPHON était-il vraiment vivant ?"/>
+	<entry name="Achievements/WhatAmITruly" value="Que suis-je, en réalité<nbsp/>?"/>
 	<entry name="Achievements/WhatAreYou" value="Qu'êtes-vous ?"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="Quel est le prix de la liberté ?"/>
 	<entry name="Achievements/WhereAreWe" value="Où sommes-nous ?"/>
@@ -69,7 +73,7 @@
 	<entry name="Controls/OpenResearchScreen" value="Ouvrir l'écran de recherche"/>
 	<entry name="Controls/OrderAllIdleUnits" value="Ordre à toutes les unités inactives"/>
 	<entry name="Controls/OrderAllUnits" value="Ordre à toutes les unités"/>
-	<entry name="Controls/OrderAreaUnits" value="Ordre aux unités de la zone"/>
+	<entry name="Controls/OrderAreaUnits" value="Ordre aux unités de rayon<nbsp/>3"/>
 	<entry name="Controls/PlayerAction0" value="Action du joueur 1"/>
 	<entry name="Controls/PlayerAction1" value="Action du joueur 2"/>
 	<entry name="Controls/PlayerAction2" value="Action du joueur 3"/>
@@ -144,6 +148,8 @@
 	<entry name="General/AutoSendReportsHint" value="Envoyer automatiquement des statistiques d'utilisation et des rapports de crash à Proxy Studios pour contribuer à améliorer les fonctionnalités, la stabilité et les performances du jeu.<br/><br/><style color='GUI/Yellow'/>Nous attachons beaucoup d'importance à la protection de la vie privée. Nous nous efforçons ainsi de ne collecter que ce dont nous avons besoin afin d'améliorer le jeu pour tout le monde. Les données collectées comprennent des interactions anonymes avec le jeu (telles que le nombre de tentatives de connexion multijoueur et d'échecs, les types de parties lancés, les fonctionnalités utilisées, les boutons cliqués et le temps de jeu) ainsi que des informations techniques anonymes (telles que la version et la langue du jeu, le système d'exploitation et la configuration matérielle, ainsi que des informations de base sur les plantages et les erreurs). Ces données sont traitées conformément à l'intérêt légitime de fournir un produit fiable et de haute qualité<nbsp/>; elles sont stockées pendant 1<nbsp/>an maximum et ne sont jamais partagées avec des tiers."/>
 	<entry name="General/EdgeScroll" value="Défilement aux bordures"/>
 	<entry name="General/EdgeScrollHint" value="Faire défiler la caméra quand la souris est au bord de l'écran en mode plein écran."/>
+	<entry name="General/FriendNames" value="Noms des amis"/>
+	<entry name="General/FriendNamesHint" value="Autoriser l'usage des noms de vos amis dans les messages en jeu de ZEPHON."/>
 	<entry name="General/Language" value="Langue"/>
 	<entry name="General/LanguageHint" value="La langue écrite."/>
 	<entry name="General/ResetTips" value="Réinitialiser les conseils"/>
