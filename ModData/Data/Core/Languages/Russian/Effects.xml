@@ -20,11 +20,11 @@
 	<entry name="Embark" value="&lt;icon texture='GUI/Bullet'/&gt;Погружает%1%"/>
 	<entry name="KillCargo" value="&lt;icon texture='GUI/Bullet'/&gt;Убивает груз%1%"/>
 	<entry name="Pull" value="&lt;icon texture='GUI/Bullet'/&gt;Притягивает%1%"/>
-	<entry name="RemoveBuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет усиления%1%"/>
-	<entry name="RemoveDebuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет ослабления%1%"/>
-	<entry name="ResetActionPoints" value="&lt;icon texture='GUI/Bullet'/&gt;Возвращает все пункты действия%1%"/>
+	<entry name="RemoveBuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет усиления%1% (кроме усилений от пассивных действий)"/>
+	<entry name="RemoveDebuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Удаляет ослабления%1% (кроме «Потрясённый», «Повреждения», «Сломленный» и ослаблений от пассивных действий)"/>
+	<entry name="ResetActionPoints" value="&lt;icon texture='GUI/Bullet'/&gt;Восстанавливает пункты действия%1%"/>
 	<entry name="ResetCooldowns" value="&lt;icon texture='GUI/Bullet'/&gt;Завершает все перезарядки%1%"/>
-	<entry name="ResetMovement" value="&lt;icon texture='GUI/Bullet'/&gt;Возвращает все пункты движения%1%"/>
+	<entry name="ResetMovement" value="&lt;icon texture='GUI/Bullet'/&gt;Восстанавливает пункты движения%1%"/>
 	<entry name="Reveal" value="&lt;icon texture='GUI/Bullet'/&gt;Раскрывает клетки%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

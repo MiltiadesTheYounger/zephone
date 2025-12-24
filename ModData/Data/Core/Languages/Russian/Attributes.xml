@@ -47,6 +47,7 @@
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Атаки за каждого дополнительного члена группы цели"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
 	<entry name="BuildingSlots" value="Слоты для зданий"/>
+	<entry name="BuildingSlotsDescription" value="Количество зданий, которые можно построить на клетке."/>
 	<entry name="BuildingSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;"/>
 	<entry name="BlockSight" value="видимость с НЕ-смежных клеток"/>
 	<entry name="BlockSight+" value="Блокирует"/>
@@ -116,7 +117,8 @@
 	<entry name="DimensionalEchoesUpkeep" value="Траты на содержание (отзвуки измерений)"/>
 	<entry name="DimensionalEchoesUpkeepDescription" value="Количество отзвуков измерений, расходуемое каждый ход на содержание объекта."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/DimensionalEchoes'/&gt;"/>
-	<entry name="DuplicateTypeCost" value="Цена за повторение типа"/>
+	<entry name="DuplicateTypeCost" value="Цена за повторный тип"/>
+	<entry name="DuplicateTypeCostLimit" value="Лимит цены за повторный тип"/>
 	<entry name="Energy" value="Энергия"/>
 	<entry name="EnergyDescription" value="Используется для содержания зданий, а также для производства и содержания особых юнитов."/>
 	<entry name="EnergyIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
@@ -163,10 +165,12 @@
 	<entry name="HitpointsFromMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="HitpointsMax" value="Макс. единиц жизни"/>
 	<entry name="HitpointsMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="HitpointsPerGroupMember" value="Ед. жизни за члена группы"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="IgnoreLineOfSight" value="прямую видимость."/>
 	<entry name="IgnoreLineOfSight+" value="Игнорирует"/>
-	<entry name="IgnoreZoneOfControl" value="двигаться сквозь юниты врага"/>
-	<entry name="IgnoreZoneOfControl+" value="Позволяет"/>
+	<entry name="IgnoreZoneOfControl" value="движение сквозь юниты врага и их область контроля."/>
+	<entry name="IgnoreZoneOfControl+" value="Разрешает"/>
 	<entry name="Influence" value="Влияние"/>
 	<entry name="InfluenceDescription" value="Используется для присоединения и содержания клеток города, применения особых способностей, для найма и содержания героев, а также для приобретения предметов и ресурсов."/>
 	<entry name="InfluenceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Траты на содержание (лояльность)"/>
 	<entry name="LoyaltyUpkeepDescription" value="Количество лояльности, расходуемое каждый ход на содержание объекта."/>
 	<entry name="LoyaltyUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Макс. единиц жизни за члена группы"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="Morale" value="Боевой дух"/>
 	<entry name="MoraleDescription" value="Психологическое состояние юнита. &lt;string name='Attributes/MoraleDescription/Regeneration'/&gt; &lt;string name='Attributes/MoraleDescription/Shaken'/&gt; &lt;string name='Attributes/MoraleDescription/Broken'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Attributes/MoraleDescription/Death'/&gt;"/>
 	<entry name="MoraleDescription/Regeneration" value="Боевой дух восстанавливается, если за прошлый ход юнит не получил урона."/>
@@ -222,7 +224,7 @@
 	<entry name="MoraleMax" value="Макс. боевого духа"/>
 	<entry name="MoraleMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
 	<entry name="Movement" value="Движение"/>
-	<entry name="MovementDescription" value="Сколько клеток юнит может преодолеть за один ход. Пересечённая местность требует более одного пункта движения. Перемещение в клетку, смежную с врагом, заканчивает движение."/>
+	<entry name="MovementDescription" value="Сколько клеток юнит может преодолеть за один ход. Пересечённая местность требует более одного пункта движения. Перемещение на клетку, смежную с врагом, заканчивает движение."/>
 	<entry name="MovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
 	<entry name="MovementCost" value="Расход движения"/>
 	<entry name="MovementCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>

@@ -73,6 +73,7 @@
 	<entry name="ConsumesAction" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt; Тратит действие"/>
 	<entry name="ConsumesMovement" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt; Тратит движение"/>
 	<entry name="Continue" value="Продолжить"/>
+	<entry name="ControllerDifficultyWarningHint" value="Отключает многие достижения за победу."/>
 	<entry name="Cooldown" value="Перезарядка"/>
 	<entry name="Copy" value="Копировать"/>
 	<entry name="CopyInviteCode" value="Копировать код приглашения"/>
@@ -104,9 +105,11 @@
 	<entry name="DisableTips" value="Отключить советы"/>
 	<entry name="DisableTipsHint" value="Не показывать всплывающие советы. Их можно повторно включить в настройках."/>
 	<entry name="DismantleBuildingHint" value="Снести наименее производительное здание этого типа.&lt;br/&gt;&lt;br/&gt;Чтобы снести определённое здание, взаимодействуйте со слотами для зданий на карте."/>
+	<entry name="DismantleOperationHint" value="ПКМ — снести 1."/>
 	<entry name="Disconnected" value="Отсоединён"/>
 	<entry name="DismissReports" value="Убрать все (%1%)"/>
 	<entry name="DragToChangeLoadOrder" value="Перетаскивайте, чтобы изменить приоритет загрузки."/>
+	<entry name="DuplicateItemHint" value="Эффекты повторяющихся пассивных предметов не складываются."/>
 	<entry name="Economy" value="Экономика"/>
 	<entry name="Elite" value="Элита"/>
 	<entry name="EmptyBuildingSlotHint" value="Пустой слот для зданий."/>
@@ -117,10 +120,10 @@
 	<entry name="EndTurnHint" value="Завершить ход [&lt;control name='NextTask'/&gt;]."/>
 	<entry name="EnemyOnTile" value="&lt;style color='GUI/Red'/&gt;Враг на клетке&lt;style name='Default'/&gt;"/>
 	<entry name="Enter" value="Войти"/>
-	<entry name="EquipItemHint" value="ПКМ — взять."/>
-	<entry name="EstimatedCasualties" value="Прогноз %1%/%2% потерь"/>
+	<entry name="EquipItemHint" value="ЛКМ — взять."/>
+	<entry name="EstimatedCasualties" value="уничтожение %1%/%2% юнита"/>
 	<entry name="Events" value="События"/>
-	<entry name="ExecuteQueuedOrder" value="Исполнить приказ в очереди (1/%1%)"/>
+	<entry name="ExecuteQueuedOrder" value="Исполнить приказ (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Исполнить приказы, поставленные в очередь в предыдущий ход [&lt;control name='NextTask'/&gt;].&lt;br/&gt;[&lt;string name='Controls/MouseRight'/&gt;] — исполнить все приказы в очереди.&lt;br/&gt;[&lt;control name='SelectNext'/&gt;] — выбрать следующий юнит.&lt;br/&gt;[&lt;control name='SelectPrevious'/&gt;] — выбрать предыдущий юнит."/>
 	<entry name="Extra" value="Особое"/>
 	<entry name="ExitCity" value="Выйти из города"/>
@@ -161,7 +164,7 @@
 	<entry name="Installed" value="Установлено"/>
 	<entry name="Introduction" value="Введение"/>
 	<entry name="IntroductionGame" value="&lt;string name='GUI/Introduction'/&gt;"/>
-	<entry name="IntroductionGameHint" value="Начать вводную игру."/>
+	<entry name="IntroductionGameHint" value="Начать обучающую игру на лёгком уровне сложности (&lt;string name='Factions/FallenSoldier'/&gt;)"/>
 	<entry name="InvalidName" value="Недопустимое имя."/>
 	<entry name="Inventory" value="Снаряжение"/>
 	<entry name="InviteEpicFriend" value="Пригласить друга из Epic"/>
@@ -202,10 +205,11 @@
 	<entry name="Multiplayer" value="Мультиплеер"/>
 	<entry name="Mutators" value="Мутаторы"/>
 	<entry name="MutatorsHint" value="&lt;style name='Title'/&gt;Мутаторы [&lt;control name='LobbyMutators'/&gt;]"/>
+	<entry name="NPCAdvancementTooLow" value="Уровень развития неигрового персонажа слишком низок."/>
 	<entry name="Name" value="Имя"/>
 	<entry name="New" value="Новая"/>
 	<entry name="NewGame" value="Новая игра"/>
-	<entry name="NewGameHint" value="Выбрать лидера и изменить настройки мира."/>
+	<entry name="NewGameHint" value="Выбрать лидера и изменить настройки игры."/>
 	<entry name="NoActionsRemaining" value="Действий не осталось."/>
 	<entry name="NoChargesRemaining" value="Зарядов не осталось."/>
 	<entry name="NoFreeItemSlots" value="В снаряжении героя нет свободного места."/>
@@ -218,23 +222,23 @@
 	<entry name="NotOwner" value="Вы не владелец юнита."/>
 	<entry name="NotReady" value="Не готов"/>
 	<entry name="NotUsable" value="Нельзя использовать"/>
+	<entry name="OK" value="OK"/>
+	<entry name="OKHint" value="&lt;style name='Title'/&gt;OK [&lt;control name='OK'/&gt;]"/>
 	<entry name="Objectives" value="Задачи"/>
 	<entry name="ObjectivesCompleted" value="Задачи выполнены"/>
 	<entry name="Off" value="&lt;style color='GUI/Red'/&gt;Выкл.&lt;style color='Default'/&gt;"/>
-	<entry name="OK" value="OK"/>
-	<entry name="OKHint" value="&lt;style name='Title'/&gt;OK [&lt;control name='OK'/&gt;]"/>
 	<entry name="Okay" value="OK"/>
 	<entry name="On" value="&lt;style color='GUI/Green'/&gt;Вкл.&lt;style color='Default'/&gt;"/>
 	<entry name="OnlyInMainMenu" value="&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Этот параметр можно изменить только в главном меню."/>
 	<entry name="OnThisSide" value="На этой стороне:"/>
 	<entry name="OnCooldown" value="Перезаряжается."/>
 	<entry name="OpenHint" value="Открыть «%1%»."/>
-	<entry name="OpenStoreHint" value="Щёлкните, чтобы открыть магазин."/>
+	<entry name="OpenStoreHint" value="ЛКМ — открыть магазин."/>
 	<entry name="Operation" value="Операция"/>
 	<entry name="Or" value="или"/>
 	<entry name="OrderCity" value="Приказ городам (%1%)"/>
 	<entry name="OrderCityHint" value="Выбрать следующий бездействующий город [&lt;control name='NextTask'/&gt;]."/>
-	<entry name="OrderQueuedUnits" value="Приказ юнитам в очереди (%1%)"/>
+	<entry name="OrderQueuedUnits" value="Юниты в очереди (%1%)"/>
 	<entry name="OrderQueuedUnitsHint" value="Выбрать следующий юнит с приказом в очереди [&lt;control name='NextTask'/&gt;].&lt;br/&gt;[&lt;string name='Controls/MouseRight'/&gt;] — исполнить все приказы в очереди."/>
 	<entry name="OrderUnits" value="Приказ юнитам (%1%)"/>
 	<entry name="OrderUnitsHint" value="Выбрать следующий бездействующий юнит [&lt;control name='NextTask'/&gt;]."/>
@@ -262,7 +266,7 @@
 	<entry name="PoweredBuildingsHint" value="Количество включенных зданий этого типа. [&lt;control name='ToggleBuildingPower'/&gt;] по значку здания на карте — вкл./выкл. питание определённого здания."/>
 	<entry name="Properties" value="Качества"/>
 	<entry name="Quests" value="Задания"/>
-	<entry name="QuestOptionHint" value="%4%%7%&lt;style color='Default'/&gt;%8%"/>
+	<entry name="QuestOptionHint" value="&lt;style color='GUI/Red'/&gt;%4%&lt;style name='Default'/&gt;%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="Цена: %1%"/>
 	<entry name="RadiusTile" value="&lt;icon height='20' texture='Icons/Attributes/Radius'/&gt; %1%"/>
 	<entry name="RadiusTiles" value="&lt;icon height='20' texture='Icons/Attributes/Radius'/&gt; %1%"/>
@@ -293,6 +297,7 @@
 	<entry name="ResourceFromDifficulty" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от уровня сложности"/>
 	<entry name="ResourceFromFeatures" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от особенностей местности"/>
 	<entry name="ResourceFromLoyalty" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от лояльности"/>
+	<entry name="ResourceFromOperations" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от операций"/>
 	<entry name="ResourceFromPace" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от скорости игры"/>
 	<entry name="ResourceFromPlayer" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от игрока"/>
 	<entry name="ResourceFromPopulation" value=" &lt;icon texture='GUI/Bullet'/&gt;%1% от населения"/>
@@ -313,6 +318,7 @@
 	<entry name="Rewards" value="Награды"/>
 	<entry name="RewardsReceived" value="Получены награды"/>
 	<entry name="Queued" value="В очереди."/>
+	<entry name="QuestCycleBetweenHighlightedTilesHint" value="ЛКМ — переход между подсвеченными клетками."/>
 	<entry name="QuickSelectLeaderHint" value="Быстрый выбор лидера."/>
 	<entry name="Quit" value="Выход"/>
 	<entry name="Save" value="Сохранить"/>
@@ -417,7 +423,6 @@
 	<entry name="Weapon" value="Оружие"/>
 	<entry name="Weapons" value="Оружие"/>
 	<entry name="WorldDataChecksumsDiffer" value="Данные мира отличаются (локальные = %1%, сервер = %2%)."/>
-	<entry name="WorldSeedHint" value="Сид создания мира, щёлкните, чтобы скопировать."/>
 	<entry name="XTile" value="%1% кл."/>
 	<entry name="XTiles" value="%1% кл."/>
 	<entry name="XTurn" value="%1% х."/>

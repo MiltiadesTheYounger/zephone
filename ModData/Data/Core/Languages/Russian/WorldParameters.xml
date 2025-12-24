@@ -78,7 +78,8 @@
 	<entry name="ConstructRegionDensity3" value="Средняя"/>
 	<entry name="ConstructRegionDensity4" value="Высокая"/>
 	<entry name="ConstructRegionDensity5" value="Очень высокая"/>
-	<entry name="DLC1" value="DLC «Безобразная и Бесцельный»"/>
+	<entry name="DLC1" value="DLC «Безобразная и Бесцельный»"/> <!-- DLC name. Do not translate. -->
+	<entry name="DLC2" value="DLC «Платиновый и Неисчислимый»"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="Плотность регионов: пустыня"/>
 	<entry name="DesertRegionDensity0" value="Нет"/>
 	<entry name="DesertRegionDensity1" value="Очень низкая"/>
@@ -87,7 +88,7 @@
 	<entry name="DesertRegionDensity4" value="Высокая"/>
 	<entry name="DesertRegionDensity5" value="Очень высокая"/>
 	<entry name="Difficulty" value="Уровень сложности"/>
-	<entry name="DifficultyHint" value="Влияет на бонусы, получаемые ИИ и местными фракциями."/>
+	<entry name="DifficultyHint" value="Влияет на бонусы, получаемые ИИ."/>
 	<entry name="Difficulty0" value="Очень легко"/>
 	<entry name="Difficulty0Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; умеренный штраф к лояльности городов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность"/>
 	<entry name="Difficulty0RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для заинтересованных в сюжете игроков."/>
@@ -98,16 +99,16 @@
 	<entry name="Difficulty2Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; никаких бонусов или штрафов."/>
 	<entry name="Difficulty2RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для фанатов пошаговых стратегий."/>
 	<entry name="Difficulty3" value="Тяжело"/>
-	<entry name="Difficulty3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; небольшой бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
+	<entry name="Difficulty3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; небольшой бонус к лояльности городов и уровню юнитов, а также небольшое повышение дипломатической агрессивности ИИ.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
 	<entry name="Difficulty3RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется для ветеранов игр Proxy Studios."/>
 	<entry name="Difficulty4" value="Очень тяжело"/>
-	<entry name="Difficulty4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; умеренный бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
+	<entry name="Difficulty4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; умеренный бонус к лояльности городов и уровню юнитов, а также умеренное повышение дипломатической агрессивности ИИ.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
 	<entry name="Difficulty4RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется после победы на тяжёлой сложности."/>
 	<entry name="Difficulty5" value="Сверхтяжело"/>
-	<entry name="Difficulty5Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; большой бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
+	<entry name="Difficulty5Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; большой бонус к лояльности городов и уровню юнитов, а также большое повышение дипломатической агрессивности ИИ.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
 	<entry name="Difficulty5RecommendationHint" value="&lt;style name='Italic'/&gt;Рекомендуется после победы на очень тяжёлой сложности."/>
 	<entry name="Difficulty6" value="Кошмар"/>
-	<entry name="Difficulty6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; огромный бонус к лояльности городов и уровню юнитов.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
+	<entry name="Difficulty6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; огромный бонус к лояльности городов и уровню юнитов, а также огромное повышение дипломатической агрессивности ИИ.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльность&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агрессивность"/>
 	<entry name="Difficulty6RecommendationHint" value="&lt;style name='Italic'/&gt;Не рекомендуется."/>
 	<entry name="DustStormDensity" value="Плотность: песчаная буря"/>
 	<entry name="DustStormDensity0" value="Нет"/>
@@ -184,20 +185,28 @@
 	<entry name="Mutators/CanFreeWillExistHint" value="Урон оружия случайным образом изменён в диапазоне от -20% до +20%."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="&lt;string name='Settings/Achievements/DidHonorBalanceGreed'/&gt;"/>
 	<entry name="Mutators/DidHonorBalanceGreedHint" value="Отменив любое соглашение, вы навсегда получаете свойство «Вероломство»."/>
+	<entry name="Mutators/DidIDoomMyFriends" value="&lt;string name='Settings/Achievements/DidIDoomMyFriends'/&gt;"/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="Клетки вне видимости каждый ход скрываются туманом."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="&lt;string name='Settings/Achievements/DidMyDeathMeanAnything'/&gt;"/>
-	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Смерть в два раза сильнее влияет на боевой дух."/>
+	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Удвоенное влияние смерти на боевой дух."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="&lt;string name='Settings/Achievements/DidOurSacrificeMeanNothing'/&gt;"/>
 	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="НЕ-нейтральные юниты теряют 5% ед. жизни каждый ход вне союзных городов или застав."/>
 	<entry name="Mutators/DidOurUnificationMatter" value="&lt;string name='Settings/Achievements/DidOurUnificationMatter'/&gt;"/>
 	<entry name="Mutators/DidOurUnificationMatterHint" value="Биологические юниты НЕ-уродства после гибели становятся нейтральными уродствами. Срабатывает после остальных эффектов гибели."/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="&lt;string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/&gt;"/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="Удвоенное накопление опыта."/>
 	<entry name="Mutators/MustWeSufferSo" value="&lt;string name='Settings/Achievements/MustWeSufferSo'/&gt;"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="В начале игры исследованы научная лаборатория, голотеатр, жилой блок, стройкомплекс и инженер."/>
+	<entry name="Mutators/MustWeSufferSoHint" value="В начале игры исследованы научная лаборатория, административный комплекс, голотеатр, жилой блок, стройкомплекс и инженер."/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="&lt;string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/&gt;"/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Накопленные ресурсы каждый ход получают прирост в размере 10%."/>
 	<entry name="Mutators/WasITrulyHuman" value="&lt;string name='Settings/Achievements/WasITrulyHuman'/&gt;"/>
 	<entry name="Mutators/WasITrulyHumanHint" value="Урон делится между всем смежными союзниками цели."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="&lt;string name='Settings/Achievements/WasPerfectionWorthIt'/&gt;"/>
 	<entry name="Mutators/WasPerfectionWorthItHint" value="Повторяющиеся юниты стоят на 20% больше ресурсов."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="&lt;string name='Settings/Achievements/WasZephonTrulyAlive'/&gt;"/>
 	<entry name="Mutators/WasZephonTrulyAliveHint" value="Неограниченный радиус присоединения клеток."/>
+	<entry name="Mutators/WhatAmITruly" value="&lt;string name='Settings/Achievements/WhatAmITruly'/&gt;"/>
+	<entry name="Mutators/WhatAmITrulyHint" value="Удвоенная скорость производства юнитов."/>
 	<entry name="Mutators/WhatAreYou" value="&lt;string name='Settings/Achievements/WhatAreYou'/&gt;"/>
 	<entry name="Mutators/WhatAreYouHint" value="Можно исследовать только технологии своей склонности или без склонности."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="&lt;string name='Settings/Achievements/WhatPriceForLiberty'/&gt;"/>
@@ -353,6 +362,8 @@
 	<entry name="WildlifeDensity4" value="Высокая"/>
 	<entry name="WildlifeDensity5" value="Очень высокая"/>
 	<entry name="WorldSeed" value="Сид создания мира"/>
+	<entry name="WorldParameters" value="Параметры мира"/>
+	<entry name="WorldParametersHint" value="Зашифрованная строка со всеми параметрами мира, включая мутаторы, но исключая игроков.&lt;br/&gt;&lt;br/&gt;Позволяет поделиться настройками мира с другими или сохранить их на потом."/>
 	<entry name="WastelandRegionDensity" value="Плотность регионов: пустошь"/>
 	<entry name="WastelandRegionDensity0" value="Нет"/>
 	<entry name="WastelandRegionDensity1" value="Очень низкая"/>
