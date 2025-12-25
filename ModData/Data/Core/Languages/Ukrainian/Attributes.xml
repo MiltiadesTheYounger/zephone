@@ -47,6 +47,7 @@
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Атаки за кожного додаткового члена групи цілі"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
 	<entry name="BuildingSlots" value="Слоти для будівель"/>
+	<entry name="BuildingSlotsDescription" value="Кількість будівель, які можна побудувати на клітинці."/>
 	<entry name="BuildingSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;"/>
 	<entry name="BlockSight" value="видимість з НЕ-суміжних клітин"/>
 	<entry name="BlockSight+" value="Блокує"/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="Кількість відлунь вимірів, що витрачається кожен хід на утримання об'єкта."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/DimensionalEchoes'/&gt;"/>
 	<entry name="DuplicateTypeCost" value="Вартість за повторення типу"/>
+	<entry name="DuplicateTypeCostLimit" value="Ліміт вартості за повторення типу"/>
 	<entry name="Energy" value="Енергія"/>
 	<entry name="EnergyDescription" value="Використовується для утримання будівель, а також для виробництва та утримання спеціальних юнітів."/>
 	<entry name="EnergyIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
@@ -163,6 +165,8 @@
 	<entry name="HitpointsFromMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="HitpointsMax" value="Макс. одиниць здоров'я"/>
 	<entry name="HitpointsMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
+	<entry name="HitpointsPerGroupMember" value="Од. здоров'я за члена групи"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="IgnoreLineOfSight" value="пряму видимість."/>
 	<entry name="IgnoreLineOfSight+" value="Ігнорує"/>
 	<entry name="IgnoreZoneOfControl" value="переміщатися крізь юніти ворога"/>

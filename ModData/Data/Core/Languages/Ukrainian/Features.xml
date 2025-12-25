@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Дає випадкову просунуту нагороду Голосу"/>
 	<entry name="ArcDischarge" value="Дуговий розряд"/>
 	<entry name="Arctic" value="Арктика"/>
+	<entry name="ArenaCyber" value="Арена (Кібери)"/>
+	<entry name="ArenaCyberFlavor" value="&lt;string name='Quests/TheMartialEthic/ArenaCyberVictory2'/&gt;"/>
+	<entry name="ArenaHuman" value="Арена (Люди)"/>
+	<entry name="ArenaHumanFlavor" value="&lt;string name='Quests/TheMartialEthic/ArenaHumanVictory2'/&gt;"/>
+	<entry name="ArenaVoice" value="Арена (Голос)"/>
+	<entry name="ArenaVoiceFlavor" value="&lt;string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/&gt;"/>
+	<entry name="AtmosphericAnchor" value="Атмосферний якір"/>
 	<entry name="BlackHole" value="&lt;string name='Actions/BlackHole'/&gt;"/>
 	<entry name="BlackHoleFlavor" value="&lt;string name='Actions/BlackHoleFlavor'/&gt;"/>
 	<entry name="Bleed" value="Кровотеча"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="Екскаватор «Ереб»"/>
 	<entry name="ErebusExcavatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Шанс 5% на випадкову нагороду"/>
 	<entry name="Fire" value="Вогонь"/>
+	<entry name="FiveSoldiers1" value="Потрібна одна сутність"/>
+	<entry name="FiveSoldiers1Flavor" value="&lt;string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/&gt;"/>
+	<entry name="FiveSoldiers3" value="Потрібні три сутності"/>
+	<entry name="FiveSoldiers3Flavor" value="&lt;string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/&gt;"/>
+	<entry name="FiveSoldiers6" value="Потрібні шість сутностей"/>
+	<entry name="FiveSoldiers6Flavor" value="&lt;string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/&gt;"/>
 	<entry name="FleshTree" value="М'ясисте дерево"/>
 	<entry name="Forest" value="Ліс"/>
 	<entry name="GravityField" value="Гравіполе"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="&lt;string name='Actions/ParticleBarrier'/&gt;"/>
 	<entry name="ParticleBarrierFlavor" value="&lt;string name='Actions/ParticleBarrierFlavor'/&gt;"/>
 	<entry name="PhaseGenerator" value="Фазовий генератор"/>
+	<entry name="ReaverDepot" value="Гараж Спустошувачів"/>
+	<entry name="ReaverDepotProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Кожні 20 ходів породжує Спустошувачів або підривників"/>
 	<entry name="RecyclingTanks" value="Чани переробки"/>
 	<entry name="River" value="Ріка"/>
 	<entry name="Road" value="Дорога"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="&lt;string name='Quests/MessageToTheStars/Intro2'/&gt;"/>
 	<entry name="SmokeScreen" value="Димова завіса"/>
 	<entry name="SmokeScreenFlavor" value="&lt;string name='Actions/SmokeLauncherFlavor'/&gt;"/>
+	<entry name="StormOfStorms" value="&lt;string name='Quests/StormOfStorms'/&gt;"/>
+	<entry name="StormOfStormsFlavor" value="&lt;string name='Quests/StormOfStorms/Intro2'/&gt;"/>
 	<entry name="SurvivorsBazaar" value="Ярмарок виживших"/>
 	<entry name="Swamp" value="Болото"/>
 	<entry name="TheFog" value="&lt;string name='Actions/TheFog'/&gt;"/>
@@ -79,6 +96,7 @@
 <entry name="AdvancedVoiceCacheFlavor" value="Дорогоцінні скарби акринів буквально сипалися з неба. Після знищення їхнього флоту ми щодня спостерігали падаючі з орбіти уламки — інколи припаси або вцілілі опинялися прямо на наших кордонах. Ці знахідки мали давати полегшення, але лише нагадували, що над нашими головами кружляє колосальне сміттєзвалище, здатне вбити нас градом уламків."/>
 <entry name="ArcDischargeFlavor" value="Знаєш, що це таке? ЗЕФОН всюди протягнув свої дроти, під будь-якою поверхнею — кілометри і кілометри мідного дроту. Ці дуги демонстрували лише крихту всієї сили ЗЕФОНа. Звичайно, ти міг спробувати використати цю потужність для своїх цілей — але і вороги теж могли."/>
 <entry name="ArcticFlavor" value="Крижанні простори старої Землі стали домом для білосніжних абклютів, миттєво пристосованих до полювання в новому середовищі. Ми перебували тут з однієї важливої причини: така місцевість забезпечувала наших технарів оптимальними умовами для досліджень. За їхніми словами, поєднання низької вологості, температури і чудової видимості значно підвищувало ефективність випробувань зброї. А може, їм просто подобалося мерзнути."/>
+<entry name="AtmosphericAnchorFlavor" value="Знову технології Годинників. Вони наполягали, що створили якорі лише для добування енергії в регіонах, де тепле повітря стикалося з холодним. Але я думаю, що вони погано знали своїх людей. Хтось у їхніх рядах розумів, що якорі можна використовувати як зброю... і цей хтось вирішив про це промовчати."/>
 <entry name="BleedFlavor" value="Щупальця Голосу прорвалися зі своєї реальності в нашу, відкривши двері божевіллю. Вони не мали потрапляти на нашу планету. Мерзенні слизькі відростки вириваються назовні, намагаючись схопити будь-що, будь то плоть чи метал. Навіть уві сні я не можу їх забути. Іноді — частіше за все в повню — я прокидаюся вночі в поту, все ще відчуваючи їхнє дотикання, що тягне мене під землю. Я вважав, що проблема у мене в голові. Але чув, як люди шепотіли в їдальні. Іншим теж сниться ця хватка."/>
 <entry name="BrushFlavor" value="На лузі повно дрібних тварин, що харчуються рослинами, більших хижаків, що полюють на цих тварин, і так далі. Якби в нас був час, ми б акуратніше вписалися в цей цикл. Але нам довелося порушити його, захопити. На голодний шлунок не повоюєш. Нам потрібно було чимось набивати животи."/>
 <entry name="CicadasFlavor" value="Слухай, не я встановлюю правила. Комахи поживні, у них повно білка. Дехто з нас до війни жив у країнах, де цикад постійно вживали в їжу. Ми ловили їх, це допомагало з провізією, а у незадоволених завжди був вибір — або голодувати, або ковтнути свою гордість."/>
@@ -97,7 +115,8 @@
 <entry name="MicrochipFabricatorFlavor" value="У виробництві мікрочипів ЗЕФОН покладався на децентралізовану мережу. Був навіть період, коли ми думали, що захоплення достатньої кількості цих фабрикаторів приверне його увагу. Але яка йому справа? Якщо одна фабрика вийде з ладу, нічого не заважає йому побудувати іншу на безпечній відстані."/>
 <entry name="NuclearFalloutFlavor" value="М-да. Усі говорять про те, як ЗЕФОН і акрини спустошують планету, але... ми ж самі зазіхали на апокаліпсис, чи не так? Люди, навіть не встигнувши дістатися орбіти, вже довели цивілізацію до межі забуття. Пройшли покоління, але ми досі користуємося їхньою зброєю і змушуємо Землю горіти жаром тисяч сонць."/>
 <entry name="PhaseGeneratorFlavor" value="Коли я вперше зустрів одну з Годинників, вона обслуговувала такий генератор. Ми... сперечалися, хто має контролювати його. «Ви тут, щоб перемогти у війні. Я тут, щоб запобігти наступній», — сказала вона. Ми уклали угоду. Ми віддаємо частину енергії Годинникам, а вони активують поле для захисту наших людей."/>
-<entry name="RecyclingTanksFlavor" value="Мерзенна гидота. Культи Голосу, що волочили жалюгідне існування в пустках, будували ці заводи, щоб добувати більше водоростей. Не треба створювати кладовища, якщо можна просто скидати тіла та нутрощі в отруйну яму, яка сочиться противною м’ясною жижею. У таких місцях я намагався не знімати фільтрувальну маску."/>
+<entry name="ReaverDepotFlavor" value="Якось ми з Нащадком вступили у сутичку, що тривала багато місяців... Прямо посеред території, яка переходила з рук у руки, була одна база Спустошувачів. Кожні кілька тижнів один із нас переходив у наступ і оголошував її своєю, і щоразу Спустошувачі миттєво переходили на інший бік. Вірність сама по собі ніколи не є гарантією."/>
+<entry name="RecyclingTanksFlavor" value="Мерзенна гидота. Культи Голосу, що волочили жалюгідне існування в пустках, будували ці заводи, щоб добувати більше водоростей. Не треба створювати кладовища, якщо можна просто скидати тіла та нутрощі в отруйну яму, яка сочиться противною м'ясною жижею. У таких місцях я намагався не знімати фільтрувальну маску."/>
 <entry name="RiverFlavor" value="Кожен хижак на Землі знав, що здобич найуразливіша на водопої. А здобич знала, що на водопої на неї завжди можуть напасти. Краще залишатися хижаком, але якщо раптом станеш здобиччю, варто пам’ятати, що переправа через потік води сповільнить більшість мисливців."/>
 <entry name="RoadFlavor" value="В ніч, коли ми збудували першу дорогу, я стрибнув у «Колісницю» і мчав багато кілометрів. Витратив купу пального — і все виключно для того, щоб відчути вітер у волоссі, як колеса ковзають по асфальту на крутих поворотах. Я не хотів повертатися на війну. Я лише хотів, щоб дорога не закінчувалася."/>
 <entry name="RocksFlavor" value="Добыча каменів із надр землі — один із перших ознак цивілізації. Шкода, що в таких регіонах будувати цивілізацію було важче. Я тішився, що не доводилося тягати камені, як робили наші далекі предки, але охорона вантажівок дорогою до рудників і назад завжди нервувала."/>

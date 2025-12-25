@@ -80,6 +80,7 @@
 <entry name="ConstructRegionDensity4" value="Висока"/>
 <entry name="ConstructRegionDensity5" value="Дуже висока"/>
 <entry name="DLC1" value="DLC «Потворна і Безцільний»"/>
+<entry name="DLC2" value="DLC «Платиновий і Незліченний»"/>
 <entry name="DesertRegionDensity" value="Щільність регіонів: пустеля"/>
 <entry name="DesertRegionDensity0" value="Немає"/>
 <entry name="DesertRegionDensity1" value="Дуже низька"/>
@@ -176,22 +177,47 @@
 <entry name="MaximumTechnologyTier8" value="8"/>
 <entry name="MaximumTechnologyTier9" value="9"/>
 <entry name="MaximumTechnologyTier10" value="10"/>
+<entry name="Mutators/AreYouTheGreatSpeaker" value="&lt;string name='Settings/Achievements/AreYouTheGreatSpeaker'/&gt;"/>
 <entry name="Mutators/AreYouTheGreatSpeakerHint" value="Подвоєний ефект від лояльності."/>
-<entry name="Mutators/CanLoveBeMoralHint" value="Знищення бойового духу юніта призводить до його захоплення."/>
+<entry name="Mutators/CanAJourneyBeAnEndInItself" value="&lt;string name='Settings/Achievements/CanAJourneyBeAnEndInItself'/&gt;"/>
 <entry name="Mutators/CanAJourneyBeAnEndInItselfHint" value="Юніти мають додаткову одиницю дії."/>
+<entry name="Mutators/CanAnythingRedeemThisHorror" value="&lt;string name='Settings/Achievements/CanAnythingRedeemThisHorror'/&gt;"/>
 <entry name="Mutators/CanAnythingRedeemThisHorrorHint" value="Купівля юнітів у неігрових персонажів на 50% дешевша."/>
+<entry name="Mutators/CanFreeWillExist" value="&lt;string name='Settings/Achievements/CanFreeWillExist'/&gt;"/>
 <entry name="Mutators/CanFreeWillExistHint" value="Шкода від зброї випадково змінюється в межах від -20% до +20%."/>
+<entry name="Mutators/CanLoveBeMoral" value="&lt;string name='Settings/Achievements/CanLoveBeMoral'/&gt;"/>
+<entry name="Mutators/CanLoveBeMoralHint" value="Знищення бойового духу юніта призводить до його захоплення."/>
+<entry name="Mutators/DidHonorBalanceGreed" value="&lt;string name='Settings/Achievements/DidHonorBalanceGreed'/&gt;"/>
 <entry name="Mutators/DidHonorBalanceGreedHint" value="Скасування будь-якої угоди назавжди надає властивість «Підступність»."/>
+<entry name="Mutators/DidIDoomMyFriends" value="&lt;string name='Settings/Achievements/DidIDoomMyFriends'/&gt;"/>
+<entry name="Mutators/DidIDoomMyFriendsHint" value="Клітини поза зоною видимості щоходу приховуються туманом."/>
+<entry name="Mutators/DidMyDeathMeanAnything" value="&lt;string name='Settings/Achievements/DidMyDeathMeanAnything'/&gt;"/>
 <entry name="Mutators/DidMyDeathMeanAnythingHint" value="Смерть удвічі сильніше впливає на бойовий дух."/>
-<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="НЕ-нейтральні юніти втрачають 5% здоров’я щоходу поза союзними містами або форпостами."/>
+<entry name="Mutators/DidOurSacrificeMeanNothing" value="&lt;string name='Settings/Achievements/DidOurSacrificeMeanNothing'/&gt;"/>
+<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="НЕ-нейтральні юніти втрачають 5% здоров'я щоходу поза союзними містами або форпостами."/>
+<entry name="Mutators/DidOurUnificationMatter" value="&lt;string name='Settings/Achievements/DidOurUnificationMatter'/&gt;"/>
 <entry name="Mutators/DidOurUnificationMatterHint" value="Біологічні НЕ-мутанти після загибелі перетворюються на нейтральних мутантів. Спрацьовує після інших ефектів смерті."/>
+<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="&lt;string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/&gt;"/>
+<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="Подвоєне накопичення досвіду."/>
+<entry name="Mutators/MustWeSufferSo" value="&lt;string name='Settings/Achievements/MustWeSufferSo'/&gt;"/>
 <entry name="Mutators/MustWeSufferSoHint" value="На початку гри вже досліджено наукову лабораторію, голотеатр, житловий блок, будкомплекс і інженера."/>
+<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="&lt;string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/&gt;"/>
+<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Накопичені ресурси щоходу отримують приріст у розмірі 10%."/>
+<entry name="Mutators/WasITrulyHuman" value="&lt;string name='Settings/Achievements/WasITrulyHuman'/&gt;"/>
 <entry name="Mutators/WasITrulyHumanHint" value="Шкода розподіляється між усіма суміжними союзниками цілі."/>
+<entry name="Mutators/WasPerfectionWorthIt" value="&lt;string name='Settings/Achievements/WasPerfectionWorthIt'/&gt;"/>
 <entry name="Mutators/WasPerfectionWorthItHint" value="Повторювані юніти коштують на 20% більше ресурсів."/>
+<entry name="Mutators/WasZephonTrulyAlive" value="&lt;string name='Settings/Achievements/WasZephonTrulyAlive'/&gt;"/>
 <entry name="Mutators/WasZephonTrulyAliveHint" value="Необмежений радіус приєднання клітин."/>
+<entry name="Mutators/WhatAmITruly" value="&lt;string name='Settings/Achievements/WhatAmITruly'/&gt;"/>
+<entry name="Mutators/WhatAmITrulyHint" value="Подвоєна швидкість виробництва юнітів."/>
+<entry name="Mutators/WhatAreYou" value="&lt;string name='Settings/Achievements/WhatAreYou'/&gt;"/>
 <entry name="Mutators/WhatAreYouHint" value="Можна досліджувати лише технології своєї схильності або нейтральні."/>
+<entry name="Mutators/WhatPriceForLiberty" value="&lt;string name='Settings/Achievements/WhatPriceForLiberty'/&gt;"/>
 <entry name="Mutators/WhatPriceForLibertyHint" value="Лідери мають схильність до всіх технологій."/>
+<entry name="Mutators/WhereAreWe" value="&lt;string name='Settings/Achievements/WhereAreWe'/&gt;"/>
 <entry name="Mutators/WhereAreWeHint" value="Усі клітини відкриті з самого початку."/>
+<entry name="Mutators/WhyDidHumanityDieAlone" value="&lt;string name='Settings/Achievements/WhyDidHumanityDieAlone'/&gt;"/>
 <entry name="Mutators/WhyDidHumanityDieAloneHint" value="Вбивства знижують бойовий дух."/>
 
 <entry name="Pace" value="Швидкість гри"/>
@@ -364,5 +390,7 @@
 <entry name="ZephonCityDensity3" value="Середня"/>
 <entry name="ZephonCityDensity4" value="Висока"/>
 <entry name="ZephonCityDensity5" value="Дуже висока"/>
+<entry name="WorldParameters" value="Параметри світу"/>
+<entry name="WorldParametersHint" value="Зашифрований рядок з усіма параметрами світу, включно з мутаторами, але без гравців.&lt;br/&gt;&lt;br/&gt;Дозволяє поділитися налаштуваннями світу з іншими або зберегти їх на потім."/>
 
 </language>

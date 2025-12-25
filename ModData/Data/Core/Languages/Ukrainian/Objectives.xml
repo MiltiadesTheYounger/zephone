@@ -8,20 +8,31 @@
     <entry name="AccumulateEnergy" value="Накопичити енергію&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="AccumulateMinerals" value="Накопичити мінерали&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="AccumulateResearch" value="Накопичити дослідження&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="AccumulateResearchWithTurnLimit" value="Накопичити дослідження за %3% х.&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="AccumulateSingularityCores" value="Накопичити ядра сингулярності&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="AccumulateSingularityCoresWithTurnLimit" value="Накопичити ядра сингулярності за %3% х.&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="ArrangeInventory" value="Правильно розташувати всі 6 фрагментів логотипа І.К.А.Р. в екіпіруванні героя"/>
     <entry name="CaptureErelimPriest" value="Захопити ерелима-жерця в пустці"/>
     <entry name="CaptureScientist" value="Захопити науковця в пустці"/>
     <entry name="CaptureUnit" value="Захопити: %2%"/>
+    <entry name="ConstructBarracks" value="Побудувати казарми"/>
+    <entry name="CreateCaitiffWithPerfectForever" value="Створити юніт &lt;string name='Units/Caitiff'/&gt;, використовуючи &lt;string name='Actions/PerfectForever'/&gt;&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="DefeatHeartlessArtificer" value="Перемогти: &lt;string name='Factions/HeartlessArtificer'/&gt;"/>
+    <entry name="EstablishContacts" value="Налагодити контакти&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="ExecuteDiplomaticActions" value="Виконати дипломатичні дії&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="ExecuteOrder" value="Виконати наказ: %1%"/>
     <entry name="ExecuteOrderWithHonorableAristocrat" value="Виконати наказ: %1%, використовуючи юніт &lt;string name='Factions/HonorableAristocrat'/&gt;"/>
     <entry name="ExecuteOrderWithEngineers" value="Виконати наказ: %1%, використовуючи юніт &lt;string name='Units/Engineer'/&gt;"/>
     <entry name="ExecuteOrderWithEngineersWithinTurns" value="Виконати наказ: %1%, використовуючи юніт &lt;string name='Units/Engineer'/&gt; за %4% х."/>
     <entry name="ExecuteOrderWithinTurns" value="Виконати наказ: %1% за %4% х."/>
+    <entry name="ExecutePlayerAbilityProductRecall" value="Використати здібність &lt;string name='Actions/JustShipItUpgrade2'/&gt; (%2%/%3%)"/>
     <entry name="ExecuteQuantumReflector" value="Забрати й використати: %1%, використовуючи героя"/>
+    <entry name="ExecuteTimeOutOfJoint" value="Використати &lt;string name='Actions/TimeOutOfJoint'/&gt; (%2%/%3%)"/>
     <entry name="FightChieftessForReyndverra" value="Битися з Дикаркою за право володіти Рейндверрою"/>
+    <entry name="FormTradeAgreementWithNPC" value="Укласти торговельну угоду з неігровим персонажем"/>
+    <entry name="FoundCity" value="Заснувати місто"/>
     <entry name="KeepAcrinTitanAlive" value="Юніт &lt;string name='Units/AcrinTitan'/&gt; не повинен загинути&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="KeepDeformityAlive" value="Юніт &lt;string name='Units/Deformity'/&gt; не повинен загинути&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="KeepUnitAlive" value="Юніт %2% не повинен загинути"/>
     <entry name="KeepZephonTitanAlive" value="Юніт &lt;string name='Units/ZephonTitan'/&gt; не повинен загинути&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="KillAcrinTitan" value="Знищити: &lt;string name='Units/AcrinTitan'/&gt;&lt;nbsp/&gt;(%1%/%2%)"/>
@@ -36,9 +47,11 @@
     <entry name="KillBrynnAndForces" value="Знищити Бринна та його війська"/>
     <entry name="KillCalem" value="Знищити Келема Воршола та його банду за %2% х."/>
     <entry name="KillCamp" value="Знищити табір"/>
+    <entry name="KillCityInTheClouds" value="Знищити місто в хмарах"/>
     <entry name="KillCultists" value="Знищити культістів за %2% х."/>
     <entry name="KillDreadPearlman" value="Знищити фортецю Дред-Перлмана за %2% х."/>
     <entry name="KillIronFeather" value="Вигнати СталевеПеро з вашої свідомості"/>
+    <entry name="KillLaborUnionUnits" value="Перебити підбурювачів з профспілки"/>
     <entry name="KillMarkedUnit" value="Знищити: %2%"/>
     <entry name="KillMech" value="Знищити патрульного робота"/>
     <entry name="KillMonster" value="Знищити чудовисько"/>
@@ -46,9 +59,12 @@
     <entry name="KillOrin" value="Знищити: &lt;string name='Units/Orin'/&gt;"/>
     <entry name="KillReaverCamp" value="Знищити табір Спустошувачів"/>
     <entry name="KillServerDefenders" value="Знищити захисників серверної ферми"/>
+    <entry name="KillStormhearthFacility" value="Знищити комплекс «Вогнище бурі»"/>
     <entry name="KillTheFalseSpeaker" value="Знищити: %2%"/>
     <entry name="KillTheTerror" value="Знищити: &lt;string name='Units/TheTerror'/&gt;"/>
     <entry name="KillUnit" value="Знищити ворожі юніти&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="KillUrsaMajorDefenders" value="Знищити захисників «Великої ведмедиці» за %2% х."/>
+    <entry name="KillVillage" value="Знищити селища (%1%/%2%)"/>
     <entry name="KillWardenWithMercenaries" value="Знищити: %2%, використовуючи юніт &lt;string name='Units/HonorableAristocratMissileTeam'/&gt;"/>
     <entry name="KillWithUnit" value="Знищити ворогів, використовуючи: %3%&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="KillYourHusband" value="Знищити чоловіка"/>
@@ -59,6 +75,7 @@
     <entry name="RecoverHusband" value="Повернути собі чоловіка"/>
     <entry name="RepairUnit" value="Полагодити: %2%"/>
     <entry name="ResistVirus" value="Протистояти вірусу %2% х."/>
+    <entry name="SendHeroUnitToFight" value="Відправити героя битися на арені"/>
     <entry name="SurviveAugursMonsters" value="Вижити в бою з ордою Авгура"/>
     <entry name="SurviveCircusPerformers" value="Вижити в бою з артистами цирку «Камбіон»"/>
     <entry name="SurviveDrugAddictedReavers" value="Вижити в бою з наркозалежними Спустошувачами"/>
@@ -70,6 +87,7 @@
     <entry name="SurviveRivalForces" value="Вижити в бою з ворожими силами"/>
     <entry name="SurviveSplenetics" value="Вижити в бою з «Жовчними»"/>
     <entry name="SurviveUnknownAssailants" value="Вижити в бою з невідомими нападниками"/>
+    <entry name="SurviveVoiceInvasion" value="Пережити вторгнення Голосу"/>
     <entry name="SurviveZephonAssaultForce" value="Вижити в бою з силами ЗЕФОНА"/>
     <entry name="VisitAugur" value="Розшукати Скверного Авгура на сусідніх заставах&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="VisitBanditKing" value="Привести війська до табору ватажка бандитів"/>
@@ -83,14 +101,21 @@
     <entry name="VisitOracleShardAndClearEnemies" value="Підійти до вузла Оракула та знищити ворогів"/>
     <entry name="VisitPassage" value="Знайти Гарсикський прохід&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="VisitRitualSite" value="Привести війська до місця ритуалу"/>
+    <entry name="VisitTileWithDeformity" value="Привести до клітинки &lt;string name='Units/Deformity'/&gt;"/>
     <entry name="VisitTileWithErelimPriest" value="Привести до клітинки юніт &lt;string name='Units/ErelimPriest'/&gt;"/>
+    <entry name="VisitTileWithFlyingUnit" value="Привести до клітинки літаючий юніт, щоб знайти місто&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="VisitTileWithGroupSize1" value="Привести до клітинки юніт з розміром групи 1&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="VisitTileWithGroupSize3" value="Привести до клітинки юніт з розміром групи 3&lt;nbsp/&gt;(%1%/%2%)"/>
+    <entry name="VisitTileWithGroupSize6" value="Привести до клітинки юніт з розміром групи 6&lt;nbsp/&gt;(%1%/%2%)"/>
     <entry name="VisitTileWithHammerheadAndClearEnemies" value="Привести до клітинок юніт &lt;string name='Units/Hammerhead'/&gt; та знищити ворогів&lt;nbsp/&gt;(%3%/%2%)"/>
     <entry name="VisitTileWithHollowWarlord" value="Привести до клітинки юніт &lt;string name='Factions/HollowWarlord'/&gt;"/>
     <entry name="VisitTileWithHonorableAristocrat" value="Доставити припаси, використовуючи юніт &lt;string name='Factions/HonorableAristocrat'/&gt;"/>
+    <entry name="VisitTileWithIokSwarm" value="Привести до клітинки юніт &lt;string name='Units/IokSwarm'/&gt;"/>
     <entry name="VisitTileWithJackal" value="Привести до клітинки юніт &lt;string name='Units/TheJackal'/&gt;"/>
     <entry name="VisitTileWithJezina" value="Привести до клітинки юніт &lt;string name='Units/Jezina'/&gt;"/>
     <entry name="VisitTileWithJezinaAndClearEnemies" value="Привести до клітинки юніт &lt;string name='Units/Jezina'/&gt; та знищити ворогів"/>
     <entry name="VisitTileWithLandanGrahamAndClearEnemies" value="Привести до клітинки юніт &lt;string name='Units/LandanGraham'/&gt; та знищити ворогів"/>
+    <entry name="VisitTileWithPhenarisHunter" value="Привести до клітинки юніт &lt;string name='Units/PhenarisHunter'/&gt;"/>
     <entry name="VisitTileWithResourceTransport" value="Привести до клітинки юніт &lt;string name='Units/ResourceTransport'/&gt; за %4% х."/>
     <entry name="WaitForFinalBattle" value="Очікувати %2% х., перш ніж обрати сторону для фінального бою"/>
     <entry name="WaitForGlandHarvest" value="Очікувати %2% х., поки триває збір залоз ваших людей"/>

@@ -73,6 +73,7 @@
 	<entry name="ConsumesAction" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt; Витрачає дію"/>
 	<entry name="ConsumesMovement" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt; Витрачає переміщення"/>
 	<entry name="Continue" value="Продовжити"/>
+	<entry name="ControllerDifficultyWarningHint" value="Вимикає багато досягнень за перемогу."/>
 	<entry name="Cooldown" value="Перезарядка"/>
 	<entry name="Copy" value="Копіювати"/>
 	<entry name="CopyInviteCode" value="Копіювати код запрошення"/>
@@ -104,9 +105,11 @@
 	<entry name="DisableTips" value="Вимкнути поради"/>
 	<entry name="DisableTipsHint" value="Не показувати спливаючі поради. Їх можна знову увімкнути в налаштуваннях."/>
 	<entry name="DismantleBuildingHint" value="Знести найменш продуктивну будівлю цього типу.&lt;br/&gt;&lt;br/&gt;Щоб знести конкретну будівлю, взаємодійте з її слотом на карті."/>
+	<entry name="DismantleOperationHint" value="ПКМ — знести 1."/>
 	<entry name="Disconnected" value="Від'єднано"/>
 	<entry name="DismissReports" value="Прибрати всі (%1%)"/>
 	<entry name="DragToChangeLoadOrder" value="Перетягуйте, щоб змінити пріоритет завантаження."/>
+	<entry name="DuplicateItemHint" value="Ефекти пасивних предметів, що повторюються, не складаються."/>
 	<entry name="Economy" value="Економіка"/>
 	<entry name="Elite" value="Еліта"/>
 	<entry name="EmptyBuildingSlotHint" value="Порожній слот для будівлі."/>
@@ -202,6 +205,7 @@
 	<entry name="Multiplayer" value="Мультиплеєр"/>
 	<entry name="Mutators" value="Мутатори"/>
 	<entry name="MutatorsHint" value="&lt;style name='Title'/&gt;Мутатори [&lt;control name='LobbyMutators'/&gt;]"/>
+	<entry name="NPCAdvancementTooLow" value="Рівень розвитку неігрового персонажа занадто низький."/>
 	<entry name="Name" value="Ім'я"/>
 	<entry name="New" value="Нова"/>
 	<entry name="NewGame" value="Нова гра"/>
@@ -313,6 +317,7 @@
 	<entry name="Rewards" value="Нагороди"/>
 	<entry name="RewardsReceived" value="Отримано нагороди"/>
 	<entry name="Queued" value="У черзі."/>
+	<entry name="QuestCycleBetweenHighlightedTilesHint" value="ПКМ — перехід між підсвіченими клітинками."/>
 	<entry name="QuickSelectLeaderHint" value="Швидкий вибір лідера."/>
 	<entry name="Quit" value="Вийти"/>
 	<entry name="Save" value="Зберегти"/>
