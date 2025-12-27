@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="AbkhanBite" value="阿布卡罕之噬"/>
 	<entry name="AbkluthBite" value="阿布卡鲁斯啃咬"/>
@@ -20,15 +19,22 @@
 	<entry name="BioAcidSpray" value="生物酸液喷吐"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
+	<entry name="BladedLabrum" value="利刃骨环"/>
 	<entry name="Bleed" value="<string name='Features/Bleed'/>"/>
 	<entry name="BleedFlavor" value="<string name='Features/BleedFlavor'/>"/>
+	<entry name="BleedIncitation" value="鲜血激涌"/>
 	<entry name="BlestCannon" value="祝佑加农炮"/>
+	<entry name="BreacherShotgunShell" value="突破者霰弹枪（霰弹）"/>
+	<entry name="BreacherShotgunShellFlavor" value="<string name='Weapons/BreacherShotgunFlavor'/>"/>
+	<entry name="BreacherShotgunSlug" value="突破者霰弹枪（独头弹）"/>
+	<entry name="BreacherShotgunSlugFlavor" value="<string name='Weapons/BreacherShotgunFlavor'/>"/>
 	<entry name="Bombardment" value="<string name='Actions/Bombardment'/>"/>
 	<entry name="BombardmentFlavor" value="<string name='Actions/BombardmentFlavor'/>"/>
 	<entry name="Castigate" value="惩戒"/>
 	<entry name="CensureOfTheElect" value="神选叱责"/>
 	<entry name="CircularSaw" value="圆锯"/>
 	<entry name="CrlasGambit" value="柯·拉之命局"/>
+	<entry name="CrushSequence" value="粉碎序列"/>
 	<entry name="CrodeusBite" value="绞鳄之噬"/>
 	<entry name="CycloneAutocannon" value="旋风自动炮"/>
 	<entry name="Deathshriek" value="<string name='Traits/Deathshriek'/>"/>
@@ -41,7 +47,9 @@
 	<entry name="DustStorm" value="<string name='Features/DustStorm'/>"/>
 	<entry name="DustStormFlavor" value="<string name='Features/DustStormFlavor'/>"/>
 	<entry name="DragoonSpear" value="龙骑兵长枪"/>
+	<entry name="EarthlyRuin" value="地动山摇"/>
 	<entry name="EMP" value="EMP"/>
+	<entry name="EMPProperties" value="<icon texture='GUI/Bullet'/>可用于对抗敌方非泰坦机械单位"/>
 	<entry name="ElysianBattery" value="乐土重炮"/>
 	<entry name="ErelimBlades" value="埃勒姆之刃"/>
 	<entry name="ExoskeletonFist" value="外骨骼剑"/>
@@ -53,6 +61,7 @@
 	<entry name="Flamethrower" value="火焰喷射器"/>
 	<entry name="FragmentationGrenade" value="破片手雷"/>
 	<entry name="FrostBreath" value="冰霜吐息"/>
+	<entry name="FusedBillhooks" value="跗骨钩镰"/>
 	<entry name="GalgalimMissileBattery" value="座天使导弹轰炸"/>
 	<entry name="GaussAutocannon" value="高斯自动炮"/>
 	<entry name="GaussAutocannonOvercharged" value="高斯自动炮（过载）"/>
@@ -77,6 +86,7 @@
 	<entry name="GravityField" value="<string name='Features/GravityField'/>"/>
 	<entry name="GravityFieldFlavor" value="<string name='Features/GravityFieldFlavor'/>"/>
 	<entry name="GrenadeLauncher" value="榴弹发射器"/>
+	<entry name="GrenadePod" value="榴弹仓"/>
 	<entry name="HadesCannon" value="黑帝斯火炮"/>
 	<entry name="HeavyMachineGun" value="重机枪"/>
 	<entry name="HolyInferno" value="<string name='Actions/HolyInferno'/>"/>
@@ -94,13 +104,18 @@
 	<entry name="IndiscriminateConsumption" value="吞噬万物"/>
 	<entry name="InterceptorMissile" value="拦截机飞弹"/>
 	<entry name="IokBile" value="洛克兽胆汁"/>
+	<entry name="IonDischarge" value="<string name='Actions/IonDischarge'/>"/>
+	<entry name="IonDischargeFlavor" value="<string name='Actions/IonDischargeFlavor'/>"/>
 	<entry name="JaggedCradle" value="锯齿摇篮"/>
+	<entry name="Katana" value="武士刀"/>
 	<entry name="LandanGrahamsDisintegrator" value="兰登·格拉汉姆的崩解炮"/>
 	<entry name="LandanGrahamsDisintegratorOvercharged" value="兰登·格拉汉姆的崩解炮（过载）"/>
 	<entry name="LandanGrahamsDisintegratorOverchargedFlavor" value="<string name='Weapons/LandanGrahamsDisintegratorFlavor'/>"/>
+	<entry name="LaserArray" value="激光矩阵"/>
 	<entry name="LarvaeCannon" value="虫炮"/>
 	<entry name="LaserCannon" value="激光炮"/>
 	<entry name="LaserRifle" value="激光枪"/>
+	<entry name="LeechingTouch" value="汲取之触"/>
 	<entry name="Machete" value="砍刀"/>
 	<entry name="MangledChelae" value="残缺之螯"/>
 	<entry name="MindBreak" value="心灵崩溃"/>
@@ -124,12 +139,15 @@
 	<entry name="PlasmaCannon" value="等离子大炮"/>
 	<entry name="PlasmaGun" value="电浆炮"/>
 	<entry name="PowerFist" value="动力拳"/>
+	<entry name="Quakecaller" value="<string name='Items/Quakecaller'/>"/>
+	<entry name="QuakecallerFlavor" value="<string name='Items/QuakecallerFlavor'/>"/>
 	<entry name="ResonatingScythes" value="共振镰刀爪"/>
 	<entry name="Retort" value="驳斥者"/>
 	<entry name="Reyndverra" value="<string name='Items/Reyndverra'/>"/>
 	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
 	<entry name="SanctifiedTrephine" value="祝圣环锯"/>
 	<entry name="SaturationSystem" value="覆盖式轰炸系统"/>
+	<entry name="Scissorhand" value="剪刀手"/>
 	<entry name="SeedOfExtinction" value="<string name='Actions/SeedOfExtinction'/>"/>
 	<entry name="SeedOfExtinctionFlavor" value="<string name='Actions/SeedOfExtinctionFlavor'/>"/>
 	<entry name="Shredder" value="粉碎者"/>
@@ -144,7 +162,10 @@
 	<entry name="Spjut" value="冈格尼尔"/>
 	<entry name="StickyFoam" value="黏性泡沫"/>
 	<entry name="StickyFoamFlavor" value="<string name='Actions/StickyFoamFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="Subjugator" value="压制者"/>
+	<entry name="SubmachineGun" value="冲锋枪"/>
 	<entry name="SuicideDrones" value="<string name='Items/SuicideDrones'/>"/>
 	<entry name="SuicideDronesFlavor" value="<string name='Items/SuicideDronesFlavor'/>"/>
 	<entry name="SurthodaisHand" value="苏尔索戴之手"/>
@@ -154,6 +175,7 @@
 	<entry name="TacticalNuclearMissileFlavor" value="<string name='Actions/TacticalNuclearMissileFlavor'/>"/>
 	<entry name="TheFog" value="<string name='Features/TheFog'/>"/>
 	<entry name="TheFogFlavor" value="<string name='Features/TheFogFlavor'/>"/>
+	<entry name="ThricefoldHunger" value="三重饥饿"/>
 	<entry name="ValkyrieAutocannon" value="瓦尔基里自动炮"/>
 	<entry name="VorodaiProselyte" value="<string name='Items/VorodaiProselyte'/>"/>
 	<entry name="VorodaiProselyteFlavor" value="<string name='Items/VorodaiProselyteFlavor'/>"/>
@@ -161,7 +183,7 @@
 	<entry name="WitheringBreathFlavor" value="<string name='Actions/WitheringBreathFlavor'/>"/>
 	<entry name="WrathOfTheLeviathan" value="利维坦之怒"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanBiteFlavor" value="亲眼目睹一头阿布卡罕轻松咬穿你正在驾驶的坦克时，你的大脑会做出一种很可笑的反应。按理说你应该立刻起身逃跑，但与此同时，你也有可能开始纳闷，不知道拥有这种力量的怪物在自己原本的母星上是以什么生物为食的。顺着这个思路想下去，你又会开始思考厄金人会不会把那些生物也带到了地球。也许此刻它们就飘浮在轨道上的舰队残骸中，等待着被人唤醒。"/>
 	<entry name="AbkluthBiteFlavor" value="我身上仍然能够看见第一次被阿布卡鲁斯咬伤时留下的疤痕。当时它咬穿了我的胳膊，伤口愈合之后，那里就留下了能够与它的牙齿一一对应的四条直线。我并没有让医疗兵帮助我清理掉疤痕。因为我想要提醒自己，这就是那些外星生物的可怕杀伤力。"/>
 	<entry name="AbyssalMiasmaFlavor" value="当时我们已经压制住了泰坦。我知道我们能够给它送去致命一击，但我们就是慢了那么一步！这片刻的喘息使得它重新站稳脚跟，并立刻喷射出了铺天盖地的飞虫。我们头顶的天空立刻出现了无数的黑影。那些虫子活生生吃掉了我们的炮手的眼睛。接着它们又钻进了我们的喉咙。虫子分泌的黏液堵住了肺与气管，人们纷纷窒息而死……"/>
@@ -177,12 +199,16 @@
 	<entry name="BanefulOmenFlavor" value="无论你拥有多少强大的武器，秘音都能找到用于克制的诅咒。曾经有一段短暂的时间里面，我们会利用白刃战轻松解决大量的秘音教徒，在当时，我们觉得自己的力量已经超越了他们的扭曲信仰。但是后来柯·拉出现了，只需要一声轻叹，怪物就可以抽干我们全身的力气。"/>
 	<entry name="BattleCannonFlavor" value="一开始，有一位技师极力反对设计这种火炮。她警告我们说，“装甲战争只会带来永无止境的血雨腥风。”她确实没有说错。所以我们决定将她调到农业技术部。就让善良的人们去规划一个更美好的世界吧。对于其他人来说，我们的任务就是确保他们能够活着见证那一天的到来。"/>
 	<entry name="BioAcidSprayFlavor" value="在进食之前，阿及利亚虫人会利用酸液来提前消化食物。不过我觉得，也许他们并不需要那么做。有可能他们单纯只是喜欢那种腐烂的味道。每次一想到这件事，我就感觉胃里翻江倒海。曾经有一次我亲眼目睹了他们的进食。之后我好几天都恶心得吃不下东西。"/>
+	<entry name="BladedLabrumFlavor" value="为了弄清楚为什么不管倾斜了多少枪林弹雨，这种巨型蠕虫就是不死，我们不得不找来了一位该死的*生物学家*。“不要再派机甲和坦克去对付它了”，在审查过我们回收的头盔摄像头录像后，生物学家这么说道。“它在*吃*金属。看见那些獠牙滴落的酸液没有，一旦撕开你们的装甲，它就会开始消化吸收。”"/>
+	<entry name="BleedIncitationFlavor" value="谢天谢地医疗兵及时找到了我。我当时太过大意，以为自己能够轻松应对异龙骑士的攻击。结果就是我被打倒在地，鲜血像汗水一样从我体内渗了出来。我问医疗兵有没有见过像这样的伤势。“没有，但是如今我早就见怪不怪了。”"/>
 	<entry name="BlestCannonFlavor" value="“祝佑？”谁会去祝福这种武器？教长总是反复宣扬着“天上的大人”，但它们从不愿意告诉我们其他细节。除了它们以外，也没有其他机器会去膜拜那种神秘的赛博神祇。说实话我并不喜欢那些要求人们臣服于某位神秘莫测的神明的机器……"/>
+	<entry name="BreacherShotgunFlavor" value="那孩子几乎可以说是在食堂里上蹿下跳。“我直接发动火箭冲了过去，然后砰的一声就灭了以欣！但这时候又有一个座天使之球朝我滚了过来，我立刻切换弹药，然后砰的一生给它身上打了个大洞！但之后又有一队阿纳西姆执行者过来了，所以我又切换了弹药，然后砰砰砰！”几天之后，男孩无视了撤退指令，一个亚兰潜行者直接击中了猎户的驾驶舱并一发打爆了他的脑袋。"/>
 	<entry name="CastigateFlavor" value="难道秘音的力量真的和小时候奶奶不厌其烦跟我讲述的传说一样。难道教徒们真的知道世间万物的“真名实姓“？当一头巨大的怪物大喊着无人知晓的语言并朝你发起冲锋，难道是它已经掌握了你真正的名字？它知道“你”究竟是谁？还是说只是因为某种晦涩的生物构造，才使得它能够凭空让你的身体感受到无边的痛苦？"/>
 	<entry name="CensureOfTheElectFlavor" value="被安排到尸体掩埋任务的平民们根本不知道该把那些怪物造成的创伤归类为钝伤还是撕裂伤。其实要看打中你的是它们肢体末端的锋利肉片，还是位于中间段的粗大肉块。说实话，我当初参军的时候也压根没想到这世上还会有“锋利肉片”这种概念……"/>
 	<entry name="CircularSawFlavor" value="这些安装在滚轴末端的饥饿利齿已经迫不及待地想要吞噬金属与血肉。虽然这种东西的杀伤效率并不算高，但却会受害者带来难以忍受的痛苦。如果你在黑夜之中听见了锯片转动的尖锐声响，那就说明黑暗之中……躲藏着早已饥饿难忍的敌人。"/>
 	<entry name="CrlasGambitFlavor" value="柯·拉的门徒们似乎并不需要像我们一样遵守现实法则。每次呼唤柯·拉的意志的时候，它们中的一位成员就会应声倒下。照理说任何智慧生物都会顾虑自己的生命安全。但这些怪物信仰着某种超越一切的存在，而且它们会心甘情愿用自己去换取敌人的死亡。"/>
 	<entry name="CrodeusBiteFlavor" value="刚发现有一头绞鳄正在朝我们俯冲，我便立刻大声命令海盗船的其他乘组人员撤离。确保其他人都已经安全之后，我便拿起降落伞冲向了舱门，但还是晚了一步，绞鳄的速度太快了。巨大而且尖锐的牙齿直接撕裂了机身并压断了我的腿。当它再次松口的时候，我便坠向了地面，回头望去，无数金属残骸正从黑洞一般的深渊巨口中落下。"/>
+	<entry name="CrushSequenceFlavor" value="要是座天使之球发现了你的小队，那你们临死之前见到的画面将是铺天盖地的钢铁与激光之墙涌向自己。我是从一支阵亡小队身上回收的录像中看见的。当我意识到摄像头被毁之前听到的咔哒作响其实是骨头被碾碎的声音时，我忍不住吐了。"/>
 	<entry name="CycloneAutocannonFlavor" value="我们是参考旧世界的武器设计蓝图创造了旋风，但是与那时候的设备……这种版本并没有把安全性考虑在内。技师们拆掉了原本的温度冷却器，提高了载弹量，同时还提高了定位程序的误差范围。就算这意味着有可能会打中自己的飞行器，但那又何妨？假如敌人的轰炸机已经飞到眼前，只有想尽一切办法干掉他们才能求得生存。"/>
 	<entry name="DefenseGridFlavor" value="每次对泽芬的城市发起进攻时，这些噼里啪啦的圆球就会从天而降，整个战场都会被不间断的爆炸闪光给照亮。它们会在天空中短暂地飘浮数秒，并闪烁奇怪的光芒，那究竟是蓝色？还是红色？我只知道，这些东西里面蕴含的能量会严重扰乱视神经的运作。甚至有可能我的记忆也受到了影响，所以才记不清。"/>
 	<entry name="DeformingRakeFlavor" value="无论你干什么，千万不要死在畸变体的手上。如果被那些东西干掉，你并不会马上死去。你的肉体会倒下，然后再立刻不受控制地畸变复活，而且最可怕的是在新生的畸变体彻底死去之前，你的意识将一直保持清醒。"/>
@@ -190,6 +216,7 @@
 	<entry name="DimensionalNeedlesFlavor" value="所有绞鳄的血盆大口中都长满了闪闪发光的尖刺，那种光芒像脉搏一样有节奏地忽闪忽灭，有时候假如你扭过头再重新看过去，你会以为那些尖刺已经彻底消失不见。发动攻击的时候，那些高速飞行的尖刺会重重插入猎物的身体里面，接着绞鳄便可以大快朵颐行动不便的牺牲品。"/>
 	<entry name="DisintegrateFlavor" value="有时候，秘音会欣然选择纯粹的暴力。假如你侥幸活了下来，你会惊恐地意识到，在这个巨大的宇宙深处，有一个从未蒙面的存在……想要让你感受到无边的痛苦。这种黑暗的念头甚至比实际的身体伤害还要可怕。"/>
 	<entry name="DragoonSpearFlavor" value="操纵阿布卡鲁斯的骑手们需要能够在骑乘时也能够灵活使用的近战武器。而长枪这种经久不衰的古典武器则成为了我们的最佳选择。当然，过去的骑士们肯定也没有料想到，有一天我们竟然会拿着长枪驾驭身形巨大的外星蜥蜴……"/>
+	<entry name="EarthlyRuinFlavor" value="当斥候发现了第一头索寇斯蠕虫的迹象，我立刻命令所有人撤离要塞。我们差点就没逃出去，当时我的海盗船才刚刚起飞，索寇斯亲选者就直接撞开了屏障。驾驶员一脸不可置信地看着我。她以为会发生什么？这些东西能够轻而易举挖穿岩层，区区一堵围墙可能拦住它们吗？"/>
 	<entry name="ElysianBatteryFlavor" value="有一天我大意站在了一台正在发射的埃洛希姆旋涡的炮口旁……好不容易把身上的火拍灭之后，我发现自己的头发也被烧掉了一半。这玩意是真他妈吓人啊。在安全距离观察的时候，你会发现这些大炮发射时并没有能量或者是等离子武器特有的声响……反而像是激昂的合唱。"/>
 	<entry name="EMPFlavor" value="我讨厌一切EMP武器。当然，如果要对付泽芬以及其他的赛博敌人，这是必不可少的工具。但是瘫痪战场上的电子设备就像是一柄双刃剑，而我讨厌在缺少火力支援的情况下与敌人短兵相接。"/>
 	<entry name="ErelimBladesFlavor" value="对于埃勒姆来说，她们使用的锋利剑刃需要满足轻便、耐用、以及能够巧妙收入人体这几个要求。虽然看上去像是冷兵器，但这跟传统熔炉中锻造出来的武器有着天壤之别。通过技师们的苦心研究，他们终于开发出了能够让多层金属片在弹出武器的同时自动拼接到一起的精密技术。不仔细观察根本无法发现，这可以说是最完美的隐秘武器，研发实验室也因为这个原因发生过好几次事故。"/>
@@ -198,6 +225,7 @@
 	<entry name="FlamethrowerFlavor" value="与绝大多数的观念不同，其实火焰喷射器是一种十分精准的武器。一旦在战场上看见这些东西，聪明的敌人都会知道要保持距离，并且不要过度依赖掩体。所以经验老道的喷火手们会一步步把敌人逼进陷阱，然后再开始喷射致命的火焰。"/>
 	<entry name="FragmentationGrenadeFlavor" value="最初我们是在一座插满旧世界国旗的军营中找到了这种武器。当时团队里的一些平民煞有其事地宣称，手榴弹将会永远改变战争的局面。但现在，这些东西……只是一切的起点。如果要赢得等待我们的无数场血战，这不过是最基本的工具。"/>
 	<entry name="FrostBreathFlavor" value="阿布卡罕的腹腔中存在着一个温度永远处于冰点以下的腺体，就算阿布卡罕已经死亡，这种腺体也不会解冻。有一位粗心大意的生物学家在解剖阿布卡罕时徒手触碰了腺体，之后我立刻将他拖进了医疗室。那家伙最后少了两根手指头。在战场上，阿布卡罕的吐息甚至能够将不幸的士兵们瞬间冻成人棍。"/>
+	<entry name="FusedBillhooksFlavor" value="假如从恶役的尸体上把那些钩子给拆下来，散发出的恶臭有可能会让你立刻吐出来。安排科学家对其进行研究过后，我才终于弄清楚了这里面的原因。“这不是工厂里生产出来的”，科学家这么说道。“这个钩子是直接从宿主的身体上长出来的。可以说是一个肿瘤。”"/>
 	<entry name="GalgalimMissileBatteryFlavor" value="这种集束导弹拥有着惊人的射程与精度。我们一直都迫切需要一种能够进行超视距打击的远程武器。这种强大的装备就像是天赐的神兵利器。"/>
 	<entry name="GaussAutocannonFlavor" value="高斯武器的问世将地球的夜空转变为了一场绚烂的灯火表演。高速飞行的弹药散发的光芒能够照亮黑夜中的一切。与此同时，这意味着我们不得不格外小心，有时候天空上的战斗会无意间暴露我们的地面部队的位置。这也使得我们的隐秘任务愈发凶险。"/>
 	<entry name="GaussCannonFlavor" value="开发孕育出高斯武器的尖端科技绝非易事，但在终于成功之后，这种全新的武器可以根据不同的任务需求自由调整功率。过了一段时间以后，我发现我们的精英士兵们似乎开始对高斯武器发射后独有的那种臭氧味感到欲罢不能。"/>
@@ -210,6 +238,7 @@
 	<entry name="GravitonAcceleratorFlavor" value="尖端的引力子武器会对人体造成无法逆转的危害，对外星生物来说更是毁灭性的打击。研发部门的情报人员当时严肃警告过我们，他们表示长时间激活加速器甚至会导致时间扭曲。“很好”，我到现在还记得一名新兵回呛他们。“正好可以让那些鬼东西快点死“。"/>
 	<entry name="GravitonProjectorFlavor" value="为什么我们会决定研发重力武器？当你面对的是体型堪比高楼大厦的怪物时，只有不同寻常的手段才能够帮助你生存下来。这些新型武器能够对大型物体带来额外的伤害，敌人们原本引以为豪的优势也将变为致命弱点。"/>
 	<entry name="GrenadeLauncherFlavor" value="原本我们以为随着战争推演，蛮盗帮会逐渐退出舞台。考虑到缺乏任何科研实力与工厂，他们根本不可能匹敌我们的火力。但我们的错误在于：每当我们实现新的科技进步，他们就会设法偷走新式的装备并拿那些东西反过来对付我们。"/>
+	<entry name="GrenadePodFlavor" value="当时我已经被敌方神射手给压制住。托雷斯先倒下了我真的以为自己死定了，但就在这时候，一名猎户驾驶员突然杀了出来，他还在通讯器上大喊“我来救你！！”猎户直接冲进了敌阵发射了一连串手雷，之后敌人们便被炸成了溅满岩壁的尸块。有一具尸体直接撞到了机甲的挡风玻璃上。所有人都为此欢呼了起来，但是……驾驶机甲的孩子听上去不太好。他还没有意识到真正的战场会有如此血腥。"/>
 	<entry name="HadesCannonFlavor" value="我们的飞行员汇报说黑帝斯火炮会让周围的天空都开始震颤闪烁，就像是古代水手们会在船只桅杆顶端看见的圣艾尔摩之火一样。鉴于这种特殊现象并不会带来任何危险的影响，技术团队决定暂时不去理会这个问题。但人们心中的困惑并没有得到解答，究竟头顶的天空之中存在着什么样的异动？"/>
 	<entry name="HeavyMachineGunFlavor" value="从头制造拥有可靠性能的气冷式机枪需要时间。于是我们便决定从旧世界的军火库着火，并尽可能修复老旧型号的自动武器。无论如何，至少我们设法改进了原有的供弹机制，通过解决卡壳问题，我们间接挽救了许多士兵的性命。"/>
 	<entry name="HorrorsOfSpaceFlavor" value="当低语者出现在战场上，她会优先摧毁敌人的心智与身体。这是一种很明智的策略。历史上的无数场战争足以证明，有时候只要把敌人吓得落荒而逃就足以赢得胜利。但其实低语者并不是那么想的。她只是单纯想要让整个世界感受到秘音的力量。"/>
@@ -218,10 +247,13 @@
 	<entry name="InterceptorMissileFlavor" value="飞行员们会给自己的拦截机导弹下注。正确猜对导弹最后造成的实际伤害意味着你能够赚得盆满钵满。虽然拿生命做赌注的做法有点过于残忍，但这也使得飞行员们能够暂时忘掉天空中无处不在的危险。因此绝大多数时候我们都会睁一只眼闭一只眼。"/>
 	<entry name="IokBileFlavor" value="信奉洛克的那些畸形怪物们会成群结队地扑向敌人的机器。曾经有一大群洛克兽落在了我驾驶的征服者坦克上，无奈之下我们只能骑车逃跑，怪物们则将储存在胃中的液体吐向了我们。感觉就像是某种奇怪的噩梦一样……黏稠的液体滴落在我的皮肤上只是单纯有点刺痛，但当我们回头望去，我们的坦克就像是沙漠中的冰块一样被迅速融化了。"/>
 	<entry name="JaggedCradleFlavor" value="噬梦兽习惯于逼近猎物，然后让它们陷入活生生的噩梦之中。它们最喜欢恐惧的滋味。接着噬梦兽会唤醒所有构成你的人格的潜意识。一切准备就绪之后，怪物就会干净利落地收割你的灵魂，只留下一具空壳。"/>
+	<entry name="KatanaFlavor" value="绝大多数选择武士刀都不屑于学习旧世界的武术。任何表现出类似想法的人都会被嘲笑得体无完肤。但是在黎明时段巡逻时，我仍然会看见有一部分士兵聚集在远离营地的位置，他们会整齐划一地对着空气劈砍练习，不断转换着形体姿态。这些人往往是在战场上活得最久的。"/>
 	<entry name="LandanGrahamsDisintegratorFlavor" value="说实话我到现在也没搞懂格拉汉姆这么做的目的是什么。但他确实像个顶天立地的汉子一样和我们坚持到了最后。他其实并不擅长战斗，但是从阿扎德号找到的东西使他变得无比顽强。仿佛每一次的杀戮都能够为他带来新的力量。"/>
 	<entry name="LarvaeCannonFlavor" value="无论怎么去想这件事，用自己的幼崽作为武器的生物绝对*不正常*。全身上下溅满秘音的污秽已经够糟糕了，更何况那种玩意其实是活的？而且它们还会……在你身上不停爬来爬去？这种事情足以将人的心智逼到极限。有些人最后因此变成语无伦次的疯子。"/>
+	<entry name="LaserArrayFlavor" value="我和总工程师又吵起来了。“为什么它需要激光？座天使明明能够碾碎经过的一切敌人。”“这只是暂时的”，我吼了回去。“你难道没有发现，我们现在面对的敌人也变得越来越大了嘛。”我知道她肯定已经意识到了这一点。之后四下无人的时候，她跟我说一想到我们剩下来的时间所剩无几，她就感到害怕得无法自己。"/>
 	<entry name="LaserCannonFlavor" value="掌握了激光枪的用法之后，战士们就开始迫不及待想要尝试激光炮的威力。这种武器蕴含着纯粹的威力，所有被打中的敌人都会当场化为灰烬。"/>
 	<entry name="LaserRifleFlavor" value="激光枪是一种很纯粹的武器，扣动扳机，高能激光束就会从A射向B，没有子弹下坠，也没有风阻，你什么都不用考虑。士兵们经常会抱怨说这种武器毁掉了瞄准的艺术。幸运的是，在杀戮这门艺术中，我们最多只能算是刚刚入门。久而久之，激光成为了我们最喜欢的武器之一。"/>
+	<entry name="LeechingTouchFlavor" value="孕育出这些怪胎的秘音能源同样也能够被用于对付敌人。这其实也很好理解。那些家伙本来就是各式各样的残缺肢体拼凑出来的怪物。只要将那种力量再稍稍扩展一点，也许它们就可以再多加一条胳膊或者是一个眼球……我甚至有看见它们吸收机器的燃料。也许它甚至能够以金属为食。"/>
 	<entry name="MacheteFlavor" value="砍刀可以说是一种不可或缺的求生工具。有了一把砍刀，你就可以用来砍树、切食物，甚至加热后还可以拿来灼烧表层伤口。在旧世界，那时候的人们偶尔也会使用砍刀作战。但是在这个巨型机器与外星怪物横行霸道的新地球，这玩意几乎一无是处。"/>
 	<entry name="MangledChelaeFlavor" value="哦……难怪这些昆虫想要吃人。毕竟人类的身体就像是……骨头工厂。胸骨和软骨被打磨成了无比锋利的投射物。有一天我亲眼目睹一根断裂的股骨猛地插进了我身旁驾驶员的脑袋，我吓得尖叫了起来。接着失控的游骑兵就彻底翻了过去，然后我就……晕过去了。可怜了那个驾驶员，她死得太惨了。"/>
 	<entry name="MindBreakFlavor" value="有时候，人类会爆发出坚韧不拔的意志力。而像噬梦兽这样拥有深不可测的力量的怪物能够从远距离摧残我们的心智。如果不加防备，像这样的精神攻击足以将你蹂躏成一具只会尖声嚎叫的痛苦皮囊，等待着被来自另一个世界的怪物生吞活剥。"/>
@@ -242,8 +274,9 @@
 	<entry name="RetortFlavor" value="当站在废土客顶部的蛮盗帮成员们错误发射弩炮的时候，我不应该嘲笑他们的愚蠢。他们没能击中目标，反而是直接把自己的队友们做成了串烧。看见这一幕，我甚至希望自己的对手是阿布卡鲁斯。同样是想要杀了我，至少那些外星野兽还拥有最基础的智力。"/>
 	<entry name="SanctifiedTrephineFlavor" value="教长其实有安装过某种类型的医疗程序，但它们按照自己的扭曲哲学理念对程序进行了改动。现在这些家伙会用无比刺耳的声音叫嚣说要切开敌人的装甲，然后在他们的肚子里植入“真正的神性”。说实话，以前我从未想到，一台发狂的机器竟然会让我渴望成为一名无神论者。"/>
 	<entry name="SaturationSystemFlavor" value="最初我们只会听见一种尖锐的啸叫。然后夜空会突然亮如白昼，但那种一种泛蓝的冷光。猛烈齐射的光芒会首先冲向天空，几分钟过后，你们赖以藏身的阵地就会变成灼热的等离子在大地的皮肤上留下的一道伤疤。"/>
-	<entry name="ShredderFlavor" value="发现工程师们在私自改造粉碎者的时候，我们差点就以叛变罪逮捕那些家伙。虽然看上去就像是在蓄意破坏……但是……他们表示只需要稍加调整锯刃的转动频率，发出的声音就像是某种人工合成的合唱。之后工程师们还询问说能不能给平民们办一场”演奏会“。难道他们觉得看着一群尖叫着的无人机就能够让人们忘记无处不在的死亡与毁灭……"/>
+	<entry name="ScissorhandFlavor" value="是，我知道严格来说这些东西并不是*剪刀*。剪刀指的是通过滑动切割物体的两片刀刃。阿纳西姆执行者身上的只有*爪子*。然后只有*傻子*会跟这些身高八英尺的杀戮机器解释这一点，哪怕他们最喜欢*像剪刀*那样用自己的爪子把讨人厌的家伙的脑袋给剪下来。"/>
 	<entry name="ShirakiCruiseMissileFlavor" value="其实负责开发这种导弹的团队里也没有人叫“白木”这种奇怪的名字。之所以叫白木，是因为这种武器在毁灭一处目标后会升起独特的烟雾。那烟雾会笔直伸向天空，接着在多枚核弹头的引爆下炸成一棵硕大的苍白之树。"/>
+	<entry name="ShredderFlavor" value="发现工程师们在私自改造粉碎者的时候，我们差点就以叛变罪逮捕那些家伙。虽然看上去就像是在蓄意破坏……但是……他们表示只需要稍加调整锯刃的转动频率，发出的声音就像是某种人工合成的合唱。之后工程师们还询问说能不能给平民们办一场”演奏会“。难道他们觉得看着一群尖叫着的无人机就能够让人们忘记无处不在的死亡与毁灭……"/>
 	<entry name="ShriekerFlavor" value="恸哭奥鲁罗斯其实早在转化过程就失去了所有听觉。其实这样也好，不然它们的巨炮发射时的低沉轰鸣也足以把它们变成聋子。没想到秘音教徒们竟然会对这种东西感兴趣……开玩笑的。我知道秘音巴不得有一个像这样令人作呕的活体大喇叭。"/>
 	<entry name="SiegeCannonFlavor" value="我有一位负责操作征服者攻城坦克的老朋友管这些东西叫“攻城锤”。那家伙最喜欢闻重炮发射时的那种臭氧与硫磺混合的特殊气味。也有可能那种气味……是来源于能够让人脑产生类似吸毒快感的化学品。但没时间去考虑那种事情了。眼下我们当务之急是赢下这场战争。"/>
 	<entry name="SikkaFlavor" value="在生死存亡的关头，我选择拿起了一名狂信徒血迹斑斑的匕首。当时我们急需撤离，这很有可能是唯一的方法。我心里祈祷着自己的鲜血能够在异血中打开一道传送门。我将匕首贴在了原本耳朵该在的位置上的血窟窿那里，接着又将匕首举到了一簇不断扭动的秘音触须上方。感应到血液之后，那些触须立刻包裹住了剑刃，但是接下来……什么也没有发生。我立刻感到心头一紧。我意识到我们已经走投无路，就因为这些来自群星的异星植物不喜欢我的鲜血的味道。"/>
@@ -251,9 +284,11 @@
 	<entry name="SniperRifleFlavor" value="”呼吸才是真正的重点”，在一场狩猎阿布卡罕的活动中，有一位狙击手老兵告诉我说。“瞄准其实不难。不过如果想要精确命中目标，你需要确保在扣动扳机的那一刻吐气。但如果你周围全是臭气熏天的异血或者是灼热的火山气体，那就有得罪受了……“"/>
 	<entry name="SpjutFlavor" value="“贯通天国之矛”——曾经我看见一名瓦尔基里驾驶员在自己的机甲上刻下了这句话。她当时似乎是中了机甲下的魔咒一般，痴迷地聆听着某种不存在的指令。说实话这让我感到不安。我们真的能够相信像她那样的驾驶员吗？也许这就是为什么上层一直在争论要不要给她们偷偷安装一个自杀开关……"/>
 	<entry name="SubjugatorFlavor" value="帮厄金人设计这些武器的人并不仅仅是针对这些外星人的诡异身体进行了优化调整，这些武器最大的作用，是在不直接杀死有机生命的情况下大大削弱目标的反抗。如果有人类在厄金人的第一轮袭击中幸存了下来，那些士兵就会立刻将他们俘虏奴役。"/>
+	<entry name="SubmachineGunFlavor" value="我其实不是很喜欢放弃突击步枪的射程……严格来说那东西的射程也算不上*远*……但有时候为了速度你不得不做出取舍。考虑到我们每天要对抗的敌人……这么说吧，你并不是每次都有机会逃脱阿布卡罕的追杀。你唯一要做的就是比其他人跑得更快。"/>
 	<entry name="SurthodaisHandFlavor" value="苏尔索戴的那些长满不停抽动的手指的怪物绝对会让人产生……那个词叫什么来着？“恐手症？”最让我感到害怕的，倒是刚被怪物抓住的时候，你会清楚地感觉到它的手指会猛地往回缩一下。那感觉就像是它不想要伤害你一样。但马上它就会重新捏紧，并将你全身的骨头碾碎。"/>
 	<entry name="TachyonCannonFlavor" value="当我终于弄清楚超光速粒子技术的秘密时，我立刻感觉到了一种巨大的惶恐：时间。或者说彻底*混乱*的时间。每次发射这些大炮的时候，我们都是在滥用自己根本无法控制的力量。我们是不是在间接破坏未来的时间？或者是过去？还是说……两者皆是？这么做的后果什么时候会找上门来？我们自以为是地觉得人类是一切的主宰。但真相是，我们根本知道自己犯下了什么弥天大错。"/>
 	<entry name="TachyonRayFlavor" value="人类没有权利去操纵这种超越一切的力量，但是一路走来，人类的历史中随处可见难以挽回的错误。既然我们有这个技术，为什么不将宇宙中最强大的力量塞进一把枪里面呢？在走投无路的末日边缘，我们只能放手一搏。"/>
+	<entry name="ThricefoldHungerFlavor" value="格雷迪厄斯游侠小队。他们最擅长狩猎异龙骑士。以前每次战斗之前，队员们都会下注打赌哪个脑袋会先发动攻击。后来有一次异龙决定用三个脑袋同时攻击，游侠小队就此全灭。"/>
 	<entry name="ValkyrieAutocannonFlavor" value="瓦尔基里装甲服会将驾驶员的神经与武器系统连接起来，她们只需要动动手指就能发射搭载的自动炮。如果打开机甲驾驶舱，你会看见她们的手永远保持着一动不动的状态，她们在耐心等待着宣泄无情怒火的时机。"/>
 	<entry name="WrathOfTheLeviathanFlavor" value="就在一瞬之间，所有人全都死了。当时我正蜷缩在一头巨兽的牢笼中，整整三队高举着反物质长剑的禁卫军正气势汹汹地朝我们袭来。但是那头怪兽根本不为所动。它只是微微侧了侧身并张开了自己的前肢，接着便用力一甩将所有人都打倒在地。禁卫军被怪兽的手指死死攥住，我亲眼看着那些士兵们的脑袋就像是汁水饱满的西瓜一样被巨兽一一捏爆。"/>
 </language>

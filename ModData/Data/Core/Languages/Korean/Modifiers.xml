@@ -3,9 +3,11 @@
 	<!-- Combined with Attributes.xml or Effects.xml entries.
 	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
 			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingMechanicalUnit" value=" 기계 유닛 공격 후"/>
 	<entry name="AfterAttackingIfNotMoved" value=" 유닛이 움직이지 않은 경우 공격 후"/>
 	<entry name="AgainstBiologicalUnits" value=" 생체 유닛 상대 시"/>
 	<entry name="AgainstFlyingUnits" value=" 비행 유닛 상대 시"/>
+	<entry name="AgainstFortifications" value=" 요새 상대 시"/>
 	<entry name="AgainstLargeUnits" value=" 대형 유닛 상대 시"/>
 	<entry name="AgainstNonAdjacentUnits" value=" 인접하지 않은 유닛 상대 시"/>
 	<entry name="AgainstNonFlyingUnits" value=" 비행이 아닌 유닛 상대 시"/>
@@ -40,13 +42,11 @@
 	<entry name="ForActions" value=" 행동에 대해"/>
 	<entry name="ForAdministrationComplex" value=" <string name='Buildings/Influence'/>에 대해"/>
 	<entry name="ForAlliedUnits" value=" 아군 유닛에 대해"/>
-	<entry name="ForAnchoriteUnits" value=" 은수자 유닛에 대해"/>
-	<entry name="ForChieftessUnits" value=" 여족장 유닛에 대해"/>
 	<entry name="ForConstructionYard" value=" <string name='Buildings/Construction'/>에 대해"/>
 	<entry name="ForControllingCity" value=" 도시 안에서"/>
 	<entry name="ForCyberUnits" value=" 사이버 유닛에 대해"/>
+	<entry name="ForCyberTechnologies" value=" 사이버 기술에 대해"/>
 	<entry name="ForCyberProductionBuildings" value=" 사이버 생산 건물에 대해"/>
-	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" 숲 또는 폐허에서 공격하는 사이버 유닛에 대해"/>
 	<entry name="ForEnemyGroundUnits" value=" 적 지상 유닛에 대해"/>
 	<entry name="ForGroundUnits" value=" 지상 유닛에 대해"/>
 	<entry name="ForHumanBiologicalUnits" value=" 인간 생체 유닛에 대해"/>
@@ -65,9 +65,10 @@
 	<entry name="ForStationedMechanicalUnitEachTurn" value=" 턴마다 주둔한 기계 유닛에 대해"/>
 	<entry name="ForStationedUnit" value=" 주둔한 유닛에 대해"/>
 	<entry name="ForUnits" value=" 유닛에 대해"/>
+	<entry name="ForVoiceUnits" value=" 목소리 유닛에 대해"/>
 	<entry name="ForXTurns" value=" %1% 간"/>
-	<entry name="ForZephonUnits" value=" 제폰 유닛에 대해"/>
 	<entry name="FromCargoOnDeath" value=" 사망 시 탑승자에게서"/>
+	<entry name="FromFireDamage" value=" 불 피해에서"/>
 	<entry name="FromGenerousContacts" value=" 관대한 접촉에서"/>
 	<entry name="FromHammerheads" value=" 해머헤드에서"/>
 	<entry name="FromTargetTile" value=" 대상 타일에서"/>
@@ -89,6 +90,7 @@
 	<entry name="IndependentUpgrade2" value=" 인구가 7~12 사이일 때"/>
 	<entry name="InternalRepairStation" value=" 운송된 유닛에"/>
 	<entry name="LoyaltyUpgrade" value=" 매턴 도시의 <string name='Buildings/Loyalty'/>마다"/>
+	<entry name="OfFlagshipProductOnDeath" value=" <string name='Actions/PlatinumScionAffinityUpgrade2'/><string name='Modifiers/OnDeath'/>의"/>
 	<entry name="OfTargetAlliedUnit" value=" 대상 아군 유닛의"/>
 	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" 체력이 50% 미만인 사기가 유한한 타이탄, 영웅, 본부가 아닌 대상 적 유닛의"/>
 	<entry name="OfTargetEnemyAbkluth" value=" 대상 적 아브클루스의"/>
@@ -98,6 +100,7 @@
 	<entry name="OnCliffs" value=" 절벽에서"/>
 	<entry name="OnCoast" value=" 해안에서"/>
 	<entry name="OnDeath" value=" 사망 시"/>
+	<entry name="InForestRuinSmokeScreen" value=" 숲, 폐허 또는 연막 속에서"/>
 	<entry name="OnHeight3" value=" 높이 3에서"/>
 	<entry name="OnHeight4" value=" 높이 4에서"/>
 	<entry name="OnMoraleLossFromDeath" value=" 사망으로 인한 사기 손실 시"/>
@@ -118,6 +121,7 @@
 	<entry name="ResearchUpgrade" value=" 숲에서"/>
 	<entry name="SingularityCoresUpgrade" value=" 보유한 각 도시의 양자 조작기마다"/>
 	<entry name="TacticalVisor" value=" 다른 아군 이심 집행자와 인접한 경우"/>
+	<entry name="TacticalInsertion" value=" 적 도시가 없는 대상 숲, 폐허 또는 연막에서"/>
 	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" 타이탄, 영웅, 본부가 아닌 대상 적 유닛"/>
 	<entry name="TargetNonTitanNonFortificationUnit" value=" 타이탄과 본부가 아닌 대상 유닛"/>
 	<entry name="TargetUnit" value=" 대상 유닛에게"/>
@@ -130,19 +134,24 @@
 	<entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" 인접한 적 대형 기계 유닛에"/>
 	<entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" 인접한 타이탄이 아닌 적 대형 기계 유닛에"/>
 	<entry name="ToAdjacentUnits" value=" 인접한 유닛에게"/>
-	<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" 체력이 75%% 미만인 동안 인접한 유닛에게"/>
+	<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" 체력이 75% 미만인 동안 인접한 유닛에게"/>
 	<entry name="ToAlliedBiologicalUnitsEachTurn" value=" 턴마다 아군 생체 유닛에게"/>
 	<entry name="ToAlliedMechanicalUnitsInTheArea" value=" 지역 내 아군 기계 유닛에게"/>
 	<entry name="ToAlliedNonLargeUnitsInTheArea" value=" 대형이 아닌 지역 내 아군 유닛에"/>
 	<entry name="ToAlliedUnits" value=" 아군 유닛에"/>
 	<entry name="ToAlliedUnitsEachTurn" value=" 턴마다 아군 유닛에"/>
+	<entry name="ToAlliedUnitsInTheArea" value=" 지역 내 아군 유닛에게"/>
 	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" 대상 및 인접한 타일에 있는 아군 유닛에게"/>
 	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" 대상 지역 내 타일에 있는 아군 유닛에게"/>
+	<entry name="ToAnchorite" value=" 은수자에"/>
 	<entry name="ToAttackedEnemy" value=" 공격한 적에게"/>
 	<entry name="ToAttacker" value=" 공격자에게"/>
+	<entry name="ToBuildingsOnTargetAlliedCityTile" value=" 대상 아군 도시 타일의 건물에"/>
 	<entry name="ToBiologicalEnemy" value=" 생체 적에게"/>
 	<entry name="ToBiologicalNonTitanEnemy" value=" 타이탄이 아닌 생체 적에게"/>
 	<entry name="ToBiologicalUnits" value=" 생체 유닛에"/>
+	<entry name="ToChieftess" value=" 여족장에"/>
+	<entry name="ToChieftessAnchoriteZephon" value=" 여족장, 은수자 및 제폰에"/>
 	<entry name="ToCity" value=" 도시에"/>
 	<entry name="ToEnemy" value=" 적에게"/>
 	<entry name="ToEnemyCity" value=" 적 도시에"/>
@@ -152,50 +161,63 @@
 	<entry name="ToMechanicalEnemy" value=" 기계 적에게"/>
 	<entry name="ToMechanicalNonTitanEnemy" value=" 타이탄이 아닌 기계 적에게"/>
 	<entry name="ToMeleeAttackers" value=" 근접 공격자에게"/>
+	<entry name="ToNonHeadquartersBuildingsOnTargetAlliedCityTile" value=" 대상 아군 도시 타일의 본부가 아닌 건물에"/>
 	<entry name="ToNonLargeEnemy" value=" 대형 적에게"/>
 	<entry name="ToNonLargeAlliedUnits" value=" 대형이 아닌 아군 유닛에"/>
 	<entry name="ToNonLowPowerWeapon" value=" 저위력이 아닌 무기에"/>
 	<entry name="ToNonTitanEnemy" value=" 타이탄이 아닌 적에게"/>
 	<entry name="ToSourceUnit" value=" 자원 유닛에"/>
+	<entry name="ToSpawnedUnit" value=" 생성된 유닛에"/>
 	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" 유닛과 인접한 아군 생체 유닛에게"/>
+	<entry name="ToUnitAndAdjacentAlliedUnits" value=" 유닛 및 인접한 아군 유닛에"/>
 	<entry name="ToTargetAlliedBiologicalUnit" value=" 대상 아군 생체 유닛에"/>
 	<entry name="ToTargetAlliedCity" value=" 대상 아군 도시에"/>
+	<entry name="ToTargetAlliedCherubimTitan" value=" 대상 아군 <string name='Units/CherubimTitan'/>에"/>
 	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" 피해를 받은 대상 아군 생체 유닛에"/>
 	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" 피해를 받은 대상 아군 기계 유닛에"/>
 	<entry name="ToTargetAlliedDamagedUnit" value=" 피해를 받은 대상 아군 유닛에"/>
 	<entry name="ToTargetAlliedMechanicalUnit" value=" 대상 아군 기계 유닛에"/>
 	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" 대형이 아닌 증강되지 않은 대상 아군 유닛에"/>
+	<entry name="ToTargetAlliedNonLargeUnit" value=" 대형이 아닌 대상 아군 유닛에"/>
+	<entry name="ToTargetAlliedNonTitanUnit" value=" 타이탄이 아닌 대상 아군 유닛에"/>
+	<entry name="ToTargetAlliedOutpost" value=" 대상 아군 전초기지에"/>
 	<entry name="ToTargetAlliedUnit" value=" 대상 아군 유닛에"/>
 	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" 원거리 무기를 가진 대상 아군 유닛에게"/>
 	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" <string name='Traits/MothersFavor'/>을 가진 대상 아군 유닛에게"/>
 	<entry name="ToTargetAndAdjacentAlliedUnits" value=" 대상 및 인접 아군 유닛에게"/>
 	<entry name="ToTargetBiologicalUnit" value=" 대상 생체 유닛에"/>
 	<entry name="ToTargetEnemyCity" value=" 대상 적 도시에"/>
+	<entry name="ToTargetEnemyNonLargeUnit" value=" 대형이 아닌 대상 적 유닛에"/>
 	<entry name="ToTargetEnemyNonTitanUnit" value=" 타이탄, 영웅이 아닌 대상 적 유닛에"/>
 	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" 타이탄, 영웅, 본부가 아닌 대상 적 유닛에게"/>
 	<entry name="ToTargetEnemyUnit" value=" 대상 적 유닛에"/>
+	<entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" 대상 적 유닛에, 그리고 대상 타일의 왼쪽과 오른쪽 적에게 절반의 공격력으로"/>
 	<entry name="ToTargetEnemyZephonUnit" value=" 대상 적 제폰 유닛에"/>
 	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" 타이탄이 아닌 대상 적 제폰 유닛에"/>
 	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" 타이탄과 본부가 아닌 대상 적 제폰 유닛에게"/>
+	<entry name="ToTargetOwnUnit" value=" 보유한 대상 유닛에"/>
 	<entry name="ToTargetOwnBiologicalUnit" value=" 보유한 대상 생체 유닛에"/>
 	<entry name="ToWeapons" value=" 무기에"/>
+	<entry name="ToZephon" value=" 제폰에"/>
 	<entry name="UnitsOnDeath" value=" 사망 시 유닛"/>
 	<entry name="UzhodaisZeal" value=" 인접한 적 유닛마다"/>
 	<entry name="VoiceAircraftUpgrade" value=" 보유한 각 도시의 각 새벽의 찬가에 생산된 유닛에 대해"/>
 	<entry name="VoiceVehiclesUpgrade" value=" 사망 시 도시에 있는 각 황혼의 성가에서 생산력 획득"/>
 	<entry name="VoiceInfantryUpgrade" value=" 도시에 있는 한밤의 합창에 생산된 유닛에 대해"/>
+	<entry name="WhenAttackingFromForestsOrRuins" value=" 숲 또는 폐허에서 공격 시"/>
 	<entry name="WhenAttackingFromHighGround" value=" 높은 지대에서 공격 시"/>
 	<entry name="WhenDurationRunsOut" value=" 기간 만료 시"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" 적 지상 유닛이 타일에 멈췄을 때"/>
 	<entry name="WhenFirstCaptureFeature" value=" 전초기지를 처음 점령 시"/>
 	<entry name="WhenKillingBiologicalUnit" value=" 생체 유닛 처치 시"/>
 	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" 변형되지 않은 생체 유닛 처치 시"/>
 	<entry name="WhenKillingUnit" value=" 유닛 처치 시"/>
-	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" 적 지상 유닛이 타일에 멈췄을 때"/>
+	<entry name="WhenUnitMoves" value=" 유닛 이동 시"/>
 	<entry name="WhenTakingDirectDamage" value=" 직접 피해를 받았을 때"/>
 	<entry name="WhileAbove2Loyalty" value=" 충성도 2 초과인 동안"/>
 	<entry name="WhileAbove8Loyalty" value=" 충성도 8 초과인 동안"/>
 	<entry name="WhileAdjacentToAlliedUnits" value=" 아군 유닛에 인접한 동안"/>
-	<entry name="WhileBelow50%Hitpoints" value=" 적중률이 50%% 미만인 동안"/>
+	<entry name="WhileBelow50%Hitpoints" value=" 적중률이 50% 미만인 동안"/>
 	<entry name="WhileAlliedNonFlyingUnitOnTile" value=" 비행 유닛이 아닌 아군 유닛이 타일에 있는 동안"/>
 	<entry name="WithMeleeWeapons" value=" 근접 무기로"/>
 	<entry name="WithoutBleedCultivation" value=" <string name='Upgrades/BleedCultivation'/> 없이"/>

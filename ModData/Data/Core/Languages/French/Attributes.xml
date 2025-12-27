@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="Emplacements de cargaison requis"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="Charges"/>
+	<entry name="BuildingSlotsDescription" value="Le nombre de bâtiments pouvant être construits sur une case."/>
+<entry name="Charges" value="Charges"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="Puces"/>
 	<entry name="ChipsDescription" value="Pour produire et entretenir les unités Cybers."/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="Quantité d'échos dimensionnels consommés pour entretenir l'entité."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="Coût pour type en double"/>
+	<entry name="DuplicateTypeCostLimit" value="Limite de coût pour type en double"/>
 	<entry name="Energy" value="Énergie"/>
 	<entry name="EnergyDescription" value="Pour entretenir les bâtiments ainsi que pour produire et entretenir des unités spéciales."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="ligne de mire"/>
 	<entry name="IgnoreLineOfSight+" value="Ignore"/>
-	<entry name="IgnoreZoneOfControl" value="déplacement à travers les unités ennemies"/>
+	<entry name="IgnoreZoneOfControl" value="déplacement à travers les unités ennemies et leur zone de contrôle"/>
 	<entry name="IgnoreZoneOfControl+" value="Permet"/>
-	<entry name="Influence" value="Influence"/>
+	<entry name="HitpointsPerGroupMember" value="PV par membre du groupe"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="Influence"/>
 	<entry name="InfluenceDescription" value="Pour acquérir et entretenir les cases de la ville, invoquer des capacités spéciales, recruter et entretenir des unités de héros ainsi qu'acheter des objets et des ressources."/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Coût en influence"/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Entretien en loyauté"/>
 	<entry name="LoyaltyUpkeepDescription" value="Quantité de loyauté consommée pour entretenir l'entité."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Maximum de PV par membre du groupe"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="Moral"/>
 	<entry name="MoraleDescription" value="L'état psychologique de l'unité. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="Le moral se régénère si l'unité n'a pas subi de dégâts au tour précédent."/>

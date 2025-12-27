@@ -4,7 +4,9 @@
 	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
 			with Effects.xml: "Changes control on removal" -->
 	<entry name="AfterAttackingIfNotMoved" value=" після атаки, якщо юніт не рухався"/>
+<entry name="AfterAttackingMechanicalUnit" value=" після атаки на механічного юніта"/>
 <entry name="AgainstBiologicalUnits" value=" проти біологічних юнітів"/>
+<entry name="AgainstFortifications" value=" проти укріплень"/>
 <entry name="AgainstFlyingUnits" value=" проти літаючих юнітів"/>
 <entry name="AgainstLargeUnits" value=" проти великих юнітів"/>
 <entry name="AgainstNonAdjacentUnits" value=" проти НЕ-суміжних юнітів"/>
@@ -46,6 +48,7 @@
 <entry name="ForControllingCity" value=" усередині міста"/>
 <entry name="ForCyberUnits" value=" для юнітів кіберів"/>
 <entry name="ForCyberProductionBuildings" value=" для виробничих будівель кіберів"/>
+<entry name="ForCyberTechnologies" value=" кібертехнологій"/>
 <entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" для юнітів кіберів під час атаки з лісів або руїн"/>
 <entry name="ForEnemyGroundUnits" value=" ворожим наземним юнітам"/>
 <entry name="ForGroundUnits" value=" для наземних юнітів"/>
@@ -65,9 +68,11 @@
 <entry name="ForStationedMechanicalUnitEachTurn" value=" розміщеному механічному юніту кожен хід"/>
 <entry name="ForStationedUnit" value=" розміщеному юніту"/>
 <entry name="ForUnits" value=" юнітам"/>
+<entry name="ForVoiceUnits" value=" для юнітів Голосу"/>
 <entry name="ForXTurns" value=" на %1%"/>
 <entry name="ForZephonUnits" value=" для юнітів ЗЕФОНА"/>
 <entry name="FromCargoOnDeath" value=" із завантажених юнітів під час загибелі"/>
+<entry name="FromFireDamage" value=" від вогню"/>
 <entry name="FromGenerousContacts" value=" від великодушних контактів"/>
 <entry name="FromHammerheads" value=" від молотоголовів"/>
 <entry name="FromTargetTile" value=" з вказаної клітинки"/>
@@ -87,8 +92,10 @@
 <entry name="InCitiesOrOutposts" value=" у містах або заставах"/>
 <entry name="IndependentUpgrade" value=" за чисельності населення від 1 до 6"/>
 <entry name="IndependentUpgrade2" value=" за чисельності населення від 7 до 12"/>
+<entry name="InForestRuinSmokeScreen" value=" у лісах, руїнах або димовій завісі"/>
 <entry name="InternalRepairStation" value=" транспортованим юнітам"/>
 <entry name="LoyaltyUpgrade" value=" кожен хід за кожну будівлю «&lt;string name='Buildings/Loyalty'/&gt;» у місті"/>
+<entry name="OfFlagshipProductOnDeath" value="&lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
 <entry name="OfTargetAlliedUnit" value=" вказаного союзного юніта"/>
 <entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. життя"/>
 <entry name="OfTargetEnemyAbkluth" value=" вказаного ворожого юніта абклюта"/>
@@ -117,6 +124,7 @@
 <entry name="PopulationLimitUpgrade" value=" на клітинках із будівлею «&lt;string name='Buildings/Loyalty'/&gt;»"/>
 <entry name="ResearchUpgrade" value=" у лісах"/>
 <entry name="SingularityCoresUpgrade" value=" за кожну будівлю «Квантовий маніпулятор» у кожному своєму місті"/>
+<entry name="TacticalInsertion" value=" до початку битви у клітині, яку раніше займав її ворожий юніт або нейтральна застава"/>
 <entry name="TacticalVisor" value=" за перебування у суміжній клітинці з іншими союзними ішімами-силовиками"/>
 <entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" вказаний ворожий юніт НЕ-титан, НЕ-герой, НЕ-штаб"/>
 <entry name="TargetNonTitanNonFortificationUnit" value=" вказаний юніт НЕ-титан, НЕ-укріплення"/>
@@ -124,6 +132,7 @@
 <entry name="ToAdjacentAlliedBiologicalUnits" value=" суміжним союзним біологічним юнітам"/>
 <entry name="ToAdjacentAlliedNonLargeUnits" value=" суміжним союзним НЕ-великим юнітам"/>
 <entry name="ToAdjacentAlliedUnits" value=" суміжним союзним юнітам"/>
+<entry name="ToAdjacentEnemyLargeMechanicalNonTitanNonHeroUnits" value=" суміжні ворожі великі механічні юніти без-титанів, без-героїв"/>
 <entry name="ToAdjacentEnemyUnits" value=" суміжним ворожим юнітам"/>
 <entry name="ToAdjacentEnemyUnitsEachTurn" value=" суміжним ворожим юнітам кожен хід"/>
 <entry name="ToAdjacentEnemyUnitsOnDeath" value=" суміжним ворожим юнітам під час загибелі"/>
@@ -139,11 +148,15 @@
 <entry name="ToAlliedUnitsInTheArea" value=" союзним юнітам у області"/>
 <entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" союзним юнітам на вказаній і суміжних клітинках"/>
 <entry name="ToAlliedUnitsOnTilesInTargetArea" value=" союзним юнітам на клітинках у вказаній області"/>
+<entry name="ToAnchorite" value=" Пустельниці"/>
 <entry name="ToAttackedEnemy" value=" атакованому ворогу"/>
 <entry name="ToAttacker" value=" атакуючому"/>
 <entry name="ToBiologicalEnemy" value=" біологічному ворогу"/>
 <entry name="ToBiologicalNonTitanEnemy" value=" біологічному ворогу НЕ-титану"/>
 <entry name="ToBiologicalUnits" value=" біологічним юнітам"/>
+<entry name="ToBuildingsOnTargetAlliedCityTile" value=" будівлі на клітинці вашого союзного міста"/>
+<entry name="ToChieftess" value=" Дикарці"/>
+<entry name="ToChieftessAnchoriteZephon" value=" Дикарці, Пустельниці і ЗЕФОНу"/>
 <entry name="ToCity" value=" місту"/>
 <entry name="ToEnemy" value=" ворогу"/>
 <entry name="ToEnemyCity" value=" ворожому місту"/>
@@ -155,42 +168,55 @@
 <entry name="ToMeleeAttackers" value=" атакуючим у ближньому бою"/>
 <entry name="ToNonLargeEnemy" value=" НЕ-великому ворогу"/>
 <entry name="ToNonLargeAlliedUnits" value=" НЕ-великим союзним юнітам"/>
+<entry name="ToNonHeadquartersBuildingsOnTargetAlliedCityTile" value=" будівлі без-штабу на клітинці вашого союзного міста"/>
 <entry name="ToNonLowPowerWeapon" value=" НЕ-розрядженій зброї"/>
 <entry name="ToNonTitanEnemy" value=" ворогу НЕ-титану"/>
 <entry name="ToSourceUnit" value=" вихідному юніту"/>
+<entry name="ToSpawnedUnit" value=" призваного юніта"/>
 <entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" юніту та суміжним союзним біологічним юнітам"/>
 <entry name="ToTargetAlliedBiologicalUnit" value=" вказаному союзному біологічному юніту"/>
+<entry name="ToTargetAlliedCherubimTitan" value=" союзному титану &lt;string name='Units/CherubimTitan'/&gt;"/>
 <entry name="ToTargetAlliedCity" value=" вказаному союзному місту"/>
 <entry name="ToTargetAlliedDamagedBiologicalUnit" value=" вказаному пошкодженому союзному біологічному юніту"/>
 <entry name="ToTargetAlliedDamagedMechanicalUnit" value=" вказаному пошкодженому союзному механічному юніту"/>
 <entry name="ToTargetAlliedDamagedUnit" value=" вказаному пошкодженому союзному юніту"/>
 <entry name="ToTargetAlliedMechanicalUnit" value=" вказаному союзному механічному юніту"/>
+<entry name="ToTargetAlliedNonLargeUnit" value=" союзному невеликому юніту"/>
 <entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" вказаному союзному НЕ-великому юніту без апгрейдів"/>
+<entry name="ToTargetAlliedNonTitanUnit" value=" союзному без-титану"/>
+<entry name="ToTargetAlliedOutpost" value=" союзній нейтральній заставі"/>
 <entry name="ToTargetAlliedUnit" value=" вказаному союзному юніту"/>
 <entry name="ToTargetAlliedUnitWithRangedWeapons" value=" вказаному союзному юніту з дистанційною зброєю"/>
 <entry name="ToTargetAlliedUnitWithMothersFavor" value=" вказаному союзному юніту, що має &lt;string name='Traits/MothersFavor'/&gt;"/>
 <entry name="ToTargetAndAdjacentAlliedUnits" value=" вказаному та суміжним союзним юнітам"/>
 <entry name="ToTargetBiologicalUnit" value=" вказаному біологічному юніту"/>
 <entry name="ToTargetEnemyCity" value=" вказаному ворожому місту"/>
+<entry name="ToTargetEnemyNonLargeUnit" value=" ворожому невеликому юніту"/>
 <entry name="ToTargetEnemyNonTitanUnit" value=" вказаному ворожому юніту НЕ-титану, НЕ-герою"/>
 <entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" вказаному ворожому юніту НЕ-титану, НЕ-герою, НЕ-штабу"/>
 <entry name="ToTargetEnemyUnit" value=" вказаному ворожому юніту"/>
+<entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" ворожому юніту і половину атак ворогам на клітинах зліва і справа від цілі"/>
 <entry name="ToTargetEnemyZephonUnit" value=" вказаному ворожому юніту ЗЕФОНА"/>
 <entry name="ToTargetEnemyZephonNonTitanUnit" value=" вказаному ворожому юніту ЗЕФОНА НЕ-титану"/>
 <entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" вказаному ворожому юніту ЗЕФОНА НЕ-титану, НЕ-штабу"/>
 <entry name="ToTargetOwnBiologicalUnit" value=" вказаному своєму біологічному юніту"/>
+<entry name="ToTargetOwnUnit" value=" підконтрольному юніту"/>
+<entry name="ToUnitAndAdjacentAlliedUnits" value=" юніту і суміжним союзним юнітам"/>
 <entry name="ToWeapons" value=" зброї"/>
+<entry name="ToZephon" value=" ЗЕФОНу"/>
 <entry name="UnitsOnDeath" value=" юніти під час загибелі"/>
 <entry name="UzhodaisZeal" value=" за кожен суміжний ворожий юніт"/>
 <entry name="VoiceAircraftUpgrade" value=" вироблених юнітів за кожну будівлю «Ода світанку» в кожному своєму місті"/>
 <entry name="VoiceVehiclesUpgrade" value=" під час загибелі передається у вигляді виробництва кожній будівлі «Гімн заходу» в місті"/>
 <entry name="VoiceInfantryUpgrade" value=" вироблених юнітів за кожну будівлю «Північний хор» у місті"/>
+<entry name="WhenAttackingFromForestsOrRuins" value=" при атаці зі лісів або руїн"/>
 <entry name="WhenAttackingFromHighGround" value=" під час атаки з височини"/>
 <entry name="WhenDurationRunsOut" value=" після завершення дії"/>
 <entry name="WhenFirstCaptureFeature" value=" під час першого захоплення застави"/>
 <entry name="WhenKillingBiologicalUnit" value=" під час убивства біологічного юніта"/>
 <entry name="WhenKillingNonDeformingBiologicalUnit" value=" під час убивства біологічного НЕ-потворного юніта"/>
 <entry name="WhenKillingUnit" value=" під час убивства юніта"/>
+<entry name="WhenUnitMoves" value=" при переміщенні юніта"/>
 <entry name="WhenEnemyGroundUnitStopsOnTile" value=" під час зупинки ворожого наземного юніта на клітинці"/>
 <entry name="WhenTakingDirectDamage" value=" під час отримання прямої шкоди"/>
 <entry name="WhileAbove2Loyalty" value=" при лояльності понад 2"/>

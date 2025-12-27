@@ -6,13 +6,17 @@
 	<entry name="Achievements/CanFreeWillExist" value="是否存在自由意志？"/>
 	<entry name="Achievements/CanLoveBeMoral" value="究竟爱是否合乎道德？"/>
 	<entry name="Achievements/DidHonorBalanceGreed" value="荣誉能否抵消贪婪的罪孽？"/>
+	<entry name="Achievements/DidIDoomMyFriends" value="我是否害了我的朋友们？"/>
 	<entry name="Achievements/DidMyDeathMeanAnything" value="我的死难道毫无意义吗？"/>
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="难道我们的牺牲毫无意义？"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="我们的结合是否有意义？"/>
+	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="智慧是衡量价值的标准吗？"/>
 	<entry name="Achievements/MustWeSufferSo" value="我们必须要这样受尽折磨吗？"/>
+	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="我是不是当今世上最厉害的？"/>
 	<entry name="Achievements/WasITrulyHuman" value="究竟我是不是人类？"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="完美有意义吗？"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="泽芬拥有真正的生命吗？"/>
+	<entry name="Achievements/WhatAmITruly" value="我究竟是什么？"/>
 	<entry name="Achievements/WhatAreYou" value="你究竟是什么？"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="自由的代价是什么？"/>
 	<entry name="Achievements/WhereAreWe" value="这是什么地方？"/>
@@ -69,7 +73,7 @@
 	<entry name="Controls/OpenResearchScreen" value="打开科研界面"/>
 	<entry name="Controls/OrderAllIdleUnits" value="命令所有空闲单位"/>
 	<entry name="Controls/OrderAllUnits" value="命令所有单位"/>
-	<entry name="Controls/OrderAreaUnits" value="命令此区域中的单位"/>
+	<entry name="Controls/OrderAreaUnits" value="命令半径3范围内的单位"/>
 	<entry name="Controls/PlayerAction0" value="玩家动作 1"/>
 	<entry name="Controls/PlayerAction1" value="玩家动作 2"/>
 	<entry name="Controls/PlayerAction2" value="玩家动作 3"/>
@@ -144,6 +148,8 @@
 	<entry name="General/AutoSendReportsHint" value="自动向Proxy Studios发送用户数据与崩溃报告，这么做将能够帮助我们改进游戏内容、稳定性与性能。<br/><br/><style color='GUI/Yellow'/>我们十分重视用户隐私。我们仅会通过收集必要数据来改善所有玩家的游戏体验。我们收集的数据包括：经过匿名化处理的游戏互动数据（例如多人模式的连接尝试与失败次数、游玩特定游戏模式的次数、使用的内容、特定按键的点击次数以及游玩时长），经过匿名化处理的技术类信息（例如游戏版本与语言、操作系统以及硬件配置，以及关于崩溃与出错的基本信息）。我们在收集与处理这些数据时将严格遵守相关法律规定以提供高品质的可靠产品，我们保证上述数据至多保存1年时间，并且绝不会与第三方分享。"/>
 	<entry name="General/EdgeScroll" value="边缘滚动"/>
 	<entry name="General/EdgeScrollHint" value="在全屏模式下，将鼠标移动至屏幕边缘将移动镜头。"/>
+	<entry name="General/FriendNames" value="好友名称"/>
+	<entry name="General/FriendNamesHint" value="允许在游戏中泽芬发送的讯息里使用你的现实好友名称。"/>
 	<entry name="General/Language" value="语言"/>
 	<entry name="General/LanguageHint" value="文本语言。"/>
 	<entry name="General/ResetTips" value="重置提示"/>

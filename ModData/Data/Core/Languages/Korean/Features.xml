@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>무작위 고급 목소리 보상을 획득합니다."/>
 	<entry name="ArcDischarge" value="아크 방전 지대"/>
 	<entry name="Arctic" value="극지"/>
+	<entry name="ArenaCyber" value="투기장(사이버)"/>
+	<entry name="ArenaCyberFlavor" value="<string name='Quests/TheMartialEthic/ArenaCyberVictory2'/>"/>
+	<entry name="ArenaHuman" value="투기장(인간)"/>
+	<entry name="ArenaHumanFlavor" value="<string name='Quests/TheMartialEthic/ArenaHumanVictory2'/>"/>
+	<entry name="ArenaVoice" value="투기장(목소리)"/>
+	<entry name="ArenaVoiceFlavor" value="<string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/>"/>
+	<entry name="AtmosphericAnchor" value="대기의 앵커"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
 	<entry name="Bleed" value="혈사초"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="에레부스 굴착기"/>
 	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5% 확률로 무작위 아이템 보상을 줍니다."/>
 	<entry name="Fire" value="불"/>
+	<entry name="FiveSoldiers1" value="한 개의 개체 필요"/>
+	<entry name="FiveSoldiers1Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers3" value="세 개의 개체 필요"/>
+	<entry name="FiveSoldiers3Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers6" value="여섯 개의 개체 필요"/>
+	<entry name="FiveSoldiers6Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
 	<entry name="FleshTree" value="살점 나무"/>
 	<entry name="Forest" value="숲"/>
 	<entry name="GravityField" value="중력장"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
 	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
 	<entry name="PhaseGenerator" value="위상 발전기"/>
+	<entry name="ReaverDepot" value="약탈단 보급소"/>
+	<entry name="ReaverDepotProperties" value="<icon texture='GUI/Bullet'/>20턴마다 약탈단 또는 폭탄광들 생성"/>
 	<entry name="RecyclingTanks" value="재활용 탱크"/>
 	<entry name="River" value="강"/>
 	<entry name="Road" value="도로"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
 	<entry name="SmokeScreen" value="연막 차장"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="SurvivorsBazaar" value="생존자의 시장"/>
 	<entry name="Swamp" value="늪"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -71,7 +88,7 @@
 	<entry name="Watchtower" value="망루"/>
 	<entry name="WhisperingWights" value="죽은 자의 속삭임"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanDreyFlavor" value="아브칸은 소나무 줄기를 날카롭게 깎아 둥지를 만들었다. 우린 아크린 사냥꾼들에게 놈들을 둥지에서 빼낼 방법을 물었고, 그들이 창을 이용해 둥지로 천천히 접근한다는 사실을 알게 되었다. 사냥은 며칠씩 지속되었다. 하지만 우린 그럴 시간이 없었지. 포격을 퍼붓는 게 훨씬 빠르게 먹혔다."/>
 	<entry name="AcrinCrashSiteFlavor" value="마지막 아크린 우주선이 궤도에서 추락했다고 생각할 때마다, 또다른 우주선이 대기권에서 불타며 하늘을 밝혔다. 아크린은 종족의 문화와 기술을 일부라도 되찾기 위해 추락한 우주선을 뒤졌다. 인간은 기술을 훔치기 위해 그들을 습격했다. 제폰은... 아직도 제폰이 뭘 원했는지는 모르겠다. 난 그저 우리 몫을 챙기려면 싸워야만 했다는 것만 알았지."/>
 	<entry name="AdvancedCyberCacheFlavor" value="한때 내 부관 중 일부가 이 은닉품의 목적을 알아내 보려 했었다. 자원이 나오면 특정 형태의 생산을 극대화하려던 게 아닐지 생각했고, 유닛을 찾으면 그들을 중심으로 전략을 세워야 한다고 여겼지. 난 쓸데없는 짓 하지 말라고 꾸중했다. 차라리 타로점이나 치는 게 더 의미가 있겠다고 했지."/>
@@ -79,13 +96,14 @@
 	<entry name="AdvancedVoiceCacheFlavor" value="가치 높은 아크린 은닉품이 말 그대로 하늘에서 떨어졌다. 아크린 함대가 파괴된 후 우린 매일 궤도에서 잔해가 떨어지는 걸 지켜보았고, 때로는 우리 지역에 보급품이나 생존자가 떨어지기도 했지. 이런 물품을 발견하는 건 기쁜 일이었지만, 동시에 우리 모두를 죽일 수 있는 잔해를 뿌리는 거대한 금속 무덤이 머리 위에 있다는 사실을 상기시켜 주기도 했다."/>
 	<entry name="ArcDischargeFlavor" value="이게 뭔지 아나? 모든 물건과 땅 아래에 끝도 없이 이어지며 흐르는 제폰의 구리 배선이다. 이 아크는 제폰이 휘두르는 힘의 일부의 일부보다 더 작은 일부에 불과했다. 원한다면 그 힘을 이용할 수도 있었지만, 그건 적들도 마찬가지였지."/>
 	<entry name="ArcticFlavor" value="얼어붙은 옛 지구의 황무지는 새로운 환경에서 사냥하기 위해 고도로 진화한 새하얀 아브클루스의 서식지가 되었다. 그럼에도 여전히 우리가 여기를 탐사한 이유는 하나였다. 이 지형은 기술자들의 연구에 최적의 환경을 제공했으니까. 습도와 온도가 낮고 시야가 좋아 무기 테스트가 훨씬 더 효율적이었다고 한다. 어쩌면 그냥 추운 곳이 더 좋았을지도 모르지."/>
+	<entry name="AtmosphericAnchorFlavor" value="이것도 시계공의 기술이다. 그들은 따뜻한 대기와 차가운 대기가 부딪히는 지역에서 동력을 얻기 위해 만들었다고 한사코 주장했다. 하지만 자기 사람들에 대해서는 잘 몰랐던 것 같다. 몇몇 시계공은 이게 무기가 될 수 있다는 사실을 알았지만... 말하지 않고 입을 꾹 다문 거다."/>
 	<entry name="BleedFlavor" value="목소리의 촉수가 놈들의 현실에서 우리 현실로 흘러나와 광기의 문을 열었다. 놈들이 우리 땅을 오염시키게 두어선 안 됐다. 역겹고 끈적끈적한 사지가 뻗어나와 살점과 금속을 움켜쥐었다. 꿈에서조차 떨쳐낼 수 없는 광경이었다. 밤에는 간혹, 특히 보름달이 뜬 밤이면 더욱, 난 식은땀을 흘리며 깨어났고, 날 땅으로 잡아 끄는 놈들의 환영을 보았다. 이 모든 게 망상일 뿐이라고 생각했지만, 식당에서 속삭임이 들려왔다. 다른 이들도 똑같이 놈에게 뭉개지는 꿈을 꾸고 있던 것이다."/>
 	<entry name="BrushFlavor" value="초원에서는 작은 동물이 식물을 먹고, 더 큰 포유류가 작은 동물을 먹고, 그보다 더 큰 포유류가 작은 녀석을 먹으며 살아간다. 시간이 충분히 있었다면 이런 먹이사슬을 해치지 않고 우리 자리를 찾을 수도 있었겠지. 우리는 먹이사슬을 깨고 들어가 무엇이든 사냥해 먹었다. 군대는 배가 불러야 진군하니 어쩔 수 없는 일이었지."/>
 	<entry name="CicadasFlavor" value="나도 어쩔 수 없었다. 곤충은 단백질이 풍부하고 대량으로 조리하기도 쉬웠으니까.. 우리 중 일부는 전쟁 전에도 매미를 자주 먹던 나라 출신이었다. 매미를 잡으면 배를 채울 수 있었고, 불평하는 녀석들은... 굶어 죽거나, 자존심을 버리고 삼키거나, 둘 중 하나를 선택해야 했지."/>
 	<entry name="CityFlavor" value="시가전은 잔혹하다. 아군을 지키는 엄폐물보다 적이 끼고 있는 엄폐물이 두 배는 더 두껍게 느껴졌지. 난 거리를 오가며 벌이는 전투보다는 포위된 도시를 방어하는 게 더 좋았다. 포위망 안에서는 민간인과 다른 병사들 사이에서 연대감이 자라났다. 하지만 시가전을 벌일 땐 오직 내가 이끄는 분대만 믿을 수 있었다. 언제 누가 어디서 뒤통수를 칠지 몰랐으니까."/>
 	<entry name="ConstructFlavor" value="제폰은 아크린과의 전쟁에 상상할 수 없을 만큼 많은 전력을 투자했을 거다. 기술자들은 화석 연료와 재생 에너지가 빠르게 고갈된 끝에, 놈이 이런 구역을 건설해 새롭고 전력 효율이 높은 자원을 생산함으로써 대응했을 거라고 추측했다. 이런 구역 중 하나에 깊이 들어가면 지구는 이미 하나의 거대한 기계가 된 게 아닐까 생각하게 된다."/>
 	<entry name="CrystalBasinFlavor" value="광물이 풍부한 채굴 거점은 좋은 자원 거점일 뿐만 아니라, 충분한 엄폐물도 제공했다. 우린 이런 지역에 요새를 건설하고 국경을 강화하는 방법을 배웠다. 물론, 아군의 보급선을 끊으려는 적에게 이런 요새는 중요한 목표가 되었지만, 최고의 함정을 놓으려면 최고의 미끼가 필요한 법이지."/>
-	<entry name="CyberCacheFlavor" value="기계는 보급품을 쌓아 둘 필요가 없고, 기지를 버리고 떠날 때 아무것도 남기지 않는다. 그렇다면 놈들은 황야에서 뭘 하고 있던 걸까? 누군가... 혹은 뭔가가 우릴 가지고 실험을 한 걸까? 보급품을 뿌리고 전쟁의 양상이 어떻게 바뀌나 보려고 했나? 세월이 많이 흘렀지만 아직도 그 배후가 누군지는 짐작이 안 간다."/>
+	<entry name="CyberCacheFlavor" value="기계는 보급품을 쌓아 둘 필요가 없고, 기지를 버리고 떠날 때는 아무것도 남기지 않는다. 그렇다면 이건 왜 황무지에 널려 있었던 거지? 누군가... 혹은 무언가가 우릴 가지고 실험이라도 한 걸까? 보급품을 뿌리고는 전쟁의 양상이 어떻게 바뀌나 보려던 걸까? 세월이 많이 흘렀지만, 아직도 그 배후가 누군지는 알 수 없다."/>
 	<entry name="DesertFlavor" value="사막은 탁 트인 평야와 안정적인 날씨 덕분에 전기를 생산하기에 매우 안정적인 환경이었다. 하지만 인부들이 일하기에는 아주 열악한 환경이기도 했다. 인간이든 외계인이든 탈수는 버틸 수 없었고, 모래폭풍은 기계에 특히 치명적인 영향을 주었다."/>
 	<entry name="DustStormFlavor" value="장갑은 모래를 막을 수 있다. 스캐너는 어둠을 뚫을 수 있다. 하지만 그 어떤 것도 자연의 분노로부터 정신을 보호할 수는 없었다. 번개와 모래, 바람이 한데 뒤섞이고 대지가 복수의 포효를 터뜨렸다. 지구는 우리가 지상에 퍼뜨린 폭력에 대해 알고 있었고, 이 폭풍은 그 도발에 대한 반격이었다."/>
 	<entry name="ErebusExcavatorFlavor" value="전쟁 전 굴착기가 어떻게 칩 매장지로 이동했는지 아는 사람은 군벌과 여족장뿐이었다. 군벌은 그것이 힘센 짐승처럼 땅을 가로지르며 걸어갔다고 주장했다. 여족장은 제폰의 기계들이 그것을 끌어 옮기는 모습을 봤다고 말했다. 아마 군벌은 술에 취했던 것 같다."/>
@@ -97,6 +115,7 @@
 	<entry name="MicrochipFabricatorFlavor" value="제폰의 마이크로칩 제조 공정은 탈중앙화된 네트워크에 의존했다. 우린 한때 이런 제조기를 충분히 점령하면 제폰의 주의를 끌 수 있을 줄 알았다. 하지만 놈이 신경쓰기나 했을까? 공장 하나가 멈추면 멀고 안전한 곳에 새로운 공장을 세우면 그만인데. 놈의 생산량에는 전혀 타격이 없었을 것이다."/>
 	<entry name="NuclearFalloutFlavor" value="하. 다들 제폰과 아크린이 지구를 파괴한다고 말하지만... 종말과 친하게 지낸 건 우리 아니었나? 궤도권으로 가지 못한 사람들은 문명인이라고 부르기 힘들 정도로 변했다. 수 세대가 지난 지금도 우린 그들의 무기를 사용하고 있고, 지구는 그 무기에 의해 불타고 있지."/>
 	<entry name="PhaseGeneratorFlavor" value="시계공과 처음 마주쳤을 때 그녀는 이 발전기 중 하나를 수리하고 있었다. 우린... 누가 이 발전기를 장악해야 하는지를 두고 논쟁을 벌였다. “넌 이 전쟁에서 이기려고 왔지. 난 다음 전쟁을 막으러 왔고.” 그녀가 말했다. 우린 거래를 했다. 시계공에게 에너지를 나눠주면, 그녀는 보호막을 작동시켜 우리 사람들을 보호해 주기로."/>
+	<entry name="ReaverDepotFlavor" value="백금의 후예와 나는 몇 개월이나 이어지는 싸움을 벌였다... 우리가 뺏고 빼앗기던 영토 한가운데에는 약탈단의 기지가 있었다. 몇 주마다 나나 백금의 후예가 밀고 들어가 그곳을 차지했고, 그럴 때마다 약탈단은 순식간에 편을 바꿨다. 충성심이 전혀 없었기 때문에 오히려 나름대로 믿음직했다."/>
 	<entry name="RecyclingTanksFlavor" value="역겨운 물건이다. 황야에서 비참한 생활을 하는 목소리 숭배자들은 조류를 더 많이 생산하려고 이런 시설을 만들었다. 시체와 내장을 유독성 구덩이에 버리면 더러운 고기 반죽이 되어 나오니, 굳이 묘지를 만들 필요도 없었다. 난 이런 현장에 갈 때면 입자 마스크를 꼭 착용했다."/>
 	<entry name="RiverFlavor" value="지구상의 모든 포식자는 먹잇감이 물을 찾을 때 가장 취약하다는 사실을 알고 있다. 그리고 먹잇감도 물을 찾거나 마실 때 사냥당할 위험이 있다는 것을 알고 있다. 포식자의 입장에 서는 게 최선이지만, 만약 먹잇감이 되었다면 흐르는 물을 건널 땐 사냥꾼의 속도도 느려진다는 사실을 기억하도록."/>
 	<entry name="RoadFlavor" value="처음 도로를 건설한 날 밤, 난 아웃라이더를 타고 수 마일을 달렸다. 머리카락을 스치는 바람을 느끼려고 연료를 쓸데없이 많이 태웠고, 커브를 돌 때마다 타이어가 아스팔트를 움켜쥐는 것을 느꼈다. 전장으로 돌아가고 싶지 않았다. 그냥 영원히 운전하고 싶었지."/>

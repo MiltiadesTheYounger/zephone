@@ -3,9 +3,11 @@
 	<!-- Combined with Attributes.xml or Effects.xml entries.
 	E.g. with Attributes.xml: "+10 accumulated growth after attacking if unit has not moved"
 			with Effects.xml: "Changes control on removal" -->
+	<entry name="AfterAttackingMechanicalUnit" value=" после атаки по механическому юниту"/>
 	<entry name="AfterAttackingIfNotMoved" value=" после атаки, если юнит не двигался"/>
 	<entry name="AgainstBiologicalUnits" value=" против биологических юнитов"/>
 	<entry name="AgainstFlyingUnits" value=" против летающих юнитов"/>
+	<entry name="AgainstFortifications" value=" против укреплений"/>
 	<entry name="AgainstLargeUnits" value=" против больших юнитов"/>
 	<entry name="AgainstNonAdjacentUnits" value=" против НЕ-смежных юнитов"/>
 	<entry name="AgainstNonFlyingUnits" value=" против НЕ-летающих юнитов"/>
@@ -32,7 +34,7 @@
 	<entry name="EachTurn" value=" каждый ход"/>
 	<entry name="EachTurnInBleed" value=" каждый ход на Течи"/>
 	<entry name="EachTurnLogisticsExperts" value=" каждый ход (&lt;icon texture='Icons/Traits/LogisticsExperts' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/LogisticsExperts'/&gt;)"/>
-	<entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" каждый ход на центральной клетке и на смежных клетках (с силой половины атак)"/>
+	<entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" каждый ход на центральной клетке и половиной атак на смежных клетках"/>
 	<entry name="EachTurnResourceNetwork" value=" каждый ход (&lt;icon texture='Icons/Traits/ResourceNetwork' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/ResourceNetwork'/&gt;)"/>
 	<entry name="EnergyUpgrade" value=" в типах местности арктика и болото"/>
 	<entry name="Every5Turns" value=" каждые 5 ходов"/>
@@ -40,13 +42,11 @@
 	<entry name="ForActions" value=" от действий"/>
 	<entry name="ForAdministrationComplex" value=" — &lt;string name='Buildings/Influence'/&gt;"/>
 	<entry name="ForAlliedUnits" value=" для союзных юнитов"/>
-	<entry name="ForAnchoriteUnits" value=" для юнитов Анахорета"/>
-	<entry name="ForChieftessUnits" value=" для юнитов Дикарки"/>
 	<entry name="ForConstructionYard" value=" — &lt;string name='Buildings/Construction'/&gt;"/>
-	<entry name="ForControllingCity" value=" внутри города"/>
+	<entry name="ForControllingCity" value=" для контролирующего города"/>
 	<entry name="ForCyberUnits" value=" для юнитов киберов"/>
+	<entry name="ForCyberTechnologies" value=" технологий киберов"/>
 	<entry name="ForCyberProductionBuildings" value=" для производственных зданий киберов"/>
-	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" для юнитов киберов при атаке из лесов или руин"/>
 	<entry name="ForEnemyGroundUnits" value=" вражеским наземным юнитам"/>
 	<entry name="ForGroundUnits" value=" для наземных юнитов"/>
 	<entry name="ForHumanBiologicalUnits" value=" для биологических юнитов людей"/>
@@ -65,9 +65,10 @@
 	<entry name="ForStationedMechanicalUnitEachTurn" value=" размещённому механическому юниту каждый ход"/>
 	<entry name="ForStationedUnit" value=" размещённому юниту"/>
 	<entry name="ForUnits" value=" юнитам"/>
+	<entry name="ForVoiceUnits" value=" для юнитов Голоса"/>
 	<entry name="ForXTurns" value=" на %1%"/>
-	<entry name="ForZephonUnits" value=" для юнитов ЗЕФОНа"/>
 	<entry name="FromCargoOnDeath" value=" с погруженных юнитов при гибели"/>
+	<entry name="FromFireDamage" value=" от огня"/>
 	<entry name="FromGenerousContacts" value=" от великодушных контактов"/>
 	<entry name="FromHammerheads" value=" от молотоголовов"/>
 	<entry name="FromTargetTile" value=" с указанной клетки"/>
@@ -89,6 +90,7 @@
 	<entry name="IndependentUpgrade2" value=" при численности населения от 7 до 12"/>
 	<entry name="InternalRepairStation" value=" перевозимым юнитам"/>
 	<entry name="LoyaltyUpgrade" value=" каждый ход за каждое здание «&lt;string name='Buildings/Loyalty'/&gt;» в городе"/>
+	<entry name="OfFlagshipProductOnDeath" value=" &lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
 	<entry name="OfTargetAlliedUnit" value=" указанного союзного юнита"/>
 	<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" указанного вражеского юнита НЕ-титана, НЕ-героя, НЕ-штаба с небесконечным боевым духом и менее 50% ед. жизни"/>
 	<entry name="OfTargetEnemyAbkluth" value=" указанного вражеского юнита абклютов"/>
@@ -98,6 +100,7 @@
 	<entry name="OnCliffs" value=" на утёсах"/>
 	<entry name="OnCoast" value=" на берегу"/>
 	<entry name="OnDeath" value=" при гибели"/>
+	<entry name="InForestRuinSmokeScreen" value=" в лесах, руинах или дымовых завесах"/>
 	<entry name="OnHeight3" value=" на высоте 3"/>
 	<entry name="OnHeight4" value=" на высоте 4"/>
 	<entry name="OnMoraleLossFromDeath" value=" при потере боевого духа от смерти"/>
@@ -106,7 +109,7 @@
 	<entry name="OnRoads" value=" на дорогах"/>
 	<entry name="OnTargetAndAdjacentTiles" value=" на указанной и смежных клетках"/>
 	<entry name="OnTargetTile" value=" на указанной клетке"/>
-	<entry name="OnTargetTileAndHalfOnAdjacentTiles" value=" на указанной клетке и на смежных клетках (с силой половины атак)"/>
+	<entry name="OnTargetTileAndHalfOnAdjacentTiles" value=" на указанной клетке и половиной атак на смежных клетках"/>
 	<entry name="OnTilesAdjacentToBlackHole" value=" на клетках, смежных с чёрной дырой"/>
 	<entry name="OnTilesInTheArea" value=" на клетках в области"/>
 	<entry name="OnTilesWithOnlyThisTypeOfBuilding" value=" на клетках с только этим типом здания"/>
@@ -116,8 +119,9 @@
 	<entry name="PerTileInCity" value=" за каждую клетку в городе"/>
 	<entry name="PopulationLimitUpgrade" value=" на клетках со зданием «&lt;string name='Buildings/Loyalty'/&gt;»"/>
 	<entry name="ResearchUpgrade" value=" в лесах"/>
-	<entry name="SingularityCoresUpgrade" value=" за каждое здание «Квантовый манипулятор» в каждом своём городе"/>
+	<entry name="SingularityCoresUpgrade" value=" за каждое другое здание «Квантовый манипулятор» в каждом своём городе"/>
 	<entry name="TacticalVisor" value=" при нахождении в смежной клетке с другими союзными ишимами-силовиками"/>
+	<entry name="TacticalInsertion" value=" на указанной клетке с лесами, руинами или дымовой завесой без вражеского города"/>
 	<entry name="TargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" указанный вражеский юнит НЕ-титан, НЕ-герой, НЕ-штаб"/>
 	<entry name="TargetNonTitanNonFortificationUnit" value=" указанный юнит НЕ-титан, НЕ-укрепление"/>
 	<entry name="TargetUnit" value=" указанный юнит"/>
@@ -129,6 +133,7 @@
 	<entry name="ToAdjacentEnemyUnitsOnDeath" value=" смежным вражеским юнитам при гибели"/>
 	<entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" смежным вражеским большим механическим юнитам"/>
 	<entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" смежным вражеским большим механическим юнитам НЕ-титанам"/>
+	<entry name="ToAdjacentEnemyLargeMechanicalNonTitanNonHeroUnits" value=" смежным вражеским большим механическим юнитам НЕ-титанам, НЕ-героям"/>
 	<entry name="ToAdjacentUnits" value=" смежным юнитам"/>
 	<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" смежным юнитам при количестве ед. жизни менее 75%"/>
 	<entry name="ToAlliedBiologicalUnitsEachTurn" value=" союзным биологическим юнитам каждый ход"/>
@@ -139,59 +144,76 @@
 	<entry name="ToAlliedUnitsInTheArea" value=" союзным юнитам в области"/>
 	<entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" союзным юнитам на указанной и смежных клетках"/>
 	<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" союзным юнитам на клетках в указанной области"/>
+	<entry name="ToAnchorite" value=" Анахорету"/>
 	<entry name="ToAttackedEnemy" value=" атакованному врагу"/>
 	<entry name="ToAttacker" value=" атакующему"/>
+	<entry name="ToBuildingsOnTargetAlliedCityTile" value=" зданиям на указанной клетке союзного города"/>
 	<entry name="ToBiologicalEnemy" value=" биологическому врагу"/>
 	<entry name="ToBiologicalNonTitanEnemy" value=" биологическому врагу НЕ-титану"/>
 	<entry name="ToBiologicalUnits" value=" биологическим юнитам"/>
+	<entry name="ToChieftess" value=" Дикарке"/>
+	<entry name="ToChieftessAnchoriteZephon" value=" Дикарке, Анахорету и ЗЕФОНу"/>
 	<entry name="ToCity" value=" городу"/>
 	<entry name="ToEnemy" value=" врагу"/>
 	<entry name="ToEnemyCity" value=" вражескому городу"/>
-	<entry name="ToEnemyUnitAndAdjacentEnemyUnitsOnRemoval" value=" вражескому юниту и смежным вражеским юнитам (с силой половины атак) при удалении"/>
+	<entry name="ToEnemyUnitAndAdjacentEnemyUnitsOnRemoval" value=" вражескому юниту и половиной атак смежным вражеским юнитам при удалении"/>
 	<entry name="ToEnemyUnits" value=" вражеским юнитам"/>
 	<entry name="ToEnemyUnitsEachTurn" value=" вражеским юнитам каждый ход"/>
 	<entry name="ToMechanicalEnemy" value=" механическому врагу"/>
 	<entry name="ToMechanicalNonTitanEnemy" value=" механическому врагу НЕ-титану"/>
 	<entry name="ToMeleeAttackers" value=" атакующим в ближнем бою"/>
+	<entry name="ToNonHeadquartersBuildingsOnTargetAlliedCityTile" value=" зданиям НЕ-штаба на указанной клетке союзного города"/>
 	<entry name="ToNonLargeEnemy" value=" НЕ-большому врагу"/>
 	<entry name="ToNonLargeAlliedUnits" value=" НЕ-большим союзным юнитам"/>
 	<entry name="ToNonLowPowerWeapon" value=" НЕ-разряженному оружию"/>
 	<entry name="ToNonTitanEnemy" value=" врагу НЕ-титану"/>
 	<entry name="ToSourceUnit" value=" исходному юниту"/>
+	<entry name="ToSpawnedUnit" value=" порождённому юниту"/>
 	<entry name="ToUnitAndAdjacentAlliedBiologicalUnits" value=" юниту и смежным союзным биологическим юнитам"/>
+	<entry name="ToUnitAndAdjacentAlliedUnits" value=" юниту и смежным союзным юнитам"/>
 	<entry name="ToTargetAlliedBiologicalUnit" value=" указанному союзному биологическому юниту"/>
 	<entry name="ToTargetAlliedCity" value=" указанному союзному городу"/>
+	<entry name="ToTargetAlliedCherubimTitan" value=" указанному союзному юниту &lt;string name='Units/CherubimTitan'/&gt;"/>
 	<entry name="ToTargetAlliedDamagedBiologicalUnit" value=" указанному повреждённому союзному биологическому юниту"/>
 	<entry name="ToTargetAlliedDamagedMechanicalUnit" value=" указанному повреждённому союзному механическому юниту"/>
 	<entry name="ToTargetAlliedDamagedUnit" value=" указанному повреждённому союзному юниту"/>
 	<entry name="ToTargetAlliedMechanicalUnit" value=" указанному союзному механическому юниту"/>
 	<entry name="ToTargetAlliedNonLargeUnaugmentedUnit" value=" указанному союзному НЕ-большому юниту без апгрейдов"/>
+	<entry name="ToTargetAlliedNonLargeUnit" value=" указанному союзному НЕ-большому юниту"/>
+	<entry name="ToTargetAlliedNonTitanUnit" value=" указанному союзному НЕ-титану"/>
+	<entry name="ToTargetAlliedOutpost" value=" указанной союзной заставе"/>
 	<entry name="ToTargetAlliedUnit" value=" указанному союзному юниту"/>
 	<entry name="ToTargetAlliedUnitWithRangedWeapons" value=" указанному союзному юниту с дистанц. оружием"/>
 	<entry name="ToTargetAlliedUnitWithMothersFavor" value=" указанному союзному юниту, имеющему &lt;string name='Traits/MothersFavor'/&gt;"/>
 	<entry name="ToTargetAndAdjacentAlliedUnits" value=" указанному и смежным союзным юнитам"/>
 	<entry name="ToTargetBiologicalUnit" value=" указанному биологическому юниту"/>
 	<entry name="ToTargetEnemyCity" value=" указанному вражескому городу"/>
+	<entry name="ToTargetEnemyNonLargeUnit" value=" указанному вражескому НЕ-большому юниту"/>
 	<entry name="ToTargetEnemyNonTitanUnit" value=" указанному вражескому юниту НЕ-титану, НЕ-герою"/>
 	<entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" указанному вражескому юниту НЕ-титану, НЕ-герою, НЕ-штабу"/>
 	<entry name="ToTargetEnemyUnit" value=" указанному вражескому юниту"/>
+	<entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" указанному вражескому юниту и половиной атак врагам на клетках слева и справа от цели"/>
 	<entry name="ToTargetEnemyZephonUnit" value=" указанному вражескому юниту ЗЕФОНа"/>
 	<entry name="ToTargetEnemyZephonNonTitanUnit" value=" указанному вражескому юниту ЗЕФОНа НЕ-титану"/>
 	<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" указанному вражескому юниту ЗЕФОНа НЕ-титану, НЕ-штабу"/>
+	<entry name="ToTargetOwnUnit" value=" указанному собственному юниту"/>
 	<entry name="ToTargetOwnBiologicalUnit" value=" указанному своему биологическому юниту"/>
 	<entry name="ToWeapons" value=" оружию"/>
+	<entry name="ToZephon" value=" ЗЕФОНу"/>
 	<entry name="UnitsOnDeath" value=" юниты при гибели"/>
 	<entry name="UzhodaisZeal" value=" за каждый смежный вражеский юнит"/>
 	<entry name="VoiceAircraftUpgrade" value=" производимых юнитов за каждое здание «Ода рассвету» в каждом своём городе"/>
 	<entry name="VoiceVehiclesUpgrade" value=" при гибели передаётся в виде производства каждому зданию «Гимн заката» в городе"/>
 	<entry name="VoiceInfantryUpgrade" value=" производимых юнитов за каждое здание «Полуночный хор» в городе"/>
+	<entry name="WhenAttackingFromForestsOrRuins" value=" при атаке из лесов или руин"/>
 	<entry name="WhenAttackingFromHighGround" value=" при атаке с возвышенности"/>
 	<entry name="WhenDurationRunsOut" value=" по окончании времени действия"/>
+	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" при остановке вражеского наземного юнита на клетке"/>
 	<entry name="WhenFirstCaptureFeature" value=" при первом захвате заставы"/>
 	<entry name="WhenKillingBiologicalUnit" value=" при убийстве биологического юнита"/>
 	<entry name="WhenKillingNonDeformingBiologicalUnit" value=" при убийстве биологического НЕ-уродующего юнита"/>
 	<entry name="WhenKillingUnit" value=" при убийстве юнита"/>
-	<entry name="WhenEnemyGroundUnitStopsOnTile" value=" при остановке вражеского наземного юнита на клетке"/>
+	<entry name="WhenUnitMoves" value=" при движении юнита"/>
 	<entry name="WhenTakingDirectDamage" value=" при получении прямого урона"/>
 	<entry name="WhileAbove2Loyalty" value=" при лояльности более 2"/>
 	<entry name="WhileAbove8Loyalty" value=" при лояльности более 8"/>

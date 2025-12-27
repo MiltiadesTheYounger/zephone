@@ -20,8 +20,8 @@
 	<entry name="Embark" value="&lt;icon texture='GUI/Bullet'/&gt;Посаджує%1%"/>
 	<entry name="KillCargo" value="&lt;icon texture='GUI/Bullet'/&gt;Знищує вантаж%1%"/>
 	<entry name="Pull" value="&lt;icon texture='GUI/Bullet'/&gt;Притягує%1%"/>
-	<entry name="RemoveBuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Видаляє посилення%1%"/>
-	<entry name="RemoveDebuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Видаляє ослаблення%1%"/>
+	<entry name="RemoveBuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Видаляє посилення%1% (крім посилень від пасивних дій)"/>
+	<entry name="RemoveDebuffs" value="&lt;icon texture='GUI/Bullet'/&gt;Видаляє ослаблення%1% (крім «Приголомшений», «Пошкодження», «Зламаний» та ослаблень від пасивних дій)"/>
 	<entry name="ResetActionPoints" value="&lt;icon texture='GUI/Bullet'/&gt;Відновлює всі очки дії%1%"/>
 	<entry name="ResetCooldowns" value="&lt;icon texture='GUI/Bullet'/&gt;Скидає всі перезарядки%1%"/>
 	<entry name="ResetMovement" value="&lt;icon texture='GUI/Bullet'/&gt;Відновлює всі очки руху%1%"/>

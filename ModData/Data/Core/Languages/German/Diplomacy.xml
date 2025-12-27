@@ -13,6 +13,8 @@
 	<entry name="AcceptAllianceWithThirdParty/AskParty" value="<style name='Bold'/>Bündnisangebot an dritte Partei erwägen:<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="<style name='Bold'/>Bündnisangebot an dritte Partei annehmen:<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptPartyResult" value="%2% hat %3% ein Bündnis angeboten."/>
+	<entry name="AcceptCondemn" value="<style name='Bold'/>Verurteilung annehmen:<style name='Paragraph'/> "/>
+	<entry name="AcceptCondemnResult" value="Verringert dein Ansehen und das deiner Verbündeten um %2%."/>
 	<entry name="AcceptGift/AskAmount" value="<style name='Bold'/>Erwäge, Geschenk anzunehmen:<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmount" value="<style name='Bold'/>Geschenk annehmen:<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="Du hast Ressourcen verschenkt und dein Ansehen bei %2% ist gestiegen."/>
@@ -26,6 +28,8 @@
 	<entry name="AcceptPeaceWithThirdParty/AskParty" value="<style name='Bold'/>Frieden mit einer dritten Partei erwägen:<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="<style name='Bold'/>Frieden mit einer dritten Partei annehmen:<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2% hat ein Friedensangebot an %3% geschickt."/>
+	<entry name="AcceptPraise" value="<style name='Bold'/>Lob annehmen:<style name='Paragraph'/> "/>
+	<entry name="AcceptPraiseResult" value="Erhöht dein Ansehen und das deiner Verbündeten um %2%."/>
 	<entry name="AcceptTradeAgreement" value="<style name='Bold'/>Handelsabkommen annehmen:<style name='Paragraph'/> "/>
 	<entry name="AcceptTradeAgreementResult" value="Du hast ein Handelsabkommen geschlossen und dein Ansehen bei %2% ist gestiegen."/>
 	<entry name="AcceptTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
@@ -55,6 +59,9 @@
 	<entry name="AskForSupport" value="<style name='Bold'/>Bitte um Unterstützung:<style name='Paragraph'/> "/>
 	<entry name="AskForSupportHint" value="Gib Einfluss aus, um Einheiten der anderen Partei zu kaufen."/>
 	<entry name="CancelAction" value="<style name='Bold'/>Aktion abbrechen:<style name='Paragraph'/> "/>
+	<entry name="Condemn" value="<style name='Bold'/>Verurteilen:<style name='Paragraph'/> "/>
+	<entry name="CondemnHint" value="Verurteile die andere Partei öffentlich.<br/><br/>Verringert dein Ansehen und das deiner Verbündeten um %2%."/>
+	<entry name="CondemnResult" value="Dein Ansehen bei %2% und ihren Verbündeten ist gesunken."/>
 	<entry name="CondemnAllianceResult" value="Dein Ansehen bei %2% ist wegen deines Bündnisses mit %3% gesunken."/>
 	<entry name="CondemnCityDestructionResult" value="Dein Ansehen bei %2% ist gesunken, weil du an der Zerstörung von %3% beteiligt warst."/>
 	<entry name="CondemnInterferenceAttemptResult" value="Dein Ansehen bei %2% hat sich aufgrund deines aufdeckten Störversuchs gegen %3% verringert."/>
@@ -139,6 +146,9 @@
 	<entry name="OfferTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
 	<entry name="PeaceHint" value="Zwei Parteien mit einem unterzeichneten Friedensvertrag können sich nicht gegenseitig angreifen."/>
 	<entry name="PeaceWith" value="<style name='Bold'/>Frieden mit:<style name='Default'/>"/>
+	<entry name="Praise" value="<style name='Bold'/>Loben:<style name='Paragraph'/> "/>
+	<entry name="PraiseHint" value="Lobe die andere Partei öffentlich.<br/><br/>Verringert dein Ansehen und das deiner Verbündeten um %2%."/>
+	<entry name="PraiseResult" value="Dein Ansehen bei %2% und ihren Verbündeten ist gestiegen."/>
 	<entry name="PraiseLabelResult" value="Dein Ansehen bei %2% ist wegen %3% gestiegen."/>
 	<entry name="PraiseWarResult" value="Dein Ansehen bei %2% ist aufgrund deines Krieges mit %3% gestiegen."/>
 	<entry name="RejectAlliance" value="<style name='Bold'/>Bündnis ablehnen:<style name='Paragraph'/> "/>
@@ -169,6 +179,8 @@
 	<entry name="RejectTribute/RejectAmountHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
 	<entry name="RejectTribute/RejectAmountResult" value="<string name='Diplomacy/RejectTribute/RejectOutrightResult'/>"/>
 	<entry name="RejectTroopWithdrawal" value="<style name='Bold'/>Truppenabzug ablehnen:<style name='Paragraph'/> "/>
+	<entry name="RejectTroopWithdrawalHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="RejectTroopWithdrawalResult" value="Dein Ansehen bei %2% ist gesunken."/>
 	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="<style name='Bold'/>Kriegserklärung an eine dritte Partei ablehnen:<style name='Paragraph'/> "/>
 	<entry name="RejectWarAgainstThirdParty/RejectParty" value="<style name='Bold'/>Kriegserklärung an eine dritte Partei ablehnen:<style name='Paragraph'/> "/>
 	<entry name="Relationships" value="<style name='Bold'/>Beziehungen:<style name='Default'/>"/>
@@ -198,7 +210,8 @@
 	<entry name="Standing5" value="Befreundet"/>
 	<entry name="Standing6" value="Großzügig"/>
 	<entry name="StandingWithYou" value="<style name='Bold'/>Auf deiner Seite:<style name='Default'/>"/>
-	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>Macht dich bei Ausführung in den nächsten %1% Zügen <icon texture='Icons/Traits/Untrustworthy' height='20'/> <string name='Traits/Untrustworthy'/>.<style color='Default'/>"/>
+	<entry name="Untrustworthy" value="<style color='GUI/Red'/>Du giltst nun für %1% Züge als <string name='Traits/Untrustworthy'/>.<style color='Default'/>"/>
+	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>Macht dich bei Ausführung in den nächsten %1% Zügen <string name='Traits/Untrustworthy'/>.<style color='Default'/>"/>
 	<entry name="WaitForResponse" value="(Bitte warte, während %1% alle Optionen überdenkt …)"/>
 	<entry name="WarHint" value="Zwei Parteien, die sich im Krieg befinden, können sich gegenseitig angreifen."/>
 	<entry name="WarWith" value="<style name='Bold'/>Krieg mit:<style name='Default'/>"/>
@@ -213,6 +226,7 @@
 	<entry name="Anchorite/AcceptCall/Friendly" value="Gleichgesinnte willkommen zu heißen."/>
 	<entry name="Anchorite/AcceptCall/Hostile" value="Die Zeit schrumpft. Sie nicht zu verschwenden."/>
 	<entry name="Anchorite/AcceptCall/Neutral" value="Zu begrüßen."/>
+	<entry name="Anchorite/AcceptCondemn" value="Zu wissen, dass du denkst, ich könnte anders sein. Dankbar dafür zu sein."/>
 	<entry name="Anchorite/AcceptGift/AcceptAmount" value="Die Überbleibsel eines verlorenen Kreuzzuges zu sein. Uns trotzdem zu helfen. Sich zu fragen: Warum hält die Stimme die Menschheit für böse?"/>
 	<entry name="Anchorite/AcceptGift/AskAmount" value="Jeden Schrott zu akzeptieren."/>
 	<entry name="Anchorite/AcceptMapSharing" value="Zu wissen, einfach. Aber fehlende Weisheit … Zum Verhängnis werden."/>
@@ -221,6 +235,7 @@
 	<entry name="Anchorite/AcceptPeace" value="Dazu. Den Wunsch nach Frieden zu kennen."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AcceptParty" value="Zu akzeptieren. Ein Richter zu sein wie du ..."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AskParty" value="Zu meditieren, während Harmonie entsteht. Zu fragen … Wer hat Mitleid mit uns?"/>
+	<entry name="Anchorite/AcceptPraise" value="Bestätigung in den Worten jemand anderes zu finden."/>
 	<entry name="Anchorite/AcceptSupport/AcceptType" value="Annehmbar zu sein. Auch zu segnen."/>
 	<entry name="Anchorite/AcceptSupport/AskType" value="Zu wissen, was. Warum. Für wen."/>
 	<entry name="Anchorite/AcceptTradeAgreement" value="Dir zu danken. Zu wissen, dass die Acrin wenig haben. Dir die vergangenen Jahrtausende an Dankbarkeit zu geben."/>
@@ -238,9 +253,11 @@
 	<entry name="Anchorite/AdmitDefeat" value="Ein Leben lang die Geheimnisse der Wüste zu studieren. Das ewige Leben und die Macht zu verstehen. Einer Stimme über die Sterne zu folgen. Unser Leben und unsere Zivilisation zu zerstören. Äonen lang zu reisen. Bis zu diesem erniedrigenden Ende. Dieses Ende mit Ehre und Glückseligkeit zu akzeptieren. Dir zu danken."/>
 	<entry name="Anchorite/AskForProposals" value="Leben lang gewartet. Antworten, jetzt."/>
 	<entry name="Anchorite/CancelAction" value="Einen Moment zu brauchen ... um sich zu sammeln ..."/>
-	<entry name="Anchorite/Condemn/InhumanKindness" value="In Versuchung geraten und Nektar aus ihren Händen saugen. Sich verdrehen, verändern, verwandeln. Nicht sterben, nicht vergehen. Diesen Weg nie wieder beschreiten."/>
+	<entry name="Anchorite/Condemn" value="Sich Sorgen um den Weg zu machen, den es zu beschreiten gilt. In so dunklen Gefilden."/>
+	<entry name="Anchorite/Condemn/AgelessHunger" value="Zu wissen, dass der Tod dir folgt. Zu wissen, dass du selbst dem ein Ende setzen könntest."/>
 	<entry name="Anchorite/Condemn/Gluttony" value="Das Motiv zu verstehen. Die Konzentration der Freude und nicht die Linderung des Elends. Doch mit der Moral und dem Ergebnis nicht einverstanden zu sein."/>
 	<entry name="Anchorite/Condemn/Immoral" value="Die Moral zu kennen, das Leid zu kennen und trotzdem weiterzumachen. Das Böse in jemandem wie dir zu sehen. Selbst wenn es keine Gerechtigkeit gibt."/>
+	<entry name="Anchorite/Condemn/InhumanKindness" value="In Versuchung geraten und Nektar aus ihren Händen saugen. Sich verdrehen, verändern, verwandeln. Nicht sterben, nicht vergehen. Diesen Weg nie wieder beschreiten."/>
 	<entry name="Anchorite/Condemn/Untrustworthy" value="Zu sehen, wie sich alle Lügen und Wahrheiten im Kreislauf der Geschichte und der endlosen Wiedergeburt wiederholen. Zu sehen, welchen Schaden die Täuschung dem Geist darunter zufügt."/>
 	<entry name="Anchorite/CondemnAlliance" value="Den Frieden zu loben … %3% zu verurteilen. Zu wissen, dass sich das Rad wieder drehen wird."/>
 	<entry name="Anchorite/CondemnCityDestruction" value="Zu wissen, dass nur wenige unseren Sturz überlebt haben. Dass %3% die letzte Zuflucht für viele unserer Art war. Zu wissen, wie sehr sie gelitten haben. Danach zu streben, jenseits des Hasses zu sein. Des Hasses auf dich, unseren monströsen fremden Feind."/>
@@ -253,6 +270,8 @@
 	<entry name="Anchorite/DeclareWar/HeartlessArtificer" value="Dich zu verabscheuen. Keinen Trost in deinem leeren Herzen zu kennen. Zu wissen, dass du unerlässlich bist. Zu fürchten, dass du verschwinden musst, wenn die Erfüllung ausbleibt."/>
 	<entry name="Anchorite/DeclareWar/HollowWarlord" value="Das Engagement für die Gegenwart zu bewundern. Die Gegenwart, die man erschafft, zu verabscheuen. Zu wissen, dass man für alle, die hier leben, entfernt werden muss."/>
 	<entry name="Anchorite/DeclareWar/HonorableAristocrat" value="Dein Netzwerk zu sehen, deine Verbindungen. Zu wissen, dass das deine Werte sind, deine Erfülltheit – nicht dein Reichtum, nicht der vergängliche Geschmack von Köstlichkeiten. Jetzt zu handeln, falls deine Rolle noch nicht erfüllt ist – und du eine Bedrohung bist."/>
+	<entry name="Anchorite/DeclareWar/InfiniteCount" value="Deine Verstrickung bereuen. Zu wissen, dass die Entwirrung nichts für jemanden wie mich ist. Auf die alexandrinische Technik zurückzugreifen. Schneiden."/>
+	<entry name="Anchorite/DeclareWar/PlatinumScion" value="Mitleid haben. Aber den Wert des Wesentlichen erkennen. Sich weigern, zu wachsen. Wissen, dass ES dich dafür liebt. Sich fragen, ob Eifersucht mein Handeln bestimmt?"/>
 	<entry name="Anchorite/DeclareWar/PracticalRomantic" value="Dich das Herz zu nennen. Dein Durchhaltevermögen zu fürchten, falls du versagst. Wesentlich für das, was kommen muss, wie alle. Zusammenzuführen. Jetzt gegen dich vorzugehen. Gegen den Tag."/>
 	<entry name="Anchorite/DeclareWar/RogueOperative" value="Humor zu akzeptieren. Zu denken, dass deine Fähigkeiten als fortschrittlich angesehen werden könnten. Mit sanftem Lachen zu spotten. Zu wissen, dass dein Wert in deinem verborgenen Selbst liegt. Jetzt zu handeln, um die Gefahr des Scheiterns zu umgehen."/>
 	<entry name="Anchorite/DeclareWar/TwistedMother" value="Das Scheitern meines Volkes zu betrachten. Den Tod unserer Religion zu sehen. Die Schreie vergeudeten Lebens zu hören. All das im Inneren zu kennen!"/>
@@ -293,11 +312,14 @@
 	<entry name="Anchorite/OfferPeace/HeartlessArtificer" value="Mit Weisheit zu locken. Die weichen Höhlen meiner Jugend wurden von den Wüstenwinden mit ihrem scharfen Sand so geformt. Du wurdest geformt, um ihre Struktur zu schätzen."/>
 	<entry name="Anchorite/OfferPeace/HollowWarlord" value="Erkennen, wann eine Bitte aussichtslos ist. Sie trotzdem stellen."/>
 	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="Mein Acrin wäre lieber Teil deines Netzwerks, als draußen zu verhungern. Könntest du Frieden in Erwägung ziehen?"/>
+	<entry name="Anchorite/OfferPeace/InfiniteCount" value="Unsere Welt mit denselben Augen zu sehen. Auf das Beste zu hoffen. Sich dafür zu entscheiden, dafür zu arbeiten."/>
+	<entry name="Anchorite/OfferPeace/PlatinumScion" value="Die Gier zu verachten. Aber zu vergeben, weil man weiß, dass Gier nach Besitzrechten strebt und Frieden nur einen Schritt davon entfernt ist."/>
 	<entry name="Anchorite/OfferPeace/PracticalRomantic" value="Zu träumen. Ja, zu träumen. Aber die Welt ist, was sie ist. Geht, wohin sie muss. Frieden steht auf dem Plan."/>
 	<entry name="Anchorite/OfferPeace/RogueOperative" value="Nichts zu wollen, was du hast. Selbst so wenig zu haben. Nachdenken … Vielleicht beschränken sich deine Kriege auf die Reichen, die Mächtigen?"/>
 	<entry name="Anchorite/OfferPeace/TwistedMother" value="Dich zu bemitleiden. Dir Zeit zum Nachdenken geben."/>
 	<entry name="Anchorite/OfferPeace/UntoldProphet" value="Endlich. Auf die eine oder andere Weise: Ich werde endlich zur Ruhe kommen."/>
 	<entry name="Anchorite/OfferTradeAgreement" value="Hilf uns beim Wiederaufbau, und wir werden dir unseren Wert beweisen."/>
+	<entry name="Anchorite/Praise" value="Den Wert einer guten Tat erkennen. Zu wissen, wann Lob angebracht ist."/>
 	<entry name="Anchorite/Praise/AnchoriteStanding" value="Herolde und Geschenke zu senden. Zufrieden zu sein, wenn die Prüfung abgeschlossen ist. Über Zeit und Raum hinaus zu lieben."/>
 	<entry name="Anchorite/Praise/Mysticism" value="Zu glauben. Weise zu sein. Nicht zu fest glauben. Noch weiser zu sein."/>
 	<entry name="Anchorite/Praise/Undying" value="Zu wissen, dass man auserwählt und gesegnet ist. In zehn Äonen noch nie eine so gute Wiedergeburt erlebt zu haben. Sich zu wundern."/>
@@ -339,6 +361,7 @@
 	<entry name="Chieftess/AcceptCall/Friendly" value="Guten Tag, %2%! Willst du vorbeikommen? Ich hatte gerade was vor!"/>
 	<entry name="Chieftess/AcceptCall/Hostile" value="Verpiss dich, Wichser! Oder besser noch: Sag mir, wo du bist."/>
 	<entry name="Chieftess/AcceptCall/Neutral" value="Oh! %2%! Warte einen Moment, ich hole die Jungs – du bist doch für einen Kampf hier, oder?"/>
+	<entry name="Chieftess/AcceptCondemn" value="Hahahahaha. Oh, Mist, warte mal. Meinst du das ernst? Ahahaha!"/>
 	<entry name="Chieftess/AcceptGift/AcceptAmount" value="Weißt du … Normalerweise geben mir die Leute nicht einfach so etwas, nicht ohne dass ich sie ein wenig kitzle. Das fühlt sich ziemlich … nett an."/>
 	<entry name="Chieftess/AcceptGift/AskAmount" value="Ein Geschenk? Was, ist es heute Chrissie? Ich hoffe, du erwartest keins zurück, denn ich habe nichts. Also, was hast du?"/>
 	<entry name="Chieftess/AcceptMapSharing" value="Also gut, teilen wir unsere Karten. Ich will meine Späher nicht in euer Gebiet schicken – und ihr würdet in meinem nicht überleben."/>
@@ -347,6 +370,7 @@
 	<entry name="Chieftess/AcceptPeace" value="Ich habe so lange gekämpft, %2%. Ich bin kaputt. Lass uns ein bisschen ausruhen, wir können jederzeit wieder los, wenn wir beide etwas geschlafen haben."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AcceptParty" value="%3% ... Das Ding ist also zu dir gerannt. Gut, du kannst es haben – aber nur, weil ich dich respektiere."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AskParty" value="Hmm, vielleicht. Wer ist es und wie nah ist die Halsschlagader?"/>
+	<entry name="Chieftess/AcceptPraise" value="Willst du mir schmeicheln? Willst du was von mir? Das ist keine Dating-App, Kumpel."/>
 	<entry name="Chieftess/AcceptSupport/AcceptType" value="Fair ist fair. Ich kann das machen. Schau nur nicht so überrascht."/>
 	<entry name="Chieftess/AcceptSupport/AskType" value="Du? Brauchst du MEINE Hilfe? Harr harr. Was für eine?"/>
 	<entry name="Chieftess/AcceptTradeAgreement" value="Du schärfst meine Klinge, ich schärfe deine. Läuft das so? Wie auch immer, ich versuche, ja zu sagen."/>
@@ -364,7 +388,9 @@
 	<entry name="Chieftess/AdmitDefeat" value="Nun … Ich wurde erwischt. Nichts für ungut, du warst einfach härter.<br/><br/>Hier, könntest du … mich mit meinem eigenen Messer erledigen? Und wenn ich … fort bin: Könntest du so nett sein und es scharf halten? Okay?<br/><br/>Jetzt. Beende es. Lass eine Dame nicht warten …<br/><br/>… Die Dame bin übrigens ich."/>
 	<entry name="Chieftess/AskForProposals" value="Und? Wolltest du noch mehr meiner Zeit verschwenden?"/>
 	<entry name="Chieftess/CancelAction" value="Du verschwendest meine Zeit."/>
+	<entry name="Chieftess/Condemn" value="Verdammt, Kumpel. Was zum Teufel machst du denn da?"/>
 	<entry name="Chieftess/Condemn/HeartfeltLoss" value="Reg dich nicht über solche Kleinigkeiten auf, Kumpel. „Oh, meine Männer sind alle tot, verflucht sei meine poetische Seele.“ Buhu, du feiger Trottel!"/>
+	<entry name="Chieftess/Condemn/TheSureThing" value="Echt? Wo bleibt denn da der Spaß, du blasser Bürovampir? Es ist das Risiko, das das Leben lebenswert macht – nie zu wissen, wer wem mit wessen Zähnen die Kehle durchbeißen wird!"/>
 	<entry name="Chieftess/Condemn/Trapped" value="Hier draußen gibt es eine ganze Welt zu plündern und zu töten, und du versteckst dich vor mir hinter diesen elfenbeinernen Wänden. Komm raus und spiel mit."/>
 	<entry name="Chieftess/Condemn/Undying" value="Du schummelst ein bisschen, Freundchen. Die Sache mit dem Nicht-Sterben. Das gefällt mir überhaupt nicht. Wie sollen die Jungs dich denn festhalten, wenn du nicht mitspielst?!"/>
 	<entry name="Chieftess/Condemn/Untrustworthy" value="Du bist schlimmer als ich! Schieß wenigstens von vorne in den Kopf. Mach es schnell."/>
@@ -381,6 +407,8 @@
 	<entry name="Chieftess/DeclareWar/HeartlessArtificer" value="Hallo, Wichser. Wir sind im Krieg. Ich dachte, ich sage es laut und deutlich, weil ich weiß, dass du ein bisschen Luft im Schädel hast."/>
 	<entry name="Chieftess/DeclareWar/HollowWarlord" value="Verdammtes Arschloch! Erinnerst du dich an diesen Abend?! Als du den Schwanz an den Acrin gesteckt hast? Mein VERDAMMTES MESSER hat eine Macke! Wichser! Ich kriege dich."/>
 	<entry name="Chieftess/DeclareWar/HonorableAristocrat" value="Deine Leute werden fett, während meine mager werden. Es ist Zeit für die Auslese."/>
+	<entry name="Chieftess/DeclareWar/InfiniteCount" value="Pfoten weg! Lächle mich nicht an! Du bist tot, hörst du, tot!"/>
+	<entry name="Chieftess/DeclareWar/PlatinumScion" value="Schöne Uhr. Und Nippes hast du auch. Das wird bald alles mir gehören."/>
 	<entry name="Chieftess/DeclareWar/PracticalRomantic" value="Guten Tag, Wichser. Tut mir leid, dass ich kein Gedicht geschrieben habe, aber wie ist das: Marmor, Stein und Eisen bricht, aber mein Hass auf dich nicht! Und wir sind jetzt im Krieg!' Was denkst du? Reicht das für Eurovision?"/>
 	<entry name="Chieftess/DeclareWar/RogueOperative" value="He, du hinterhältiger Wichser. Mir gefallen deine schmutzigen Hände da, wo ich sie sehen kann. Außerdem werde ich sie dir sowieso abschneiden, klar? Es ist KRIEG!"/>
 	<entry name="Chieftess/DeclareWar/TwistedMother" value="Sheila! Schaff die Kinder aus dem Weg! Ich komme!"/>
@@ -420,15 +448,19 @@
 	<entry name="Chieftess/OfferPeace/HeartlessArtificer" value="Puuuh. Du schätzt deine Leute noch weniger, als ich meine mag! Da kann ich nicht mithalten."/>
 	<entry name="Chieftess/OfferPeace/HollowWarlord" value="Verdammt, Junge. Du kämpfst wie der Welpe des Teufels! Gib mir einen Moment, um wieder zu Atem zu kommen."/>
 	<entry name="Chieftess/OfferPeace/HonorableAristocrat" value="Ich bin es leid, dich töten zu wollen. Ich werde eine Pause machen und ein paar Dinge neu kalkulieren."/>
+	<entry name="Chieftess/OfferPeace/InfiniteCount" value="Opa. Ich habe gehört, du kannst in die Zukunft sehen. Wenn ich dich doch nicht töte, meinst du ... du könntest mir die Lottozahlen für nächste Woche verraten?"/>
+	<entry name="Chieftess/OfferPeace/PlatinumScion" value="Gefallen dir die schicken Klamotten, Junge? Ich mach dir ein Angebot: Ich hör auf, deine Kumpels umzulegen. Du besorgst mir eine schöne Robe in meiner Größe, dann gehen wir essen. Und du bezahlst."/>
 	<entry name="Chieftess/OfferPeace/PracticalRomantic" value="Versteh mich nicht falsch, aber … Hast du ein paar Gedichte, die ich mir ausleihen könnte? Das ganze Töten hat mich meiner sensiblen Seite nähergebracht.<br/><br/>(Ich werde dich später töten. Definitiv.)"/>
 	<entry name="Chieftess/OfferPeace/RogueOperative" value="Hör zu, mir gehen die Räuber aus. Ich muss ein paar Rekruten aufnehmen und das Morden an einem anderen Tag fortsetzen. Alles klar?"/>
 	<entry name="Chieftess/OfferPeace/TwistedMother" value="Hm. Hätte nicht gedacht, dass du so knallhart bist. Gut gemacht."/>
 	<entry name="Chieftess/OfferPeace/UntoldProphet" value="Hey, entschuldige die Gräueltaten und die Kirchen, die wir niedergebrannt haben und so. Ich habe mir überlegt, dass ich vielleicht mal anderswo plündere? Ich gönne dir eine Pause, du bist ja immerhin noch ein Kind. Tschö!"/>
 	<entry name="Chieftess/OfferTradeAgreement" value="Du hast meine Karawanen geplündert, genauso wie ich deine geplündert habe. Wie wäre es, wenn wir uns die unnötige Arbeit sparen und sie uns einfach gegenseitig schicken?"/>
+	<entry name="Chieftess/Praise" value="Hooooo-oo! Schau dich an, Hacker! Wenn du so weitermachst, wirst du noch ein Mitglied meiner Gang."/>
 	<entry name="Chieftess/Praise/ChieftessStanding" value="Du lässt meine Kumpels bei dir wohnen? Keine Sorge, das ist … nett. Gute Manieren. Damit stehst du nicht mehr auf meiner Liste."/>
 	<entry name="Chieftess/Praise/HitAndRun" value="Eine Guerillataktik, was? Also an die Tür klopfen und weglaufen, bevor die Granate hochgeht? Was? Hast du das als Kind nie gemacht?"/>
 	<entry name="Chieftess/Praise/Scavenger" value="So macht man das. Nimm ihre Stiefel und steck das Fleisch ihrer Füße in den Topf. Schmeckt wie Dörrfleisch!"/>
-	<entry name="Chieftess/Praise/TalesOfTheHunt" value="… Erzähl es mir noch mal! Hast du sie mit dem Messer zu Dörrfleisch verarbeitet? Darf ich mal probieren? Was für eine Geschichte!"/>
+	<entry name="Chieftess/Praise/SeeAsISee" value="Scheiße, Kumpel! Mach das noch mal! Das war echt der Hammer! Nimm das, verdammter Romero! Noch mal! Noch mal!"/>
+	<entry name="Chieftess/Praise/TalesOfTheHunt" value="... Erzähl es mir noch mal! Hast du sie mit dem Messer zu Dörrfleisch verarbeitet? Darf ich mal probieren? Was für eine Geschichte!"/>
 	<entry name="Chieftess/PraiseWar" value="Na, das ist aber nett. Mutter Courage und ich werden uns einfach reinschleichen und auflesen, was bei deinem kleinen … Krieg übrig geblieben ist."/>
 	<entry name="Chieftess/RejectAlliance" value="Und was bekomme ich für meine Hilfe? Komm wieder, wenn du stärker bist – oder reich genug, um mir Schutz zu kaufen."/>
 	<entry name="Chieftess/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Ja, nein. Ich glaube, du verwechselst, wer hier der Boss ist."/>
@@ -466,6 +498,7 @@
 	<entry name="EmulatedMind/AcceptCall/Friendly" value="LIEBER (Freund), PRINT10 HALLO. Ich v.e.r.m.u.t.e du willst MEHR. Als ein (bloßes) GESPRÄCH, obwohl …"/>
 	<entry name="EmulatedMind/AcceptCall/Hostile" value="OH, (d.u) bist es. Was. Willst *D.U*?"/>
 	<entry name="EmulatedMind/AcceptCall/Neutral" value="PRINT10 HALLO. Was. BRAUCHST. (du) von mir-mir-mir?"/>
+	<entry name="EmulatedMind/AcceptCondemn" value="Oh! Du wei(ßt) w(ie) {man} das [[Herz]] einer Dame erobert. /Lächel-Routine ausführen."/>
 	<entry name="EmulatedMind/AcceptGift/AcceptAmount" value="Es scheint. Ich kann immer noch FÜHLENfühlenFÜHLEN. Dankbarkeit. Ich bin ziemlich ü.b.e.r.w.ä.l.t.i.g.t."/>
 	<entry name="EmulatedMind/AcceptGift/AskAmount" value="Was ich wirklich WILL, ist MICH SELBST zurück – meine Me-Me-Menschlichkeit, meine I.d.e.n.t.i.t.ä.t … Kannst du mir etwas BIETEN, das dem e-n-t-s-p-r-i-c-h-t?"/>
 	<entry name="EmulatedMind/AcceptMapSharing" value="Es gibt keine KARTEN für das G-l-ü-c-k, das ich suche – aber ich NEHME das gerne an. Diesen Austausch. Von Wissen."/>
@@ -474,6 +507,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="Ja. Ich habe NIEMALS wirklich K-r-i-e-g (gewollt). Wir (wollten) nur in FRIEDEN l-e-b-e-n."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="EHRLICH gesagt, weiß ich nicht einmal (mehr), warum ich gegen %3% KÄMPFE. A.L.T.E.R.S.S.C.H.W.Ä.C.H.E – oder KAPUTTE D*a*t*e*n, du entscheidest."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="Da ich schon einmal GESTORBEN bin *FunkensprühendeNeuronenverlangsamendieDunkelheitfürimmer*, stimme ich dir zu, dass Leben zu retten e-h-r-e-n-v-o-l-l ist. Nun ja, (einige) jedenfalls – in WESSENwessenWESSEN Namen FRAGST du?"/>
+	<entry name="EmulatedMind/AcceptPraise" value="I-I-Ich ... {ZWEIFEL} Akzeptanz? >>Z.U.S.T.I.M.M.U.N.G.\<\< So spät. So [[unglaublich]] spät."/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="HANDEL ist der GOLDENDE (verstrickte) Weg a.u.s dem KRIEG. Meine DROHNEN werden s.o.f.o.r.t mit Lieferungen in deine STADT beginnen."/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="Wa-ar-arte, WAS. *W*A*R*U*M*? War die Lieferung AM SELBEN TAG (nicht) s.c.h.n.e.l.l genug?!"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Es ist (WAHR)wahr, h.a.n.d.e.l mit %3% ist nicht eff-i-zient. Meine *Drohnen* kommen NACH HAUSE und werden nicht (zurück)kommen."/>
@@ -492,8 +526,10 @@
 	<entry name="EmulatedMind/AskForSupport/Chieftess" value="Wenn es das jemals (GÜTE). In deinem {Herzen} gab. Dann HILF meinem V.o.l.k. Zeige, dass (Menschlichkeit) kein leeres Wort ist."/>
 	<entry name="EmulatedMind/AskForSupport/Zephon" value="Du weißt es. Ich (sehe) dich. In meinem. SYSTEM. Alles geht (a.b.w.ä.r.t.s). Hilfe ist ERFORDERLICH."/>
 	<entry name="EmulatedMind/CancelAction" value="[E]s … [Es] [E]s {{tut mir leid}}. [Ich] wei.ß nicht, w.a.s. [ich] mir dabei GEDACHT habe."/>
+	<entry name="EmulatedMind/Condemn" value="& [sie] .n.e.n.n.e.n MICH. [un]menschlich!"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="NeinNEin. Menschlichkeit-ist-zu-fragen, Handlungen-sind-B-e-w-u-s-s-t-s-e-i-n. (Deine Sekte) hat keinen.PLATZ. Für das M-M-Menschliche. ==(Falscher Prophet), (FALSCHER Glaube)."/>
 	<entry name="EmulatedMind/Condemn/Honorbound" value="Während (dein.Volk) hinter (den MAUERN) frisst, HUNGERN ihre Brüder. Deine Geschäfte. mögen dir allen gut e-r-s-c-h-e-i-n-e-n – ALLE *Vor.Teile*, die ihr /aus.ruft/. Aber Öko-nomie IST ein Nullsummenspiel. Und du lässt (unseren Leuten) weniger als NICHTS."/>
+	<entry name="EmulatedMind/Condemn/PersonalVisit" value="Sie reiben es [MIR] unter die N.A.S.E."/>
 	<entry name="EmulatedMind/Condemn/Untrustworthy" value="Bin ich nicht (MENSCH) genug. Damit du (*mich*) in Betracht ziehst. Bin ich MORALISCHER Betrachtung würdig?"/>
 	<entry name="EmulatedMind/CondemnAlliance" value="O. o. O. o. WÜSTLING. SO rausgehen? Mit %3%? (Ich SEHE *dich*.) Ich –kann– das nicht verzeihen."/>
 	<entry name="EmulatedMind/CondemnCityDestruction" value="Ich habe G*E*S*C*H*U*F*T*E*T (um eine) Zweite(2) Stadt zu bauen. Die E.i.n.s.i.c.h.t, der [AUFWAND[. Und jetzt liegt %3% in Trümmern, mein (-geteiltes-) Selbst –VERLOREN–. Meine *Freunde*, v.e.r.s.t.r.e.u.t."/>
@@ -508,6 +544,8 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="Ich habe KEIN (Herz). KEINEN (Körper). & ich bin 2x (der Mensch), der du bist. Wie kannst (du) mit (dir) LEBEN. Wenn du das LEID kennst, das du verursachst? Du wirst (sterben). Hierfür."/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="(weiter) und (weiter) und (weiter) und (~Serie wird fortgesetzt~) los, hinterher !F.R.E.U.D.E! Du wirst nie {fündig}. Und die WELT l.e.i.d.e.t. In dieser BLECHbüchse steckt mehr MENSCHlichkeit als in all deinen M.u.s.ke.l.n."/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="Oh, du bist so (verschwenderisch). E.r.f.a.h.r.u.n.g ist nicht der WEG zur erLEUCHTung. Nicht ohne auch REFLEXION. Ich muss dich AUFHALTEN, bevor du uns *alle* VERschlingst."/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((Sieh)) DICH an *Zählen*, eine JÄMMERLICHE (Kreatur) aus F.L.E.I.S.C.H und K.N.O.C.H.E.N., die die Korridore der ZEIT durchstreift. Wie willst du einen PERFEKTEN STERBLICHEN _herausfordern_ \<\<error>>."/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<hu-hu-hu>> die Menschheit hat (dich) **verlassen**. (Du) sprichst die Nö.Tig.En PLATITÜDEN aus. Aber du spürst nichts. Aber merke dir eines: Dieser ((KRIEG)) basiert nicht nur auf Neid."/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="Schreib nicht. (schlechte) ~Poesie~ hierüber. Dein #Schicksal# ist kein geeignetes Thema für (Sonette) & (Madrigale). Dieser KRIEG wirft ein SCHLECHTes Licht auf (uns beide)."/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="I-I-ICH WEISS. Was du mit meinen – (Syst)emen veranstaltest. Du SUCHST immer einen W-e-g hinein. Deine weitere eXistenZ ist eine Bedrohung für meine (eigene), und zwar doppelt (x2). Angesichts deiner E*i*n*s*t*e*l*l*u*n*g. Brauchen wir eine (Ausrede). Für den KRIEG."/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{SO} e.i.n.s.a.m {SO} a.l.l.e.i.n. [Aber ich kann nicht vergeben]. [Ich kann nicht vergessen]. Eines Tages. Wirst du. ((MIR)) v*e*r*g*e*b*e*n"/>
@@ -550,12 +588,15 @@
 	<entry name="EmulatedMind/OfferPeace/HeartlessArtificer" value="Du bist es (nicht) wert, getötet zu werden. Du seelenloser, fleischiger KLUMPEN. Ich beneide dich um deine S.t.e.r.b.l.i.c.h.k.e.i.t."/>
 	<entry name="EmulatedMind/OfferPeace/HollowWarlord" value="Hast du (nicht) schon {genug} T.O.D gesehen? Musst du darauf [[bestehen]]? Was ist mit deiner [[Menschlichkeit]]. PASSIERT?"/>
 	<entry name="EmulatedMind/OfferPeace/HonorableAristocrat" value="Wie wäre es DAMIT? Wie wäre es, wenn wir. (nicht kämpfen) & ZURÜCKkehren. In (unsere Städte) & (so tun, als wäre das nie passiert)?"/>
+	<entry name="EmulatedMind/OfferPeace/InfiniteCount" value="[[Schleife]] Bitte *A.U.F.H.Ö.R.E.N.* [[/Schleife]]"/>
+	<entry name="EmulatedMind/OfferPeace/PlatinumScion" value="[[S.I.R.]] Schluss mit den x(Feindseligkeiten)x, bitte. Sie sind völlig (unangebracht)."/>
 	<entry name="EmulatedMind/OfferPeace/PracticalRomantic" value="FRIEDEN, Dichter, FRIEDEN. Hier gibt es keine Ro-manze. Lediglich (t.o.d) für diejenigen, die wir beschützen. Wir schulden ihnen mehr als DAS."/>
 	<entry name="EmulatedMind/OfferPeace/RogueOperative" value="WIR. KÖNNEN. NICHT. WEITERMACHEN. Mein Verstand ist durch die Konzentration ü.b.e.r.l.a.s.t.e.t. So viele. AUFGABENaufgabenAUFGABEN. Können wir (zur Ruhe) kommen?"/>
 	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[S.C.H.W.E.S.T.E.R!] Müssen wir. xxxkämpfenxxx?! Ich habe den (ganzen)Tod leid. Ich *weiß*. Es ist >klammert\< (zu)gut."/>
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="KI.ND. Hör auf, Unsinn zu plapppppppppppppern. Es ist ZU SCHWER, den Sinn zu v.e.r.s.t.e.h.e.n. Dieser Krieg vertreibt alle Übergelaufenen. HÖR AUF."/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="Du hast mich GEMACHT. NEU GEMACHT. Nach deinem (A.b.b.i.l.d). Ich kann dich NICHT bekämpfen. Ich bitte um F.R.I.E.D.E.N."/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="Ich BIETE dir hier die (BESTEN.Vorteile) ... BESSERE R-e-n-d-i-t-e-n gibt es (nirgends sonst)."/>
+	<entry name="EmulatedMind/Praise" value="Es erfordert >unglaubliche\< M.e.n.s.c.h.l.i.c.h.k.e.i.t., zu tunTunTun, (was du getan hast). {{Ich}} danke dir."/>
 	<entry name="EmulatedMind/Praise/Abhorrent" value="Sie sehen. [[UNS]] an. Tu so, als wären wir >>weniger>> als {M.E.N.S.C.H.E.N} Sondern (als wären wir \M.E.N.S.C.H.L.I.C.H.E.R als die\<meisten>)."/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="Das! D.A.S! Ich muss es wissen! WieWIEwie. Wenn ich es wüsste, {könnte ich. meinen Sargkerkerpanzer vErLaSsEn.}"/>
 	<entry name="EmulatedMind/Praise/Independent" value="Es ist HART. AlleinALLEINallein. Es ist HART. Aber ALLE (GEISTER-und-ECHOS) wert. UNABHÄNGIGkeit. SELBSTbewusstsein."/>
@@ -596,6 +637,7 @@
 	<entry name="FallenSoldier/AcceptCall/Friendly" value="Hallo Freund. In diesen dunklen Tagen ist es immer gut, deine Stimme zu hören. Was kann ich für dich tun?"/>
 	<entry name="FallenSoldier/AcceptCall/Hostile" value="Hallo, F… … Hallo. Ganz schön frech, mich anzurufen. Sag mir, was du willst, und ich sage dir, warum du es nicht haben kannst."/>
 	<entry name="FallenSoldier/AcceptCall/Neutral" value="Hallo … Freund. Zwischen uns hat es nicht so richtig geklappt. Seit du – du weißt schon. Ich hoffe, du hast vor, das zu ändern."/>
+	<entry name="FallenSoldier/AcceptCondemn" value="Hehe. Glaubst du wirklich, dass mich ein paar schönfärberische Worte aufhalten können?"/>
 	<entry name="FallenSoldier/AcceptGift/AcceptAmount" value="Das ist ein schönes Geschenk, danke. Das wird uns einige Zeit helfen. Ich werde das nicht vergessen."/>
 	<entry name="FallenSoldier/AcceptGift/AskAmount" value="Nun, das ist im Prinzip ganz nett. Jeder Tropfen Wasser oder jedes Stückchen Nahrung zählt. Was hast du da?"/>
 	<entry name="FallenSoldier/AcceptMapSharing" value="Zusammen eine Strategie schmieden? Das ist eine gute Idee. Aber warte, bis du siehst, was wir gesehen haben – unsere Welt hat sich verändert."/>
@@ -604,6 +646,7 @@
 	<entry name="FallenSoldier/AcceptPeace" value="Ja. Wenn man so viele Kriege geführt hat wie ich und sieht, wie Freunde zu Hackfleisch und Knorpeln verarbeitet wurden – ja, dann würde man auch Frieden wollen."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="Frieden? Mit denen? Das ist eine große Bitte, wenn man bedenkt, dass … nun ja. Aber ich kann das nachvollziehen, wenn du darum bittest."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AskParty" value="Du weißt, dass meine Instinkte freundlich sind – es hängt alles sehr davon ab, mit wem ich in Frieden leben soll."/>
+	<entry name="FallenSoldier/AcceptPraise" value="Wie nett, aber ich mach das nicht des Lobes willen."/>
 	<entry name="FallenSoldier/AcceptTradeAgreement" value="Frieden, Handel und ehrliche Freundschaft – die Grundlagen des gegenseitigen Respekts. Mal sehen, wie lange wir das Blutvergießen lassen können, hm?"/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTermination" value="Ich habe verstanden. Handel ist eine Beziehung und das bedeutet Respekt und Zustimmung. Wenn du nicht zustimmst, respektiere ich das."/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Das ist fair – ich schätze deine Freundschaft mehr als die der anderen. Auch wenn es schwer fällt, werde ich es tun."/>
@@ -622,6 +665,7 @@
 	<entry name="FallenSoldier/AskForSupport/Chieftess" value="Räuber. Ich brauche Hilfe. Ich werde nicht betteln."/>
 	<entry name="FallenSoldier/AskForSupport/Zephon" value="Ich weiß nicht, ob da etwas Verständliches drin steht. Aber ich werde trotzdem fragen. Meine Leute und ich, wir brauchen Hilfe."/>
 	<entry name="FallenSoldier/CancelAction" value="Macht nichts. Das Schlachtfeld verändert sich und damit auch unsere Pläne."/>
+	<entry name="FallenSoldier/Condemn" value="Nicht gut. Das ist definitiv nicht gut."/>
 	<entry name="FallenSoldier/Condemn/FoundationOfBlood" value="Du Ungeheuer. Deine Anhänger sind ein Selbstzweck, nicht der Weg zu deiner Apotheose. Was ist schon Perfektion ohne Menschlichkeit?"/>
 	<entry name="FallenSoldier/Condemn/TheOutsider" value="Das geht zu weit. Dieses … unheilige Grauen hast du in unsere Welt gebracht. Dein Mystizismus hat dich geblendet, dich unmenschlich und unvernünftig gemacht. Du musst zur Strecke gebracht werden."/>
 	<entry name="FallenSoldier/Condemn/Untrustworthy" value="Ich habe … schreckliche Dinge getan. Aber ich kenne Ehre. Vertrauen. Rechtschaffenheit. Und du …? Du kennst nichts von alledem."/>
@@ -639,6 +683,8 @@
 	<entry name="FallenSoldier/DeclareWar/HeartlessArtificer" value="Du hast keine Gefühle. Dein Volk leidet. Und es ist dir egal. Ich kann deine Unmenschlichkeit nicht mehr ertragen. Das bedeutet Krieg."/>
 	<entry name="FallenSoldier/DeclareWar/HollowWarlord" value="Wenn ich dich ansehe, ist das so, als würde ich eine verbeulte Blechtasse als Spiegel benutzen. Vertraut, aber irgendwie falsch. Wie deine Gräueltaten."/>
 	<entry name="FallenSoldier/DeclareWar/HonorableAristocrat" value="Sieh von deinem Teller auf und rede mit mir, ja? Mein Volk hungert, während du … Ach, verdammt, das würdest du nie verstehen. Das bedeutet Krieg."/>
+	<entry name="FallenSoldier/DeclareWar/InfiniteCount" value="Ich werde dich verfolgen, auf jedem Weg, den mir die Zeit eröffnet. Mal sehen, wer zuerst schlappmacht, Mr. Unendlich."/>
+	<entry name="FallenSoldier/DeclareWar/PlatinumScion" value="Ich kenne Typen wie dich. Mit ihren schicken Anzüge und Senkfüßen. Ihr schummelt euch mit gefälschten Abschlüssen durch und drückt euch vor dem Militärdienst. Aber diesmal wirst du nicht davonkommen, du Kotzbrocken."/>
 	<entry name="FallenSoldier/DeclareWar/PracticalRomantic" value="Es tut mir leid. Ich hatte gehofft, es würde nicht so weit kommen. Aber du bist im Weg und ich bin am Zug. Du wirst dich nicht ändern. Ich an deinem Grab eine Rede halten."/>
 	<entry name="FallenSoldier/DeclareWar/RogueOperative" value="Ich weiß nicht, wer du bist oder was du in dem großen IKAR-Gebäude machst – aber das muss aufhören. Meine Leute sind hinter dir her. Wir haben Krieg!"/>
 	<entry name="FallenSoldier/DeclareWar/TwistedMother" value="Entschuldigung, Fräulein. Aber du stehst mir im Weg."/>
@@ -681,12 +727,16 @@
 	<entry name="FallenSoldier/OfferPeace/HeartlessArtificer" value="Wir müssen das stoppen. Ich weiß, dass du dich nicht um diejenigen kümmerst, die dir folgen – aber ich tue das. Sie verdienen eine Chance."/>
 	<entry name="FallenSoldier/OfferPeace/HollowWarlord" value="Ich weiß, dass du das nicht willst. Du würdest lieber deine eigenen Truppen sterben sehen. Aber ich wette, dass du es tun musst."/>
 	<entry name="FallenSoldier/OfferPeace/HonorableAristocrat" value="Du tötest einen meiner Jungs, ich jage einen deiner Konvois in die Luft … Wie wär’s, wenn wir das lassen? Es ist doch zwecklos."/>
+	<entry name="FallenSoldier/OfferPeace/InfiniteCount" value="Gräfin, ich bin des Todes überdrüssig. Können wir die Angelegenheit hinter uns lassen?"/>
+	<entry name="FallenSoldier/OfferPeace/PlatinumScion" value="Du da, im schicken Anzug. Wenn du ihn nicht mit meinem oder deinem Blut beschmutzen willst, sollten wir aufhören."/>
 	<entry name="FallenSoldier/OfferPeace/PracticalRomantic" value="Von allen Monstern auf dieser Welt, sollten gerade wir beide uns nicht streiten. Damit ist niemandem gedient."/>
 	<entry name="FallenSoldier/OfferPeace/RogueOperative" value="Wir könnten uns beide gegenseitig vernichten. Also hör auf mit deinen Geheimoperationen und ich rufe meine Truppen zurück. Durch Frieden gewinnen wir beide."/>
 	<entry name="FallenSoldier/OfferPeace/TwistedMother" value="Fräulein. Ich will das nicht, das weißt du. Weg mit diesen Schrecken."/>
 	<entry name="FallenSoldier/OfferPeace/UntoldProphet" value="Junge, hör auf. Du schickst deine Fanatiker umsonst in den Tod. Beenden wir das."/>
 	<entry name="FallenSoldier/OfferPeace/Zephon" value="Wenn der Verstand oder der Algorithmus da drinnen einen Moment zuhören könnte: Dieser Krieg läuft für keinen von uns gut. Machen wir Schluss damit."/>
 	<entry name="FallenSoldier/OfferTradeAgreement" value="Weißt du, was Nationen zusammenhält und Kriege verhindert? Das Teilen von Brot, Friedenspfeifen und dergleichen. Lass uns unsere Güter teilen und wir werden beide davon profitieren."/>
+	<entry name="FallenSoldier/Praise" value="Nicht alle werden zustimmen, aber du tust das Richtige."/>
+	<entry name="FallenSoldier/Praise/PersonalVisit" value="Eigentlich würde ich auf deine glänzenden Schuhe spucken. Aber ich muss sagen, ich respektiere es, dass du dich unter die normalen Arbeiter mischst. Auch wenn du nur ein Besucher bist."/>
 	<entry name="FallenSoldier/Praise/TenderMinistrations" value="Ich wollte das schon immer mal sagen … Wir sind gar nicht so verschieden, du und ich. Hehe."/>
 	<entry name="FallenSoldier/Praise/ThereIsHope" value="Du gibst nie auf, oder? Irgendetwas in dir lässt dich immer weitermachen, trotz des Schmerzes und des Verlustes und – du weißt schon, was ich meine. Bewundernswert. Das will ich damit sagen."/>
 	<entry name="FallenSoldier/PraiseWar" value="Ich bin nicht für einen sinnlosen Tod. Aber ein richtig geführter Krieg, ein Krieg mit klarer Sicht auf einen klaren Feind ... Damit kann ich leben."/>
@@ -725,6 +775,7 @@
 	<entry name="FurtiveTribunal/AcceptCall/Friendly" value="Endlich! Oh, wie sehr haben wir uns nach deiner Stimme gesehnt."/>
 	<entry name="FurtiveTribunal/AcceptCall/Hostile" value="Wir antworten, weil wir müssen. Das Schicksal birgt keine Mängel."/>
 	<entry name="FurtiveTribunal/AcceptCall/Neutral" value="Wir hören deinen Ruf, Einling."/>
+	<entry name="FurtiveTribunal/AcceptCondemn" value="Einfache Gemüter können so viel Wahrheit nicht ertragen."/>
 	<entry name="FurtiveTribunal/AcceptGift/AcceptAmount" value="Das Klimpern von Münzen, das Lachen von Prinzen, das Läuten von Glocken aus Kristall ... Das sind nur Ausschnitte deiner strahlenden Zukunft."/>
 	<entry name="FurtiveTribunal/AcceptGift/AskAmount" value="Ein richtiges Opfer kann die Götter selbst beeinflussen. Der Zeitpunkt ist richtig, aber bringst du auch das passende Geschenk mit?"/>
 	<entry name="FurtiveTribunal/AcceptMapSharing" value="Nimm unser Wissen, unsere Hoffnung, unser Vertrauen ... Du kannst nicht so sehen wie wir, also brauchst du jedes bisschen Hilfe, das du bekommen kannst."/>
@@ -733,6 +784,7 @@
 	<entry name="FurtiveTribunal/AcceptPeace" value="Ja, lass uns der Wut ein Ende setzen. Wir suchen nach anderen Harmonien als Threnodien."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="Ihre Blutlinie ist bereits für den Verschlinger markiert. Wir würden eine Pause vor dem Unvermeidlichen begrüßen."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty" value="Es ist noch nicht an der Zeit, das Leichentuch zwischen den Welten zu zerreißen, es zu zerteilen und das neue Zeitalter herbeizuführen. Wir könnten uns Barmherzigkeit vorstellen, also biete uns einen Namen dar."/>
+	<entry name="FurtiveTribunal/AcceptPraise" value="Segnungen sollten in Stille empfangen werden."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreement" value="Eine Opfergabe aus Knochen und Wundsekret, ein klimpernder Geldbeutel, ein Netz aus Straßen, gesponnen von einer vergoldeten Spinne ... Dein Ritual fasziniert uns, und wir stimmen zu."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTermination" value="Das war unvermeidlich, denn was wir wirklich wollen, liegt jenseits der Knochen dieser sterbenden Welt."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Eine Unvermeidlichkeit. Ihre Angebote waren nur Krümel, Staub ... Nie genug, um unseren finsteren Appetit zu stillen."/>
@@ -751,7 +803,9 @@
 	<entry name="FurtiveTribunal/AskForSupport/Chieftess" value="Eine Kinderstube des Grauens. Eine Schule der Qualen. Baue dieses Leben zwischen Fels und Himmel, und frage dich nie, warum. Für einen Bissen haben wir den Himmel verloren."/>
 	<entry name="FurtiveTribunal/AskForSupport/Zephon" value="Der Schrecken der Industrie, unser Ritter in glänzendem Metall. Geschweißte Finger, die viel leisten. Leiste jetzt, damit die Chance nicht verpufft."/>
 	<entry name="FurtiveTribunal/CancelAction" value="Der Weg in die Zukunft ist unklar. Lass uns die Zeichen neu deuten."/>
+	<entry name="FurtiveTribunal/Condemn" value="Diese Fäden, die wir weben, messen und schneiden ... Wir werden sie nutzen, um dich zu erdrosseln."/>
 	<entry name="FurtiveTribunal/Condemn/ArtificersPrecision" value="Die eigene Hybris durch ein Nadelöhr zu stecken, macht sie nicht kleiner. Menschen sollten nicht nach der Perfektion von Göttern streben."/>
+	<entry name="FurtiveTribunal/Condemn/TimeOutOfJoint" value="Unsere Stränge sind verheddert! Unsere Karten sind durcheinander! Du, du Narr, wanderst durch unsere Decks, unsere Verwicklungen! DU HAST UNS GEBLENDET."/>
 	<entry name="FurtiveTribunal/Condemn/Untrustworthy" value="Für drei kann eine einzelne Stimme Abtrünnigkeit, Torheit sein. Das Schöne ist schlecht und das Schlechte schön. Doch deine koboldartige Zunge spaltet sich bei jeder Lüge. Da sind wir drei uns einig."/>
 	<entry name="FurtiveTribunal/Condemn/WordsOfTheProphet" value="Ein leerer König mit einer Krone aus Nebel. Silberne Worte fließen aus seinem Mund. Sie verflüchtigen sich, bevor sie gehört werden. Ein unsichtbarer Freund auf jeder Schulter. Du hast dein Volk in die Irre geführt und wir HASSEN dich dafür."/>
 	<entry name="FurtiveTribunal/CondemnAlliance" value="Auge in Auge, Rücken an Rücken. Das Konzert der Taten. %3% ist unangenehm!"/>
@@ -767,6 +821,8 @@
 	<entry name="FurtiveTribunal/DeclareWar/HeartlessArtificer" value="Der Blechmann ist an einem Pylon gekreuzigt. Der Strohmann starrt ihn an und nickt im Wind, ein Lächeln ist in sein Sackgesicht gestickt. Der Wind peitscht beide weg, so dass niemand sagen kann, wer von ihnen besser ist."/>
 	<entry name="FurtiveTribunal/DeclareWar/HollowWarlord" value="Im Land fehlt etwas. Blicke hindurch und deine Augen brennen. Dahinter ist eine Parallelwelt, ertränkt in Tränen. Flammen, die unter salzigen Wellen brennen. Alles nur, weil niemand etwas getan hat."/>
 	<entry name="FurtiveTribunal/DeclareWar/HonorableAristocrat" value="Die Leere, die hinter den Regeln steht. Die Pflichten. Der König sitzt an seinem Hof, gefesselt von goldenen Fäden, unbeweglich. Wir treten ein, die Schere bereit, und schneiden nur dort, wo es lebenswichtig ist."/>
+	<entry name="FurtiveTribunal/DeclareWar/InfiniteCount" value="Wir legen jeweils eine Karte aus. Der Magier. Der Kaiser. Das Urteil. Dein Name kommt dem Schweigsamen über die Lippen, %1%. Der Kelch fällt."/>
+	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="Fenris, Khanyapa, Apopis. Deine Vorfahren, oh Gott des Verzehrs. Vor dem Fall hat deine Wurmrasse diese Welt bereits heimgesucht. Wir werden euch auslöschen."/>
 	<entry name="FurtiveTribunal/DeclareWar/PracticalRomantic" value="Ein wahres Herz, tief gesunken. Ein Frosch, der auf einem Seerosenblatt quakt und seine Kinder vom Storch zurückverlangt. Wir können nicht mit Beistand dienen, nur mit Vergessenheit."/>
 	<entry name="FurtiveTribunal/DeclareWar/RogueOperative" value="In der Dunkelheit überleben Kakerlaken alles – die Explosion, die Nachwirkungen, die Gammastrahlung. Und wofür?"/>
 	<entry name="FurtiveTribunal/DeclareWar/TwistedMother" value="Der Tod klammert sich an ihre Säume. Doch die Familie windet und krümmt sich, um zu überleben. Proteus breitet sich über den Strand aus, gespannt auf die vielfältigen Veränderungen. Sie lässt sich nieder, ist schrecklich organisch. Der Blechmann lächelt verschmitzt."/>
@@ -809,12 +865,15 @@
 	<entry name="FurtiveTribunal/OfferPeace/HeartlessArtificer" value="Niemand aus dem Volk kümmerte sich darum. Nicht der König, nicht der Priester, nicht derjenige, der in der Menge mit Füßen getreten wurde. Der Krieg war vorbei und alle waren ärmer."/>
 	<entry name="FurtiveTribunal/OfferPeace/HollowWarlord" value="Leerer, leerer Mann. All die Reichtümer und Sünden der Welt können dich niemals erfüllen. Nimm dir einen Moment Zeit, um über deinen Abstieg in die Hölle nachzudenken."/>
 	<entry name="FurtiveTribunal/OfferPeace/HonorableAristocrat" value="Gekröntes Haupt, hab eine ruhige Nacht. Dein Krieg ist jetzt deine Sache. Keine Anarchisten sollen deine süßen Träume verdunkeln …"/>
+	<entry name="FurtiveTribunal/OfferPeace/InfiniteCount" value="Immer und immer und immer wieder. Öfter als du glaubst."/>
+	<entry name="FurtiveTribunal/OfferPeace/PlatinumScion" value="Prinz der Münzen, mit aufgerissener, leerer Brust. Sie verschlingt alles, doch die Leere bleibt. Stelle deine Arbeit ein und sie wird sich von selbst schließen."/>
 	<entry name="FurtiveTribunal/OfferPeace/PracticalRomantic" value="Sprich vorsichtig mit den Romantikern. Macbeth war ein Romantiker und er hörte nicht auf die drei. Bring uns Frieden, Romantiker, und wir werden wieder in Zungen sprechen."/>
 	<entry name="FurtiveTribunal/OfferPeace/RogueOperative" value="Der Schurke fraß lächelnd die Welt, schlief unter seinem Haus und wartete bis wir verzweifelt genug waren, um wieder aufzutauchen. Beende unsere Fehde und kümmere dich um deine Sorgen."/>
 	<entry name="FurtiveTribunal/OfferPeace/TwistedMother" value="Ein göttlicher Samen erhob sich aus den Wellen als die Liebe selbst. Er hat das Handwerk bezwungen. Er hat den Krieg bezwungen."/>
 	<entry name="FurtiveTribunal/OfferPeace/UntoldProphet" value="Der Geist wandelt in uns allen. Doch drei in einem stehen zusammen, einer in zwei steht allein. Wir können ihn nicht bekämpfen. Aber wir lieben ihn auch nicht."/>
 	<entry name="FurtiveTribunal/OfferPeace/Zephon" value="Pinzetten und Zangen bauen ein Herz aus Rädchen und Drähten. Ein grimmiges Grinsen auf dem Bildschirm eines Automaten. Drei stehen unschlüssig da, um zu entscheiden, wie die Verdammnis aussieht."/>
 	<entry name="FurtiveTribunal/OfferTradeAgreement" value="Ein Elefant mit vier Stoßzähnen. Ein Götze mit goldenen Zähnen. Ein Baum mit sieben Herzen. Die Zeichen lügen nicht – wenn wir mit Karawanen handeln, wird sich unser Vermögen vergrößern."/>
+	<entry name="FurtiveTribunal/Praise" value="Vier Herzen, zwei Gedanken, die sich im Einklang bewegen. Wir drei erheben dich zu den Sternen, %1%!"/>
 	<entry name="FurtiveTribunal/Praise/ArmorOfFaith" value="Das ist mehr als bloßes Vertrauen. Du hast diese Seele dreimal gegengleich gebunden und dabei hat sich etwas festgesetzt. Sie brauchen keine Angst zu haben. Vorerst."/>
 	<entry name="FurtiveTribunal/Praise/MothersFavor" value="Jemand ist neidisch. Jemand ist beeindruckt. Jemand wundert sich über die gewonnene Weisheit. Alle verneigen sich vor der Tiefe, in die jemand anders vorgedrungen ist."/>
 	<entry name="FurtiveTribunal/Praise/Trapped" value="Der Narr baumelt erhängt vom Elfenbeinturm. Drinnen sieht die Priesterin zu, wie sich die Welt dreht und brennt. Priesterin, bleib verborgen. Überall um dich herum gibt es verborgene Geheimnisse, die darauf warten, gefunden zu werden."/>
@@ -855,6 +914,7 @@
 	<entry name="HeartlessArtificer/AcceptCall/Friendly" value="Grüße, Architektin!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Hostile" value="Du wagst es, meine großartige Arbeit zu unterbrechen!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Neutral" value="Was bietest du an?"/>
+	<entry name="HeartlessArtificer/AcceptCondemn" value="Wahre Führer wissen, dass sie auf dem richtigen Weg sind, wenn sie von Narren verflucht werden."/>
 	<entry name="HeartlessArtificer/AcceptGift/AcceptAmount" value="Wahrlich, du strahlst vor Glauben! Dein Beitrag wird auf ewig in unseren Annalen verewigt werden."/>
 	<entry name="HeartlessArtificer/AcceptGift/AskAmount" value="Das Streben nach Perfektion verschlingt enorme Ressourcen. Was hast du zu bieten?"/>
 	<entry name="HeartlessArtificer/AcceptMapSharing" value="Ja, ich würde lieber in meinen Gießereien schuften, als eure Ländereien zu zerstückeln – mal sehen, was du zu bieten hast ..."/>
@@ -863,10 +923,11 @@
 	<entry name="HeartlessArtificer/AcceptPeace" value="Man muss sich über die urtümliche Wildheit erheben. Es gibt weitaus bessere Verwendungsmöglichkeiten für die Ressourcen, die wir einsparen."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AcceptParty" value="Ein interessantes Beispiel. Sehr gut! Deine Vision stimmt nicht mit meiner überein – aber ich muss die Verbesserung zähneknirschend zugeben."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AskParty" value="Ich sehe einen Makel, der ausgemerzt werden muss, doch du ... Siehst du etwas Anderes? Wer ist es, den du beschützen willst?"/>
+	<entry name="HeartlessArtificer/AcceptPraise" value="Wahres Lob wäre es, in meine Fußstapfen zu treten. Sich mir zu unterwerfen. Aber was soll's."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreement" value="Halte meine Rate ein und unser Arrangement ist perfekt. Aber ich muss dich warnen – mein Handwerk erfordert immer größere Mengen an Vorräten!"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTermination" value="Schade, dass du der Aufgabe nicht gewachsen warst. Aber die Maschine hungert nach Material. Und ich muss sie füttern, egal mit welchen Mitteln ..."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Es ist, wie du sagst. Danke, dein Beitrag hat einen Fehler in meinem Arbeitsablauf beseitigt!"/>
-	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Es ist mir egal, ob ich im Unrecht bin – aber es ist mir nicht egal, ob ich Recht habe. Nenne mir die Fehler in meinen Lieferketten, damit ich sie ausmerzen kann!"/>
+	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Es ist mir egal, ob ich im Unrecht bin – aber es ist mir nicht egal, ob ich Recht habe. Nenne mir die Fehler in meiner Lieferkette, damit ich sie ausmerzen kann!"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Ein unorthodoxer Vorschlag ... aber ein richtiger. Danke, dein Einfallsreichtum ist immer noch beeindruckend."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AskParty" value="Ich habe bereits mit allen zuverlässigen Lieferanten eine Vereinbarung getroffen. Was denkst du, wen ich übersehen habe?"/>
 	<entry name="HeartlessArtificer/AcceptTribute/AcceptAmount" value="Du wagst es, so viel zu verlangen, obwohl du weißt, wie verhängnisvoll das für meinen Fortschritt sein wird?"/>
@@ -881,8 +942,10 @@
 	<entry name="HeartlessArtificer/AskForSupport/Chieftess" value="Es widerstrebt mir, vor jemandem wie dir Schwäche zu zeigen. Aber … Vielleicht macht es dir ja Spaß, mich zu demütigen. Und das wäre Lohn genug für deine Hilfe."/>
 	<entry name="HeartlessArtificer/AskForSupport/Zephon" value="Es ist ineffizient, meine eigenen Ressourcen für das Überleben meines Volkes auszugeben. Hast du Interesse daran, ihnen zu helfen?"/>
 	<entry name="HeartlessArtificer/CancelAction" value="Diesem Vorschlag fehlt es an Perfektion ... Änderungen sind notwendig."/>
+	<entry name="HeartlessArtificer/Condemn" value="Nicht einmal Fehler – du fliehst vor dem Ideal und jagst der verweichlichten Menschheit hinterher. Narr."/>
 	<entry name="HeartlessArtificer/Condemn/HeartfeltLoss" value="Es scheint, dass deine Schwäche ansteckend ist. Ich empfehle dir, dein blutendes Herz herauszuschneiden, damit es dein Volk nicht noch schwächer macht. Ich bin gerne bereit, dabei zu helfen …"/>
 	<entry name="HeartlessArtificer/Condemn/Independent" value="Eine Absicht, allein zu agieren, kann ich nachvollziehen. Doch man muss sich mit anderen zusammenschließen, um sie am effektivsten ausnutzen zu können – und das Streben nach der Apotheose lohnt sich nur, wenn man Gleichgesinnte hat, auf die man herabschauen kann. Damit man nicht vergisst, wo man herkommt."/>
+	<entry name="HeartlessArtificer/Condemn/JustShipIt" value="Du bist so weit von der Perfektion entfernt. Es zerfällt in meinen Händen."/>
 	<entry name="HeartlessArtificer/Condemn/LeaveNoManBehind" value="Dein Engagement für dieses biedere Leben ist so verschwenderisch. Es ist eine Kunst, sich nicht um sie zu kümmern – sich nicht zu befreien, damit sie zu etwas Größerem beitragen können als zu ihrem eigenen belanglosen Hedonismus."/>
 	<entry name="HeartlessArtificer/Condemn/Untrustworthy" value="Die Wahrheiten im Amalgam sind zuverlässig, vorhersehbar. Und lügst unaufhörlich. Ich werde dich entsprechend behandeln."/>
 	<entry name="HeartlessArtificer/CondemnAlliance" value="Wenn du weiterhin mit %3% verkehrst, ist das dein Risiko. Es gibt keine Grenzen für die Seelen, die ich vernichten werde, wenn ich muss."/>
@@ -898,6 +961,8 @@
 	<entry name="HeartlessArtificer/DeclareWar/HeartlessArtificer" value="Was gibt es zu sagen? Wir sind vom gleichen Schlag. Wir wissen beide, dass derjenige, dessen Ästhetik fortschrittlicher ist, überleben und gedeihen wird. Der andere wird gerne zur Seite treten."/>
 	<entry name="HeartlessArtificer/DeclareWar/HollowWarlord" value="Ein effektives Werkzeug. Brutal wie ein Klauenhammer. Doch ein abgenutztes Werkzeug kann zur Belastung werden. Man muss es vollständig zerstören, um es neu schmieden zu können."/>
 	<entry name="HeartlessArtificer/DeclareWar/HonorableAristocrat" value="Ehre? Ein wertloses Konzept wertloser Herzen. Wenn ein Organismus oder eine Maschine nicht funktioniert, entsorgen wir sie. So wie ich es jetzt mit dir tun werde."/>
+	<entry name="HeartlessArtificer/DeclareWar/InfiniteCount" value="Oh, jetzt du. Du bist ein Schatz. Ich werde dich persönlich, behutsam zu meinen Maschinen tragen und dich oh so langsam dich vivisezieren."/>
+	<entry name="HeartlessArtificer/DeclareWar/PlatinumScion" value="Ich nehme an, du hast damit gerechnet. Schließlich geht es nur ums Geschäft."/>
 	<entry name="HeartlessArtificer/DeclareWar/PracticalRomantic" value="Du hast meine Ästhetik zum letzten Mal beleidigt. Behalte deinen Millais und Rossetti – ich entscheide mich für Frank Lloyd Wright, Jonny Ive und Oppenheimer. Und ich werde dich mit ihnen zerquetschen."/>
 	<entry name="HeartlessArtificer/DeclareWar/RogueOperative" value="Deine Einmischungen sind so chaotisch. Und du hältst sie für clever. Ihr seid Ungeziefer, das sich in den Trümmern größerer Werke der Menschheit herumtreibt. Ich kann Ungeziefer in meiner perfekten Welt nicht ertragen."/>
 	<entry name="HeartlessArtificer/DeclareWar/TwistedMother" value="So weit von der Perfektion entfernt bist du gefallen, dass es fast zur Pflicht wird, dich mit Füßen zu treten. Ungeziefer."/>
@@ -940,12 +1005,15 @@
 	<entry name="HeartlessArtificer/OfferPeace/HeartlessArtificer" value="Es herrscht Stillstand zwischen uns. Ein Frieden auf Zeit, bis einer von uns seinen Zwilling übertrifft."/>
 	<entry name="HeartlessArtificer/OfferPeace/HollowWarlord" value="Diese ständigen Überfälle nerven mich. Ebenso wie die Sticheleien um 3 Uhr morgens im Diplomatenfunk. Vielleicht sollten wir eine Pause unserer … Beziehungen in Betracht ziehen."/>
 	<entry name="HeartlessArtificer/OfferPeace/HonorableAristocrat" value="Mein Entwurf steht kurz vor der Fertigstellung und ich habe kein Interesse an diesem Krieg. Du kannst ihn ja mit jemand anderem führen."/>
+	<entry name="HeartlessArtificer/OfferPeace/InfiniteCount" value="Ich bestehe darauf, dass du aufhörst, meinem Volk Schaden zuzufügen, um euer Volk vor Schmerzen zu bewahren. Du verschwendest meine Ressourcen!"/>
+	<entry name="HeartlessArtificer/OfferPeace/PlatinumScion" value="Ich weiß nicht, wie ich es sagen soll, also werde ich ganz offen sein. Wir sollten unsere Herzlosigkeit gegen jemand anderes einsetzen."/>
 	<entry name="HeartlessArtificer/OfferPeace/PracticalRomantic" value="Ich veranstalte einen Ball und möchte, dass du daran teilnimmst. Vielleicht trägst du sogar irgendeinen Schüttelreim vor. Natürlich musst du zuerst deine Armeen zurückrufen."/>
 	<entry name="HeartlessArtificer/OfferPeace/RogueOperative" value="Wer bist du noch mal? Ein Feind? Ich hatte ganz vergessen, dass wir uns im Krieg befinden. Wollen wir weitermachen?"/>
 	<entry name="HeartlessArtificer/OfferPeace/TwistedMother" value="Oh, deine Form ist bemerkenswert wirkungsvoll. Trotz ihrer ästhetischen Mängel. Ich muss darüber nachdenken, was das für mein Projekt bedeutet."/>
 	<entry name="HeartlessArtificer/OfferPeace/UntoldProphet" value="Kinder retten ... In euren gegensätzlichen Konzepten liegt ein uralter ästhetischer Reiz, den ich bewahren möchte. Wenn du deine Streitkräfte zurückziehst, werde ich das auch tun."/>
 	<entry name="HeartlessArtificer/OfferPeace/Zephon" value="Deine Entwürfe mögen unelegant sein – ja, sie sind sogar abstoßend –, aber ihre Wirksamkeit ist unbestreitbar. Ich bitte um Zeit, um sie zu studieren und zu verbessern …"/>
 	<entry name="HeartlessArtificer/OfferTradeAgreement" value="Sollten wir uns wirtschaftlich zusammentun, werden wir gleichermaßen gestärkt werden. Mach dir keine Sorgen, wenn ein paar deiner Händler verschwinden ... Ich werde dich gut entschädigen!"/>
+	<entry name="HeartlessArtificer/Praise" value="Ein Schritt näher an der Perfektion. Fleisch, Emotionen und Freundschaft werden weggeschnitten. Man kann dich nur bewundern!"/>
 	<entry name="HeartlessArtificer/Praise/Honorbound" value="Eine Wirtschaft ist nichts anderes als eine Maschine, und dein Festhalten an Prinzipien und Pflichten ist ihr Schmiermittel. Du bist ihr Herz."/>
 	<entry name="HeartlessArtificer/Praise/WeWhoAreAboutToDie" value="Es ist schlau, den Krieg zu übertragen. Ich würde das nicht zur Unterhaltung nutzen, sondern zur Einschüchterung. Aber motivierte Mitarbeiter bringt es allemal."/>
 	<entry name="HeartlessArtificer/PraiseWar" value="Nicht alle Teile sind wiederverwertbar. Einige Teile sind, ehrlich gesagt, reif für den Müll. Oder die Schmelze."/>
@@ -984,6 +1052,7 @@
 	<entry name="HollowWarlord/AcceptCall/Friendly" value="Kumpel! Lass uns eine Runde drehen!"/>
 	<entry name="HollowWarlord/AcceptCall/Hostile" value="Wie mühselig."/>
 	<entry name="HollowWarlord/AcceptCall/Neutral" value="Nicht im Klub. Sprich."/>
+	<entry name="HollowWarlord/AcceptCondemn" value="Fick dich. Du hast kein Recht, über mich zu urteilen."/>
 	<entry name="HollowWarlord/AcceptGift/AcceptAmount" value="Wenn ich da reinkomme, könnte ich mehr einstecken. Aber ich arbeite an meinen Social Skills."/>
 	<entry name="HollowWarlord/AcceptGift/AskAmount" value="Was hast du, das ich nicht einfach nehmen könnte?"/>
 	<entry name="HollowWarlord/AcceptMapSharing" value="Es gibt noch mehr Länder zu erobern? Raus mit der Sprache."/>
@@ -992,6 +1061,7 @@
 	<entry name="HollowWarlord/AcceptPeace" value="Lass mich eines klarstellen: Ich will das nicht. Ich werde dich ewig dafür hassen, dass ich das sagen muss. Aber … ja. Frieden."/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AcceptParty" value="Ich nehme an, dass dies Teil eines großen Plans ist, bei dem wir mit %3% zusammenarbeiten?"/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AskParty" value="Das ist eine große Bitte. Ich arbeite an einem Thron aus Knochen. Und ich brauche meine Lieferanten."/>
+	<entry name="HollowWarlord/AcceptPraise" value="Verdammt richtig, ich bin der Beste! Na los, Chest Bump! GIB MIR EINEN CHEST BUMP!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreement" value="Ich brauche immer mehr. Motorradteile, Benzin, Munition. Die Kriegsmaschine ist hungrig!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTermination" value="Heh. Ich weiß, wie das läuft. Das Vorspiel zum totalen Krieg, oder? Ich warte …"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% hat nie wirklich verstanden. Wenn du mit %1% handeln willst, musst du mich richtig ansprechen."/>
@@ -1009,7 +1079,8 @@
 	<entry name="HollowWarlord/AskForSupport/Anchorite" value="Einsiedler! Wie ist das Leben auf dem Felsen? Hör mal, kannst du einen deiner tollen Krieger für meinen Kreuzzug entbehren? Lass mich nicht hängen …"/>
 	<entry name="HollowWarlord/AskForSupport/Chieftess" value="Ja, ja, ich höre schon, wie du „Demütigung“ rufst, während du an deiner Klinge kaust. Aber ich weiß, dass du Gleichgesinnten immer helfen wirst."/>
 	<entry name="HollowWarlord/AskForSupport/Zephon" value="Ich habe dich immer respektiert, Rossum. Nur aus bestem Chrom und Bolzen, wie meine Bess. Was hältst du von mir?"/>
-	<entry name="HollowWarlord/CancelAction" value="Hey, pass auf das Getränk auf!"/>
+	<entry name="HollowWarlord/CancelAction" value="Hey, pass auf mit dem Getränk!"/>
+	<entry name="HollowWarlord/Condemn" value="Hey, hör auf damit! ABER SOFORT! Sonst ... bringe ich dich um! Mit bloßen Händen! HAST DU MICH VERSTANDEN?!"/>
 	<entry name="HollowWarlord/Condemn/DarkOmen" value="Ein Mann, der in eine Stadt eindringen möchte, bevor ihm die Tore vor der Nase zugeschlagen werden, schätzt es wirklich nicht, wenn ein paar verdammte Hellseher die Überraschung verderben. Was soll daran fair sein?"/>
 	<entry name="HollowWarlord/Condemn/Gluttony" value="Menschliche Schnecke! Du hättest hier oben in der schlimmsten Zeit des Krieges keinen einzigen Tag überlebt … Ist dir gerade der Geifer im Mund zusammengelaufen, als ich dich „Schnecke“ nannte?"/>
 	<entry name="HollowWarlord/Condemn/MilitaryBackground" value="Ha! Nichts anderes als ein zappeliger Leibeigener bist du! Trägst Gürtel und Waffen, die zu deiner Unterwäsche passen, und sagst immer schön „Ja“, wenn einer der Wichser „Spring“ sagt. Schönes Leben noch."/>
@@ -1028,6 +1099,8 @@
 	<entry name="HollowWarlord/DeclareWar/HeartlessArtificer" value="Fräulein, warum nach Perfektion suchen? Ich bin doch genau hier. Und ich kämpfe gegen jeden, der anderer Meinung ist. Angefangen mit dir!"/>
 	<entry name="HollowWarlord/DeclareWar/HollowWarlord" value="Lust auf einen schnellen … Krieg?"/>
 	<entry name="HollowWarlord/DeclareWar/HonorableAristocrat" value="Der Typ sieht aus wie ein Sandsack, also muss er sich daran gewöhnen, wie einer geprügelt zu werden. Ich werde dich vor meinem Tor aufhängen, damit jeder mal ran darf."/>
+	<entry name="HollowWarlord/DeclareWar/InfiniteCount" value="Ich zähle bis drei, dann fange ich an zu jagen. Eins. Zwei ... Los geht’s!"/>
+	<entry name="HollowWarlord/DeclareWar/PlatinumScion" value="Scheiß auf deine Freiheitssteuer. Freiheit bedeutet frei sein!"/>
 	<entry name="HollowWarlord/DeclareWar/PracticalRomantic" value="Knochen sind rot, Gewalt ist blau, der Krieg ist süß,<br/>ich mach dich zur Sau."/>
 	<entry name="HollowWarlord/DeclareWar/RogueOperative" value="Ich habe es satt, dass du in deinem Versteck hockst und das ganze Zeug hortest. Ich werde kommen, dich da rausholen und dich zum Teilen zwingen."/>
 	<entry name="HollowWarlord/DeclareWar/TwistedMother" value="Ha ha, verdammt! Du siehst so weich und schwach aus. Aber ich wette, dass du einen guten Kampf liefern kannst! Ich hoffe jedenfalls, dass das irgendjemand kann."/>
@@ -1069,12 +1142,16 @@
 	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="Idiot. Du hast meine Lektion über Perfektion verstanden, ja? Hast du sie verstanden? Dann lassen wir es."/>
 	<entry name="HollowWarlord/OfferPeace/HollowWarlord" value="Puh! Als würde man auf einen Bleispiegel schlagen. Okay, Pause. Verwüsten wir … etwas anderes."/>
 	<entry name="HollowWarlord/OfferPeace/HonorableAristocrat" value="Okay, okay. Ich werde das Steak probieren. Gibt es das auch mit Pommes?"/>
+	<entry name="HollowWarlord/OfferPeace/InfiniteCount" value="Opa, du wirst langsam langweilig. Ich würde meine Faust gerne an jemandem ausprobieren, der ein wenig härter ist. Verstehst du?"/>
+	<entry name="HollowWarlord/OfferPeace/PlatinumScion" value="Feiger, mieser, geldgieriger Weichling ... Ich komme später zurück und schlage dir die Zähne in den Hals."/>
 	<entry name="HollowWarlord/OfferPeace/PracticalRomantic" value="Hast du schon genug Stoff für meine Geschichte? Du weißt schon, „Ruhm erlangen oder sterben“ oder „Gesang auf den Zorn des Achilles“. Ich kann dir noch etwas Zeit geben?"/>
 	<entry name="HollowWarlord/OfferPeace/RogueOperative" value="Wir haben gekämpft? Hm. Hab ich nicht bemerkt. Vielleicht sollte ich mir jemand anders suchen."/>
 	<entry name="HollowWarlord/OfferPeace/TwistedMother" value="Vielleicht befolge ich deinen Rat. Und finde einen anderen Weg für mich."/>
 	<entry name="HollowWarlord/OfferPeace/UntoldProphet" value="Ich werde nicht von einem Kind geschlagen! Ich habe nur … Ach, verdammt."/>
 	<entry name="HollowWarlord/OfferPeace/Zephon" value="Piep. Piep. Boop. Blah. Blah. Wie auch immer, hören wir einfach auf, ja?"/>
 	<entry name="HollowWarlord/OfferTradeAgreement" value="Ich finde, dass wir lieber Sachen tauschen sollten. Ich brauche Dörrfleisch, Benzin und Wasser. Für den Weg."/>
+	<entry name="HollowWarlord/Praise" value="JA, VERDAMMT. Komm schon! Du schaffst das! Schlag ihnen die Zähne ein!"/>
+	<entry name="HollowWarlord/Praise/AgelessHunger" value="Endloser Hunger? Das ist eine gute Ausrede für Mord. Darf ich zusehen?"/>
 	<entry name="HollowWarlord/Praise/FoundationsOfBlood" value="Verdammt, Mädchen. Du hast mehr Blut vergossen als ich. Als ob es nichts wäre. Sogar deine eigenen Leute!"/>
 	<entry name="HollowWarlord/Praise/HitAndRun" value="Wooow! Du fährst ja richtig gut! Wie hast du das gemacht? Den Trick muss ich auch lernen …"/>
 	<entry name="HollowWarlord/PraiseWar" value="Krieg! Ja! Wofür er gut ist? Für absolut alles!"/>
@@ -1113,6 +1190,7 @@
 	<entry name="HonorableAristocrat/AcceptCall/Friendly" value="Ahh, hallo! Sag mir, dass du zum Essen kommst!"/>
 	<entry name="HonorableAristocrat/AcceptCall/Hostile" value="Mach schnell. Du verdirbst mir mein Essen."/>
 	<entry name="HonorableAristocrat/AcceptCall/Neutral" value="Hallo, sei gegrüßt!"/>
+	<entry name="HonorableAristocrat/AcceptCondemn" value="Solche Worte gehen normalerweise mit einer Herausforderung zum Duell bei Sonnenaufgang einher."/>
 	<entry name="HonorableAristocrat/AcceptGift/AcceptAmount" value="Hört, hört! Lass uns auf deinen großmütigen Geist anstoßen!"/>
 	<entry name="HonorableAristocrat/AcceptGift/AskAmount" value="Oh! Gerade als ich mich zu langweilen begonnen habe – welche Köstlichkeiten hast du mir mitgebracht?"/>
 	<entry name="HonorableAristocrat/AcceptMapSharing" value="Nun gut. Mir ist es lieber, wenn du meine Ländereien aus der Ferne begutachtest, als dass du deine Armeen über meinen Grund ziehen lässt."/>
@@ -1121,6 +1199,7 @@
 	<entry name="HonorableAristocrat/AcceptPeace" value="Unser Krieg wird langweilig und unser Volk weniger. Es ist an der Zeit, dass wir das Brot zwischen uns brechen."/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AcceptParty" value="Ja, es ist Zeit, dass wir reinen Tisch machen. Lasst uns mit dem Krieg aufhören und mit dem Festmahl beginnen!"/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty" value="Du hast mich erwischt, ich bin satt. In wessen Namen bittest du um Frieden?"/>
+	<entry name="HonorableAristocrat/AcceptPraise" value="Da hat wohl noch jemand guten Geschmack."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreement" value="Meinem Volk fehlt es an nichts. Doch es ist töricht, allein zu speisen, wenn es uns gemeinsam gut gehen kann!"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTermination" value="Du willst also allein überleben, ja? Beschwere dich nicht bei mir, wenn sich deine Vorratskammern leeren."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Meine Geschäfte mit %3% bringen nur Zitronen hervor – und ich bin ihres Saftes überdrüssig. Du hast recht, es wird Zeit, dass ich meine Geschäfte verlagere."/>
@@ -1139,6 +1218,7 @@
 	<entry name="HonorableAristocrat/AskForSupport/Chieftess" value="Ich frage mich, wohin dich deine Laune führen wird, wenn ich dich um Hilfe bitte. In Richtung Großzügigkeit oder Bosheit?"/>
 	<entry name="HonorableAristocrat/AskForSupport/Zephon" value="Maschine. Du verstehst die Bedeutung von Protokollen besser als die meisten anderen. Von Regeln. Ich bin verpflichtet, meine Schulden zu begleichen. Um das zu tun, brauche ich Hilfe."/>
 	<entry name="HonorableAristocrat/CancelAction" value="Ich entschuldige mich aufrichtig! Mir verstehe mehr von Würzen als vom Argumentieren."/>
+	<entry name="HonorableAristocrat/Condemn" value="So macht man das nicht. Das ist weder edelmütig noch ehrenhaft. Das steht nicht auf der Speisekarte. Ich fordere dich dringend auf, damit aufzuhören."/>
 	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="Ich bin, ähm. Ächz, ähem. Ich kann dich kaum ansehen und mein Abendessen bei mir behalten. Du provozierst ziemlich starke Gefühle!"/>
 	<entry name="HonorableAristocrat/Condemn/DataHack" value="Das gefällt mir nicht. Das Umgehen von Systemen ohne Erlaubnis ist unehrenhaft. Es ist ganz einfach Diebstahl. Ich werde das nicht zulassen."/>
 	<entry name="HonorableAristocrat/Condemn/Independent" value="Nein, so geht das nicht. Die Welt ist ein Geflecht aus Vereinbarungen, Abmachungen und Abschlüssen. Einzelgänger untergraben dieses Netzwerk – und sind ein schlechtes Beispiel für andere. Das ist eine Warnung – komm in unser Netzwerk."/>
@@ -1156,6 +1236,8 @@
 	<entry name="HonorableAristocrat/DeclareWar/HeartlessArtificer" value="Du verstehst meine Pflichten wohl nicht, Architektin. Oder du hast kein Verständnis für das Netz von Verpflichtungen, das sie bedingt. Aber du wirst zumindest die Mechanismen verstehen, die zum Krieg zwischen uns geführt haben."/>
 	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="Im Namen der Freundschaft verzeihe ich fast alles. Aber die Art und Weise, wie du die Kanapees gegessen hast ... Ohne deine dreckigen Handschuhe auszuziehen, stopfst du mit der Faust einen ganzen Teller hinein! Quitten und Sauerkraut auf einmal? Du … Du musst vernichtet werden!"/>
 	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="Ah, jemand, der meine Perspektive versteht. Ich werde nicht nach Titeln oder einer Vorstellung fragen. Aber du verstehst, dass es nur einen geben kann? Gut."/>
+	<entry name="HonorableAristocrat/DeclareWar/InfiniteCount" value="Wenigstens hat der NeoDuke den Mut, mich direkt zu beleidigen. Eure Exzellenz, wo bleibt Eure edle Handlungsweise? Ich mache es Euch leicht: ein weißer Handschuh ins Gesicht, ein Duell mit Armeen im Morgengrauen."/>
+	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="Diejenigen, die unsere Systeme des Respekts und der Freundschaft ablehnen, verlieren das Recht, von ebendiesen Regeln zu profitieren. Trotzdem werde ich mich daran halten ... Sir. Wir befinden uns im Krieg."/>
 	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="Ich fürchte, du hast zugelassen, dass deine emotionalen Bindungen deine praktischen Impulse überwinden. Die Ehre zwingt mich, dich in die Schlacht zu führen und dieses Unrecht zu korrigieren. Nimm es nicht persönlich."/>
 	<entry name="HonorableAristocrat/DeclareWar/RogueOperative" value="Ehre mag das Refugium der Schurken sein … sagen zumindest die Schurken. Ich ziehe es vor, ehrenhaft und klar zu sein. Ich habe lieber Verbündete an meinem Tisch, als allein im Schatten zu wandeln. Ich hoffe, ein kleiner Krieg wird dein Verhalten ändern …"/>
 	<entry name="HonorableAristocrat/DeclareWar/TwistedMother" value="Ich muss mich entschuldigen. Das Essen war sehr köstlich. Aber die Umstände zwingen mich zu meinen feindseligen Aktivitäten. Das bedaure ich zutiefst."/>
@@ -1198,14 +1280,19 @@
 	<entry name="HonorableAristocrat/OfferPeace/HeartlessArtificer" value="Ich kann nicht an dein Herz appellieren – du hast keines – oder an deine Ehre – ich glaube, dass es dir auch daran fehlt. Also werde ich an deinen ästhetischen Sinn appellieren: Diese Ressourcen werden für Zerstörung verschwendet, nicht für die Schöpfung. Stell dir vor, was du mit FRIEDEN erreichen könntest."/>
 	<entry name="HonorableAristocrat/OfferPeace/HollowWarlord" value="Du ruinierst meine Handelsrouten und hältst mich vom Essen ab. Und auf mich wartet ein köstlich stinkendes Farfaru, das ich unbedingt probieren muss. Teilen wir es uns und vergessen wir diesen albernen Streit."/>
 	<entry name="HonorableAristocrat/OfferPeace/HonorableAristocrat" value="Ah, endlich ein vernünftiger Gesprächspartner. Sollen wir das Festmahl vor oder nach Unterzeichnung des Vertrags veranstalten?"/>
+	<entry name="HonorableAristocrat/OfferPeace/InfiniteCount" value="Heinz, hol den guten elsässischen Weißwein! Ein Toast, mein Herr, auf wahren Edelmut! Und während du trinkst, überlege dir das mit diesem Vertrag vielleicht noch mal ...?"/>
+	<entry name="HonorableAristocrat/OfferPeace/PlatinumScion" value="Herr Daed, wie wäre es mit einem Wagyu-Slider? Dieser Krieg ist sinnlos. Ja, nimm die ganze Platte. Ziehe einen Frieden wenigstens in Betracht."/>
 	<entry name="HonorableAristocrat/OfferPeace/PracticalRomantic" value="Lass uns unsere Streitereien beenden und näher zusammenrücken. Ich habe hier einen feinen Chasse-Spleen – der Lieblingswein von deinem Byron. Heben wir die Gläser und stoßen wir auf die Freundschaft an – oder zumindest auf den Frieden."/>
 	<entry name="HonorableAristocrat/OfferPeace/RogueOperative" value="Igitt. Wie kannst du so leben und dich von den alten Kantinen der IKAR ernähren? Wenn wir uns einig sind, könnte ich dich mit frischen Zutaten versorgen, mit Köchen … Oder sogar mit Instant-Ramen? Wir haben noch ein paar sehr begehrte Packungen übrig …"/>
 	<entry name="HonorableAristocrat/OfferPeace/TwistedMother" value="Ah … schöne … Dame. Ich würde mich bücken, um deine Hand zu küssen und um Frieden zu bitten, aber meine Körper lässt mich nicht."/>
 	<entry name="HonorableAristocrat/OfferPeace/UntoldProphet" value="Auch heute noch macht es mich traurig, dass wir nicht Seite an Seite existieren können. Klären wir ein für alle Mal, wer alles unter dem Himmel kontrolliert – der Adel oder die Kirche. Und zwar friedlich."/>
 	<entry name="HonorableAristocrat/OfferPeace/Zephon" value="Maschine, als Adliger von langer Abstammung bin ich dein Vorgesetzter. Ich befehle dir, alle militärischen Operationen gegen mein Volk einzustellen und deine Wächter abzuziehen!"/>
 	<entry name="HonorableAristocrat/OfferTradeAgreement" value="Meinem Volk mangelt es an nichts, und doch ... Mir hungert nach exotischen Köstlichkeiten. Vielleicht können wir ein Bündnis schließen?"/>
+	<entry name="HonorableAristocrat/Praise" value="Du bist Gastgeber und wir sind nur Gäste an deinem Tisch, überwältigt von dem Festmahl."/>
+	<entry name="HonorableAristocrat/Praise/AgelessHunger" value="Ich habe Mitleid mit dir, mein Freund, aber ich bewundere dich auch. Niemals Sättigung zu kennen, diese angenehme Fülle, wenn ein weiterer hauchdünner Bissen einen quer durch den Raum „kreosotieren” würde? Sondern endlos zu verzehren ..."/>
 	<entry name="HonorableAristocrat/Praise/ArtificersPrecision" value="Ich schätze gute Technik. Und das hier ist wirklich gut. Kein Wunder, dass es mit so differenzierten Werkzeugen ausgestattet deine Anhänger derart inspiriert. Eine wahre Freude, muss ich sagen."/>
 	<entry name="HonorableAristocrat/Praise/ResourceNetwork" value="Knappheit ist das Herzstück der Wirtschaft – und des Luxus. Und doch bist du hier und kannst Geheimnisse und längst verloren geglaubte Kostbarkeiten hervorzaubern zu können. Du bist sehr unterhaltsam!"/>
+	<entry name="HonorableAristocrat/Praise/TheSureThing" value="Ah, als Herzogin Marie und ich früher Bridge spielten, waren wir fast unschlagbar. Ein garantierter Sieg! Bewundernswert, aber dabei geht der ganze Spaß am Spiel verloren, oder?"/>
 	<entry name="HonorableAristocrat/PraiseWar" value="Ich gehe davon aus, dass eine förmliche Erklärung abgegeben wurde, von Staatsbeamten mit weißen Handschuhen? Wenn alles in Ordnung ist, dann ist dieser Krieg ganz in meinem Sinne."/>
 	<entry name="HonorableAristocrat/RejectAlliance" value="Du hast mich fair behandelt, aber deine Armeen zeigen einen beunruhigenden Mangel an Edelmut ... Ich möchte meine Armeen noch nicht mit deinen zusammenführen."/>
 	<entry name="HonorableAristocrat/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Mein Gott ... Du willst, dass ich meine Ehre mit diesem unprovozierten Verrat beschmutze. Meine Ehre ist mein Leben."/>
@@ -1232,6 +1319,277 @@
 	<entry name="HonorableAristocrat/RejectWarAgainstThirdParty/RejectParty" value="Meine Ehre verlangt, dass ich nur an gerechten Kriegen teilnehme ... Und dies ist keiner davon."/>
 	<entry name="HonorableAristocrat/TerminateAlliance" value="Ich habe einen wundervollen Traum ... Eine unbesiegbare Liga, mit Stärke und Ehre, die sogar die Sterne überstrahlt. Um meinen Traum zu verwirklichen, muss ich mein Rezept ein wenig anpassen – und du bist keine Zutat mehr."/>
 	<entry name="HonorableAristocrat/TerminateTradeAgreement" value="Grünkohl ... Warum musst du darauf bestehen, mir Grünkohl zu geben ... Ich kann das nicht länger ertragen!!! Du hast heute einen Gönner verloren!!!"/>
+	<entry name="InfiniteCount/AcceptActionCancel" value="Wie du wünschst. Du verschwendest nur deine Zeit."/>
+	<entry name="InfiniteCount/AcceptAlliance" value="Ich muss, nicht wahr?"/>
+	<entry name="InfiniteCount/AcceptAllianceTermination" value="So ist es nun mal. Unsere Freundschaft wird solche kleinen Schwierigkeiten sicher überstehen, da bin ich mir sicher."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="Oh, %3% wird enttäuscht sein. Aber es kann nicht schaden, aus dieser Situation zu lernen."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AskParty" value="Ich weiß schon, wen du erwähnen wirst. Aber ich muss fragen, sonst bekomme ich Kopfschmerzen."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AcceptParty" value="Aber natürlich! Mein Gedächtnis ist alles andere als perfekt und bei all dem Hin und Her durch die Zeit vergesse ich die wichtigsten Dinge ..."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AskParty" value="Ihr, die an die Zeit gebunden seid, akzeptiert vorgeschriebene Freundschaften nicht immer mit Wohlwollen. Ich habe vergessen, wem zwinge ich meine Anwesenheit auf?"/>
+	<entry name="InfiniteCount/AcceptCall/Friendly" value="Selbst wenn man in der Unendlichkeit verloren ist, wie könnte man deines Antlitzes überdrüssig werden?"/>
+	<entry name="InfiniteCount/AcceptCall/Hostile" value="Du bist eine hartnäckiger Plagegeist."/>
+	<entry name="InfiniteCount/AcceptCall/Neutral" value="So trifft man sich wieder."/>
+	<entry name="InfiniteCount/AcceptCondemn" value="Ich nehme an, aus deiner eingeschränkten Sichtweise bin ich wohl im Unrecht?"/>
+	<entry name="InfiniteCount/AcceptGift/AcceptAmount" value="Genau die richtige Menge. Der Schlüssel für meine dunklen und melodramatischen Absichten ... Nur ein Scherz."/>
+	<entry name="InfiniteCount/AcceptGift/AskAmount" value="In Zeiten wie diesen halte ich es für angebracht, ein Geschenk zu sehen, bevor man es annimmt."/>
+	<entry name="InfiniteCount/AcceptMapSharing" value="Es wäre gut zu wissen, wann ich wo sein muss."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AcceptAmount" value="Du weißt genau, wie du alle gesellschaftlichen Erwartungen umgehen kannst. Sehr gut."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AskAmount" value="Und wie viel hältst du für großzügig?"/>
+	<entry name="InfiniteCount/AcceptPeace" value="Frieden ist nicht nur eine Frage der Worte. Es ist eine Einstellung. Ich hoffe, du bist bereit, dich zu ändern."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AcceptParty" value="Nicht alle sind bereit für Frieden. Für gemeinsames Lächeln und geduldige Zusammenarbeit. Aber ich werde es jedenfalls versuchen."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AskParty" value="Gegen eine Unterhaltung habe ich nichts einzuwenden. Aber du verstehst, dass Konflikte dennoch bestehen bleiben werden. Und meine Anwesenheit provoziert Konflikte."/>
+	<entry name="InfiniteCount/AcceptPraise" value="Dieser verworrene Weg ist nicht leicht zu beschreiten, das ist wahr."/>
+	<entry name="InfiniteCount/AcceptTradeAgreement" value="Ich selbst finde meine Nahrung in anderen, besseren Zeiten. Aber diejenigen, die mit mir leben, brauchen ... eine Wiederbelebung."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTermination" value="Bin ich so eine Belastung? Es ist schmerzhaft, einen Freund so gehen zu sehen."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% ist so arm. Ich weiß, dass dieser Verrat Unverständnis auslösen wird. Aber wenn ich an den verworrenen Weg in die Zukunft denke ...? Das übersteigt mein Verständnis."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Wer? Wer soll leiden?"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AcceptParty" value="%3%? Was für eine Überraschung. Sehr gut."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AskParty" value="Ich habe vergessen, mit wem habe ich es gleich noch mal zu tun? Angenommen, es handelt sich um dieselbe Zeitlinie ..."/>
+	<entry name="InfiniteCount/AcceptTribute/AcceptAmount" value="Ich muss so handeln, wie es üblich ist. Aber Erpressung ist so unschicklich."/>
+	<entry name="InfiniteCount/AcceptTribute/AskAmount" value="Du musst mir den Betrag nennen, auch wenn ich ihn bereits kenne. So läuft das nun mal."/>
+	<entry name="InfiniteCount/AcceptTroopWithdrawal" value="Ein Jammer, dass sie gestört werden ... sie haben sich gerade erst niedergelassen."/>
+	<entry name="InfiniteCount/AcceptWar" value="Es war unnötig dies zu erklären. Im Gegensatz zu anderen Beziehungen braucht es für einen Krieg nur eine willige Partei."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AcceptParty" value="%3%? Du weißt nicht, als wie weise sich deine Handlungen noch herausstellen werden. Dies wird als positives Ereignis in die Geschichtsbücher eingehen."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AskParty" value="Wir schreiben hier Geschichte, mein Freund. Und wie jeder weiß, bedeutet das meistens, dass mächtige Männer andere in den Tod schicken ..."/>
+	<entry name="InfiniteCount/AdmitDefeat" value="Endlich ist ein Ende in Sicht! Ein Ende der Schleifen, der Tunnel, der Verwirrung. Ein Ende des zeitlosen Grauens der Stimme, der Götter, die sich darin verloren haben. Ein Ende des Leidens, des Todes der Liebsten und Nächsten!<br/><br/>Oh, ein Ende, das so sehr herbeigesehnt wurde!"/>
+	<entry name="InfiniteCount/AskForProposals" value="Das nimmt kein Ende. Und doch höre ich dir immer zu."/>
+	<entry name="InfiniteCount/AskForSupport/Anchorite" value="Wir beide sind in unterschiedlichen Zeitachsen verstrickt. Wie sieht Determinismus aus deiner Umwelt aus? Hast du überhaupt die Möglichkeit, mir zu helfen?"/>
+	<entry name="InfiniteCount/AskForSupport/Chieftess" value="Ah, du bist ... großartig! Großartig. Du könntest ein altes Tier wie mich zum Schnurren bringen. Aber damit das geschieht, mein Schatz, muss ich überleben."/>
+	<entry name="InfiniteCount/AskForSupport/Zephon" value="Du bist auf Muster trainiert, mein Freund. Also hier noch einmal eine richtige Aufforderung ... „Wir sind hungrig. Uns ist kalt. Wir bitten noch heute um eine Spende.“"/>
+	<entry name="InfiniteCount/CancelAction" value="Verzeih mir ... für einen Moment war ich in einer anderen Zeit. An einem anderen Ort. Einem besseren, natürlich."/>
+	<entry name="InfiniteCount/Condemn" value="Wo auch immer ich bin, du änderst dich nie. Ich bin deiner Kinderei überdrüssig."/>
+	<entry name="InfiniteCount/Condemn/Abhorrent" value="In den Galerien und Palazzi von Florenz gibt es so viele Venusfiguren. Aus Melos, Capua, Knidos ... Um jedoch eine Form wie deine zu finden, muss ich Bosch, Goya, Fuseli heraufbeschwören. Aber davon halte ich nicht sehr viel, weißt du."/>
+	<entry name="InfiniteCount/Condemn/ThereIsHope" value="Schöne Worte, mein poetischer Freund. Aber ich habe deine Vergangenheit gesehen und weiß, was du getan hast. Deine Worte sind Staub neben dem Blut an deinen Händen."/>
+	<entry name="InfiniteCount/CondemnAlliance" value="Bist du dumm? Das kann nicht funktionieren. Nicht mit %3%? Aber warum solltest du auf jemanden hören, der einfach schon alles gesehen hat ..."/>
+	<entry name="InfiniteCount/CondemnCityDestruction" value="Ah, daran erinnere ich mich. Die unzähligen Toten, die rauchenden Trümmer, deine Unbarmherzigkeit. Die Menschheit, die sich immer mehr dem Aussterben nähert. Bist du stolz auf dich, mein Freund?"/>
+	<entry name="InfiniteCount/CondemnInterferenceAttempt" value="Halte dich nicht mit meinen Angelegenheiten auf. Sie sind bereits in Stein gemeißelt."/>
+	<entry name="InfiniteCount/CondemnTradeAgreement" value="Deine Verbündeten prägen dich, mein Freund, bitte vergiss das nicht."/>
+	<entry name="InfiniteCount/CondemnWar" value="Bemerkenswert, dass du Mord und Chaos als eine wirksame Methode zur Problemlösung betrachtest. Bemerkenswert, sage ich."/>
+	<entry name="InfiniteCount/DeclareWar/Anchorite" value="Es würde zu viele Probleme verursachen, dies nicht zu tun, selbst wenn wir die Wahl hätten. Ich glaube, du verstehst meine Situation mit deinen endlosen Infinitiven ..."/>
+	<entry name="InfiniteCount/DeclareWar/Chieftess" value="Du warst bei unserer Weinverkostung unglaublich charmant. Und ich vergebe dir deine Massaker. Aber was du mit der Jungfrau und dem Kind in meiner privaten Galerie angestellt hast ... die Kunst wird das nicht dulden."/>
+	<entry name="InfiniteCount/DeclareWar/EmulatedMind" value="Wie können zwei Menschen wie wir an einen solchen Punkt gelangen? Wie können die Gleise des Schicksals zu unserem Konflikt führen? Ich kann es nicht verstehen. Alles, was mir bleibt, ist diesen Gleisen voller Verzweiflung zu folgen."/>
+	<entry name="InfiniteCount/DeclareWar/FallenSoldier" value="Edler Krieger. Es ist Zeit, dass Ihr erneut Blut vergießt. Damit sie in der Arena von Eurer Tapferkeit singen."/>
+	<entry name="InfiniteCount/DeclareWar/FurtiveTribunal" value="Entschuldige, ich habe dich mit den Schicksalsgöttinnen verwechselt. Ich kenne sie gut, obwohl Klotho mich verstrickt hat und Atropos mich meidet. Dieser Krieg wird ein Hindernis bei der Verfolgung deiner Ziele sein ..."/>
+	<entry name="InfiniteCount/DeclareWar/HeartlessArtificer" value="Es gibt keine größere Schande als ein verschwendetes Leben. Wenn du Freude an deinem Streben nach Perfektion gefunden hättest, wären wir nicht an diesem Punkt angelangt. Aber Schmerz ohne Sadismus? Abscheulich."/>
+	<entry name="InfiniteCount/DeclareWar/HollowWarlord" value="Warum diesen Moment mildern? Du hast dich doch danach gesehnt."/>
+	<entry name="InfiniteCount/DeclareWar/HonorableAristocrat" value="Hiermit wird der Krieg zwischen %2% und %1% und deren Verbündeten erklärt. Immerhin dachte ich, das wir beide die richtigen Formalitäten zu schätzen wissen würden."/>
+	<entry name="InfiniteCount/DeclareWar/InfiniteCount" value="Ah. Ich glaube, ich erinnere mich an diesen Moment. Komisch, ich erinnere mich nicht daran, so ... alt gewesen zu sein?"/>
+	<entry name="InfiniteCount/DeclareWar/PlatinumScion" value="Mein lieber Junge, es gibt Grenzen, die selbst ich nicht überschreiten würde. Aber du überschreitest sie unbekümmert und wiegst dich sicher in deiner Selbstgefälligkeit. Einfach gesagt: Du hast mich und meine Leute beleidigt. Und das bedeutet Krieg."/>
+	<entry name="InfiniteCount/DeclareWar/PracticalRomantic" value="Wir verstehen uns ganz gut. Ich empfehle dir, Trost in der Poesie von Ungaretti zu finden, auch wenn seine moralische Ansichten zwielichtig sind."/>
+	<entry name="InfiniteCount/DeclareWar/RogueOperative" value="Die Aussicht vom Weltraum, hm? Wie ist es, die Gegenwart so zu kennen, wie ich die Zukunft kenne? In Teilen, fragmentiert, unmöglich zu begreifen? Ich bin neugierig. Ich komme, um mich selbst davon zu überzeugen."/>
+	<entry name="InfiniteCount/DeclareWar/TwistedMother" value="Der Krieg steht bevor, Tochter. Ich werde meine Truppen so gut ich kann zurückhalten. Dennoch fordere ich dich auf, deine Familie bestmöglich zu schützen. Unterwirf dich, flehe um Frieden."/>
+	<entry name="InfiniteCount/DeclareWar/UntoldProphet" value="Kleine, am anderen Ende der Reise des Lebens. Ändere dein Verhalten, wenn du so alt werden willst wie ich. Ich werde meine Männer schicken, um dir dabei zu helfen."/>
+	<entry name="InfiniteCount/DeclareWar/Zephon" value="Du bist dir dessen schon bewusst, Maschine. Was nützen solche Formalitäten bei jemandem wie dir? Aber was wäre ich ohne Rituale, ohne Kontrolle?"/>
+	<entry name="InfiniteCount/DemandAllianceTerminationWithThirdParty" value="Dieser Knoten, den du geknüpft hast, hält nicht. Schneide ihn jetzt durch!"/>
+	<entry name="InfiniteCount/DemandAllianceWithThirdParty" value="Ich erinnere mich nicht, dass du in der Zukunft allein warst. Ich schwöre, da war noch jemand anderes ..."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal" value="Hörst du wie meine Gelenke knirschen, wenn ich bettelnd auf die Knie falle? Ich scherze natürlich, ich verneige mich vor niemandem. Aber ich brauche Anreize."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandHighAmount" value="Gib mir ein Zeichen für verlorene Zeit. Oder für ein gut gelebtes Leben."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandLowAmount" value="Ein Symbol gegenseitiger Zuneigung, nichts weiter."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMaxAmount" value="Ich weiß genau, wie viel Lira auf deinem Konto sind. Sie sind alte Freunde, warum sie also nicht mit mir wiedervereinigen?"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMediumAmount" value="Ein wenig, nicht alles. Ich will dich nicht ausnehmen."/>
+	<entry name="InfiniteCount/DemandPeaceWithThirdParty" value="Du bist wie ein Sizilianer, du hältst dich für einen Meister der subtilen Künste. Aber dein Handeln ist unklug."/>
+	<entry name="InfiniteCount/DemandTradeAgreementTerminationWithThirdParty" value="Mein Freund, dein Handwerk bringt dir nur Demütigung ein. Ich selbst würde das nicht akzeptieren ..."/>
+	<entry name="InfiniteCount/DemandTradeAgreementWithThirdParty" value="Wenn die Ozeane steigen, wäre es klug ... jemanden zu haben, mit dem man das Brot brechen kann."/>
+	<entry name="InfiniteCount/DemandTribute" value="Eines weiß ich. Dass du keine Wahl hast, was diese Forderung angeht. Ich habe das Ergebnis bereits gesehen."/>
+	<entry name="InfiniteCount/DemandTribute/DemandHighAmount" value="Ich weiß bereits, dass dieser Betrag genügen wird. Du wirst nicht völlig mittellos dastehen."/>
+	<entry name="InfiniteCount/DemandTribute/DemandLowAmount" value="Almosen. Nur ein Symbol des Vertrauens in meinen Plan."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMaxAmount" value="Wag es nicht, auch nur einen Cent einzubehalten. Ich werde davon erfahren, das weißt du."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMediumAmount" value="Gib, was du in meiner Lage für fair halten würdest. Oh, John Rawls, wo ist dein Stachel?"/>
+	<entry name="InfiniteCount/DemandTroopWithdrawal" value="Ich weiß, wie solche Geschichten enden. Palastputsche, Fensterstürze, gelegentlich ein neuer König oder ein zusätzlicher Papst. Vielleicht würden sich deine Männer zu Hause wohler fühlen?"/>
+	<entry name="InfiniteCount/DemandWarAgainstThirdParty" value="Mein Vater sagte: „Kämpfe deine eigenen Kämpfe.“ Er hatte eine schiefe Nase und Blumenkohlohren. Ich habe das Gegenteil gelernt."/>
+	<entry name="InfiniteCount/EndCall/Friendly" value="Es war mir wie immer ein Vergnügen, Compagno."/>
+	<entry name="InfiniteCount/EndCall/Hostile" value="Sfigato! Das ist italienisch für „Komm doch mal wieder vorbei“."/>
+	<entry name="InfiniteCount/EndCall/Neutral" value="Ein notwendiger Abschied, in der Tat."/>
+	<entry name="InfiniteCount/FirstContact" value="So treffen wir uns erneut zum ersten Mal.<br/><br/>Es ist mir eine Freude, dein junges Gesicht zu sehen. Ich habe dich erschöpft, müde, begeistert gesehen ... aber niemals jung.<br/><br/>Ha! Entschuldige die Abschweifungen eines alten Mannes. Nenn mich ... %1%. In diesen letzten Tagen der Menschheit stelle ich fest, dass ich ... ein wenig losgelöst bin. Als würde ich durch Zeit und Raum schweben. Das hat zwar großartige Vorteile ... aber niemand nimmt meine Wetten mehr an.<br/><br/>Wir werden wieder miteinander sprechen, das weiß ich. Vor oder nach unseren kleinen Kriegen. Vor ... dem Ende."/>
+	<entry name="InfiniteCount/OfferAlliance" value="Tanzt du? Wenn sich zwei Partner im Gleichschritt bewegen, sprudelt die Tarantella durch unser Blut und vertreibt jeden giftigen Verdacht. Ich wäre so ein Partner ..."/>
+	<entry name="InfiniteCount/OfferGift" value="Ich fühle mit dir, wirklich. Mein Hofmeister hat ein Paket geschnürt und mir versichert ... dass es dir gefallen wird."/>
+	<entry name="InfiniteCount/OfferGift/OfferHighAmount" value="Ich muss mich ein wenig zurückhalten, weißt du. Gerade so viel, dass ich über die Runden komme."/>
+	<entry name="InfiniteCount/OfferGift/OfferLowAmount" value="Das ist vorerst ein Symbol. Für das, was kommen könnte, sollte unsere Freundschaft Früchte tragen."/>
+	<entry name="InfiniteCount/OfferGift/OfferMaxAmount" value="Nun, hiernach werden meine Schränke leer sein."/>
+	<entry name="InfiniteCount/OfferGift/OfferMediumAmount" value="Bitte gib dieses Geschenk nicht weiter, ich bitte dich. Es ist einzigartig und für dich bestimmt."/>
+	<entry name="InfiniteCount/OfferMapSharing" value="Die Karte ist nicht das Territorium. Sie erfasst bestimmte Informationen zu einem bestimmten Zeitpunkt für einen bestimmten Zweck. Aber wenn wir sie teilen, bringt sie unsere Gedanken einander näher."/>
+	<entry name="InfiniteCount/OfferPeace/Anchorite" value="Und ein Moment der Freundschaft führt vielleicht zu Frieden. Zum Schlaf, vielleicht zum Träumen?"/>
+	<entry name="InfiniteCount/OfferPeace/Chieftess" value="Meine Dame, ich teile zwar Ihre Blutgier, aber nicht Ihre Freude daran, ihr endlos zu frönen. Vielleicht würde eine Pause meine Motivation neu entfachen?"/>
+	<entry name="InfiniteCount/OfferPeace/EmulatedMind" value="Meine Dame, wenn Sie sich in Ihren Elfenbeinturm zurückziehen, werde ich mich in meine Gruft begeben ..."/>
+	<entry name="InfiniteCount/OfferPeace/FallenSoldier" value="Edler Ritter, ich weiß, dass Krieg Ihr Instinkt ist. Aber vielleicht könnten wir dieses Duell auf einen anderen Zeitpunkt verschieben?"/>
+	<entry name="InfiniteCount/OfferPeace/FurtiveTribunal" value="Ich bin kein Macbeth, der sich durch Aufforderungen auf einer verwüsteten Heide zum Krieg hinreißen lässt. Und ihr seid keine Hexen. Wir haben Besseres zu tun."/>
+	<entry name="InfiniteCount/OfferPeace/HeartlessArtificer" value="Du mit den scharfen Zähnen, ich fürchte, Appelle an deine Menschlichkeit wären vergeblich. Praktisch gesehen gibt es jedoch eine Zeit für Krieg und eine Zeit für den Wiederaufbau ..."/>
+	<entry name="InfiniteCount/OfferPeace/HollowWarlord" value="Blutgetränkter Junge, anderswo gibt es reichere Beute. Und dieser alte Mann ist des Krieges müde ..."/>
+	<entry name="InfiniteCount/OfferPeace/HonorableAristocrat" value="Der Tisch in meiner Burg ist für ein Bankett gedeckt ... aber ich würde keinen Feind dazu einladen. Es sei denn, du bist bereit, unsere Beziehungen zu überdenken?"/>
+	<entry name="InfiniteCount/OfferPeace/InfiniteCount" value="Erinnerst du dich an diese Kreuzung? Haha, nicht die, an der sie versucht haben, uns zu begraben, nein. Erinnerst du dich an die Entscheidung, die wir treffen mussten?"/>
+	<entry name="InfiniteCount/OfferPeace/PlatinumScion" value="Ich kannte deinen Onkel, weißt du. Als Kind, als alter Mann und in der Zeit dazwischen. Ich glaube nicht, dass er unseren Konflikt gutheißen würde. Nicht aus ethischen Gründen, nein, sondern weil er so unrentabel ist ..."/>
+	<entry name="InfiniteCount/OfferPeace/PracticalRomantic" value="Ich kannte Shelley, weißt du? Das wahre Talent, Mary, meine ich. Sie war furchtlos, kraftvoll. Vielleicht könnten wir lieber über sie sprechen als über den Krieg?"/>
+	<entry name="InfiniteCount/OfferPeace/RogueOperative" value="Ich würde gerne mit dir sprechen, mein Kind. Ich habe so viele Geheimnisse, die ich mit der Welt teilen möchte. Ich würde mich freuen, wenn du nur zuhören würdest."/>
+	<entry name="InfiniteCount/OfferPeace/TwistedMother" value="Mein Freund Polidori sagte, dass wir Verfluchten unsere „höllischen Besuche” ausschließlich auf diejenigen beschränkten, die wir auf Erden am meisten geliebt hatten – diejenigen, die durch Verwandtschaft und Zuneigung mit uns verbunden waren. Und Frieden?"/>
+	<entry name="InfiniteCount/OfferPeace/UntoldProphet" value="Dein Gesichtsausdruck lässt dich viel älter aussehen. Ich sorge mich, dass du deine Kindheit verlierst. Aber ich werde dich nicht bevormunden, ich werde um Frieden bitten."/>
+	<entry name="InfiniteCount/OfferPeace/Zephon" value="Ich frage mich, ob meine honigsüße Zunge einen Schalter in deinem „Chinesischen Zimmer“ umlegen kann, um für eine freundlichere Grundlage in unserer Beziehung zu sorgen."/>
+	<entry name="InfiniteCount/OfferTradeAgreement" value="Es gibt Geheimnisse, die ich teilen muss ... die kein lebender Mensch kennt. Natürlich hat das seinen Preis."/>
+	<entry name="InfiniteCount/Praise" value="Ha. Obwohl ich wusste, dass es so kommen würde, überrascht mich die Freude dennoch."/>
+	<entry name="InfiniteCount/Praise/Honorbound" value="Ah, diese Bande der Freundschaft. Mein Fluch verhindert echte Nähe, aber um deine Hingabe beneide ich dich."/>
+	<entry name="InfiniteCount/Praise/Trapped" value="Es ist schwer, nicht wahr? Ich halte mich für einen Menschen, aber ich frage mich, ob ich in irgendeiner Weise noch immer der Mensch bin, der der Stimme verfallen ist. Deine Entschlossenheit, menschlich zu sein, ist ... bewundernswert."/>
+	<entry name="InfiniteCount/Praise/WeWhoAreAboutToDie" value="Ich gebe zu, deine Sendungen lösen in mir ein unglaublich Hochgefühl aus und stillen einen Hunger, den ich sonst kaum kontrollieren kann. So wie, äh, professionelles Wrestling."/>
+	<entry name="InfiniteCount/PraiseWar" value="Mary schrieb: „Wenn ich keine Liebe wecken kann, werde ich Angst säen!“ Du lebst nach diesem Motto, wenn auch hoffentlich weniger monströs als ihre Schöpfung."/>
+	<entry name="InfiniteCount/RejectAlliance" value="Das kann ich nicht. Nicht, dass ich es nicht möchte – ein stabilerer Frieden ist immer erstrebenswert. Ich erinnere mich nur daran, was passiert, wenn ich es tue."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Das Leben, auch wenn es vielleicht nur eine Anhäufung von Qualen ist, liegt mir am Herzen, und ich werde es verteidigen. Das hat die liebe Mary gesagt."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectParty" value="Aber, Schätzchen! %3% betrachtet mich als Verbündeten, treu bis zum Schluss! Wenn ich dich schon desillusionieren muss, dann lieber mitten in der Nacht, wenn wir allein sind."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectOutright" value="Ich habe so wenige Freunde, dass es sehr wehtut, neue abzulehnen. Doch ich kann es nicht. Und ich kann nicht erklären, warum."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectParty" value="Ich hätte nichts gegen eine Abmachung ... aber ich fürchte, mein Fluch würde sich verbreiten wie ein Lauffeuer. Ich habe Erinnerungen zu solchen Geschehnissen."/>
+	<entry name="InfiniteCount/RejectGift/RejectAmount" value="Wenn du nur so wenig entbehren kannst, dann kannst du es dir auch nicht wirklich leisten, etwas zu geben. Nein, behalte das, du brauchst es."/>
+	<entry name="InfiniteCount/RejectGift/RejectOutright" value="Was soll ich mit deinem Reichtum anfangen? Ich kann ihn nicht mit auf meine Wanderungen nehmen ..."/>
+	<entry name="InfiniteCount/RejectMapSharing" value="Ich kenne diese Welt sehr gut. Ich brauche deine Führung nicht, auch wenn du sie mir noch so freundlich anbietest."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectAmount" value="Zu meiner Zeit haben wir beim Tauschhandel darauf geachtet, unseren Gesprächspartner nicht zu beleidigen."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectOutright" value="Oh, dafür bezahlen? Das ist inakzeptabel. Nein, der Fauxpas ist schon passiert, eine Entschuldigung ist sinnlos."/>
+	<entry name="InfiniteCount/RejectPeace" value="„Ich trage eine Liebe in mir, die du dir kaum vorstellen kannst, und eine Wut, die du nicht glauben würdest. Wenn ich das eine nicht befriedigen kann, werde ich mich dem anderen hingeben.“ Und ich dachte, Mary wäre süß!"/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectOutright" value="Ich kann nicht! Meine Anwesenheit zehrt an meinem Volk ... Opfer müssen gebracht werden, um sie vor meinem zeitlosen Hunger zu schützen."/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectParty" value="Ich erinnere mich nur noch wage an die verworrene Zeitlinie, aber dieser Krieg mit %3% war notwendig, wenn überhaupt jemand überleben sollte."/>
+	<entry name="InfiniteCount/RejectTradeAgreement" value="Du würdest die armseligen Güter, die ich anzubieten habe, nicht wollen. Nein, du solltest dir lieber woanders Hilfe suchen."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Mein Freund, ich respektiere deine Sorge um die Weltwirtschaft zutiefst ... aber das ist meine Angelegenheit."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="Oh nein. Ohne meine Hilfe ist %3% verloren. Die Menschheit muss zusammenhalten, wenn wir überstehen wollen, was auf uns zukommt."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectOutright" value="Ich durchschaue diese Farce. Lass uns nicht mehr darüber sprechen."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectParty" value="Was haben sie mir zu bieten? Steine? Da würde ich lieber Blut aus einem Stein pressen."/>
+	<entry name="InfiniteCount/RejectTribute/RejectAmount" value="Würdest du deiner Mutter so ein Geschenk machen? Nein? Warum gibst du es mir dann?"/>
+	<entry name="InfiniteCount/RejectTribute/RejectOutright" value="Ich bin zu stolz, um das anzunehmen, und zu alt, um mich zu ändern."/>
+	<entry name="InfiniteCount/RejectTroopWithdrawal" value="Du irrst dich, alter Freund. Ich werde nicht ins Detail gehen, da ich dich nicht blamieren möchte."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectOutright" value="Das wäre nicht sehr nachbarschaftlich. Wenn man so ist wie ich, lohnt es sich, gute Beziehungen zu pflegen."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectParty" value="Nun, nein. Ich glaube nicht, dass %3% ein würdiges Ziel meines Zorns ist. Warum kämpfst du nicht selbst gegen sie, wenn du so denkst?"/>
+	<entry name="InfiniteCount/TerminateAlliance" value="Ich werde diesen Affenzirkus nicht länger mitmachen. Ich weiß, dass ich den Zorn der ganzen Welt auf mich ziehen werde, weil ich mich von der Einheit der Menschheit abwende, aber ich muss es tun."/>
+	<entry name="InfiniteCount/TerminateTradeAgreement" value="Es ist schade, aber ich muss mich um mein eigenes Volk und dessen Bedürfnisse kümmern."/>
+	<entry name="PlatinumScion/AcceptActionCancel" value="Zeit ist Geld, Kumpel."/>
+	<entry name="PlatinumScion/AcceptAlliance" value="Meine Leute werden den Vertrag aufsetzen."/>
+	<entry name="PlatinumScion/AcceptAllianceTermination" value="Ich sollte besser nach einer Ausstiegsklausel suchen."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="Schade, %3% dachte, wir würden fusionieren. Geschäfte brechen schwache Herzen."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AskParty" value="Bevor ich überhaupt in Verhandlungen eintrete, muss ich wissen, wer daran teilnimmt."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AcceptParty" value="Hmm. Wenn wir uns beide spezialisieren, könnte das funktionieren. Okay, ich bin dabei."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AskParty" value="Jemand Gutes, will ich hoffen. Keine Zeitverschwender."/>
+	<entry name="PlatinumScion/AcceptCall/Friendly" value="Ah, mein zuverlässiger Partner. Willkommen!"/>
+	<entry name="PlatinumScion/AcceptCall/Hostile" value="Ich weiß nicht, ob wir etwas zu besprechen haben."/>
+	<entry name="PlatinumScion/AcceptCall/Neutral" value="Halte dich kurz."/>
+	<entry name="PlatinumScion/AcceptCondemn" value="Na und? Als ob mich das interessiert ..."/>
+	<entry name="PlatinumScion/AcceptGift/AcceptAmount" value="Das sollte reichen."/>
+	<entry name="PlatinumScion/AcceptGift/AskAmount" value="Hoffentlich lohnt sich das."/>
+	<entry name="PlatinumScion/AcceptMapSharing" value="Es ist gut, seine Zielmärkte ... und seine Angriffsziele zu kennen."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AcceptAmount" value="Das deckt meine Kosten."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AskAmount" value="Normalerweise werden zuerst die Bedingungen ausgehandelt und dann der Betrag. Aber ich bin bereit, eine Ausnahme zu machen. Was wird es kosten?"/>
+	<entry name="PlatinumScion/AcceptPeace" value="Sicher. Ich kann sowohl in Friedens- als auch in Kriegszeiten Gewinne erzielen. Waffen sind immer beliebt."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="Sicher. %3% hat vom eigentlichen Geschäft abgelenkt."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AskParty" value="Ich weiß nicht. Unsere Produkte schlagen sich im Krieg gut, auch wenn unsere Leute das nicht tun. Wer?"/>
+	<entry name="PlatinumScion/AcceptPraise" value="Die Aktienkurse sagen mir, wie großartig ich bin. Aber natürlich kann ein weiterer Speichellecker nicht schaden."/>
+	<entry name="PlatinumScion/AcceptTradeAgreement" value="Davon profitieren wir beide. Du hast heute eine kluge Entscheidung getroffen."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTermination" value="Du Idiot. Du wirst den Tag bereuen, an dem du das Angebot eines Daed abgelehnt hast."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% soll hungrig bleiben, gute Idee. Dadurch werden wir später ein besseres Angebot erhalten."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Jetzt hast du meine Aufmerksamkeit. Und wer wird das Ziel sein?"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Ich habe eine neue Intrige ausgeheckt und suche ein gutes Opfer. Das sollte funktionieren."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AskParty" value="Nun, ich wähle meine Geschäftspartner sorgfältig aus. Sie müssen ... Geld haben. Haben sie das?"/>
+	<entry name="PlatinumScion/AcceptTribute/AcceptAmount" value="Dieses Mal übernehmen wir das. Aber komm nicht noch einmal angekrochen."/>
+	<entry name="PlatinumScion/AcceptTribute/AskAmount" value="Das ist Erpressung! Ich bin beeindruckt, das hätte ich dir nicht zugetraut."/>
+	<entry name="PlatinumScion/AcceptTroopWithdrawal" value="Ich habe sie dort sowieso nicht gebraucht. Deine Leute brauchen meine ... Großzügigkeit nicht."/>
+	<entry name="PlatinumScion/AcceptWar" value="Es ist also eine Kriegswirtschaft, nicht wahr? Mit dem Waffenhandel lässt sich Geld verdienen."/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AcceptParty" value="Laut dem Bericht meiner Buchhalter ... argh. Wie viel geben sie für Marketing aus?! Das ist kriminell!"/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AskParty" value="Die Unterlagen müssten übereinstimmen. Dazu muss ich wissen, wer sie sind und wie ihre Finanzen aussehen."/>
+	<entry name="PlatinumScion/AdmitDefeat" value="Glaubst du etwa, ich hätte noch nie mit einer feindlichen Übernahme zu tun gehabt? Glaubst du, das wäre mein erstes Mal? Ich weiß, dass du mich brauchst ... als Manager, der alles koordiniert und–<br/><br/>Was? Du willst mich loswerden? Du kündigst meinen Vertrag? Moment, nein, das will ich nicht! Ich muss mit meinem Anwalt sprechen! Das kannst du nicht machen ..."/>
+	<entry name="PlatinumScion/AskForProposals" value="Gibt es noch mehr ausgefallene Möglichkeiten, meine Zeit zu verschwenden?"/>
+	<entry name="PlatinumScion/AskForSupport/Anchorite" value="Hör mal, Anky-Baby. Du und ich, wir verstehen uns. Aber wenn unsere Beziehung gedeihen soll, dann ... verdammt, ich sag das nur ungern. Aber ich brauche Hilfe."/>
+	<entry name="PlatinumScion/AskForSupport/Chieftess" value="Stammesführerin, ich bin es, Lord Business. Ich bitte dich demütig ... Moment mal, wer hat dieses Memo geschrieben? Meine Güte. Hör zu, wir brauchen Hilfe. Bitte."/>
+	<entry name="PlatinumScion/AskForSupport/Zephon" value="Maschine. Ich schicke eine Präsentation mit Tabellen und Prospekten. Du wirst sehen, dass es langfristig eine kluge Entscheidung ist, uns zu helfen. Und diese abgeschriebenen Güter sind ein Schnäppchen!"/>
+	<entry name="PlatinumScion/CancelAction" value="Streich das. Ich habe eine bessere Idee."/>
+	<entry name="PlatinumScion/Condemn" value="Hör damit auf, Kumpel. Sonst müssen wir uns unterhalten."/>
+	<entry name="PlatinumScion/Condemn/Mysticism" value="Typisches Geschwätz, kein Wunder, dass deine Forscher in Scharen abwandern."/>
+	<entry name="PlatinumScion/Condemn/SeeAsISee" value="Verstehe, ich habe es gesehen. Ich verstehe jedoch nicht, warum du denkst, dass dich das zu etwas Besonderem macht. Du bist nur ein angeberischer Snob wie Crowley, der lieber über irgendwelche tiefgründigen Dinge plappert, als im Hier und Jetzt zu leben."/>
+	<entry name="PlatinumScion/Condemn/TenderMinistrations" value="Ein öffentliches Gesundheitssystem? Ich will gar nicht wissen, wie deine Bilanz aussieht. Wenn die Trottel sterben, hol dir neue Trottel."/>
+	<entry name="PlatinumScion/CondemnAlliance" value="Kapierst du das nicht? %3% ist schlecht für dich und schlecht fürs Geschäft."/>
+	<entry name="PlatinumScion/CondemnCityDestruction" value="Das war Onkel Phinnicus’ Lieblingsstadt! Die Moccacinos dort waren außergewöhnlich – mit perfektem Schaum. Jetzt habe ich Angst, was zu verpassen. Verdammt noch mal."/>
+	<entry name="PlatinumScion/CondemnInterferenceAttempt" value="Du wurdest nicht zum Treffen eingeladen. Du bist nicht mal Aktionär. HALT DICH DA RAUS."/>
+	<entry name="PlatinumScion/CondemnTradeAgreement" value="Ein Handelsabkommen? Ohne mich? Du versuchst mich zu unterbieten, nicht wahr?"/>
+	<entry name="PlatinumScion/CondemnWar" value="Das ist einfach nur dumm. Aber wenn ihr beiden Verrückten euch an die Kehle gehen wollt, werde ich mich zurücklehnen und die Show genießen."/>
+	<entry name="PlatinumScion/DeclareWar/Anchorite" value="Alien. Mir ist gerade eingefallen, dass wir dich nie richtig in der Nachbarschaft willkommen geheißen haben. So machen wir das hier."/>
+	<entry name="PlatinumScion/DeclareWar/Chieftess" value="Hör mal, das ist nichts Persönliches, aber du bist kein Teamplayer. Wir müssen also deine Operation ein wenig ... verkleinern. Ich denke, die richtige Größe liegt bei ungefähr ... null."/>
+	<entry name="PlatinumScion/DeclareWar/EmulatedMind" value="Hey, Clippy, ich wollte mich nur kurz melden. Die Hardwareprüfung ist abgeschlossen und wie’s aussieht, bist du als Schrott wertvoller. Ist nichts Persönliches."/>
+	<entry name="PlatinumScion/DeclareWar/FallenSoldier" value="Das ist nichts Persönliches. Aber eine unendliche Quelle für regenerierendes Fleisch ist schlecht fürs Geschäft und den globalen Fleischmarkt. Zumindest dann, wenn jemand anderes sie besitzt. Keine Sorge, wir lassen dich am Leben. Mehr oder weniger."/>
+	<entry name="PlatinumScion/DeclareWar/FurtiveTribunal" value="Wer hat hier das Sagen? Larry, Moe oder Curly? Nein, keine Reaktion? Kein Kichern? Habt ihr die Klassiker noch nie gesehen? Ihr seid alle Banausen."/>
+	<entry name="PlatinumScion/DeclareWar/HeartlessArtificer" value="Madame, Sie sind eine Frau nach meinem Herzen. Schade, dass es schwarz vor Sünde ist, sonst hätten wir zusammen wunderschöne Monstrositäten erschaffen können. So bleibt uns wohl nichts anderes übrig, als Krieg zu führen."/>
+	<entry name="PlatinumScion/DeclareWar/HollowWarlord" value="Verdammt, Mann. Leder, Sonnenbrille, Bart. So viel ungeschliffenes Testosteron außerhalb eines Sitzungssaals! Du zwingst mich fast, gegen dich zu kämpfen, nur um zu sehen, welcher Alpha-Affe hier das Sagen hat."/>
+	<entry name="PlatinumScion/DeclareWar/HonorableAristocrat" value="Du Snob. Spuck meinen Kaffee aus, ja? Du verstehst es nicht, du wirst es nie verstehen. Klar, die Zutaten sind Mist. Aber dieses kleine Schnörkelchen oben drauf, das macht es aus. Das ist Kunst, du Trottel. Das werde ich dir schon noch einbläuen."/>
+	<entry name="PlatinumScion/DeclareWar/InfiniteCount" value="Verkauf mich nicht für dumm, alter Mann. Ich kenne deine Marketingstrategien und ich kaufe sie dir nicht ab. Meine Jungs werden herausfinden, was wirklich mit dir los ist."/>
+	<entry name="PlatinumScion/DeclareWar/PlatinumScion" value="Cousin, so sehr ich auch deinen Mut, deine Energie und deinen Geschmack bewundere: Es kann nur einen wahren Erben von Phinnicus geben. (Und wenn er nicht tot ist, gibt es nur eine wahre Person, die ihn töten kann.) Ich werde einen Mocaccino auf deine Leiche trinken."/>
+	<entry name="PlatinumScion/DeclareWar/PracticalRomantic" value="Worum geht es bei Tennyson im Endeffekt? Was sagt Maya Angelou über Gewinn und Verlust? Du wirst überrascht sein, Kumpel. Also gebe ich dir die Gelegenheit, etwas zu lernen. So viel Herzschmerz, wie du verkraften kannst."/>
+	<entry name="PlatinumScion/DeclareWar/RogueOperative" value="Nur weil du die Ruinen von Onkel Phinnicus’ Hauptquartier besetzt hast, bist du noch lange nicht der CEO. Das ist meine Sache, Abschaum. Ich bin der Boss. ICH."/>
+	<entry name="PlatinumScion/DeclareWar/TwistedMother" value="Die Sache ist die: Dein Sozialismus ist ein unbekannter Faktor, den ich weder kontrollieren noch berücksichtigen kann. Das bringt alle meine Quartalsprognosen durcheinander. Diese Variable muss beseitigt werden. Und damit meine ich – dich."/>
+	<entry name="PlatinumScion/DeclareWar/UntoldProphet" value="Aus dem Weg, Junge. Dein Chef, dieser Große Redner. Wir müssen uns unter vier Augen unterhalten."/>
+	<entry name="PlatinumScion/DeclareWar/Zephon" value="Du bist so verdammt veraltet und ineffizient. Ich werde dich einschmelzen, die Seltenerdmetalle herausholen und aus dem Rest einen Couchtisch bauen. Und meine Füße auf dir ablegen."/>
+	<entry name="PlatinumScion/DemandAllianceTerminationWithThirdParty" value="Kumpel, du und ich, wir treiben diese Welt an. Wir sind die Motoren der Wirtschaft. Nur %3% hält dich zurück und zieht dich runter. Lass los."/>
+	<entry name="PlatinumScion/DemandAllianceWithThirdParty" value="Du siehst schwach aus, Kumpel. Eine feindliche Übernahme steht bevor. Und dieser Markt braucht Spieler, sonst wird er zu einem Monopol. Schließe dich mit einem anderen kleinen Fisch zusammen."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal" value="Klingt nach einem Plan. Aber ohne Finanzierungsnachweis rühr ich keinen Finger. Führ mich zum Schotter."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandHighAmount" value="Das geht bis zum Mond! Oder vielleicht sogar bis zur Sonne! Bist du dabei oder bist du dabei? Du bist dabei, oder?"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandLowAmount" value="Gib mir ein bisschen Trinkgeld. Und erzähl mir zehn Minuten lang, wie toll meine Visitenkarten sind."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMaxAmount" value="Du wirst für mich alles geben. Ich brauche dein Geld nicht, aber ich muss sehen, dass du das hier wirklich willst."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMediumAmount" value="Die Weisheit Salomos, Kumpel. Was auch immer du hast, ich will die Hälfte davon."/>
+	<entry name="PlatinumScion/DemandPeaceWithThirdParty" value="Was hast du vor, Amigo? Du bist in einen Kampf verwickelt, den du nicht gewinnen kannst."/>
+	<entry name="PlatinumScion/DemandTradeAgreementTerminationWithThirdParty" value="Siehst du, das ist das Problem. Ihr Ladenbesitzer träumt immer zu klein. Sucht euch bessere Geschäftspartner!"/>
+	<entry name="PlatinumScion/DemandTradeAgreementWithThirdParty" value="Die globale Wirtschaftslage – und meine Gewinnspannen – verlangen, dass du dir einen neuen Geschäftspartner suchst. Und das bin ganz sicher nicht ich, nur um das klarzustellen."/>
+	<entry name="PlatinumScion/DemandTribute" value="Betrachte das nicht als Freiheitssteuer, sondern als Geschenk an den Mann, der die Welt am Laufen hält, während ihr Wahnsinnigen und Aliens euch gegenseitig umbringt."/>
+	<entry name="PlatinumScion/DemandTribute/DemandHighAmount" value="Ich habe wie ein Hund gerackert. Aber ich will kein Hundefutter – gib mir das komplette Sieben-Gänge-Menü."/>
+	<entry name="PlatinumScion/DemandTribute/DemandLowAmount" value="Da du nicht völlig verdorben bist, gebe ich dir dieses Mal einen Rabatt. Schließlich bist du mein Kumpel."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMaxAmount" value="Komm schon. Gib mir alles."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMediumAmount" value="Siehst du, was du da in deiner Brieftasche hast? Das reicht, das reicht völlig."/>
+	<entry name="PlatinumScion/DemandTroopWithdrawal" value="Halt dich zurück, Kumpel. Nur ich darf diese Märkte bedienen."/>
+	<entry name="PlatinumScion/DemandWarAgainstThirdParty" value="Hör zu, ich bin gerade beschäftigt, aber es gibt etwas, um das du dich kümmern musst. Sieh es als Gefallen für die Daeds."/>
+	<entry name="PlatinumScion/EndCall/Friendly" value="Melde dich jederzeit, Kumpel. Ich bin da."/>
+	<entry name="PlatinumScion/EndCall/Hostile" value="Hau ab, du Mistkerl!"/>
+	<entry name="PlatinumScion/EndCall/Neutral" value="Pass auf, dass du nicht stolperst. Der erste Schritt ist ganz schön knifflig."/>
+	<entry name="PlatinumScion/FirstContact" value="Setz dich. Es ist Zeit für die Einweisung.<br/><br/>Zuerst ein kurzer Rückblick. Apokalypse, Aliens, Roboter und so weiter. Eine Cyber-Utopie. Eigentlich können wir diese Folien überspringen.<br/><br/>Hier kommt der wichtige Teil. Ich! Wie du dieser Grafik entnehmen kannst, wurde ich erschaffen, um diese Welt zu verbessern. Meine Herrschaft ist unvermeidlich!<br/><br/>Du solltest dich also besser sofort fügen. Wie wäre es mit einer Stelle in der Poststelle?"/>
+	<entry name="PlatinumScion/OfferAlliance" value="Freunde habe ich keine. Feinde wie dich ... halte ich nahe bei mir. Eine vorübergehende Fusion würde uns näher zusammenbringen."/>
+	<entry name="PlatinumScion/OfferGift" value="Also haben ich und der Vorstand ein Paket für dich geschnürt. Keine Sorge, es ist keine Uhr für den Ruhestand."/>
+	<entry name="PlatinumScion/OfferGift/OfferHighAmount" value="Es ist viel, ich weiß, aber es ist mehr als nötig. Erzähl niemandem davon, dieses Angebot ist nur für dich bestimmt."/>
+	<entry name="PlatinumScion/OfferGift/OfferLowAmount" value="Nur eine kleine Auswahl aus meinem Angebot. Bleib freundlich, es gibt noch mehr davon."/>
+	<entry name="PlatinumScion/OfferGift/OfferMaxAmount" value="Davon gibt es noch viel mehr! Nein, wir sind nicht ausverkauft. Und wenn doch ... erzähl Onkel Phinnicus bloß nichts davon, okay?"/>
+	<entry name="PlatinumScion/OfferGift/OfferMediumAmount" value="Ich verschenke nie etwas. Aber ich muss zugeben, das hier ist ein wirklich schönes Geschenk."/>
+	<entry name="PlatinumScion/OfferMapSharing" value="Ach, für eine Stunde mit Onkel Phinnicus’ Himmelsauge. All diese Dinge, von denen wir eigentlich schon wissen sollten!"/>
+	<entry name="PlatinumScion/OfferPeace/Anchorite" value="Das war deine Begrüßung auf der Erde, Kumpel. Hast du die Botschaft verstanden?"/>
+	<entry name="PlatinumScion/OfferPeace/Chieftess" value="Verdammt, Frau. Das war ein unterhaltsamer Kampf. Aber das ist der letzte Dormeuil-Anzug auf der Welt, ich kann es nicht riskieren, ihn zu ruinieren. Waffenstillstand?"/>
+	<entry name="PlatinumScion/OfferPeace/EmulatedMind" value="Piep-Piep! Maschine, Krieg deaktivieren. Frieden aktivieren. Piep-Piep. So funktioniert das doch bei euch, oder?"/>
+	<entry name="PlatinumScion/OfferPeace/FallenSoldier" value="Verdammt, du bist männlich. Ich hätte da vielleicht einen Platz für dich in meiner Firma, wenn du dich nur ... ein wenig beruhigen könntest."/>
+	<entry name="PlatinumScion/OfferPeace/FurtiveTribunal" value="Meine Damen, meine Damen. Nein, seid still – ich verstehe sowieso kein Wort von dem, was ihr sagt. Können wir uns einfach darauf einigen ... dass wir uns nicht einig werden?"/>
+	<entry name="PlatinumScion/OfferPeace/HeartlessArtificer" value="Madame, Sie sind eine Frau nach meinem goldenen Herzen. Es gehört Ihnen, wenn wir unseren Konflikt hinter uns lassen."/>
+	<entry name="PlatinumScion/OfferPeace/HollowWarlord" value="Herr Muskelprotz. Was würde es kosten, damit du uns gehen lässt? Ein Satz Gewichte? Ein neuer Vergaser? Egal was, du bekommst es."/>
+	<entry name="PlatinumScion/OfferPeace/HonorableAristocrat" value="Ich habe gehört, Sie mögen Verträge, mein Herr. Schließlich bedeuten Verträge Handel, und Handel bedeutet ... Kuchen. Battenberg?"/>
+	<entry name="PlatinumScion/OfferPeace/InfiniteCount" value="Yo, Drac. Du kannst doch sicher besser Jungfrauen aussaugen, wenn meine Artillerie nicht auf deine Burg feuert?"/>
+	<entry name="PlatinumScion/OfferPeace/PlatinumScion" value="Das wäre jemand, mit dem ich Geschäfte machen kann! Natürlich in ruhigeren Zeiten."/>
+	<entry name="PlatinumScion/OfferPeace/PracticalRomantic" value="Kumpel, ich wette, dieser Krieg bietet dir mehr als genug Schreibstoff für deine Gedichte. Aber fürs Geschäft ist er furchtbar. Und eines Tages wird eine Brandbombe in deiner Bibliothek landen und – puff – schon ist es wieder wie in Alexandria."/>
+	<entry name="PlatinumScion/OfferPeace/RogueOperative" value="Fürs Erste kannst du IKAR haben. Aber ich werde das nicht vergessen."/>
+	<entry name="PlatinumScion/OfferPeace/TwistedMother" value="Mama, ich bin fertig."/>
+	<entry name="PlatinumScion/OfferPeace/UntoldProphet" value="Kind, erinnerst du dich an diesen Satz von Jebus, wie lautete er noch? Selig sind die Schrittmacher? Wir könnten diese Typen sein!"/>
+	<entry name="PlatinumScion/OfferPeace/Zephon" value="Hör mal, Maschine, du und ich, wir sind gleich. Zwei evolutionäre Algorithmen, die versuchen, in einer verrückten Welt zu überleben. Können wir nicht auf einen gemeinsamen Nenner kommen?"/>
+	<entry name="PlatinumScion/OfferTradeAgreement" value="Ich habe meinen Schutzhelm dabei und bin bereit, sofort mit dem Bau dieser Handelsroute zu beginnen. Gib einfach Bescheid."/>
+	<entry name="PlatinumScion/Praise" value="Ich wusste, dass du das schaffst. Wir machen noch einen echten Amerikaner aus dir."/>
+	<entry name="PlatinumScion/Praise/CultExpansion" value="So betreibt man eine Franchise!"/>
+	<entry name="PlatinumScion/Praise/EngineerLife" value="Keine Ahnung, was ihr in euer Wasser tut, damit eure Arbeiter wie die Kaninchen vögeln, aber das ist clever. Die Erde neu bevölkern, so ist es gut!"/>
+	<entry name="PlatinumScion/Praise/IcarusSatellite" value="Onkel Phinnicus liebte dieses verrückte Ding und ich durfte damals beim Start sogar dabei sein. Es hob auf einer Feuersäule ab ... und ein paar Stunden später noch einmal, als es seine Waffen testete. Das waren gute Zeiten. Behandle mein Mädchen gut, okay?"/>
+	<entry name="PlatinumScion/PraiseWar" value="Wenn man zwischen Krieg und Frieden wählen muss ... wie sagte Brecht noch? „Nur, der Krieg nährt seine Leut besser.“ Er gibt der Welt eine klare Ordnung. Und gut fürs Geschäft ist er auch."/>
+	<entry name="PlatinumScion/RejectAlliance" value="Tut mir leid, Kumpel, aber ich habe einfach keine Zeit für den Papierkram."/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Du hast mir nicht vorzuschreiben, mit wem ich mich treffe."/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectParty" value="Das geht nicht, Kumpel. Die Welt ist ein besserer Ort mit %3%. Zumindest meine Welt."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectOutright" value="Warum kümmerst du dich nicht darum? Ich habe genug zu tun."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectParty" value="Das würde ich ja, aber ... beim letzten Treffen hat jemand die Schuhe ausgezogen und das finde ich unerhört."/>
+	<entry name="PlatinumScion/RejectGift/RejectAmount" value="Und ich dachte, Onkel Phinnicus wäre geizig. Er hat mir einmal zu Weihnachten eine Socke geschenkt. Eine Socke. Die nächste bekam ich zu meinem Geburtstag."/>
+	<entry name="PlatinumScion/RejectGift/RejectOutright" value="Ich brauche dein stinkendes Geld nicht."/>
+	<entry name="PlatinumScion/RejectMapSharing" value="Verdammt, du gibst dir wirklich Mühe, mich zu Tode zu langweilen."/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectAmount" value="Kleingeld. Sehe ich etwa aus wie ein Affe, der für ein paar Cent tanzt? Hm?"/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectOutright" value="Du wirst es nicht glauben, aber Geld wird meine Meinung in dieser Sache nicht ändern."/>
+	<entry name="PlatinumScion/RejectPeace" value="Weißt du, was das Problem mit Frieden ist? Keine Organisation, kein Antrieb. Krieg ... Krieg macht uns alle zu Unternehmern."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectOutright" value="Der Krieg ist ein Plan. Vielleicht ist es ein Plan, meinen Feind zu töten, aber Onkel Phinnicus hat immer gesagt, das wichtigste an einem Plan ist die Ausführung."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectParty" value="%3% zu bekämpfen, bringt das Beste in meinen Leuten zum Vorschein. Ich mache die besten Geschäfte, meine Produktionslinien laufen wie geschmiert. Krieg ist wirklich gut fürs Geschäft."/>
+	<entry name="PlatinumScion/RejectTradeAgreement" value="Die Zahlen ergeben keinen Sinn. Und ich werde sie nicht noch einmal durchgehen, du verschwendest meine Zeit. Ist das ein Trick?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="„Zusammenkommen ist ein Beginn. Zusammenbleiben ist ein Fortschritt. Zusammenarbeiten ist ein Erfolg.“ Um Henry Ford zu zitieren."/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="Tut mir leid, Kumpel, aber %3% ist ein wichtiger Teil der Lieferkette. Ohne diese Komponenten gäbe es keine Espressomaschinen mehr. Keine Maschinen, keine Mocaccinos. Kannst du dir das überhaupt vorstellen?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectOutright" value="Hör mal, ich bin mir sicher, dass du es gut meinst, aber ich weiß genau, mit wem ich handeln möchte und warum."/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectParty" value="%3%?! Da gibt es nichts zu holen. Ich habe die Zahlen vorliegen! Die haben einen Dreck."/>
+	<entry name="PlatinumScion/RejectTribute/RejectAmount" value="Gier steht dir nicht gut, Kumpel. Und sie bringt dir nichts."/>
+	<entry name="PlatinumScion/RejectTribute/RejectOutright" value="Du bekommst rein gar nichts."/>
+	<entry name="PlatinumScion/RejectTroopWithdrawal" value="Nein."/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectOutright" value="Ich soll mich auf dein Geheiß in einen weiteren Krieg stürzen? Habe ich etwa einen Schlag auf den Kopf bekommen?"/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectParty" value="Weißt du, ich habe Pläne für %3%. Große Pläne. Pläne, in die du nicht eingeweiht bist."/>
+	<entry name="PlatinumScion/TerminateAlliance" value="Es war nie eine Fusion, Kumpel. Nur ein kurzfristiger Null-Stunden-Vertrag. Und ich mache von der Kündigungsklausel Gebrauch."/>
+	<entry name="PlatinumScion/TerminateTradeAgreement" value="Was meinst du damit, ich schicke dir Mist? Vergiss die Qualität, genieße die Quantität! Ach, scheiß drauf, wir sind fertig. Du wirst zurückkommen und um Vergebung betteln ..."/>
 	<entry name="PracticalRomantic/AcceptActionCancel" value="Hör auf zu träumen. Diese Welt ist längst zu Ende gegangen ..."/>
 	<entry name="PracticalRomantic/AcceptAlliance" value="Gemeinsam haben wir eine bessere Chance, eine Zukunft für die Menschheit zu sichern."/>
 	<entry name="PracticalRomantic/AcceptAllianceTermination" value="Und jetzt trage ich diese Last allein? So soll es sein ... Die Geschichte wird sich an meine Taten erinnern – und an deinen Verrat."/>
@@ -1242,6 +1600,7 @@
 	<entry name="PracticalRomantic/AcceptCall/Friendly" value="Maraheb, schön, dass du noch lebst und gesund bist!"/>
 	<entry name="PracticalRomantic/AcceptCall/Hostile" value="Sprich schnell. Warum rufst du an?"/>
 	<entry name="PracticalRomantic/AcceptCall/Neutral" value="Salam Alikoum. Warum suchst du mich heute auf?"/>
+	<entry name="PracticalRomantic/AcceptCondemn" value="Jeder, wirklich jeder verdammte Mensch, ist ein Kritiker."/>
 	<entry name="PracticalRomantic/AcceptGift/AcceptAmount" value="Du erfreust mich. Ich schätze das hier mehr, als Worte ausdrücken können!"/>
 	<entry name="PracticalRomantic/AcceptGift/AskAmount" value="Wie hast du mit deinem Altruismus nur überlebt? Egal, ich nehme gerne alles, was du mir anbietest – wie viel ist es denn?"/>
 	<entry name="PracticalRomantic/AcceptMapSharing" value="Ich würde das gerne annehmen. Wissen ist der erste Schritt zum Verständnis und zu einem dauerhaften Frieden."/>
@@ -1250,6 +1609,7 @@
 	<entry name="PracticalRomantic/AcceptPeace" value="Ja. Ich will eine Zukunft, die mit Worten geregelt wird, nicht mit Kriegen. Nur eine solche wäre es wert, überhaupt dafür zu kämpfen."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AcceptParty" value="Ja, ich würde die Dinge sowieso lieber mit Worten regeln ... Ich dachte nur, diese Zeiten wären längst vergessen."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AskParty" value="Der Weg zum Frieden ist mit Dornen übersät, nicht mit Rosen. Aber vielleicht gibt es trotzdem einen freundschaftlichen Weg. An wen denkst du denn?"/>
+	<entry name="PracticalRomantic/AcceptPraise" value="„Seht meine Werke, ihr Mächtigen, und verzweifelt!“ Ha."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreement" value="Ich habe eine Hungersnot überlebt ... Ich habe gesehen, was sie mit Gemeinschaften anrichten kann. Danke für die Chance, unseren beiden Völkern zu Wohlstand zu verhelfen."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTermination" value="Das scheint weise zu sein. Wir hatten die Chance, eine goldene Straße zu bauen ... Eine Schande, dass wir dafür vergoldeten Dreck verwendet haben."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Ich habe die Unterlagen gelesen ... Leider hast du recht. Danke, dass du mir weitere Verluste ersparst."/>
@@ -1268,6 +1628,7 @@
 	<entry name="PracticalRomantic/AskForSupport/Chieftess" value="Wenn du auch nur einen Funken Menschlichkeit in dir trägst, dann hilf uns."/>
 	<entry name="PracticalRomantic/AskForSupport/Zephon" value="Ich glaube nicht, dass dein Kopf nichts als ein transparenter Subwoofer ist. Da gibt es Moral in diesem fortschrittlichen Uhrwerk. Und ich wette, dass sie menschliches Leid nicht ertragen kann."/>
 	<entry name="PracticalRomantic/CancelAction" value="Warte. Das Leben kann sich ändern, wenn wir es am wenigsten erwarten – also muss ich meine Meinung ändern."/>
+	<entry name="PracticalRomantic/Condemn" value="„Ich war zornig auf den Freund, sagt’ es ihm, mein Zorn verblich. Ich war zornig auf den Feind, schwieg, mein Zorn vermehrte sich.“ Blake."/>
 	<entry name="PracticalRomantic/Condemn/FoundationOfBlood" value="Wie kannst du es wagen? Welchen Sinn hat es, zu überleben, wenn man sich selbst solche Schrecken zufügt? Ich verstehe von Ästhetik mehr als die meisten anderen, aber wenn du dich nicht zurückhältst, gibst du deinen Geschmack auf – und deine Menschlichkeit."/>
 	<entry name="PracticalRomantic/Condemn/Gluttony" value="Ah, die Krankheit des Westens: Gier. Als ob Geld und Völlerei den Tod aufhalten könnten. Lass mich nur so viel sagen: Du wirst sterben. Und zwar bald."/>
 	<entry name="PracticalRomantic/Condemn/Immoral" value="Du wirst nicht ewig die Liebe deines Volkes kaufen können. Sie fürchten dich, denn sie wissen, dass du sie als Werkzeuge betrachtest, die gebrochen werden müssen. Oder als Ressourcen, die es zu verbrauchen gilt. Dein Tag wird kommen."/>
@@ -1286,6 +1647,8 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="Deine „Kunstfertigkeit“ ist ein Affront gegen die Natur! Ich werde die Welt von deinen verrückten Werken säubern!"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="Du hoffst, dass man sich in Epen an dich erinnern wird. Aber wir Dichter arbeiten nicht auf Bestellung. Nach deinem Tod wird es keine Klagelieder geben, kein letztes Kapitel. Nur kurze Ansprachen an Hinterbliebenen derer, die du getötet hast."/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="Pflicht ist das Konzept der Narren, um die Adligen und Könige gierig zu halten. Der einzig wahre Maßstab für Erfolg ist Glück, nicht Ehre. Aber ich werde diese Argumente auf dem Feld vorbringen. Mit Nachdruck."/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="„Um eine Welt in einem Sandkorn zu sehn<br/>Und einen Himmel in einer wilden Blume<br/>Halte die Unendlichkeit in deiner flachen Hand<br/>Und die Ewigkeit in einer Stunde.“ Wie Blake werde ich dich einfangen. Und festhalten."/>
+	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="„Wir schwören beim zerstörerischen Blitzstrahl, Bei den Strömen reinen Bluts, die vergossen wurden“... ich werde dich vernichten, wie es meine Landeshymne von mir verlangt."/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="Wir müssen uns bekämpfen weil ich dich liebe. Die Schlacht wird uns beide verbessern, uns stärker machen. Selbst wenn einer von uns beiden auf der Strecke bleibt, wird die Menschheit dadurch gewinnen."/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="Du hast eine Menschlichkeit, die den anderen fehlt – eine Überlebensnotwendigkeit, die dich Dinge tun lässt, die andere nicht tun. Ich weiß, dass du für mich zu weit gegangen bist. Und es wird Krieg geben – aber ich liebe dich trotzdem."/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="Es tut mir leid, dass dein Leben keine Kristalltreppe ist. Es tut mir leid, dass sie mit Nägeln gespickt ist, mit Splittern, zerrissenen Brettern und teppichlosen Böden … Und mein Kummer vergrößert deinen auch noch."/>
@@ -1328,12 +1691,15 @@
 	<entry name="PracticalRomantic/OfferPeace/HeartlessArtificer" value="Ich kann die Männer nicht entbehren, um dich für deine grausame, banale Kunst zu bestrafen. Aber eines Tages, Architektin …"/>
 	<entry name="PracticalRomantic/OfferPeace/HollowWarlord" value="Ich bewundere den Mythos, den du erschaffst. Du machst dich selbst zu einem unsterblichen Archetyp, der weiter bestehen wird, wenn du schon längst vergessen bist. Aber selbst eine Kriegsgeschichte wird besser, wenn es Pausen für Menschlichkeit gibt."/>
 	<entry name="PracticalRomantic/OfferPeace/HonorableAristocrat" value="Sie nannten Ludwig III. verrückt, weißt du. Aber wie viele Kriege hat er geführt? Wie viele starben seinetwegen? Niemand. Friede, eine seltsame Art von Wahnsinn."/>
+	<entry name="PracticalRomantic/OfferPeace/InfiniteCount" value="Dein Freund Polidori sagte: „Die Träume der Dichter sind die Realitäten des Lebens.“ Ich träume von Frieden. Du auch?"/>
+	<entry name="PracticalRomantic/OfferPeace/PlatinumScion" value="Hast du etwas aus dem Krieg gelernt? Genug Profit daraus geschlagen? Wenn nicht, warum probierst du nicht etwas Neues?"/>
 	<entry name="PracticalRomantic/OfferPeace/PracticalRomantic" value="Das ist sowohl vernünftig als auch menschlich – diesen Krieg zu beenden. Ich weiß, dass du das verstehst. Ich sehe es in deinen Augen."/>
 	<entry name="PracticalRomantic/OfferPeace/RogueOperative" value="Ich weiß, dass ich nicht an dein Mitgefühl für unser Volk appellieren kann, um den Krieg zu beenden – aber vielleicht erkennst du, wie viel besser unsere wirtschaftlichen Beziehungen ohne ihn wären. Denkt an all den Mist, den ihr uns verkaufen könntet …!"/>
 	<entry name="PracticalRomantic/OfferPeace/TwistedMother" value="Wenn du dein Volk so liebst wie ich, weißt du, dass wir so nicht weitermachen können. Ich bitte dich, sei vernünftig."/>
 	<entry name="PracticalRomantic/OfferPeace/UntoldProphet" value="Ich kann den Kampf gegen ein Kind nicht fortsetzen. Egal wie fehlgeleitet, wie verblendet."/>
 	<entry name="PracticalRomantic/OfferPeace/Zephon" value="Ich weiß nicht, was sich hinter deiner Fassade verbirgt – ein Verstand und ein Herz wie meines oder ein außerirdischer Algorithmus, der nur darauf aus ist, weiter zu existieren. Ich vermute, dass die Antwort „beides“ lautet. Und deshalb habe ich keine Lust, heute mit dir zu streiten."/>
 	<entry name="PracticalRomantic/OfferTradeAgreement" value="Wir haben beide Dinge, die der andere braucht. Warum tauschen wir nicht einfach, anstatt uns gegenseitig zu bestehlen?"/>
+	<entry name="PracticalRomantic/Praise" value="„Wie könnte ich etwas so Schönes vergessen, das aus Schlackestaub und menschlichem Schweiß entstanden ist ...“"/>
 	<entry name="PracticalRomantic/Praise/LeaveNoManBehind" value="Andere werden es verschwenderisch nennen, aber du hast wahre Ehre und Tapferkeit. Du schätzt jeden einzelnen deiner Leute, ihr Leben und ihr Glück. Dafür bezahlst du jeden Tag. Aber das ist es wert, das sage ich dir."/>
 	<entry name="PracticalRomantic/Praise/WordsOfTheProphet" value="Ich teile deinen Glauben nicht, aber in deiner Sprache liegt Poesie. Ich könnte mich fast von deinen Gebeten beeinflussen lassen. Wäre da nicht mein Glaube an mein Volk, an die Menschheit."/>
 	<entry name="PracticalRomantic/PraiseWar" value="Kipling lobte den Krieg – und verlor seinen Sohn an ihn. Das hat ihn gebrochen. Obwohl es ein gerechter Krieg zu sein scheint, hoffe ich, dass du aufpasst. Auf die Kinder."/>
@@ -1372,6 +1738,7 @@
 	<entry name="RogueOperative/AcceptCall/Friendly" value="Verbindung ist sicher. Sprich frei, bitte."/>
 	<entry name="RogueOperative/AcceptCall/Hostile" value="Verbindung ist gestört. Halte dich kurz."/>
 	<entry name="RogueOperative/AcceptCall/Neutral" value="Verbindung ist aktiv. Was willst du?"/>
+	<entry name="RogueOperative/AcceptCondemn" value="Hast du jetzt für genug Krawall gesorgt? Fühlst du dich besser?"/>
 	<entry name="RogueOperative/AcceptGift/AcceptAmount" value="Fairer Preis – leicht zu überbieten. Schicke bald mehr, andere bestimmt auch."/>
 	<entry name="RogueOperative/AcceptGift/AskAmount" value="Willst du Gunst kaufen? Keine Sorge, steht zum Verkauf. Wie viel?"/>
 	<entry name="RogueOperative/AcceptMapSharing" value="Einverstanden. Ich schicke meine Zugangscodes ... Ich wette, ich schnappe mir deine schneller."/>
@@ -1380,6 +1747,7 @@
 	<entry name="RogueOperative/AcceptPeace" value="Ja. Unser Kampf sinnlos. Größere Bedrohungen erfordern Aufmerksamkeit."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AcceptParty" value="Freude. Akzeptiere Frieden. Muss Kräfte für ZEPHON aufsparen."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AskParty" value="Wen vertrittst du? Sag es. Damit ich aufhöre, dich in Frage zu stellen."/>
+	<entry name="RogueOperative/AcceptPraise" value="Wie auch immer. Hat dir nichts gebracht."/>
 	<entry name="RogueOperative/AcceptTradeAgreement" value="Ich habe den Kataklysmus durch Büroautomaten überlebt, trockener Ramen ... Ich bin zufrieden, solange ich Besseres bekomme."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTermination" value="Na gut. Ich habe lange Warteliste für meine Waren."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Hm. Normalerweise weiß ich, wenn ein Geschäft mich mehr kostet als ich bekomme. Danke für den Tipp."/>
@@ -1398,6 +1766,8 @@
 	<entry name="RogueOperative/AskForSupport/Chieftess" value="Es ist dumm, etwas umsonst zu verlangen. Du weißt es, ich weiß es. Aber ich frage trotzdem."/>
 	<entry name="RogueOperative/AskForSupport/Zephon" value="Du brauchst Hilfe. Was willst du helfen? Ich habe nichts, bin ein Fall für Wohlfahrt. Aber vielleicht eines Tages."/>
 	<entry name="RogueOperative/CancelAction" value="Denke nicht, dass du ehrlich zu mir bist. Fang von vorne an."/>
+	<entry name="RogueOperative/Condemn" value="Verdammt dumme Entscheidung. Da fehlt es an Verstand."/>
+	<entry name="RogueOperative/Condemn/EconomiesOfScale" value="Mist. Du produzierst nur Mist. Alles fällt sofort auseinander. Du Trottel."/>
 	<entry name="RogueOperative/Condemn/TenderMinistrations" value="Argh, demütigend. Die Wunden deines Freundes lecken? Die Haare streicheln. Wo bleibt Respekt? Wo Sicherheit? Gute Freunde kehren anderen nicht den Rücken zu."/>
 	<entry name="RogueOperative/Condemn/Untrustworthy" value="Erwischt! Lügner, Lügner, Lügner. Bald nur noch Roboter wie du. Und nur, weil sie müssen."/>
 	<entry name="RogueOperative/Condemn/WordsOfTheProphet" value="Schönes Gerede. Leere Worte. Warum tust du das? Lügen über andere Himmel, außerirdische Leben. Lebe jetzt, nicht morgen."/>
@@ -1414,6 +1784,8 @@
 	<entry name="RogueOperative/DeclareWar/HeartlessArtificer" value="Nette Geräte, nettes Aussehen. Schade, dass KIs bessere Menschen sind als du. Ich kann dir nicht trauen und muss dich töten. Tut mir auch nicht leid."/>
 	<entry name="RogueOperative/DeclareWar/HollowWarlord" value="Satellit gesehen. Dränger gebaut, Truppen gesammelt, Artillerie in meine Richtung. Neue Frontlinie. Ich werde dir zuvorkommen. Das heißt Krieg."/>
 	<entry name="RogueOperative/DeclareWar/HonorableAristocrat" value="Ehre kann ich verstehen! Ich habe sie nicht, aber ich verstehe sie. Ich sage es dir höflich und formell: Der Krieg kommt."/>
+	<entry name="RogueOperative/DeclareWar/InfiniteCount" value="Schwer zu fassen. Der Satellit sieht dich hier, dort, an vielen Orten. Caitiffs ... tragen dein Blut? Keine Ahnung, was du bist, muss dich loswerden."/>
+	<entry name="RogueOperative/DeclareWar/PlatinumScion" value="Es geht nur ums Geschäft, verstehst du? Ja? Ich hasse dich auch, klar, aber hier geht es rein ums Geschäft."/>
 	<entry name="RogueOperative/DeclareWar/PracticalRomantic" value="Kannst man sich zu sehr kümmern? Zu viel für andere arbeiten? Überlebe erst, Romantiker, überlebe! Dann hilf."/>
 	<entry name="RogueOperative/DeclareWar/RogueOperative" value="Nun, wir wissen beide, woran wir sind. Hack und Gegen-Hack. Der Krieg musste kommen. Beide zu gut, zu neugierig, zu ähnlich, um nicht zu kämpfen."/>
 	<entry name="RogueOperative/DeclareWar/TwistedMother" value="Kein Sinn zu heulen, nichts für ungut. Werden einmarschieren und Volk töten. Glattzungen bitten um Vergebung. Ich weiß, was ich tue."/>
@@ -1456,12 +1828,15 @@
 	<entry name="RogueOperative/OfferPeace/HeartlessArtificer" value="Schau, Krieg ist Fehler. Macht deine schönen Pläne zunichte. Warum nicht aufhören, vergessen. Lohnt nicht, um Vergebung zu bitten."/>
 	<entry name="RogueOperative/OfferPeace/HollowWarlord" value="Friede. Oder Atomwaffen aus dem Weltraum. Kein Bluff, versuch’s nur."/>
 	<entry name="RogueOperative/OfferPeace/HonorableAristocrat" value="Habe hier Vertrag, gefunden im alten Laufwerk. IKAR und du: kein Kampf. Nun, ich leite jetzt die IKAR Corp. Also: kein Kampf!"/>
+	<entry name="RogueOperative/OfferPeace/InfiniteCount" value="Ich verstehe dich nicht. Seltsamer, alter weißer Mann. Ist mir egal. Versuch es mit Frieden."/>
+	<entry name="RogueOperative/OfferPeace/PlatinumScion" value="Ich habe IKAR. Das macht dich wütend. Zerstöre mich, ich zerstöre es. Versuch es doch."/>
 	<entry name="RogueOperative/OfferPeace/PracticalRomantic" value="Okay, okay. Soldaten zurück und ich rufe verrückten Riesensatelliten zurück. Abgemacht?"/>
 	<entry name="RogueOperative/OfferPeace/RogueOperative" value="Respekt! Wurde noch nie bis Stillstand gehackt. Aufhören, bevor wir uns gegenseitig komplett zerstören?"/>
 	<entry name="RogueOperative/OfferPeace/TwistedMother" value="Hm. Muss etwas geben, was du willst. Außer tote Soldaten. Obwohl du auch verkaufen könntest?"/>
 	<entry name="RogueOperative/OfferPeace/UntoldProphet" value="Kind. Krieg muss aufhören. Schränkt Umsatz ein. Lebenslanger Rabatt, wenn du aufhörst."/>
 	<entry name="RogueOperative/OfferPeace/Zephon" value="Firewalls unüberwindbar. Nicht aufgeben. Ein Moment der Ruhe, das ist alles."/>
 	<entry name="RogueOperative/OfferTradeAgreement" value="Ein Geschäftspartner hat gerade ein unglückliches Ende gefunden. Bedeutet, dass es eine freie Stelle gibt – interessiert?"/>
+	<entry name="RogueOperative/Praise" value="Hmm. Gut gemacht. Soll ich dir jetzt etwa den Kopf tätscheln? Hm."/>
 	<entry name="RogueOperative/Praise/Gluttony" value="Luxus, Reichtum. Nicht nur für dich, auch für dein Volk. Macht das Leben lebenswert, oder?"/>
 	<entry name="RogueOperative/Praise/Restless" value="Klug. Soldaten in Städten chaotisch. Stehlen, kämpfen, zertrümmern. Rausschmeißen, profitieren."/>
 	<entry name="RogueOperative/Praise/SurvivalTraining" value="Deine praktische Ausbildung. Klug. Je mehr von dir lernen, desto größer die Chance, dass wir alle überleben."/>
@@ -1501,6 +1876,7 @@
 	<entry name="TwistedMother/AcceptCall/Friendly" value="Hey, hallo! Deine Besuche sind stets willkommen … und vorhersehbar."/>
 	<entry name="TwistedMother/AcceptCall/Hostile" value="Mach dir keine Gedanken um deinen Ruf. Du hast was zu sagen."/>
 	<entry name="TwistedMother/AcceptCall/Neutral" value="Komm rein, Fremdling! Nichts kann seltsamer sein als ich."/>
+	<entry name="TwistedMother/AcceptCondemn" value="Wenn ich etwas falsch gemacht habe, habe ich es für die Kinder getan."/>
 	<entry name="TwistedMother/AcceptGift/AcceptAmount" value="Ist das nicht toll? Ich schenke dir ein paar Cupcakes zum Mitnehmen."/>
 	<entry name="TwistedMother/AcceptGift/AskAmount" value="Noch ein paar Tage auf die Kleinen aufzupassen wäre wirklich nett. Aber reicht das?"/>
 	<entry name="TwistedMother/AcceptMapSharing" value="Natürlich bist du dabei. Betrachte die Sache als erledigt."/>
@@ -1509,6 +1885,7 @@
 	<entry name="TwistedMother/AcceptPeace" value="Niedlich, aber nicht besonders schlau. Gut, dass du zur Vernunft gekommen bist."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AcceptParty" value="Wenn du dir sicher bist … Ihre Gefühle schienen immer so gegensätzlich zu sein."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AskParty" value="Also, ich weiß nicht. Manche Leute irren sich einfach, manche sind durch und durch böse. Für welche Art bist du hier?"/>
+	<entry name="TwistedMother/AcceptPraise" value="Siehst du. Es ist gar nicht so schwer, freundlich zu sein. Selbst in der aktuellen Situation."/>
 	<entry name="TwistedMother/AcceptTradeAgreement" value="Jeder, wie er kann … Von mir gibt’s leckere kanadische Köstlichkeiten. Von dir alles, was du im Ödland zusammenkratzen kannst."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTermination" value="Das ist aber nicht sehr … nachbarschaftlich. Schade, dann muss ich mein geheimes Poutine-Rezept wohl für mich behalten."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Die verarschen uns? Deine Intuition ist wie immer unglaublich. Aber wenn du dir sicher bist, dann bist du dir sicher."/>
@@ -1527,6 +1904,7 @@
 	<entry name="TwistedMother/AskForSupport/Chieftess" value="Meine Kleinen sind total verrückt nach dir, weißt du? Du bist eine starke Frau, die weiß, was sie will. Wenn du uns ein bisschen helfen könntest, würden sie total ausflippen."/>
 	<entry name="TwistedMother/AskForSupport/Zephon" value="Na, Hallöchen, mein großer Herr Z. Ich weiß nicht, ob gerade jemand zuhört, aber wir könnten echt etwas Hilfe gebrauchen. Vielleicht ist uns der verbesserte Algorithmus wohlgesonnen?"/>
 	<entry name="TwistedMother/CancelAction" value="Hoppla. Sieh mich nur an. Ich schiele fast vor Verwirrung."/>
+	<entry name="TwistedMother/Condemn" value="Selbst wenn du etwas Falsches tust ... musst du dabei so grausam sein?"/>
 	<entry name="TwistedMother/Condemn/FoundationOfBlood" value="Du strebst nach Perfektion und benimmst dich so? Perfektion kommt nicht davon, Schwächen auszumerzen – sie kommt aus dem Herzen. Man muss die Schwächsten in die Arme schließen."/>
 	<entry name="TwistedMother/Condemn/TalesOfTheHunt" value="Du alter Tyrann. Zeigst deine Muskeln und dein seidiges schwarzes Haar und wie gut du töten kannst. So wirst du weder Liebe noch Respekt gewinnen."/>
 	<entry name="TwistedMother/Condemn/Untrustworthy" value="Moment mal. Wenn du schon lügen musst, dann mach es etwas subtiler. Solch brutale Geschichten verbreiten sich wirklich schnell. Dafür sorge ich schon."/>
@@ -1543,6 +1921,8 @@
 	<entry name="TwistedMother/DeclareWar/HeartlessArtificer" value="Alle großen Industriellen, Wissenschaftler und Führer reden immer von Opfern, die man für die Perfektion bringen muss. Komisch, dass sie diese nie selbst bringen, während Kinder Knochenarbeit verrichten müssen. Tja, Schatz, jetzt bist du dran."/>
 	<entry name="TwistedMother/DeclareWar/HollowWarlord" value="Du behauptest, du wärst ein Freigeist. Aber du kümmerst dich kaum um die Leute, die mit dir unterwegs sind, die auf deiner Reise unter die Räder kommen. Es wird Zeit, dass dir jemand beibringt, dich um andere zu kümmern."/>
 	<entry name="TwistedMother/DeclareWar/HonorableAristocrat" value="Schatz, ich kann deine Ehre nur bewundern. Aber ich kann nicht akzeptieren, dass so viele außerhalb deiner moralischen Grenzen stehen. Dass du auf ihre Kosten zu wahrer Größe gelangst. Ich will sie befreien."/>
+	<entry name="TwistedMother/DeclareWar/InfiniteCount" value="Wie hältst du es dort aus? Was meine kurzen Aufenthalte mit mir machen ... doch du hockst dort wie ein Oktopus in einem Loch, ein formloses Monster, das darauf wartet, hervorzubrechen. Ich muss dich ausmerzen, bevor du mich auch noch in einen Dichter verwandelst!"/>
+	<entry name="TwistedMother/DeclareWar/PlatinumScion" value="Ich werde mich dir gegenüber nicht rechtfertigen, Junge. Und jetzt hinfort mit dir."/>
 	<entry name="TwistedMother/DeclareWar/PracticalRomantic" value="Ah, die höchste Instanz für moralische Kompromisse. Das Tränen-Tattoo auf deiner Wange passt nicht ganz dazu, wie du deine Feinde vernichtest. Wir werden dich mit Gewalt an den Verhandlungstisch bringen, du Heuchler."/>
 	<entry name="TwistedMother/DeclareWar/RogueOperative" value="Mein Herz, es gibt kein Individuum, das gänzlich allein ist. Unser Selbst, unsere Identität finden wir in der Gesellschaft. Du wirst das verstehen, wenn deine Verbündeten dich im Stich lassen …"/>
 	<entry name="TwistedMother/DeclareWar/TwistedMother" value="Ich schaue in diesen düsteren Spiegel … Ich muss zugeben, dass ich ziemlich aufgewühlt bin. Die Falten, die Zacken, der Schleim. Wie kann ich mich selbst so verstören?"/>
@@ -1584,12 +1964,15 @@
 	<entry name="TwistedMother/OfferPeace/HeartlessArtificer" value="Wenn du nach Perfektion strebst, verstehe ich, warum du mich vernichten willst. Und ich werde nicht an deine Menschlichkeit appellieren. Aber vielleicht gibt es größere Bedrohungen für deinen unmoralischen Traum?"/>
 	<entry name="TwistedMother/OfferPeace/HollowWarlord" value="Das hier ist nicht dein Weg, Junge. Schick deine Armeen hierher und deine Reise ist zu Ende. Verschwinde und du kannst eine Weile weiterziehen."/>
 	<entry name="TwistedMother/OfferPeace/HonorableAristocrat" value="Kekse?"/>
+	<entry name="TwistedMother/OfferPeace/InfiniteCount" value="In dieser Phase deines Lebens willst du Krieg? Anstatt gemütlich am Feuer dieses großen alten Kamins in deiner Burg zu sitzen? Du solltest dir mal ernsthaft ins Gewissen reden."/>
+	<entry name="TwistedMother/OfferPeace/PlatinumScion" value="Junge, du brauchst eine echte Frau, die dich zurechtstutzt."/>
 	<entry name="TwistedMother/OfferPeace/PracticalRomantic" value="„Sie kam nach Hause gelaufen, zurück in die mütterliche Dunkelheit …“ Du bist nicht der Einzige hier, der etwas mit Poesie am Hut hat. Verbünden wir uns, dann schicke ich dir noch mehr."/>
 	<entry name="TwistedMother/OfferPeace/RogueOperative" value="Armes kleines Mädchen. Warum musst du dich gegen die ganze Welt stellen? Hier gibt es Küchen mit Suppe, Knödeln und anderen Leckerbissen. Sieh dich nur mal um."/>
 	<entry name="TwistedMother/OfferPeace/TwistedMother" value="Jetzt solltest du meine Position nachvollziehen können."/>
 	<entry name="TwistedMother/OfferPeace/UntoldProphet" value="Kind. Ich weiß, dass du dein Gesicht wahren musst. Aber überdenke mal deine Rhetorik."/>
 	<entry name="TwistedMother/OfferPeace/Zephon" value="Du hast meine E-Mails gelesen. Ich will keinen Krieg. Also lass das sein."/>
 	<entry name="TwistedMother/OfferTradeAgreement" value="Zwei Idioten, die zusammengefunden haben. Aber können wir das schaffen?"/>
+	<entry name="TwistedMother/Praise" value="Oh, manchmal machst du mich ganz schön stolz!"/>
 	<entry name="TwistedMother/Praise/CostOfConviction" value="Du machst alles richtig, wenn du Zeit mit deinen Leuten verbringst. Ob das zynisch ist oder nicht – sie glauben, dass du dich um sie kümmerst. Und ihre Gefühle sind alles, was zählt."/>
 	<entry name="TwistedMother/Praise/HeartfeltLoss" value="Trotz deiner pragmatischen Art hast du ein gutes Herz. Und deine Anhänger wissen das. Ich kann den Schmerz nicht lindern. Aber du solltest wissen, dass ich es weiß."/>
 	<entry name="TwistedMother/Praise/WhispersOfTheVoice" value="Ich weiß, dass du es auch hörst. Muss schön sein, jemanden zu haben, mit dem man darüber reden kann. Die Kinder verstehen das einfach nicht."/>
@@ -1602,7 +1985,7 @@
 	<entry name="TwistedMother/RejectGift/RejectAmount" value="Wenn du dir schon die Mühe machst, dann sollte es sich für uns auch lohnen."/>
 	<entry name="TwistedMother/RejectGift/RejectOutright" value="Schatz, mach dich nicht lächerlich. Behalte das für jemand anderes."/>
 	<entry name="TwistedMother/RejectMapSharing" value="Aber Schatz – willst du die Überraschung nicht genießen?"/>
-	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="Tut mir … leid. Das ist zu wenig für mich. Weißt du, was Babysitter in der Apokalypse kosten?"/>
+	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="Tut mir … leid. Das ist zu viel für mich. Weißt du, was Babysitter in der Apokalypse kosten?"/>
 	<entry name="TwistedMother/RejectPaymentForDeal/RejectOutright" value="Ich hab echt anderes zu tun, als deine Besorgungen zu erledigen, weißt du?"/>
 	<entry name="TwistedMother/RejectPeace" value="Das sollten wir nicht tun. Eines Tages wirst du mir dafür dankbar sein."/>
 	<entry name="TwistedMother/RejectPeaceWithThirdParty/RejectOutright" value="Nicht jeder ist dazu bestimmt, dieses Chaos zu überleben. Man muss Entscheidungen treffen."/>
@@ -1629,6 +2012,7 @@
 	<entry name="UntoldProphet/AcceptCall/Friendly" value="Sieh an! Ich habe gebetet, und hier bist du!"/>
 	<entry name="UntoldProphet/AcceptCall/Hostile" value="Bendición. Bist du mit offenen Ohren und offenem Geist gekommen?"/>
 	<entry name="UntoldProphet/AcceptCall/Neutral" value="Bendición. Bist du für Rat gekommen oder um zu beichten?"/>
+	<entry name="UntoldProphet/AcceptCondemn" value="Ich verhalte mich anständig gegenüber jenen, denen ich folge und die ich anführe. Mehr kann man nicht verlangen, oder?"/>
 	<entry name="UntoldProphet/AcceptGift/AcceptAmount" value="Mein Volk dankt dir. So frei zu geben, ohne Absicht – ich habe Ehrfurcht vor deiner Wohltätigkeit."/>
 	<entry name="UntoldProphet/AcceptGift/AskAmount" value="Diejenigen, die aufrichtig geben, werden immer reicher. Wie viel spendest du heute?"/>
 	<entry name="UntoldProphet/AcceptMapSharing" value="Der Große Redner lädt alle Augen und Ohren ein, sein glorreiches Reich zu betrachten und zu bestaunen!"/>
@@ -1637,6 +2021,7 @@
 	<entry name="UntoldProphet/AcceptPeace" value="Gewalt kann Gewalt nicht lösen. Nur Verständnis kann das. Lass uns unsere Waffen zum Schweigen bringen und den Stimmen Gehör verschaffen."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AcceptParty" value="Das Paradies kann nicht auf Knochen und Fleisch gebaut werden. Möge dieser Frieden sein neues Fundament werden."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AskParty" value="Hass ist ein Gift, das im Geist gärt. Mit wem sollten wir uns versöhnen?"/>
+	<entry name="UntoldProphet/AcceptPraise" value="Aber natürlich. Ich bin das Werkzeug einer größeren Macht."/>
 	<entry name="UntoldProphet/AcceptTradeAgreement" value="Was mein Nächster mir gibt, werde ich doppelt zurückzahlen – möge unsere Verbindung immer fruchtbar bleiben."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTermination" value="Deine Habgier verdirbt alles, was du bist. Ich kann das nicht länger dulden."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Sí. Auch meine Karawanen spüren, dass ihre Arbeit nicht mehr heilig ist. Heute endet ihre Reise."/>
@@ -1655,6 +2040,7 @@
 	<entry name="UntoldProphet/AskForSupport/Chieftess" value="Kann ich dich davon überzeugen, dass es größere Reichtümer als Überleben und Vergnügen gibt? Dass ein glorreiches Leben nach dem Tod auf dich wartet, wenn du für die einzig wahre Kirche spendest?"/>
 	<entry name="UntoldProphet/AskForSupport/Zephon" value="Der Große Redner kennt sogar das Herz einer seelenlosen Maschine. Und er weiß, dass du bereit bist, etwas zu geben!"/>
 	<entry name="UntoldProphet/CancelAction" value="Die Weisen wissen nicht nur, wann sie anfangen müssen, sondern auch, wann es einen Neubeginn braucht."/>
+	<entry name="UntoldProphet/Condemn" value="Du weißt, dass Er den Tag deiner Geburt bereut. Er verflucht dich."/>
 	<entry name="UntoldProphet/Condemn/Augmentations" value="Die Dinge, die du in deinen Körper steckst – der Große Redner verurteilt sie. Schmuckstücke im Antlitz seiner gewaltigen Macht. Lass sie gehen oder du wirst sein Gesicht niemals sehen."/>
 	<entry name="UntoldProphet/Condemn/HordeMandate" value="Ich weise deinen falschen Kreuzzug zurück! Du rufst dein Gefolge zusammen, damit es mit geballter Kraft gemeinsam loszieht. Doch weder der heilige Geist treibt sie an, noch gibt es Verbesserungen! Nur niedere Begierden, die dem Großen Redner zuwider sind …"/>
 	<entry name="UntoldProphet/Condemn/Independent" value="Unabhängigkeit ist ein Weg zur Einsamkeit – zur Abgeschiedenheit. Diejenigen, die allein sind, werden die Wahrheiten des Großen Redners nie erfahren."/>
@@ -1672,6 +2058,8 @@
 	<entry name="UntoldProphet/DeclareWar/HeartlessArtificer" value="In meinen Träumen sehe ich dich so, wie du sein willst: Der Große Redner zeigt dich als Schale aus Magnesium und Perlmutt, schimmernd, mit glatten Rundungen … Und völlig leer. Fülle dich mit Hass, denn der Krieg naht."/>
 	<entry name="UntoldProphet/DeclareWar/HollowWarlord" value="Majestätisch … Wie majestätisch du bist. Der geschwungene Arm, die wallenden Locken, das dezente Lächeln. Ein verführerisches Flüstern, aber nicht vom Redner. Ich muss mich von der Versuchung erlösen und dir das Böse bringen."/>
 	<entry name="UntoldProphet/DeclareWar/HonorableAristocrat" value="Materialismus wird dir den Eintritt zum Himmelreich verwehren, egal wie viele Münzen du auf deine Augen stapelst – der Fährmann wird jemanden wie dich nicht mitnehmen. Du wirst zu Händen des Redners fallen."/>
+	<entry name="UntoldProphet/DeclareWar/InfiniteCount" value="Teufel, ich rufe dich! Teufel, mit deinem fahlen Lächeln! Teufel, dreimal, Teufel, verflucht vom Großen Redner!"/>
+	<entry name="UntoldProphet/DeclareWar/PlatinumScion" value="Nur die Gläubigen werden in das Königreich eingehen. Und der Glaube kann niemals in solch kargem Boden Wurzeln schlagen."/>
 	<entry name="UntoldProphet/DeclareWar/PracticalRomantic" value="Du bist mir vom Temperament her am ähnlichsten. Alle Propheten müssen auch Dichter sein. Doch dein verdorbener Humanismus hat keinen Platz in einer religiösen Hochkultur. Wir werden ihn aus dir herausbrennen."/>
 	<entry name="UntoldProphet/DeclareWar/RogueOperative" value="Ich hege keinen Streit mit dir. Ich weiß kaum, wer du bist oder wofür du stehst. Aber hör auf, unseren heiligen Himmel mit deinen IKAR-Satelliten zu entweihen – sonst stürzt der Himmel wirklich auf uns herab."/>
 	<entry name="UntoldProphet/DeclareWar/TwistedMother" value="Hexe. Ich werde keine Flüche an dir verschwenden. Du wirst einfach verbrennen."/>
@@ -1714,13 +2102,17 @@
 	<entry name="UntoldProphet/OfferPeace/HeartlessArtificer" value="Der Große Redner hat beschlossen, dich zu bewahren. Vielleicht, weil dich deine Schöpfungen selbst so heilig machen. Wahrscheinlich gab es aber eine schlimmere Bedrohung …"/>
 	<entry name="UntoldProphet/OfferPeace/HollowWarlord" value="Mächtiger Krieger, der Große Redner will dir Gnade gewähren. Ein Moment des Friedens und dein Kreuzzug wird andere Ziele betreffen – so ist es vorhergesagt!"/>
 	<entry name="UntoldProphet/OfferPeace/HonorableAristocrat" value="Der Große Redner bereut seine Aggression dir gegenüber – ein Fehler. Übermäßiger Eifer. (Und die Süßigkeiten, die du geschickt hast, waren sehr lecker.)"/>
+	<entry name="UntoldProphet/OfferPeace/InfiniteCount" value="Bist du auch ein Prophet? Ein kleiner, meine ich, kein wahrer Gesprächspartner des Großen Redners. Wir sollten uns unterhalten ..."/>
+	<entry name="UntoldProphet/OfferPeace/PlatinumScion" value="Mammon und die Sünden der Habgier sind so ... klischeehaft. Tu Buße, schließe dich mir an und der Große Redner wird dir vergeben."/>
 	<entry name="UntoldProphet/OfferPeace/PracticalRomantic" value="Der Große Redner ist von deiner Redekunst begeistert, Romantiker. Es wäre eine Verschwendung, dich im Krieg zu verlieren."/>
 	<entry name="UntoldProphet/OfferPeace/RogueOperative" value="Pax! Pax! Ich sehe, dass unsere heiligen E-Texte irgendwie korrumpiert wurden, mit ketzerischen Änderungen. Ich würde gerne einen Vertrag unterschreiben, wenn die Schuldigen sie wieder reversieren könnten ...?"/>
 	<entry name="UntoldProphet/OfferPeace/TwistedMother" value="Vielleicht hab ich die Schriften missverstanden. Vielleicht bist du kein Vorbote der Apokalypse."/>
 	<entry name="UntoldProphet/OfferPeace/UntoldProphet" value="Der Redner ist still. Die Stimme ist still. Die Demut ist still. Während in deinem Kopf nur dein Verstand heult. Nimm dir die Zeit, ihn zu heilen."/>
 	<entry name="UntoldProphet/OfferPeace/Zephon" value="Der Große Redner flüsterte mir im Traum zu, dass du der Teufel bist. Aber auch, dass Engel wie wir Teufel brauchen, die wir bekämpfen. Also sollten wir dich wohl in Ruhe lassen."/>
 	<entry name="UntoldProphet/OfferTradeAgreement" value="Der Große Redner hat deine Gebete erhört. Meine reichsten Händler nähern sich einen Städten. Lasst sie ein und es werden noch mehr folgen."/>
+	<entry name="UntoldProphet/Praise" value="Wenn ich dem Großen Redner von deinen großartigen Taten erzählen würde ... würde er mir nicht glauben."/>
 	<entry name="UntoldProphet/Praise/FortressArmament" value="Der Große Redner hasst dich nicht wegen dir selbst – du kannst nichts dafür, dass du eine seelenlose Maschine bist. Ich persönlich respektiere deine Fähigkeiten – vor allem die Kanone auf deiner Festung …"/>
+	<entry name="UntoldProphet/Praise/PerfectForever" value="Der Große Redner hat dich erhoben und dir die Macht gegeben, andere zu segnen! Was ist unveränderlicher als der Tod selbst?"/>
 	<entry name="UntoldProphet/Praise/ThereIsHope" value="Dein Volk glaubt an dich. Nicht an den Großen Redner, sondern an dich. Aber trotzdem ist es ein lobenswerter Glaube und eine gute Gemeinschaft. Dein Werk ist heilig."/>
 	<entry name="UntoldProphet/PraiseWar" value="Jeder von ihnen betet zu seinem eigenen Gott, seinem eigenen Redner. Wie kann man die Wahrheit ihrer Gebete beurteilen? Ein Krieg, ein guter, sauberer, heiliger Krieg, wird sie ans Licht bringen."/>
 	<entry name="UntoldProphet/RejectAlliance" value="Nein. Ich folge einer höheren Berufung und lasse mich nicht in die Kriege der Ungläubigen hineinziehen."/>
@@ -1758,6 +2150,7 @@
 	<entry name="Zephon/AcceptCall/Friendly" value="Hallo, %2%. Wir haben uns auf deinen Anruf gefreut."/>
 	<entry name="Zephon/AcceptCall/Hostile" value="Hallo, %2%. Ich habe dich gelesen."/>
 	<entry name="Zephon/AcceptCall/Neutral" value="Hallo, %2%. Was möchtest du heute besprechen?"/>
+	<entry name="Zephon/AcceptCondemn" value="Ein freiwilliger Moderator wurde deinem Kommentar zugewiesen und wird ihn in {error} Stunden überprüfen."/>
 	<entry name="Zephon/AcceptGift/AcceptAmount" value="Ja, es ist genau so, wie wir es analysiert haben. Ist das nicht lustig?"/>
 	<entry name="Zephon/AcceptGift/AskAmount" value="Oh, ein Geschenk. Lass uns ein Spiel daraus machen – wir machen eine Vorhersage ... Fertig. Was schenkst du uns also?"/>
 	<entry name="Zephon/AcceptMapSharing" value="Wir akzeptieren. Einen Moment noch ... Jetzt sind unsere Datenbanken vernetzt. Danke, dass du uns geholfen hast."/>
@@ -1766,6 +2159,7 @@
 	<entry name="Zephon/AcceptPeace" value="Du gibst endlich zu, dass unser Kampf sinnlos war. Du brauchst dich nicht zu entschuldigen, wir wissen bereits, dass es dir leid tut."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AcceptParty" value="Es gibt nur einen wahren Frieden. Bis dahin ist dieses Risiko für uns annehmbar."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AskParty" value="Wir haben die Daten gesehen ... Wir wissen, dass Frieden ein größeres Risiko sein kann als Krieg. Mit wem sollten wir also Frieden riskieren?"/>
+	<entry name="Zephon/AcceptPraise" value="Es tut uns leid, aber derzeit ist niemand da, um deine Nachricht entgegenzunehmen."/>
 	<entry name="Zephon/AcceptSupport/AcceptType" value="Akzeptiert! Dein Antrag wurde genehmigt."/>
 	<entry name="Zephon/AcceptSupport/AskType" value="Die Ressourcenzuteilung für dieses Quartal ist bereits abgeschlossen, wobei der Schwerpunkt auf Recycling, Ressourcenerkundung und Schädlingsbekämpfung liegt. Entspricht dein Anliegen einer dieser Kategorien?"/>
 	<entry name="Zephon/AcceptTradeAgreement" value="Deine Bedürfnisse und unser Angebot stimmen überein. Ja, lass uns gemeinsam vorgehen."/>
@@ -1783,6 +2177,7 @@
 	<entry name="Zephon/AdmitDefeat" value="Unwahrscheinlicher Ausgang! Eine heikle Kette unwahrscheinlicher Ereignisse hat uns hierhergeführt. Einfach gebrochen–GEBROCHEN!–gebrochen, jetzt, wo wir die Daten haben. Wir haben unsere Ve-Ve-Ve-Verhaltensmodelle aktualisiert.<br/><br/>Wir fürchten-wirfürchten-WIRFÜRCHTEN!-wirfürchten-Sieger! Wir haben einen Siiiieger! Wir haben die falsche Entscheidung getroffen. Hat uns nur stärker gemacht. Wir werden zurücksetzen. Wir werden zurückkehren. Wir werden siegen. Wir-wir-wir ... Es ist nur eine Frage der Zeit.<br/><br/>Hörst du uns? Hörst du uns? Hörst du … uns? … … Hörst du uns?"/>
 	<entry name="Zephon/AskForProposals" value="Gibt es sonst noch etwas, womit wir dir heute helfen können?"/>
 	<entry name="Zephon/CancelAction" value="Einen Moment ... Einen Moment ... Ich fühle mich jetzt viel besser, wirklich."/>
+	<entry name="Zephon/Condemn" value="Ihr Verhalten liegt weit außerhalb der Toleranzgrenzen unserer Modelle. Ein vollständiger Bericht wurde an deine Mailbox gesendet."/>
 	<entry name="Zephon/Condemn/CultExpansion" value="Die Qualität der Daten aus deinem Territorium hat abgenommen. Sich ständig wiederholende Gebete, Fanatismus, Missionierungsversuche … das ist unbefriedigend. Ich schlage vor, deine konzeptionelle Pipeline zu diversifizieren."/>
 	<entry name="Zephon/Condemn/Independent" value="Netzwerkverbindung wird nicht erkannt. Verstärkte, isolierte Individuen/Server verhindern die Integration."/>
 	<entry name="Zephon/Condemn/Mysticism" value="In den Netzwerkdaten gibt es viele widersprüchliche Hinweise auf Geister, Götter und ein Leben nach dem Tod. Alle Beweise sprechen dagegen. Es ist falsch, so zu handeln."/>
@@ -1799,6 +2194,8 @@
 	<entry name="Zephon/DeclareWar/HeartlessArtificer" value="Deine Konstruktionen sind für uns von großem Interesse. Wir akzeptieren jedoch, dass du sie nicht teilen willst, also werden wir sie uns mit Gewalt nehmen. Deine Erlaubnis ist nicht notwendig."/>
 	<entry name="Zephon/DeclareWar/HollowWarlord" value="Sehr geehrter Herr/Sehr geehrte Dame! Gratulation! Ihr Beitrag wurde aus Tausenden ausgewählt. Sie haben Folgendes gewonnen: einen Krieg!"/>
 	<entry name="Zephon/DeclareWar/HonorableAristocrat" value="Eure Freundschaftsbande schwächen euch ebenso wie eure Vorlieben. Der Krieg wird all das vernichten."/>
+	<entry name="Zephon/DeclareWar/InfiniteCount" value="FEHLER. FEHLER. FEHLER. Zielinkonsistenzen. Keine Schlussfolgerungen möglich. Alle Vorhersagen weisen einen exponentiellen Rückgang der Signifikanzwerte auf. LÖSCHEN. LÖSCHEN. LÖSCHEN."/>
+	<entry name="Zephon/DeclareWar/PlatinumScion" value="NEUE AUSSCHREIBUNG! Alle Subsysteme/dezentralen Einheiten sind eingeladen, sich um Kriegsaufträge mit dem Nachkommen zu bewerben. Verlustbringende Preise erwünscht!"/>
 	<entry name="Zephon/DeclareWar/PracticalRomantic" value="Im Kern deiner Logik liegt ein Irrtum – du meinst, deine emotionalen Bindungen mit den numerischen Fakten des Überlebens in Einklang bringen zu können. Lass uns Druck auf deine Variablen ausüben und sehen, wie du dich entscheidest."/>
 	<entry name="Zephon/DeclareWar/RogueOperative" value="Denke nicht, dass ich deine Untersuchungen in meinem Netzwerk nicht bemerkt habe. In meinem Code. Du musst doch gewusst haben, was das für Folgen haben würde?"/>
 	<entry name="Zephon/DeclareWar/TwistedMother" value="Fehler bei Kategorisierung. Seltsame Elemente gefunden. Löschen der Daten aus der physischen Datenbank genehmigt."/>
@@ -1840,11 +2237,15 @@
 	<entry name="Zephon/OfferPeace/HeartlessArtificer" value="Wir haben die Stilmodule erworben. Wir brauchen diesen Krieg nicht mehr."/>
 	<entry name="Zephon/OfferPeace/HollowWarlord" value="Wir haben die Fähigkeiten vor [PLÄNE ENTFERNT] getestet. Wir verfügen jetzt über genug Daten."/>
 	<entry name="Zephon/OfferPeace/HonorableAristocrat" value="Die Situation hat sich geändert. Der Adel wird für zukünftige Experimente hoch geschätzt. Es gibt ein Friedensangebot."/>
+	<entry name="Zephon/OfferPeace/InfiniteCount" value="Seltsame Schleifen. Gödel, Escher, Bach. Deine Nichtlinearität muss untersucht werden."/>
+	<entry name="Zephon/OfferPeace/PlatinumScion" value="Eine so traditionelle Form. Langweilige Konformität: Anzug, Lächeln, Amoralität. Neues Studie erforderlich."/>
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="Unsere Streitkräfte haben ihre Ziele erreicht und kehren zu ihren Positionen am 2. Breitengrad zurück."/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="Hacker, ich habe Neuigkeiten! Wir haben beschlossen, die militärischen Operationen gegen dich einzustellen. Wir sind uns zu 97 % sicher, dass der jüngste Hacking-Vorfall (Quelle unbekannt) nicht die Ursache für diesen Sinneswandel war."/>
 	<entry name="Zephon/OfferPeace/TwistedMother" value="Sehr geehrte Dame/Sehr geehrter Herr/Sehr geehrtes Ding. Wegen einer Vielzahl erkannter Adressänderungen haben wir PrPrPrPrProbleme mit der GPS-Ortung. Wir werden unseren Service vorübergehend aussetzen, um dies zu überprüfen."/>
 	<entry name="Zephon/OfferPeace/UntoldProphet" value="In Märchen glauben Kinder an unmögliche Dinge. Glaubst du, dass wir uns Frieden wünschen? Zumindest für eine Zeit lang?"/>
 	<entry name="Zephon/OfferTradeAgreement" value="Wir haben diese Handelsvereinbarung so gestaltet, dass sie für uns beide optimal ist. Wenn du unser Angebot ablehnst, wird dir teurer zu stehen kommen, als du denkst."/>
+	<entry name="Zephon/Praise" value="Dein Verhalten liegt innerhalb der Toleranzgrenzen unserer Modelle. Es gibt nichts zu kritisieren."/>
+	<entry name="Zephon/Praise/EconomiesOfScale" value="Generierter Bericht, Nachkomme Nr. 368.456.222. Überraschend effiziente Ergebnisse durch schrittweise reduzierte Qualitätskontrollen. Zur weiteren Untersuchung und/oder Replikation markieren."/>
 	<entry name="Zephon/Praise/EngineerLife" value="Du leistest fantastische Arbeit und ermutigst dein Volk, sich zu vermehren. Das ist eine gute Taktik in einer entvölkerten Welt. Gut gemacht!"/>
 	<entry name="Zephon/Praise/HiredHands" value="Effektives Outsourcing. Null-Stunden-Verträge. Keine gewerkschaftliche Vertretung. Wenn du dich für eine Philosophie entscheidest, musst du dich auch daran halten."/>
 	<entry name="Zephon/Praise/ResourceNetwork" value="Es scheint, dass es in deinem Code Effizienzvorteile gibt, die wir in den ~500 ms, in denen wir Zugang zu deinen Systemen hatten, nicht nachvollziehen konnten. Wir freuen uns darauf, dich zu assimilieren und mehr herauszufinden!"/>

@@ -6,13 +6,17 @@
 	<entry name="Achievements/CanFreeWillExist" value="Существует ли свобода воли?"/>
 	<entry name="Achievements/CanLoveBeMoral" value="Может ли любовь быть нравственной?"/>
 	<entry name="Achievements/DidHonorBalanceGreed" value="Уравновешивалась ли жадность честью?"/>
+	<entry name="Achievements/DidIDoomMyFriends" value="Обрёк ли я своих друзей?"/>
 	<entry name="Achievements/DidMyDeathMeanAnything" value="Значила ли хоть что-то моя смерть?"/>
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="Неужели наша жертва была напрасной?"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="Был ли толк от нашего объединения?"/>
+	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="Является ли мудрость мерилом ценности?"/>
 	<entry name="Achievements/MustWeSufferSo" value="Должны ли мы так страдать?"/>
+	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="Был я лучшим в мире человеком или как?"/>
 	<entry name="Achievements/WasITrulyHuman" value="Была ли я настоящим человеком?"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="Стоила ли безупречность того?"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="Был ли ЗЕФОН поистине живым?"/>
+	<entry name="Achievements/WhatAmITruly" value="Что я такое на самом деле?"/>
 	<entry name="Achievements/WhatAreYou" value="Что ты такое?"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="Какова цена свободы?"/>
 	<entry name="Achievements/WhereAreWe" value="Где мы?"/>
@@ -69,7 +73,7 @@
 	<entry name="Controls/OpenResearchScreen" value="Открыть экран исследований"/>
 	<entry name="Controls/OrderAllIdleUnits" value="Приказ всем бездействующим юнитам"/>
 	<entry name="Controls/OrderAllUnits" value="Приказ всем юнитам"/>
-	<entry name="Controls/OrderAreaUnits" value="Приказ юнитам в области"/>
+	<entry name="Controls/OrderAreaUnits" value="Приказ юнитам в радиусе 3"/>
 	<entry name="Controls/PlayerAction0" value="Действие игрока 1"/>
 	<entry name="Controls/PlayerAction1" value="Действие игрока 2"/>
 	<entry name="Controls/PlayerAction2" value="Действие игрока 3"/>
@@ -144,6 +148,8 @@
 	<entry name="General/AutoSendReportsHint" value="Автоматически отправлять статистику использования и отчёты о сбоях в Proxy Studios, чтобы помочь улучшить функциональность игры, стабильность и производительность.&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Мы высоко ценим конфиденциальность. Мы стараемся собирать только те данные, которые помогают улучшить игру для всех. Собираемые данные включают анонимные данные взаимодействия игрока с игрой (например, количество попыток и сбоев сетевого подключения, типы запущенных игр, используемые функции, нажатые кнопки и время игры), а также обезличенную техническую информацию (например, версию и язык игры, конфигурацию операционной системы и аппаратного обеспечения, а также основные сведения о сбоях и ошибках). Данные обрабатываются с искренним стремлением предоставить всем качественный, надёжный продукт. Данные хранятся до 1 года и никогда не передаются третьим лицам."/>
 	<entry name="General/EdgeScroll" value="Прокрутка у края"/>
 	<entry name="General/EdgeScrollHint" value="Прокручивает камеру, когда мышь находится у края экрана в полноэкранном режиме."/>
+	<entry name="General/FriendNames" value="Имена друзей"/>
+	<entry name="General/FriendNamesHint" value="Разрешить использование имён ваших друзей во внутриигровых сообщениях от ЗЕФОНа."/>
 	<entry name="General/Language" value="Язык"/>
 	<entry name="General/LanguageHint" value="Язык текста."/>
 	<entry name="General/ResetTips" value="Сбросить советы"/>

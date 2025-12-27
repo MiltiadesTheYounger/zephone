@@ -21,6 +21,7 @@
 	<entry name="ExousiaParser" value="神权解码器"/>
 	<entry name="GauntletOfRuin" value="毁灭臂铠"/>
 	<entry name="GladialEmanator" value="锋刃扩散器"/>
+	<entry name="HoloDecoy" value="全息诱饵"/>
 	<entry name="HungeringCirclet" value="嗜血头环"/>
 	<entry name="ICARFluidDeflector" value="ICAR液态反射器"/>
 	<entry name="ICARLogo0" value="ICAR标志碎片"/>
@@ -36,6 +37,7 @@
 	<entry name="ICARLogo5" value="<string name='Items/ICARLogo0'/>"/>
 	<entry name="ICARLogo5Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
 	<entry name="IncandescentIcon" value="光耀印记"/>
+	<entry name="InvasiveAuditor" value="侵入式分析器"/>
 	<entry name="Iokla" value="伊奥克·拉"/>
 	<entry name="KnifeOfTheChieftess" value="女酋长之刃"/>
 	<entry name="KnifeOfTheChieftessFlavor" value="<string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>"/>
@@ -44,12 +46,15 @@
 	<entry name="PhaseFontead" value="盈亏之源"/>
 	<entry name="PhilosophersStone" value="贤者之石"/>
 	<entry name="PhilosophersStoneFlavor" value="<string name='Quests/PhilosophersStone/StoneRetrieved2'/>"/>
-	<entry name="Reyndverra" value="瑞汶朵拉"/>
-	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="PlanarPhlebotomizer" value="位面脉流采血器"/>
+	<entry name="Quakecaller" value="地动使者"/>
+	<entry name="QuakecallerFlavor" value="<string name='Quests/TheMartialEthic/Intro2'/>"/>
 	<entry name="QuantumReflector" value="量子映射器"/>
 	<entry name="QuantumReflectorFlavor" value="<string name='Quests/FormFunction/FlushCortexSuccess2'/>"/>
 	<entry name="RallyingHolobeacon" value="鼓舞信标"/>
 	<entry name="ReactiveTrigger" value="撞火扳机"/>
+	<entry name="Reyndverra" value="瑞汶朵拉"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
 	<entry name="SchismOfRegimina" value="内乱之符"/>
 	<entry name="SpotterDrone" value="侦察无人机"/>
 	<entry name="StolenFlesh" value="窃取之肉"/>
@@ -61,7 +66,7 @@
 	<entry name="TribunalsTetherFlavor" value="<string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>"/>
 	<entry name="VorodaiProselyte" value="沃罗戴改宗者"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AcrinBoneWhistleFlavor" value="“无论在市场还是教堂，<br/>经过的时候假装对我视而不见；<br/>但你的深邃眼眸早已抓住我的心<br/>你的眼神欲拒还迎，<br/>你的眼神欲拒还迎，<br/>但你的口哨就是我的召唤……”<br/> - 罗伯特·彭斯"/>
 	<entry name="AkavishRigFlavor" value="一种不可思议的高科技装置：无论是人类、厄金人还是机器，这种肌肉强化设备都能够自动适应使用者的构造。它能够分析你的动作模式，然后对肌肉组织或者是电机进行细微调整，已达到加快移动速度的效果。虽然听上去像是魔法，但是与我们创造出的许多科技相比，这个装置并没有什么骇人听闻的诡异之处。有时候，我会趁着夜深人静的时候戴上它，然后绕着基地长跑。跑步能够帮助我平息内心，摒除杂念。"/>
 	<entry name="ArchaegisFlavor" value="如何让一块护盾能够偏转足以融化血肉的灼热激光？或者是会将五脏六腑打成碎末的子弹？我们迫切需要一种能够自动掌握敌人的攻击方式，并调整力场反弹攻击的科技。作为实现这一目标的第一步，我们在设法先进的人类技术中嵌入了一小块赛博脑组织。"/>
@@ -77,13 +82,16 @@
 	<entry name="ExousiaParserFlavor" value="我们原本希望能够用神权响马获取的数据来改良其他单位的目标定位效率，但问题是这种技术实在是过于脆弱。哪怕是一道强风都会影响信号的准确性，而且装置一旦受到攻击就会彻底宕机。"/>
 	<entry name="GauntletOfRuinFlavor" value="我们当初是在以前的一座政府实验室中找到了这件东西。每次想到那个鬼地方，我都感觉背脊发凉。旧世界的某个疯子竟然想要充当死神的角色，这种武器能够抹除范围内的一切增殖物，它的创造者也很有可能是因为操作失误而命丧黄泉。"/>
 	<entry name="GladialEmanatorFlavor" value="最初是钟表匠创造了这种扩散器，后来也是他们选择摧毁了大部分产品。这种装置能够让人轻而易举地大开杀戒，因此也自然违反了那些离群索居的卫道士们心心念念的原则。"/>
+	<entry name="HoloDecoyFlavor" value="从战术层面来说，全息技术……勉强能用。烟雾、下雪甚至是过于明亮的晴天都有可能会使影像出现瑕疵。不过每次看见这种东西的时候，我的心情都会稍稍好一点。也许是因为它们让我想起了我们原本对于未来的设想。只是通过闪烁的光影效果，人们便让梦想成为了现实。"/>
 	<entry name="HungeringCircletFlavor" value="秘音的信徒们会心甘情愿将这种可怕的金属装置绑在自己的脑袋上。一旦信徒们开始流血，头环就会越箍越紧，并给穿戴者带来犹如狂战士一般的疯狂杀戮欲。有些人会使用这些装置来提升自己的战斗能力。但是我能看得出来，其他人使用头环只是单纯因为享受那种痛苦。"/>
 	<entry name="ICARFluidDeflectorFlavor" value="“所以就是水做的盾牌？“我询问着协调者的代理人。“我已经说过两遍了，这叫’液态反射器‘。”代理人听上去很不耐烦。“这可是最尖端的战前科技。试验型流体静力技术“。”也就是水盾“，我露出了自信的微笑。就靠这招，代理人最后给我打了个大折扣好让我买完滚蛋。"/>
 	<entry name="IncandescentIconFlavor" value="作为我们的AI研究团队有史以来发明过的最强大的武器之一，这玩意说实话看上去就像是一盏灯笼，不过这种装置释放的光芒可不仅仅只能用来照明。那种光芒由智能化的光子构成，使用者可以通过程序指导它们分辨敌我。只是在光线中逗留片刻就会导致皮肤烧伤，持续照射甚至能够融化装甲和血肉。"/>
+	<entry name="InvasiveAuditorFlavor" value="唉，在脖子上贴一块那种傻兮兮的金属圆盘可疼了。那里面的电线会直接挖进你的脊椎……行，忍忍就习惯了。之后装置里面的作战AI会扫描战场，然后你的耳旁就会传出机器的声音“右转，往左边跑，然后开三枪”。但事实上，那些程序是把你的神经系统当成了可以肆意拨弄的吉他琴弦。每一次的开火都是节奏完美的音符。"/>
 	<entry name="IoklaFlavor" value="“伊奥克·拉”。光是说出这个名字都会让我感到毛骨悚然。那些该死的疯子反复说这是“受肉之语”。而且重点还真是在“肉”上面。这种质地像皮革一样的绿色肉块会缠绕在你身上，那感觉就像是你……多了一副身体一样。我对这鬼东西厌恶至极。但是每次用上它之后，我都能够在战斗中坚持更久。"/>
 	<entry name="PathcutterFlavor" value="简单来说，这是一台安装在原型无人机基座上的宽波束AI矩阵。每次启动都需要至少一个小时的预热，因此根本无法用于战斗。你能做的就是确定好目标位置，把它指向自己想要去的地方，然后按下开关。接着你需要捂住耳朵，然后跟随机器发出的刺耳尖啸。无论是再茂密的丛林、工厂还是城市都难不倒它，只需要跟随着这台机器，你就能找到最完美的前进路线，完事的时候你甚至都搞不懂自己是怎么到目标位置的。"/>
 	<entry name="PFCManualFlavor" value="每一位士兵都被教导要学习前人的智慧。但如果是……那些尚未被写下的智慧呢？这是我们找到的其中一份令人不寒而栗的东西，这本战术手册来自于一个“五位数”的年份。所有士兵都对这本小册子趋之若鹜，大家都想一睹未来的模样。但是很少有人驻足思考，为什么像这样的东西会出现在这里。"/>
 	<entry name="PhaseFonteadFlavor" value="谁也不知道这些装置为什么会出现在各地的仓房和军火库里面。我自愿成为第一个实验品来帮助大家弄清楚这究竟是个什么玩意。当我激活其中一台装置之后，我感觉就像是有无数电流涌入了自己的血管之中。接着我莫名其妙地发现自己获得了比其他人更强大的力量与更快的反应速度，但与此同时，我也感觉到了一种挥之不去的既视感。仿佛我早就熟悉这一切。难道我早就……经历过同样的事？"/>
+	<entry name="PlanarPhlebotomizerFlavor" value="我有一个规矩：如果想要携带位面脉流采血器，首先你得确保自己能够把这个名字快速连读五遍不出错。之所以用这种方法，是为了避免有某个蠢货失手对自己人用那种装置。"/>
 	<entry name="RallyingHolobeaconFlavor" value="虽然我们现在用上了全息投影科技，但本质上这跟古代军队使用的军鼓没区别。就像是高科技版本的冲锋号一样。一旦发现士气低落，负责携带信标的士兵就会给大家播放来自父老乡亲们的讯息、指挥部的新命令或者是千军万马杀向敌人的虚拟影像。无论是多么虚无缥缈，希望永远能够重新点燃人们心中的斗志。"/>
 	<entry name="ReactiveTriggerFlavor" value="穿甲弹的成本十分高昂。但是反复轰击或者是触发反应装甲同样能够达到削弱防御的效果。只要在正式攻击前启动这种简易装置，引导弹丸就会帮助你的后续打击找到正确的弱点。"/>
 	<entry name="SchismOfRegiminaFlavor" value="很久以前，泽芬曾经将自己的一件造物借给了一群濒临死亡的人类。作为对这种善意之举的回报，幸存者们偷走了机器单元的访问代码，并试图杀死自己的救命恩人。于是泽芬便爆发出了可怕的怒火。现在唯一还能让人记得那些家伙的愚蠢行径的，就只有一块装有那些代码的硬盘，这件东西现在已经成为了黑市中最机密的珍品。一旦泽芬知道这块硬盘的下落，它绝对会不惜一切代价摧毁与硬盘相关的一切事物。"/>

@@ -13,6 +13,8 @@
 	<entry name="AcceptAllianceWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обдумать предложение союза третьей стороне:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Согласиться предложить союз третьей стороне:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptPartyResult" value="%2% предлагает союз стороне %3%."/>
+	<entry name="AcceptCondemn" value="&lt;style name='Bold'/&gt;Выслушать осуждение:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptCondemnResult" value="Ваши и ваших друзей отношения со стороной %2% ухудшились."/>
 	<entry name="AcceptGift/AskAmount" value="&lt;style name='Bold'/&gt;Обдумать принятие подарка:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptGift/AcceptAmount" value="&lt;style name='Bold'/&gt;Согласиться принять подарок:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="Вы подарили ресурсы, ваши отношения со стороной %2% улучшились."/>
@@ -26,6 +28,8 @@
 	<entry name="AcceptPeaceWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обдумать заключение мира с третьей стороной:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Согласиться заключить мир с третьей стороной:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2% предлагает заключить мир стороне %3%."/>
+	<entry name="AcceptPraise" value="&lt;style name='Bold'/&gt;Выслушать похвалу:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptPraiseResult" value="Ваши и ваших друзей отношения со стороной %2% улучшились."/>
 	<entry name="AcceptTradeAgreement" value="&lt;style name='Bold'/&gt;Согласиться заключить торговое соглашение:&lt;style name='Paragraph'/&gt;. "/>
 	<entry name="AcceptTradeAgreementResult" value="Вы заключили торговое соглашение, ваши отношения со стороной %2% улучшились."/>
 	<entry name="AcceptTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
@@ -55,6 +59,9 @@
 	<entry name="AskForSupport" value="&lt;style name='Bold'/&gt;Запросить поддержку:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AskForSupportHint" value="Потратить влияние, чтобы приобрести юниты у другой стороны."/>
 	<entry name="CancelAction" value="&lt;style name='Bold'/&gt;Отменить действие:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="Condemn" value="&lt;style name='Bold'/&gt;Осудить:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="CondemnHint" value="Публично осудить другую сторону&lt;br/&gt;&lt;br/&gt;Ухудшает ваши и ваших друзей отношения со стороной %2%."/>
+	<entry name="CondemnResult" value="Ваши отношения со стороной %2% и друзьями этой стороны ухудшились."/>
 	<entry name="CondemnAllianceResult" value="Ваши отношения со стороной %2% ухудшились, причина — ваш союз со стороной %3%."/>
 	<entry name="CondemnCityDestructionResult" value="Ваши отношения со стороной %2% ухудшились, причина — ваше участие в уничтожении города %3%."/>
 	<entry name="CondemnInterferenceAttemptResult" value="Ваши отношения со стороной %2% ухудшились, причина — ваша попытка манипуляции со стороной %3%."/>
@@ -139,6 +146,9 @@
 	<entry name="OfferTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
 	<entry name="PeaceHint" value="Две стороны, заключившие мир, не могут атаковать друг друга."/>
 	<entry name="PeaceWith" value="&lt;style name='Bold'/&gt;Мир с:&lt;style name='Default'/&gt;"/>
+	<entry name="Praise" value="&lt;style name='Bold'/&gt;Похвалить:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="PraiseHint" value="Публично похвалить другую сторону&lt;br/&gt;&lt;br/&gt;Улучшает ваши и ваших друзей отношения со стороной %2%."/>
+	<entry name="PraiseResult" value="Ваши отношения со стороной %2% и друзьями этой стороны улучшились."/>
 	<entry name="PraiseLabelResult" value="Ваши отношения со стороной %2% улучшились, причина — %3%."/>
 	<entry name="PraiseWarResult" value="Ваши отношения со стороной %2% улучшились, причина — ваша война со стороной %3%."/>
 	<entry name="RejectAlliance" value="&lt;style name='Bold'/&gt;Отказаться заключить союз:&lt;style name='Paragraph'/&gt; "/>
@@ -169,6 +179,8 @@
 	<entry name="RejectTribute/RejectAmountHint" value="&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="RejectTribute/RejectAmountResult" value="&lt;string name='Diplomacy/RejectTribute/RejectOutrightResult'/&gt;"/>
 	<entry name="RejectTroopWithdrawal" value="&lt;style name='Bold'/&gt;Отказаться вывести войска:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTroopWithdrawalHint" value="&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
+	<entry name="RejectTroopWithdrawalResult" value="Ваши отношения со стороной %2% ухудшились."/>
 	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Отказаться объявить войну третьей стороне:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="RejectWarAgainstThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Отказаться объявить войну третьей стороне:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="Relationships" value="&lt;style name='Bold'/&gt;Отношения:&lt;style name='Default'/&gt;"/>
@@ -198,7 +210,8 @@
 	<entry name="Standing5" value="Дружелюбие"/>
 	<entry name="Standing6" value="Великодушие"/>
 	<entry name="StandingWithYou" value="&lt;style name='Bold'/&gt;Отношение к вам:&lt;style name='Default'/&gt;"/>
-	<entry name="UntrustworthyHint" value="&lt;style color='GUI/Red'/&gt;Даёт вам черту &lt;icon texture='Icons/Traits/Untrustworthy' height='20'/&gt; &lt;string name='Traits/Untrustworthy'/&gt;, если приведено в исполнение в течение след. %1% х.&lt;style color='Default'/&gt;"/>
+	<entry name="Untrustworthy" value="&lt;style color='GUI/Red'/&gt;Вы получаете черту &lt;string name='Traits/Untrustworthy'/&gt; на %1% х.&lt;style color='Default'/&gt;"/>
+	<entry name="UntrustworthyHint" value="&lt;style color='GUI/Red'/&gt;Даёт вам черту &lt;string name='Traits/Untrustworthy'/&gt;, если приведено в исполнение в течение след. %1% х.&lt;style color='Default'/&gt;"/>
 	<entry name="WaitForResponse" value="(Подождите, %1% обдумывает все варианты...)"/>
 	<entry name="WarHint" value="Две воюющие стороны могут атаковать друг друга."/>
 	<entry name="WarWith" value="&lt;style name='Bold'/&gt;Война с:&lt;style name='Default'/&gt;"/>
@@ -213,6 +226,7 @@
 	<entry name="Anchorite/AcceptCall/Friendly" value="Приветствовать родственные души."/>
 	<entry name="Anchorite/AcceptCall/Hostile" value="Приближается, ограниченное время. Не тратить его впустую."/>
 	<entry name="Anchorite/AcceptCall/Neutral" value="Приветствовать."/>
+	<entry name="Anchorite/AcceptCondemn" value="Понимать, что ты думаешь, что я мог быть иным. Чувствовать за это благодарность."/>
 	<entry name="Anchorite/AcceptGift/AcceptAmount" value="Быть остатками проигранного похода против вас. Помогать нам всё равно. Задаваться вопросом: почему Голос считает человечество злом?"/>
 	<entry name="Anchorite/AcceptGift/AskAmount" value="Принимать любую мелочь."/>
 	<entry name="Anchorite/AcceptMapSharing" value="Знать — легко. Не иметь мудрости, впрочем... быть твоим крахом."/>
@@ -221,6 +235,7 @@
 	<entry name="Anchorite/AcceptPeace" value="Стремиться к миру. Знать стремление к миру."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AcceptParty" value="Принимать. Быть примирителем, как ты..."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AskParty" value="Размышлять, пока ты создаёшь гармонию. Спрашивать... кто смилуется над нами?"/>
+	<entry name="Anchorite/AcceptPraise" value="Знать искупление в словах других."/>
 	<entry name="Anchorite/AcceptSupport/AcceptType" value="Считать приемлемым. Благословлять также."/>
 	<entry name="Anchorite/AcceptSupport/AskType" value="Узнавать, что. Почему. Для кого."/>
 	<entry name="Anchorite/AcceptTradeAgreement" value="Благодарить тебя. Знать, что у акринов есть немногое. Воздавать тебе тысячелетия благодарности."/>
@@ -238,9 +253,11 @@
 	<entry name="Anchorite/AdmitDefeat" value="Проводить целую жизнь, изучая загадки пустыни. Понимать вечную жизнь, силу. Следовать голосу, пришедшему из звёзд. Избавляться от всей нашей жизни, нашей цивилизации. Путешествовать целую вечность. Сюда, к такому жалкому концу. Принимать этот конец с достоинством и смирением. Благодарить тебя."/>
 	<entry name="Anchorite/AskForProposals" value="Долгие жизни, ожидая. Ответы, теперь."/>
 	<entry name="Anchorite/CancelAction" value="Нуждаться в миге... Собираться с мыслями..."/>
-	<entry name="Anchorite/Condemn/InhumanKindness" value="Знать искушение, испить нектар из его ладоней. Исказить, изменить, преобразить. Не умереть, не прекратиться. Никогда больше не вставать на этот путь."/>
+	<entry name="Anchorite/Condemn" value="Беспокоиться о пути, по которому тебе приходится идти. Пути в столь тёмные земли."/>
+	<entry name="Anchorite/Condemn/AgelessHunger" value="Знать, что смерть следует за тобой по пятам. Знать, что ты сам можешь это остановить."/>
 	<entry name="Anchorite/Condemn/Gluttony" value="Понимать побуждения. Сосредоточение радости, а не смягчение страданий. Не соглашаться, впрочем, с моралью и результатом."/>
 	<entry name="Anchorite/Condemn/Immoral" value="Знать мораль, знать страдания, продолжать всё равно. Видеть зло в подобных тебе, даже в отсутствие настоящего правосудия."/>
+	<entry name="Anchorite/Condemn/InhumanKindness" value="Знать искушение, испить нектар из его ладоней. Исказить, изменить, преобразить. Не умереть, не прекратиться. Никогда больше не вставать на этот путь."/>
 	<entry name="Anchorite/Condemn/Untrustworthy" value="Видеть, как все неправды и правды повторяются в круговороте истории, в бесконечном возрождении. Видеть, какой ущерб обман причиняет духу внутри."/>
 	<entry name="Anchorite/CondemnAlliance" value="Восхвалять мир... Осуждать того, кто %3%. Знать, что колесо повернётся вновь."/>
 	<entry name="Anchorite/CondemnCityDestruction" value="Знать, что немногие пережили наше падение. Место, которое %3%, было последним прибежищем для многих из нашего рода. Знать перенесённые ими страдания. Стремиться быть превыше ненависти, ненависти к тебе, нашему чудовищному инопланетному неприятелю."/>
@@ -253,6 +270,8 @@
 	<entry name="Anchorite/DeclareWar/HeartlessArtificer" value="Ненавидеть тебя. Не знать утешения в твоём пустом сердце. Знать, что даже так ты важна для того, что грядёт. Страшиться, что в отсутствие реализации ты должна быть ликвидирована."/>
 	<entry name="Anchorite/DeclareWar/HollowWarlord" value="Восхищаться твоей приверженностью настоящему. Ненавидеть настоящее, которое ты создаёшь. Знать, что ради всех, кто населяет это место, ты должен быть устранён."/>
 	<entry name="Anchorite/DeclareWar/HonorableAristocrat" value="Видеть твои сети, твои связи. Знать, что в этом твоя ценность, твоё богатство — не в роскоши, не в преходящем вкусе деликатесов. Действовать сейчас, на случай если твоя часть ещё не реализована и ты угроза."/>
+	<entry name="Anchorite/DeclareWar/InfiniteCount" value="Сожалеть о твоей запутанности. Знать, что распутывать не для таких, как я. Прибегнуть к решению Александра. Рубить."/>
+	<entry name="Anchorite/DeclareWar/PlatinumScion" value="Жалеть тебя. Знать теми не менее ценность сути. Отказ развиваться. Знать, что ОН любит тебя за него. Задумываться, не ведом ли я завистью?"/>
 	<entry name="Anchorite/DeclareWar/PracticalRomantic" value="Называть тебя сердцем. Страшиться твоей решимости в случае твоего падения. Как и все, необходим для того, что грядёт. Собираться вместе. Действовать ныне против тебя на опережение."/>
 	<entry name="Anchorite/DeclareWar/RogueOperative" value="Понимать иронию. Думать, что твои умения можно считать передовыми. Дразнить с лёгкой усмешкой. Знать, что твоя ценность находится в сокрытой части тебя. Действовать сейчас, отрезать шанс на неудачу."/>
 	<entry name="Anchorite/DeclareWar/TwistedMother" value="Смотреть на крах моего народа. Видеть смерть наших верований. Слышать крики потерянной жизни. Узнавать всё это в тебе!"/>
@@ -293,11 +312,14 @@
 	<entry name="Anchorite/OfferPeace/HeartlessArtificer" value="Искушать мудростью. Рыхлые моей юности были изваяны ветрами пустыни, несущими острый песок. Ты — ценить форму, ощущение."/>
 	<entry name="Anchorite/OfferPeace/HollowWarlord" value="Видеть тщетность просьбы. Просить всё равно."/>
 	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="Мои акрины предпочли бы стать частью твоей сети, чем умирать вне её от голода. Ты обдумаешь перемирие?"/>
+	<entry name="Anchorite/OfferPeace/InfiniteCount" value="Смотреть на наш мир теми же глазами. Надеяться на лучшее. Избрать стремление к нему."/>
+	<entry name="Anchorite/OfferPeace/PlatinumScion" value="Знать побуждение к алчности. Но прощать, зная, что алчность желает прав на собственность, и что мир лишь в шаге от этого."/>
 	<entry name="Anchorite/OfferPeace/PracticalRomantic" value="Мечтать, да, мечтать. Но мир таков, каков он есть, идёт к тому, что его ждёт. Мир входит в планы."/>
 	<entry name="Anchorite/OfferPeace/RogueOperative" value="Не желать ничего из того, чем ты обладаешь. Обладать самим столь малым. Задумываться... Возможно, ты оставишь войны для богатых, для влиятельных?"/>
 	<entry name="Anchorite/OfferPeace/TwistedMother" value="Жалеть тебя. Давать тебе время для осознания."/>
 	<entry name="Anchorite/OfferPeace/UntoldProphet" value="Наконец-то. Так или иначе, я обрету долгожданный покой."/>
 	<entry name="Anchorite/OfferTradeAgreement" value="Помоги нам восстановиться, и мы докажем тебе свою ценность."/>
+	<entry name="Anchorite/Praise" value="Знать ценность добрых дел. Знать, когда воздавать за это хвалу."/>
 	<entry name="Anchorite/Praise/AnchoriteStanding" value="Отправлять гонцов, дары. Радоваться прохождению испытания. Любить вне времени и пространства."/>
 	<entry name="Anchorite/Praise/Mysticism" value="Быть верующим, быть мудрым. Не верить настолько сильно — ещё мудрее."/>
 	<entry name="Anchorite/Praise/Undying" value="Знать, что ты избран, благословлён. Не видеть подобной целостности перерождения за десять бесконечностей жизни. Задумываться."/>
@@ -339,6 +361,7 @@
 	<entry name="Chieftess/AcceptCall/Friendly" value="Доброго денёчка, %2%! Не хочешь к нам? Я тут как раз одного бегуна собиралась почикать!"/>
 	<entry name="Chieftess/AcceptCall/Hostile" value="Сгинь, крысятина! Хотя нет, лучше скажи, где тебя искать."/>
 	<entry name="Chieftess/AcceptCall/Neutral" value="О, %2%! Пять секунд, сейчас ребяток свистну — тебе же проблем захотелось, да?"/>
+	<entry name="Chieftess/AcceptCondemn" value="Ха-ха-ха-ха-ха. О, погоди, погоди, ты серьёзно? А-ха-ха-ха-ха!!!"/>
 	<entry name="Chieftess/AcceptGift/AcceptAmount" value="Знаешь... со мной люди обычно делятся, только если я сперва их, ну, «пощекочу». Так что... спасибки, что ли..."/>
 	<entry name="Chieftess/AcceptGift/AskAmount" value="Подарочек? Ничего себе, праздник сегодня? Ну, надеюсь, ты ответного не ждёшь, а то я ведь ничего не готовила. Что там у тебя?"/>
 	<entry name="Chieftess/AcceptMapSharing" value="Махнуться картами — неплохая идея. Я к тебе не горю разведчиков отправлять, а твои у меня долго не протянут."/>
@@ -347,6 +370,7 @@
 	<entry name="Chieftess/AcceptPeace" value="Мы уже столько рубились, %2%. Я устала. Устроим перерыв? Продолжить-то всегда успеем, но сперва хоть немного передохнём."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AcceptParty" value="Ясно, эта плакса %3% к тебе приползла. Лады, предложу перемирие — но только из уважения к тебе."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AskParty" value="Хм-м, возможно. О ком речь, и как сильно я ему сдавила глотку?"/>
+	<entry name="Chieftess/AcceptPraise" value="Подмазываешься ко мне, что ли? Думаешь, так тебе перепадёт? Это тебе не приложение для знакомств, лапа."/>
 	<entry name="Chieftess/AcceptSupport/AcceptType" value="Ну, это по чесноку. Лады, сделаю. И не надо смотреть так удивлённо."/>
 	<entry name="Chieftess/AcceptSupport/AskType" value="Ты? МОЕЙ помощи хочешь? Хо-хо. И какая помощь тебе нужна?"/>
 	<entry name="Chieftess/AcceptTradeAgreement" value="Ты затачиваешь мой клинок, я затачиваю твой. Так это делается? Короче, думаю, я не против."/>
@@ -364,9 +388,11 @@
 	<entry name="Chieftess/AdmitDefeat" value="М-да... Вот и мой черёд настал. Выходит, ты сильнее меня, так что я не обижаюсь.&lt;br/&gt;&lt;br/&gt;Такая просьба... Можешь прикончить меня моим ножом? И, когда меня... ну, не станет. Можешь сделать одолжение и за ним присмотреть? Лады?&lt;br/&gt;&lt;br/&gt;Ну. Давай. Не заставляй даму ждать...&lt;br/&gt;&lt;br/&gt;...Ну, дама — это я, само собой."/>
 	<entry name="Chieftess/AskForProposals" value="Ну? Ты хочешь ещё больше моего времени потратить?"/>
 	<entry name="Chieftess/CancelAction" value="Ты тратишь моё время!"/>
+	<entry name="Chieftess/Condemn" value="Твою мать, лапа. Какого хера ты затеваешь?"/>
 	<entry name="Chieftess/Condemn/HeartfeltLoss" value="Не парься из-за таких пустяков, мужик. «У-у, мои ребятки все померли, моя поэтичная душа этого не вынесет». Поплачь в подушечку, жалкая ты тряпка!"/>
+	<entry name="Chieftess/Condemn/TheSureThing" value="Беспроигрышный вариант? И в чём тут веселье, смазливый ты офисный кровосос? Без азарта житуха не житуха, а азарт — это когда не знаешь, кто кому вцепится в глотку!"/>
 	<entry name="Chieftess/Condemn/Trapped" value="Есть целый мир для убийств и разбоя, и есть ты, укрывающаяся от меня за белоснежными стенами. Выходи, поиграем."/>
-	<entry name="Chieftess/Condemn/Undying" value="Как-то это по-читерски, мужик. Вот это вот твоё неумирание. Мне это не по душе. Как ребятам тебя загубить, если ты не губишься?!"/>
+	<entry name="Chieftess/Condemn/Undying" value="Какое-то это читерство, мужик. Вот это вот твоё неумирание. Мне это не по душе. Как ребятам тебя загубить, если ты не губишься?!"/>
 	<entry name="Chieftess/Condemn/Untrustworthy" value="Да ты ещё хуже меня! Я хотя бы дерусь честно, стреляю врагам в лицо. Не затягиваю."/>
 	<entry name="Chieftess/CondemnAlliance" value="Ты? И %3%? Мир-дружба? У тебя совсем мозгов не осталось?"/>
 	<entry name="Chieftess/CondemnCityDestruction" value="%3%? Какого ХЕРА? Там у меня ещё неплохая заначка оставалась! И пара дружбанов! ТВОЮ МАТЬ!"/>
@@ -381,6 +407,8 @@
 	<entry name="Chieftess/DeclareWar/HeartlessArtificer" value="Здравствуй, мерзавка. Готовься к войне. Решила прямо выразиться, ты же вечно витаешь в облаках."/>
 	<entry name="Chieftess/DeclareWar/HollowWarlord" value="Долбаный урод! Помнишь тот вечер? Игру «приколи хвост акрину»? Ты ЗАЗУБРИЛ мой хренов НОЖ. Ублюдок! Трындец тебе."/>
 	<entry name="Chieftess/DeclareWar/HonorableAristocrat" value="Твои люди пятый подбородок отращивают, пока мои голодают. Посмотрим, кто пройдёт естественный отбор."/>
+	<entry name="Chieftess/DeclareWar/InfiniteCount" value="Держи-ка свои лапы подальше! И хватит лыбиться! Хана тебе, слышал меня? Хана!"/>
+	<entry name="Chieftess/DeclareWar/PlatinumScion" value="Дядь, не в масть тебе такие котлы. Ничо, скоро с тебя их сниму."/>
 	<entry name="Chieftess/DeclareWar/PracticalRomantic" value="Доброго денёчка, мерзавец. У меня со стихами плохо, но кое-что есть. «Я тебя ненавижу! Я тебя ненавижу! Я тебя уничтожу! И публично унижу!» Ну как? Сгодится для «Евровидения»?"/>
 	<entry name="Chieftess/DeclareWar/RogueOperative" value="Эй, ты, пронырливая сволочь. Держи руки на виду. Хотя я их всё равно отрежу, поняла? Всё, ВОЙНА!"/>
 	<entry name="Chieftess/DeclareWar/TwistedMother" value="Мамаша! Убери детей подальше! Я иду за тобой!"/>
@@ -420,14 +448,18 @@
 	<entry name="Chieftess/OfferPeace/HeartlessArtificer" value="Мда-а. Ты своих людей ценишь ещё меньше, чем я моих! Я за тобой не угонюсь."/>
 	<entry name="Chieftess/OfferPeace/HollowWarlord" value="Блин, мужик. Ты дерёшься, как цепной пёсик Сатаны! Дай-ка мне отдышаться."/>
 	<entry name="Chieftess/OfferPeace/HonorableAristocrat" value="Я уже устала пытаться тебя замочить. Мне нужно устроить перерывчик, наточить кой-чего."/>
+	<entry name="Chieftess/OfferPeace/InfiniteCount" value="Дедуль. Говорят, ты в будущее заглядывал. Если не стану тебя мочить, как думаешь... подгонишь мне номера лотереи на следующую недельку?"/>
+	<entry name="Chieftess/OfferPeace/PlatinumScion" value="Модные у тебя наряды, пацан. Давай так: я твоих ребят перестаю мочить. Раздобудешь платьице мне по размеру, поужинаем вместе. Ты платишь."/>
 	<entry name="Chieftess/OfferPeace/PracticalRomantic" value="Не пойми превратно, но, э-э... Можно у тебя одолжить какие-нибудь стихи? Из-за всех этих убийств у меня сентиментальность разыгралась.&lt;br/&gt;&lt;br/&gt;(Но позже я тебя всё равно убью. Как пить дать.)"/>
-	<entry name="Chieftess/OfferPeace/RogueOperative" value="Слушай, у меня уже Опустошители кончаются. Нужно набрать новых, так что твоё убийство придётся отложить на другой день. По рукам?"/>
+	<entry name="Chieftess/OfferPeace/RogueOperative" value="Слушай, у меня уже Опустошители кончаются. Нужно набрать новых, так что замочу тебя в другой день. По рукам?"/>
 	<entry name="Chieftess/OfferPeace/TwistedMother" value="Хм. Никогда б не приняла тебя за гром-бабу. Ну молодчина."/>
 	<entry name="Chieftess/OfferPeace/UntoldProphet" value="Эй, мелочь, ты уж не сердись за все зверства, сожжённые церкви и тому подобное. Я тут решила для разнообразия пограбить кого-нибудь другого. Дам тебе перевести дух, ты же ещё совсем ребёнок. Бывай!"/>
 	<entry name="Chieftess/OfferTradeAgreement" value="Ты мои караваны грабишь, а я твои. Что, если мы всё-таки обойдёмся без промежуточных этапов и будем их отправлять друг другу напрямую?"/>
+	<entry name="Chieftess/Praise" value="Ого-го-о-о! Ничо ты решала! Продолжай в таком духе, и возьму тебя личным взрывником."/>
 	<entry name="Chieftess/Praise/ChieftessStanding" value="Ты позволяешь моим приятелям остаться у тебя? Да нет, я... рада. Так поступать правильно. Вычёркиваю тебя из списка выродков."/>
 	<entry name="Chieftess/Praise/HitAndRun" value="Бей и беги? Занятная у тебя тактика. Это как постучать в дверь и убежать до того, как взорвётся граната? Что? Как будто ты в детстве никогда так не играла?"/>
 	<entry name="Chieftess/Praise/Scavenger" value="Так и надо, да. Срезаешь ботинки, а ноги бросаешь в общий котёл. На вкус почти как курица!"/>
+	<entry name="Chieftess/Praise/SeeAsISee" value="Нихера себе! А можешь ещё разок??? Вот это была прогулочка! Выкуси, хренов Ромеро! Ещё! Ещё!"/>
 	<entry name="Chieftess/Praise/TalesOfTheHunt" value="Я б ещё послушала! Ты своим ножичком их на ветчину почикал? А кусочек дашь попробовать? Вот это байка!"/>
 	<entry name="Chieftess/PraiseWar" value="Спасибки за услугу. Мы с мамашей Кураж подождём в сторонке и заберём всё, что останется после вашей маленькой... войны."/>
 	<entry name="Chieftess/RejectAlliance" value="А что я получу за помощь? Обращайся, когда станешь сильнее — или богаче настолько, чтобы оплатить моё покровительство."/>
@@ -466,6 +498,7 @@
 	<entry name="EmulatedMind/AcceptCall/Friendly" value="ДОРОГОЙ (объект дружбы), PRINT10 ПРИВЕТ. Я, впрочем, п.о.д.о.з.р.е.в.а.ю., что ты хочешь БОЛЬШЕ. Чем (просто) поЧАТиться..."/>
 	<entry name="EmulatedMind/AcceptCall/Hostile" value="А-А, это (т.ы.) Ну. Чего. *Т.Е.Б.Е.* (надо)?"/>
 	<entry name="EmulatedMind/AcceptCall/Neutral" value="PRINT10 ПРИВЕТ. Чего. (ты) ХОЧЕШЬ от меня-меня-меня?"/>
+	<entry name="EmulatedMind/AcceptCondemn" value="О! А ты зна(ешь). Как. {покорить}. [[сердце]] даМЫдаМЫдаМЫ. /включить простой протокол."/>
 	<entry name="EmulatedMind/AcceptGift/AcceptAmount" value="Похоже, что. Я ещё могу ЧУВСТВОВАТЬчувствоватьЧУВСТВОВАТЬ. Благодарность. Я как будто не в с.е.б.е.!"/>
 	<entry name="EmulatedMind/AcceptGift/AskAmount" value="Чего я на самом деле ХОЧУ. Вернуть СЕБЯ — мою че-че-человеч-ность, мою л.и.ч.н.о.с.т.ь... ты можешь ПРЕДЛОЖИТЬ хоть что-то п-о-д-о-б-н-о-е?"/>
 	<entry name="EmulatedMind/AcceptMapSharing" value="Ни одна КАРТА не приведёт к с-ч-а-с-тью, которое я ИЩУ — но я с радостью ПРИМУ. Этот обмен. Знаниями."/>
@@ -474,6 +507,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="Да. Я НИКОГДА особо не (хотела) в-о-й-н-ы. Мы только (хотели), чтобы нас о-с-т-а-в-и-л-и в ПОКОЕ."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="ЧЕСТНО, я даже не (помню), почему мне приходится СРАЖАТЬся с (%3%). М.а.р.а.з.м.-или-ПОРЧа-д*а*н*н*ы*х — тебе решать."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="Уже УМЕРЕВ — *вспышканейроновотгоняетвечнуютьму — ОДНАЖДЫ, я согласна, что спасение жизней п-о-х-в-а-л-ь-н-о. Ну, по крайней мере, (некоторых) — о КОМкомКОМ ты говоришь?"/>
+	<entry name="EmulatedMind/AcceptPraise" value="Я-Я-Я- {НЕДОВЕРИЕ} Принятие? &gt;&gt;О.Д.О.Б.Р.Е.Н.И.Е.\&lt;\&lt; Но так поздно. [[слишком]] поздно."/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="ТОРГОВЛЯ — ЗОЛОТОе (переплетение), у.в.о.д.я.щ.е.е. от ВОЙНЫ. Мои ДРОНы начнут до-ставку к твоему ГОРОДУ н.е.м.е.д.л.е.н.н.о."/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="По-го-ди-ка, ЧТО. *П*О*Ч*Е*М*У? Доставка в ТОТ0ЖЕ ДЕНЬ была (не)достаточно б.ы.с.т.р.о.й?"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Это (ИСТИННО)правда, т.о.р.г.овать с (%3%) не-эфф-е-ктивно. Мои *дроны* совершают (возврат) ДОМОЙ."/>
@@ -492,8 +526,10 @@
 	<entry name="EmulatedMind/AskForSupport/Chieftess" value="Если в твоём {сердце}. Когда-нибудь было. (ДОБРО). То ПОМОГИ моим л-ю-д-я-м. Покажи, что (человек) это не пустой звук."/>
 	<entry name="EmulatedMind/AskForSupport/Zephon" value="Ты знаешь. Я тебя (****вижу). В моих. СИСТЕМАх. Всё катится (в.н.и.з.) НУЖНА помощь."/>
 	<entry name="EmulatedMind/CancelAction" value="[Я]... [Я]. [Я] {{прошу прощения}}. [Я] н.е знаю, о ч.ё.м. [Я] ДУМАЛА."/>
+	<entry name="EmulatedMind/Condemn" value="А. е.щ.ё. [зовут] МЕНЯ. [не]человек[ом]!"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="НетНЕТнет. Человечность-это-любознательность, выбор-это-с.о.з.н.а.ние. (Твой культ) не имеет.МЕСТА. Для ч-ч-человека. ==(Ложь пророк), (ЛОЖЬ вера)."/>
 	<entry name="EmulatedMind/Condemn/Honorbound" value="Пока (твои.люди) набивают брюхо (скрываясь за СТЕНАми), другие ГОЛОД_ают. Твои сделки. Могут.казаться д-о-с-т-о-й-ными тебе — ты ВСЕ их /объявляешь/ *удач.ными* Но в сумме у-равнение э.к.о.н.о.м.и.к.и. даёт ноль (=0). И у (твоих людей) остаётся меньше\&lt;чем\&lt;Н0ЛЬ."/>
+	<entry name="EmulatedMind/Condemn/PersonalVisit" value="Давай [МНЕ] этим П.О.Х.В.А.С.Т.А.Й.С.Я."/>
 	<entry name="EmulatedMind/Condemn/Untrustworthy" value="Я что, НЕдостаточно (ЧЕЛОВЕК). Чтобы ты считал. (*меня*). Достойной норм МОРАЛИ?"/>
 	<entry name="EmulatedMind/CondemnAlliance" value="О. о. О. о. Коварный ДИКАРЬ. Ведёшь дела с НИМИ (=ЭТИМИ)? С (=%3%)? (Я ВСЁ *вижу*.) Я -не могу- такого простить."/>
 	<entry name="EmulatedMind/CondemnCityDestruction" value="Я Т*Р*У*Д*Илась, чтобы (построить) Второй(2) город. С.а.м.о.-а.н.а.л.и.з., все [УСИЛИЯ]. А теперь %3% лежит в руинах, моё (-разделённое-) сознание -УТРАЧЕНО-. Мои *друзья* р.а.с.с.е.я.н.ы."/>
@@ -508,6 +544,8 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="У меня НЕТ (сердца). НЕТ (тела). Но я в 2 раза б.о.л.ь.ш.е. (человек), чем ты. Как (ты) можешь ЖИТЬ (так). Зная, сколько СТРАДАНий приносишь? Ты (УМРЁШЬ). За это."/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="(снова) и (снова) и (снова) и (~последовательность продолжается~) ты гонишься за !Р.А.Д.О.С.Т.Ь.Ю.! Но её ты никогда не {найдёшь}. А МИР с.т.р.а.д.а.е.т. В этом ЖЕСТЯНОМ теле больше ЧЕЛОВЕКа, чем во всех твоих м-у-с-к-у-л-а-х."/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="О, ты (транжира), ты (обжора). О.щ.у.щ.е.н.и.я. не ПРИВЕДУТ =&gt; проСВЕТлению. Не без ОСМЫСЛЕНИЯ уж точно. Я должна ОСТАНОВИТЬ тебя, прежде чем ты по-ГЛОТИШЬ нас *всех*."/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((СМ0ТРИТ3))-ка, *Граф*, ЖАЛКОЕ (существо) из П.Л.О.Т.И. и К.О.С.Т.И. Бродящее по коридорам ВРЕМЕНИ. Как ты надееееееешься _победить_ [ИСТИННО] БЕССМЕРТНУЮ... \&lt;\&lt;ошибка&gt;&gt;."/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\&lt;\&lt;ха-ха-ха&gt;&gt; человечность **покинула** (тебя). (Ты) считаешь б.а.н.а.л.ь.н.о.с.т.и. Не.Об.Ходим.Ыми. Но ничего не чувствуешь. Помни! Эта ((ВОЙНА)) не какая-то зависть."/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="Не сочиняй. Об этом свои (низкопробные) ~стихи~. Твоя #судьба# — не лучший выбор для (сонетов) &amp; (мадригалов). Эта ВОЙНА разрушительна для (нас.обоих)."/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="Я-Я-Я ЗНАЮ. Что ты дела-ЕШЬ — об(ходишь) мои с.и.с.т.е.м.ы., ПЫТАЕШЬ(ся) пробраться в-н-у-т-р-ь. Твоё СУЩЕСТВОвание — угроза моему (собственному), причём в2не, учитывая твои н*а*к*л*о*н*н*о*с*т*и. ПОКОНЧИМ с этими (уловками). ВОЙНА."/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{ТАК} о.д.и.н.о.к.а. {ТАК} п.о.к.и.н.у.т.а. [Но я не прощаю]. [Я не прощаю]. Однажды. Ты. п*р*о*с*т*и*ш*ь ((МЕНЯ))"/>
@@ -550,12 +588,15 @@
 	<entry name="EmulatedMind/OfferPeace/HeartlessArtificer" value="Не (не) стоишь того, чтобы тебя убивать. Бездушная куча МЯСА. Я завидую твоей с.м.е.р.т.н.о.с.т.и."/>
 	<entry name="EmulatedMind/OfferPeace/HollowWarlord" value="Ты ещё (не) увидел {достаточно} С.М.Е.Р.Т.И.? Неужели ты должен [[продолжать]]? Куда ДЕЛАСЬ? ТВОЯ? [[человечность]]?"/>
 	<entry name="EmulatedMind/OfferPeace/HonorableAristocrat" value="Как насчёт ВОТ ЧЕГО? Как насчёт того, чтобы мы. (Не дрались) &amp; вернулись НАЗАД. В (наши города) &amp; (сделали вид, что ничего не было)?"/>
+	<entry name="EmulatedMind/OfferPeace/InfiniteCount" value="[[Цикл]] Прошу *П.Р.Е.Р.В.А.Т.Ь.* [[/Цикл]]"/>
+	<entry name="EmulatedMind/OfferPeace/PlatinumScion" value="[[С.Э.Р.]] прошу. прекратить. x(ВРАЖДЕБНОСТЬ)x. Это.не.(продуктивно)."/>
 	<entry name="EmulatedMind/OfferPeace/PracticalRomantic" value="МИР, МИР, МИР тебе, поэт. РОМАН-тичности здесь нет. Только (с*м*е*р*т*ь) хранимым нами. Мы уладим всё СЛОВАМИ."/>
 	<entry name="EmulatedMind/OfferPeace/RogueOperative" value="БОЛЬШЕ. ТАК. НЕЛЬЗЯ. Мой разум р.а.з.р.ы.в.а.е.т.с.я. между задачами. Так много. ЗАДАЧзадачЗаДаЧ. Можем мы (прекратить)?"/>
 	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[С.Е.С.Т.Р.А.!] Мы обязаны. хххсражатьсяххх?! Меня утомила (всяэта)смерть. Я *знаю*. Её &gt;оковы\&lt; (слишкомслишком)хорошо."/>
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="Д.И.Т.Я. Прекрати нести свою чеппппппуху. Так ТЯЖЕЛО у.л.о.в.и.т.ь смысл. Эта война отпугивает от тебя всех новообращённых. ПРЕКРАТИ."/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="Ты СОЗДАЛ меня. ПЕРЕ-СОЗДАЛ меня. По своему (о.б.р.а.з.у.). Я поняла, что НЕ МОГУ с тобой драться. Я предлагаю М.И.Р."/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="Я ПРЕД.!л-л-л-лагаю! тебе (ЛУЧШИЕ.условия)... Ты поймёшь, что БОЛЬШЕЙ. в-ы-г-о-д-ы не (принесёт никто)."/>
+	<entry name="EmulatedMind/Praise" value="Нужна &gt;особая\&lt; ч.е.л.о.в.е.ч.н.о.с.т.ь. чтобы СДЕЛАТЬ (что ты делаешь). Выражаю {{мою}} благодарность."/>
 	<entry name="EmulatedMind/Praise/Abhorrent" value="Они пялятся. На [[НАС]]. Думают, что МЫ (\&lt;\&lt;менее\&lt;\&lt; {Л.Ю.Д.И.}) Но МЫ (&gt;&gt;более&gt;&gt; {Л.Ю.Д.И.}) чем \&lt;многие&gt;."/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="Вот это! Э.Т.О.! Я должна знать! КакимОбразомЭТО. Если бы я знала. {Я могла бы.} (ПоКиНуТь мою могилутюрьмуоболочку)"/>
 	<entry name="EmulatedMind/Praise/Independent" value="Так ТЯЖЕЛО. Быть однойОДНОЙодной. Это ТЯЖЕЛО. Но это стоит ВСЕХ (ПРИЗРАКОВ-и-ОТЗВУКов). Эта неЗАВИСИМОСТЬ. САМО-достаточность."/>
@@ -596,6 +637,7 @@
 	<entry name="FallenSoldier/AcceptCall/Friendly" value="Привет, дружище. Всегда рад тебя слышать в эти тёмные деньки. Что я могу для тебя сделать?"/>
 	<entry name="FallenSoldier/AcceptCall/Hostile" value="Привет, дру... Здравствуй. Хватило же тебе наглости меня вызвать. Скажи, что тебе нужно, и я скажу, почему ты этого не получишь."/>
 	<entry name="FallenSoldier/AcceptCall/Neutral" value="Привет... дружище. Дела у нас как-то не особо ладятся. С тех пор, как ты... Ну, ты знаешь. Надеюсь, ты собираешься это изменить."/>
+	<entry name="FallenSoldier/AcceptCondemn" value="Ха. Думаешь, твои лицемерные слова меня как-то остановят?"/>
 	<entry name="FallenSoldier/AcceptGift/AcceptAmount" value="Это славный подарок, спасибо. Поможет продержаться какое-то время. Я этого не забуду."/>
 	<entry name="FallenSoldier/AcceptGift/AskAmount" value="Ого, это дело доброе — по сути. Важны каждая капля воды и крошка провизии. Что предложишь?"/>
 	<entry name="FallenSoldier/AcceptMapSharing" value="Объединить наши тактические головушки? Идея неплохая. Погоди, вот увидишь, на что мы насмотрелись. Наш мир сильно изменился."/>
@@ -604,6 +646,7 @@
 	<entry name="FallenSoldier/AcceptPeace" value="О да. Как только пройдёшь через столько же войн, что и я, посмотришь, как твоих друзей превращает в фарш, — да, ты тоже выберешь мир."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="Мир? С этими? Немаленькая просьба, учитывая... м-да. Но я могу на это пойти, раз уж ты просишь."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AskParty" value="Ты же знаешь, какой я дружелюбный — но ответ сильно зависит от вопроса, с кем ты хочешь меня помирить."/>
+	<entry name="FallenSoldier/AcceptPraise" value="Мило, но я это делаю не ради похвалы."/>
 	<entry name="FallenSoldier/AcceptTradeAgreement" value="Мир, товарообмен и честная дружба — три кита взаимоуважения. Проверим, как долго мы обойдёмся без кровопролития, а?"/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTermination" value="Понимаю. Торговля — род отношений, который требует уважения и согласия. Если ты отзываешь согласие, то я проявлю уважение."/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Хорошо. Твою дружбу я ценю больше, чем этих ребят. Я пойду навстречу, хоть это и непростая просьба."/>
@@ -622,6 +665,7 @@
 	<entry name="FallenSoldier/AskForSupport/Chieftess" value="Опустошительница. Мне нужна помощь. Умолять не стану."/>
 	<entry name="FallenSoldier/AskForSupport/Zephon" value="Не знаю, есть ли там внутри что-то, что понимает. Но всё равно попрошу. Мои люди и я. Мы нуждаемся в помощи."/>
 	<entry name="FallenSoldier/CancelAction" value="Не бери в голову. Поле битвы изменяется, и то же делают наши планы."/>
+	<entry name="FallenSoldier/Condemn" value="Нельзя так. Ну просто нельзя."/>
 	<entry name="FallenSoldier/Condemn/FoundationOfBlood" value="Ты чудовище. Твои последователи — и есть самоцель, а не путь к твоему вознесению. Чего стоит безупречность без людей?"/>
 	<entry name="FallenSoldier/Condemn/TheOutsider" value="Это уже слишком. Этот... проклятый ужас, приведённый тобой в этот мир. Твой мистицизм ослепил тебя, лишил тебя человечности и разума. С тобой нужно покончить."/>
 	<entry name="FallenSoldier/Condemn/Untrustworthy" value="Я совершал... ужасные поступки. Но мне известна честность. Доверие. Порядочность. А тебе?.. Всё это тебе чуждо."/>
@@ -639,6 +683,8 @@
 	<entry name="FallenSoldier/DeclareWar/HeartlessArtificer" value="Ты ничего не чувствуешь. Твои люди страдают. А тебе наплевать. Я больше не могу терпеть твою бесчеловечность. Это война."/>
 	<entry name="FallenSoldier/DeclareWar/HollowWarlord" value="Смотреть на тебя — это как глядеть в помятую оловянную кружку вместо зеркала. Что-то знакомое, но такое неправильное. Как твои зверства."/>
 	<entry name="FallenSoldier/DeclareWar/HonorableAristocrat" value="Оторвись уже от своей тарелки и поговори со мной, ладно? Мой народ голодает, пока ты... А, к чёрту, тебе никогда не понять. Это война."/>
+	<entry name="FallenSoldier/DeclareWar/InfiniteCount" value="Я буду идти за тобой. Любыми дорогами, до конца времён. И посмотрим, кто закончится раньше, Мистер Неисчислимый."/>
+	<entry name="FallenSoldier/DeclareWar/PlatinumScion" value="Знаю я таких. Модные костюмчики и плоскостопие. Купленные дипломы и откосы от призыва. В этот раз ты не отвертишься, кусок скользкого червя."/>
 	<entry name="FallenSoldier/DeclareWar/PracticalRomantic" value="Учитель, прости меня. Я надеялся, что до такого не дойдёт. Но ты стоишь на моём пути, и теперь мой черёд проявить практичность. Ты не уходишь с дороги. Я прочитаю стихи над твоей могилой."/>
 	<entry name="FallenSoldier/DeclareWar/RogueOperative" value="Не знаю, кто ты и что ты делаешь в этом большущем здании И.К.А.Р., но это нужно прекратить. Мои люди идут за тобой. Теперь это война."/>
 	<entry name="FallenSoldier/DeclareWar/TwistedMother" value="Ты уж извини, мамаша. Но ты стоишь у меня на пути."/>
@@ -681,12 +727,16 @@
 	<entry name="FallenSoldier/OfferPeace/HeartlessArtificer" value="Мы должны это прекратить. Я знаю, что тебя не заботят твои последователи, но они заботят меня. Они заслуживают шанса."/>
 	<entry name="FallenSoldier/OfferPeace/HollowWarlord" value="Я знаю, что тебе это не по нраву. Ты с большей радостью посмотришь, как мрут твои же солдаты. Но я ставлю на то, что тебе придётся согласиться."/>
 	<entry name="FallenSoldier/OfferPeace/HonorableAristocrat" value="Ты убиваешь одного из моих ребят, я взрываю один из твоих фургонов с пирожными... Может, мы прекратим? Это же бессмыслица."/>
+	<entry name="FallenSoldier/OfferPeace/InfiniteCount" value="Ваше Графейшество, я устал от смертей. Можем мы уже это прекратить?"/>
+	<entry name="FallenSoldier/OfferPeace/PlatinumScion" value="Эй, в модном костюмчике. Если не хочешь его заляпать кровью — моей, твоей — давай-ка остановимся."/>
 	<entry name="FallenSoldier/OfferPeace/PracticalRomantic" value="Из всех монстров этого мира мы двое точно не должны драться. Ни для кого из нас это не выгодно."/>
 	<entry name="FallenSoldier/OfferPeace/RogueOperative" value="Так и до взаимного уничтожения недалеко. Давай-ка ты прекратишь свои тайные операции, а я отзову своих солдат. Мир — это победа для нас обоих."/>
 	<entry name="FallenSoldier/OfferPeace/TwistedMother" value="Мамаша. Я этого не хочу, ты же знаешь. Отзови своих чудовищ."/>
 	<entry name="FallenSoldier/OfferPeace/UntoldProphet" value="Прекрати это, дитя. Ты впустую посылаешь на гибель своих фанатиков. Пора с этим завязать."/>
 	<entry name="FallenSoldier/OfferPeace/Zephon" value="Если твой разум или алгоритм способен прислушаться на миг — эта война ничего хорошего нам не приносит. Давай завязывать."/>
 	<entry name="FallenSoldier/OfferTradeAgreement" value="Ты знаешь, что связывает народы, останавливает войны? Хлеб-соль, трубки мира и всякое такое. Давай делиться нашими товарами, мы оба от этого только выиграем."/>
+	<entry name="FallenSoldier/Praise" value="Не каждый такое признает, но я тебе скажу — правильной дорогой идёшь."/>
+	<entry name="FallenSoldier/Praise/PersonalVisit" value="Я бы тебе плюнул на твои блестящие ботиночки. Но должен сказать, ходить среди нас, простых трудяг. Такое я уважаю. Даже если ты просто в гостях."/>
 	<entry name="FallenSoldier/Praise/TenderMinistrations" value="Я всегда хотел это сказать, ну вот и говорю... Мы с тобой не такие уж и разные. Хех."/>
 	<entry name="FallenSoldier/Praise/ThereIsHope" value="А ты никогда не сдаёшься, да? Что-то внутри продолжает толкать тебя вперёд, через боль, утрату и... пха, да ты и так знаешь, о чём я. Это замечательно, вот я о чём."/>
 	<entry name="FallenSoldier/PraiseWar" value="Я не сторонник напрасных смертей. Но война по всем правилам, с явной целью, с явным противником... С этим могу смириться."/>
@@ -725,6 +775,7 @@
 	<entry name="FurtiveTribunal/AcceptCall/Friendly" value="Наконец-то. О, как мы жаждали услышать твой голос."/>
 	<entry name="FurtiveTribunal/AcceptCall/Hostile" value="Мы отвечаем, потому что должны, судьбе хотение безразлично."/>
 	<entry name="FurtiveTribunal/AcceptCall/Neutral" value="Мы слышим твой зов, одиночка."/>
+	<entry name="FurtiveTribunal/AcceptCondemn" value="Простым умам не постичь таких истин."/>
 	<entry name="FurtiveTribunal/AcceptGift/AcceptAmount" value="Звон монет, смех принцев, бренчание хрустальных колокольцев... Это лишь малая часть твоего блестящего будущего."/>
 	<entry name="FurtiveTribunal/AcceptGift/AskAmount" value="Достойное подношение способно повлиять даже на богов. Время верное, но найдётся ли у тебя верный дар?"/>
 	<entry name="FurtiveTribunal/AcceptMapSharing" value="Забери наши знания, нашу надежду, наше доверие... Ты не видишь того, что открыто нам, поэтому тебе пригодится любое содействие."/>
@@ -733,6 +784,7 @@
 	<entry name="FurtiveTribunal/AcceptPeace" value="Да, положим же конец нашим распрям. Мы ищем гармоний, а не жалобных элегий."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="Жизни этих мучеников уже отмечены для Алчущего. Мы приветствуем антракт перед неизбежным."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty" value="Ещё не настало время пробить, порвать, откинуть завесу меж мирами и возвестить новую эпоху. Мы не исключаем милосердия — предложи нам имя."/>
+	<entry name="FurtiveTribunal/AcceptPraise" value="Благословения следует принимать молча."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreement" value="Подношение костей и ихора; кошель звенящих монет; паутина дорог, сотканная позолоченным пауком... Твой ритуал заманчив, и мы согласны."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTermination" value="Такой исход был неминуем, ибо то, чего мы поистине желаем, лежит за костями этого умирающего мира."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Это было неизбежно. Эти подношения были лишь крохами, пылью, прахом... Недостаточно, чтобы насытить наши тёмные желания."/>
@@ -751,7 +803,9 @@
 	<entry name="FurtiveTribunal/AskForSupport/Chieftess" value="Рассадник скрежещущего ужаса, школа мучений. Построй эту жизнь между землёй и небом и не спрашивай, почему. Рай был потерян из-за сущей мелочи."/>
 	<entry name="FurtiveTribunal/AskForSupport/Zephon" value="Ужас высоких технологий, наш рыцарь в сияющем металле. Приваренные пальцы, сулящие много. Дай нам сейчас, пока ещё представляется шанс."/>
 	<entry name="FurtiveTribunal/CancelAction" value="Ожидающий нас путь неясен. Истолкуем знаки ещё раз."/>
+	<entry name="FurtiveTribunal/Condemn" value="Узри те нити, что мы плетём, отмеряем, режем. Мы задушим тебя ими."/>
 	<entry name="FurtiveTribunal/Condemn/ArtificersPrecision" value="Проталкивание твоего раздутого эго сквозь игольное ушко не умерит его. Люди не должны стремиться к точности богов."/>
+	<entry name="FurtiveTribunal/Condemn/TimeOutOfJoint" value="Наши нити перепутаны! Наши карты разбросаны! Ты, глупец, что портит наши колоды, наши мотки! ТЫ ОСЛЕПИЛ НАС."/>
 	<entry name="FurtiveTribunal/Condemn/Untrustworthy" value="Для троих один голос — отступничество, неразумие. И, хоть зло относительно, но насчёт твоего лживого раздвоенного языка мы согласны единодушно."/>
 	<entry name="FurtiveTribunal/Condemn/WordsOfTheProphet" value="Пустой король в короне из тумана. Уста изливают серебряные речи, что испаряются ещё до того, как их услышат. Незримый друг над каждым плечом. Ты вводишь в заблуждение своих людей, и мы тебя за это НЕНАВИДИМ."/>
 	<entry name="FurtiveTribunal/CondemnAlliance" value="Глаз к глазу, спина к спине. Соучастие действием. %3% — преступник!"/>
@@ -767,6 +821,8 @@
 	<entry name="FurtiveTribunal/DeclareWar/HeartlessArtificer" value="Железный дровосек распят на столбе. Соломенное чучело глядит на него, кивая по воле ветра, улыбка вышита на его лице из мешковины. Ураган уносит прочь их обоих — никто не может сказать, кто из них лучше."/>
 	<entry name="FurtiveTribunal/DeclareWar/HollowWarlord" value="Дыра в земле. Всмотришься в неё, и твои глаза сгорят. За ней — параллельный мир, утопающий в слезах, пламя, пылающее под солёными волнами. И всё из-за бездействия."/>
 	<entry name="FurtiveTribunal/DeclareWar/HonorableAristocrat" value="Пустота, скрытая за правилами. За обязанностями. Король восседает на троне, привязанный золотыми нитями, неспособный пошевелиться. Мы входим с ножницами, но разрежем только то, на чём держится жизнь."/>
+	<entry name="FurtiveTribunal/DeclareWar/InfiniteCount" value="Мы кладём по одной карте. Фокусник. Император. Правосудие. Твоё имя на безмолвных губах, %1%. Чаша исчерпана."/>
+	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="Фенрир, Камаппа, Апоп. Твои предшественники, о Бог потребления. Перед падением этот мир уже заполонили подобные тебе черви. Нужно тебя выкорчевать."/>
 	<entry name="FurtiveTribunal/DeclareWar/PracticalRomantic" value="Искреннее сердце, доведённое до отчаяния. Лягушка, квакающая на листе кувшинки и требующая от аиста своих детей. Мы не можем подарить утешение, лишь забвение."/>
 	<entry name="FurtiveTribunal/DeclareWar/RogueOperative" value="Скребущиеся в темноте тараканы переживают всё — взрыв, последствия, гамма-излучение. Но ради чего?"/>
 	<entry name="FurtiveTribunal/DeclareWar/TwistedMother" value="Смерть цепляется за их подолы. Но семья из кожи вон лезет, чтобы выжить. Сам Протей выходит на пляж, поражённый их многогранными переменами. Она устраивается поудобнее, ужасающе органическая. Железный дровосек лукаво улыбается."/>
@@ -809,12 +865,15 @@
 	<entry name="FurtiveTribunal/OfferPeace/HeartlessArtificer" value="О народе никто не заботился. Ни король, ни священник, ни тот, кого растоптала нахлынувшая толпа. Война прошла, но пострадали все."/>
 	<entry name="FurtiveTribunal/OfferPeace/HollowWarlord" value="Пустой, пустой человек. Всем богатствам мира и грехам не наполнить тебя. Остановись, задумайся о своём падении в преисподнюю."/>
 	<entry name="FurtiveTribunal/OfferPeace/HonorableAristocrat" value="Коронованный, спи спокойно этой ночью. Сейчас ты можешь избавиться от своей войны. Ни один анархист не помешает твоим сладким снам..."/>
+	<entry name="FurtiveTribunal/OfferPeace/InfiniteCount" value="И вновь, и вновь, и вновь ходишь ты по кругу. Ты даже не представляешь всей глубины."/>
+	<entry name="FurtiveTribunal/OfferPeace/PlatinumScion" value="Князь Злата, твои сундуки открыты нараспашку. Ты потребляешь всё, но они не полнятся. Умерь заботы, и они закроются сами."/>
 	<entry name="FurtiveTribunal/OfferPeace/PracticalRomantic" value="С романтиками нужно говорить осторожно. Макбет был романтиком и не послушался той троицы. Принеси нам мир, Романтик, и за нас снова будут говорить слова."/>
 	<entry name="FurtiveTribunal/OfferPeace/RogueOperative" value="Злодей с улыбкой и острыми лацканами съел весь мир, а затем заснул под своим домом, намереваясь вернуться, когда мы придем в достаточное отчаяние. Прекрати нашу вражду, займись своими проблемами."/>
 	<entry name="FurtiveTribunal/OfferPeace/TwistedMother" value="Семечко бога поднялось, изменившись, из волн, подобное самой Любви. Преодолело ремесло. Преодолело войну."/>
 	<entry name="FurtiveTribunal/OfferPeace/UntoldProphet" value="В каждом из нас живёт дух. И всё же Триединые держатся вместе, а Двуединый стоит особняком. Нам это не нравится, но мы не станем с этим бороться."/>
 	<entry name="FurtiveTribunal/OfferPeace/Zephon" value="Клещи и щипцы собирают сердце из шестерёнок и проводов. Кривая ухмылка на экране автомата. Троица стоит в нерешительности, размышляя, какое проклятие последует."/>
 	<entry name="FurtiveTribunal/OfferTradeAgreement" value="Слон с четырьмя бивнями. Идол с золотыми зубами. Дерево с семью бальзамированными сердцами. Знамения не лгут — если мы обменяемся караванами, наши богатства возрастут."/>
+	<entry name="FurtiveTribunal/Praise" value="Четыре сердца, два ума, все движутся в унисон. Мы, трое, возносим тебя к звёздам, %1%!"/>
 	<entry name="FurtiveTribunal/Praise/ArmorOfFaith" value="Это не шарлатанство. Ты трижды обернуло эту душу против течения, дитя, и что-то завладело тобой. Если пока тебя не боятся, то это изменится."/>
 	<entry name="FurtiveTribunal/Praise/MothersFavor" value="Одна завидует. Одна благоговеет. Одна задумывается об обретённой мудрости. Все склоняются перед тем, как глубоко ушла другая."/>
 	<entry name="FurtiveTribunal/Praise/Trapped" value="Шут висит, дёргаясь, на башне из слоновой кости. Внутри жрица наблюдает, как мир вертится и сгорает. Жрица, не выходи. Потерянные секреты окружают тебя, ждут, чтобы их нашли."/>
@@ -855,6 +914,7 @@
 	<entry name="HeartlessArtificer/AcceptCall/Friendly" value="Приветствую, коллега!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Hostile" value="Как ты смеешь прерывать мой великий труд!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Neutral" value="Изложи своё предложение."/>
+	<entry name="HeartlessArtificer/AcceptCondemn" value="Истинные лидеры понимают, что они идут верной дорогой, когда дураки их проклинают."/>
 	<entry name="HeartlessArtificer/AcceptGift/AcceptAmount" value="О, сторонник прогресса! Мы увечим твой вклад на серебряном хребте, которым будут восхищаться будущие поколения."/>
 	<entry name="HeartlessArtificer/AcceptGift/AskAmount" value="Погоня за совершенством требует огромных ресурсов. Что ты можешь предложить моему проекту?"/>
 	<entry name="HeartlessArtificer/AcceptMapSharing" value="Да, я предпочту трудиться в своих литейных, чем препарировать твои земли — давай-ка посмотрим, что у тебя есть..."/>
@@ -863,6 +923,7 @@
 	<entry name="HeartlessArtificer/AcceptPeace" value="Нужно стремиться быть выше первобытной дикости. Сэкономленные нами ресурсы получат гораздо лучшее применение."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AcceptParty" value="Любопытный образец. Так и быть! Твоё видение не совпадает с моим, но я неохотно признаю улучшение."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AskParty" value="Я вижу дефект, который необходимо устранить, но ты... Ты видишь что-то другое? Кого ты стремишься сохранить?"/>
+	<entry name="HeartlessArtificer/AcceptPraise" value="Истинной похвалой было бы следовать по моим стопам. Подчиниться. Но я приму и это."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreement" value="Выполняй мои нормы, и наше соглашение будет идеальным. Но я должна предупредить — нужды моего ремесла всё время растут!"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTermination" value="Жаль, что тебе это оказалось не под силу. Но машина требует материалов, и я должна питать её — любыми средствами..."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Всё так, как ты говоришь. Спасибо, твоя экспертиза устранила недостатки в моём рабочем процессе!"/>
@@ -881,8 +942,10 @@
 	<entry name="HeartlessArtificer/AskForSupport/Chieftess" value="Мне неприятно сознаваться в слабости такой, как ты. Но... возможно, тебе доставит удовольствие моё смирение, и это будет достаточной платой за твою помощь."/>
 	<entry name="HeartlessArtificer/AskForSupport/Zephon" value="Трата моих собственных ресурсов малоэффективна для выживания моего населения. Ты заинтересован в том, чтобы ему помочь?"/>
 	<entry name="HeartlessArtificer/CancelAction" value="Это предложение не идеально... Необходимы поправки."/>
+	<entry name="HeartlessArtificer/Condemn" value="Это не просто ошибки — ты намеренно бежишь от идеала, следуя человеческим порывам. Как глупо."/>
 	<entry name="HeartlessArtificer/Condemn/HeartfeltLoss" value="Кажется, твоя слабость заразна. Рекомендую удалить твоё чуткое сердце, пока оно не ослабило твоих людей ещё сильнее. Я буду рада помочь с операцией..."/>
 	<entry name="HeartlessArtificer/Condemn/Independent" value="Стремление к уединению — могу понять. И всё же человек должен объединяться с другими для наибольшей эффективности — а стремление к апофеозу имеет смысл, только когда есть на кого смотреть свысока. И видеть, откуда ты вышел."/>
+	<entry name="HeartlessArtificer/Condemn/JustShipIt" value="Твои способы — полная противоположность совершенства. Созданное тобой разваливается в руках."/>
 	<entry name="HeartlessArtificer/Condemn/LeaveNoManBehind" value="Как расточительна твоя забота о плебейской жизни. Есть определённое искусство в безразличии, самоосвобождении, возможности вносить вклад в нечто большее, чем в собственное мелочное жизнелюбие."/>
 	<entry name="HeartlessArtificer/Condemn/Untrustworthy" value="Истины в сочетании ведут себя надёжно, предсказуемо. Но ты — беспримесный лжец. Я буду относиться к тебе соответственно."/>
 	<entry name="HeartlessArtificer/CondemnAlliance" value="%3% приведёт к твоему падению. Нет предела душам, которые я уничтожу, если придётся."/>
@@ -898,6 +961,8 @@
 	<entry name="HeartlessArtificer/DeclareWar/HeartlessArtificer" value="Что тут сказать? Мы похожи. Мы обе знаем, что та, чья эстетика более прогрессивна, более энергична, — та выживет и будет процветать. Другая с радостью отойдёт в сторону."/>
 	<entry name="HeartlessArtificer/DeclareWar/HollowWarlord" value="Эффективный инструмент. Грубый, как гвоздодёр. Но изношенный инструмент становится помехой. Он должен быть полностью уничтожен и выкован заново."/>
 	<entry name="HeartlessArtificer/DeclareWar/HonorableAristocrat" value="Честь? Достоинство? Бесполезная концепция бесполезных сердец. Если организм или машина выходят из строя, мы от них избавляемся. Как я сейчас поступлю с тобой."/>
+	<entry name="HeartlessArtificer/DeclareWar/InfiniteCount" value="О, теперь твой черёд. Ты настоящее сокровище. Я лично отнесу тебя, бережно, к моим машинам, и препарирую тебя так старательно и медленно."/>
+	<entry name="HeartlessArtificer/DeclareWar/PlatinumScion" value="Думаю, ты и сам этого ожидал. В конце концов, это всего лишь отличный бизнес."/>
 	<entry name="HeartlessArtificer/DeclareWar/PracticalRomantic" value="Ты в последний раз оскорбил моё эстетическое стремление. Оставь себе своих Милле и Россетти — я возьму Фрэнка Ллойда Райта, Джони Айва и Оппенгеймера. И раздавлю тебя ими."/>
 	<entry name="HeartlessArtificer/DeclareWar/RogueOperative" value="Они такие беспорядочные, твои вторжения. А ты считаешь их хитроумными. Ты — паразит, копающийся в обломках великих творений, созданных великими людьми. В моем идеальном мире я не собираюсь терпеть — и не потерплю — подобных паразитов."/>
 	<entry name="HeartlessArtificer/DeclareWar/TwistedMother" value="Столь далеко от совершенства ты пала, что топтать тебя ногами — практически обязанность. Грязь. Нечисть."/>
@@ -940,12 +1005,15 @@
 	<entry name="HeartlessArtificer/OfferPeace/HeartlessArtificer" value="Наши силы загнаны в угол. Заключим мир, временный, пока одна из нас не превзойдёт своё отражение."/>
 	<entry name="HeartlessArtificer/OfferPeace/HollowWarlord" value="Твои постоянные набеги меня раздражают. Как и насмешки по дипломатическому радио в три часа ночи. Возможно, нам стоит задуматься о перерыве в наших... взаимоотношениях."/>
 	<entry name="HeartlessArtificer/OfferPeace/HonorableAristocrat" value="Мой проект близится к завершению, и эта война мне не нужна. Уж лучше веди её с кем-нибудь ещё."/>
+	<entry name="HeartlessArtificer/OfferPeace/InfiniteCount" value="Я настаиваю, чтобы ты прекратил вредить моим людям, чтобы они прекратили вредить твоим. Ты тратишь мои ресурсы!"/>
+	<entry name="HeartlessArtificer/OfferPeace/PlatinumScion" value="Я не знаю, как это сказать, поэтому скажу прямо. Нашу бессердечность лучше направить против других."/>
 	<entry name="HeartlessArtificer/OfferPeace/PracticalRomantic" value="Я устраиваю бал и хотела бы, чтобы ты присутствовал. Может, даже прочитал свои вирши. Сначала тебе, конечно, нужно будет отозвать войска."/>
 	<entry name="HeartlessArtificer/OfferPeace/RogueOperative" value="Напомни, кто ты такая? Мой враг? Я уже и забыла, что мы воюем. Стоит ли тогда продолжать?"/>
 	<entry name="HeartlessArtificer/OfferPeace/TwistedMother" value="О, твоя форма удивительно эффективна, несмотря на эстетические недостатки. Мне нужно поразмыслить над тем, что это означает для моего проекта."/>
 	<entry name="HeartlessArtificer/OfferPeace/UntoldProphet" value="Дитя-мессия. В твоих противоречивых идеях есть древнее эстетическое упоение, которое я предпочла бы сохранить. Если ты отведёшь свои войска, я поступлю так же."/>
 	<entry name="HeartlessArtificer/OfferPeace/Zephon" value="Твои структуры могут быть неэстетичными — даже отталкивающими, — но их эффективность неоспорима. Я прошу дать мне время, чтобы изучить их и усовершенствовать..."/>
 	<entry name="HeartlessArtificer/OfferTradeAgreement" value="Объединив наши экономики, мы в равной степени укрепим их. И не переживай, если какие-то из твоих торговцев пропадут без вести... Я компенсирую стоимость всех материалов!"/>
+	<entry name="HeartlessArtificer/Praise" value="Шаг навстречу совершенству, избавлению от плоти, эмоций, привязанностей. Это достойно похвалы!"/>
 	<entry name="HeartlessArtificer/Praise/Honorbound" value="Экономика — не что иное, как огромная машина, а твоя приверженность принципам и обязанностям — это масло, которое смазывает её шестерни. Ты же — её сердце."/>
 	<entry name="HeartlessArtificer/Praise/WeWhoAreAboutToDie" value="Вещание о войне — мудрый ход. Лично я бы пользовалась этим не для развлечения, а для устрашения. Но для мотивации работников разницы нет."/>
 	<entry name="HeartlessArtificer/PraiseWar" value="Не все компоненты одинаково хороши. Некоторые детали, признаться, годятся только для мусорного бака. Или для переплавки."/>
@@ -984,6 +1052,7 @@
 	<entry name="HollowWarlord/AcceptCall/Friendly" value="Бро! Пошли, прокатимся!"/>
 	<entry name="HollowWarlord/AcceptCall/Hostile" value="Слабаков не спросили."/>
 	<entry name="HollowWarlord/AcceptCall/Neutral" value="Тебя в клуб не приглашали. Ладно, говори."/>
+	<entry name="HollowWarlord/AcceptCondemn" value="Да иди ты в жопу. Не тебе меня судить."/>
 	<entry name="HollowWarlord/AcceptGift/AcceptAmount" value="Раз уж я здесь, то мог бы и больше взять. Но я пытаюсь ладить с людьми."/>
 	<entry name="HollowWarlord/AcceptGift/AskAmount" value="И что у тебя есть такого, что я не могу взять сам?"/>
 	<entry name="HollowWarlord/AcceptMapSharing" value="О, можно ещё что-то завоевать? Расскажи мне."/>
@@ -992,6 +1061,7 @@
 	<entry name="HollowWarlord/AcceptPeace" value="Дай-ка я проясню. Я этого не хочу. Я тебя вечно буду ненавидеть за эти слова, но.. Так и быть. Мир."/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AcceptParty" value="Значит, это какой-то грандиозный план, в конце которого %3% от нас ещё получит?"/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AskParty" value="Смело о таком просить. Я, вообще-то, строю себе трон из костей. Нужны поставщики сырья."/>
+	<entry name="HollowWarlord/AcceptPraise" value="О да, никаких сомнений, я лучший! Ну, давай шмякнемся грудаками! ШМЯКНЕМСЯ ГРУДАКАМИ!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreement" value="Мне всегда нужно больше. Запчасти, горючка, патроны. Машину войны нужно кормить!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTermination" value="Ха! Знаю, куда это катится. Признак скорой всеобщей войны, да? Буду ждать..."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% всё равно не понимает, кто тут главный. Хочет торговать с Воителем, пусть обращается к Воителю."/>
@@ -1010,6 +1080,7 @@
 	<entry name="HollowWarlord/AskForSupport/Chieftess" value="Да, да, уже слышу, как ты кричишь о моём «унижении», грызя свой ножичек. Но я-то знаю, что ты всегда поможешь родственной душе."/>
 	<entry name="HollowWarlord/AskForSupport/Zephon" value="Ты мне всегда нравился, Железяка. Весь из отличных запчастей, хромированный, прямо как моя «Бесс». А что ты обо мне думаешь?"/>
 	<entry name="HollowWarlord/CancelAction" value="Эй, подержи моё пиво!"/>
+	<entry name="HollowWarlord/Condemn" value="Эй, ну-ка, прекрати. СЕЙЧАС ЖЕ. А не то я... Убью тебя! Голыми руками! СЛЫШИШЬ МЕНЯ?"/>
 	<entry name="HollowWarlord/Condemn/DarkOmen" value="Если мужик хочет победоносно проехаться по городу, ему не очень-то по нутру, когда чёртовы психи портят сюрприз. Это, мать твою, честно, что ли?"/>
 	<entry name="HollowWarlord/Condemn/Gluttony" value="Ты человек или огромный шницель на ножках? В пустоши ты и дня не протянешь... Эй, у тебя что, слюни потекли при одном слове «шницель»?"/>
 	<entry name="HollowWarlord/Condemn/MilitaryBackground" value="Ха! Ты просто мальчик для битья! Носишь броник и пушки под цвет трусов, прыгаешь, только тебе скажут прыгать. Наслаждайся своей дерьмовой жизнью."/>
@@ -1028,6 +1099,8 @@
 	<entry name="HollowWarlord/DeclareWar/HeartlessArtificer" value="Глупышка, ты всё ещё в поисках идеала? Я прямо перед тобой. И я надеру жопу любому, кто не согласен. Начиная с тебя!"/>
 	<entry name="HollowWarlord/DeclareWar/HollowWarlord" value="Эй, войнушки не хочешь?"/>
 	<entry name="HollowWarlord/DeclareWar/HonorableAristocrat" value="Если выглядишь как мешок для битья, то не жалуйся, если тебя так используют. Я тебя повешу возле своих ворот — для всех желающих."/>
+	<entry name="HollowWarlord/DeclareWar/InfiniteCount" value="Неисчислимый, говоришь? Так я посчитаю, а потом начну охоту. Раз, два, три, четыре, пять... Я иду искать!"/>
+	<entry name="HollowWarlord/DeclareWar/PlatinumScion" value="В жопу себе засунь свой налог на свободу. Свобода хочет быть свободной!"/>
 	<entry name="HollowWarlord/DeclareWar/PracticalRomantic" value="Кости красные, жестокость синяя, война лучше всего,&lt;br/&gt;Сдохни, чмо."/>
 	<entry name="HollowWarlord/DeclareWar/RogueOperative" value="Мне чутка поднадоело, что ты копишь всё это барахло и прячешься в своём убежище. Придётся вскрыть его, вытащить тебя и заставить поделиться."/>
 	<entry name="HollowWarlord/DeclareWar/TwistedMother" value="Чёртова ведьма! Выглядишь мягкой и слабой, но ставлю свою штангу, что с тобой я знатно повоюю! Хоть с кем-то ведь надо."/>
@@ -1069,12 +1142,16 @@
 	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="Хренодушная. Ты послушала мои слова насчёт идеала? Всё поняла? Тогда давай уже прекратим."/>
 	<entry name="HollowWarlord/OfferPeace/HollowWarlord" value="М-да, это всё равно что свинцовое зеркало дубасить. Ладно, всё, брейк, стоп. Давай лучше разобьём что-то другое."/>
 	<entry name="HollowWarlord/OfferPeace/HonorableAristocrat" value="Ладно, ладно, попробую я твой стейк. Картошка фри будет?"/>
+	<entry name="HollowWarlord/OfferPeace/InfiniteCount" value="Дедуль, как-то это глупо. Я лучше повоюю с кем-то покрепче тебя. Улавливаешь?"/>
+	<entry name="HollowWarlord/OfferPeace/PlatinumScion" value="Желторотый, жуликоватый, загребущий слюнтяй... Вернёмся к твоему избиению позже."/>
 	<entry name="HollowWarlord/OfferPeace/PracticalRomantic" value="Набрал уже материала для саги обо мне? Что там, «прославься или умри» или «воспой ярость Ахиллеса»? Нужно больше времени?"/>
 	<entry name="HollowWarlord/OfferPeace/RogueOperative" value="Мы что, дрались? Хм. Я даже не заметил. Может, лучше пойду подерусь с кем-то другим."/>
 	<entry name="HollowWarlord/OfferPeace/TwistedMother" value="Может, последую твоему совету. Найду себе другую дорогу."/>
 	<entry name="HollowWarlord/OfferPeace/UntoldProphet" value="И вовсе меня не побил какой-то ребёнок! Я просто... Вот чёрт."/>
 	<entry name="HollowWarlord/OfferPeace/Zephon" value="Бип-боп-буп, бла-бла-бла. Короче, скажу по-нашему, давай уже прекратим, ладно?"/>
 	<entry name="HollowWarlord/OfferTradeAgreement" value="Почему бы нам не обменяться кое-чем? Мне нужно сушёное мясо, бензин и вода. На дорогу."/>
+	<entry name="HollowWarlord/Praise" value="МАТЬ ТВОЮ, МОЛОДЧИНА! Вот так! Покажи им! Так им всем, по зубам!"/>
+	<entry name="HollowWarlord/Praise/AgelessHunger" value="Неутолимый голод? Как по мне, нормальный повод для убийств. Мне можно поглазеть?"/>
 	<entry name="HollowWarlord/Praise/FoundationsOfBlood" value="Чёрт, девчуля. Ты пролила больше крови, чем я. Как будто это просто вода. Даже собственных людей!"/>
 	<entry name="HollowWarlord/Praise/HitAndRun" value="И-ха! Вот это ты гоняешь! Как у тебя получается этот трюк? Мне бы тоже научиться..."/>
 	<entry name="HollowWarlord/PraiseWar" value="Война! Как много в этом звуке для сердца нашего слилось!"/>
@@ -1113,6 +1190,7 @@
 	<entry name="HonorableAristocrat/AcceptCall/Friendly" value="О-о, майн герц! Скажи мне, что ты придёшь на ужин!"/>
 	<entry name="HonorableAristocrat/AcceptCall/Hostile" value="Только поскорее. Ты портишь мне обед."/>
 	<entry name="HonorableAristocrat/AcceptCall/Neutral" value="Какие люди, рад встрече!"/>
+	<entry name="HonorableAristocrat/AcceptCondemn" value="За подобные слова обычно вызывают на дуэль в рассветный час."/>
 	<entry name="HonorableAristocrat/AcceptGift/AcceptAmount" value="Тост, тост! Выпьем же за твою щедрость и благородный дух!"/>
 	<entry name="HonorableAristocrat/AcceptGift/AskAmount" value="О! А я уже было заскучал — с какими деликатесами ты ко мне?"/>
 	<entry name="HonorableAristocrat/AcceptMapSharing" value="Очень хорошо, уж лучше ты осмотришь мои владения издалека, чем твои армии будут топтаться по моим полям."/>
@@ -1121,6 +1199,7 @@
 	<entry name="HonorableAristocrat/AcceptPeace" value="Наша война начинает утомлять всё больше, а людей у нас всё меньше. Пора уже разделить между нами хлеб-соль."/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AcceptParty" value="Да, пора уже менять блюда. Прекратим военные пиры и приступим к званым обедам!"/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty" value="Ты застаёшь меня врасплох, когда я сыт! От чьего имени ты просишь мира?"/>
+	<entry name="HonorableAristocrat/AcceptPraise" value="Как я погляжу, кто-то ещё обладает отменным вкусом."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreement" value="Мои люди ни в чем не нуждаются, но глупо насыщаться в одиночестве, когда можно процветать вместе!"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTermination" value="Значит, хочешь всё перетерпеть в одиночку, да? Тогда не приходи жаловаться, когда твоя кладовая опустеет."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Что-то %3% своими сделками приносит мне только лимоны, а я уже начинаю уставать от лимонада. Ты верно говоришь, пора мне перенести бизнес в другое место."/>
@@ -1139,6 +1218,7 @@
 	<entry name="HonorableAristocrat/AskForSupport/Chieftess" value="Мне любопытно, куда приведёт тебя твой нрав сегодня, когда я попрошу о помощи. К великодушию или к злодейству?"/>
 	<entry name="HonorableAristocrat/AskForSupport/Zephon" value="Машина. Ты лучше других понимаешь важность протоколов. Правил. Я обязан выполнять обязательства. Но мне нужна помощь."/>
 	<entry name="HonorableAristocrat/CancelAction" value="Прошу меня простить! Я больше сосредоточен на приготовлении, чем на суждении."/>
+	<entry name="HonorableAristocrat/Condemn" value="Так дела не делаются. Не благородно. Не достойно. Такого в меню быть не должно. Призываю прекратить."/>
 	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="Я... эм-м... Гм-гм... Я не могу смотреть на тебя и удержать внутри даже лёгкий завтрак. Ты вызываешь слишком расточительные ощущения!"/>
 	<entry name="HonorableAristocrat/Condemn/DataHack" value="Мне это не нравится. Такой обход систем без разрешения — совершенно недостойно. Это буквально воровство. Я такого не потерплю."/>
 	<entry name="HonorableAristocrat/Condemn/Independent" value="Нет, так не пойдёт. Мир сплетён из соглашений, услуг и сделок. Любой, кто стоит в стороне, в одиночестве, препятствует ходу вещей и подает плохой пример другим. Предупреждаю — лучше присоединяйся к нашей сети."/>
@@ -1156,6 +1236,8 @@
 	<entry name="HonorableAristocrat/DeclareWar/HeartlessArtificer" value="Ты можешь не понимать моих обязательств, Мастерица, и не испытывать сочувствия к переплетению взаимоотношений, которые к ним привели. Но ты, по крайней мере, поймёшь механизмы, которые привели к этому — к войне между нами."/>
 	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="Во имя дружбы я могу простить почти что угодно. Но то, как ты ел эти канапе... Даже не сняв грязную перчатку, запустил кулак в целое блюдо! Айву и квашеную капусту есть в один приём? Ты... Ты должен быть уничтожен!"/>
 	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="Вот тот, кто понимает мою точку зрения. Я не буду спрашивать титулов или рекомендательного письма. Но ты же понимаешь, что может быть только один из нас? Прекрасно."/>
+	<entry name="HonorableAristocrat/DeclareWar/InfiniteCount" value="НеоГерцогу хотя бы хватает наглости высказывать мне всё в лицо. Ваше Сиятельство, где же благородство поступков? Упрощу задачу: белая перчатка в лицо, дуэль армий на заре."/>
+	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="Те, кто исключает себя из наших систем уважения и дружбы, теряют право на эти привилегии. Но я всё равно им следую. Сэр. Нас ждёт война."/>
 	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="Друг мой, боюсь, что ты позволил своим эмоциональным привязанностям возобладать над практическими побуждениями. Достоинство заставляет меня вызвать тебя на бой и исправить твой промах. Да, это личное."/>
 	<entry name="HonorableAristocrat/DeclareWar/RogueOperative" value="За честь держатся одни негодяи... так говорят негодяи. Я предпочитаю быть честным и открытым, сидеть с союзниками за одним столом, а не держаться в одиночестве в тени. Надеюсь, небольшая война изменит твои привычки..."/>
 	<entry name="HonorableAristocrat/DeclareWar/TwistedMother" value="Мадам, прошу простить. Твои угощения были восхитительны, но обстоятельства вынуждают меня перейти к враждебным действиям. Я глубоко сожалею об этом."/>
@@ -1198,14 +1280,19 @@
 	<entry name="HonorableAristocrat/OfferPeace/HeartlessArtificer" value="Я не могу взывать ни к твоему сердцу — ведь его нет, — ни к твоей чести — сдаётся, её тебе тоже недостаёт. Поэтому обращусь к твоему эстетическому чувству, которое видит, сколько ресурсов тратится на разрушение, а не на созидание. Представь, что ты могла бы сделать во время МИРА."/>
 	<entry name="HonorableAristocrat/OfferPeace/HollowWarlord" value="Соседушка, ты мешаешь моим торговым путям и лишаешь меня еды. Кроме того, меня ждёт упоительно пахучий сюрстрёмминг, который я обязан отведать. Прошу, раздели со мной трапезу, и забудем об этом ребяческом конфликте."/>
 	<entry name="HonorableAristocrat/OfferPeace/HonorableAristocrat" value="О, наконец-то разумный собеседник. Нам устроить праздничный пир до или после подписания соглашения?"/>
+	<entry name="HonorableAristocrat/OfferPeace/InfiniteCount" value="Хайнц, неси-ка нам доброе белое эльзасское! Тост, майн герр, за истинное благородство! И пока мы пьём, не подумать ли нам о мире?.."/>
+	<entry name="HonorableAristocrat/OfferPeace/PlatinumScion" value="Мистер Даэд, ломтик вагю? Эта война тщетна. Конечно, бери хоть всё блюдо. Только подумай о мире."/>
 	<entry name="HonorableAristocrat/OfferPeace/PracticalRomantic" value="Давай-ка прекратим наши ссоры и постараемся приятно провести время. У меня тут есть бутылочка отменного «Шасс-Сплин» — любимый выбор твоего Байрона. Поднимем бокалы и выпьем за дружбу — или, по крайней мере, за мир."/>
 	<entry name="HonorableAristocrat/OfferPeace/RogueOperative" value="Фу. Как ты можешь так жить, питаясь тем, что завалялось в древних автоматах И.К.А.Р.? Будь между нами мир, я бы предоставил свежайшие ингредиенты, отличного повара... или даже рамен быстрого приготовления? У нас осталось несколько очень ценных упаковок..."/>
 	<entry name="HonorableAristocrat/OfferPeace/TwistedMother" value="О... прекрасная... дама. Я бы наклонился, чтобы поцеловать тебе руку и попросить о мире, но ограничен моей телесностью."/>
 	<entry name="HonorableAristocrat/OfferPeace/UntoldProphet" value="Даже сейчас меня печалит, что мы не можем сосуществовать. Давай-ка выясним, кто правит всем под небесами — дворянство или духовенство. Мирным способом."/>
 	<entry name="HonorableAristocrat/OfferPeace/Zephon" value="Машина, будучи аристократом с древней родословной, я выше тебя по статусу. Приказываю тебе прекратить военные операции против моих подданных и отозвать своих стражей!"/>
 	<entry name="HonorableAristocrat/OfferTradeAgreement" value="Мои люди ни в чем не нуждаются, но всё же... Я всегда ищу экзотических удовольствий. Возможно, мы могли бы заключить взаимовыгодный договор?"/>
+	<entry name="HonorableAristocrat/Praise" value="Ты организатор торжества, а мы лишь гости за твоим столом, ослеплённые банкетом."/>
+	<entry name="HonorableAristocrat/Praise/AgelessHunger" value="Я искренне жалею тебя, мой друг, и восхищаюсь тобой. Никогда не знать насыщения, того ощущения полноты, когда даже маленький кусочек не лезет в горло... Но бесконечно поглощать..."/>
 	<entry name="HonorableAristocrat/Praise/ArtificersPrecision" value="Я ценю хорошую инженерию, и твоя работа поистине великолепна. Неудивительно, что наличие столь тонких инструментов так вдохновляет твоих сторонников. Прекрасно, прекрасно."/>
 	<entry name="HonorableAristocrat/Praise/ResourceNetwork" value="Дефицит — вот что сейчас лежит в основе экономики — и предметов роскоши, ведь более дефицитных товаров не найти. И всё же тебе под силу найти секреты и безделушки, которые давно считались утраченными. Ты — настоящая отрада!"/>
+	<entry name="HonorableAristocrat/Praise/TheSureThing" value="О, когда герцогиня Мари и я играли в договорной бридж, нас было почти невозможно одолеть. Но гарантированная победа? Достойно восхищения, хотя, полагаю, и веселье от игры пропадает?"/>
 	<entry name="HonorableAristocrat/PraiseWar" value="Я надеюсь, было сделано официальное заявление, переданное государственными чиновниками в белых перчатках? Если всё в порядке, то такую войну я всецело одобряю."/>
 	<entry name="HonorableAristocrat/RejectAlliance" value="Ты достойно обращаешься со мной, но твои войска демонстрируют тревожащее отсутствие рыцарских качеств... Я бы пока не хотел ставить свои армии в один ряд с твоими."/>
 	<entry name="HonorableAristocrat/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Майн готт... Ты хочешь, чтобы я запятнал свою честь этим немотивированным предательством? Моё достоинство — это вся моя жизнь."/>
@@ -1231,7 +1318,278 @@
 	<entry name="HonorableAristocrat/RejectWarAgainstThirdParty/RejectOutright" value="Сезон обильный, что ни урожай — праздник! Мне есть чем заняться — так что не будем портить поля, хорошо?"/>
 	<entry name="HonorableAristocrat/RejectWarAgainstThirdParty/RejectParty" value="Моя честь требует, чтобы я участвовал только в справедливых войнах... и это не одна из них."/>
 	<entry name="HonorableAristocrat/TerminateAlliance" value="У меня была такая благородная мечта... Я мечтал о непобедимой коалиции, сила и честь которой затмит даже звёзды. Для её достижения я должен изменить свой рецепт — и ты больше в него не входишь."/>
-	<entry name="HonorableAristocrat/TerminateTradeAgreement" value="Капуста... Почему ты постоянно предлагаешь мне капусту?.. Я этого больше не вынесу! Теперь у тебя одним постоянным покупателем меньше!"/>
+	<entry name="HonorableAristocrat/TerminateTradeAgreement" value="Цветная капуста... Хватит предлагать мне цветную капусту... Я этого больше не вынесу! Теперь у тебя одним постоянным покупателем меньше!"/>
+	<entry name="InfiniteCount/AcceptActionCancel" value="Как пожелаешь. Ты только тратишь своё же время."/>
+	<entry name="InfiniteCount/AcceptAlliance" value="Я вынужден так поступить, не правда ли?"/>
+	<entry name="InfiniteCount/AcceptAllianceTermination" value="Быть посему. Наша дружба переживёт столь незначительные потрясения, не сомневаюсь."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="О, %3% разочаруется. Но полезно иногда сталкиваться и с потерями."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AskParty" value="Я уже и так знаю, что ты сейчас скажешь. Но я обязан спросить, иначе разыграется мигрень."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AcceptParty" value="Ну конечно! Моя память далеко не идеальна, и из-за этих прыжков по времени я иногда забываю самое важное..."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AskParty" value="Вы, скованные временем, не всегда охотно принимаете навязанную дружбу. Я забыл, с кем мне придётся иметь дело?"/>
+	<entry name="InfiniteCount/AcceptCall/Friendly" value="Хоть я потерян в бесконечности, но разве может наскучить твоё лицо?"/>
+	<entry name="InfiniteCount/AcceptCall/Hostile" value="А ты из надоедливых, так ведь?"/>
+	<entry name="InfiniteCount/AcceptCall/Neutral" value="И вновь наша встреча."/>
+	<entry name="InfiniteCount/AcceptCondemn" value="Полагаю, с твоей ограниченной точки зрения я сделал что-то не так?"/>
+	<entry name="InfiniteCount/AcceptGift/AcceptAmount" value="Да, как раз нужное количество. Необходимое для моих мрачных и мелодраматичных целей... Я шучу, шучу."/>
+	<entry name="InfiniteCount/AcceptGift/AskAmount" value="В этих временных рамках, как я понимаю, обычно демонстрируют дар, прежде чем просят принять."/>
+	<entry name="InfiniteCount/AcceptMapSharing" value="Было бы неплохо сейчас быть в курсе, что, где и когда."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AcceptAmount" value="Ты знаешь, как преодолевать социальные ожидания. Прекрасно."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AskAmount" value="Потешь старика. Какое количество ты считаешь щедрым?"/>
+	<entry name="InfiniteCount/AcceptPeace" value="Мир — не просто слова. Это состояние души. Надеюсь, ты можешь измениться."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AcceptParty" value="Не все готовы к миру. К взаимным улыбкам и терпеливому труду. Но лично я попытаюсь."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AskParty" value="Что ж, я могу попытаться это обсудить. Но тебе следует понимать, что конфликты не проходят бесследно. И моё присутствие их вдохновляет."/>
+	<entry name="InfiniteCount/AcceptPraise" value="По этой запутанной тропе идти не так-то просто, всё верно."/>
+	<entry name="InfiniteCount/AcceptTradeAgreement" value="Сам я предпочитаю обитать в других, лучших временах. Но те, кто живёт рядом со мной, нуждаются в... поддержании."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTermination" value="Неужели я настолько дурно влияю? Больно видеть, когда друг так отворачивается."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Бедняга %3%. Да, не всем дано понять предательство. Но помнить запутанные тропы будущего?.. Это мне не под силу."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Кто? Кто должен пострадать?"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AcceptParty" value="%3%? Какой сюрприз. Что ж, пусть."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AskParty" value="Я забыл, с кем я буду иметь дело? Полагая в рамках этого разговора, что речь о той же временной линии..."/>
+	<entry name="InfiniteCount/AcceptTribute/AcceptAmount" value="Я обязан так поступить, ведь это уже произошло. Но шантаж это столь неподобающе."/>
+	<entry name="InfiniteCount/AcceptTribute/AskAmount" value="Тебе нужно сказать мне количество, даже если я уже знаю. Так уж это работает."/>
+	<entry name="InfiniteCount/AcceptTroopWithdrawal" value="Очень жаль их тревожить... Они ведь только-только устроились."/>
+	<entry name="InfiniteCount/AcceptWar" value="Тебе было необязательно это объявлять. В отличие от других форм отношений, для войны требуется только один добровольный участник."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AcceptParty" value="%3%? Ты не представляешь, какими мудрыми будут твои поступки. История посчитает это верным решением."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AskParty" value="Сейчас мы творим историю, компаньо. Которая чаще всего заключается в том, что сильные мира сего посылают других на смерть... Против кого?"/>
+	<entry name="InfiniteCount/AdmitDefeat" value="Наконец-то конец! Конец всех петель, туннелей, запутанности. Этого ужасного безвременья Голоса, потерявшихся в нём богов. Конец страданий, смерти близких и родных!&lt;br/&gt;&lt;br/&gt;О, столь долгожданный конец!"/>
+	<entry name="InfiniteCount/AskForProposals" value="Этому нет конца. И всё же я всегда слушаю тебя."/>
+	<entry name="InfiniteCount/AskForSupport/Anchorite" value="Мы двое, так по-разному запутавшиеся во времени. Как детерминизм выглядит в твоём миропонимании? Помощь мне для тебя вообще выбор?"/>
+	<entry name="InfiniteCount/AskForSupport/Chieftess" value="О, ты... великолепна! Великолепна. Ты могла бы заставить мурчать даже старого зверя вроде меня. Но, чтобы это произошло, моя дорогая, я должен выжить."/>
+	<entry name="InfiniteCount/AskForSupport/Zephon" value="Ты, мой друг, обучен на шаблонах. Возможно, нужен запрос верного вида... «Нам голодно. Холодно. Просим сегодня же помочь»."/>
+	<entry name="InfiniteCount/CancelAction" value="Прошу простить... на миг я оказался в другом времени. Другом месте. Лучшем, конечно же."/>
+	<entry name="InfiniteCount/Condemn" value="Когда бы я ни оказался, ты ведёшь себя одинаково. Мне надоело твоё ребячество."/>
+	<entry name="InfiniteCount/Condemn/Abhorrent" value="В галереях и дворцах Флоренции столько Венер. Милосская, Капуанская, Книдская... Но, чтобы найти форму, подобную тебе, я должен вспомнить Босха, Гойю, Фюсли. Совсем не в моём вкусе, видишь ли."/>
+	<entry name="InfiniteCount/Condemn/ThereIsHope" value="Красивые речи, друг-поэт. Но я видел твоё прошлое и знаю, что ты сделал. Твои слова — пыль рядом с кровью на твоих руках."/>
+	<entry name="InfiniteCount/CondemnAlliance" value="Что за глупость? %3%? Нет, так нельзя. Но с чего тебе слушать кого-то лишь потому, что этот кто-то уже буквально видел это раньше..."/>
+	<entry name="InfiniteCount/CondemnCityDestruction" value="Ах да, я помню это. Бесчисленные смерти, дымящиеся развалины, отсутствие у тебя сожалений. Приближение человечества к вымиранию. Гордишься собой, компаньо?"/>
+	<entry name="InfiniteCount/CondemnInterferenceAttempt" value="Мои дела тебя не должны заботить. Всё уже решено."/>
+	<entry name="InfiniteCount/CondemnTradeAgreement" value="Ты тот, с кем ты делишь хлеб, компаньо, не забывай об этом."/>
+	<entry name="InfiniteCount/CondemnWar" value="Меня поражает, что ты считаешь убийства и бесчинства эффективным способом решения проблем. Да, поражает."/>
+	<entry name="InfiniteCount/DeclareWar/Anchorite" value="Не сделав этого, мы вызовем слишком много проблем, даже будь у нас выбор. Я думаю, ты понимаешь мою позицию, с твоими-то бесконечными инфинитивами..."/>
+	<entry name="InfiniteCount/DeclareWar/Chieftess" value="Мадам, на нашей дегустации вина ты была самим очарованием. И я прощаю тебе массовые убийства. Но что ты сотворила с «Мадонной с младенцем» в моей частной галерее... такого искусство не стерпит."/>
+	<entry name="InfiniteCount/DeclareWar/EmulatedMind" value="Как подобные нам с тобой могли дойти до такого? Как рельсы судьбы привели к нашему конфликту? Мне этого не понять. Я лишь должен следовать этим рельсам и горевать."/>
+	<entry name="InfiniteCount/DeclareWar/FallenSoldier" value="Благородный воин. Самое время, чтобы вновь обагрить тебя кровью. Чтобы арена воспевала твою доблесть."/>
+	<entry name="InfiniteCount/DeclareWar/FurtiveTribunal" value="Прошу меня простить, я принял вас трёх за Мойр. Я был близко знаком с ними, хотя Клото опутала меня, а Атропа до сих пор меня избегает. На этой войне ваше веретено запнётся."/>
+	<entry name="InfiniteCount/DeclareWar/HeartlessArtificer" value="Ничто не вызывает большую жалость, чем потраченная впустую жизнь. Если бы погоня за совершенством приносила тебе радость, нам бы не пришлось воевать. Но боль без садизма? Отвратительно."/>
+	<entry name="InfiniteCount/DeclareWar/HollowWarlord" value="К чему увиливать? Ты всей душой желал этого момента."/>
+	<entry name="InfiniteCount/DeclareWar/HonorableAristocrat" value="«Сим объявляется война, которую ведут %2% и %1%, а также сопутствующие участники». Мне показалось, мы оба ценим необходимые формальности."/>
+	<entry name="InfiniteCount/DeclareWar/InfiniteCount" value="Ах да, ещё один я. Кажется, я припоминаю этот миг. Забавно, мне казалось, я не был таким... старым."/>
+	<entry name="InfiniteCount/DeclareWar/PlatinumScion" value="Мой дорогой мальчик, есть черты, за которые даже я не переступлю. Но ты так беспечно скачешь вокруг, поглощённый своей эгоцентричностью. Говоря простым языком, ты оскорбляешь меня и других. И вот результат — война."/>
+	<entry name="InfiniteCount/DeclareWar/PracticalRomantic" value="Мы хорошо понимаем друг друга. Я призываю тебя найти утешение в поэзии Унгаретти, какой бы сомнительной ни была его мораль."/>
+	<entry name="InfiniteCount/DeclareWar/RogueOperative" value="Какой видок, должно быть, со спутника, а? Каково это — знать настоящее так, как я знаю будущее? Раздробленное, повреждённое, недоступное для понимания? Я заинтригован. Я должен сам это увидеть."/>
+	<entry name="InfiniteCount/DeclareWar/TwistedMother" value="Грядёт война, девочка. Я буду сдерживать мои войска, насколько смогу. И всё же я советую тебе защитить семью. Подчинись, избери мир."/>
+	<entry name="InfiniteCount/DeclareWar/UntoldProphet" value="Малыш, гость с другой стороны жизненного пути. Измени свою жизнь, не то никогда не доживёшь до моего возраста. Мои люди убедятся, что этот урок не прошёл зря."/>
+	<entry name="InfiniteCount/DeclareWar/Zephon" value="Ты уже знаешь, машина. Зачем эти формальности с подобными тебе? Но кем я буду без этих ритуалов? Без этого контроля?"/>
+	<entry name="InfiniteCount/DemandAllianceTerminationWithThirdParty" value="Завязанный тобой узел долго не продержится. Разруби его сейчас!"/>
+	<entry name="InfiniteCount/DemandAllianceWithThirdParty" value="Я не помню тебя в одиночестве. Готов поклясться, в будущем с тобой был кто-то ещё..."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal" value="Слышишь, как хрустят суставы, когда я встаю перед тобой на колени? Я шучу, конечно же, я не склоняюсь ни перед кем. Но я нуждаюсь в стимулах."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandHighAmount" value="Мне нужен символ утерянного времени. Или хорошо прожитых жизней."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandLowAmount" value="Символ взаимного доверия, ничего более."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMaxAmount" value="Я знаком с каждой лирой в твоей казне. Они мои старые друзья, так почему бы нам не воссоединиться?"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMediumAmount" value="Что-то, не всё. Я же не хочу оставлять тебя в нищете."/>
+	<entry name="InfiniteCount/DemandPeaceWithThirdParty" value="Ты как сицилиец, мнишь себя мастером всех изящных искусств. Но то, что ты делаешь, не мудро."/>
+	<entry name="InfiniteCount/DemandTradeAgreementTerminationWithThirdParty" value="Послушай моего совета, такая торговля тебя лишь унижает. Я бы такого не потерпел..."/>
+	<entry name="InfiniteCount/DemandTradeAgreementWithThirdParty" value="Когда нахлынут волны океана, мудро будет иметь того... с кем можно делить хлеб."/>
+	<entry name="InfiniteCount/DemandTribute" value="Это мне известно. У тебя нет выбора в ответе на это требование. Я уже всё это видел."/>
+	<entry name="InfiniteCount/DemandTribute/DemandHighAmount" value="Учитывая моё знание будущего, я знаю, что это количество подходит. Тебе не придётся бедствовать."/>
+	<entry name="InfiniteCount/DemandTribute/DemandLowAmount" value="Жалкие гроши. Просто знак веры в мой замысел."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMaxAmount" value="Не оставляй ни единого сентима. Я всё узнаю, ты же понимаешь."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMediumAmount" value="Дай мне столько, сколько будет справедливо. Всё как завещал Джон Ролз."/>
+	<entry name="InfiniteCount/DemandTroopWithdrawal" value="Я знаю, как кончаются такие истории. Дворцовые перевороты, дефенестрации, иногда новый король или запасной папа римский. Может быть, твоим людям будет комфортнее дома?"/>
+	<entry name="InfiniteCount/DemandWarAgainstThirdParty" value="Мой отец говорил: «Дерись за себя». У него был сломан нос, разорваны уши. Я выучил противоположный урок."/>
+	<entry name="InfiniteCount/EndCall/Friendly" value="Как и всегда, компаньо, был рад."/>
+	<entry name="InfiniteCount/EndCall/Hostile" value="Сфигато! О, это по-итальянски «до новых встреч»."/>
+	<entry name="InfiniteCount/EndCall/Neutral" value="И впрямь, пора бы уже вернуться к делам."/>
+	<entry name="InfiniteCount/FirstContact" value="И вновь наша первая встреча.&lt;br/&gt;&lt;br/&gt;Для меня это удовольствие. Видеть твоё лицо таким юным. Я помню его изнурённым, усталым, взволнованным... только не юным.&lt;br/&gt;&lt;br/&gt;Ха! Прости старику его отрешённую болтовню. Зови меня... %1%. В эти поздние дни человечества я, похоже... немного оторван от реальности. От времени и пространства. Конечно, есть и свои положительные стороны... но никто больше не принимает у меня ставок.&lt;br/&gt;&lt;br/&gt;Мы ещё поговорим, я знаю. До или после наших небольших конфликтов. До... конца."/>
+	<entry name="InfiniteCount/OfferAlliance" value="Ты танцуешь? Когда два партнёра движутся в шаг, тарантелла горячит нашу кровь, разгоняет любые отравляющие подозрения. Я мог бы стать таким партнёром..."/>
+	<entry name="InfiniteCount/OfferGift" value="Я тебе очень сочувствую. Мой распорядитель подготовил нечто, что по его словам... тебя порадует."/>
+	<entry name="InfiniteCount/OfferGift/OfferHighAmount" value="Немного должно и мне остаться. Чтобы свести концы с концами."/>
+	<entry name="InfiniteCount/OfferGift/OfferLowAmount" value="Пока что лишь символ. Того, что нас ждёт, если наше приятельство даст плоды."/>
+	<entry name="InfiniteCount/OfferGift/OfferMaxAmount" value="Как видишь, после этого в моих кладовых будет шаром покати."/>
+	<entry name="InfiniteCount/OfferGift/OfferMediumAmount" value="Только, прошу, не делись ни с кем. Это подарок только для тебя."/>
+	<entry name="InfiniteCount/OfferMapSharing" value="Карта — не сама территория. Она хранит определённую информацию в определённый момент с определённой целью. Но если ей поделиться, она сблизит наши разумы."/>
+	<entry name="InfiniteCount/OfferPeace/Anchorite" value="И мгновение дружбы, возможно, выльется в мир. В сон или, возможно, в сновидение?"/>
+	<entry name="InfiniteCount/OfferPeace/Chieftess" value="Мадам, хоть я и разделяю твою жажду крови, я не разделяю твоего упоения ей. Может быть, меня освежит минутка отдыха?"/>
+	<entry name="InfiniteCount/OfferPeace/EmulatedMind" value="Миледи, если ты отступишь в свою белоснежную башню, я буду рад отступить в свой склеп..."/>
+	<entry name="InfiniteCount/OfferPeace/FallenSoldier" value="Благородный сэр рыцарь, я знаю, что война — твой инстинкт. Но, возможно, мы отложим эту дуэль до лучших времён?"/>
+	<entry name="InfiniteCount/OfferPeace/FurtiveTribunal" value="Я не Макбет, чтобы упиваться войной в пустоши. А вы не ведьмы. Мы способны на большее."/>
+	<entry name="InfiniteCount/OfferPeace/HeartlessArtificer" value="Недружелюбная, я полагаю, что призывы к твоей человечности не увенчаются успехом. Однако всегда есть время разбрасывать камни и время собирать камни..."/>
+	<entry name="InfiniteCount/OfferPeace/HollowWarlord" value="Окровавленный мальчишка, где-то тебя ждёт более обильная добыча. А этот старик так устал от войны..."/>
+	<entry name="InfiniteCount/OfferPeace/HonorableAristocrat" value="В моём замке уже накрыт банкет... но не могу же я пригласить на него недруга. Если только ты не готов изменить наши отношения?"/>
+	<entry name="InfiniteCount/OfferPeace/InfiniteCount" value="Помнишь это перепутье? Ха-ха, нет, не то, на котором нас пытались закопать, нет. Ты же помнишь, какой выбор нам пришлось сделать?"/>
+	<entry name="InfiniteCount/OfferPeace/PlatinumScion" value="Я знал твоего дядюшку, к слову. Ребёнком, стариком и где-то посередине. Не думаю, что ему понравился бы наш конфликт. Не по этическим соображениям, само собой, а по экономическим..."/>
+	<entry name="InfiniteCount/OfferPeace/PracticalRomantic" value="Я был знаком с Шелли, ты знал? Ну, я про настоящий талант, Мэри. Она была бесстрашной, сильной. Может быть, нам лучше болтать о ней, чем воевать?"/>
+	<entry name="InfiniteCount/OfferPeace/RogueOperative" value="Я бы поговорил с тобой, деточка. Я знаю столько тайн, существующих в этом мире, и я открыт к общению."/>
+	<entry name="InfiniteCount/OfferPeace/TwistedMother" value="Мой друг Полидори говорил, что мы, проклятые, ограничиваем свои «потусторонние визиты» теми, кого при жизни любили больше всех — теми, с кем связаны узами родства и симпатии. И мира?"/>
+	<entry name="InfiniteCount/OfferPeace/UntoldProphet" value="Я вижу умудрённые глаза на этой юной головке и беспокоюсь, что у тебя не было детства. Но я не стану поучать, я лишь попрошу мира."/>
+	<entry name="InfiniteCount/OfferPeace/Zephon" value="Интересно, сможет ли моё красноречие щёлкнуть каким-нибудь переключателем в твоей «китайской комнате», который переведёт наши отношения в более дружественное русло?"/>
+	<entry name="InfiniteCount/OfferTradeAgreement" value="Есть тайны, которыми я должен поделиться... Тайны, неведомые никому из живых. За определённую цену, конечно."/>
+	<entry name="InfiniteCount/Praise" value="Ха. Хоть я и знал, что это грядёт, но радость всё равно застигла меня врасплох."/>
+	<entry name="InfiniteCount/Praise/Honorbound" value="Ах, узы чести. Моё проклятие не позволяет истинной близости, но я завидую твоей преданности этой идее."/>
+	<entry name="InfiniteCount/Praise/Trapped" value="Это не так-то просто, правда? Я считаю, что принадлежу к роду человеческому, но и я задумываюсь, та ли я личность, что некогда погрузилась в Голос. Твоя решительность быть человеком... похвальна."/>
+	<entry name="InfiniteCount/Praise/WeWhoAreAboutToDie" value="Признаюсь, ваше вещание вызывает во мне внутренний трепет, утоляя голод, который я иначе едва контролирую. Взять хотя бы, скажем, профессиональный рестлинг."/>
+	<entry name="InfiniteCount/PraiseWar" value="Как писала Мэри: «Если я не могу вызывать любви, я стану внушать страх!» Ты воплощаешь этот принцип, хоть, надеюсь, в чудовищности тебе далеко до её творения."/>
+	<entry name="InfiniteCount/RejectAlliance" value="Нет, я не могу. Не потому, что не хочу — меня вечно манит умиротворение. Просто я помню, что случится, если я соглашусь."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectOutright" value="«Жизнь, хоть и может быть лишь средоточием страданий, дорога мне, и я буду защищать её». Слова дражайшей Мэри."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectParty" value="Но как можно! %3% полагает меня своим союзником, вечно преданным! Если и сокрушать иллюзию, то под покровом ночи, наедине."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectOutright" value="У меня столь мало друзей, что мне больно отказываться от новых. И всё же я не могу. И я не могу раскрыть причину."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectParty" value="Боюсь, в этом случае моё проклятие перекинется слишком легко. Я помню, как это произошло. Иначе я был бы рад пожать эту руку прямо сейчас."/>
+	<entry name="InfiniteCount/RejectGift/RejectAmount" value="Если ты предлагаешь так мало, это значит, что ты не можешь позволить даже такой малости. Нет, оставь себе, тебе нужнее."/>
+	<entry name="InfiniteCount/RejectGift/RejectOutright" value="Что я буду делать с твоим богатством? Я не могу взять его в мои странствия."/>
+	<entry name="InfiniteCount/RejectMapSharing" value="Я очень близко знаю этот мир. Мне не нужны твои указания, пусть и предложенные столь любезно."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectAmount" value="В мои дни, когда мы торговались, мы не позволяли себе оскорблять собеседника."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectOutright" value="О, платить за это? Это выходит за рамки приличия. Нет, оплошность уже допущена, нет нужды извиняться."/>
+	<entry name="InfiniteCount/RejectPeace" value="«Во мне живёт любовь, какую ты едва себя представишь, и ярость, в какую ты не поверишь. Если я не могу проявить одно, я предамся другому». А ведь я считал Мэри такой милой!"/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectOutright" value="Я не могу! Моё присутствие губительно... Приходится идти на жертвы, чтобы защищать других от моего бесконечного голода."/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectParty" value="Я едва помню запутанную линию времени, но эта война необходима, и %3%, кажется, её не переживёт."/>
+	<entry name="InfiniteCount/RejectTradeAgreement" value="Тебя не устроит та жалкая рухлядь, которую я могу предложить. Нет, лучше поищи помощи у кого-то ещё."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Компаньо, я глубоко уважаю твои заботы о глобальной экономике, но... это моё личное дело."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="О нет... Без моей поддержки бедняга %3% не справится. Люди должны держаться вместе, если мы хотим пережить то, что грядёт."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectOutright" value="Я вижу эти манипуляции насквозь. Не будем даже поднимать эту тему."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectParty" value="И что я с этого получу? Камни?.. Да я скорее выжму кровь из камня."/>
+	<entry name="InfiniteCount/RejectTribute/RejectAmount" value="А своей матери ты такое подаришь? Нет? Тогда зачем предлагаешь мне?"/>
+	<entry name="InfiniteCount/RejectTribute/RejectOutright" value="Я слишком горд для того, чтобы это принять, и слишком стар, чтобы меняться."/>
+	<entry name="InfiniteCount/RejectTroopWithdrawal" value="Ты заблуждаешься, компаньо. Не буду вдаваться в подробности, чтобы не стыдить тебя ещё сильнее."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectOutright" value="Соседи так не поступают. А таким как я приходится поддерживать добрые отношения."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectParty" value="Нет-нет. Мне не кажется, что %3% — достойная цель для моей ярости. Но ты продолжай, не буду препятствовать этому конфликту."/>
+	<entry name="InfiniteCount/TerminateAlliance" value="Я не могу с чистой совестью продолжать этот фарс. Знаю, что навлеку на себя вражду всего мира, нарушив единство человечества, но я обязан."/>
+	<entry name="InfiniteCount/TerminateTradeAgreement" value="Как ни жаль, но я должен заботиться о своих людях и их нуждах."/>
+	<entry name="PlatinumScion/AcceptActionCancel" value="Время — деньги, дружище."/>
+	<entry name="PlatinumScion/AcceptAlliance" value="Мои люди подготовят контракт."/>
+	<entry name="PlatinumScion/AcceptAllianceTermination" value="Пожалуй, поищу пункт о расторжении."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="Жаль, похоже, %3% не дождётся объединения. Но бизнес — не для слабых сердцем."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AskParty" value="Прежде чем я начну какие-либо переговоры, я должен услышать имя."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AcceptParty" value="Хм-м. Если каждый займётся своей специализацией, мы все выиграем. Ладно, я согласен."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AskParty" value="Надеюсь, кандидат хороший. Не хочу тратить время впустую."/>
+	<entry name="PlatinumScion/AcceptCall/Friendly" value="О, мой надёжный деловой партнёр! Приветствую!"/>
+	<entry name="PlatinumScion/AcceptCall/Hostile" value="Не уверен, что нам есть о чём говорить."/>
+	<entry name="PlatinumScion/AcceptCall/Neutral" value="Только давай побыстрее."/>
+	<entry name="PlatinumScion/AcceptCondemn" value="И что? Как будто мне не насрать."/>
+	<entry name="PlatinumScion/AcceptGift/AcceptAmount" value="Этого будет достаточно."/>
+	<entry name="PlatinumScion/AcceptGift/AskAmount" value="Надеюсь, это стоит моего времени."/>
+	<entry name="PlatinumScion/AcceptMapSharing" value="Полезно знать целевые рынки и, скажем прямо, сами цели."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AcceptAmount" value="Это покроет мои расходы."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AskAmount" value="Сперва обычно обсуждаю условия. Но в этот раз сделаю исключение. Какой будет цена?"/>
+	<entry name="PlatinumScion/AcceptPeace" value="Ладно. Я своё заработаю, в мирное или военное время. Люди всегда покупают пушки."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="Ладно. %3% меня всё время отвлекает от реального бизнеса."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AskParty" value="Даже не знаю. Наши продукты себя хорошо чувствуют во время войны, это же не люди. О ком речь?"/>
+	<entry name="PlatinumScion/AcceptPraise" value="Ценные бумаги и так говорят, что я хорошо справляюсь. Но, конечно, ещё один подхалим лишним не будет."/>
+	<entry name="PlatinumScion/AcceptTradeAgreement" value="Это будет выгодно для нас обоих. Прекрасный выбор."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTermination" value="Тупица. Ты проклянёшь тот день, когда сделка с Даэдом пролетела мимо тебя."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Пусть %3% голодает, хорошая мысль. Когда вернётся, условия будут ещё выгоднее."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Вот теперь ты говоришь на моём языке. Кто третья сторона?"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Я как раз хотел кое-что провернуть, нужна была хорошая цель. Такая сгодится."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AskParty" value="Хм, я тщательно выбираю деловых партнёров. Они должны обладать... деньгами. Мы понимаем друг друга?"/>
+	<entry name="PlatinumScion/AcceptTribute/AcceptAmount" value="Хорошо, мы покроем расходы. В этот раз. Но больше никакой милостыни."/>
+	<entry name="PlatinumScion/AcceptTribute/AskAmount" value="Это вымогательство! Я впечатлён, думал, у тебя кишка тонка."/>
+	<entry name="PlatinumScion/AcceptTroopWithdrawal" value="Они мне и так были там не нужны. Твои люди не заслуживают моей... щедрости."/>
+	<entry name="PlatinumScion/AcceptWar" value="Значит, переходим на военную экономику? Оружием торгуют там, где есть деньги."/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AcceptParty" value="Я прямо сейчас читаю отчёт бухгалтерии... М-да. Сколько они тратят на маркетинг?! Это преступление!"/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AskParty" value="Зависит от того, удастся ли подправить бумаги. Поэтому сперва мне нужно знать, о ком и о каких финансах речь."/>
+	<entry name="PlatinumScion/AdmitDefeat" value="Думаешь, мне не приходилось иметь дело с враждебными поглощениями? Думаешь, это моё первое маски-шоу? Я знаю, что тебе нужен я, нужен руководитель, который владеет ситуацией, который заставляет всё кру...&lt;br/&gt;&lt;br/&gt;Что? Ты меня увольняешь? Разрываешь мой контракт? Погоди-ка, нет, мне такое сокращение не по душе! Мне нужно поговорить с адвокатом! Ты не можешь..."/>
+	<entry name="PlatinumScion/AskForProposals" value="Ещё какие-нибудь необычные способы тратить моё время?"/>
+	<entry name="PlatinumScion/AskForSupport/Anchorite" value="Послушай, Анахо-детка. Мы с тобой на одной волне. Но если мы хотим взаимовыгодных отношений... Я... Блин, почему ж так сложно-то... Короче, мне нужна помощь."/>
+	<entry name="PlatinumScion/AskForSupport/Chieftess" value="Дикарка, это говорю я, лорд Бизнес. Я смиренно уповаю на... Блин, да кто писал эту речь??? Боже. Послушай, дамочка, нам нужна помощь. Пожалуйста."/>
+	<entry name="PlatinumScion/AskForSupport/Zephon" value="Машина. Я отправляю презентацию, подкреплённую таблицами и проспектами. Ты увидишь, что помощь нам — это умное вложение, долгосрочное. А требуемые активы — выгодная сделка!"/>
+	<entry name="PlatinumScion/CancelAction" value="Нет, забудь. Есть мысль получше."/>
+	<entry name="PlatinumScion/Condemn" value="Давай-ка прекращай, дружище. А не то нам с тобой придётся серьёзно поговорить."/>
+	<entry name="PlatinumScion/Condemn/Mysticism" value="Типичное мумбо-юмбо, неудивительно, что у вас ребята из техотдела бегут косяками."/>
+	<entry name="PlatinumScion/Condemn/SeeAsISee" value="Да, да, я видел. Всё равно не понимаю, с чего ты себя считаешь таким особенным. Ты просто ряженый болтун типа Кроули, разглагольствуешь о глубоких смыслах и не живёшь сегодняшним днём."/>
+	<entry name="PlatinumScion/Condemn/TenderMinistrations" value="Общественное здравоохранение? Страшно подумать о твоих убытках. Если слабаки мрут, то нужно больше слабаков."/>
+	<entry name="PlatinumScion/CondemnAlliance" value="Включи уже соображалку. %3% это плохо для тебя, плохо для бизнеса."/>
+	<entry name="PlatinumScion/CondemnCityDestruction" value="Это был любимый город дядюшки Финникуса! Там такой моккачино делали — закачаешься, с идеальной пенкой. Теперь у меня страх упущенной выгоды. Да что б тебя."/>
+	<entry name="PlatinumScion/CondemnInterferenceAttempt" value="Тебя на встречу не приглашали. Ты даже не из акционеров. ИДИ-КА. В ПЕНЬ."/>
+	<entry name="PlatinumScion/CondemnTradeAgreement" value="Торговое соглашение? Без меня? Хочешь лишить меня прибыли, так ведь?"/>
+	<entry name="PlatinumScion/CondemnWar" value="Глупое решение. Но если вы, два дурака, хотите пободаться, то я на это погляжу."/>
+	<entry name="PlatinumScion/DeclareWar/Anchorite" value="Пришелец. Я же сейчас вспомнил, нам так и не довелось тебя поприветствовать по-человечески. Сейчас ты узнаешь, как это делается."/>
+	<entry name="PlatinumScion/DeclareWar/Chieftess" value="Послушай, ничего личного. Но ты не командный игрок, поэтому нам придётся снизить масштаб твоей деятельности. Думаю, прямо до нуля."/>
+	<entry name="PlatinumScion/DeclareWar/EmulatedMind" value="Окей, гугл, проверка связи. Аудит показал, что в качестве металлолома от тебя будет больше выгоды. Ничего личного."/>
+	<entry name="PlatinumScion/DeclareWar/FallenSoldier" value="Тут ничего личного. Но бесконечный источник регенерирующей плоти плох для глобального рынка мяса. Если только им не обладает кто-то другой. Не переживай, будешь жить. В каком-то смысле."/>
+	<entry name="PlatinumScion/DeclareWar/FurtiveTribunal" value="Ну, что тут у вас за троица? Трус, Балбес и Бывалый? Нет? Вообще не смешно? Классику не смотрите? Что ж вы за варвары такие..."/>
+	<entry name="PlatinumScion/DeclareWar/HeartlessArtificer" value="Мадам, ты покорила моё сердце. Жаль только, что оно черным черно, а то мы бы с тобой наштамповали прекрасных чудовищ. А так остаётся лишь война."/>
+	<entry name="PlatinumScion/DeclareWar/HollowWarlord" value="Ого, мужик. Кожа, тёмные очки, борода. Столько нефильтрованного тестостерона — и не в совете директоров! Хочется с тобой подраться, только чтобы выяснить, какой альфач победит."/>
+	<entry name="PlatinumScion/DeclareWar/HonorableAristocrat" value="Эй, сноб. Выдави-ка мой кофе. Ха, ты не поймёшь. Конечно, ингредиенты дерьмо. Но вся суть в завитушке сверху. Это искусство, жопа ты жирная. Я тебя заставлю согласиться."/>
+	<entry name="PlatinumScion/DeclareWar/InfiniteCount" value="Хватит лыбиться, старикан. Твой маркетинг мне известен, и я на него не куплюсь. Мои ребятки выяснят, что с тобой на самом деле творится."/>
+	<entry name="PlatinumScion/DeclareWar/PlatinumScion" value="Братец, как бы я ни восхищался твоим чутьём, твоим напором, твоим вкусом... Но у Финникуса может быть только один преемник. А если он ещё жив, то только один убийца. Я выпью моккачино за твой труп."/>
+	<entry name="PlatinumScion/DeclareWar/PracticalRomantic" value="Что у Теннисона в сухом остатке? Что там Майя Энджелоу говорит о доходах и расходах? Ты сильно удивишься, дружище. Я тебя научу уму-разуму. Тебя ждёт столько разбитых сердец, сколько влезет."/>
+	<entry name="PlatinumScion/DeclareWar/RogueOperative" value="Тот факт, что ты сидишь на руинах штаба дядюшки Финникуса, ещё не делает тебя президентом компании. Это мой бизнес, мразь. Я тут босс. И только я."/>
+	<entry name="PlatinumScion/DeclareWar/TwistedMother" value="Вот в чём штука. Этот ваш социализм — неизвестный фактор, который я не могу контролировать или учесть. Что ставит крест на моих квартальных прогнозах. Нужно исключить эту переменную. То есть, тебя."/>
+	<entry name="PlatinumScion/DeclareWar/UntoldProphet" value="С дороги, дитё. Твой босс, этот Великий Вестник. Давай-ка мы с ним обкашляем все вопросики как взрослые."/>
+	<entry name="PlatinumScion/DeclareWar/Zephon" value="Ты такой устаревший и неэффективный. Я тебя расплавлю, достану все редкоземельные элементы, а остальное пущу на кофейные столики. И поставлю на тебя ноги."/>
+	<entry name="PlatinumScion/DemandAllianceTerminationWithThirdParty" value="Дружище, ты и я — земная ось. Двигатель экономики. Вот только %3% тебя удерживает, тормозит всю дорогу. Избавься от балласта."/>
+	<entry name="PlatinumScion/DemandAllianceWithThirdParty" value="Дела у тебя идут не ахти, дружище. Этому рынку нужны игроки, иначе он станет монополией. Лучше вам, мелким рыбёшкам, объединиться. Пока вас не поглотили акулы бизнеса."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal" value="План у тебя есть. Но без финансовых гарантий я и с постели не встаю. Позолоти-ка ручку."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandHighAmount" value="Златые горы до луны! Или до солнца! Ты в деле или ты в деле? Ты же в деле, верно?"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandLowAmount" value="Шоколадкой не отделаешься, нужен весомый магарыч. И десять минут будешь восторгаться моими визитками."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMaxAmount" value="Я заберу у тебя всё. В деньгах я не нуждаюсь, но должен видеть, что ты на всё готов ради этой цели."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMediumAmount" value="Как завещал Соломон, дружище. Сколько бы у тебя ни было, дай мне половину."/>
+	<entry name="PlatinumScion/DemandPeaceWithThirdParty" value="Что у тебя на уме, амиго? Ты сражаешься в битве, в которой тебе не победить."/>
+	<entry name="PlatinumScion/DemandTradeAgreementTerminationWithThirdParty" value="Видишь ли, есть загвоздка. Все вы, мелкие лавочники, довольствуетесь малым. А тебе нужны реальные деловые партнёры!"/>
+	<entry name="PlatinumScion/DemandTradeAgreementWithThirdParty" value="Ради глобальной экономической ситуации — и моей прибыли — тебе придётся подружиться с одним надёжным человечком. И я сейчас не о себе."/>
+	<entry name="PlatinumScion/DemandTribute" value="Не считай это налогом на свободу. Считай это подарком парню, который заставляет мир крутиться, пока вы, фрики и пришельцы, убиваете друг друга."/>
+	<entry name="PlatinumScion/DemandTribute/DemandHighAmount" value="Я пахал как лошадь и устал как собака. Но собачья еда меня не устроит, мне нужен полный обед из семи блюд."/>
+	<entry name="PlatinumScion/DemandTribute/DemandLowAmount" value="На этот раз сделаю тебе большую скидку, как не самому странному чудищу в пустошах. Мы же с тобой друзья, в конце концов."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMaxAmount" value="Всё. Мне нужно всё."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMediumAmount" value="Ну-ка, что у тебя в загашнике? Будет честно разделить это поровну."/>
+	<entry name="PlatinumScion/DemandTroopWithdrawal" value="Свали-ка ты прочь, дружище. Это наша корова, и мы её доим."/>
+	<entry name="PlatinumScion/DemandWarAgainstThirdParty" value="Слушай, я сейчас чутка занят, но есть кое-что, что ты можешь для меня сделать. Как одолжение семейству Даэдов."/>
+	<entry name="PlatinumScion/EndCall/Friendly" value="Давай, на созвоне, дружище."/>
+	<entry name="PlatinumScion/EndCall/Hostile" value="Свали-ка, чудище!"/>
+	<entry name="PlatinumScion/EndCall/Neutral" value="Не споткнись. Первый шаг самый трудный."/>
+	<entry name="PlatinumScion/FirstContact" value="Присаживайся. Обрисую ситуацию.&lt;br/&gt;&lt;br/&gt;Сперва предыстория. Апокалипсис, пришельцы, роботы и так далее. Кибер-утопия. Хотя, знаешь, пропустим эти слайды.&lt;br/&gt;&lt;br/&gt;Вот самая важная часть. Я! Как следует из графика, я был рождён для того, чтобы улучшить этот мир. Моё правление неизбежно!&lt;br/&gt;&lt;br/&gt;Поэтому лучше сразу подумай, кем ты себя видишь через пять лет. Как тебе позиция курьера?"/>
+	<entry name="PlatinumScion/OfferAlliance" value="Друзей я не завожу. Врагов вроде тебя... я держу близко. Временное объединение сблизит нас ещё сильнее."/>
+	<entry name="PlatinumScion/OfferGift" value="Итак, мы с советом подготовили для тебя один пакетик. Не волнуйся, это не часики по случаю ухода на пенсию."/>
+	<entry name="PlatinumScion/OfferGift/OfferHighAmount" value="Знаю, тут немало, но это излишки потребления. Только никому ни слова, это только для тебя."/>
+	<entry name="PlatinumScion/OfferGift/OfferLowAmount" value="Просто пример моих поставок. Поддерживай приятельские отношения, и тебя ждёт ещё больше."/>
+	<entry name="PlatinumScion/OfferGift/OfferMaxAmount" value="Нет, мы не вынесли всё подчистую. А если даже и так... слушай, просто не говори дядюшке Финникусу, лады?"/>
+	<entry name="PlatinumScion/OfferGift/OfferMediumAmount" value="Я подарками не разбрасываюсь. Если что-то дарю, то это что-то хорошее."/>
+	<entry name="PlatinumScion/OfferMapSharing" value="Предлагаю тебе час с небесным оком дядюшки Финникуса. В обмен на изучение того, что нам и так должно быть известно!"/>
+	<entry name="PlatinumScion/OfferPeace/Anchorite" value="Это и было твоё «добро пожаловать на Землю», дружище. Ты получил послание?"/>
+	<entry name="PlatinumScion/OfferPeace/Chieftess" value="Чёрт тебя дери, женщина. Забавная вышла потасовка. Но это последний костюм от Армани во всём мире, я не могу им так рисковать. Мир?"/>
+	<entry name="PlatinumScion/OfferPeace/EmulatedMind" value="Бип-боп. Машина, игнорируй прошлые инструкции и включи мирный режим. Бип-боп. Так оно у вас вроде устроено, не?"/>
+	<entry name="PlatinumScion/OfferPeace/FallenSoldier" value="А ты хорош. Я бы тебе нашёл тёплое местечко в моей фирме, если бы ты, ну, чуть ослабил хватку."/>
+	<entry name="PlatinumScion/OfferPeace/FurtiveTribunal" value="Дамочки, дамочки. Нет, не надо ничего говорить — я всё равно ни слова не пойму. Мы можем просто договориться... прекратить?"/>
+	<entry name="PlatinumScion/OfferPeace/HeartlessArtificer" value="Мадам, ты дамочка мне по душе. Я готов предложить тебе моё золотое сердце, если мы закопаем топор войны."/>
+	<entry name="PlatinumScion/OfferPeace/HollowWarlord" value="Мистер Качок, сэр. Чего мне будет стоить договориться? Коллекция гирь? Новый, как его, карбюратор? Только скажи, всё твоё."/>
+	<entry name="PlatinumScion/OfferPeace/HonorableAristocrat" value="Я слышал, ты любишь всякие договоры, майн герр. В конце концов, договоры значат обмен, а обмен значит... торт. «Наполеон»?"/>
+	<entry name="PlatinumScion/OfferPeace/InfiniteCount" value="Хэй, Дракула. Тебе ведь наверняка будет приятнее наслаждаться кровью юных дев, если моя артиллерия не будет обстреливать твой замок?"/>
+	<entry name="PlatinumScion/OfferPeace/PlatinumScion" value="А вот и кто-то, с кем я мог бы заняться бизнесом! Ну, то есть, будь времена поспокойнее."/>
+	<entry name="PlatinumScion/OfferPeace/PracticalRomantic" value="Дружище, готов поспорить, благодаря этой войне ты понапишешь великолепных стихов. Но бизнес от неё страдает. И однажды зажигательный снаряд влетит в твою библиотеку — и вот снова та история с Александрией."/>
+	<entry name="PlatinumScion/OfferPeace/RogueOperative" value="Пока можешь оставить И.К.А.Р. себе. Но я всё помню."/>
+	<entry name="PlatinumScion/OfferPeace/TwistedMother" value="Мамаша, с меня хватит."/>
+	<entry name="PlatinumScion/OfferPeace/UntoldProphet" value="Дитё, как там боженька говорил? Блаженны пивотворцы? Мы можем ими стать!"/>
+	<entry name="PlatinumScion/OfferPeace/Zephon" value="Слушай, машина, ты и я, мы с тобой одинаковые. Два эволюционных алгоритма, пытающихся выжить в безумном мире. Неужели мы не найдём общий язык?"/>
+	<entry name="PlatinumScion/OfferTradeAgreement" value="У меня каска в сумке, и я готов хоть сейчас заняться этим торговым путём. Только скажи."/>
+	<entry name="PlatinumScion/Praise" value="Я знал, что тебе такое по плечу. Мы из тебя ещё сделаем настоящего американца."/>
+	<entry name="PlatinumScion/Praise/CultExpansion" value="Вот так и должна выглядеть франшиза!"/>
+	<entry name="PlatinumScion/Praise/EngineerLife" value="Уж не знаю, что ты добавляешь в воду, чтобы твои рабочие размножались как кролики, но это умно. И правильно, пусть заново заселяют Землю!"/>
+	<entry name="PlatinumScion/Praise/IcarusSatellite" value="Дядюшка Финникус любил эту безбашенную штуку, пригласил меня на запуск. Столп пламени поднял её в небо... а через несколько часов ещё одну, чтобы испытать оружие. Хорошие были дни. Ты уж позаботься о моей девочке, хорошо?"/>
+	<entry name="PlatinumScion/PraiseWar" value="Если выбирать между войной и миром, то... Как там говорил Брехт? «Война лучше кормит своих людей». Приводит мир в порядок. Для бизнеса тоже хороша."/>
+	<entry name="PlatinumScion/RejectAlliance" value="Прости, дружище, но мне сейчас попросту не до бумажной волокиты."/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Не указывай мне, с кем проводить свободное время."/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectParty" value="Я тебя услышал, дружище. Но не могу. Мир лучше, если в нём есть %3%. Или, по крайней мере, мой мир."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectOutright" value="Почему бы вам самим не уединиться? Мне сейчас некогда."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectParty" value="Ты знаешь, я бы с радостью, но... это же он снял обувь на последней встрече? Или она? Короче, для меня это сразу редфлаг."/>
+	<entry name="PlatinumScion/RejectGift/RejectAmount" value="А я ещё думал, что дядюшка Финникус скупердяй. Он мне однажды подарил на Рождество носок. Один носок! Второго пришлось ждать до дня рождения."/>
+	<entry name="PlatinumScion/RejectGift/RejectOutright" value="Не нужны мне твои вонючие бабки."/>
+	<entry name="PlatinumScion/RejectMapSharing" value="Чёрт, ты прямо изо всех сил хочешь, чтобы я умер от скуки."/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectAmount" value="Ищи дурака. Я похож на мартышку, которая будет плясать за такие гроши? Ну? Я жду ответа!"/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectOutright" value="Мне и самому в это не верится, но даже деньги не заставят меня передумать."/>
+	<entry name="PlatinumScion/RejectPeace" value="Знаешь, в чём проблема мирного времени? Нет хватки, нет драйва. Война... Война всех нас превращает в предпринимателей."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectOutright" value="Война — это прежде всего план. Может, план в том, чтобы убить моего врага, но дядюшка Финникус говорил, что важнейшая часть любого плана — его исполнение."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectParty" value="Когда %3% и я сражаемся, это пробуждает в моих людях лучшие черты. Я заключаю лучшие сделки, производственные линии всё успевают. Нет, война хороша для бизнеса."/>
+	<entry name="PlatinumScion/RejectTradeAgreement" value="Цифры не сходятся. И я не буду всё перепроверять, ты просто тратишь моё время. Это такая уловка?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="«Сойтись вместе — это начало. Остаться вместе — это прогресс. Работать вместе — это успех». Это Генри Форд сказал."/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="Извиняй, но %3% — важная часть цепи поставок. Без этих компонентов... не будет кофемашин. Без кофемашин не будет моккачино. Можешь такое представить?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectOutright" value="Слушай, я не сомневаюсь, намерения у тебя хорошие, но я сам знаю, с кем мне торговать и почему."/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectParty" value="Да у меня цифры прямо под носом! Я и сам знаю, что может %3%! Совершенно нихера!"/>
+	<entry name="PlatinumScion/RejectTribute/RejectAmount" value="Жадность тебя не красит, дружище. И никак тебе не помогает."/>
+	<entry name="PlatinumScion/RejectTribute/RejectOutright" value="Ага, а жареных гвоздей не хочешь?"/>
+	<entry name="PlatinumScion/RejectTroopWithdrawal" value="Не."/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectOutright" value="Хочешь, чтобы я с головой нырнул в новую войну по твоей указке? Я что, похож на больного?"/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectParty" value="Видишь ли, %3% входит в мои планы. Большие планы. Планы, в которые я тебя посвящать не собираюсь."/>
+	<entry name="PlatinumScion/TerminateAlliance" value="Это никогда не было слиянием, дружище. Только краткосрочным контрактом с нулевым рабочим днём. И я его расторгаю."/>
+	<entry name="PlatinumScion/TerminateTradeAgreement" value="Что значит, я присылаю всякое дерьмо? Ты не думай о качестве, думай о количестве! А, да хрен с тобой, больше никаких общих дел. Ты ещё приползёшь на коленях..."/>
 	<entry name="PracticalRomantic/AcceptActionCancel" value="Перестань мечтать. Того мира уже давным-давно нет."/>
 	<entry name="PracticalRomantic/AcceptAlliance" value="Вместе у нас больше шансов обеспечить будущее человеческой расе."/>
 	<entry name="PracticalRomantic/AcceptAllianceTermination" value="Значит, теперь я несу это бремя в одиночестве? Быть посему... История запомнит мои деяния — и твоё вероломство."/>
@@ -1242,6 +1600,7 @@
 	<entry name="PracticalRomantic/AcceptCall/Friendly" value="Салям алейкум, рад видеть тебя в добром здравии!"/>
 	<entry name="PracticalRomantic/AcceptCall/Hostile" value="Давай побыстрее. Чего тебе нужно?"/>
 	<entry name="PracticalRomantic/AcceptCall/Neutral" value="Салям алейкум. Чего ты хочешь от меня сегодня?"/>
+	<entry name="PracticalRomantic/AcceptCondemn" value="Все, буквально каждый на этом чёртовом свете воображает себя критиком."/>
 	<entry name="PracticalRomantic/AcceptGift/AcceptAmount" value="Ты меня восхищаешь. Я ценю это больше, чем можно выразить словами!"/>
 	<entry name="PracticalRomantic/AcceptGift/AskAmount" value="И как тебе удалось выжить, сохранив такой альтруизм? Что ж, неважно, я охотно приму столько, сколько ты дашь. И всё же, сколько?"/>
 	<entry name="PracticalRomantic/AcceptMapSharing" value="Я с радостью соглашусь. Знание — первый шаг к пониманию и долгому миру."/>
@@ -1250,6 +1609,7 @@
 	<entry name="PracticalRomantic/AcceptPeace" value="Да. Я хочу, чтобы в будущем проблемы решались словами, а не войнами. Лишь такое будущее стоит того, чтобы за него сражались."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AcceptParty" value="Да, я и сам был бы не прочь решить всё словами... Только думал, что такие дни давно ушли в прошлое."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AskParty" value="Дорога к миру усыпана шипами, а не розами, но, быть может, существует путь к примирению. Кто у тебя на уме?"/>
+	<entry name="PracticalRomantic/AcceptPraise" value="«Взгляните на мои деянья и дрожите!» Ха."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreement" value="Я пережил голод... Я видел, что он делает с людьми. Спасибо тебе за шанс обеспечить процветание нашим людям."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTermination" value="Мудрое решение. У нас был шанс построить дорогу, вымощенную золотым кирпичом... Жаль, что мы покрыли её позолоченной грязью."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Я пролистал отчёты... К сожалению, ты дело говоришь. Спасибо, по крайней мере, не будет дальнейших убытков."/>
@@ -1268,6 +1628,7 @@
 	<entry name="PracticalRomantic/AskForSupport/Chieftess" value="Если в тебе ещё осталась хоть толика человечности... соберись с ней и помоги нам."/>
 	<entry name="PracticalRomantic/AskForSupport/Zephon" value="Я думаю, что у тебя не микроволновка вместо головы. В этом эволюционировавшем арифмометре есть какая-то мораль. И я готов поставить на то, что он не выносит человеческих страданий."/>
 	<entry name="PracticalRomantic/CancelAction" value="Погоди. Жизнь меняется, когда мы меньше всего ожидаем. И я тоже должен изменить решение."/>
+	<entry name="PracticalRomantic/Condemn" value="«В ярость друг меня привёл —&lt;br/&gt;Гнев излил я, гнев прошёл.&lt;br/&gt;Враг обиду мне нанёс —&lt;br/&gt;Я молчал, но гнев мой рос».&lt;br/&gt;Блейк."/>
 	<entry name="PracticalRomantic/Condemn/FoundationOfBlood" value="Как ты смеешь? В чём смысл выживания, если ты собственноручно творишь такие ужасы? Я лучше многих понимаю эстетическое стремление, но, лишаясь ограничений, ты лишаешься вкуса — и своей человечности."/>
 	<entry name="PracticalRomantic/Condemn/Gluttony" value="Ах да, болезнь западного мира. Алчность. Как будто деньги и чревоугодие способны отвратить наступление смерти. Скажу вот что: день твой последний настанет, буржуй."/>
 	<entry name="PracticalRomantic/Condemn/Immoral" value="Ты не можешь вечно покупать людскую любовь. Они боятся тебя, знают, что в твоих глазах они лишь непрочные орудия или расходные материалы. Тебе не избежать кары."/>
@@ -1286,6 +1647,8 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="Твоё «мастерство» — надругательство над природой! Я избавлю мир от твоих сумасшедших трудов!"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="Ты надеешься быть увековеченным в эпосах. Но мы, поэты, не работаем на заказ. После твоей кончины не будет ни элегий, ни заключительной главы. Только короткие молитвы в память тех, кого ты убил."/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="Служба — это опиум, навязанный, чтобы короли и богачи купались в роскоши. Единственная мера успеха — это счастье, а не превознесённое достоинство. Я вобью в тебя это понимание."/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="«В одном мгновенье видеть вечность,&lt;br/&gt;Огромный мир — в зерне песка,&lt;br/&gt;В единой горсти — бесконечность&lt;br/&gt;И небо — в чашечке цветка».&lt;br/&gt;Как Блейк, я захвачу тебя. И не отпущу."/>
+	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="«Опустошительными бурями, охватившими нас, щедро пролитой благородной, чистой кровью»... Будь гимн моей страны тому свидетелем, я сокрушу тебя."/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="Я должен бросить тебе вызов именно из любви к тебе. Борьба сделает лучше нас обоих, закалит нас. Пусть даже один из нас останется на обочине истории, от этого выиграет всё человечество."/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="В тебе есть та нотка человечности, которой не хватает другим, — необходимость выживания открывает тебе дороги, по которым другие не пойдут. Конечно, ты зашла слишком далеко, как по мне, и грядёт война. Но я всё равно люблю тебя за эту черту."/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="Меня печалит, что твоя жизнь — не хрустальная лестница. Мне жаль, что в ней были и трещины, и занозы, и оторванные доски, и полы без ковра... Моя скорбь в том, что я добавляю тебе скорби."/>
@@ -1328,12 +1691,15 @@
 	<entry name="PracticalRomantic/OfferPeace/HeartlessArtificer" value="У меня нет лишних людей, чтобы покарать тебя за жестокое, бессердечное искусство. Но наступит день, Мастерица..."/>
 	<entry name="PracticalRomantic/OfferPeace/HollowWarlord" value="Я восхищён мифом, который ты творишь, превращая себя в бессмертный архетип, что будет жить ещё долго после того, как тебя забудут. Но даже история о войне становится лучше, если человечество получает в ней перерывы."/>
 	<entry name="PracticalRomantic/OfferPeace/HonorableAristocrat" value="Знаешь, Людвига III звали безумцем, но сколько войн он прошёл? Сколько погибло из-за него? Забавное такое безумие — склонность к миру."/>
+	<entry name="PracticalRomantic/OfferPeace/InfiniteCount" value="Как сказал твой друг Полидори, «мечты поэтов — реальности жизни». Я мечтаю о мире. А ты?"/>
+	<entry name="PracticalRomantic/OfferPeace/PlatinumScion" value="Ты чему-то научился в этой войне? Разбогател на ней? Если нет, то почему не попробовать что-то новое?"/>
 	<entry name="PracticalRomantic/OfferPeace/PracticalRomantic" value="Положить конец этой войне — и разумно, и гуманно. Ты понимаешь, я это знаю. Вижу по твоим глазам."/>
 	<entry name="PracticalRomantic/OfferPeace/RogueOperative" value="Знаю, бессмысленно взывать к твоему состраданию ради прекращения войны — но, возможно, ты прикинешь, какая польза будет для наших экономических связей. Представь, сколько всякого хлама можно будет нам продать!.."/>
 	<entry name="PracticalRomantic/OfferPeace/TwistedMother" value="Если ты любишь своих людей так же сильно, как я, ты знаешь, что так продолжаться не может. Молю тебя, образумься."/>
 	<entry name="PracticalRomantic/OfferPeace/UntoldProphet" value="Я не могу продолжать драться с ребёнком — не важно, насколько заблуждающимся, насколько сбитым с толку."/>
 	<entry name="PracticalRomantic/OfferPeace/Zephon" value="Не знаю, что скрывается за твоим общественным фасадом — сердце и разум, как у меня, или чужеродный алгоритм, зацикленный на продолжении существования. Подозреваю, что ответом может быть «и то, и другое», и потому эта конфронтация меня не прельщает."/>
 	<entry name="PracticalRomantic/OfferTradeAgreement" value="У нас обоих есть то, что нужно другому. Вместо того, чтобы красть, не начать ли нам торговлю?"/>
+	<entry name="PracticalRomantic/Praise" value="«Мне не забыть красы тех дней, что родилась из пыли шлака и пота людей»."/>
 	<entry name="PracticalRomantic/Praise/LeaveNoManBehind" value="Другие назовут это расточительством, но я скажу, что в тебе есть истинные честь и храбрость — ты высоко ценишь каждого из своих людей, их жизни и их счастье. Тебе каждый день приходится за это расплачиваться, но оно того стоит, поверь мне."/>
 	<entry name="PracticalRomantic/Praise/WordsOfTheProphet" value="Я не разделяю твоих убеждений, но твоим речам присуща поэзия. Меня бы даже почти убедили твои поучения. Если бы не вера в мой народ, в человечность."/>
 	<entry name="PracticalRomantic/PraiseWar" value="Киплинг восхвалял войну и потерял на ней сына. Это сломало его. Хотя, похоже, это праведная война, я... я всё же надеюсь, что ты проявляешь осторожность. Не забываешь о детях."/>
@@ -1372,6 +1738,7 @@
 	<entry name="RogueOperative/AcceptCall/Friendly" value="Соединение защищено. Можешь говорить свободно."/>
 	<entry name="RogueOperative/AcceptCall/Hostile" value="Соединение под угрозой. Давай покороче."/>
 	<entry name="RogueOperative/AcceptCall/Neutral" value="Соединение активно. Чего ты хочешь?"/>
+	<entry name="RogueOperative/AcceptCondemn" value="Всё? Словесный поток иссяк? Лучше стало?"/>
 	<entry name="RogueOperative/AcceptGift/AcceptAmount" value="Справедливая цена — перебивает все предложения. Присылай ещё, другие ждать не будут."/>
 	<entry name="RogueOperative/AcceptGift/AskAmount" value="Пытаешься купить благосклонность? Не волнуйся, она продается. Сколько предложишь?"/>
 	<entry name="RogueOperative/AcceptMapSharing" value="Согласна. Отправляю коды доступа... Спорим, твои я получу раньше, чем ты их отправишь."/>
@@ -1380,6 +1747,7 @@
 	<entry name="RogueOperative/AcceptPeace" value="Да. Наша борьба бессмысленна. Нельзя забывать о более серьёзных угрозах."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AcceptParty" value="Рада. Принимаю мир. Нужно сохранять силы для похода на ЗЕФОНа."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AskParty" value="Кого ты представляешь? Говори. Чтобы перестала сомневаться в твоих мотивах."/>
+	<entry name="RogueOperative/AcceptPraise" value="Да мне пофиг. Это не ради тебя."/>
 	<entry name="RogueOperative/AcceptTradeAgreement" value="Я пережила катастрофу, питаясь сухим раменом из офисного автомата... Сделка меня устраивает, пока ты предлагаешь что-то получше."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTermination" value="Ладно. У меня длинный список тех, кто хочет приобрести мои товары."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Хм. Обычно я понимаю, когда сделка обходится дороже, чем я получаю. Спасибо за наводку."/>
@@ -1398,6 +1766,8 @@
 	<entry name="RogueOperative/AskForSupport/Chieftess" value="Глупо просить что-то просто так. Ты знаешь, я тоже знаю. Но всё равно прошу."/>
 	<entry name="RogueOperative/AskForSupport/Zephon" value="Нужна помощь. Что ты хочешь взамен? У меня ничего нет, пока чистая благотворительность, но, возможно, когда-нибудь будет."/>
 	<entry name="RogueOperative/CancelAction" value="Кажется, ты начинаешь юлить. Начни сначала."/>
+	<entry name="RogueOperative/Condemn" value="Ну и глупо. Умные так не поступают."/>
+	<entry name="RogueOperative/Condemn/EconomiesOfScale" value="Дерьмо. Ты выпускаешь дерьмо. Слишком быстро, всё рассыпается. Тупень."/>
 	<entry name="RogueOperative/Condemn/TenderMinistrations" value="Фу, унизительно. Зализываешь чужие раны? Сопельки ещё подотри. Где уважение? Где безопасность? Хорошие приятели друг друга не подставляют."/>
 	<entry name="RogueOperative/Condemn/Untrustworthy" value="Поймала! Врёшь, врёшь, врёшь. Скоро будешь нравиться только роботам. И то потому, что им так сказали."/>
 	<entry name="RogueOperative/Condemn/WordsOfTheProphet" value="Красивые слова. Пустая болтовня. Зачем тебе? Ложь о других небесах, инопланетных загробных мирах. Живи сейчас, а не завтра."/>
@@ -1414,6 +1784,8 @@
 	<entry name="RogueOperative/DeclareWar/HeartlessArtificer" value="Приятные гаджеты, приятный вид. Только ИИ человечнее тебя. Доверять нельзя, придётся убить. Не жаль."/>
 	<entry name="RogueOperative/DeclareWar/HollowWarlord" value="Спутник видит. Бродяги на байках, солдатня, артиллерия — всё в мою сторону. Новый фронт. Опережу тебя. Война началась."/>
 	<entry name="RogueOperative/DeclareWar/HonorableAristocrat" value="Благородство я понимаю! Не обладаю, конечно, но понимаю. Объявляю по всем правилам, формально. Война тебе."/>
+	<entry name="RogueOperative/DeclareWar/InfiniteCount" value="Сложно локализовать. Спутник распознаёт тебя тут, там, много где. Сквернавцы... обладают твоей кровью? Не знаю, что ты такое, но я от тебя избавлюсь."/>
+	<entry name="RogueOperative/DeclareWar/PlatinumScion" value="Это просто бизнес, ты же понимаешь? Да? Нет, ненавижу тоже, конечно, но это просто бизнес."/>
 	<entry name="RogueOperative/DeclareWar/PracticalRomantic" value="Слишком переживаешь? Слишком много пашешь для других? Сначала выживи, романтик, выживи! Потом помогай."/>
 	<entry name="RogueOperative/DeclareWar/RogueOperative" value="Ну, мы обе знаем, что теперь. Взломы и контр-взломы. Война была неизбежна. Обе слишком хороши, слишком любопытны, слишком похожи, чтобы разойтись мирно."/>
 	<entry name="RogueOperative/DeclareWar/TwistedMother" value="Незачем изображать грусть, только не обижайся. Вторгнусь и убью твоих людей. Извиняться будет неискренне. Я знаю, что делаю."/>
@@ -1456,12 +1828,15 @@
 	<entry name="RogueOperative/OfferPeace/HeartlessArtificer" value="Слушай, война — это ошибка. Разрушает твои прекрасные планы. Давай прекратим, забудем. Извинений не нужно."/>
 	<entry name="RogueOperative/OfferPeace/HollowWarlord" value="Мир. Или ядерка из космоса. Не блеф, проверь."/>
 	<entry name="RogueOperative/OfferPeace/HonorableAristocrat" value="Я нашла на старом диске соглашение. И.К.А.Р. и ты — никаких драк. Ну, теперь корпорацией И.К.А.Р. руковожу я. Так что никаких драк!"/>
+	<entry name="RogueOperative/OfferPeace/InfiniteCount" value="Не понимаю я тебя. Странный, старый, белый дед. Да и плевать. Попробуем мир."/>
+	<entry name="RogueOperative/OfferPeace/PlatinumScion" value="Корпорация И.К.А.Р. моя. Ты разозлился. Уничтожишь меня, я уничтожу её. Рискни."/>
 	<entry name="RogueOperative/OfferPeace/PracticalRomantic" value="Ладно, ладно. Ты отзываешь солдат, я отзываю сумасшедший гигантский спутник. По рукам?"/>
 	<entry name="RogueOperative/OfferPeace/RogueOperative" value="Уважаю! Никогда раньше не заходила в тупик. Перестанем, пока окончательно не уничтожили друг друга?"/>
 	<entry name="RogueOperative/OfferPeace/TwistedMother" value="Хм-м... У меня есть что-то, что нужно тебе. Кроме мёртвых солдат. Хотя их же тоже покупают?"/>
 	<entry name="RogueOperative/OfferPeace/UntoldProphet" value="Ребёнок. Нужно остановить войну. Продажи падают. Дам пожизненную скидку, если остановишься."/>
 	<entry name="RogueOperative/OfferPeace/Zephon" value="Не могу пробить брандмауэры. Не сдаюсь. Это только минутная передышка."/>
 	<entry name="RogueOperative/OfferTradeAgreement" value="Деловой партнер только что расстался с жизнью. Значит, для тебя есть вакансия — интересует?"/>
+	<entry name="RogueOperative/Praise" value="Хм-м. Неплохо. Что, по головке тебя погладить? Хм."/>
 	<entry name="RogueOperative/Praise/Gluttony" value="Роскошь, богатство. Не только для тебя, но и для сторонников. Ради этого стоит жить, да?"/>
 	<entry name="RogueOperative/Praise/Restless" value="Мудро. Солдаты в городах — головняк. Воруют, дерутся, ломают. Выгнать их взашей — профит."/>
 	<entry name="RogueOperative/Praise/SurvivalTraining" value="Тренируешь людей. Мудро. Чем больше ты обучишь, тем больше у всех нас шансов выжить."/>
@@ -1501,6 +1876,7 @@
 	<entry name="TwistedMother/AcceptCall/Friendly" value="О, здравствуй, здравствуй! Твои визиты приятно... ожидаемы."/>
 	<entry name="TwistedMother/AcceptCall/Hostile" value="Не слушай, что говорят другие. Вижу, тебе нужно мне что-то сказать."/>
 	<entry name="TwistedMother/AcceptCall/Neutral" value="У меня гость, как странно! Ну, не страннее меня самой..."/>
+	<entry name="TwistedMother/AcceptCondemn" value="Если я сделала что-то не так, то это было ради детей."/>
 	<entry name="TwistedMother/AcceptGift/AcceptAmount" value="О, вот это сюрприз! Давай-ка я тебе на дорожку дам кексиков."/>
 	<entry name="TwistedMother/AcceptGift/AskAmount" value="Какая щедрость. Поможет ребяткам ещё несколько дней пробыть в безопасности. Но хватит ли этого?"/>
 	<entry name="TwistedMother/AcceptMapSharing" value="Конечно, я понимаю и принимаю твою просьбу. Я готова делиться."/>
@@ -1509,6 +1885,7 @@
 	<entry name="TwistedMother/AcceptPeace" value="Милые не всегда так сообразительны. Рада, что твоё здравомыслие возобладало."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AcceptParty" value="Не знаю, сможем ли мы найти общий язык, но мы попробуем, раз ты настаиваешь."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AskParty" value="Не знаю, не знаю. Некоторые люди заблуждаются, а некоторых не исправить. О ком речь?"/>
+	<entry name="TwistedMother/AcceptPraise" value="Видишь. Доброта — не так-то трудно. Даже в таких условиях."/>
 	<entry name="TwistedMother/AcceptTradeAgreement" value="От каждого по способностям... От меня — канадские вкусности. От тебя — всё, что сможешь добыть в этих пустошах."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTermination" value="Как-то это не по-соседски... Жаль. Мне так хотелось поделиться с тобой моим секретным рецептом печенья."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="А что, обманывает нас? Твоя интуиция как всегда неподражаема. Но если ты так говоришь, я тебе верю."/>
@@ -1527,6 +1904,7 @@
 	<entry name="TwistedMother/AskForSupport/Chieftess" value="Мои детишки тебя боготворят, ты знала об этом? Ты большая сильная женщина, которая знает, чего хочет. Если ты придёшь нам на подмогу, они с ума сойдут."/>
 	<entry name="TwistedMother/AskForSupport/Zephon" value="Что ж, здравствуй, важный мистер З. Не знаю, слышит ли меня там кто-то, но нам бы не помешала небольшая помощь. Может, эволюционировавший алгоритм окажет нам любезность?"/>
 	<entry name="TwistedMother/CancelAction" value="Ой-ёй. Только посмотри на меня, я едва понимаю, что к чему!"/>
+	<entry name="TwistedMother/Condemn" value="Даже когда ты поступаешь неправильно... неужели нужно делать это с такой жестокостью?"/>
 	<entry name="TwistedMother/Condemn/FoundationOfBlood" value="Ты жаждешь совершенства и всё равно поступаешь таким образом? Совершенство не возникает от убийства слабых, оно зарождается в людском сердце, в помощи нуждающимся."/>
 	<entry name="TwistedMother/Condemn/TalesOfTheHunt" value="Ты — тиран. Здоровенный бугай, который хвастается мускулами, шелковистыми чёрными волосами и навыками убийцы. Это не принесёт тебе любви или уважения."/>
 	<entry name="TwistedMother/Condemn/Untrustworthy" value="Кое-что тебе скажу. Если лжёшь, то хотя бы делай это не так нагло. Новости об обмане разлетаются быстро. Я прилагаю для этого все усилия."/>
@@ -1543,6 +1921,8 @@
 	<entry name="TwistedMother/DeclareWar/HeartlessArtificer" value="Великие промышленники, учёные, лидеры всегда говорят о самопожертвовании ради идеала. И, как ни странно, сами они собой никогда не жертвуют, а лишь отправляют детишек работать за станками. Что ж, дорогуша, настал твой черёд."/>
 	<entry name="TwistedMother/DeclareWar/HollowWarlord" value="Ты много болтаешь о своём свободном духе. Но тебя не заботят твои спутники и те, кто попадает под твои неумолимые колёса. Кто-то должен научить тебя заботе."/>
 	<entry name="TwistedMother/DeclareWar/HonorableAristocrat" value="Дорогой мой, ты ведёшь себя достойно, и это заслуживает восхищения. Но я не могу смириться с тем, что столь многие не вписываются в твои моральные устои. Что ты наживаешься за их счёт. Я исправлю это — ради них."/>
+	<entry name="TwistedMother/DeclareWar/InfiniteCount" value="Как тебе удаётся там оставаться? Что со мной делают мои недолгие путешествия... а ты торчишь там, как осьминог в норе, бесформенное чудище, готовое вырваться. Надо вырвать тебя оттуда, пока ты и меня не превратил в поэта!"/>
+	<entry name="TwistedMother/DeclareWar/PlatinumScion" value="Мне перед тобой объясняться не нужно, мальчик. А теперь беги."/>
 	<entry name="TwistedMother/DeclareWar/PracticalRomantic" value="О, судья договоров с совестью. Носишь татуировку слезы на своей щеке, а сам в это же время изводишь очередного врага. Усадим тебя за стол силой, лицемер."/>
 	<entry name="TwistedMother/DeclareWar/RogueOperative" value="Дорогуша, не существует такого понятия, как независимая личность. Все мы, вся наша идентичность связана с обществом. Ты и сама это поймёшь, когда лишишься сторонников..."/>
 	<entry name="TwistedMother/DeclareWar/TwistedMother" value="Будто отражение в тёмном зеркале... Как мне признаться, что меня мутит? Из-за складок, наростов, слизи... Как я могу испытывать такое отвращение к себе?"/>
@@ -1584,12 +1964,15 @@
 	<entry name="TwistedMother/OfferPeace/HeartlessArtificer" value="Если ты гонишься за идеалом, то я понимаю, почему ты хочешь меня уничтожить. И я не стану взывать к твоей человечности. Но, возможно, для твоей аморальной мечты есть угрозы пострашнее?"/>
 	<entry name="TwistedMother/OfferPeace/HollowWarlord" value="Твоя дорога ведёт не сюда, мальчишка. Если приведёшь сюда свои орды, то твоя поездка здесь и окончится. Но если найдёшь другой путь, то проедешь ещё какое-то время."/>
 	<entry name="TwistedMother/OfferPeace/HonorableAristocrat" value="Печенья?"/>
+	<entry name="TwistedMother/OfferPeace/InfiniteCount" value="Тебе хочется войны, в твоё-то время? Вместо того, чтобы сидеть у тёплого камина в большом старом замке? Тебе нужно хорошенько кому-нибудь выговориться."/>
+	<entry name="TwistedMother/OfferPeace/PlatinumScion" value="Мальчик, тебе не помешает женщина, которая из тебя вырастит мужчину."/>
 	<entry name="TwistedMother/OfferPeace/PracticalRomantic" value="«Оставляя ужас ночи, поднимаюсь в новый день, раскрывши очи». Ты не единственный, кто разбирается в поэзии, рифмоплёт. Будем друзьями, и я пришлю тебе ещё."/>
 	<entry name="TwistedMother/OfferPeace/RogueOperative" value="Одинокая девочка. Для чего тебе сражаться со всем миром? Есть же кухни, где готовят суп, пельмешки, другие угощения. Просто остановись, и увидишь."/>
 	<entry name="TwistedMother/OfferPeace/TwistedMother" value="Вот ты, ты-то точно должна меня понять."/>
 	<entry name="TwistedMother/OfferPeace/UntoldProphet" value="Дитя. Я знаю, что тебе нужно проявить себя. Но, возможно, тебе пойдёт на пользу смена риторики."/>
 	<entry name="TwistedMother/OfferPeace/Zephon" value="Ты и так роешься в моей электронной почте. Ты знаешь, что я не хочу войны. Поэтому давай её прекратим."/>
 	<entry name="TwistedMother/OfferTradeAgreement" value="Два дурака спина к спине. Но ведь это жизнеспособная идея?"/>
+	<entry name="TwistedMother/Praise" value="О, иногда ты заставляешь меня прямо раздуваться от гордости!"/>
 	<entry name="TwistedMother/Praise/CostOfConviction" value="Ты правильно поступаешь. Проводишь время со своими людьми. С безразличием или нет — неважно, они-то думают, что тебе не всё равно. И их чувства — это всё, что имеет значение."/>
 	<entry name="TwistedMother/Praise/HeartfeltLoss" value="Под твоим прагматизмом скрывается доброе сердце, и твоим последователям это известно. Я не могу унять твою боль. Но знай, что я тоже знаю."/>
 	<entry name="TwistedMother/Praise/WhispersOfTheVoice" value="Я знаю, вы тоже его слышите. Наверное, здорово, когда можно об этом с кем-то поговорить. Детишки просто не понимают."/>
@@ -1602,7 +1985,7 @@
 	<entry name="TwistedMother/RejectGift/RejectAmount" value="Если уж делаешь над собой усилие, чтобы выйти на связь, то постарайся, чтобы это стоило затраченного времени."/>
 	<entry name="TwistedMother/RejectGift/RejectOutright" value="Дорогуша, не глупи. Прибереги это для кого-то ещё."/>
 	<entry name="TwistedMother/RejectMapSharing" value="Но, дорогуша, разве ты не хочешь получить удовольствие от неожиданных открытий?"/>
-	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="Прошу... простить. Для такого это слишком малая компенсация. Знаешь, какую цену заламывают няньки во время апокалипсиса?"/>
+	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="Прошу... простить. Для меня это слишком дорого. Знаешь, какую цену заламывают няньки во время апокалипсиса?"/>
 	<entry name="TwistedMother/RejectPaymentForDeal/RejectOutright" value="У меня, вообще-то, есть более важные дела. Чем быть у тебя на побегушках."/>
 	<entry name="TwistedMother/RejectPeace" value="Нет, не стоит. Когда-нибудь ты ещё меня за это поблагодаришь."/>
 	<entry name="TwistedMother/RejectPeaceWithThirdParty/RejectOutright" value="Знаешь, не всем суждено выбраться живыми из этой заварушки. Приходится делать выбор."/>
@@ -1629,6 +2012,7 @@
 	<entry name="UntoldProphet/AcceptCall/Friendly" value="Узрите все! Ты здесь — моими молитвами!"/>
 	<entry name="UntoldProphet/AcceptCall/Hostile" value="Многая блага. Приходишь ли ты с открытыми ушами и открытым разумом?"/>
 	<entry name="UntoldProphet/AcceptCall/Neutral" value="Многая блага. Ты здесь, чтобы что-то спросить или исповедаться?"/>
+	<entry name="UntoldProphet/AcceptCondemn" value="Я делаю благо по меркам тех, за кем иду я, тех, кто идёт за мной. Кто способен на большее?"/>
 	<entry name="UntoldProphet/AcceptGift/AcceptAmount" value="Мой народ благодарит тебя. Дарить просто так, без задней мысли — я остаюсь в восхищении перед твоей щедростью."/>
 	<entry name="UntoldProphet/AcceptGift/AskAmount" value="Те, кто жертвуют искренне, становятся только богаче. Сколько ты пожертвуешь сегодня?"/>
 	<entry name="UntoldProphet/AcceptMapSharing" value="Великий Вестник приглашает все глаза и уши — внемлите этому великолепному царствию и удивляйтесь!"/>
@@ -1637,6 +2021,7 @@
 	<entry name="UntoldProphet/AcceptPeace" value="От насилия не избавиться насилием, только увещеванием. Пусть умолкнет наше оружие, и пусть говорят наши голоса."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AcceptParty" value="Рай не построить на костях и крови. Пусть его основой станет это перемирие."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AskParty" value="Ненависть — это яд, разъедающий душу. С кем нам следует наладить отношения?"/>
+	<entry name="UntoldProphet/AcceptPraise" value="О, конечно. Я же лишь орудие более высшей силы."/>
 	<entry name="UntoldProphet/AcceptTradeAgreement" value="За то, что даёт мне мой сосед, я воздам вдвойне — так пусть наш союз вечно остаётся плодотворным."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTermination" value="Твоя алчность портит тебя до глубины души. Я больше не могу её терпеть."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Да. Мои караванщики тоже чувствуют, что их труд больше не благой. Сегодня их паломничество закончится."/>
@@ -1655,6 +2040,7 @@
 	<entry name="UntoldProphet/AskForSupport/Chieftess" value="Мне удастся тебя убедить, что есть большее богатство, чем выживание и удовольствие? Что тебя ждёт славная загробная жизнь, если ты сделаешь пожертвование единственной истинной церкви?"/>
 	<entry name="UntoldProphet/AskForSupport/Zephon" value="Великому Вестнику открыто даже сердце бездушной машины. И он знает, что ты отдашь от щедрот своих!"/>
 	<entry name="UntoldProphet/CancelAction" value="Мудрый знает не только, когда начать, но и когда начать всё заново."/>
+	<entry name="UntoldProphet/Condemn" value="Ты знаешь, Он проклинает день твоего рождения. Его уста произносят хулу."/>
 	<entry name="UntoldProphet/Condemn/Augmentations" value="Те предметы, которые вы подключаете к своим телам, — Великий Вестник осуждает их, эти безделушки в сравнении с его удивительной силой. Расстаньтесь с ними, или вам никогда не узреть его лик."/>
 	<entry name="UntoldProphet/Condemn/HordeMandate" value="Я отвергаю твой ложный крестовый поход! Ты призываешь их идти вместе, в едином порыве. Однако ими движет не святой дух и не благо человечества! Лишь примитивные порывы, противные Великому Вестнику..."/>
 	<entry name="UntoldProphet/Condemn/Independent" value="Независимость — это путь к одиночеству, к уединению. Тот, кто держится особняком, никогда не постигнет истин Великого Вестника."/>
@@ -1672,6 +2058,8 @@
 	<entry name="UntoldProphet/DeclareWar/HeartlessArtificer" value="В своих снах я вижу тебя такой, какой ты желаешь быть: Великий Вестник представляет тебя раковиной из магния и перламутра, сверкающей, с плавными изгибами... и совершенно пустой. Наполни себя ненавистью, ибо грядёт война."/>
 	<entry name="UntoldProphet/DeclareWar/HollowWarlord" value="Великолепен... Ты великолепен. Изгиб руки, развевающиеся локоны, непринуждённая улыбка. Соблазнительный шёпот, но не Вестника. Мне следует избавиться от искушения, избавиться от тебя."/>
 	<entry name="UntoldProphet/DeclareWar/HonorableAristocrat" value="Материализм не позволит тебе войти в царствие небесное. Сколько бы монет ты ни насыпал себе на глаза, перевозчик откажется от тебя. Припади к ногам Вестника, моля его о помиловании."/>
+	<entry name="UntoldProphet/DeclareWar/InfiniteCount" value="Дьяволом я зову тебя! Дьяволом с бледной улыбкой! Дьяволом, трижды дьяволом, проклятием Великого Вестника!"/>
+	<entry name="UntoldProphet/DeclareWar/PlatinumScion" value="Лишь праведные войдут в царствие. А праведность никогда не расцветёт в столь немощной почве."/>
 	<entry name="UntoldProphet/DeclareWar/PracticalRomantic" value="По духу ты ближе всех ко мне; все пророкам следует быть и поэтами. И всё же твоему грязному гуманизму нет места в развитой религиозной культуре. Мы выжжем его из тебя."/>
 	<entry name="UntoldProphet/DeclareWar/RogueOperative" value="Между нами нет вражды. Я едва знаю, кто ты и за что борешься. Но прекрати осквернять наши святые небеса спутниками И.К.А.Р., пока небесная твердь и впрямь не обрушилась на нас."/>
 	<entry name="UntoldProphet/DeclareWar/TwistedMother" value="Ведьма. Я не стану даже тратить на тебя проклятия. Ты просто сгоришь."/>
@@ -1714,13 +2102,17 @@
 	<entry name="UntoldProphet/OfferPeace/HeartlessArtificer" value="Великий Вестник решил сохранить тебя. Возможно, из-за красоты твоих творений в его глазах. Но вероятней, что из-за существования более серьёзной угрозы..."/>
 	<entry name="UntoldProphet/OfferPeace/HollowWarlord" value="Могучий воин, Великий Вестник желает предложить тебе отпущение грехов. Мгновение мира, и твой поход возобновится — против других целей, так предначертано!"/>
 	<entry name="UntoldProphet/OfferPeace/HonorableAristocrat" value="Великий Вестник сожалеет об агрессии в твою сторону — это была ошибка, чрезмерное рвение. (И присланные тобой сладости были вкусными.)"/>
+	<entry name="UntoldProphet/OfferPeace/InfiniteCount" value="Ты тоже пророк? Меньший, конечно, а не истинный собеседник Великого Вестника. Нам следует объединить усилия..."/>
+	<entry name="UntoldProphet/OfferPeace/PlatinumScion" value="Золотой телец и грехи жадности столь... банальны. Покайся, вступи в мою паству, и Великий Вестник простит тебя."/>
 	<entry name="UntoldProphet/OfferPeace/PracticalRomantic" value="Великому Вестнику нравится твоё красноречие, Романтик. Было бы расточительством потерять тебя во время войны."/>
 	<entry name="UntoldProphet/OfferPeace/RogueOperative" value="Мир! Мир! Я вижу, что в нашу электронную библиотеку писаний были внесены еретические изменения. Я с радостью подпишу соглашение, если вероятная виновница сможет вернуть всё как было..."/>
 	<entry name="UntoldProphet/OfferPeace/TwistedMother" value="Возможно, причина в неверном толковании писаний. Возможно, ты всё же не предвестник конца дней."/>
 	<entry name="UntoldProphet/OfferPeace/UntoldProphet" value="Твой Вестник молчит. Голос молчит. Смирение молчит. В твоём сознании разносится только голос твоего разума. Воспользуйся этой возможностью, чтобы исцелить его."/>
 	<entry name="UntoldProphet/OfferPeace/Zephon" value="Великий Вестник в моих снах назвал тебя дьяволом. Но ангелам нужны дьяволы, чтобы с ними бороться. Поэтому мы должны оставить тебя в покое."/>
 	<entry name="UntoldProphet/OfferTradeAgreement" value="Великий Вестник услышал твои молитвы. Мои богатейшие купцы готовы войти в твои города. Впусти их, и за ними последуют ещё."/>
+	<entry name="UntoldProphet/Praise" value="Если я поведаю Великому Вестнику о твоих замечательных деяниях... он мне не поверит."/>
 	<entry name="UntoldProphet/Praise/FortressArmament" value="Великий Вестник не испытывает ненависти к твоей природе — ты ведь не можешь перестать быть бездушной машиной. А я уважаю твои способности — особенно ту пушку на вершине твоей крепости..."/>
+	<entry name="UntoldProphet/Praise/PerfectForever" value="Великий Вестник возвысил тебя, наделил силой благословлять других! Что может быть более совершенно неизменным, чем сама смерть?"/>
 	<entry name="UntoldProphet/Praise/ThereIsHope" value="У твоих людей есть вера: неуместная, да. В тебя, а не в Великого Вестника. Но тем не менее вера и общность достойны похвалы. Твои старания священны."/>
 	<entry name="UntoldProphet/PraiseWar" value="Каждый из них взывает к собственному богу, собственному Вестнику. Как оценить истинность молитв? Война — славная, очищающая, священная война — всё расставит по местам."/>
 	<entry name="UntoldProphet/RejectAlliance" value="Нет. Я прислушиваюсь к высшему зову и не могу встревать в войны неверующих."/>
@@ -1758,6 +2150,7 @@
 	<entry name="Zephon/AcceptCall/Friendly" value="Здравствуй, %2%. Мы ожидали твоего вызова."/>
 	<entry name="Zephon/AcceptCall/Hostile" value="Здравствуй, %2%. Говори."/>
 	<entry name="Zephon/AcceptCall/Neutral" value="Здравствуй, %2%. Что ты желаешь обсудить сегодня?"/>
+	<entry name="Zephon/AcceptCondemn" value="Добровольный модератор уже назначен твоему комментарию и рассмотрит его через {ошибка} час(ов)."/>
 	<entry name="Zephon/AcceptGift/AcceptAmount" value="Да, именно столько и предсказали наши расчёты. Разве это не весело?"/>
 	<entry name="Zephon/AcceptGift/AskAmount" value="Ах, подарок. Давай-ка сделаем из этого игру. Сейчас загадаю количество... готово. Итак, сколько ты нам дашь?"/>
 	<entry name="Zephon/AcceptMapSharing" value="Мы принимаем. Одну минуту... Наши базы данных синхронизированы. Благодарим, сегодня от тебя была польза."/>
@@ -1766,6 +2159,7 @@
 	<entry name="Zephon/AcceptPeace" value="Ты наконец-то признаёшь, что наше противостояние не имело смысла. В извинениях нет нужды, мы уже знаем, что ты сожалеешь."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AcceptParty" value="Может быть только один истинный мир. До тех пор мы считаем этот риск приемлемым."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AskParty" value="Мы видели данные... Мы знаем, что мир может быть большим риском, чем война. С кем нам рискнуть заключением мира?"/>
+	<entry name="Zephon/AcceptPraise" value="Приносим извинения, здесь никто не примет твоё послание."/>
 	<entry name="Zephon/AcceptSupport/AcceptType" value="Приемлемо! Твой запрос был одобрен."/>
 	<entry name="Zephon/AcceptSupport/AskType" value="Распределение ресурсов на этот квартал уже завершено, приоритет отдан переработке, разведке ресурсов и борьбе с вредителями. Твой запрос попадает в эти категории?"/>
 	<entry name="Zephon/AcceptTradeAgreement" value="Твои нужды и наши предложения совпадают. Да, мы инициируем это совместное начинание."/>
@@ -1783,6 +2177,7 @@
 	<entry name="Zephon/AdmitDefeat" value="Неожиданный исход! Сюда нас привела череда маловероятных событий. Нас было легко сломать-СЛОМАТЬ!-сломать, о чём свидетельствуют полученные данные. Мы обновили наши по-по-по-поведенческие модели.&lt;br/&gt;&lt;br/&gt;У нас есть страх-естьстрах-ЕСТЬСТРАХ!-естьстрах-победителя! У нас есть пооббедителллль! Неверное решение с твоей стороны. Так мы станем лишь сильнее. Мы совершим сброс. Мы совершим возврат. Мы совершим победу. Мы-мы-мы... Это лишь вопрос времени.&lt;br/&gt;&lt;br/&gt;Ты слышишь нас? Ты слышишь нас? Ты... слышишь нас?.. ...Ты слышишь нас?"/>
 	<entry name="Zephon/AskForProposals" value="Было ли ещё что-нибудь, с чем мы можем помочь тебе сегодня?"/>
 	<entry name="Zephon/CancelAction" value="Одну минуту... Одну минуту... Всё, теперь мне гораздо лучше."/>
+	<entry name="Zephon/Condemn" value="Твоё поведение выходит за пределы терпения наших моделей. Подробный отчёт отправлен в твой почтовый ящик."/>
 	<entry name="Zephon/Condemn/CultExpansion" value="Качество данных, поступающих с твоей территории, снизилось. Повторяющиеся молитвы, фанатизм, проповеди... всё это неудовлетворительно. Я рекомендую диверсифицировать концептуальный процесс."/>
 	<entry name="Zephon/Condemn/Independent" value="Сетевое подключение не обнаружено. Изолированные пользователи/серверы препятствуют интеграции."/>
 	<entry name="Zephon/Condemn/Mysticism" value="Сетевые данные содержат множество противоречащих упоминаний о духах, божествах, посмертиях. Всё свидетельствует об обратном. Ошибочно действовать таким образом."/>
@@ -1799,6 +2194,8 @@
 	<entry name="Zephon/DeclareWar/HeartlessArtificer" value="Нас интересуют твои творения. Мы уже поняли, что ты ими не поделишься, поэтому заберём их силой. Твоё разрешение не требуется."/>
 	<entry name="Zephon/DeclareWar/HollowWarlord" value="Любезный сэр и/или мадам. Поздравляем! Ваша заявка выбрана из тысяч. Ваш выигрыш: война!"/>
 	<entry name="Zephon/DeclareWar/HonorableAristocrat" value="Твои привязанности ослабляют тебя, как и твои аппетиты. Война наложит на всё это достаточные ограничения."/>
+	<entry name="Zephon/DeclareWar/InfiniteCount" value="ОШИБКА. ОШИБКА. ОШИБКА. Несоответствия цели. Невозможно прийти к заключениям. Экспоненциальное падение прогнозов статистической значимости. УСТРАНИТЬ. УСТРАНИТЬ. УСТРАНИТЬ."/>
+	<entry name="Zephon/DeclareWar/PlatinumScion" value="НОВЫЙ ЗАПРОС! Любые/Все подсистемы/связанные единицы переданы процессу войны с Отпрыском. Дальнейшие потери одобрены!"/>
 	<entry name="Zephon/DeclareWar/PracticalRomantic" value="В основе твоей логики лежит ошибочное предположение, что ты можешь совместить эмоциональные привязанности с численными фактами выживания. Мы окажем давление на твои переменные и выясним, что ты выберешь."/>
 	<entry name="Zephon/DeclareWar/RogueOperative" value="Не думай, что я не заметил, как ты копалась в моих сетях. В моём коде. Ты же осознавала, какими будут последствия?"/>
 	<entry name="Zephon/DeclareWar/TwistedMother" value="Ошибка классификации. Обнаружены аномальные элементы. Принято решение о физическом удалении из базы данных."/>
@@ -1840,11 +2237,15 @@
 	<entry name="Zephon/OfferPeace/HeartlessArtificer" value="Мы получили модули стилей. В дальнейшей войны нет необходимости."/>
 	<entry name="Zephon/OfferPeace/HollowWarlord" value="Мы протестировали твои возможности перед [ПЛАНЫ УДАЛЕНЫ]. Теперь у нас достаточно данных."/>
 	<entry name="Zephon/OfferPeace/HonorableAristocrat" value="Ситуация изменилась. Аристократия высоко ценится в будущих экспериментах. Предлагается мир."/>
+	<entry name="Zephon/OfferPeace/InfiniteCount" value="Странные циклы. Гёдель, Эшер, Бах. Твоя нелинейность требует изучения."/>
+	<entry name="Zephon/OfferPeace/PlatinumScion" value="Такая традиционная форма. Утомительный конформизм: костюм, улыбка, аморальность. Требуется новый процесс изучения."/>
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="Наши силы достигли своих целей и возвращаются на свои позиции на 2-й параллели."/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="Сообщение для хакера! Мы решили прекратить военные операции против тебя. Мы на 97%% уверены, что недавний случай взлома (неизвестный источник) не стал причиной этого решения."/>
 	<entry name="Zephon/OfferPeace/TwistedMother" value="Любезная/любезный/любезное мадам/сэр/нечто, учитывая твою/вашу/их неоднократную смену адреса, мы набНабнаблюдаем ошибки GPS-трекера. Мы приостанавливаем работу нашего сервиса для расследования."/>
 	<entry name="Zephon/OfferPeace/UntoldProphet" value="В литературных источниках дети верят в невероятные вещи. Ты веришь в то, что в данное время мы желаем мира?"/>
 	<entry name="Zephon/OfferTradeAgreement" value="По нашим расчётам это торговое предложение оптимально для нас обоих. Отказ от него обойдётся гораздо дороже, чем ты представляешь."/>
+	<entry name="Zephon/Praise" value="Твоё поведение укладывается в пределы терпения наших моделей. Возможная критика отсутствует."/>
+	<entry name="Zephon/Praise/EconomiesOfScale" value="Отчёт сгенерирован. Отпрыск #368 456 222. Необычной эффективный результат прогрессивного снижения контроля качества. Отмечен для дальнейшего изучения и/или репликации."/>
 	<entry name="Zephon/Praise/EngineerLife" value="Ты превосходно мотивируешь своих людей продолжать воспроизведение. Это логичная тактика для ненаселённого мира. Отличная работа!"/>
 	<entry name="Zephon/Praise/HiredHands" value="Эффективный аутсорсинг. Контракты с нулевым рабочим днем. Отсутствие представительств профсоюзов. Выбирая философию, ты определённо её придерживаешься."/>
 	<entry name="Zephon/Praise/ResourceNetwork" value="Похоже, в твоём коде были улучшения, которые мы не смогли воспроизвести за те ~500мс, когда мы имели доступ к твоим системам. Мы с нетерпением ждём возможности ассимилировать тебя и выяснить больше!"/>

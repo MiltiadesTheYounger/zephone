@@ -2,7 +2,7 @@
 <language>
 	<entry name="Anchorite0" value="Кор'тулис"/>
 	<entry name="Anchorite1" value="Вилк'хез"/>
-	<entry name="Anchorite2" value="Храст'ен"/>
+	<entry name="Anchorite2" value="Храст'эн"/>
 	<entry name="Anchorite3" value="Ту'фолк"/>
 	<entry name="Anchorite4" value="Саэркрол"/>
 	<entry name="Anchorite5" value="Вулдерин-Кив"/>
@@ -16,14 +16,14 @@
 	<entry name="Anchorite13" value="Даллужжин"/>
 	<entry name="Anchorite14" value="Фреха-Келун"/>
 	<entry name="Anchorite15" value="Мавжолкук"/>
-	<entry name="Anchorite16" value="Волксилик'ед"/>
+	<entry name="Anchorite16" value="Волксилик'эд"/>
 	<entry name="Anchorite17" value="Бардун'кет"/>
 	<entry name="Anchorite18" value="Крунт'филесз"/>
 	<entry name="Anchorite19" value="Реллкант-Ворб"/>
 	<entry name="Anchorite20" value="Столден-Зэра"/>
 	<entry name="Anchorite21" value="Г'эртвол"/>
 	<entry name="Anchorite22" value="Би'лоухок"/>
-	<entry name="Anchorite23" value="Решт'ека"/>
+	<entry name="Anchorite23" value="Решт'эка"/>
 	<entry name="Anchorite24" value="Мидкрин'фе'лурч"/>
 	<entry name="AnchoriteCount" value="25"/>
 	<entry name="Chieftess0" value="Ржавая Пыль"/>
@@ -265,6 +265,68 @@
 	<entry name="HonorableAristocrat31" value="Ланфельдекк"/>
 	<entry name="HonorableAristocrat32" value="Шруншка"/>
 	<entry name="HonorableAristocratCount" value="33"/>
+	<entry name="InfiniteCount0" value="Транзеште"/>
+	<entry name="InfiniteCount1" value="Сильвор"/>
+	<entry name="InfiniteCount2" value="Ора-Задания"/>
+	<entry name="InfiniteCount3" value="Темпо-Тристрия"/>
+	<entry name="InfiniteCount4" value="Каподеште"/>
+	<entry name="InfiniteCount5" value="Тролит"/>
+	<entry name="InfiniteCount6" value="Фиустрия"/>
+	<entry name="InfiniteCount7" value="Спола"/>
+	<entry name="InfiniteCount8" value="Полгар-Пассандо"/>
+	<entry name="InfiniteCount9" value="Вигно"/>
+	<entry name="InfiniteCount10" value="Лабриа"/>
+	<entry name="InfiniteCount11" value="Кастелло-Секондо"/>
+	<entry name="InfiniteCount12" value="Примо-Задермо"/>
+	<entry name="InfiniteCount13" value="Котлес-Катун"/>
+	<entry name="InfiniteCount14" value="Ароника"/>
+	<entry name="InfiniteCount15" value="Сирмоград"/>
+	<entry name="InfiniteCount16" value="Сизиум"/>
+	<entry name="InfiniteCount17" value="Маи-Торда"/>
+	<entry name="InfiniteCount18" value="Мира-Минута"/>
+	<entry name="InfiniteCount19" value="Ливалбе"/>
+	<entry name="InfiniteCount20" value="Акверно-Инфинито"/>
+	<entry name="InfiniteCount21" value="Атерила-Истанте"/>
+	<entry name="InfiniteCount22" value="Осиола-Гиаммаи"/>
+	<entry name="InfiniteCount23" value="Маре-Моменто"/>
+	<entry name="InfiniteCount24" value="Л'Интер"/>
+	<entry name="InfiniteCount25" value="Кампо-ди-Фиоре"/>
+	<entry name="InfiniteCount26" value="Сикко-Стабулум"/>
+	<entry name="InfiniteCount27" value="Ио-Аттимо"/>
+	<entry name="InfiniteCount28" value="Фенца-Сине"/>
+	<entry name="InfiniteCount29" value="Минабиле"/>
+	<entry name="InfiniteCountCount" value="30"/>
+	<entry name="PlatinumScion0" value="Пики Роста"/>
+	<entry name="PlatinumScion1" value="Расходы-Фоллз"/>
+	<entry name="PlatinumScion2" value="Офшор-Порт"/>
+	<entry name="PlatinumScion3" value="Ущелье Вложений"/>
+	<entry name="PlatinumScion4" value="Венчур-Рич"/>
+	<entry name="PlatinumScion5" value="Станция Рынка"/>
+	<entry name="PlatinumScion6" value="Причал Капитала"/>
+	<entry name="PlatinumScion7" value="Платиновые Ворота"/>
+	<entry name="PlatinumScion8" value="Перспективилль"/>
+	<entry name="PlatinumScion9" value="Исполнительные Высоты"/>
+	<entry name="PlatinumScion10" value="Аутсорс-Харбор"/>
+	<entry name="PlatinumScion11" value="Прибыль-Филдс"/>
+	<entry name="PlatinumScion12" value="Менеджбург"/>
+	<entry name="PlatinumScion13" value="Кузня Имиджа"/>
+	<entry name="PlatinumScion14" value="Магнатогорск"/>
+	<entry name="PlatinumScion15" value="Агрегатная Аркология"/>
+	<entry name="PlatinumScion16" value="Нью-Продакшен"/>
+	<entry name="PlatinumScion17" value="Утопия-Парк"/>
+	<entry name="PlatinumScion18" value="Маржинополис"/>
+	<entry name="PlatinumScion19" value="Кешбэк-Кросс"/>
+	<entry name="PlatinumScion20" value="Залив Облигаций"/>
+	<entry name="PlatinumScion21" value="Золотые Горы"/>
+	<entry name="PlatinumScion22" value="Неоновые Огни"/>
+	<entry name="PlatinumScion23" value="Точка Окупаемости"/>
+	<entry name="PlatinumScion24" value="Террасы Рентабельности"/>
+	<entry name="PlatinumScion25" value="Обрыв Долгов"/>
+	<entry name="PlatinumScion26" value="Узел Доходности"/>
+	<entry name="PlatinumScion27" value="Кранчбург"/>
+	<entry name="PlatinumScion28" value="Холмы Инвестиций"/>
+	<entry name="PlatinumScion29" value="Даэдлайн-Сити"/>
+	<entry name="PlatinumScionCount" value="30"/>
 	<entry name="PracticalRomantic0" value="Сефра"/>
 	<entry name="PracticalRomantic1" value="Заутин"/>
 	<entry name="PracticalRomantic2" value="Меридья"/>

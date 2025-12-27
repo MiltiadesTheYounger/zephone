@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Otrzymujesz losowy zaawansowany technologicznie łup należący do Głosu"/>
 	<entry name="ArcDischarge" value="Łuk elektryczny"/>
 	<entry name="Arctic" value="Mróz"/>
+	<entry name="ArenaCyber" value="Arena (cyberbyty)"/>
+	<entry name="ArenaCyberFlavor" value="<string name='Quests/TheMartialEthic/ArenaCyberVictory2'/>"/>
+	<entry name="ArenaHuman" value="Arena (ludzie)"/>
+	<entry name="ArenaHumanFlavor" value="<string name='Quests/TheMartialEthic/ArenaHumanVictory2'/>"/>
+	<entry name="ArenaVoice" value="Arena (Głos)"/>
+	<entry name="ArenaVoiceFlavor" value="<string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/>"/>
+	<entry name="AtmosphericAnchor" value="Kotwica atmosferyczna"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
 	<entry name="Bleed" value="Krwawe pnącza"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="Koparka Erebus"/>
 	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5% szansy na otrzymanie losowego przedmiotu"/>
 	<entry name="Fire" value="Ogień"/>
+	<entry name="FiveSoldiers1" value="Potrzebna jedna istota"/>
+	<entry name="FiveSoldiers1Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers3" value="Potrzebne trzy istoty"/>
+	<entry name="FiveSoldiers3Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers6" value="Potrzebnych sześć istot"/>
+	<entry name="FiveSoldiers6Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
 	<entry name="FleshTree" value="Mięsne drzewo"/>
 	<entry name="Forest" value="Las"/>
 	<entry name="GravityField" value="Pole grawitacyjne"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
 	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
 	<entry name="PhaseGenerator" value="Generator fazy"/>
+	<entry name="ReaverDepot" value="Magazyn Łupieżców"/>
+	<entry name="ReaverDepotProperties" value="<icon texture='GUI/Bullet'/>Co 20 tur pojawiają się Łupieżcy albo Dewastatorzy"/>
 	<entry name="RecyclingTanks" value="Zbiorniki kompostownicze"/>
 	<entry name="River" value="Rzeka"/>
 	<entry name="Road" value="Droga"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
 	<entry name="SmokeScreen" value="Zasłona dymna"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="SurvivorsBazaar" value="Giełda ocalałych"/>
 	<entry name="Swamp" value="Mokradła"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -71,7 +88,7 @@
 	<entry name="Watchtower" value="Strażnica"/>
 	<entry name="WhisperingWights" value="Szepczące byty"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanDreyFlavor" value="Abkhany budują swoje gniazda z<nbsp/>zaostrzonych sosnowych gałązek. Zapytaliśmy akryńskich łowców, jak ich wykurzyć, i<nbsp/>dowiedzieliśmy się, że oni powoli przedzierają się do ich gniazd, używając włóczni. Takie polowania potrafiły ciągnąć się całymi dniami. Zawracanie dupy. Armaty załatwiłyby sprawę o<nbsp/>wiele szybciej."/>
 	<entry name="AcrinCrashSiteFlavor" value="Za każdym razem, gdy wydawało się, że ostatni statek Akrynów roztrzaskał się na orbicie, kolejny z<nbsp/>nich zapalał się w<nbsp/>atmosferze, rozświetlając niebo. Akrynowie zbierali z<nbsp/>nich części swojego dawnego świata. Ludzie poszukiwali w<nbsp/>nich technologii, którą mogliby ukraść. A<nbsp/>ZEPHON… wciąż nie wiem, czego tam szukał ZEPHON. Wiem tylko, że musieliśmy z<nbsp/>nim walczyć o<nbsp/>naszą działkę."/>
 	<entry name="AdvancedCyberCacheFlavor" value="Przez pewien czas niektórzy z<nbsp/>moich poruczników próbowali zrozumieć sens tych przekazywanych zasobników. Jeśli dostawaliśmy zasoby, celem musiało być zmaksymalizowanie konkretnego rodzaju produkcji. Jeśli znajdowaliśmy jednostki, oznaczało to, że powinniśmy opierać na nich nasze strategie. Powiedziałem im, że to nie ma sensu. Równie dobrze mogliśmy ciągnąć z<nbsp/>talii karty tarota."/>
@@ -79,6 +96,7 @@
 	<entry name="AdvancedVoiceCacheFlavor" value="Wartościowe zasobniki Akrynów dosłownie spadały nam z<nbsp/>nieba. Na pobojowisku, które pozostało po zniszczeniu ich floty, różne rzeczy spadały z<nbsp/>orbity w<nbsp/>zasadzie codziennie, dostarczając nam zasoby lub ocalałych żołnierzy pod sam nos. Powinniśmy przyjmować te dary z<nbsp/>zadowoleniem, lecz przypominały nam o<nbsp/>tym, że nad naszymi głowami unosi się wielkie, metalowe cmentarzysko, nieustannie bombardujące nas przedmiotami, które mogą nas wszystkich zabić."/>
 	<entry name="ArcDischargeFlavor" value="Chcesz wiedzieć, co to było? Okablowanie ZEPHONA pokrywało dosłownie wszystko – to były całe kilometry miedzi. Łuk to ułamek ułamka ułamka mocy ZEPHONA kierowanej w<nbsp/>twoją stronę. Mogłeś wykorzystać tę moc, gdybyś tyko chciał. Ale twoi przeciwnicy też mogli to zrobić."/>
 	<entry name="ArcticFlavor" value="Mroźne pustkowia dawnej Ziemi były teraz ojczyzną śnieżnobiałych abklutów, które przeszły hiperewolucję, aby polować w<nbsp/>nowym środowisku. Wyruszaliśmy tam tylko z<nbsp/>jednego powodu: ten teren zapewniał naszym technikom optymalne warunki do prowadzenia badań. Twierdzili, że niewielka wilgotność i<nbsp/>niskie temperatury połączone z<nbsp/>dużymi połaciami czystego terenu sprzyjały wydajniejszemu testowaniu broni. A<nbsp/>może po prostu lubili chłód."/>
+	<entry name="AtmosphericAnchorFlavor" value="Kolejny sprzęt Zegarmistrzów. Twierdzą, że stworzyli go do zbierania energii w<nbsp/>regionach, gdzie ciepłe powietrze zderzało się z<nbsp/>zimnym. Ale chyba nie znali własnych ludzi. Ktoś spośród nich wiedział, że to można wykorzystać jako broń… i<nbsp/>ten ktoś milczał, zamiast się odezwać."/>
 	<entry name="BleedFlavor" value="Pnącza Głosu przenikały z<nbsp/>innej rzeczywistości do naszej, otwierając na oścież drzwi do szaleństwa. Nie powinny nękać naszej Ziemi. Ich odrażające, oślizłe kończyny poruszały się w<nbsp/>poszukiwaniu mięsa albo metalu, który mogłyby pochwycić. Widzę je nawet w<nbsp/>snach. Czasami, zwykle w<nbsp/>trakcie pełni księżyca, budzę się spocony i<nbsp/>nadal czuję ich widmową siłę wciągającą mnie w<nbsp/>ziemię. Uznałem, że to dzieje się tylko w<nbsp/>mojej głowie, ale słyszałem szepty w<nbsp/>kantynie. Inni też mają sny, w<nbsp/>których są zgniatani."/>
 	<entry name="BrushFlavor" value="Małe stworzenia żywią się roślinami na stepach, większe ssaki żywią się tymi stworzeniami, i<nbsp/>tak dalej, i<nbsp/>tak dalej. Gdybyśmy mieli więcej czasu, moglibyśmy dokładnie wpasować się w<nbsp/>ten cykl. Zamiast tego zakłóciliśmy go, wdarliśmy się do niego siłą. Mieliśmy brzuchy do napełnienia – żołnierze potrzebują jeść, by móc walczyć."/>
 	<entry name="CicadasFlavor" value="Słuchaj, to nie ja ustalam zasady. Owady zawierają dużo białka i<nbsp/>łatwo przygotowuje się z<nbsp/>nich większe posiłki. Niektórzy z<nbsp/>naszych mieszkali przed wojną w<nbsp/>krajach, w<nbsp/>których regularnie jadało się cykady. Łapiąc je, byliśmy w<nbsp/>stanie wykarmić naszych ludzi, a<nbsp/>każdy narzekacz… Cóż, miał dwie możliwości: głodować albo przełknąć dumę."/>
@@ -97,6 +115,7 @@
 	<entry name="MicrochipFabricatorFlavor" value="ZEPHON produkował układy scalone, korzystając ze zdecentralizowanej sieci. Przez krótki czas sądziliśmy, że zwrócimy jego uwagę, przejmując dostatecznie wiele z<nbsp/>tych wytwórni. Ale niby czemu miał się tym przejąć? Gdyby zabrakło jednej z<nbsp/>nich, ZEPHON mógł zbudować następną, w<nbsp/>bezpiecznej odległości i<nbsp/>bez większej szkody dla cyklu produkcyjnego."/>
 	<entry name="NuclearFalloutFlavor" value="Śmieszne. Wszyscy gadają, jak to ZEPHON i<nbsp/>Akrynowie sieją spustoszenie na naszej planecie, ale… my przecież też igraliśmy z<nbsp/>apokalipsą. Ludzie, którzy nie byli jeszcze w<nbsp/>stanie polecieć w<nbsp/>kosmos, poprowadzili naszą cywilizację na skraj zapomnienia. Wiele lat później wciąż korzystamy z<nbsp/>ich uzbrojenia, a<nbsp/>Ziemia wciąż przez to płonie."/>
 	<entry name="PhaseGeneratorFlavor" value="Kiedy po raz pierwszy spotkałem zegarmistrzynię, robiła przegląd jednego z<nbsp/>tych generatorów. Pokłóciliśmy się, kto powinien mieć nad nimi kontrolę. „Ty jesteś tu, żeby wygrać wojnę. A<nbsp/>ja mam zapobiec kolejnej” – powiedziała. Dogadaliśmy się. Mieliśmy przekierować część energii do zegarmistrzów, a<nbsp/>oni mieli uruchomić osłony chroniące naszych ludzi."/>
+	<entry name="ReaverDepotFlavor" value="Mieliśmy z<nbsp/>Dziedzicem spór, który ciągnął się miesiącami… w<nbsp/>samym środku terytorium, na które weszliśmy, znajdowała się baza Łupieżców. Co kilka tygodni jeden z<nbsp/>nas przebijał się tam i<nbsp/>zdobywał ją, a<nbsp/>Łupieżcy za każdym razem zmieniali strony. Brak lojalności tworzy specyficzną powtarzalność."/>
 	<entry name="RecyclingTanksFlavor" value="Odrażające. Kultyści Głosu wegetujący na pustkowiach zbudowali te placówki, aby produkować więcej alg. Nie trzeba budować cmentarzy, gdy można wrzucać ciała i<nbsp/>trzewia do toksycznej jamy, która wytwarza ohydną mięsną breję. W<nbsp/>takich miejscach zawsze nosiłem subatomową maskę."/>
 	<entry name="RiverFlavor" value="Każdy ziemski drapieżnik wiedział, że zdobycz jest najsłabsza, gdy szuka wody. A<nbsp/>ofiary wiedziały, że coś może na nie zapolować, gdy będą zajęte szukaniem wodopoju. Zawsze lepiej być drapieżnikiem, ale gdyby okazało się, że to wy jesteście zdobyczą, pamiętajcie, że przeprawianie się przez płynącą wodę spowalnia większość łowców."/>
 	<entry name="RoadFlavor" value="W noc po wybudowaniu naszych pierwszych dróg wskoczyłem do transportera patrolowego i<nbsp/>przejechałem wiele kilometrów. Zużyłem stanowczo za dużo paliwa tylko po to, żeby poczuć wiatr we włosach i<nbsp/>to, jak opony przyczepiają się do asfaltu na zakrętach. Nie chciałem wracać na wojnę. Chciałem po prostu jechać bez końca."/>

@@ -6,13 +6,17 @@
 	<entry name="Achievements/CanFreeWillExist" value="자유 의지는 존재할 수 있을까요?"/>
 	<entry name="Achievements/CanLoveBeMoral" value="사랑이 도덕적일 수 있나요?"/>
 	<entry name="Achievements/DidHonorBalanceGreed" value="명예가 탐욕과 균형을 이루었나요?"/>
+	<entry name="Achievements/DidIDoomMyFriends" value="제가 친구들의 파멸을 가져왔나요?"/>
 	<entry name="Achievements/DidMyDeathMeanAnything" value="제 죽음은 의미가 있었나요?"/>
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="우리의 희생은 아무 의미가 없었나요?"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="우리의 통합이 중요했나요?"/>
+	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="지혜는 가치의 척도인가요?"/>
 	<entry name="Achievements/MustWeSufferSo" value="이렇게 고통받아야만 하나요?"/>
+	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="저는 역사상 최고로 뛰어난 인물이었나요?"/>
 	<entry name="Achievements/WasITrulyHuman" value="저는 정말 인간이었나요?"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="완벽함이 그만한 가치가 있었나요?"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="제폰은 정말 살아있는 존재였나요?"/>
+	<entry name="Achievements/WhatAmITruly" value="저는 진정 누구인가요?"/>
 	<entry name="Achievements/WhatAreYou" value="당신은 무엇인가요?"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="자유의 대가는 무엇인가요?"/>
 	<entry name="Achievements/WhereAreWe" value="여기는 어디인가요?"/>
@@ -69,7 +73,7 @@
 	<entry name="Controls/OpenResearchScreen" value="연구 화면 열기"/>
 	<entry name="Controls/OrderAllIdleUnits" value="모든 유휴 유닛에게 명령"/>
 	<entry name="Controls/OrderAllUnits" value="모든 유닛에게 명령"/>
-	<entry name="Controls/OrderAreaUnits" value="지역 내 유닛에게 명령"/>
+	<entry name="Controls/OrderAreaUnits" value="반경 3 이내 유닛에게 명령"/>
 	<entry name="Controls/PlayerAction0" value="플레이어 액션 1"/>
 	<entry name="Controls/PlayerAction1" value="플레이어 액션 2"/>
 	<entry name="Controls/PlayerAction2" value="플레이어 액션 3"/>
@@ -144,6 +148,8 @@
 	<entry name="General/AutoSendReportsHint" value="게임의 기능, 안정성 및 성능을 개선하기 위해 사용 통계 및 충돌 보고서를 Proxy Studios에 자동으로 전송합니다.<br/><br/><style color='GUI/Yellow'/>당사는 개인 정보 보호를 중요하게 여깁니다. 당사는 모두를 위한 게임 개선에 필요한 정보만 수집하고자 노력합니다. 수집하는 데이터에는 게임과의 익명화된 상호작용(멀티플레이어 연결 시도 및 실패 횟수, 시작된 게임 유형, 사용된 기능, 클릭한 버튼, 플레이 시간 등)과 익명화된 기술적 정보(게임 버전 및 언어, 운영 체제 및 하드웨어 구성, 충돌 및 오류에 대한 기본 정보 등)가 포함됩니다. 이 데이터는 고품질의 신뢰할 수 있는 제품 제공이라는 합리적인 목적을 바탕으로 처리됩니다. 데이터는 최대 1년 동안 저장되며 제3자와 공유하지 않습니다."/>
 	<entry name="General/EdgeScroll" value="가장자리 스크롤"/>
 	<entry name="General/EdgeScrollHint" value="전체 화면 모드에서 마우스 커서가 화면 가장자리에 닿으면 카메라를 스크롤합니다."/>
+	<entry name="General/FriendNames" value="친구 이름"/>
+	<entry name="General/FriendNamesHint" value="제폰의 게임 내 메시지에서 친구 이름을 사용할 수 있습니다."/>
 	<entry name="General/Language" value="언어"/>
 	<entry name="General/LanguageHint" value="텍스트 언어입니다."/>
 	<entry name="General/ResetTips" value="팁 초기화"/>

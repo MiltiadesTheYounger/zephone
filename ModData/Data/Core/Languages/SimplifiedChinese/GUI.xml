@@ -39,7 +39,7 @@
 	<entry name="BuildingZephon" value="泽芬建筑"/>
 	<entry name="Buildings" value="建筑"/>
 	<entry name="BuildingsConstructed" value="建筑竣工"/>
-	<entry name="BuildingsDisabledDueToEnemies" value="<style color='GUI/Red'/>%1% disabled due to enemies on tiles.<style color='Default'/>"/> <!-- %1% is amount of buildings. -->
+	<entry name="BuildingsDisabledDueToEnemies" value="<style color='GUI/Red'/>%1%个建筑已失效，原因：敌人位于地块之上。<style color='Default'/>"/> <!-- %1% is amount of buildings. -->
 	<entry name="Buy" value="购买"/>
 	<entry name="BuyBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Buy'/>"/>
 	<entry name="Call" value="呼叫"/>
@@ -73,6 +73,7 @@
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> 消耗动作点"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> 消耗移动点"/>
 	<entry name="Continue" value="继续"/>
+	<entry name="ControllerDifficultyWarningHint" value="将禁用许多胜利成就。"/>
 	<entry name="Cooldown" value="冷却"/>
 	<entry name="Copy" value="复制"/>
 	<entry name="CopyInviteCode" value="复制邀请代码"/>
@@ -104,10 +105,12 @@
 	<entry name="DisableTips" value="禁用提示"/>
 	<entry name="DisableTipsHint" value="不再显示弹窗提示。之后你可以在设置中重新启用弹窗提示。"/>
 	<entry name="DismantleBuildingHint" value="拆除此类型中潜在产量最低的建筑。<br/><br/>如果需要拆除特定建筑，请通过地图上显示的建筑槽位进行操作。"/>
+	<entry name="DismantleOperationHint" value="右键点击以拆除1个。"/>
 	<entry name="Disconnected" value="已断开连接"/>
 	<entry name="DismissReports" value="解散所有（%1%）"/>
 	<entry name="DragToChangeLoadOrder" value="拖动调整加载优先级。"/>
-	<entry name="Economy" value="经济"/>
+	<entry name="DuplicateItemHint" value="重复的被动物品不会叠加。"/>
+<entry name="Economy" value="经济"/>
 	<entry name="Elite" value="精英"/>
 	<entry name="EmptyBuildingSlotHint" value="空闲建筑槽位。"/>
 	<entry name="EnableBuildingHint" value="启用此类型中产量最高的建筑，并允许为其分配人口。<br/><br/>若要启用特定建筑，请直接与地图上的对应建筑栏位进行互动。"/>
@@ -117,10 +120,10 @@
 	<entry name="EndTurnHint" value="结束你的回合[<control name='NextTask'/>]。"/>
 	<entry name="EnemyOnTile" value="<style color='GUI/Red'/>敌人位于地块之上<style name='Default'/>"/>
 	<entry name="Enter" value="进入"/>
-	<entry name="EquipItemHint" value="点击鼠标右键装备。"/>
-	<entry name="EstimatedCasualties" value="预计伤亡：%1%/%2%"/>
+	<entry name="EquipItemHint" value="点击以装备。"/>
+	<entry name="EstimatedCasualties" value="造成伤亡：%1%/%2%"/>
 	<entry name="Events" value="事件"/>
-	<entry name="ExecuteQueuedOrder" value="执行待定指令（1/%1%）"/>
+	<entry name="ExecuteQueuedOrder" value="执行指令 (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="执行上一个回合中下达的待定指令[<control name='NextTask'/>]。<br/>[<string name='Controls/MouseRight'/>]执行所有待定指令。<br/>[<control name='SelectNext'/>]选择下一个单位。<br/>[<control name='SelectPrevious'/>]选择上一个单位。"/>
 	<entry name="Extra" value="额外"/>
 	<entry name="ExitCity" value="离开城市"/>
@@ -161,7 +164,7 @@
 	<entry name="Installed" value="已安装。"/>
 	<entry name="Introduction" value="教学"/>
 	<entry name="IntroductionGame" value="<string name='GUI/Introduction'/>"/>
-	<entry name="IntroductionGameHint" value="开始一场教学游戏。"/>
+	<entry name="IntroductionGameHint" value="以<string name='Factions/FallenSoldier'/>在简单难度下开始引导游戏。"/>
 	<entry name="InvalidName" value="无效名称。"/>
 	<entry name="Inventory" value="物品栏"/>
 	<entry name="InviteEpicFriend" value="邀请Epic好友"/>
@@ -202,6 +205,7 @@
 	<entry name="Multiplayer" value="多人游戏"/>
 	<entry name="Mutators" value="突变因子"/>
 	<entry name="MutatorsHint" value="<style name='Title'/>突变因子[<control name='LobbyMutators'/>]"/>
+	<entry name="NPCAdvancementTooLow" value="NPC进展不足。"/>
 	<entry name="Name" value="名称"/>
 	<entry name="New" value="新"/>
 	<entry name="NewGame" value="新游戏"/>
@@ -218,11 +222,11 @@
 	<entry name="NotOwner" value="只有单位拥有者可以那么做。"/>
 	<entry name="NotReady" value="尚未准备就绪"/>
 	<entry name="NotUsable" value="不可用"/>
+	<entry name="OK" value="好"/>
+	<entry name="OKHint" value="<style name='Title'/>好[<control name='OK'/>]"/>
 	<entry name="Objectives" value="目标"/>
 	<entry name="ObjectivesCompleted" value="目标完成"/>
 	<entry name="Off" value="<style color='GUI/Red'/>关<style color='Default'/>"/>
-	<entry name="OK" value="好"/>
-	<entry name="OKHint" value="<style name='Title'/>好[<control name='OK'/>]"/>
 	<entry name="Okay" value="好"/>
 	<entry name="On" value="<style color='GUI/Green'/>开<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>只可以在主菜单中调整此选项。"/>
@@ -234,7 +238,7 @@
 	<entry name="Or" value="或"/>
 	<entry name="OrderCity" value="命令城市（%1%）"/>
 	<entry name="OrderCityHint" value="选择下一座空闲的城市[<control name='NextTask'/>]。"/>
-	<entry name="OrderQueuedUnits" value="指挥待定单位（%1%)"/>
+	<entry name="OrderQueuedUnits" value="待定单位 (%1%)"/>
 	<entry name="OrderQueuedUnitsHint" value="选择下一个拥有待定指令的单位[<control name='NextTask'/>]。<br/>[<string name='Controls/MouseRight'/>]执行所有待定指令。"/>
 	<entry name="OrderUnits" value="命令单位（%1%）"/>
 	<entry name="OrderUnitsHint" value="选择下一个空闲的单位[<control name='NextTask'/>]。"/>
@@ -262,7 +266,7 @@
 	<entry name="PoweredBuildingsHint" value="目前启用的该类型建筑数量。[<control name='ToggleBuildingPower'/>]地图上的建筑图标以禁用&启用指定建筑。"/>
 	<entry name="Properties" value="属性"/>
 	<entry name="Quests" value="任务"/>
-	<entry name="QuestOptionHint" value="%4%%7%<style color='Default'/>%8%"/>
+	<entry name="QuestOptionHint" value="<style color='GUI/Red'/>%4%<style name='Default'/>%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="费用：%1%"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
@@ -293,6 +297,7 @@
 	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1%来自难度"/>
 	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1%来自特殊地形"/>
 	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1%来自忠诚度"/>
+	<entry name="ResourceFromOperations" value="    <icon texture='GUI/Bullet'/>%1%来自行动"/>
 	<entry name="ResourceFromPace" value="    <icon texture='GUI/Bullet'/>%1% 来自游戏速度"/>
 	<entry name="ResourceFromPlayer" value="    <icon texture='GUI/Bullet'/>%1%来自玩家"/>
 	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1%来自人口"/>
@@ -313,6 +318,7 @@
 	<entry name="Rewards" value="奖励"/>
 	<entry name="RewardsReceived" value="已获得奖励"/>
 	<entry name="Queued" value="正在等待队列。"/>
+	<entry name="QuestCycleBetweenHighlightedTilesHint" value="点击以在高亮显示的地块之间循环。"/>
 	<entry name="QuickSelectLeaderHint" value="快速选择领袖。"/>
 	<entry name="Quit" value="退出"/>
 	<entry name="Save" value="保存"/>
@@ -417,7 +423,6 @@
 	<entry name="Weapon" value="武器"/>
 	<entry name="Weapons" value="武器"/>
 	<entry name="WorldDataChecksumsDiffer" value="世界数据存在差异（本地=%1%，服务器=%2%）。"/>
-	<entry name="WorldSeedHint" value="世界种子，点击以复制"/>
 	<entry name="XTile" value="%1%地块"/>
 	<entry name="XTiles" value="%1%地块"/>
 	<entry name="XTurn" value="%1%回合"/>

@@ -8,20 +8,31 @@
 	<entry name="AccumulateEnergy" value="Acumula energía<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateMinerals" value="Acumula minerales<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateResearch" value="Acumula investigación<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateResearchWithTurnLimit" value="Acumula investigación en %3% turnos<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateSingularityCores" value="Acumula núcleos de singularidad<nbsp/>(%1%/%2%)"/>
 	<entry name="AccumulateSingularityCoresWithTurnLimit" value="Acumula núcleos de singularidad en %3% turnos<nbsp/>(%1%/%2%)"/>
 	<entry name="ArrangeInventory" value="Ordena adecuadamente los 6 patrones de ICAR en el inventario de un héroe"/>
 	<entry name="CaptureErelimPriest" value="Captura al sacerdote erelim en el Yermo"/>
 	<entry name="CaptureScientist" value="Captura al científico en el Yermo"/>
 	<entry name="CaptureUnit" value="Captura: %2%"/>
+	<entry name="ConstructBarracks" value="Construir barracones"/>
+	<entry name="CreateCaitiffWithPerfectForever" value="Produce <string name='Units/Caitiff'/> con <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)"/>
+	<entry name="DefeatHeartlessArtificer" value="Derrota a la <string name='Factions/HeartlessArtificer'/>"/>
+	<entry name="EstablishContacts" value="Establecer contactos<nbsp/>(%1%/%2%)"/>
+	<entry name="ExecuteDiplomaticActions" value="Usa acciones diplomáticas<nbsp/>(%1%/%2%)"/>
 	<entry name="ExecuteOrder" value="Ejecuta una orden %1%"/>
 	<entry name="ExecuteOrderWithHonorableAristocrat" value="Ejecuta una orden %1% con <string name='Factions/HonorableAristocrat'/>"/>
 	<entry name="ExecuteOrderWithEngineers" value="Ejecuta una orden %1% con <string name='Units/Engineer'/>"/>
 	<entry name="ExecuteOrderWithEngineersWithinTurns" value="Ejecuta una orden %1% con <string name='Units/Engineer'/> en %4% turnos"/>
 	<entry name="ExecuteOrderWithinTurns" value="Ejecuta una orden %1% en %4% turnos"/>
+	<entry name="ExecutePlayerAbilityProductRecall" value="Usa la habilidad de jugador <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)"/>
 	<entry name="ExecuteQuantumReflector" value="Reclama y utiliza %1% con una unidad de héroe"/>
+	<entry name="ExecuteTimeOutOfJoint" value="Usa <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)"/>
 	<entry name="FightChieftessForReyndverra" value="Lucha contra la Jefa por el derecho a Reyndverra"/>
+	<entry name="FormTradeAgreementWithNPC" value="Formar un acuerdo comercial con un NPC"/>
+	<entry name="FoundCity" value="Fundar una ciudad"/>
 	<entry name="KeepAcrinTitanAlive" value="Mantén con vida: <string name='Units/AcrinTitan'/> <nbsp/>(%1%/%2%)"/>
+	<entry name="KeepDeformityAlive" value="Mantén con vida: <string name='Units/Deformity'/><nbsp/>(%1%/%2%)"/>
 	<entry name="KeepUnitAlive" value="Mantén con vida: %2%"/>
 	<entry name="KeepZephonTitanAlive" value="Mantén con vida: <string name='Units/ZephonTitan'/> <nbsp/>(%1%/%2%)"/>
 	<entry name="KillAcrinTitan" value="Mata: <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)"/>
@@ -36,9 +47,11 @@
 	<entry name="KillBrynnAndForces" value="Mata a Brynn y a sus fuerzas"/>
 	<entry name="KillCalem" value="Mata a <string name='Units/CalemVorshole'/> y a su banda en %2% turnos o menos"/>
 	<entry name="KillCamp" value="Elimina el campamento"/>
+	<entry name="KillCityInTheClouds" value="Destruye la ciudad en las nubes"/>
 	<entry name="KillCultists" value="Elimina a los sectarios en %2% turnos"/>
 	<entry name="KillDreadPearlman" value="Destruye la fortaleza Dread Pearlman en %2% turnos"/>
 	<entry name="KillIronFeather" value="Purga a Pluma Férrea de tu mente"/>
+	<entry name="KillLaborUnionUnits" value="Mata a los agitadores del sindicato"/>
 	<entry name="KillMarkedUnit" value="Mata: %2%"/>
 	<entry name="KillMech" value="Destruye el meca de patrulla"/>
 	<entry name="KillMonster" value="Elimina al monstruo"/>
@@ -46,9 +59,12 @@
 	<entry name="KillOrin" value="Mata: <string name='Units/Orin'/>"/>
 	<entry name="KillReaverCamp" value="Elimina el campamento de asediadores"/>
 	<entry name="KillServerDefenders" value="Mata a los defensores de la granja de servidores"/>
+	<entry name="KillStormhearthFacility" value="Destruye las instalaciones de Stormhearth"/>
 	<entry name="KillTheFalseSpeaker" value="Destruye: %2%"/>
 	<entry name="KillTheTerror" value="Mata: <string name='Units/TheTerror'/>"/>
 	<entry name="KillUnit" value="Elimina unidades enemigas<nbsp/>(%1%/%2%)"/>
+	<entry name="KillUrsaMajorDefenders" value="Mata a los defensores de Osa Mayor en %2% turnos"/>
+	<entry name="KillVillage" value="Destruye aldeas (%1%/%2%)"/>
 	<entry name="KillWardenWithMercenaries" value="Elimina a %2% con <string name='Units/HonorableAristocratMissileTeam'/>"/>
 	<entry name="KillWithUnit" value="Elimina enemigos con %3%<nbsp/>(%1%/%2%)"/>
 	<entry name="KillYourHusband" value="Mata a tu marido"/>
@@ -59,6 +75,7 @@
 	<entry name="RecoverHusband" value="Recupera a tu marido"/>
 	<entry name="RepairUnit" value="Repara: %2%"/>
 	<entry name="ResistVirus" value="Resiste el virus durante %2% turnos"/>
+	<entry name="SendHeroUnitToFight" value="Envía una unidad de héroe a luchar en la arena"/>
 	<entry name="SurviveAugursMonsters" value="Sobrevive a la horda del Augur"/>
 	<entry name="SurviveCircusPerformers" value="Sobrevive a los artistas del Circo Cambion"/>
 	<entry name="SurviveDrugAddictedReavers" value="Sobrevive a los asediadores drogadictos"/>
@@ -70,6 +87,7 @@
 	<entry name="SurviveRivalForces" value="Sobrevive a las fuerzas rivales"/>
 	<entry name="SurviveSplenetics" value="Sobrevive a los Coléricos"/>
 	<entry name="SurviveUnknownAssailants" value="Sobrevive a los agresores desconocidos"/>
+	<entry name="SurviveVoiceInvasion" value="Sobrevive a la invasión de la Voz"/>
 	<entry name="SurviveZephonAssaultForce" value="Sobrevive a la fuerza de asalto de ZEPHON"/>
 	<entry name="VisitAugur" value="Busca en los puestos fronterizos cercanos al Augur Macabro<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitBanditKing" value="Lleva tus tropas al campamento del rey bandido"/>
@@ -83,7 +101,13 @@
 	<entry name="VisitOracleShardAndClearEnemies" value="Visita la esquirla Oráculo y elimina a los enemigos"/>
 	<entry name="VisitPassage" value="Busca el pasadizo gárcico<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitRitualSite" value="Mueve tus tropas al lugar del ritual"/>
+	<entry name="VisitTileWithGroupSize1" value="Visita la casilla con una unidad con tamaño de grupo 1<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize3" value="Visita la casilla con una unidad con tamaño de grupo 3<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize6" value="Visita la casilla con una unidad con tamaño de grupo 6<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithDeformity" value="Visita la casilla con unidades determinadas: <string name='Units/Deformity'/>"/>
+	<entry name="VisitTileWithIokSwarm" value="Visita la casilla con <string name='Units/IokSwarm'/>"/>
 	<entry name="VisitTileWithErelimPriest" value="Visita la casilla con <string name='Units/ErelimPriest'/>"/>
+	<entry name="VisitTileWithFlyingUnit" value="Visita la casilla con una unidad voladora para encontrar la ciudad<nbsp/>(%1%/%2%)"/>
 	<entry name="VisitTileWithHammerheadAndClearEnemies" value="Visita las casillas con <string name='Units/Hammerhead'/> y elimina a los enemigos<nbsp/>(%3%/%2%)"/>
 	<entry name="VisitTileWithHollowWarlord" value="Visita la casilla con <string name='Factions/HollowWarlord'/>"/>
 	<entry name="VisitTileWithHonorableAristocrat" value="Entrega suministros con <string name='Factions/HonorableAristocrat'/>"/>
@@ -91,6 +115,7 @@
 	<entry name="VisitTileWithJezina" value="Visita la casilla con <string name='Units/Jezina'/>"/>
 	<entry name="VisitTileWithJezinaAndClearEnemies" value="Visita la casilla con <string name='Units/Jezina'/> y elimina a los enemigos"/>
 	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="Visita la casilla con <string name='Units/LandanGraham'/> y elimina a los enemigos"/>
+	<entry name="VisitTileWithPhenarisHunter" value="Visita la casilla con <string name='Units/PhenarisHunter'/>"/>
 	<entry name="VisitTileWithResourceTransport" value="Visita la casilla con <string name='Units/ResourceTransport'/> en %4% turnos"/>
 	<entry name="WaitForFinalBattle" value="Espera %2% turnos antes de escoger un bando para la batalla final"/>
 	<entry name="WaitForGlandHarvest" value="Espera %2% turnos mientras se cosechan las glándulas de tu pueblo"/>

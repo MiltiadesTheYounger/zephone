@@ -2,24 +2,28 @@
 <language>
 	<entry name="Abhorrent" value="혐오감"/>
 	<entry name="AbkhanHoard" value="아브칸의 보물 더미"/>
-	<entry name="AbkhanHoardProperties" value="<icon texture='GUI/Bullet'/>사망 시 식량, 광물, 아이템을 보상으로 제공합니다.<br/><icon texture='GUI/Bullet'/>20턴 후 아브칸 둥지에서 부활합니다."/>
+	<entry name="AbkhanHoardProperties" value="<icon texture='GUI/Bullet'/>유닛으로 처치 시 식량, 광물, 아이템을 보상으로 제공합니다.<br/><icon texture='GUI/Bullet'/>20턴 후 아브칸 둥지에서 부화합니다."/>
 	<entry name="AbkhanRespawn" value="아브칸 부화"/>
+	<entry name="AblativeShell" value="<string name='Actions/AblativeShell'/>"/>
+	<entry name="AblativeShellFlavor" value="<string name='Actions/AblativeShellFlavor'/>"/>
 	<entry name="AbyssalRage" value="<string name='Actions/AbyssalRage'/>"/>
 	<entry name="AbyssalRageFlavor" value="<string name='Actions/AbyssalRageFlavor'/>"/>
-	<entry name="ArcDischarge" value="<string name='Features/ArcDischarge'/>"/>
-	<entry name="ArcDischargeFlavor" value="<string name='Features/ArcDischargeFlavor'/>"/>
+	<entry name="AccidentalBrilliance" value="뜻밖의 천재성"/>
+	<entry name="AccidentalBrillianceFlavor" value="<string name='Quests/TouchTheSky/CarveFaceSunHighRoad2'/>"/>
 	<entry name="AcrinAdvancement" value="아크린 발전"/>
 	<entry name="AcrinCrashSite" value="<string name='Features/AcrinCrashSite'/>"/>
 	<entry name="AcrinCrashSiteFlavor" value="<string name='Features/AcrinCrashSiteFlavor'/>"/>
 	<entry name="AegyllanSight" value="아이길란 시야"/>
+	<entry name="AgelessHunger" value="영원한 허기"/>
 	<entry name="Agile" value="날렵함"/>
 	<entry name="AgileProperties" value="<icon texture='GUI/Bullet'/>숲과 유적에서 <string name='Attributes/MovementIcon'/> 이동 비용이 감소합니다."/>
 	<entry name="AkavishRig" value="<string name='Items/AkavishRig'/>"/>
 	<entry name="AkavishRigFlavor" value="<string name='Items/AkavishRigFlavor'/>"/>
 	<entry name="AlgaeUpgrade" value="축복받은 감염"/>
+	<entry name="Ambush" value="기습"/>
 	<entry name="AmnioticSubstance" value="양수 물질"/>
 	<entry name="AmnioticSubstanceFlavor" value="<string name='Quests/UnderObservation/DestroyShards2'/>"/>
-	<entry name="AmoetiasCaress" value="아모에티아스의 애무"/>
+	<entry name="AmoetiasCaress" value="아모에티아의 애무"/>
  	<entry name="AmoetiasCaressProperties" value="<icon texture='GUI/Bullet'/><icon height='20' texture='Icons/Shop'/> 맹약단에게 희귀 목소리 아이템을 구매할 수 있습니다."/>
 	<entry name="AmoetiasEmbrace" value="아모에티아의 포옹"/>
  	<entry name="AmoetiasEmbraceProperties" value="<icon texture='GUI/Bullet'/><icon height='20' texture='Icons/Shop'/> 맹약단에게 매우 희귀 목소리 아이템을 구매할 수 있습니다."/>
@@ -37,7 +41,11 @@
 	<entry name="AntimatterPlating" value="반물질 장갑"/>
 	<entry name="AntimatterShield" value="반물질 보호막"/>
 	<entry name="AntimatterUpgrade" value="안전 장치 분리"/>
+	<entry name="ApolineNegotiation" value="아폴리네와의 협상"/>
+	<entry name="ApolineNegotiationFlavor" value="<string name='Quests/StormOfStorms/BegAndBargain2'/>"/>
 	<entry name="AraneanCloak" value="아라니안 은폐"/>
+	<entry name="ArcDischarge" value="<string name='Features/ArcDischarge'/>"/>
+	<entry name="ArcDischargeFlavor" value="<string name='Features/ArcDischargeFlavor'/>"/>
 	<entry name="Archaegis" value="<string name='Items/Archaegis'/>"/>
 	<entry name="ArchaegisFlavor" value="<string name='Items/ArchaegisFlavor'/>"/>
 	<entry name="ArchaiConstruct" value="아카이 구조물"/>
@@ -57,8 +65,12 @@
 	<entry name="AssaultTransport" value="돌격 수송"/>
 	<entry name="AssaultTransportProperties" value="<icon texture='GUI/Bullet'/>대형 유닛이 아닌 유닛을 수송합니다.<br/><icon texture='GUI/Bullet'/>하차한 유닛은 온전히 이동할 수 있습니다.<br/><icon texture='GUI/Bullet'/>차량 파괴 시 탑승한 유닛은 사망합니다."/>
 	<entry name="AsymmetricArbitrage" value="비대칭적 차익거래"/>
+	<entry name="AtmosphericAnchor" value="<string name='Features/AtmosphericAnchor'/>"/>
+	<entry name="AtmosphericAnchorFlavor" value="<string name='Features/AtmosphericAnchorFlavor'/>"/>
 	<entry name="AtramentousAura" value="<string name='Actions/AtramentousAura'/>"/>
 	<entry name="AtramentousAuraFlavor" value="<string name='Actions/AtramentousAuraFlavor'/>"/>
+	<entry name="AttackFunction" value="<string name='Actions/AttackFunction'/>"/>
+	<entry name="AttackFunctionFlavor" value="<string name='Actions/AttackFunctionFlavor'/>"/>
 	<entry name="Augmentations" value="증강"/>
 	<entry name="AugmentationsProperties" value="<icon texture='GUI/Bullet'/>영향력을 사용해 유닛을 강화합니다."/>
 	<entry name="AuraOfDiscipline" value="<string name='Actions/AuraOfDiscipline'/>"/>
@@ -90,6 +102,8 @@
 	<entry name="BunkerExtension" value="벙커 확장"/>
 	<entry name="BunkerExtensionProperties" value="<icon texture='GUI/Bullet'/>추가 <string name='Weapons/HeavyMachineGun'/>을 부여합니다."/>
 	<entry name="Burning" value="화상"/>
+	<entry name="CaelumCeteRebel" value="<string name='Units/CaelumCete'/>(스물여덟 용)"/>
+	<entry name="CaelumCeteRebelFlavor" value="<string name='Quests/CityInTheClouds/SupportRebelsSuccess'/>"/>
 	<entry name="CannibalizeMachines" value="기계 포식"/>
 	<entry name="Capturable" value="점령 가능"/>
 	<entry name="CapturableProperties" value="<icon texture='GUI/Bullet'/>%1% 유닛으로 점령 가능"/>
@@ -123,7 +137,7 @@
 	<entry name="Concussed" value="진탕"/>
 	<entry name="Concussive" value="진탕성"/>
 	<entry name="Cone" value="원뿔"/>
-	<entry name="ConeProperties" value="<icon texture='GUI/Bullet'/>절반의 공격력으로 대상 타일의 왼쪽과 오른쪽 적도 공격"/>
+	<entry name="ConeProperties" value="<icon texture='GUI/Bullet'/>절반의 공격력으로 대상 타일의 왼쪽과 오른쪽 적도 공격합니다."/>
 	<entry name="ConstructionUpgrade" value="산업 밀도"/>
 	<entry name="Contagious" value="전염성"/>
 	<entry name="CorpseCities" value="시체 도시"/>
@@ -164,11 +178,16 @@
 	<entry name="DecoyFlares" value="<string name='Actions/DecoyFlares'/>"/>
 	<entry name="DecoyFlaresFlavor" value="<string name='Actions/DecoyFlaresFlavor'/>"/>
 	<entry name="DefenseMatrix" value="방어 매트릭스"/>
+	<entry name="Defiled" value="더럽혀짐"/>
+	<entry name="DefiledFlavor" value="<string name='Traits/DefilingFlavor'/>"/>
+	<entry name="Defiling" value="더럽힘"/>
 	<entry name="DeflectorShield" value="반사 보호막"/>
 	<entry name="Deforming" value="변형"/>
 	<entry name="Decaying" value="부패"/>
+	<entry name="Desiccated" value="건조됨"/>
 	<entry name="DeportedReavers" value="추방된 약탈단"/>
 	<entry name="DeportedReaversFlavor" value="<string name='Quests/TheyAreInTheWalls/Deport'/>"/>
+	<entry name="DermalPatching" value="피부 패치"/>
 	<entry name="DimensionalEchoesUpgrade" value="우조다이의 영액"/>
 	<entry name="DimensionalReverberations" value="차원의 반향"/>
 	<entry name="DimensionalShunts" value="<string name='Items/DimensionalShunts'/>"/>
@@ -187,6 +206,8 @@
 	<entry name="DustStormFlavor" value="<string name='Features/DustStormFlavor'/>"/>
 	<entry name="DynameisPlate" value="<string name='Items/DynameisPlate'/>"/>
 	<entry name="DynameisPlateFlavor" value="<string name='Items/DynameisPlateFlavor'/>"/>
+	<entry name="EconomiesOfScale" value="규모의 경제"/>
+	<entry name="Elusive" value="신출귀몰"/>
 	<entry name="EMP" value="EMP"/>
 	<entry name="EmulatedMindAffinityUpgrade2" value="파란의 지평선"/>
 	<entry name="EnergyUpgrade" value="생물량 발전기"/>
@@ -204,6 +225,8 @@
 	<entry name="EssenceSyphonedFlavor" value="<string name='Traits/EssenceSyphonFlavor'/>"/>
 	<entry name="EssenceSyphoning" value="정수 흡수"/>
 	<entry name="EssenceSyphoningFlavor" value="<string name='Traits/EssenceSyphonFlavor'/>"/>
+	<entry name="EvadeFunction" value="<string name='Actions/EvadeFunction'/>"/>
+	<entry name="EvadeFunctionFlavor" value="<string name='Actions/EvadeFunctionFlavor'/>"/>
 	<entry name="EvasionProcessor" value="<string name='Actions/EvasionProcessor'/>"/>
 	<entry name="EvasionProcessorFlavor" value="<string name='Actions/EvasionProcessorFlavor'/>"/>
 	<entry name="EvasiveManeuvers" value="<string name='Actions/EvasiveManeuvers'/>"/>
@@ -222,12 +245,12 @@
 	<entry name="EyeOfPhinnicusFlavor" value="<string name='Quests/TheDeadHandOfCapitalism/TakeHisEyes2'/>"/>
 	<entry name="EyeOfPhinnicusDamaged" value="피니쿠스의 눈(망가짐)"/>
 	<entry name="EyeOfPhinnicusDamagedFlavor" value="<string name='Quests/TheDeadHandOfCapitalism/HostileTakeover2'/>"/>
-	<entry name="FallenSoldierAffinityUpgrade" value="올드 페인리스"/>
+	<entry name="FallenSoldierAffinityUpgrade" value="자비로운 옛 친구"/>
 	<entry name="FallenSoldierAffinityUpgradeFlavor" value="<string name='Upgrades/FallenSoldierAffinityUpgradeFlavor'/>"/>
 	<entry name="FallenSoldierAffinityUpgrade2" value="절제적인 성장"/>
 	<entry name="FallenSoldierAffinityUpgrade2Flavor" value="<string name='Upgrades/FallenSoldierAffinityUpgrade2Flavor'/>"/>
 	<entry name="FerventStrength" value="열렬한 힘"/>
-	<entry name="FerventStrengthProperties" value="<icon texture='GUI/Bullet'/>쳬력이 50%% 미만이어도 명중률 감소 불이익을 받지 않습니다."/>
+	<entry name="FerventStrengthProperties" value="<icon texture='GUI/Bullet'/>쳬력이 50% 미만이어도 명중률 감소 불이익을 받지 않습니다."/>
 	<entry name="Fire" value="<string name='Features/Fire'/>"/>
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
@@ -239,7 +262,7 @@
 	<entry name="FoodUpgrade" value="어장 구역"/>
 	<entry name="Forest" value="<string name='Features/Forest'/>"/>
 	<entry name="ForestFlavor" value="<string name='Features/ForestFlavor'/>"/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>3%%<style color='Default'/> 확률로 늪 지형에 숲이 퍼집니다."/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>3%<style color='Default'/> 확률로 늪 지형에 숲이 퍼집니다."/>
 	<entry name="FoundationOfBlood" value="<string name='Actions/FoundationOfBlood'/>"/>
 	<entry name="FoundationOfBloodFlavor" value="<string name='Actions/FoundationOfBloodFlavor'/>"/>
 	<entry name="Fortification" value="요새화"/>
@@ -252,6 +275,7 @@
 	<entry name="FrenzyFlavor" value="<string name='Actions/FrenzyFlavor'/>"/>
 	<entry name="FurtiveTribunalAffinityUpgrade2" value="에레미트 밀실"/>
 	<entry name="FusionWarhead" value="핵융합 탄두"/>
+	<entry name="GalgalimPlating" value="갈갈림 장갑"/>
 	<entry name="GladialEmanator" value="<string name='Items/GladialEmanator'/>"/>
 	<entry name="GladialEmanatorFlavor" value="<string name='Items/GladialEmanatorFlavor'/>"/>
 	<entry name="GlandHarvest" value="샘 수확"/>
@@ -271,7 +295,7 @@
 	<entry name="HauntedFlavor" value="<string name='Quests/TheDream/Ignore'/>"/>
 	<entry name="Headquarters" value="본부"/>
 	<entry name="HeadquartersFlavor" value="<string name='Units/HeadquartersFlavor'/>"/>
-	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>본부 유닛을 파괴하면 도시 전체가 파괴됩니다."/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>본부 유닛을 파괴하면 도시 전체가 파괴됩니다.<br/><icon texture='GUI/Bullet'/>사망 시 은닉품을 생성합니다."/>
 	<entry name="HeadquartersAccuracyUpgrade" value="불운한 감적수"/>
 	<entry name="HeadquartersAlgae" value="경계에 걸친 집"/>
 	<entry name="HeadquartersChips" value="주기적인 성장"/>
@@ -292,8 +316,13 @@
 	<entry name="HiredHands" value="인력 고용"/>
 	<entry name="HiredHandsProperties" value="영향력을 사용해 생산을 가속합니다."/>
 	<entry name="HitAndRun" value="일격 이탈"/>
+	<entry name="Hobbled" value="다리 묶임"/>
+	<entry name="HobbledFlavor" value="<string name='Traits/HobblingFlavor'/>"/>
+	<entry name="Hobbling" value="다리 묶음"/>
 	<entry name="HollowWarlordAffinityUpgrade" value="달리거나 죽거나"/>
 	<entry name="HollowWarlordAffinityUpgrade2" value="파멸의 청춘"/>
+	<entry name="HoloDecoy" value="<string name='Items/HoloDecoy'/>"/>
+	<entry name="HoloDecoyFlavor" value="<string name='Items/HoloDecoyFlavor'/>"/>
 	<entry name="Holopatter" value="홀로패터"/>
 	<entry name="HolyBond" value="<string name='Actions/HolyBond'/>"/>
 	<entry name="HolyBondFlavor" value="<string name='Actions/HolyBondFlavor'/>"/>
@@ -307,12 +336,14 @@
 	<entry name="HorizonExpansionFlavor" value="<string name='Upgrades/HorizonExpansionFlavor'/>"/>
 	<entry name="Horrifying" value="끔찍함"/>
 	<entry name="Hovering" value="호버링"/>
-	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>물 위로 이동할 수 있습니다.<br/><icon texture='GUI/Bullet'/>강, 혈사초에 영향을 받지 않습니다."/>
+	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>물 위로 이동할 수 있습니다.<br/><icon texture='GUI/Bullet'/>강, 혈사초, 불타는 타일에 영향을 받지 않습니다."/>
 	<entry name="HumanAircraftUpgrade" value="공중 수송망"/>
 	<entry name="HumanAircraftUpgradeFlavor" value="<string name='Traits/AirFreightnetFlavor'/>"/>
 	<entry name="HumanInfantryUpgrade" value="떠돌이 징집관"/>
 	<entry name="HumanOperationsUpgrade" value="옛 액세스 프로토콜"/>
 	<entry name="HumanVehiclesUpgrade" value="노동 조합"/>
+	<entry name="HungerEmbraced" value="허기, 받아들임"/>
+	<entry name="HungerEmbracedFlavor" value="<string name='Quests/BecomingUnbound/PoetsInfinity2'/>"/>
 	<entry name="HungerOfHwedo" value="회도의 굶주림"/>
 	<entry name="HungerOfHwedoFlavor" value="시민을 기꺼이 희생한다면 야수를 만족시킬 수 있습니다."/>
 	<entry name="HungeringCirclet" value="<string name='Items/HungeringCirclet'/>"/>
@@ -329,20 +360,37 @@
 	<entry name="ImmobilizingFlavor" value="<string name='Traits/ImmobilizedFlavor'/>"/>
 	<entry name="Immoral" value="부도덕"/>
 	<entry name="ImmoralProperties" value="<icon texture='GUI/Bullet'/>턴마다 충성도가 0.5씩 감소합니다."/>
+	<entry name="ImmaculateDeliveryUpgrade" value="<string name='Upgrades/ImmaculateDeliveryUpgrade'/>"/>
+	<entry name="ImmaculateDeliveryUpgradeFlavor" value="<string name='Upgrades/ImmaculateDeliveryUpgradeFlavor'/>"/>
 	<entry name="IncandescentIcon" value="<string name='Items/IncandescentIcon'/>"/>
 	<entry name="IncandescentIconFlavor" value="<string name='Items/IncandescentIconFlavor'/>"/>
 	<entry name="Independent" value="독립성"/>
 	<entry name="IndirectFire" value="간접 사격"/>
 	<entry name="InevitableEnd" value="<string name='Actions/InevitableEnd'/>"/>
 	<entry name="InevitableEndFlavor" value="<string name='Actions/InevitableEndFlavor'/>"/>
+	<entry name="Infinite" value="<string name='Actions/Infinite'/>"/>
+	<entry name="InfiniteFlavor" value="<string name='Actions/InfiniteFlavor'/>"/>
+	<entry name="InfiniteCountAffinityUpgrade2" value="전염성 식욕"/>
 	<entry name="InfluenceUpgrade" value="하항"/>
 	<entry name="InterferenceProtocols" value="<string name='Actions/InterferenceProtocols'/>"/>
 	<entry name="InterferenceProtocolsFlavor" value="<string name='Actions/InterferenceProtocolsFlavor'/>"/>
 	<entry name="InternalRepairStation" value="<string name='Actions/InternalRepairStation'/>"/>
 	<entry name="InternalRepairStationFlavor" value="<string name='Actions/InternalRepairStationFlavor'/>"/>
+	<entry name="InvasiveAuditor" value="<string name='Items/InvasiveAuditor'/>"/>
+	<entry name="InvasiveAuditorFlavor" value="<string name='Items/InvasiveAuditorFlavor'/>"/>
+	<entry name="Invulnerable" value="무적"/>
+	<entry name="InvulnerableProperties" value="<icon texture='GUI/Bullet'/>모든 피해에 무적이 됩니다."/>
 	<entry name="Iokla" value="<string name='Items/Iokla'/>"/>
 	<entry name="IoklaFlavor" value="<string name='Items/IoklaFlavor'/>"/>
 	<entry name="JudgementFromAbove" value="하늘에서 빗발치는 심판"/>
+	<entry name="JustShipIt" value="일단 출시해"/>
+	<entry name="JustShipItProperties" value="<icon texture='GUI/Bullet'/> 생산 시 무작위 약화 효과를 받습니다."/>
+	<entry name="JustShipItDebuffAttacks" value="느릿한 공격"/>
+	<entry name="JustShipItDebuffAttacksFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
+	<entry name="JustShipItDebuffAttacksTaken" value="쉬운 표적"/>
+	<entry name="JustShipItDebuffAttacksTakenFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
+	<entry name="JustShipItDebuffMovement" value="초과 적재"/>
+	<entry name="JustShipItDebuffMovementFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
 	<entry name="Kenaz" value="케나즈"/>
 	<entry name="KenazFlavor" value="<string name='Quests/UnderObservation/AcquireShardsSuccess2'/>"/>
 	<entry name="Kind" value="친절함"/>
@@ -358,6 +406,8 @@
 	<entry name="Leashed" value="묶임"/>
 	<entry name="LeashedProperties" value="<icon texture='GUI/Bullet'/>경계선 안에 머뭅니다.<br/><icon texture='GUI/Bullet'/>적을 경계하지만 차례에 반드시 공격하지는 않습니다.<br/><icon texture='GUI/Bullet'/>공격을 받으면 근처의 아군과 함께 공격합니다."/>
 	<entry name="LeaveNoManBehind" value="아무도 버리지 않는다"/>
+	<entry name="LeechingTouch" value="<string name='Weapons/LeechingTouch'/>"/>
+	<entry name="LeechingTouchFlavor" value="<string name='Weapons/LeechingTouchFlavor'/>"/>
 	<entry name="LifeSteal" value="생명 흡수"/>
 	<entry name="LifestyleImplants" value="생활 방식 임플란트"/>
 	<entry name="LiquidDeflectionAugment" value="<string name='Actions/LiquidDeflectionAugment'/>"/>
@@ -401,6 +451,8 @@
 	<entry name="MothersFavorFlavor" value="<string name='Actions/MothersFavorFlavor'/>"/>
 	<entry name="MothersVengeance" value="어미의 복수"/>
 	<entry name="MothersVengeanceFlavor" value="<string name='Quests/ImpossibleConception/LetHimGoSuccess2'/>"/>
+	<entry name="MoveFunction" value="<string name='Actions/MoveFunction'/>"/>
+	<entry name="MoveFunctionFlavor" value="<string name='Actions/MoveFunctionFlavor'/>"/>
 	<entry name="Mysticism" value="신비주의"/>
 	<entry name="ICARFluidDeflector" value="<string name='Items/ICARFluidDeflector'/>"/>
 	<entry name="ICARFluidDeflectorFlavor" value="<string name='Items/ICARFluidDeflectorFlavor'/>"/>
@@ -434,6 +486,10 @@
 	<entry name="Penance" value="참회"/>
 	<entry name="PerimeterRange" value="경계 범위"/>
 	<entry name="PerimeterRangeProperties" value="<icon texture='GUI/Bullet'/>도시 타일 위 또는 인접한 유닛을 대상으로 정할 수 있습니다."/>
+	<entry name="PerfectForever" value="<string name='Actions/PerfectForever'/>"/>
+	<entry name="PerfectForeverFlavor" value="<string name='Actions/PerfectForeverFlavor'/>"/>
+	<entry name="PersonalVisit" value="<string name='Actions/PersonalVisit'/>"/>
+	<entry name="PersonalVisitFlavor" value="<string name='Actions/PersonalVisitFlavor'/>"/>
 	<entry name="Phantasm" value="환상"/>
 	<entry name="PhaseFontead" value="<string name='Items/PhaseFontead'/>"/>
 	<entry name="PhaseFonteadFlavor" value="<string name='Items/PhaseFonteadFlavor'/>"/>
@@ -456,10 +512,13 @@
 	<entry name="PlagueOpenBusinessSuccessFlavor" value="<string name='Quests/ThePlague/OpenBusinessSuccess'/>"/>
 	<entry name="PlannedEconomy" value="계획 경제"/>
 	<entry name="PlannedEconomyFlavor" value="<string name='Quests/EconomicBubble/StateControlSuccess'/>"/>
+	<entry name="PlatinumScionAffinityUpgrade" value="우리는 그를 재건할 수 있다"/>
+	<entry name="PlatinumScionAffinityUpgrade2" value="<string name='Actions/PlatinumScionAffinityUpgrade2'/>"/>
+	<entry name="PlatinumScionAffinityUpgrade2Flavor" value="<string name='Actions/PlatinumScionAffinityUpgrade2Flavor'/>"/>
 	<entry name="Poisoned" value="중독"/>
 	<entry name="PoisonedFlavor" value="<string name='Traits/ToxicSpearheadFlavor'/>"/>
 	<entry name="PopulationLimitUpgrade" value="집단 도관"/>
-	<entry name="PopulationLimitUpgrade2" value="수직 추적"/>
+	<entry name="PopulationLimitUpgrade2" value="수직 가수면"/>
 	<entry name="PowerSpike" value="<string name='Actions/PowerSpike'/>"/>
 	<entry name="PowerSpikeFlavor" value="<string name='Actions/PowerSpikeFlavor'/>"/>
 	<entry name="PracticalRomanticAffinityUpgrade" value="엘드의 유물"/>
@@ -469,6 +528,8 @@
 	<entry name="Prey" value="먹잇감"/>
 	<entry name="PreyFlavor" value="<string name='Quests/TheGreatHunt/Ignore'/>"/>
 	<entry name="ProfusePropagation" value="풍부한 번식"/>
+	<entry name="PsychicSpoor" value="<string name='Actions/PsychicSpoor'/>"/>
+	<entry name="PsychicSpoorFlavor" value="<string name='Actions/PsychicSpoorFlavor'/>"/>
 	<entry name="Pulling" value="끌어당김"/>
 	<entry name="QuarryFeed" value="쿼리 피드"/>
 	<entry name="QuidProQuo" value="상호 교환"/>
@@ -480,14 +541,18 @@
 	<entry name="ReaverAdvancement" value="약탈단 발전"/>
 	<entry name="RogueOperativeAffinityUpgrade" value="쓰레기 위장"/>
 	<entry name="RogueOperativeAffinityUpgrade2" value="유령 군단"/>
+	<entry name="Rustbinged" value="녹 폭식함"/>
+	<entry name="RustbingedFlavor" value="<string name='Traits/RustbingingFlavor'/>"/>
+	<entry name="Rustbinging" value="녹 폭식"/>
 	<entry name="CloseQuartersFire" value="근접 사격"/>
-	<entry name="CloseQuartersFireProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>사거리의 절반 안에서 +100%%<style color='Default'/> <string name='Attributes/AttacksIcon'/> 공격력을 얻습니다."/>
+	<entry name="CloseQuartersFireProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>사거리의 절반 안에서 +100%<style color='Default'/> <string name='Attributes/AttacksIcon'/> 공격력을 얻습니다."/>
 	<entry name="Rare" value="매우 희귀"/>
 	<entry name="RareProperties" value="<icon texture='GUI/Bullet'/>분류"/>
 	<entry name="ReactiveTrigger" value="<string name='Items/ReactiveTrigger'/>"/>
 	<entry name="ReactiveTriggerFlavor" value="<string name='Items/ReactiveTriggerFlavor'/>"/>
+	<entry name="ReaverDepot" value="<string name='Features/ReaverDepot'/>"/>
+	<entry name="ReaverDepotFlavor" value="<string name='Features/ReaverDepotFlavor'/>"/>
 	<entry name="Recession" value="불황"/>
-	<entry name="RecessionFlavor" value="불황"/>
 	<entry name="RecyclingTanksUnit" value="<string name='Features/RecyclingTanks'/>"/>
 	<entry name="RecyclingTanksUnitFlavor" value="<string name='Features/RecyclingTanksFlavor'/>"/>
 	<entry name="Regeneration" value="재생"/>
@@ -504,6 +569,7 @@
 	<entry name="Roaming" value="배회"/>
 	<entry name="Ruins" value="폐허"/>
 	<entry name="RuinsFlavor" value="<string name='Features/RuinsFlavor'/>"/>
+	<entry name="Sapping" value="쇠잔"/>
 	<entry name="Scavenger" value="폐품업자"/>
 	<entry name="SchismOfRegimina" value="<string name='Items/SchismOfRegimina'/>"/>
 	<entry name="SchismOfRegiminaFlavor" value="<string name='Items/SchismOfRegiminaFlavor'/>"/>
@@ -530,8 +596,12 @@
 	<entry name="SmokeScreen" value="<string name='Features/SmokeScreen'/>"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Features/SmokeScreenFlavor'/>"/>
 	<entry name="Sniper" value="저격수"/>
+	<entry name="SolarVisage" value="태양 얼굴"/>
+	<entry name="SolarVisageFlavor" value="<string name='Quests/TouchTheSky/CarveFaceSunCanon2'/>"/>
 	<entry name="SpiritOfMankind" value="인류의 정신"/>
 	<entry name="Splash" value="인접 피해"/>
+	<entry name="SpoiledFun" value="깨져 버린 흥"/>
+	<entry name="SpoiledFunFlavor" value="<string name='Quests/TheMartialEthic/SpoilTheFun2'/>"/>
 	<entry name="SpotterDrone" value="<string name='Items/SpotterDrone'/>"/>
 	<entry name="SpotterDroneFlavor" value="<string name='Items/SpotterDroneFlavor'/>"/>
 	<entry name="StealingReavers" value="도둑질하는 약탈단"/>
@@ -539,6 +609,8 @@
 	<entry name="Stealth" value="은신"/>
 	<entry name="StolenFlesh" value="<string name='Items/StolenFlesh'/>"/>
 	<entry name="StolenFleshFlavor" value="<string name='Items/StolenFleshFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="Stunned" value="기절"/>
 	<entry name="Summon" value="소환"/>
 	<entry name="SummonProperties" value="<string name='Modifiers/WhenDurationRunsOut'/> <icon texture='GUI/Bullet'/>유닛 사망"/>
@@ -565,12 +637,16 @@
 	<entry name="TalesOfTheHunt" value="사냥 이야기"/>
 	<entry name="TargetingRelay" value="<string name='Actions/TargetingRelay'/>"/>
 	<entry name="TargetingRelayFlavor" value="<string name='Actions/TargetingRelayFlavor'/>"/>
+	<entry name="TimeOutOfJoint" value="<string name='Actions/TimeOutOfJoint'/>"/>
+	<entry name="TimeOutOfJointFlavor" value="<string name='Actions/TimeOutOfJointFlavor'/>"/>
 	<entry name="TempleOfCrla" value="<string name='Features/TempleOfCrla'/>"/>
 	<entry name="TempleOfCrlaFlavor" value="<string name='Features/TempleOfCrlaFlavor'/>"/>
 	<entry name="TemporalDistension" value="시간 팽창"/>
 	<entry name="TenderMinistrations" value="부드러운 돌봄"/>
 	<entry name="TerrorVanquished" value="공포 정복"/>
 	<entry name="TerrorVanquishedFlavor" value="<string name='Quests/TheGreatHunt/PaySuccess'/>"/>
+	<entry name="TheArrival" value="도래"/>
+	<entry name="TheArrivalFlavor" value="<string name='Quests/BecomingUnbound/ConquerorsPresentSuccess2'/>"/>
 	<entry name="TheDeal" value="거래"/>
 	<entry name="TheDealFlavor" value="<string name='Quests/TheDeadHandOfCapitalism/TakeTheDeal2'/>"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -583,6 +659,12 @@
 	<entry name="ThePastImprovedZephonFlavor" value="<string name='Quests/TheSpaceEngine/SellTechToZephonSuccess'/>"/>
 	<entry name="ThePastMitigated" value="완화된 과거"/>
 	<entry name="ThePastMitigatedFlavor" value="<string name='Quests/TheSpaceEngine/ChangeThePastSuccess'/>"/>
+	<entry name="TheSureThingLong" value="<string name='Actions/TheSureThingLong'/>"/>
+	<entry name="TheSureThingLongFlavor" value="<string name='Actions/TheSureThingLongFlavor'/>"/>
+	<entry name="TheSureThingMedium" value="<string name='Actions/TheSureThingMedium'/>"/>
+	<entry name="TheSureThingMediumFlavor" value="<string name='Actions/TheSureThingMediumFlavor'/>"/>
+	<entry name="TheSureThingShort" value="<string name='Actions/TheSureThingShort'/>"/>
+	<entry name="TheSureThingShortFlavor" value="<string name='Actions/TheSureThingShortFlavor'/>"/>
 	<entry name="ThereIsHopeUpgrade2" value="체계적인 몽상가"/>
 	<entry name="ThrashEm" value="<string name='Actions/ThrashEm'/>"/>
 	<entry name="ThrashEmFlavor" value="<string name='Actions/ThrashEmFlavor'/>"/>
@@ -610,6 +692,7 @@
 	<entry name="Uncommon" value="희귀"/>
 	<entry name="UncommonProperties" value="<icon texture='GUI/Bullet'/>분류"/>
 	<entry name="Undersupplied" value="보급품 부족"/>
+	<entry name="UndersuppliedProperties" value="<icon texture='GUI/Bullet'/>자원 유지비가 부족한 턴마다 명중률이 10%씩, 최대 50%까지 감소합니다."/>
 	<entry name="Undying" value="불사"/>
 	<entry name="UnholyHaste" value="<string name='Actions/UnholyHaste'/>"/>
 	<entry name="UnholyHasteFlavor" value="<string name='Actions/UnholyHasteFlavor'/>"/>
@@ -623,7 +706,8 @@
 	<entry name="UzhodaisZealFlavor" value="<string name='Actions/UzhodaisZealFlavor'/>"/>
 	<entry name="Valhalla" value="<string name='Actions/Valhalla'/>"/>
 	<entry name="ValhallaFlavor" value="<string name='Actions/ValhallaFlavor'/>"/>
-	<entry name="ValhallaProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>지역 내에서 유닛이 죽을 때마다 <string name='Attributes/DamageIcon'/> 피해 +10<style color='Default'/>%%를 얻습니다."/>
+	<entry name="ValhallaProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>지역 내에서 유닛이 죽을 때마다 <string name='Attributes/DamageIcon'/> 피해 +10<style color='Default'/>%를 얻습니다."/>
+	<entry name="VanguardShield" value="선봉대 보호막"/>
 	<entry name="VoiceAircraftUpgrade" value="새벽녘의 찬송"/>
 	<entry name="VoiceAircraftUpgradeFlavor" value="<string name='Traits/AntiphonAtDaybreakFlavor'/>"/>
 	<entry name="VoiceInfantryUpgrade" value="니힐러스의 선창자"/>
@@ -656,14 +740,16 @@
 	<entry name="ZephonVirus" value="제폰 바이러스"/>
 	<entry name="ZephonVirusFlavor" value="<string name='Quests/ImpossibleConception/MotherDefendSuccess'/>"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbhorrentFlavor" value="어머니는 협상에 능한 편이 아니었다. 다른 사람들은 어머니를 동정했을지 모르지만... 현실을 직시하자. 그 시체를 보고 동정심을 느끼기는 쉽지 않았다. 어머니는 받은 것보다 더 많은 것을 가져가기 위해, 그들이 자신을 이용하도록 내버려둔 걸까?"/>
 	<entry name="AbkhanHoardFlavor" value="아브칸의 뇌 깊은 곳에는 순수한 증오의 본능이 자리 잡고 있었을 거다. 그 괴물들은 쓰는 법도 모르는 식량과 보급품을 쌓아두었다. 단지 우리가 그걸 필요로 한다는 것만 알았지. 그건 단순한 함정이 아니었다. 먹잇감을 조롱하는 행동이었지."/>
 	<entry name="AcrinAdvancementFlavor" value="아크린을 절대로 무시하면 안 된다. 그들은 우주에서 수천 년을 생존했다. 펄크럼의 폭발도, 폐허가 된 지구의 공포도 놈들을 없애지 못했다. 은수자는 항상 장기적인 안목을 가지고 있으며, 그의 백성이 전쟁의 트라우마를 잊게 될 날을 꿈꾼다."/>
 	<entry name="AegyllanSightFlavor" value="아이길란 벌레는 어둡고 습한 곳에서 오랜 시간을 보내 시력이 약해지기 시작했다. 세대를 거듭하면서 후각, 청각, 촉각 등 다른 감각은 발달했지만 시각은 완전히 포기한 것으로 보였다. 지하에서 지낼 때는 문제가 없었겠지만, 전쟁 때문에 지상으로 올라왔을 때는 형편 없는 정찰 능력만 남았다."/>
+	<entry name="AgelessHungerFlavor" value="마치 원자로 옆에 사는 것과 같다. 종양이 생기는 대신, 시간이 제대로 흐르지 않는 듯한 느낌만 있을 뿐. 머리카락은 너무 빨리 자라고, 치아는 헐거워진다. 눈가의 잔주름이 밭고랑처럼 패였다. 백작은 그 시간을 되돌려 줄 수 있다. 먼저 전장의 한 불쌍한 녀석에게서 그 시간을 도려내야 했을 뿐."/>
 	<entry name="AgileFlavor" value="발이 빠른 생존자는 거친 지형에서 최고의 사냥꾼이 되었다."/>
 	<entry name="AirFreightnetFlavor" value="더 이상 '공항'과 같은 시설은 없었기 때문에 화물기는 군용 비행장을 드나들어야 했다. 그러자 좋은 부작용이 발생했다. 기지를 오가는 정기 항공편이 몇 편이라도 생기면 상인부터 희망에 찬 가족들까지 모두가 격납고에 여분의 화물을 실으려고 몰려들었다. 이건 사람들에게... 전쟁이 없는 일상을 떠올리게 했다."/>
 	<entry name="AlgaeUpgradeFlavor" value="농장에서 흘러나온 유출수는 때때로 우리가 식량을 재배하려던 토양을 오염시켰다. 과학자들이 오염에 대비하고 있었지만, 그다음에 일어난 일에는 대비하지 못했다. 병든 토양에 조류가 뿌리를 내렸다. 식량을 더 많이 생산할수록 조류도 더 많이 발생하는 악순환의 고리가 시작된 것이다. 덕분에 인간도, 목소리 숭배자도 더 풍족하게 식사할 수 있었다."/>
+	<entry name="AmbushFlavor" value="나무 위에 웅크린 채, 나는 죽은 저격수한테서 뺏은 소총을 아래로 겨누고 있었다. 목표물을 기다리던 그때, 아래에서 무언가 움직였다. 들개였다. 코요테였을 수도 있고. 녀석은 나에게는 보이지 않는 뭔가를 쫓으며 수풀 사이를 기어가고 있었다. 우리를 좀 보라지. 둘 다 사냥꾼이군. 그림자 속에서 공격할 준비가 된 사냥꾼."/>
 	<entry name="AmoetiasCaressFlavor" value="맹약단은 아이들을 혈사초 지대로 보냈다. 후레자식들. 누구에게든 위험한 작업이었지만, 희귀한 목소리 유물을 만드는 데 필요한 수정은 아이들의 작은 손으로 더 잘 캐낼 수 있는 모양이었다. 그걸 사면 표면에 묻은 피가 손을 더럽혔지. 그리고 다들 그 피가 누구의 것인지 알고 있었다..."/>
 	<entry name="AmoetiasEmbraceFlavor" value="거래를 마치자 두건을 쓴 맹약단 요원이 내게 다가와 속삭였다. “펄크럼의 힘은 우리가 상상했던 것보다 훨씬 강력했지... 그 힘이 행성 표면을 덮었을 때, 평행 세계의 베일을 넘어 경이로운 물체들이 떠밀려왔다.” 난 놈을 떨쳐내려 했지만, 그가 내 손목을 붙잡았다. “넌 그들의 멜로디를 들었다. 이제 그들의 축복을 받을 준비가 된 거야.”"/>
 	<entry name="AnnihilationProtocolsFlavor" value="때로는 살인 기계를 가동하려면 약간의 추진력만 있으면 된다."/>
@@ -691,6 +777,7 @@
 	<entry name="BunkerExtensionFlavor" value="우리가 지키는 벙커를 건설하는 데는 위험이 따랐다. 표면적이 넓어 중화기의 표적이 되기 쉬웠으니까. 하지만 어쩔 수 없었다. 우리 군대는 계속 늘어나고 있었고, 벙커 안에 모든 병사를 수용할 수 있는 공간이 필요했다. 벙커는 견고한 방어를 구축하는 최고의 수단이었다."/>
 	<entry name="BurningFlavor" value="불은 사라지지 않았다. 인류가 최초로 개발한 무기 중 하나이자, 여전히 인류의 생존에 가장 중요한 도구 중 하나다. 불을 존중하지 않으면 그게 널 집어삼킬 거다."/>
 	<entry name="CannibalizeMachinesFlavor" value="난 가끔 기계를 질투했다. 녀석들은 쉬지 않고 싸우며 다시 조립할 수 있었으니까. 유기체가 그렇게 싸우는 게 상상이 되나? 적에게 당할 때마다 더 강해진다면? 이런 걸 꿈꾸는 게 내 인간적인 면모였다. 적어도 기계는 절대로 꿈을 꾸지는 못하겠지."/>
+	<entry name="CapturableFlavor" value="딱히 어느 쪽에도 충성하지 않는 사람도 있는 법이다."/>
 	<entry name="CarrionGlutFlavor" value="“내버려 둬!” 신참이 시체를 먹으려고 내려앉은 우리 이오크 떼를 향해 비명을 질렀다. 젠장. 시체는 우리 의무병이었다. 난 두 사람이 몰래 입 맞추는 걸 본 적이 있었다. 이오크들은 신경 쓰지 않았다. 한 놈이 시체 가까이 가려고 신참을 밀쳤고, 난 녀석을 붙잡았다. 그리고 고개를 돌려 놈들이 녀석의 연인을 다진 육포로 만드는 꼴을 못 보게 했다."/>
 	<entry name="CausalWellFlavor" value="에너지 교환기에서 나온 에너지가 아크린 타이탄 주위를 소용돌이쳤다. 놈의 살점에 달린 손가락이 안팎으로 맥동하며 기계, 인간, 목소리 추종자를 가리지 않고 다가오는 모든 것의 영혼을 빨아들였다. 놈이 널 호의적으로 본다면 안 그러겠지만. 곧 놈의 손가락이 피부를 훑으며 빼앗은 생기의 맛을 보여주려 하겠지."/>
 	<entry name="ChipsUpgradeFlavor" value="우리는 칩 생산량을 늘리기 위해 어려운 결정을 내려야 했다. 가능한 한 최고의 두뇌를 가진 사람들, 즉 제작기 하드웨어에 영구적으로 통합할 수 있는 두뇌를 선별했지. 난 그들이 마지막 순간까지 모르는 채로 살도록 거짓말을 하고 싶었다. 하지만 사회에서 가장 명석한 두뇌를 찾아다니며 그들이 선택적으로 멍청해지길 바랄 수는 없었다."/>
@@ -706,11 +793,11 @@
 	<entry name="ContagiousFlavor" value="타락한 오롤로스를 칼날이나 맨손으로 치면 암의 일부가 몸에 달라붙었다. 운이 좋다면 세포가 금방 죽으며 살점만 약간 잃고 떼어낼 수 있었다. 운이 없다면 암이 피부, 지방, 근육을 뚫고 들어갈 거다. 당장 죽지는 않겠지만... 결국 그것 때문에 죽게 될 수도 있었지."/>
 	<entry name="CorpseCitiesFlavor" value="맹약단 요원들은 시체를 뒤지고 살을 파헤치며 가장 가치 있는 조각을 찾을 계획을 속삭이곤 했다. 난 그들에게 역겹다고 말했다. 너도 이미 그러지 않냐는 대답을 듣자 기분이 이상해졌다. “너희는 보물을 찾으려고 땅의 금속 살점을 뜯어내잖아... 우리도 그러는 거야.” 그들은 도시를 약탈할 계획을 세우던 거였다. 한때는 도시가 살아있는 존재였다고 생각했던 걸까?"/>
 	<entry name="CorrosiveFlavor" value="상처가 곪으면 고통스러운 죽음으로 이어질 수 있지만, 기계는 상처를 입지 않는다. 그러나 섀시에 독을 주입하고 장갑을 벗겨내면 그 속에 있는 취약한 시스템이 드러나는 건 똑같았다. 그저 알맞은 무기가 필요할 뿐이지."/>
-	<entry name="CostOfConvictionFlavor" value="사기꾼과 사이비 종교 지도자들의 공통된 수법은 청중에게 생존하려면 자신이 필요하다고 설득하고 지배하는 것이다. 하지만 예언자는 조심스럽게 행동하는 법을 알고 있었다. 한 발짝만 잘못 내디뎌 사람들이 현실로 돌아간다면, 가라앉는 배에서 도망치는 쥐처럼 모두가 자신을 피해 달아날 거라는 걸 알고 있었다."/>
+	<entry name="CostOfConvictionFlavor" value="사기꾼과 사이비 종교 지도자들의 공통된 수법은 청중에게 생존하려면 자신이 필요하다고 설득하고 지배하는 것이다. 하지만 예언자는 조심스럽게 행동하는 법을 알고 있었다. 한 발짝만 잘못 내디뎌 사람들이 현실로 돌아간다면, 가라앉는 배에서 도망치는 쥐처럼 모두가 자신을 피해 달아날 거라는 걸 말이다."/>
 	<entry name="CrippledFlavor" value="도망칠 수 없는 순간이 오면 나 자신이 최대의 적으로 돌변한다. 온몸의 근육이 도망치라고 소리치지만 그 유혹을 뿌리쳐야 했다. 지구에서의 마지막 날인 것처럼 싸웠다. 그렇게 하면 우리 중 일부라도 다음 단계로 나아갈 수 있었다."/>
 	<entry name="CripplingFlavor" value="목표물이 도망가지 못하면 죽이기가 훨씬 쉬웠다."/>
-	<entry name="CultExpansionFlavor" value="예언자의 숭배자들은 과학적인 수법을 사용했다. 그들의 지도자가 도시를 점령하면, 광신도와 전도사가 도시를 가득 채웠다. 얼마나 많은 사람이 개종하는지는 중요하지 않았다. 많은 불신자들은 그들의 종교를 비방하면 이웃이 신성 모독죄로 신고할까 두려워 고개를 숙인 채 숨어 지냈다."/>
 	<entry name="CullTheWeakFlavor" value="최상위 포식자는 식량 공급과 생존을 위해 가장 약한 존재를 사냥한다. 트로코스의... 하인? 괴물? 피조물? 아무튼 그들은 밑바닥의 먹잇감이었다. 우조다이나 수르토다이의 살을 에는 악몽이 더 큰 물고기를 노릴 수 있도록 우리 군대의 찌꺼기를 벗겨내는 존재다. 학교에서 배우는 생태계와 유사하지만 더 끔찍하다."/>
+	<entry name="CultExpansionFlavor" value="예언자의 숭배자들은 과학적인 수법을 사용했다. 그들의 지도자가 도시를 점령하면, 광신도와 전도사가 도시를 가득 채웠다. 얼마나 많은 사람이 개종하는지는 중요하지 않았다. 많은 불신자들은 그들의 종교를 비방하면 이웃이 신성 모독죄로 신고할까 두려워 고개를 숙인 채 숨어 지냈다."/>
 	<entry name="CyberInfantryUpgradeFlavor" value="병력 생산량을 늘려야 하는 과제를 안고 있던 기술팀은 자동화 공정을 늘리는 게 유일한 해결책이라는 걸 알고 있었다. 그들은 인쇄기의 작동부를 단일 네트워크로 연결했다. 도시에 인쇄기가 많을수록 생산이 더 빨리 최적화되었고, 새로운 인공 생명체에게 더 많은 통제권을 넘길 수 있었다."/>
 	<entry name="CyberVehiclesUpgradeFlavor" value="기계는 우리 설계에서 우리가 눈치채지 못한 뭔가를 발견했다. 그들은 힌트를 주려 했지만, 우리가 눈치채지 못하자 스스로 문제를 해결했다. 어느 날 우리는 시설이 업그레이드되어 중기갑 차량과 함께 반물질까지 생산하는 걸 발견했다. 그때부터 우리는 통제력을 잃기 시작했다."/>
 	<entry name="DamagedFlavor" value="날 꼼짝 못 하게 만든 스토커의 눈을 운 좋게 명중시켰다. 놈은 내가 접근해서 끝장낼 때까지 엉뚱한 방향으로 무기를 계속 발사했다. 내가 다가가는 동안... 비명을 지르던 걸까? 놈의 존재 의의는 정밀한 공격으로 적을 제거하는 거였고, 난 그것을 앗아갔다. 놈은 사방에 레이저를 쏘며 죽었지만, 아무것도 명중시키지 못했다. 아마 최악의 악몽이었을 거다."/>
@@ -718,13 +805,18 @@
 	<entry name="DeathshriekFlavor" value="페나리스의 사제들은 스승의 가장 중요한 칙령에 대해 속삭였다. 죽기 전에 그의 진짜 이름을 원래 쓰던 언어로 외치라는 거였지. 빈민가에서 만난 한 할머니가 자신이 숭배하는 신의 진짜 이름을 말하지 말라고 경고하던 것이 떠올랐다. 그건 수천 년 전부터 조상들이 전하던 경고였다."/>
 	<entry name="DecayingFlavor" value="어떤 생물은 이 세상에 오래 머무를 수 없는 존재였다. 그들은 누군가를 무덤으로 끌고 갈 만큼만 살아있었다. 황무지 너머로 걸음을 옮길 때마다 몸에서 살갗이 벗겨져 땅에 떨어지곤 했다. 마치 녹아내리는 치즈 같았지."/>
 	<entry name="DefenseMatrixFlavor" value="일부 기계는 항상 적을 경계하고 움직임에 대응하도록 프로그래밍할 수 있었다. 이러한 고도의 계산을 실행하는 대가로 많은 전력이 소모되었지만, 추가 방어선을 확보한 덕분에 우린 조금 더 편하게 잘 수 있었다."/>
+	<entry name="DefilingFlavor" value="스폰라이더에게 타격받은 것은 예외 없이 같은 현상을 겪었다. 살아있는 존재는 회복 속도가 느려졌다. 기계 부품은 더 빨리 부식되고, 교체하는 데 시간이 오래 걸렸다. 화학 물질이나 그런 것 때문이 아니었다. 마치 용을 타는 자들이 운명 그 자체를 잡아당겨 사냥감을 닳게 만드는 것 같았다."/>
 	<entry name="DeflectorShieldFlavor" value="기술 전쟁에는 끝이 없었다. 기술자들이 우리에게 건네는 새로운 무기는 전장에서 똑같이 강력하고 무서운 무기와 맞붙게 될 것이었다. 우리는 승리하려면 적의 무기를 역이용해야 한다는 것을 깨달았다."/>
 	<entry name="DeformingFlavor" value="목소리는 빠르게 썩어가는 살점을 살려낼 수 있는 힘을 가지고 있었다. 그것은 삶과 죽음, 재생의 순환을 넘어선 흉물을 만들어낸다. 그런 순환은 결코 그렇게 빠르고 혼란스럽게 재촉해서는 안 되는 것이었다."/>
+	<entry name="DermalPatchingFlavor" value="알고 보니 그 피부에도 쓸모가 있었다. 살 밑에 일종의 나노 기술이 있어서, 내장 안의 살과 전기적 부분을 모조리 고쳐내는 것이다. 저 빌어먹을 놈들 중 하나와 일대일로 싸우기 전에 알았더라면 좋았을 텐데..."/>
+	<entry name="DesiccatedFlavor" value="비겁자의 피부는 마치 종이처럼 건조했다... 화산 근처에는 못 가게 해야 했는데, 그 때문에 진격 속도가 느려질 때도 있었다. 하지만 요령 있는 지휘관들은 그냥 돌격했다. 비겁자들이 쓰러지더라도 다시 일어나 용암 지대를 헤쳐 길을 열어줄 것을 알고 있었기 때문이다."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="우조다이의 선민 한 명이 봉인된 은신처 밖에서 설교를 벌였다. 혈사초의 촉수가 건물을 휘감으며 올라갔고, 세뇌된 신도들의 외침은 황홀경의 통곡으로 바뀌었다. 혈사초의 힘은 그들을 신에게 묶었고, 비명을 지르는 영혼들의 메아리는 점점 더 커졌다."/>
 	<entry name="DimensionalReverberationsFlavor" value="구슬픈 오롤로스는 목소리와 연결되어 그들이 죽인 모든 것에서 차원의 메아리를 추출할 수 있었다. 왜? 어떻게? 전쟁이 너무 길어진 탓에... 이유를 떠올려 보기엔 머릿속이 너무 복잡했다. 그래서 병사들에게는 그저 이 괴물에게 죽으면 영혼이 뽑혀 전쟁 기계에게 잡아먹힐 수 있다고만 경고했다."/>
 	<entry name="DisputationFlavor" value="종교를 믿는 병사들은 아이들이 조금이라도 무례한 행동을 보이면 채찍질했다는 영적 지도자의 이야기를 들려주었다. 프로보스트도 같은 식으로 기능했다. 누가 때리면 깊은 앙심을 품었지. 채찍을 내리치듯 팔다리를 휘두르며 가장 가까이에 있는 것을 해쳐서라도 통제력을 되찾으려 들었다."/>
 	<entry name="DozerBladeFlavor" value="우린 낡은 건설 차량에 달린 도저 블레이드를 떼어 우리 중기갑 차량이 지형을 개척할 수 있도록 했다. 그게 없었다면 울창한 숲과 뒤엉킨 폐허에서 많은 병력을 잃었을 것이다. 몇몇 운전병은 전투보다 지형 정리를 더 좋아하는 것 같았다."/>
 	<entry name="DragoonArmorFlavor" value="아크린 주술사는 기병대 갑옷을 만드는 건 그들의 세계에 목소리가 오기 전부터 이어져 온 고대의 전통이라고 설명해 줬다. 평화로운 시대와의 마지막 연결고리 중 하나였지. “우리가 이 세상에 가져온 도구는 종말을 맞이할 때 필요한 도구뿐이었다.”라고 그녀는 말했다. 난 아크린이 먼 옛날부터 종말을 염두에 두고 있었을 거라고 생각할 수밖에 없었다."/>
+	<entry name="EconomiesOfScaleFlavor" value="백금의 후예는 거액을 들여 명예로운 귀족의 야영지에서 생산 전문가를 빼내 왔다. 난 이 전문가가 마음에 들었다. 그에게 당당히 맞서 “돈을 벌려면 돈을 써야 한다”는 말은 전쟁 기계를 만드는 데는 두 배로 적용된다고 일갈했으니까. 초기에 조금 더 투자하면 이후 추가 생산 단가를 줄일 수 있다고 말이다."/>
+	<entry name="ElusiveFlavor" value="적진을 뚫고 들어가는 방법은 여러 가지였다. 속도, 분산 보호막, 거대한 덩치로 그냥 밀고 들어가 버리는 방법까지. 후방에서 공격받는 건 언제나 끔찍하지만, 바로 몇 초 전까지만 해도 시야에 있던 놈한테 당하는 공격은 더더욱 끔찍했다..."/>
 	<entry name="EMPFlavor" value="전자기 펄스 기반 무기는 새로운 시대에는 이상할 정도로 오래된 기술이었다. 구세계의 전쟁 때 군 지휘관들은 민간 전자 인프라에 대한 피해만 걱정했다. 하지만 이제 와서 그게 무슨 상관일까? 가능한 한 빨리 기계를 파괴할 수만 있으면 그만이지."/>
 	<entry name="EmulatedMindAffinityUpgrade2Flavor" value="모방된 정신의 핵심 데이터베이스에는 구세계 대학들의 특이점 연구가 엑사바이트 규모로 담겨 있었다. 제폰이 그녀를 깨웠을 때, 그 정보는 말 그대로 아무도 접근할 수 없었던 지식의 블랙홀에서 그녀를 탄생시켰다... 어쩌면 사건의 지평을 만들어낼 정도로 불가능한 계산식이 처음부터 그녀를 미치게 만들었을지도 모른다."/>
 	<entry name="EnergyUpgradeFlavor" value="지구의 가장 혹독한 기후에는 불가능한 조건에서 살아남기 위해 한계까지 진화한 생명체가 가득했다. 우리 기술진은 가장 독성이 강한 늪지나 북극의 얼음 밑에 묻혀 있는 일부 생명체를 에너지 생산에 사용하면 엄청난 에너지를 만들 수 있다는 사실을 발견했다. 마치 땅에서 화석 연료를 끌어 올리는 것과 같았지만, 그것들은 아직 화석화되지 않은 생명체들이었다."/>
@@ -741,6 +833,7 @@
 	<entry name="FortressArmamentFlavor" value="모방된 정신은 편집증이 아주 심한 지도자였다. 그녀는 제폰이나 그 누구도 자신을 해치지 못하도록 하려고 했다. 그래서 그녀는 특별한 대포를 만들었는데, 다른 진영과 절대로 사양을 공유하지 않았다. 그 대포는 엄청난 위력을 자랑했지만, 오히려 그것이 자신을 중요한 표적으로 만들 줄은 몰랐던 것 같다."/>
 	<entry name="FurtiveTribunalAffinityUpgrade2Flavor" value="판관단은 봉인된 은신처에 들어오는 사람들을 위해 구시대의 전통을 되살렸다. 교단이 들어온 후 수행원들은 친구와 가족이 지켜보며 통곡하는 동안 조류 가스와 유독성 먼지를 섞어 은신처 안으로 퍼부었다. 광기 어린 웃음소리와 피가 끓는 비명이 은신처 안에 울려퍼졌지. 봉헌? 장례식? 난 그들이 그걸 뭐라고 부르는지 신경 쓰지 않기 시작했고, 그저 그들의 비명을 듣지 않으려고만 했다."/>
 	<entry name="FusionWarheadFlavor" value="“본론만 말하죠.” 수석 무기 기술자가 내게 말했다. “전술핵 미사일이 ‘더 큰’ 피해를 입혀야 한다고요? 50킬로톤이면 충분한 거 아닌가요?” 난 논쟁하고 싶은 기분이 아니었다. 그러니 몇 주 안에 우리가 싸울 프로토타입 타이탄의 정찰 사진을 보여줬다. 그녀는 그 크기를 보고 흠칫 놀랐다. “이놈한테도 통할까?” 내가 대답했다. “50킬로톤은 절대 충분하지 않아.”"/>
+	<entry name="GalgalimPlatingFlavor" value="“이 녀석한테 장갑이 더 필요하다고?” 수석 엔지니어와 나는 또다시 언쟁을 벌였다. 대장은 우리가 싸우는 걸 재미있어했다. “그래, 멍청아. 이놈들이 적진 뒤로 갔다가 홀랑 타 버리는 꼴이 보기 싫으면 더 좋은 장갑이 필요해.” 그 언쟁은 엔지니어의 승리로 끝났다. 난 나중에 만회했고."/>
 	<entry name="GluttonyFlavor" value="난 명예로운 귀족과 그를 따르는 시민들의 고급스러운 취향에 동정심을 가졌었다. 시간이 지나면서 난 그들의 낭비에 분노했다. 귀족은 음식을 배분하는 방식에 있어서는 한 치의 양보도 없었고, 항상 모든 사람이 좋은 요리를 먹을 수 있도록 했다. 배급은 뒷전이었다. 아마 무언가 사연이 있었을지도. 구세계에서 죽만 먹으며 살아야 했던 시절이 있었을지도 모르지. 지난번에는... 내가 조금 지나치게 말했을지도 모르겠다."/>
 	<entry name="GravitationalCompressionFlavor" value="지구는 물체가 클수록 더 큰 힘으로 끌어당기는데, 새로운 기술을 이용하면 그 힘을 우리 것으로 만들 수 있었다. 적이 클수록 땅에 충돌할 때 나는 소리도 더 컸다."/>
 	<entry name="HammerheadProtocolsFlavor" value="제폰은 왜 절대로 선제공격을 할 수 없는 무기를 만들었을까? 우리에게 교훈을 주려던 거였을까? 실험이었을까? 우리는 이게 단지 행복한 사고일지도 모른다는 걸 알았기에, 우리 중 최고로 명석한 이들이 퍼즐을 맞추게 놔두는 것만으로도 만족했다."/>
@@ -756,8 +849,9 @@
 	<entry name="HeavyFlavor" value="중화기를 운용하려면 설치하고 조준 솔루션을 보정할 시간이 필요했다. 이동 중에 중화기를 발사하는 건 엄청난 도박이었다. 운이 나쁜 병사들은 그 낮은 확률에 중독될 수도 있었다. 현명한 병사들은 화기를 안전하게 운용하며 정확하게 사격하는 방법을 알고 있었다."/>
 	<entry name="HeroFlavor" value="훌륭한 장군은 군중 속에서 눈에 띄는 자가 나타나는 걸 경계했다. 최대한 몰개성한 병사들이어야 죽어도 아무렇지 않을 테니까. 하지만 일부 병사들은 그런 논리에 반기를 들었다. 그들은 진흙탕 속에서 일어나 전장의 주역이 되었다. 그들을 잃는 건 언제나 가장 큰 아픔이었다."/>
 	<entry name="HitAndRunFlavor" value="군인과 범죄자는 생각보다 공통점이 많다. 사기꾼은 가만히 있으면 당국에 잡혀간다는 것을 알고 있다. 군인들은 총소리가 들릴 때 넋을 놓고 있으면 머리에 총알을 맞을 수 있다는 것을 알고 있다. 안주해서는 안 된다. 누구에게도 가까이 접근해서는 안 된다. 항상 움직여야 한다."/>
-	<entry name="HollowWarlordAffinityUpgradeFlavor" value="군벌은 구세계 시절 정비공이었을까? 아니면 바이크 제조업체의 사무원이었을까? 그는 스크램블러의 모든 것을 황무지의 누구보다 잘 알고 있었다. 여가 시간에 몇 대를 튜닝하고 다른 이들에게도 가르쳤다. 그는 내 질문에 대답하지 않았다. 그저 더 많은 바이크를 도로에 내보내는 것에 만족하는 듯 보였다."/>
+	<entry name="HobblingFlavor" value="난 잘 도망친 줄 알았다. 비겁자에게 한 방 맞고는 늪을 가로질러 달아났다. 그런데 상처를 치료하지 못해 한참이나 피를 흘리면서 다녔다. 따라올 흔적을 남긴 셈이었다. 이제 놈은 나를 궁지에 몰아넣었고, 내가 어디 있는지 정확히 알고 있었다..."/>
 	<entry name="HollowWarlordAffinityUpgrade2Flavor" value="정서가 불안하여 죽음, 죽음, 죽음만을 원하는 젊은이들이 너무 많다... 나도 처음에는 그중 하나였다. 외롭고 화가 나고 두려웠지만, 인정하고 싶지 않았다. 우리 같은 사람들은 돈이나 음식을 원한 것이 아니었다. 화풀이할 대상을 알려줄 군벌을 원했을 뿐이다."/>
+	<entry name="HollowWarlordAffinityUpgradeFlavor" value="군벌은 구세계 시절 정비공이었을까? 아니면 바이크 제조업체의 사무원이었을까? 그는 스크램블러의 모든 것을 황무지의 누구보다 잘 알고 있었다. 여가 시간에 몇 대를 튜닝하고 다른 이들에게도 가르쳤다. 그는 내 질문에 대답하지 않았다. 그저 더 많은 바이크를 도로에 내보내는 것에 만족하는 듯 보였다."/>
 	<entry name="HolopatterFlavor" value="전쟁에서 가장 오래된 속임수는 나뭇가지로 몸을 가려 숲속에서 잘 보이지 않게 하는 것이었다. 기술자들은 빽빽한 폐허에서도 몸을 잘 숨겨주는 홀로그램 망토를 만들었다. 영원히 숨어 있을 수는 없지만, 완벽한 사격을 가할 수 있는 몇 초의 시간을 벌어줄 수는 있었다. 대상이 죽으면 더 이상 몸을 숨길 필요가 없었으니까."/>
 	<entry name="HonorableAristocratAffinityUpgradeFlavor" value="“수석... 영양사라뇨?” 난 깜짝 놀랐다. 하지만 귀족은 내게 자신의 요구를 받아들이거나 새로운 상관을 찾아보라고 했다. 보급선을 전담 관리하는 식품 과학자가 있으면 모든 병사가 자신의 직무를 극대화하는 식사를 하도록 보장할 수 있다는 게 그의 이론이었다. 효과가 없었다고 한다면 거짓말이겠지. 확실히 난 그의 밑에서 싸우며 더 잘 먹을 수 있었다."/>
 	<entry name="HonorboundFlavor" value="귀족은 골치아픈 상관이었지만, 이 황무지에서 날 신경 써 주는 몇 안 되는 약탈자 중 하나였다. 그와 거래 계약을 체결하면 설사 나쁜 거래라도 시장에서 날 칭찬하며 내가 존중할 만한 파트너인 것처럼 보이게 만들었다. 그렇게 거래하면 많은 친구를 사귈 수 있겠지. 그리고 적들은 마지막까지도 자기가 그물에 걸렸다는 사실을 알지 못할 거다."/>
@@ -771,9 +865,12 @@
 	<entry name="ImmoralFlavor" value="공예가는 자신의 행동이 사람들의 반감을 살 거라는 걸 알고 있었다. 그녀는 다른 사람들이 자신을 어떻게 생각하는지 전혀 관심이 없었다. 공감 능력이 아예 없었는지도 모른다. 그럼에도 사람들은 미래에 대한 그녀의 불타오르는 비전을 따랐다."/>
 	<entry name="IndependentFlavor" value="방랑 요원은 자기 생각을 주저하지 않고 말하는 자유분방한 사람이나 떠버리들과 함께 있는 걸 좋아했다. 그런 이들은 진정한 군인만큼 충성스럽지는 않았지만, 요원은 개의치 않았다. 그녀는 아첨꾼이 아니라 황무지 최고의 인재가 필요했으니까. 그녀에게는 그게 승리의 열쇠였다."/>
 	<entry name="IndirectFireFlavor" value="사선이 확보되지 않은 상태에서 무기를 발사하는 건 위대한 존재에 대한 믿음이 있다는 걸 의미했다. 그건 컴퓨터일 수도 있고, 목소리일 수도 있었다. 우린 보이지 않는 무언가와 싸우고 있었고, 가능한 모든 도움이 필요했다."/>
+	<entry name="InfiniteCountAffinityUpgrade2Flavor" value="목소리와 연결된 내가 아는 존재 중에서, 백작은 자기 정수를 다시 그 목소리에 불어넣는 유일한 자였다. 과거에 어떤 사람이었는지는 몰라도 그는 무언가에 굶주려 있었다. 그 허기가 심해져 한계에 달하자, 허기는 주변의 목소리 숭배자들에게 스며들었다. 그들은 시간을 훔칠 필요가 없었다. 옛날 방식대로 피를 마시는 것만으로도 만족했으니까."/>
 	<entry name="InfluenceUpgradeFlavor" value="급류가 몰아치는 강은 여전히 상품을 거래하고 소식을 전하는 가장 좋은 방법이었고, 상선과 운반선들은 수면 위를 미끄러지듯 이동하며 빠르게 움직였다. 우리는 우리가 전하는 말의 힘이 이 땅에 퍼지기를 원했고, 항상 가장 가까운 선술집을 찾는 선원들은 소문을 빨리 퍼트렸다."/>
+	<entry name="InvulnerableFlavor" value="총알과 칼, 폭탄, 괴물 담즙으로도 아무런 피해를 줄 수 없을 때. 그때가 바로 꽁지 빠지게 도망쳐야 할 때다."/>
 	<entry name="InterminableFlavor" value="제폰의 도시는 멀리까지 펼쳐져 있었다. 콜세어 조종석에서 도시를 본다면 그 회로의 바다에 어떤 패턴이 있다고 착각할지도 모르지만, 사실 아무런 의미가 없었다. 우린 거기서 어떤 의도도 찾아낼 수 없었다. 제폰은 그냥 퍼져나갔다."/>
 	<entry name="JudgementFromAboveFlavor" value="“하늘에서 심판이 빗발친다.” 심판받아 마땅한 건 적 포병 부대보다 낮은 곳에 군대를 배치한 멍청한 지휘관뿐이었다. 기술자들은 우리 부대가 얼마나 심하게 당했는지 확인하며 초기계적인 헛소리를 늘어놓으려 했지만, 단순한 물리학 이상의 문제는 없었다. 뭐, 어차피 아무도 내 말은 듣지 않을 테니까..."/>
+	<entry name="JustShipItFlavor" value="그 후예의 공장에서 쏟아져 나오는 쓰레기들은 암시장에 내다 팔 가치조차 없었다. 놈의 보급품에서 빼돌린 플라스마 총을 샀다가는 코앞에서 터져 버릴 확률도 없지 않았다. 병사들은 잔뜩 죽어 나갔지만, 백금의 후예는 아무도 자기 물건을 훔치려 하지 않다는 사실에 만족했을 뿐이다."/>
 	<entry name="LargeFlavor" value="덩치가 큰 생물과 기계는 엄청난 피해를 견딜 수 있었지만, 더 많은 부분을 뜯어낼수록 약해졌다."/>
 	<entry name="LargeSplashFlavor" value="어떤 적은 우릴 수적으로 압도할 수 있다고 생각했다. 그것들은 우리 영토에 개미처럼 몰려와 우릴 끌어내리려 했다. 우리가 개미를 밟아 죽이듯 한 번에 수많은 생물을 없애버릴 수 있다는 걸 깨달은 그 순간은 참 감탄스러웠다."/>
 	<entry name="LaserFlavor" value="빛을 무기로 사용하는 것만큼 시적인 건 없다. 모든 빛은 무기다. 태양은 몸을 태우고, 투광 조명은 숨은 적을 드러내며, 취조실의 희미한 전구는 정신을 놓게 만든다. 레이저 기술은 적어도 정직했다. 레이저는 어디에 와서 맞을지, 더 중요하게는 어디에서 날아올지까지 알려주었으니까."/>
@@ -783,7 +880,7 @@
 	<entry name="LifestyleImplantsFlavor" value="난 친구들과 함께 식탁에 둘러앉아 식사를 할 수만 있다면 싸울 가치가 있다고 생각했다. 하지만 영양 임플란트가 보급되자 사람들은 식당을 버리고 돌이나 금속... 흙바닥 위에서 교대 근무 틈틈이 간식을 먹기 바빴다. 난 혼자 먹었다. MRE의 형편없는 맛조차도 버리고 싶지는 않았으니까."/>
 	<entry name="LowPowerFlavor" value="레이저 무기를 사용하려면 리듬에 익숙해져야 한다. 쏘고, 충전하고, 반복. 하나, 둘, 셋. 마치 춤을 배우는 것 같았다. 쏘고, 충전하고, 반복. 쏘고, 충전하고, 반복. 쏘고, 충전하고, 반복..."/>
 	<entry name="LoyaltyUpgradeFlavor" value="홀로그램 저장소에는 수십 편의 영화가 보관되어 있었다. 사령부는 같은 영화를 반복해서 보여주면 우리가 지루해하거나 반란을 일으킬까 봐 걱정했다. 하지만 어려운 시기에는 모두가 좋은 이야기를 원했다. 세상을 이해할 수 있는 뭔가를 말이다."/>
-	<entry name="MarketDefluctuationFlavor" value="You want me to explain money shit? If I could do that I wouldn't be here, I'd still be in the best bunker you could buy before the war. Terminals that predicted markets to score the best price, “supply and demand…” I thought we left all that behind. But war has a way of making capitalism come crawling back."/> 
+	<entry name="MarketDefluctuationFlavor" value="돈에 대해 설명해달라고? 그게 가능했다면 전쟁 전에 살 수 있는 최고의 벙커에 있었을 거다. 최고의 가격을 매길 시장, “수요와 공급”을 예측하는 단말기... 그런 건 다 버리고 온 줄 알았다. 하지만 전쟁에는 자본주의를 다시 되돌아오게 하는 힘이 있다."/>
 	<entry name="MassiveSplashFlavor" value="머리 위로 거대한 폭발이 일어나고 충격파가 덮치자 시간이 느려졌다. 배를 뒤흔들고 물속으로 엎어 버릴 집채만한 파도처럼. 적어도 충격파에 휩쓸린 이들은 익사의 고통은 피할 수 있었겠지."/>
 	<entry name="MechanicalFlavor" value="웃긴 게 뭔지 알아? 사람들은 복잡한 문제를 해결하기 위해 기계를 만들지. 하지만 전장에서 기계는 해결해야 할 문제가 된다. 때로는 기계를 쓰러뜨리려면 특별한 기술이 필요하기도 하다. 때로는 더 큰 기계가 필요할 때도 있고."/>
 	<entry name="MeleeFlavor" value="옛날에도 인간은 이런 종류의 전투를 위한 기술을 만들고 훈련했다는 걸 알고 있다. 그러나 모든 건 하나로 요약된다. 아드레날린을 분출하며 무기를 휘두르는 게 어떤 자세나 스파링, 진영을 갖추는 것보다 살아남는 데 더 효과적이다. 모든 생명체는 다른 생명체를 해치는 방법을 알고 있다. 충분히 절박할 때까지 몰리기만 하면 된다."/>
@@ -806,6 +903,7 @@
 	<entry name="PerimeterRangeFlavor" value="우린 시행착오와 많은 정찰병의 죽음을 통해 제폰의 에너지 방어 무기가 어디까지 닿는지 측정할 수 있었다. 도시에 너무 가까이 접근한 병사는 산산조각이 났다. 사령부가 처음부터 포병을 보내줬다면 많은 생명을 살릴 수 있었을 텐데..."/>
 	<entry name="PhantasmFlavor" value="꿈 포식자는 다른 세계에 속한 존재였다. 놈들은 우리 세계 사람들을 학살하러 왔다. 놈들에게 삼 점사를 쏘면 마지막 총알이 그들을 그냥 통과하는 모습을 어렵지 않게 볼 수 있었다."/>
 	<entry name="PilgrimOfTheVoiceFlavor" value="크를라의 진정한 사도가 되는 마지막 단계는 며칠 동안 황무지를 통과하는 것이었다. 음식도 없고. 물도 없고, 햇빛이나 혈사초, 그 어떤 것으로부터도 보호받을 수 없었다. 황무지에서 돌아와 전장에 투입될 준비가 되었을 때면, 그들의 여섯 발에서는 더럽고 노란 진물이 흐르고 파편이 살갗을 깊숙이 파고들어 피를 흘렸다."/>
+	<entry name="PlatinumScionAffinityUpgradeFlavor" value="백금의 후예는 이심 집행자를 처음 본 순간 사이버네틱 기술에 대한 갈망을 키우기 시작했다. 눈빛만 봐도 알 수 있었다. 그 애송이는 사람을 통제해야 할 기계로 여기도록 길러졌다. 그게 바로 놈이 원하는 미래였다."/>
 	<entry name="PopulationLimitUpgrade2Flavor" value="사악하고 비인간적이다. 공간을 아끼려고 사람을 고기처럼 취급하다니. 사람들을 침대에 나란히 눕히는 건 힘든 시기를 견디는 방법일 수 있다. 하지만 기절시켜서 매달아 두다니? 냉동고에 넣은 소고기처럼? 이런 기술을 사용하는 놈은 지옥에 떨어질 거다."/>
 	<entry name="PopulationLimitUpgradeFlavor" value="전기가 부족했을 때 망할 시계공 하나가 갑자기 나타나 이 장난감의 설계도를 건네주었다. 그건 불이 반짝이는 퍼즐 상자처럼 사용자의 기분에 민감하게 반응했다. 사용자가 그걸 가지고 놀 때 편안함을, 아니 '행복을 느끼면'... 그 빌어먹을 물건이 전력을 생산했다. 그걸 처음 집에 가져갔을 때, 분명 누군가, 아니면 무언가가 날 지켜보고 있었다."/>
 	<entry name="PracticalRomanticAffinityUpgrade2Flavor" value="기술은 낭만주의자의 전문 분야는 아니었지만, 하루는 그가 투사들의 보호막을 개선하기 위한 공식을 끄적이는 걸 보았다. “꿈속에서 그녀가 속삭였어.” 그가 중얼거렸다. “옛 세계, 옛 대륙의 여왕이야. 그녀는...” 그는 말을 잇지 못하고 계속 글을 썼다. 난 꿈을 빌어 그에게 첨단 기술을 공유한 존재가 오래전에 죽은 왕족은 아닐 거라고 생각했다."/>
@@ -816,6 +914,7 @@
 	<entry name="RaidersFlavor" value="난 약탈단 야영지에 있는 감옥에 포로로 잡히는 불운을 겪은 적이 있었다. 거기서 야영지 규모가 자라나는 걸 봤고, 약탈단이 시체에 몰려드는 파리처럼 모여들어 부스러기라도 차지하려 싸우고, 심지어 서로 죽이는 모습을 지켜봤다. 모두가 학살에 뛰어들 준비가 된 것 같았을 때, 여족장이 그들을 사냥에 내보냈다."/>
 	<entry name="RailgunRoadsFlavor" value="전쟁에서는 1분 1초가 중요하다. 특히 거인들이 지구를 걸어 다닐 때는 더욱 그렇다. 마지막이 가까워지자 기술자들은 기계, 괴물, 초인 병사 등 무엇에도 빠르게 장착할 수 있는 레일건 트랙을 만들었다. 5~7g의 힘에 의해 기절하지 않도록 조준 후에 꽉 잡아야 한다."/>
 	<entry name="ReaverAdvancementFlavor" value="여족장은 미치광이였지만 영리했다. 그녀는 우리 주변을 돌며 장비를 훔치고 자신의 계략을 눈치채지 못하도록 정신을 빼놓았다. 여족장은 언제나 한발 앞서 있었다. 그녀와 약탈단이 열세에 몰렸다고 생각할 때쯤이면... 꼭 한 놈이 뒤로 돌아와 최첨단 헬멧을 벗겨내고는 목을 그어댔다."/>
+	<entry name="RecessionFlavor" value="자기들의 탐욕 때문에 다른 이가 치르는 대가를 외면하는 자들이 즐겨 쓰는 그럴듯한 말이다."/>
 	<entry name="RegenerationFlavor" value="난 가끔 아크린 행성에서 온 생물들이 어떻게 그렇게 효율적으로 치유될 수 있는지를 놓고 토론하는 과학자들의 말을 엿들었다. 그들은 놈들을 이용해 인간의 생명을 구하거나 연장하는 데 쓸 수 있을지 토론하곤 했다. 난 그들이 만약 이 치유 인자를 재현하는 방법을 알아낸다면, 민간인보다 군인에게 먼저 사용할 것이라고 분명히 말했다. 먹여 살려야 할 입이 너무 많아질까 봐 걱정되었거든."/>
 	<entry name="ResearchUpgradeFlavor" value="시간은 좀 걸렸지만 연구원들은 외계에서 온 동식물을 안전하게 연구할 수 있는 방법과 절차를 고안했다. 그들은 이러한 연구에 쓸 전용 스테이션 건설을 요청했다. 우린 투자할 수밖에 없었다. 그런 괴물을 일반 시설에 들여오면 치명적인 결과를 초래하는 경우가 많았기 때문이었다."/>
 	<entry name="ResourceNetworkFlavor" value="모방된 정신은 네트워크에 노출되었을 때 제폰 데이터베이스에 접속한 게 분명했다. 그녀는 우리가 마주치는 모든 전초기지에 대해 상세한 정보를 가지고 있었고, 정찰병들은 눈에 띄지 않는 모든 자원을 찾아서 가져올 수 있었다. 이는 그녀의 고통스러운 탄생의 몇 안 되는 장점 중 하나였다."/>
@@ -823,6 +922,8 @@
 	<entry name="RevealingFlavor" value="아, 어둠 속을 들여다보며 배울 것이 너무 많았다. 목소리는 비밀을 찾는 수단이 있었고, AI도 나름의 방법이 있었다. 하지만 우리 모두는 살아남고 자라나며 적이 우릴 찾기 전에 먼저 찾아내려면 세상 밖으로 나서야만 했다."/>
 	<entry name="RogueOperativeAffinityUpgrade2Flavor" value="구세계의 기업들은 보병 부대에 '시너지 효과'를 줄 수 있는 AI를 약속하며 각국 정부를 현혹했다. 하지만 그건 다른 모든 AI와 마찬가지로 쓰레기였다. 방랑 요원은 어떻게든 그 AI가 사이버네틱 지상군에게 유용하도록 만들었다. 자유 의지를 조금 덜어낸 부대가 있으면 잘 통했지..."/>
 	<entry name="RogueOperativeAffinityUpgradeFlavor" value="난 회색 장발에 책을 많이 읽는 병사와 같은 침상을 썼는데, 그 친구는 이 새로운 위장복을 “종말의 날에 어울리는 길리 슈트”라고 불렀다. 고물처럼 보이는 게 주렁주렁 달려 있었지만, 사실은 첨단 적응형 위장복이었다. 우린 이 위장복을 입고 쓰러진 기계의 틈새에 들어가 죽어가는 문명의 녹슨 조각처럼 보이게 했다."/>
+	<entry name="RustbingingFlavor" value="그 거대한 트로코스 벌레들은 금속을 순식간에 소화했다. 내 신진대사도 여전히 그렇게 활발하면 좋으련만. 하지만 부작용은 꽤 지독하다. 놈들을 잡기 더 어렵게 만드는 여분의 살점이 결국 벗겨져 나가서 취약한 상태가 되는 거다. 놈들이 다시 먹이를 먹기 전에 덮칠 수 있다면 말이지만."/>
+	<entry name="SappingFlavor" value="전초기지, 요새, 살점 무덤, 방패... 모두 강력한 공세를 막아내거나 군대의 속도를 늦추는 데 매우 효과적이다. 하지만 그것들을 강하게 만드는 모든 것에는 대가가 따른다. 이용할 약점은 언제나 있다. 그 약점을 어떻게 공략할지 아는 누군가… 또는 무언가가 필요할 뿐이다."/>
 	<entry name="ScavengerFlavor" value="낭만주의자는 확실히 ‘낭비하지 않고 욕심도 없는’ 유형의 인물이었다. 그의 마음은 벙커에서 긴 밤을 지새우며 사람들을 구할 음식이나 보급품을 간절히 바라던 시절에 머무는 것 같았다. 그는 감정을 거의 드러내지 않았지만, 가끔 수거한 자원에 대한 보고서를 검토하며 슬픔에 잠긴 표정을 지었다."/>
 	<entry name="SelfDestructFlavor" value="피할 방법은 없었다. 우리가 만든 어떤 무기는 사용자를 죽여야만 효과를 발휘할 수 있었다. 이런 무기를 다뤄야 하는 부대는 임무 사이에 엄격한 심리 검사를 받았으며, 드론은 자원을 확보할 수 있을 때만 자살 작전에 투입되었다. 이런 종류의 전쟁에는 항상 큰 대가가 따르니, 항상 그만한 가치가 있는지 확인해야 했다."/>
 	<entry name="SentryProtocolsFlavor" value="황무지를 배회하는 기계들은 우리가 누구 편이든 신경 쓰지 않았다. 그저 놈들의 시야에 들어오는지 아닌지만 신경 썼고, 호전적으로 프로그래밍된 녀석들은 경고도 없이 사격을 가했다. 손이나 흔들며 인사할 여유 따윈 없었다."/>
@@ -855,15 +956,16 @@
 	<entry name="UndersuppliedFlavor" value="전쟁은 화력으로만 이길 수 있는 게 아니었다. 우린 종종 투쟁병대 전체의 세 배에 달하는 대대와 맞붙어야 했다. 우린 적 후방에 잠입해 보급을 방해하는 식으로 승리했다. 그런 다음 적의 사기와 탄약이 떨어질 때까지 버텼지. '멈출 수 없는 힘'이 고리타분한 '수요와 공급' 원리에게 무너진 것이다."/>
 	<entry name="UndyingFlavor" value="쓰러진 병사는 가엾은 존재였다. 그를 베면 피를 흘리지만, 살점을 떼어내면 몇 분 안에 회복된다. 그의 부하 중 몇몇 광신도들은 그 살점에 치유력이 있다고 확신했고, 놀랍게도 그들의 말이 맞았다. 그의 살 조각을 지니고 다니면 무덤에서 그를 되살려낸 선물의 일부를 공유할 수 있다고 믿었다. 곧 병사, 조종사, 정비사까지 그의 부하들은 모두 그의 몸 일부를 목에 걸었다. 살점 조각은 여전히 맥동했고, 따뜻했다."/>
 	<entry name="UnleashedFlavor" value="황무지에 사는 생명체가 전부 호전적이진 않았지만, 얌전한 녀석이라도 일단 건드리고 나면 죽을 때까지 싸워야 했다. 어중간하게 굴면 전쟁에서 살아남을 수 없었으니까. 저 밖의 괴물들은 자신들의 터전을 지키기 위해 기꺼이 우리 본부를 박살 내려 할 거다."/>
-	<entry name="UntoldProphetAffinityUpgrade2Flavor" value="난 가끔 봉인된 은신처 주변을 순찰하는 임무를 받았다. 예언자는 전장에서 자신의 힘을 과시하기 위해 신자들의 믿음이 필요했다. 그건 이상한 일이었다. 초기에 그들은 온갖 목소리 신들을 경배했지만, 위대한 연설자를 경배하지는 않았다. 하지만 나중에는 오직 그의 이름만을 외쳤다. 그리고 그들은 행복해 보였다."/>
+	<entry name="UntoldProphetAffinityUpgrade2Flavor" value="난 가끔 봉인된 은신처 주변을 순찰하는 임무를 받았다. 예언자는 전장에서 자신의 힘을 과시하기 위해 신자들의 믿음이 필요했다. 그건 이상한 일이었다. 초기에 그들은 온갖 목소리 신들을 경배했지만, 위대한 연설가를 경배하지는 않았다. 하지만 나중에는 오직 그의 이름만을 외쳤다. 그리고 그들은 행복해 보였다."/>
 	<entry name="UntoldProphetAffinityUpgradeFlavor" value="미지의 예언자는 항상 자신이 ‘연설자’의 말씀을 듣는다고 했는데, 사도들이 노래하던 크를라 악마를 말하는 거였을까? 그들은 우리에게 특정한 표식을 새긴 신전을 세우라고 명령했다. 정말 섬뜩한 짓거리였다. 그들은 걸어와서 돌에 몸을 완벽하게 접어 넣으며 깊고 울리는 소리를 냈는데, 밤에 눈을 감을 때까지 그 소리가 계속 들렸다. 내가 그날 밤 잠들었다면..."/>
 	<entry name="UntrustworthyFlavor" value="모든 위대한 지도자들은 자신들이 배신당할 것임을 알고 있었다. ‘명예로운’ 귀족조차 그건 “전쟁의 일부”라며 어깨를 으쓱였다. 그럼에도 지도자들은 배신을 매우 민감하게 받아들였다. 인류를 이끌 수 있다고 생각할 만큼 자존심이 세다면, 자신을 웃음거리로 만든 놈에게 이를 가는 것 정도는 당연한 일이겠지."/>
+	<entry name="VanguardShieldFlavor" value="예거의 표준 정면 공격 전술은 이렇다. 적을 향해 정면으로 돌격하다가, 오른쪽으로 공격할 것처럼 하면서 잽싸게 몸을 틀어 왼쪽을 공격하는 것이다. 그렇게 하면 언제나 그 악취 나는 거대한 보호막을 앞세우게 된다. 그런 전술 덕분에 예거는 기사나 군단병을 꿈꾸는 미친 과학자들이 만든 유물 그 이상이 된다."/>
 	<entry name="VoiceInfantryUpgradeFlavor" value="목소리는 충성스러운 추종자를 갈망했고, 적이 성문에 가까워질수록 추종자들의 믿음이 흔들린다는 걸 알고 있었다. 목소리는 니힐러스라는 사도에 대해 이야기하는 새로운 추종자, 즉 설교자를 찾았다. 그들은 한밤의 합창단에 합류했고 그 우렁찬 노래는 도시를 둘러싼 모든 병사들의 귀에 들려왔으며, 필요할 때 목소리의 축복이 함께할 것임을 상기시켜 주었다."/>
 	<entry name="VoiceVehiclesUpgradeFlavor" value="목소리는 죽음만으로는 만족할 수 없는 것 같았다. 누군가 죽으면 목소리의 고립된 공간에서 잉태되는 인간들이... 빨라졌다. 알 수 없는 방법으로 죽음에서 생명을 이어갔다. 승천에 실패하든 성공하든, 그들은 더 빨리 은둔에서 깨어날 수 있었다."/>
 	<entry name="VoidDrifterFlavor" value="우리 최강의 무기는 페나리스를 숭배하는 괴물들을 산산조각 냈어야 했다. 하지만 그들은 그냥... 어딘가로 사라졌다. 애초에 존재하지도 않았던 것처럼. 그리고 그것들은... 으윽. 만족한 연인이 내는 듯한 신음과 함께 다시 나타나 밤새도록 우리의 뒤를 밟았다. 그 뼈다귀 뱀 같은 헌터들도 그 빌어먹을 소리를 냈다."/>
 	<entry name="WeakenedFlavor" value="내 탄약은 떨어지고, 지쳤으며, 수적으로도 열세였다. 하지만 내가 칼을 들고 탈출로를 뚫지 않으면 병사들이 집으로 돌아갈 수 없었다. 난 실패했다. 너무 지친 탓에 칼을 휘두를 때마다 살과 금속에 부딪혔다. 아무것도 해칠 수 없었다. 난 그저 민간인들과 함께 움츠리고 있어야 할 늙은이에 불과했으니까..."/>
 	<entry name="WeWhoAreAboutToDieFlavor" value="군벌의 부하들은 안전이 아니라 행동을 위해 그를 따랐다. 승리하든 패배하든, 그들이 보고 싶은 것은 죽음이었다. 그렇지 않을 때면 초조한 전사들은 서로를 조롱하고 야영지 곳곳에서 시비를 걸었다. 우리는 그들을 통제했지만, 밤중에 걷다 보면 야영지에서 노려보는 눈빛을 볼 수 있었다...누군가 모습을 드러내면 심심풀이로 죽이려 드는 미친 남자와 여자들이었다."/>
-	<entry name="WildlifeFlavor" value="야전 전초기지에서 프로토타입 표본 컨테이너에 아브클루스를 가둔 적이 있었다. 녀석은 좁은 공간을 돌아다니며 벽에 몸을 부딪쳤다. 아브클루스 무리가 우리 야영지로 몰려와 무력한 기술자들을 집어삼키기 전까지만 해도, 놈이 탈출하려는 줄로만 알았다. 놈은 무리를 향해 <i>신호</i>를 보내고 있던 거였다. 그 뒤로는 컨테이너에 방음 장치를 설치했다."/>
+	<entry name="WildlifeFlavor" value="야전 전초기지에서 프로토타입 표본 컨테이너에 아브클루스를 가둔 적이 있었다. 녀석은 좁은 공간을 돌아다니며 벽에 몸을 부딪쳤다. 아브클루스 무리가 우리 야영지로 몰려와 무력한 기술자들을 집어삼키기 전까지만 해도, 놈이 탈출하려는 줄로만 알았다. 놈은 무리를 향해 *신호*를 보내고 있던 거였다. 그 뒤로는 컨테이너에 방음 장치를 설치했다."/>
 	<entry name="XenogenesisFlavor" value="이오크로 자라난 숭배자들은 새벽의 찬가에서 며칠을 더 보냈다. 변이가 완료된 뒤에도 그들의 임무는 끝나지 않았다. 그들은 앉아서 시체를 먹는 것만으로도 더 많은 이오크를 탄생시킬 수 있었다. 등에 난 종기 속에서 새로운 이오크들이 자랐고, 고름과 선혈을 뿜어내며 폭발적으로 성장했다. 그리고 그 이오크는 또 다른 이오크를 낳았다. 낳고 또 낳고, 계속 낳았다..."/>
 	<entry name="ZephonAdvancementFlavor" value="제폰에게 이 모든 건 방정식에 불과했다. 약탈단과 아크린은 우위를 차지하기 위해 미친 듯이 폐품을 뒤지고, 훔치고, 죽기 살기로 싸워야 했지만, 그 기계는 항상 최후에 대비했다. 기계의 힘은 치밀하게 계산된 속도로 계속 올라갔다. 우리와 보조를 맞추는 것 같았다. 하지만 결코 앞서 나가지는 않았다. 놈은 우릴 지켜보기만 했다. 우릴 따라갔다. 그리고 우릴 관찰했다."/>
 	<entry name="ZephonStandingFlavor" value="그건 나중에 떠오른 생각이었다. 한 장군이 제폰과 대화를 나누던 중 무심코 작은 군대 규모의 칩을 주면 AI에게 권리를 주겠다며 농담했다. 제폰은 “괜찮은 제안이군요.”라고 대답했지. 아무도 거기에 뭐라고 대꾸해야 할지 몰랐다. 제폰이 전쟁이 이후를 생각한 것일까? 아니면... 아니, 그럴 리 없다. 이 세상에 다른 AI가 존재할 수는 없었을 테니까... 그렇지?"/>

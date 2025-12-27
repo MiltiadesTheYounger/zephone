@@ -10,6 +10,13 @@
 	<entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Donne une récompense Vox avancée aléatoire"/>
 	<entry name="ArcDischarge" value="Décharge d'arc"/>
 	<entry name="Arctic" value="Arctique"/>
+	<entry name="ArenaCyber" value="Arène (Cyber)"/>
+	<entry name="ArenaCyberFlavor" value="<string name='Quests/TheMartialEthic/ArenaCyberVictory2'/>"/>
+	<entry name="ArenaHuman" value="Arène (Humains)"/>
+	<entry name="ArenaHumanFlavor" value="<string name='Quests/TheMartialEthic/ArenaHumanVictory2'/>"/>
+	<entry name="ArenaVoice" value="Arène (Vox)"/>
+	<entry name="ArenaVoiceFlavor" value="<string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/>"/>
+	<entry name="AtmosphericAnchor" value="Ancre atmosphérique"/>
 	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
 	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
 	<entry name="Bleed" value="Bleed"/>
@@ -27,6 +34,12 @@
 	<entry name="ErebusExcavator" value="Excavatrice Erebus"/>
 	<entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5<nbsp/>% de chances de donner un objet aléatoire en récompense"/>
 	<entry name="Fire" value="Feu"/>
+	<entry name="FiveSoldiers1" value="Une entité requise"/>
+	<entry name="FiveSoldiers1Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers3" value="Trois entités requises"/>
+	<entry name="FiveSoldiers3Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
+	<entry name="FiveSoldiers6" value="Six entités requises"/>
+	<entry name="FiveSoldiers6Flavor" value="<string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>"/>
 	<entry name="FleshTree" value="Arbre à chair"/>
 	<entry name="Forest" value="Forêt"/>
 	<entry name="GravityField" value="Champ de gravité"/>
@@ -42,6 +55,8 @@
 	<entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
 	<entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
 	<entry name="PhaseGenerator" value="Générateur de phase"/>
+	<entry name="ReaverDepot" value="Dépôt des Reavers"/>
+	<entry name="ReaverDepotProperties" value="<icon texture='GUI/Bullet'/>Génère des Reavers ou Busters tous les 20<nbsp/>tours"/>
 	<entry name="RecyclingTanks" value="Cuves de recyclage"/>
 	<entry name="River" value="Cours d'eau"/>
 	<entry name="Road" value="Route"/>
@@ -55,6 +70,8 @@
 	<entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
 	<entry name="SmokeScreen" value="Écran de fumée"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="SurvivorsBazaar" value="Bazar des survivants"/>
 	<entry name="Swamp" value="Marais"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -71,7 +88,7 @@
 	<entry name="Watchtower" value="Tour de garde"/>
 	<entry name="WhisperingWights" value="Esprits murmurants"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbkhanDreyFlavor" value="Les abhkans construisent leurs nids avec les troncs aiguisés des pins. Nous avons demandé aux chasseurs Acrinns comment nous pouvions les débusquer et avons appris que dans leur monde, les Acrinns avançaient lentement sur un nid à l'aide de piques. La chasse pouvait durer des jours entiers. Nous n'avions pas le temps pour ces conneries. Les tirs de canon seraient beaucoup plus rapides."/>
 	<entry name="AcrinCrashSiteFlavor" value="Chaque fois que tu pensais que le dernier vaisseau Acrinn s'était écrasé depuis l'orbite, un autre illuminait le ciel alors qu'il entrait dans l'atmosphère en brûlant. Les Acrinns les pillaient pour récupérer des morceaux de leur planète. Les humains les pillaient pour en voler les technologies. Et ZEPHON... eh bien, je ne sais toujours pas ce que ZEPHON voulait. Je sais juste que nous devions nous battre pour obtenir notre part."/>
 	<entry name="AdvancedCyberCacheFlavor" value="Pendant un court moment, certains de mes lieutenants ont essayé de comprendre le but de ces caches. Si elles nous donnaient des ressources, c'était sûrement pour maximiser une forme de production spécifique. Si nous trouvions des unités, nous supposions qu'il fallait bâtir des stratégies autour d'elles. Je leur ai dit de ne pas se laisser faire<nbsp/>: à ce train-là, autant tirer des cartes de tarot."/>
@@ -79,6 +96,7 @@
 	<entry name="AdvancedVoiceCacheFlavor" value="Des caches Acrinns de grande valeur sont littéralement tombées du ciel. Après la destruction de leur flotte, nous voyions des débris rentrer dans l'atmosphère tous les jours, déposant parfois des fournitures ou des survivants juste à notre frontière. La découverte de ces caches aurait dû être un soulagement, mais elle n'a fait que nous rappeler le grand cimetière de métal qui plane au-dessus de nos têtes, faisant pleuvoir des débris qui risquent de tous nous tuer."/>
 	<entry name="ArcDischargeFlavor" value="Tu sais ce que c'était<nbsp/>? Les câbles de ZEPHON couraient partout sous la surface, des kilomètres et des kilomètres de cuivre brut. Ces arcs électriques étaient une fraction d'une fraction d'une fraction de la puissance de ZEPHON qui s'abattait sur toi. Tu pouvais profiter de cette puissance si tu le voulais, mais tes ennemis aussi."/>
 	<entry name="ArcticFlavor" value="Les déchets glacés de l'ancienne Terre abritaient désormais des abkluths d'un blanc immaculé, qui avaient hypervolué pour chasser dans un nouvel environnement. Nous avons tout de même frappé ici pour une raison essentielle<nbsp/>: ce terrain offrait à nos techniciens un environnement optimal pour leurs recherches. L'humidité et les températures basses, combinées à des lignes de vue dégagées, ont rendu les tests d'armes beaucoup plus efficaces, ont-ils dit. Peut-être préféraient-ils simplement le froid."/>
+	<entry name="AtmosphericAnchorFlavor" value="D'autres technologies des Horlogers. Ils juraient les avoir créées pour tirer de l'énergie des régions où l'air chaud rencontrait l'air froid. Moi, je pense qu'ils ne se connaissaient pas eux-mêmes. Quelqu'un dans leurs rangs savait que c'était une arme en puissance... et cet individu s'est bien gardé de prendre la parole."/>
 	<entry name="BleedFlavor" value="Les tentacules de Vox sont sortis d'une réalité et ont pénétré dans la nôtre, ouvrant une porte vers la folie. Ces êtres n'auraient pas dû infester notre terre. Leurs extrémités maladives et visqueuses se sont étendues à la recherche de chair –<nbsp/>ou de métal<nbsp/>– à posséder. Je ne peux même pas échapper à leur vue dans mon sommeil. Certaines nuits, souvent à la pleine lune, je me réveille en sueur, sentant encore l'attraction fantomatique qu'ils exercent sur moi. Je pensais que tout cela était dans ma tête, mais j'ai entendu les murmures dans le réfectoire. D'autres rêvent aussi qu'ils se font écraser."/>
 	<entry name="BrushFlavor" value="Il paraît qu'on trouvait de petites créatures se nourrissant de plantes dans les prairies, de plus gros mammifères se nourrissant de ces créatures, et ainsi de suite. Si nous avions eu plus de temps, nous aurions pu nous faire une place prudente dans ce cycle. Au lieu de cela, nous l'avons perturbé, intégré de force. Une armée marche avec son estomac, et nous avions des ventres à remplir."/>
 	<entry name="CicadasFlavor" value="Écoute, ce n'est pas moi qui fais les règles. Les insectes étaient riches en protéines et faciles à cuisiner pour en faire des repas plus copieux. Certains d'entre nous avaient vécu dans des pays d'avant-guerre où les cigales étaient régulièrement au menu. Les attraper permettait de nourrir nos hommes, et ceux qui se plaignaient avaient deux choix<nbsp/>: mourir de faim ou ravaler leur fierté."/>
@@ -97,6 +115,7 @@
 	<entry name="MicrochipFabricatorFlavor" value="La synthèse des micropuces de ZEPHON repose sur un réseau décentralisé. Pendant une brève période, nous avons pensé qu'il suffirait de capturer ses synthétiseurs en nombre suffisant pour attirer son attention. Mais pourquoi s'en préoccuperait-il<nbsp/>? Si un synthétiseur était hors ligne, il pouvait en fabriquer un autre à une distance sûre, sa chaîne de production étant à peine interrompue."/>
 	<entry name="NuclearFalloutFlavor" value="Tss. Tout le monde n'a que ZEPHON et l'invasion des Acrinns à la bouche, mais... on a flirté avec l'apocalypse, pas vrai<nbsp/>? Des hommes incapables d'atteindre l'orbite ont amené la civilisation au bord du gouffre. Des générations plus tard, on utilise encore leurs armes et la Terre brûle toujours à leur passage."/>
 	<entry name="PhaseGeneratorFlavor" value="La première fois que j'ai croisé la route d'une Horlogère, elle effectuait la maintenance d'un de ces générateurs. Nous... nous sommes disputés pour savoir qui devait être autorisé à les contrôler. «<nbsp/>Vous êtes ici pour gagner une guerre. Je suis là pour empêcher la prochaine<nbsp/>», m'a-t-elle lancé. Nous avons passé un accord<nbsp/>: si nous acheminions un peu d'énergie vers les Horlogers, ils activeraient le bouclier pour protéger notre peuple."/>
+	<entry name="ReaverDepotFlavor" value="Je me suis retrouvé dans une longue dispute avec le Dauphin qui a duré des mois... Il y avait une base des Reavers pile au centre du territoire où on commerçait. Toutes les deux-trois semaines, l'un de nous le prenait et chaque fois, les Reavers changeaient de camp sans ciller. Comme quoi il y a une certaine fiabilité à n'être loyal à personne."/>
 	<entry name="RecyclingTanksFlavor" value="C'est dégoûtant. Les cultes de Vox qui survivent tant bien que mal dans les déchets ont construit ces installations pour fabriquer plus d'algues. Pas besoin de construire des cimetières quand il suffit de jeter les corps et les viscères dans une fosse toxique qui donne une bouillie de viande ignoble. Je portais un masque à particules pour visiter des sites comme celui-ci."/>
 	<entry name="RiverFlavor" value="Tous les prédateurs de la Terre le savaient, c'est quand elles cherchent de l'eau que les proies sont les plus vulnérables. Les proies savaient à leur tour que lorsqu'elles cherchent de l'eau, elles risquent d'être chassées. Mieux vaut être le prédateur, mais si tu te trouves dans le rôle de la proie, souviens-toi que traverser l'eau impétueuse ralentira la plupart des chasseurs."/>
 	<entry name="RoadFlavor" value="La première nuit après la construction de nos premières routes, j'ai sauté dans un Outrider et conduit pendant des kilomètres. J'ai brûlé trop d'essence juste pour sentir le vent souffler dans mes cheveux, les pneus adhérer à l'asphalte dans les virages. Je ne voulais pas retourner à la guerre. Je voulais juste conduire pour toujours."/>

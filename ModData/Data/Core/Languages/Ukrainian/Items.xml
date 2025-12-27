@@ -21,6 +21,8 @@
 <entry name="ExousiaParser" value="Парсер «Ексузії»"/>
 <entry name="GauntletOfRuin" value="Рукавиця розпаду"/>
 <entry name="GladialEmanator" value="Клинковий історгатель"/>
+<entry name="HoloDecoy" value="Гологрушка"/>
+<entry name="HoloDecoyFlavor" value="Твердий, голографічний камінь... саме притягає. Так, наче в усіх немов якась вроджена упередженість до голубого кольору. Він не постачався у моїй початковій комплектації віддушу. Мав установити в апгрейді, відкритому мав нещодавно розробити. Значить цікаво, інвайдер відчуження у наших раніше теперець."/>
 <entry name="HungeringCirclet" value="Обруч голоду"/>
 <entry name="ICARFluidDeflector" value="Рідинний дефлектор І.К.А.Р."/>
 <entry name="ICARLogo0" value="Фрагмент логотипу І.К.А.Р."/>
@@ -36,11 +38,15 @@
 <entry name="ICARLogo5" value="&lt;string name='Items/ICARLogo0'/&gt;"/>
 <entry name="ICARLogo5Flavor" value="&lt;string name='Items/ICARLogo0Flavor'/&gt;"/>
 <entry name="IncandescentIcon" value="Ікона накалювання"/>
+<entry name="InvasiveAuditor" value="Інвазивний аудитор"/>
+<entry name="InvasiveAuditorFlavor" value="Ох, як же БОЛЯЧЕ було, коли тобі на шию ляпали один із цих дурних металевих дисків. Дроти, що впиваються в хребет — так, добре, звик. Бойовий ШІ всередині сканує поле бою, і ти чуєш, як машина каже: «поверни праворуч, ухилися ліворуч, три постріли». Але насправді вона грає твоєю нервовою системою, як на гітарі. Кожен твій постріл — це вчасно взята нота."/>
 <entry name="Iokla" value="Іок'ла"/>
 <entry name="KnifeOfTheChieftess" value="Ніж Дикарки"/>
 <entry name="KnifeOfTheChieftessFlavor" value="&lt;string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/&gt;"/>
 <entry name="Pathcutter" value="Путесрезач"/>
 <entry name="PFCManual" value="Посібник з P.F.C."/>
+<entry name="PlanarPhlebotomizer" value="Планарний флеботомізатор"/>
+<entry name="PlanarPhlebotomizerFlavor" value="У мене було одне правило: якщо ти хочеш носити Планарний флеботомізатор, ти маєш вміти вимовити це п'ять разів швидко. Це відсіювало всіх, хто був надто дурним, щоб випадково застосувати його проти наших власних бійців."/>
 <entry name="PhaseFontead" value="Фазовий точник"/>
 <entry name="PhilosophersStone" value="Філософський камінь"/>
 <entry name="PhilosophersStoneFlavor" value="&lt;string name='Quests/PhilosophersStone/StoneRetrieved2'/&gt;"/>
@@ -48,7 +54,9 @@
 <entry name="ReyndverraFlavor" value="&lt;string name='Quests/Reyndverra/TakeBlade2'/&gt;"/>
 <entry name="QuantumReflector" value="Квантовий рефлектор"/>
 <entry name="QuantumReflectorFlavor" value="&lt;string name='Quests/FormFunction/FlushCortexSuccess2'/&gt;"/>
-<entry name="RallyingHolobeacon" value="Об’єднуючий голомаяк"/>
+<entry name="Quakecaller" value="Кличзлив"/>
+<entry name="QuakecallerFlavor" value="&lt;string name='Quests/TheMartialEthic/Intro2'/&gt;"/>
+<entry name="RallyingHolobeacon" value="Об'єднуючий голомаяк"/>
 <entry name="ReactiveTrigger" value="Детонатор ДЗ"/>
 <entry name="SchismOfRegimina" value="Розкол Регіміни"/>
 <entry name="SpotterDrone" value="Дрон-наводчик"/>

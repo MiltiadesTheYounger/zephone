@@ -3,7 +3,7 @@
 	<entry name="AccumulatedGrowth" value="누적된 성장"/>
 	<entry name="AccumulatedGrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
 	<entry name="Accuracy" value="명중률"/>
-	<entry name="AccuracyDescription" value="명중률이 1점 증가할 때마다 적중 확률이 약 8.3%% 증가합니다."/>
+	<entry name="AccuracyDescription" value="명중률이 1점 증가할 때마다 적중 확률이 약 8.3% 증가합니다."/>
 	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="ActionPoints" value="행동력 점수"/>
 	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
@@ -34,7 +34,7 @@
 	<entry name="AntimatterUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Antimatter'/>"/>
 	<entry name="Armor" value="방어력"/>
 	<entry name="ArmorDescription" value="무기와 능력으로 받는 <icon height='20' texture='Icons/Attributes/Damage'/> 피해가 감소합니다. <string name='Attributes/ArmorDescription/Reduction'/>"/>
-	<entry name="ArmorDescription/Reduction" value="방어력 1점당 받는 피해가 약 8.3%%(최대 83%%) 감소하지만, 무기와 능력은 방어력 관통 수치만큼 방어력 점수를 무시합니다."/>
+	<entry name="ArmorDescription/Reduction" value="방어력 1점당 받는 피해가 약 8.3%(최대 83%) 감소하지만, 무기와 능력은 방어력 관통 수치만큼 방어력 점수를 무시합니다."/>
 	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
 	<entry name="ArmorDamageReduction" value="방어력 피해 감소"/>
 	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
@@ -74,7 +74,8 @@
 	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CargoSlotsRequired" value="적재 슬롯 필요"/>
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
-	<entry name="Charges" value="사용 횟수"/>
+	<entry name="BuildingSlotsDescription" value="타일에 건설할 수 있는 건물의 수입니다."/>
+<entry name="Charges" value="사용 횟수"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="칩"/>
 	<entry name="ChipsDescription" value="사이버 유닛 생산 및 유지에 사용됩니다."/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="턴마다 개체 유지에 소모되는 차원의 메아리 양입니다."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="중복 유형 비용"/>
+	<entry name="DuplicateTypeCostLimit" value="중복 유형 비용 제한"/>
 	<entry name="Energy" value="에너지"/>
 	<entry name="EnergyDescription" value="건물 유지와 특수 유닛 생산 및 유지에 사용됩니다."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -165,9 +167,11 @@
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="사선"/>
 	<entry name="IgnoreLineOfSight+" value="무시"/>
-	<entry name="IgnoreZoneOfControl" value="적 유닛 사이로 이동"/>
+	<entry name="IgnoreZoneOfControl" value="적 유닛과 적 통제 구역 사이로 이동"/>
 	<entry name="IgnoreZoneOfControl+" value="허용"/>
-	<entry name="Influence" value="영향력"/>
+	<entry name="HitpointsPerGroupMember" value="그룹 구성원당 체력"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+<entry name="Influence" value="영향력"/>
 	<entry name="InfluenceDescription" value="도시 타일 획득 및 유지, 특수 능력 발동, 영웅 유닛 모집 및 유지, 아이템 및 자원 구매에 사용됩니다."/>
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="영향력 비용"/>
@@ -188,7 +192,7 @@
 	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
 	<entry name="Level" value="레벨"/>
 	<entry name="LevelDescription" value="유닛의 경험치 레벨입니다. <string name='Attributes/LevelDescription/Effect'/><br/><br/><string name='Attributes/LevelDescription/Death'/> <string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
-	<entry name="LevelDescription/Effect" value="유닛의 레벨이 1보다 높게 올라갈 때마다 <icon height='20' texture='Icons/Attributes/Hitpoints'/> 체력과 <icon height='20' texture='Icons/Attributes/Damage'/> 공격력이 5%%, <icon height='20' texture='Icons/Attributes/Morale'/> 사기가 10%% 증가합니다."/>
+	<entry name="LevelDescription/Effect" value="유닛의 레벨이 1보다 높게 올라갈 때마다 <icon height='20' texture='Icons/Attributes/Hitpoints'/> 체력과 <icon height='20' texture='Icons/Attributes/Damage'/> 공격력이 5%, <icon height='20' texture='Icons/Attributes/Morale'/> 사기가 10% 증가합니다."/>
 	<entry name="LevelDescription/Death" value="유닛이 사망하면 사망한 유닛 주변 3타일 안에 있는 공격자와 적 유닛이 경험치를 획득하며, 공격자는 거리와 관계없이 항상 경험치를 획득합니다."/>
 	<entry name="LevelDescription/DeathNoAttacker" value="공격자 없이 유닛이 사망하면 사망한 유닛 주변 3타일 안에 있는 모든 적 유닛이 경험치를 획득합니다."/>
 	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
@@ -206,13 +210,11 @@
 	<entry name="LoyaltyUpkeep" value="충성도 유지비"/>
 	<entry name="LoyaltyUpkeepDescription" value="턴마다 개체 유지에 소모되는 충성도의 양입니다."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="분대원별 최대 체력"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="사기"/>
 	<entry name="MoraleDescription" value="유닛의 심리 상태입니다. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="유닛이 이전 턴에 피해를 받지 않았다면 사기가 회복됩니다."/>
-	<entry name="MoraleDescription/Shaken" value="사기가 66%% 미만이면 유닛이 <icon height='20' texture='Icons/Traits/Shaken'/> 사기 저하 상태가 되어 공격력과 적에게 받는 피해가 17%% 증가합니다."/>
-	<entry name="MoraleDescription/Broken" value="사기가 33%% 미만이면 유닛이 <icon height='20' texture='Icons/Traits/Broken'/> 패주 상태가 되어 공격력과 적에게 받는 피해가 33%% 증가합니다."/>
+	<entry name="MoraleDescription/Shaken" value="사기가 66% 미만이면 유닛이 <icon height='20' texture='Icons/Traits/Shaken'/> 사기 저하 상태가 되어 공격력과 적에게 받는 피해가 17% 증가합니다."/>
+	<entry name="MoraleDescription/Broken" value="사기가 33% 미만이면 유닛이 <icon height='20' texture='Icons/Traits/Broken'/> 패주 상태가 되어 공격력과 적에게 받는 피해가 33% 증가합니다."/>
 	<entry name="MoraleDescription/Death" value="유닛이 사망하면 사망한 유닛과 공격자 주변 3타일 안에 있는 아군은 사망한 유닛의 경험치 값에 따라 사기를 잃습니다. 같은 범위 안에 있는 적 유닛은 같은 양의 사기를 얻습니다."/>
 	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="MoraleLoss" value="사기 손실"/>

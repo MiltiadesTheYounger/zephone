@@ -31,7 +31,7 @@
 	<entry name="ArcticRegionDensity2" value="Małe"/>
 	<entry name="ArcticRegionDensity3" value="Średnie"/>
 	<entry name="ArcticRegionDensity4" value="Duże"/>
-	<entry name="ArcticRegionDensity5" value="Very High"/>	
+	<entry name="ArcticRegionDensity5" value="Bardzo duże"/>	
 	<entry name="AutoDisableSimultaneousTurns" value="Automatyczne wyłączenie jednoczesnych tur"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="Automatycznie wyłącza jednoczesne tury, gdy wrogie jednostki niebędące SI wejdą na 5 pól, na których znajdują się inni gracze."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Unikaj duplikacji losowych frakcji"/>
@@ -49,7 +49,7 @@
 	<entry name="BrushDensity2" value="Małe"/>
 	<entry name="BrushDensity3" value="Średnie"/>
 	<entry name="BrushDensity4" value="Duże"/>
-	<entry name="BrushDensity5" value="Very High"/>	
+	<entry name="BrushDensity5" value="Bardzo duże"/>	
 	<entry name="CacheDensity" value="Zagęszczenie zasobników"/>
 	<entry name="CacheDensity0" value="Brak"/>
 	<entry name="CacheDensity1" value="Bardzo niskie"/>
@@ -78,7 +78,8 @@
 	<entry name="ConstructRegionDensity3" value="Średnie"/>
 	<entry name="ConstructRegionDensity4" value="Duże"/>
 	<entry name="ConstructRegionDensity5" value="Bardzo duże"/>
-	<entry name="DLC1" value="DLC „The Twisted & The Hollow”"/>
+	<entry name="DLC1" value="DLC „The Twisted & The Hollow”"/> <!-- DLC name. Do not translate. -->
+	<entry name="DLC2" value="DLC „The Platinum & The Infinite”"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="Zagęszczenie regionów pustynnych"/>
 	<entry name="DesertRegionDensity0" value="Brak"/>
 	<entry name="DesertRegionDensity1" value="Bardzo małe"/>
@@ -87,7 +88,7 @@
 	<entry name="DesertRegionDensity4" value="Duże"/>
 	<entry name="DesertRegionDensity5" value="Bardzo duże"/>
 	<entry name="Difficulty" value="Poziom trudności"/>
-	<entry name="DifficultyHint" value="Zmienia wzmocnienia SI oraz tubylców."/>
+	<entry name="DifficultyHint" value="Zmienia wzmocnienia SI."/>
 	<entry name="Difficulty0" value="Bardzo łatwy"/>
 	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie średniego osłabienia lojalności miasta.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności"/>
 	<entry name="Difficulty0RecommendationHint" value="<style name='Italic'/>Zalecane dla graczy zorientowanych na fabułę."/>
@@ -98,16 +99,16 @@
 	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> brak osłabienia albo wzmocnienia."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Zalecane dla fanów strategii turowych."/>
 	<entry name="Difficulty3" value="Trudny"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie małego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie małego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek, a<nbsp/>także niewielki wzrost dyplomatycznej agresji AI.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Zalecane dla weteranów gier Proxy Studios."/>
 	<entry name="Difficulty4" value="Bardzo trudny"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie średniego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie średniego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek, a<nbsp/>także umiarkowany wzrost dyplomatycznej agresji AI.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Zalecane po przejściu gry na trudnym poziomie."/>
 	<entry name="Difficulty5" value="Ultratrudny"/>
-	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie dużego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie dużego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek, a<nbsp/>także duży wzrost dyplomatycznej agresji AI.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
 	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>Zalecane po przejściu gry na bardzo trudnym poziomie."/>
 	<entry name="Difficulty6" value="Koszmarny"/>
-	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie ekstremalnego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> przyznanie ekstremalnego wzmocnienia lojalności miasta i<nbsp/>poziomu jednostek, a<nbsp/>także ekstremalny wzrost dyplomatycznej agresji AI.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lojalności<br/><icon texture='GUI/Bullet'/>%3% poziom <string name='Attributes/LevelIcon'/><br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agresji"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>Niezalecane."/>
 	<entry name="DustStormDensity" value="Zagęszczenie burz piaskowych"/>
 	<entry name="DustStormDensity0" value="Brak"/>
@@ -135,7 +136,7 @@
 	<entry name="ForestDensity5" value="Bardzo duże"/>
 	<entry name="GameName" value="Nazwa rozgrywki"/>
 	<entry name="GameNameHint" value="Nazwa tej gry wyświetlana na liście rozgrywek wieloosobowych."/>
-	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility" value="Widoczność rozgrywki"/> 
 	<entry name="GameVisibility0" value="Tylko znajomi"/>
 	<entry name="GameVisibility0Hint" value="Rozgrywka nie znajduje się na publicznych listach i<nbsp/>można do niej dołączyć tylko z<nbsp/>list znajomych, poprzez zaproszenia albo bezpośrednie połączenie."/>
 	<entry name="GameVisibility1" value="Prywatna"/>
@@ -184,20 +185,28 @@
 	<entry name="Mutators/CanFreeWillExistHint" value="Obrażenia zadawane przez broń są losowo modyfikowane o<nbsp/>±20%."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
 	<entry name="Mutators/DidHonorBalanceGreedHint" value="Zawsze, gdy anulujesz umowę, zyskujesz trwałą niewiarygodność."/>
+	<entry name="Mutators/DidIDoomMyFriends" value="<string name='Settings/Achievements/DidIDoomMyFriends'/>"/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="W każdej turze niewidoczne pola stają się niezbadane."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
 	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Podwaja zmianę morale w<nbsp/>przypadku śmierci."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
 	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="Jednostki inne niż neutralne tracą w<nbsp/>każdej turze 5% punktów zdrowia, gdy znajdują się poza sojuszniczymi placówkami lub miastami."/>
 	<entry name="Mutators/DidOurUnificationMatter" value="<string name='Settings/Achievements/DidOurUnificationMatter'/>"/>
 	<entry name="Mutators/DidOurUnificationMatterHint" value="Niezdeformowane jednostki biologiczne, które zginą, stają się neutralnymi deformacjami. Zaczyna działać po innych efektach śmierci."/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="<string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/>"/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="Podwaja zdobywane doświadczenie."/>
 	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="Rozpocznij grę z<nbsp/>wynalezionymi: laboratorium badawczym, teatrem holograficznym, kompleksem mieszkalnym, placem budowy i<nbsp/>inżynierami."/>
+	<entry name="Mutators/MustWeSufferSoHint" value="Rozpocznij grę z<nbsp/>wynalezionymi: laboratorium badawczym, kompleksem administracyjnym, teatrem holograficznym, kompleksem mieszkalnym, placem budowy i<nbsp/>inżynierami."/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="<string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/>"/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Zgromadzone zasoby powiększają się co turę o<nbsp/>10%."/>
 	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
 	<entry name="Mutators/WasITrulyHumanHint" value="Obrażenia są rozdzielane między wszystkich sąsiadujących sojuszników celu."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
 	<entry name="Mutators/WasPerfectionWorthItHint" value="Duplikowane jednostki kosztują o<nbsp/>20% zasobów więcej."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
 	<entry name="Mutators/WasZephonTrulyAliveHint" value="Nieograniczony zasięg przejmowania pól."/>
+	<entry name="Mutators/WhatAmITruly" value="<string name='Settings/Achievements/WhatAmITruly'/>"/>
+	<entry name="Mutators/WhatAmITrulyHint" value="Podwaja szybkość wytwarzania jednostek."/>
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
 	<entry name="Mutators/WhatAreYouHint" value="Można badać tylko technologie z<nbsp/>takimi samymi powiązaniami jak twoje lub nieposiadające powiązań."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
@@ -227,7 +236,7 @@
 	<entry name="RegionDensity2" value="Małe"/>
 	<entry name="RegionDensity3" value="Średnie"/>
 	<entry name="RegionDensity4" value="Duże"/>
-	<entry name="RegionDensity5" value="Very High"/>	
+	<entry name="RegionDensity5" value="Bardzo duże"/>	
 	<entry name="RequiredTechnologiesPerTier" value="Technologie wymagane na każdym poziomie"/>
 	<entry name="RequiredTechnologiesPerTier0" value="0"/>
 	<entry name="RequiredTechnologiesPerTier1" value="1"/>
@@ -268,26 +277,26 @@
 	<entry name="ResourceUpkeep3" value="Wysokie"/>
 	<entry name="ResourceUpkeep4" value="Bardzo wysokie"/>
 	<entry name="RiverDensity" value="Zagęszczenie rzek"/>
-	<entry name="RiverDensity0" value="None"/>	
+	<entry name="RiverDensity0" value="Brak"/>	
 	<entry name="RiverDensity1" value="Bardzo małe"/>
 	<entry name="RiverDensity2" value="Małe"/>
 	<entry name="RiverDensity3" value="Średnie"/>
 	<entry name="RiverDensity4" value="Duże"/>
-	<entry name="RiverDensity5" value="Very High"/>	
+	<entry name="RiverDensity5" value="Bardzo duże"/>	
 	<entry name="RocksDensity" value="Zagęszczenie skał"/>
 	<entry name="RocksDensity0" value="Brak"/>
 	<entry name="RocksDensity1" value="Bardzo małe"/>
 	<entry name="RocksDensity2" value="Małe"/>
 	<entry name="RocksDensity3" value="Średnie"/>
 	<entry name="RocksDensity4" value="Duże"/>
-	<entry name="RocksDensity5" value="Very High"/>	
+	<entry name="RocksDensity5" value="Bardzo duże"/>	
 	<entry name="RuinsDensity" value="Zagęszczenie ruin"/>
 	<entry name="RuinsDensity0" value="Brak"/>
 	<entry name="RuinsDensity1" value="Bardzo małe"/>
 	<entry name="RuinsDensity2" value="Małe"/>
 	<entry name="RuinsDensity3" value="Średnie"/>
 	<entry name="RuinsDensity4" value="Duże"/>
-	<entry name="RuinsDensity5" value="Very High"/>	
+	<entry name="RuinsDensity5" value="Bardzo duże"/>	
 	<entry name="Seed" value="Identyfikator świata"/>
 	<entry name="SimultaneousTurns" value="Jednoczesne tury"/>
 	<entry name="SimultaneousTurnsHint" value="Jeśli ta opcja jest włączona, wszyscy gracze działają jednocześnie.<br/><br/>Jeżeli jest wyłączona, działają tylko gracze z<nbsp/>tej samej drużyny.<br/><br/>Wyłączenie tej opcji spowoduje też, że tury SI będą trwać dłużej, choć będzie ona podejmowała lepsze decyzje w<nbsp/>walce z<nbsp/>innymi SI."/>
@@ -321,7 +330,7 @@
 	<entry name="SwampRegionDensity2" value="Małe"/>
 	<entry name="SwampRegionDensity3" value="Średnie"/>
 	<entry name="SwampRegionDensity4" value="Duże"/>
-	<entry name="SwampRegionDensity5" value="Very High"/>	
+	<entry name="SwampRegionDensity5" value="Bardzo duże"/>	
 	<entry name="TurnTimer" value="Zegar tury"/>
 	<entry name="TurnTimer0" value="Brak"/>
 	<entry name="TurnTimer1" value="Bardzo krótki (1 minuta)"/>
@@ -344,7 +353,7 @@
 	<entry name="VolcanoDensity2" value="Małe"/>
 	<entry name="VolcanoDensity3" value="Średnie"/>
 	<entry name="VolcanoDensity4" value="Duże"/>
-	<entry name="VolcanoDensity5" value="Very High"/>	
+	<entry name="VolcanoDensity5" value="Bardzo duże"/>	
 	<entry name="WildlifeDensity" value="Zagęszczenie przyrody"/>
 	<entry name="WildlifeDensity0" value="Brak"/>
 	<entry name="WildlifeDensity1" value="Bardzo małe"/>
@@ -352,7 +361,9 @@
 	<entry name="WildlifeDensity3" value="Średnie"/>
 	<entry name="WildlifeDensity4" value="Duże"/>
 	<entry name="WildlifeDensity5" value="Bardzo duże"/>
-	<entry name="WorldSeed" value="Identyfikator świata"/>
+	<entry name="WorldParameters" value="Parametry świata"/>
+	<entry name="WorldParametersHint" value="Zakodowany ciąg wszystkich parametrów świata, w tym mutatorów, ale bez graczy.<br/><br/>Użyj tego, aby udostępnić swoją konfigurację świata innym lub zapisać ją na później."/>
+<entry name="WorldSeed" value="Identyfikator świata"/>
 	<entry name="WastelandRegionDensity" value="Zagęszczenie regionów pustkowi"/>
 	<entry name="WastelandRegionDensity0" value="Brak"/>
 	<entry name="WastelandRegionDensity1" value="Bardzo małe"/>

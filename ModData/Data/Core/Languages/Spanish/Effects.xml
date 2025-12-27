@@ -20,11 +20,11 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Embarca%1%"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Mata la carga%1%"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Arrastra%1%"/>
-	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Elimina potenciadores%1%"/>
-	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Elimina mermas%1%"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restablece los puntos de acción%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Elimina potenciadores%1% (excepto los de las acciones pasivas)"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Elimina mermas%1% (excepto roto, dañado, agitado y las mermas de acciones pasivas)"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restaura puntos de acción%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Restablece los periodos de recarga%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restablece los puntos de movimiento%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restaura puntos de movimiento%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>Revela las casillas%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

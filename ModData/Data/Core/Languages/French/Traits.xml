@@ -2,21 +2,25 @@
 <language>
 	<entry name="Abhorrent" value="Abhorration"/>
 	<entry name="AbkhanHoard" value="Réserve d'abkhan"/>
-	<entry name="AbkhanHoardProperties" value="<icon texture='GUI/Bullet'/>Donne de la nourriture, des minéraux et des objets en récompense à la mort<br/><icon texture='GUI/Bullet'/>Réapparaît sur le Drey abkhan après 20<nbsp/>tours"/>
+	<entry name="AbkhanHoardProperties" value="<icon texture='GUI/Bullet'/>Donne de la nourriture, des minéraux et des objets en récompense en se faisant tuer par une unité<br/><icon texture='GUI/Bullet'/>Réapparaît sur le Drey abkhan après 20<nbsp/>tours"/>
 	<entry name="AbkhanRespawn" value="Réapparition d'abkhan"/>
+	<entry name="AblativeShell" value="<string name='Actions/AblativeShell'/>"/>
+	<entry name="AblativeShellFlavor" value="<string name='Actions/AblativeShellFlavor'/>"/>
 	<entry name="AbyssalRage" value="<string name='Actions/AbyssalRage'/>"/>
 	<entry name="AbyssalRageFlavor" value="<string name='Actions/AbyssalRageFlavor'/>"/>
-	<entry name="ArcDischarge" value="<string name='Features/ArcDischarge'/>"/>
-	<entry name="ArcDischargeFlavor" value="<string name='Features/ArcDischargeFlavor'/>"/>
+	<entry name="AccidentalBrilliance" value="Génie involontaire"/>
+	<entry name="AccidentalBrillianceFlavor" value="<string name='Quests/TouchTheSky/CarveFaceSunHighRoad2'/>"/>
 	<entry name="AcrinAdvancement" value="Avancée Acrinn"/>
 	<entry name="AcrinCrashSite" value="<string name='Features/AcrinCrashSite'/>"/>
 	<entry name="AcrinCrashSiteFlavor" value="<string name='Features/AcrinCrashSiteFlavor'/>"/>
 	<entry name="AegyllanSight" value="Vue égyllienne"/>
+	<entry name="AgelessHunger" value="Soif intemporelle"/>
 	<entry name="Agile" value="Agilité"/>
 	<entry name="AgileProperties" value="<icon texture='GUI/Bullet'/>Réduit le coût de <string name='Attributes/MovementIcon'/> déplacement des forêts et des ruines"/>
 	<entry name="AkavishRig" value="<string name='Items/AkavishRig'/>"/>
 	<entry name="AkavishRigFlavor" value="<string name='Items/AkavishRigFlavor'/>"/>
 	<entry name="AlgaeUpgrade" value="Infestation bénie"/>
+	<entry name="Ambush" value="Embuscade"/>
 	<entry name="AmnioticSubstance" value="Substance amniotique"/>
 	<entry name="AmnioticSubstanceFlavor" value="<string name='Quests/UnderObservation/DestroyShards2'/>"/>
 	<entry name="AmoetiasCaress" value="Caresse d'Amoetia"/>
@@ -37,7 +41,11 @@
 	<entry name="AntimatterPlating" value="Revêtement antimatière"/>
 	<entry name="AntimatterShield" value="Bouclier antimatière"/>
 	<entry name="AntimatterUpgrade" value="Déphasage de sécurité"/>
+	<entry name="ApolineNegotiation" value="Négociation d'Apolline"/>
+	<entry name="ApolineNegotiationFlavor" value="<string name='Quests/StormOfStorms/BegAndBargain2'/>"/>
 	<entry name="AraneanCloak" value="Cape aranéenne"/>
+	<entry name="ArcDischarge" value="<string name='Features/ArcDischarge'/>"/>
+	<entry name="ArcDischargeFlavor" value="<string name='Features/ArcDischargeFlavor'/>"/>
 	<entry name="Archaegis" value="<string name='Items/Archaegis'/>"/>
 	<entry name="ArchaegisFlavor" value="<string name='Items/ArchaegisFlavor'/>"/>
 	<entry name="ArchaiConstruct" value="Golem Kryptarque"/>
@@ -57,8 +65,12 @@
 	<entry name="AssaultTransport" value="Transport d'assaut"/>
 	<entry name="AssaultTransportProperties" value="<icon texture='GUI/Bullet'/>Permet le transport d'unités de taille normale<br/><icon texture='GUI/Bullet'/>Les unités débarquées peuvent se déplacer normalement<br/><icon texture='GUI/Bullet'/>Les unités embarquées meurent si le transport est détruit"/>
 	<entry name="AsymmetricArbitrage" value="Arbitrage asymétrique"/>
+	<entry name="AtmosphericAnchor" value="<string name='Features/AtmosphericAnchor'/>"/>
+	<entry name="AtmosphericAnchorFlavor" value="<string name='Features/AtmosphericAnchorFlavor'/>"/>
 	<entry name="AtramentousAura" value="<string name='Actions/AtramentousAura'/>"/>
 	<entry name="AtramentousAuraFlavor" value="<string name='Actions/AtramentousAuraFlavor'/>"/>
+	<entry name="AttackFunction" value="<string name='Actions/AttackFunction'/>"/>
+	<entry name="AttackFunctionFlavor" value="<string name='Actions/AttackFunctionFlavor'/>"/>
 	<entry name="Augmentations" value="Améliorations"/>
 	<entry name="AugmentationsProperties" value="<icon texture='GUI/Bullet'/>En échange d'influence, vous pouvez doter vos unités d'améliorations."/>
 	<entry name="AuraOfDiscipline" value="<string name='Actions/AuraOfDiscipline'/>"/>
@@ -90,6 +102,8 @@
 	<entry name="BunkerExtension" value="Agrandissement de bunker"/>
 	<entry name="BunkerExtensionProperties" value="<icon texture='GUI/Bullet'/>+1<nbsp/><string name='Weapons/HeavyMachineGun'/>"/>
 	<entry name="Burning" value="Brûlure"/>
+	<entry name="CaelumCeteRebel" value="<string name='Units/CaelumCete'/> (Vingt-Huit Dragons)"/>
+	<entry name="CaelumCeteRebelFlavor" value="<string name='Quests/CityInTheClouds/SupportRebelsSuccess'/>"/>
 	<entry name="CannibalizeMachines" value="Cannibalisation de matériel"/>
 	<entry name="Capturable" value="Capturable"/>
 	<entry name="CapturableProperties" value="<icon texture='GUI/Bullet'/>Capturable par les unités de %1%"/>
@@ -164,11 +178,16 @@
 	<entry name="DecoyFlares" value="<string name='Actions/DecoyFlares'/>"/>
 	<entry name="DecoyFlaresFlavor" value="<string name='Actions/DecoyFlaresFlavor'/>"/>
 	<entry name="DefenseMatrix" value="Matrice défensive"/>
+	<entry name="Defiled" value="Profané"/>
+	<entry name="DefiledFlavor" value="<string name='Traits/DefilingFlavor'/>"/>
+	<entry name="Defiling" value="Profanation"/>
 	<entry name="DeflectorShield" value="Bouclier déflecteur"/>
 	<entry name="Deforming" value="Déformation"/>
 	<entry name="Decaying" value="Décomposition"/>
+	<entry name="Desiccated" value="Desséché"/>
 	<entry name="DeportedReavers" value="Reavers déportés"/>
 	<entry name="DeportedReaversFlavor" value="<string name='Quests/TheyAreInTheWalls/Deport'/>"/>
+	<entry name="DermalPatching" value="Dermorapiéçage"/>
 	<entry name="DimensionalEchoesUpgrade" value="Ichor d'Uzhodai"/>
 	<entry name="DimensionalReverberations" value="Réverbérations dimensionnelles"/>
 	<entry name="DimensionalShunts" value="<string name='Items/DimensionalShunts'/>"/>
@@ -187,6 +206,8 @@
 	<entry name="DustStormFlavor" value="<string name='Features/DustStormFlavor'/>"/>
 	<entry name="DynameisPlate" value="<string name='Items/DynameisPlate'/>"/>
 	<entry name="DynameisPlateFlavor" value="<string name='Items/DynameisPlateFlavor'/>"/>
+	<entry name="EconomiesOfScale" value="Économies d'échelle"/>
+	<entry name="Elusive" value="Insaisissable"/>
 	<entry name="EMP" value="IEM"/>
 	<entry name="EmulatedMindAffinityUpgrade2" value="Horizons événementiels"/>
 	<entry name="EnergyUpgrade" value="Générateur de biomasse"/>
@@ -204,6 +225,8 @@
 	<entry name="EssenceSyphonedFlavor" value="<string name='Traits/EssenceSyphonFlavor'/>"/>
 	<entry name="EssenceSyphoning" value="Absorption d'essence"/>
 	<entry name="EssenceSyphoningFlavor" value="<string name='Traits/EssenceSyphonFlavor'/>"/>
+	<entry name="EvadeFunction" value="<string name='Actions/EvadeFunction'/>"/>
+	<entry name="EvadeFunctionFlavor" value="<string name='Actions/EvadeFunctionFlavor'/>"/>
 	<entry name="EvasionProcessor" value="<string name='Actions/EvasionProcessor'/>"/>
 	<entry name="EvasionProcessorFlavor" value="<string name='Actions/EvasionProcessorFlavor'/>"/>
 	<entry name="EvasiveManeuvers" value="<string name='Actions/EvasiveManeuvers'/>"/>
@@ -252,6 +275,7 @@
 	<entry name="FrenzyFlavor" value="<string name='Actions/FrenzyFlavor'/>"/>
 	<entry name="FurtiveTribunalAffinityUpgrade2" value="Cellules d'ermites"/>
 	<entry name="FusionWarhead" value="Ogive à fusion"/>
+	<entry name="GalgalimPlating" value="Revêtement Galgalim"/>
 	<entry name="GladialEmanator" value="<string name='Items/GladialEmanator'/>"/>
 	<entry name="GladialEmanatorFlavor" value="<string name='Items/GladialEmanatorFlavor'/>"/>
 	<entry name="GlandHarvest" value="Récolte de glandes"/>
@@ -271,7 +295,7 @@
 	<entry name="HauntedFlavor" value="<string name='Quests/TheDream/Ignore'/>"/>
 	<entry name="Headquarters" value="Quartier général"/>
 	<entry name="HeadquartersFlavor" value="<string name='Units/HeadquartersFlavor'/>"/>
-	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>La destruction du quartier général détruit toute la ville"/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>La destruction du quartier général détruit toute la ville<br/><icon texture='GUI/Bullet'/>Génère une cache à la mort"/>
 	<entry name="HeadquartersAccuracyUpgrade" value="Observateurs condamnés"/>
 	<entry name="HeadquartersAlgae" value="Maison à la frontière"/>
 	<entry name="HeadquartersChips" value="Croissances cysiliques"/>
@@ -292,8 +316,13 @@
 	<entry name="HiredHands" value="Renfort de main-d'œuvre"/>
 	<entry name="HiredHandsProperties" value="En échange d'influence, la production s'accélère."/>
 	<entry name="HitAndRun" value="Guérilla"/>
+	<entry name="Hobbled" value="Entravé"/>
+	<entry name="HobbledFlavor" value="<string name='Traits/HobblingFlavor'/>"/>
+	<entry name="Hobbling" value="Entrave"/>
 	<entry name="HollowWarlordAffinityUpgrade" value="Rouler ou mourir"/>
 	<entry name="HollowWarlordAffinityUpgrade2" value="Jeunesse condamnée"/>
+	<entry name="HoloDecoy" value="<string name='Items/HoloDecoy'/>"/>
+	<entry name="HoloDecoyFlavor" value="<string name='Items/HoloDecoyFlavor'/>"/>
 	<entry name="Holopatter" value="Holocamo"/>
 	<entry name="HolyBond" value="<string name='Actions/HolyBond'/>"/>
 	<entry name="HolyBondFlavor" value="<string name='Actions/HolyBondFlavor'/>"/>
@@ -307,12 +336,14 @@
 	<entry name="HorizonExpansionFlavor" value="<string name='Upgrades/HorizonExpansionFlavor'/>"/>
 	<entry name="Horrifying" value="Horrible"/>
 	<entry name="Hovering" value="Survol"/>
-	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>Peut se déplacer sur l'eau<br/><icon texture='GUI/Bullet'/>Ignore les effets des cours d'eau et du Bleed"/>
+	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>Peut se déplacer sur l'eau<br/><icon texture='GUI/Bullet'/>Ignore les effets des cours d'eau, du Bleed et des cases en feu"/>
 	<entry name="HumanAircraftUpgrade" value="Fret aérien"/>
 	<entry name="HumanAircraftUpgradeFlavor" value="<string name='Traits/AirFreightnetFlavor'/>"/>
 	<entry name="HumanInfantryUpgrade" value="Recruteurs itinérants"/>
 	<entry name="HumanOperationsUpgrade" value="Anciens protocoles d'accès"/>
 	<entry name="HumanVehiclesUpgrade" value="Syndicat"/>
+	<entry name="HungerEmbraced" value="Faim, satisfaite"/>
+	<entry name="HungerEmbracedFlavor" value="<string name='Quests/BecomingUnbound/PoetsInfinity2'/>"/>
 	<entry name="HungerOfHwedo" value="Faim de Hwedo"/>
 	<entry name="HungerOfHwedoFlavor" value="La bête peut être rassasiée... à condition de sacrifier son propre peuple."/>
 	<entry name="HungeringCirclet" value="<string name='Items/HungeringCirclet'/>"/>
@@ -329,20 +360,37 @@
 	<entry name="ImmobilizingFlavor" value="<string name='Traits/ImmobilizedFlavor'/>"/>
 	<entry name="Immoral" value="Immoralité"/>
 	<entry name="ImmoralProperties" value="<icon texture='GUI/Bullet'/>La loyauté diminue de 0,5 à chaque tour"/>
+	<entry name="ImmaculateDeliveryUpgrade" value="<string name='Upgrades/ImmaculateDeliveryUpgrade'/>"/>
+	<entry name="ImmaculateDeliveryUpgradeFlavor" value="<string name='Upgrades/ImmaculateDeliveryUpgradeFlavor'/>"/>
 	<entry name="IncandescentIcon" value="<string name='Items/IncandescentIcon'/>"/>
 	<entry name="IncandescentIconFlavor" value="<string name='Items/IncandescentIconFlavor'/>"/>
 	<entry name="Independent" value="Indépendante"/>
 	<entry name="IndirectFire" value="Tir indirect"/>
 	<entry name="InevitableEnd" value="<string name='Actions/InevitableEnd'/>"/>
 	<entry name="InevitableEndFlavor" value="<string name='Actions/InevitableEndFlavor'/>"/>
+	<entry name="Infinite" value="<string name='Actions/Infinite'/>"/>
+	<entry name="InfiniteFlavor" value="<string name='Actions/InfiniteFlavor'/>"/>
+	<entry name="InfiniteCountAffinityUpgrade2" value="Appétit infectieux"/>
 	<entry name="InfluenceUpgrade" value="Port fluvial"/>
 	<entry name="InterferenceProtocols" value="<string name='Actions/InterferenceProtocols'/>"/>
 	<entry name="InterferenceProtocolsFlavor" value="<string name='Actions/InterferenceProtocolsFlavor'/>"/>
 	<entry name="InternalRepairStation" value="<string name='Actions/InternalRepairStation'/>"/>
 	<entry name="InternalRepairStationFlavor" value="<string name='Actions/InternalRepairStationFlavor'/>"/>
+	<entry name="InvasiveAuditor" value="<string name='Items/InvasiveAuditor'/>"/>
+	<entry name="InvasiveAuditorFlavor" value="<string name='Items/InvasiveAuditorFlavor'/>"/>
+	<entry name="Invulnerable" value="Invulnérable"/>
+	<entry name="InvulnerableProperties" value="<icon texture='GUI/Bullet'/>Invulnérable à tous les dégâts."/>
 	<entry name="Iokla" value="<string name='Items/Iokla'/>"/>
 	<entry name="IoklaFlavor" value="<string name='Items/IoklaFlavor'/>"/>
 	<entry name="JudgementFromAbove" value="Jugement céleste"/>
+	<entry name="JustShipIt" value="On s'en fout on envoie"/>
+	<entry name="JustShipItProperties" value="<icon texture='GUI/Bullet'/> Malus aléatoire à la production"/>
+	<entry name="JustShipItDebuffAttacks" value="Attaques lentes"/>
+	<entry name="JustShipItDebuffAttacksFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
+	<entry name="JustShipItDebuffAttacksTaken" value="Cible facile"/>
+	<entry name="JustShipItDebuffAttacksTakenFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
+	<entry name="JustShipItDebuffMovement" value="Charge excessive"/>
+	<entry name="JustShipItDebuffMovementFlavor" value="<string name='Traits/JustShipItFlavor'/>"/>
 	<entry name="Kenaz" value="KENAZ"/>
 	<entry name="KenazFlavor" value="<string name='Quests/UnderObservation/AcquireShardsSuccess2'/>"/>
 	<entry name="Kind" value="Bonté"/>
@@ -358,6 +406,8 @@
 	<entry name="Leashed" value="En laisse"/>
 	<entry name="LeashedProperties" value="<icon texture='GUI/Bullet'/>Reste dans le périmètre<br/><icon texture='GUI/Bullet'/>Surveille mais n'attaque pas nécessairement à son tour<br/><icon texture='GUI/Bullet'/>En encaissant une attaque, rejoint le combat avec les alliés à proximité"/>
 	<entry name="LeaveNoManBehind" value="On n'abandonne personne"/>
+	<entry name="LeechingTouch" value="<string name='Weapons/LeechingTouch'/>"/>
+	<entry name="LeechingTouchFlavor" value="<string name='Weapons/LeechingTouchFlavor'/>"/>
 	<entry name="LifeSteal" value="Vol de vie"/>
 	<entry name="LifestyleImplants" value="Implants nutritifs"/>
 	<entry name="LiquidDeflectionAugment" value="<string name='Actions/LiquidDeflectionAugment'/>"/>
@@ -401,6 +451,8 @@
 	<entry name="MothersFavorFlavor" value="<string name='Actions/MothersFavorFlavor'/>"/>
 	<entry name="MothersVengeance" value="Vengeance maternelle"/>
 	<entry name="MothersVengeanceFlavor" value="<string name='Quests/ImpossibleConception/LetHimGoSuccess2'/>"/>
+	<entry name="MoveFunction" value="<string name='Actions/MoveFunction'/>"/>
+	<entry name="MoveFunctionFlavor" value="<string name='Actions/MoveFunctionFlavor'/>"/>
 	<entry name="Mysticism" value="Mysticisme"/>
 	<entry name="ICARFluidDeflector" value="<string name='Items/ICARFluidDeflector'/>"/>
 	<entry name="ICARFluidDeflectorFlavor" value="<string name='Items/ICARFluidDeflectorFlavor'/>"/>
@@ -434,6 +486,10 @@
 	<entry name="Penance" value="Pénitence"/>
 	<entry name="PerimeterRange" value="Portée du périmètre"/>
 	<entry name="PerimeterRangeProperties" value="<icon texture='GUI/Bullet'/>Peut cibler les unités sur les cases de la ville ou les cases voisines"/>
+	<entry name="PerfectForever" value="<string name='Actions/PerfectForever'/>"/>
+	<entry name="PerfectForeverFlavor" value="<string name='Actions/PerfectForeverFlavor'/>"/>
+	<entry name="PersonalVisit" value="<string name='Actions/PersonalVisit'/>"/>
+	<entry name="PersonalVisitFlavor" value="<string name='Actions/PersonalVisitFlavor'/>"/>
 	<entry name="Phantasm" value="Phantasme"/>
 	<entry name="PhaseFontead" value="<string name='Items/PhaseFontead'/>"/>
 	<entry name="PhaseFonteadFlavor" value="<string name='Items/PhaseFonteadFlavor'/>"/>
@@ -456,6 +512,9 @@
 	<entry name="PlagueOpenBusinessSuccessFlavor" value="<string name='Quests/ThePlague/OpenBusinessSuccess'/>"/>
 	<entry name="PlannedEconomy" value="Économie planifiée"/>
 	<entry name="PlannedEconomyFlavor" value="<string name='Quests/EconomicBubble/StateControlSuccess'/>"/>
+	<entry name="PlatinumScionAffinityUpgrade" value="On peut le reconstruire"/>
+	<entry name="PlatinumScionAffinityUpgrade2" value="<string name='Actions/PlatinumScionAffinityUpgrade2'/>"/>
+	<entry name="PlatinumScionAffinityUpgrade2Flavor" value="<string name='Actions/PlatinumScionAffinityUpgrade2Flavor'/>"/>
 	<entry name="Poisoned" value="Poison"/>
 	<entry name="PoisonedFlavor" value="<string name='Traits/ToxicSpearheadFlavor'/>"/>
 	<entry name="PopulationLimitUpgrade" value="Conduit collectif"/>
@@ -469,6 +528,8 @@
 	<entry name="Prey" value="Proie"/>
 	<entry name="PreyFlavor" value="<string name='Quests/TheGreatHunt/Ignore'/>"/>
 	<entry name="ProfusePropagation" value="Surfécondité"/>
+	<entry name="PsychicSpoor" value="<string name='Actions/PsychicSpoor'/>"/>
+	<entry name="PsychicSpoorFlavor" value="<string name='Actions/PsychicSpoorFlavor'/>"/>
 	<entry name="Pulling" value="Attraction"/>
 	<entry name="QuarryFeed" value="Dévoration de proie"/>
 	<entry name="QuidProQuo" value="Donnant-donnant"/>
@@ -480,14 +541,18 @@
 	<entry name="ReaverAdvancement" value="Avancée Reaver"/>
 	<entry name="RogueOperativeAffinityUpgrade" value="Camo camelote"/>
 	<entry name="RogueOperativeAffinityUpgrade2" value="Bataillon fantôme"/>
+	<entry name="Rustbinged" value="Fringale de rouille"/>
+	<entry name="RustbingedFlavor" value="<string name='Traits/RustbingingFlavor'/>"/>
+	<entry name="Rustbinging" value="Fringale de rouille"/>
 	<entry name="CloseQuartersFire" value="Feu à bout portant"/>
 	<entry name="CloseQuartersFireProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+100<nbsp/>%<style color='Default'/> <string name='Attributes/AttacksIcon'/> d'attaques à moyenne portée"/>
 	<entry name="Rare" value="Rare"/>
 	<entry name="RareProperties" value="<icon texture='GUI/Bullet'/>Classification"/>
 	<entry name="ReactiveTrigger" value="<string name='Items/ReactiveTrigger'/>"/>
 	<entry name="ReactiveTriggerFlavor" value="<string name='Items/ReactiveTriggerFlavor'/>"/>
+	<entry name="ReaverDepot" value="<string name='Features/ReaverDepot'/>"/>
+	<entry name="ReaverDepotFlavor" value="<string name='Features/ReaverDepotFlavor'/>"/>
 	<entry name="Recession" value="Récession"/>
-	<entry name="RecessionFlavor" value="Récession"/>
 	<entry name="RecyclingTanksUnit" value="<string name='Features/RecyclingTanks'/>"/>
 	<entry name="RecyclingTanksUnitFlavor" value="<string name='Features/RecyclingTanksFlavor'/>"/>
 	<entry name="Regeneration" value="Régénération"/>
@@ -504,6 +569,7 @@
 	<entry name="Roaming" value="Errance"/>
 	<entry name="Ruins" value="Ruines"/>
 	<entry name="RuinsFlavor" value="<string name='Features/RuinsFlavor'/>"/>
+	<entry name="Sapping" value="Sape"/>
 	<entry name="Scavenger" value="Récupérateur"/>
 	<entry name="SchismOfRegimina" value="<string name='Items/SchismOfRegimina'/>"/>
 	<entry name="SchismOfRegiminaFlavor" value="<string name='Items/SchismOfRegiminaFlavor'/>"/>
@@ -530,8 +596,12 @@
 	<entry name="SmokeScreen" value="<string name='Features/SmokeScreen'/>"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Features/SmokeScreenFlavor'/>"/>
 	<entry name="Sniper" value="Sniper"/>
+	<entry name="SolarVisage" value="Visage solaire"/>
+	<entry name="SolarVisageFlavor" value="<string name='Quests/TouchTheSky/CarveFaceSunCanon2'/>"/>
 	<entry name="SpiritOfMankind" value="Esprit de l'humanité"/>
 	<entry name="Splash" value="Attaque de zone"/>
+	<entry name="SpoiledFun" value="Plaisir gâché"/>
+	<entry name="SpoiledFunFlavor" value="<string name='Quests/TheMartialEthic/SpoilTheFun2'/>"/>
 	<entry name="SpotterDrone" value="<string name='Items/SpotterDrone'/>"/>
 	<entry name="SpotterDroneFlavor" value="<string name='Items/SpotterDroneFlavor'/>"/>
 	<entry name="StealingReavers" value="Pillards Reavers"/>
@@ -539,6 +609,8 @@
 	<entry name="Stealth" value="Furtivité"/>
 	<entry name="StolenFlesh" value="<string name='Items/StolenFlesh'/>"/>
 	<entry name="StolenFleshFlavor" value="<string name='Items/StolenFleshFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
 	<entry name="Stunned" value="Étourdissement"/>
 	<entry name="Summon" value="Invocation"/>
 	<entry name="SummonProperties" value="<icon texture='GUI/Bullet'/>Tue l'unité <string name='Modifiers/WhenDurationRunsOut'/>"/>
@@ -565,12 +637,16 @@
 	<entry name="TalesOfTheHunt" value="Récits de chasse"/>
 	<entry name="TargetingRelay" value="<string name='Actions/TargetingRelay'/>"/>
 	<entry name="TargetingRelayFlavor" value="<string name='Actions/TargetingRelayFlavor'/>"/>
+	<entry name="TimeOutOfJoint" value="<string name='Actions/TimeOutOfJoint'/>"/>
+	<entry name="TimeOutOfJointFlavor" value="<string name='Actions/TimeOutOfJointFlavor'/>"/>
 	<entry name="TempleOfCrla" value="<string name='Features/TempleOfCrla'/>"/>
 	<entry name="TempleOfCrlaFlavor" value="<string name='Features/TempleOfCrlaFlavor'/>"/>
 	<entry name="TemporalDistension" value="Distension temporelle"/>
 	<entry name="TenderMinistrations" value="Tendres soins"/>
 	<entry name="TerrorVanquished" value="Terreur vaincue"/>
 	<entry name="TerrorVanquishedFlavor" value="<string name='Quests/TheGreatHunt/PaySuccess'/>"/>
+	<entry name="TheArrival" value="L'arrivée"/>
+	<entry name="TheArrivalFlavor" value="<string name='Quests/BecomingUnbound/ConquerorsPresentSuccess2'/>"/>
 	<entry name="TheDeal" value="Le marché"/>
 	<entry name="TheDealFlavor" value="<string name='Quests/TheDeadHandOfCapitalism/TakeTheDeal2'/>"/>
 	<entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
@@ -583,6 +659,12 @@
 	<entry name="ThePastImprovedZephonFlavor" value="<string name='Quests/TheSpaceEngine/SellTechToZephonSuccess'/>"/>
 	<entry name="ThePastMitigated" value="Passé atténué"/>
 	<entry name="ThePastMitigatedFlavor" value="<string name='Quests/TheSpaceEngine/ChangeThePastSuccess'/>"/>
+	<entry name="TheSureThingLong" value="<string name='Actions/TheSureThingLong'/>"/>
+	<entry name="TheSureThingLongFlavor" value="<string name='Actions/TheSureThingLongFlavor'/>"/>
+	<entry name="TheSureThingMedium" value="<string name='Actions/TheSureThingMedium'/>"/>
+	<entry name="TheSureThingMediumFlavor" value="<string name='Actions/TheSureThingMediumFlavor'/>"/>
+	<entry name="TheSureThingShort" value="<string name='Actions/TheSureThingShort'/>"/>
+	<entry name="TheSureThingShortFlavor" value="<string name='Actions/TheSureThingShortFlavor'/>"/>
 	<entry name="ThereIsHopeUpgrade2" value="Rêveurs systématiques"/>
 	<entry name="ThrashEm" value="<string name='Actions/ThrashEm'/>"/>
 	<entry name="ThrashEmFlavor" value="<string name='Actions/ThrashEmFlavor'/>"/>
@@ -610,6 +692,7 @@
 	<entry name="Uncommon" value="Insolite"/>
 	<entry name="UncommonProperties" value="<icon texture='GUI/Bullet'/>Classification"/>
 	<entry name="Undersupplied" value="Sous-approvisionnement"/>
+	<entry name="UndersuppliedProperties" value="<icon texture='GUI/Bullet'/>La précision diminue de 10<nbsp/>% à chaque tour où les ressources d'entretien ne sont pas réunies (jusqu'à -50<nbsp/>%)"/>
 	<entry name="Undying" value="Immortel"/>
 	<entry name="UnholyHaste" value="<string name='Actions/UnholyHaste'/>"/>
 	<entry name="UnholyHasteFlavor" value="<string name='Actions/UnholyHasteFlavor'/>"/>
@@ -624,6 +707,7 @@
 	<entry name="Valhalla" value="<string name='Actions/Valhalla'/>"/>
 	<entry name="ValhallaFlavor" value="<string name='Actions/ValhallaFlavor'/>"/>
 	<entry name="ValhallaProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+10<style color='Default'/><nbsp/>% de <string name='Attributes/DamageIcon'/> dégâts chaque fois qu'une unité meurt dans la zone"/>
+	<entry name="VanguardShield" value="Bouclier d'avant-garde"/>
 	<entry name="VoiceAircraftUpgrade" value="Antienne de l'aube"/>
 	<entry name="VoiceAircraftUpgradeFlavor" value="<string name='Traits/AntiphonAtDaybreakFlavor'/>"/>
 	<entry name="VoiceInfantryUpgrade" value="Précurseur de Nihilus"/>
@@ -639,7 +723,7 @@
 	<entry name="Weakening" value="Affaiblissant"/>
 	<entry name="WeakeningFlavor" value="<string name='Traits/WeakenedFlavor'/>"/>
 	<entry name="WeWhoAreAboutToDie" value="Morituri te salutant"/>
-	<entry name="WeWhoAreAboutToDieProperties" value="<icon texture='GUI/Bullet'/>La loyauté augmente de 0.5 à chaque tour où vous tuez ou perdez une unité, et diminue de 0.5 sinon"/>
+	<entry name="WeWhoAreAboutToDieProperties" value="<icon texture='GUI/Bullet'/>La loyauté augmente de 0,5 à chaque tour après avoir tué ou perdu une unité, et diminue de 0,5 sinon"/>
 	<entry name="WhisperingWights" value="<string name='Features/WhisperingWights'/>"/>
 	<entry name="WhisperingWightsFlavor" value="<string name='Features/WhisperingWightsFlavor'/>"/>
 	<entry name="Wildlife" value="Confinement de spécimen"/>
@@ -656,14 +740,16 @@
 	<entry name="ZephonVirus" value="Virus ZEPHON"/>
 	<entry name="ZephonVirusFlavor" value="<string name='Quests/ImpossibleConception/MotherDefendSuccess'/>"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbhorrentFlavor" value="Ah, la Mère. Pas très douée en négociation. Peut-être que les autres auraient eu pitié d'elle, mais... soyons francs<nbsp/>: ce n'était pas facile d'éprouver de la pitié en voyant son corps. Peut-être qu'elle les laissait profiter d'elle<nbsp/>? Prendre plus qu'ils n'en donnaient<nbsp/>?"/>
 	<entry name="AbkhanHoardFlavor" value="Quelque part, enfoui au plus profond du cerveau d'un abkhan, devait se trouver un instinct de pure méchanceté. Les monstres accumulaient de la nourriture et des ravitaillements qu'ils ne savaient pas utiliser<nbsp/>: ils savaient simplement que nous en avions besoin. C'est plus qu'un simple piège. C'est se moquer de sa proie."/>
 	<entry name="AcrinAdvancementFlavor" value="Ne comptez jamais sur les Acrinns. Ils ont survécu à des milliers d'années dans l'espace. À l'explosion de Fulcrum. Aux horreurs d'une Terre dévastée. L'Anachorète a toujours un œil sur le long terme... et rêve d'un jour où son peuple ne se souviendra plus des traumatismes de la guerre."/>
 	<entry name="AegyllanSightFlavor" value="Les vers égylliens étaient tellement attachés à l'obscurité et à l'humidité que leur vue a commencé à s'affaiblir. Génération après génération, les autres sens –<nbsp/>l'odorat, l'ouïe, le toucher<nbsp/>– s'amélioraient, mais ils pensaient avoir perdu l'utilité de leurs yeux. C'était vrai pour les voyages souterrains, mais quand la guerre les a conduits à la surface, ils ont fait de piètres éclaireurs."/>
+	<entry name="AgelessHungerFlavor" value="C'était comme vivre à côté d'un réacteur nucléaire, sans les tumeurs. Seulement la sensation que le temps ne s'écoulait pas correctement. Les cheveux poussaient trop vite. Les dents se déchaussaient. Les pattes d'oie ressemblaient à de vraies oies. Ce temps, le Comte pouvait le rendre. Il fallait simplement qu'il l'extraie d'un pauvre diable sur le champ de bataille."/>
 	<entry name="AgileFlavor" value="Les plus agiles des survivants sont devenus les meilleurs pour chasser des proies sur un terrain accidenté."/>
 	<entry name="AirFreightnetFlavor" value="Comme il n'y avait plus vraiment «<nbsp/>d'aéroport<nbsp/>», nous utilisions des avions de fret qui entraient et sortaient des aérodromes militaires. Cela avait un effet secondaire intéressant<nbsp/>: si quelques vols réguliers avaient lieu entre les bases, tout le monde, des marchands aux familles bienveillantes, se précipitait pour entasser des cargaisons supplémentaires dans votre hangar. Cela donnait aux gens un sentiment de... normalité, je suppose."/>
 	<entry name="AlgaeUpgradeFlavor" value="Les eaux de ruissellement de nos fermes empoisonnaient parfois le sol même sur lequel nous essayions de faire pousser de la nourriture. Nos scientifiques y étaient préparés, mais pas à ce qui allait suivre<nbsp/>: les algues ont pris racine dans le sol malade. Nous nous sommes aperçus que nous avions une boucle de rétroaction infâme entre les mains<nbsp/>: plus nous produisions de nourriture, plus nous pouvions produire d'algues. Les humains et les cultistes de Vox mangeraient tous deux à leur faim."/>
+	<entry name="AmbushFlavor" value="J'étais juché au sommet d'un arbre, l'œil collé à la lunette d'un fusil que j'avais pris sur un cadavre de tireur d'élite. J'attendais ma cible, quand soudain, un mouvement en contrebas. Un chien sauvage. Peut-être un coyote. Ça traversait les broussailles sur la trace de quelque chose que je ne voyais pas. Il fallait nous y voir. Deux chasseurs, prêts à frapper depuis les ombres."/>
 	<entry name="AmoetiasCaressFlavor" value="Le Concordat a envoyé des enfants dans le Bleed. Salauds. Un travail dangereux pour tout le monde, mais les petites mains des enfants leur permettaient de déterrer les cristaux dont ils avaient besoin pour acheter les artefacts rares de Vox. Des achats réalisés les mains tachées du sang à la surface. Un sang dont nous connaissions tous l'origine..."/>
 	<entry name="AmoetiasEmbraceFlavor" value="L'agent du Concordat encapuchonné s'est rapproché de moi et m'a chuchoté à l'oreille, une fois l'échange conclu<nbsp/>: «<nbsp/>La puissance du Fulcrum dépassait tout ce que nous avions imaginé... Lorsqu'elle s'est étendue à la surface de la planète, elle a attiré des objets merveilleux à travers le voile d'un monde parallèle.<nbsp/>» J'ai essayé de me dégager, mais il a simplement saisi mon poignet. «<nbsp/>Tu as entendu leur mélodie. À présent, tu peux recevoir leur bénédiction.<nbsp/>»"/>
 	<entry name="AnnihilationProtocolsFlavor" value="Parfois, pour qu'une machine à tuer se mette en marche, il suffisait d'un peu d'élan."/>
@@ -691,6 +777,7 @@
 	<entry name="BunkerExtensionFlavor" value="L'agrandissement des bunkers sous notre contrôle comportait des risques. Augmenter la surface, c'était en faire une cible plus facile pour les armes lourdes. Mais on n'avait pas le choix, nos armées grandissaient et nous avions besoin de place pour chaque soldat que nous pouvions épargner. C'était notre meilleure chance de mettre en place une défense solide."/>
 	<entry name="BurningFlavor" value="Le feu persiste. C'est l'une des premières armes que l'humanité a développées, et toujours l'un des outils les plus importants pour notre survie. Celui qui ne respecte pas la flamme risque de finir consumé par la flamme."/>
 	<entry name="CannibalizeMachinesFlavor" value="J'étais parfois jaloux... Les machines pouvaient se battre et se reconstituer sans aucun repos. Imagine que les êtres organiques puissent se battre comme ça, que chacun de tes coups te rende plus fort... C'était humain de ma part de rêver. Ça au moins, ces machines n'en seraient jamais capables."/>
+	<entry name="CapturableFlavor" value="Certaines personnes n'ont aucune loyauté envers un camp ou un autre."/>
 	<entry name="CarrionGlutFlavor" value="«<nbsp/>FOUTEZ LE CAMP<nbsp/>!<nbsp/>» La nouvelle recrue hurlait sur une nuée de Ioks –<nbsp/>nos Ioks<nbsp/>– qui s'étaient jetés sur un cadavre pour se nourrir. Putain. C'était notre toubib. J'avais vu ces deux-là se faire une soupe de langue en croyant que j'avais le dos tourné. Les Ioks, eux, ils s'en cognaient. L'un d'eux fit mine d'attaquer la jeune recrue qui essayait de s'approcher. Je l'empoignai pour l'obliger à détourner le regard pendant qu'ils transformaient sa douce moitié en charpie."/>
 	<entry name="CausalWellFlavor" value="Un échange d'énergie en spirale tourbillonna autour du titan Acrinn. Les doigts sur sa chair étaient parcourus de pulsations, aspirant l'esprit de tout ce qui s'en approchait<nbsp/>– machines, humains ou cultistes de Vox. Sauf s'il t'aimait bien, évidemment. Alors, ces doigts glissaient sur ta peau, pour te donner un avant-goût de la vie qu'il avait volée."/>
 	<entry name="ChipsUpgradeFlavor" value="Si nous voulions améliorer notre production de puces, nous devions prendre une décision difficile. Nous avons passé la population au crible pour trouver les meilleurs esprits possibles, que nous pourrions intégrer de façon permanente dans le matériel de nos synthétiseurs. Je voulais leur mentir, les laisser vivre dans l'ignorance jusqu'au dernier moment. Mais on ne peut pas chercher les esprits les plus vifs de la société et s'attendre à ce qu'ils aient une sorte d'idiotie sélective."/>
@@ -709,8 +796,8 @@
 	<entry name="CostOfConvictionFlavor" value="Les escrocs et les chefs de secte partagent une technique commune<nbsp/>: si vous pouvez convaincre votre public qu'il a besoin de vous pour survivre, vous aurez du pouvoir sur lui. Mais le Prophète savait qu'il devait agir avec prudence<nbsp/>: un seul faux pas, une seule chance pour son peuple de revenir à la réalité et ils s'enfuiraient comme des rats fuyant un navire en train de couler."/>
 	<entry name="CrippledFlavor" value="Si tu ne peux pas courir, tu risques de devenir ton pire ennemi. Tous tes muscles te crient de fuir, mais tu dois résister à cette tentation. Alors tu te bats comme si c'était ton dernier jour sur la planète, parce que sinon ça risque fort de l'être."/>
 	<entry name="CripplingFlavor" value="Il était beaucoup plus facile d'assurer la mise à mort si ta cible ne pouvait pas s'enfuir."/>
-	<entry name="CultExpansionFlavor" value="Les cultistes du prophète en avaient fait une science. Lorsque leur chef revendiquait une ville, ils l'inondaient de zélotes et de prosélytes. Peu importe le nombre de convertis à la cause. De nombreux non-croyants gardaient la tête baissée, craignant que leur voisin ne les dénonce pour tout sacrilège à mots couverts."/>
 	<entry name="CullTheWeakFlavor" value="Les prédateurs ultimes chassent les plus vulnérables pour se nourrir et survivre. Les... serviteurs<nbsp/>? monstres<nbsp/>? créations<nbsp/>? de Throkos étaient au bas de la chaîne alimentaire. Ils ôtaient la lie de nos forces pour que les cauchemars dévoreurs de chair d'Uzhodai ou de Surthodai aient droit aux gros poissons. Comme les écosystèmes dont on te parlait à l'école. Mais en plus gore."/>
+	<entry name="CultExpansionFlavor" value="Les cultistes du prophète en avaient fait une science. Lorsque leur chef revendiquait une ville, ils l'inondaient de zélotes et de prosélytes. Peu importe le nombre de convertis à la cause. De nombreux non-croyants gardaient la tête baissée, craignant que leur voisin ne les dénonce pour tout sacrilège à mots couverts."/>
 	<entry name="CyberInfantryUpgradeFlavor" value="Chargés d'augmenter le rendement des troupes, les techniciens savaient que la seule solution était de se tourner vers un traitement de plus en plus automatisé. Ils ont donc relié les unités d'exploitation des imprimantes en un seul réseau. Plus il y en avait dans une ville, plus la production était optimisée... et plus le contrôle était confié à une nouvelle forme de vie artificielle."/>
 	<entry name="CyberVehiclesUpgradeFlavor" value="Les machines ont vu quelque chose dans nos projets que nous n'avons pas vu. Elles ont essayé de nous laisser des indices, mais comme nous ne les voyions pas, elles ont pris les choses en main. Un jour, nous avons découvert que nos installations avaient été modernisées et produisaient désormais de l'antimatière en même temps que nos blindés lourds. C'est à ce moment-là que nous avons commencé à perdre le contrôle."/>
 	<entry name="DamagedFlavor" value="J'ai logé par hasard un tir en plein dans l'œil d'un Traqueur qui m'avait fixé. Il a continué à canarder alors que je me déplaçais pour l'achever, mais tous ses coups étaient ratés. Est-ce qu'il... criait à mon approche<nbsp/>? Je lui avais ôté sa seule raison d'être<nbsp/>: tuer avec précision. Il est mort en projetant des tirs laser partout, sans rien toucher. Son pire cauchemar."/>
@@ -718,13 +805,18 @@
 	<entry name="DeathshriekFlavor" value="Les prêtres de Phenaris évoquaient avec recueillement l'édit le plus important de leur maître<nbsp/>: avant de mourir, ils devaient crier son vrai nom dans la langue en laquelle il était censé être prononcé. Cela m'a fait penser à une grand-mère que j'avais rencontrée dans les bidonvilles et qui m'avait mis en garde contre le fait de prononcer le vrai nom du dieu qu'elle vénérait. Un avertissement partagé par ses ancêtres depuis des milliers d'années."/>
 	<entry name="DecayingFlavor" value="Certaines créatures n'étaient pas censées s'attarder dans ce monde. Elles vivaient juste assez longtemps pour entraîner quelqu'un dans la tombe avec elles. La chair se détachait de leur corps et tombait goutte à goutte sur le sol à chacun de leur pas dans le No Man's Land. Comme du fromage qui fond."/>
 	<entry name="DefenseMatrixFlavor" value="Certaines machines pouvaient être programmées pour être toujours vigilantes et réagir en permanence aux mouvements de l'ennemi. L'exécution de ces calculs intenses s'accompagnait d'un compromis en termes de puissance, mais nous dormions un peu plus facilement grâce à cette ligne de défense supplémentaire."/>
+	<entry name="DefilingFlavor" value="Tout ce qui se faisait toucher par un Sauronaute subissait le même effet. Les êtres vivants guérissaient plus lentement. Les pièces de machines rouillaient plus vite et prenaient plus longtemps à remplacer. Ce n'était pas l'œuvre d'un agent chimique quelconque. À croire que les dragonniers demandaient au destin lui-même de fatiguer leur proie."/>
 	<entry name="DeflectorShieldFlavor" value="La surenchère était sans fin. À chaque nouvelle arme de nos techniciens correspondait quelque chose de tout aussi effroyablement puissant sur le champ de bataille. Nous avons compris que si nous voulions gagner, nous devions retourner les armes de nos ennemis contre eux."/>
 	<entry name="DeformingFlavor" value="Vox a le pouvoir d'animer la chair qui se décompose rapidement. Elle fait du cycle de la vie, de la mort et de la renaissance une abomination, un cycle qui n'aurait jamais dû se dérouler aussi rapidement et dans un tel chaos."/>
+	<entry name="DermalPatchingFlavor" value="Alors la peau avait bien un but. La chair devait recouvrir une sorte de nanotechnologie qui réparait les morceaux biologiques comme électriques dans leurs entrailles. J'aurais aimé savoir ça AVANT d'en découdre mano a mano avec un de ces fumiers..."/>
+	<entry name="DesiccatedFlavor" value="La peau de Caitiff était si sèche qu'on aurait dit du papier... Il fallait les garder à l'écart des volcans, ce qui avait tendance à ralentir notre avancée. Mais les commandants avisés chargeaient néanmoins, prêts à voir tomber les Caitiffs pour mieux se relever et dégager la voie dans le terrain en fusion."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="Un Élu d'Uzhodai a fait un sermon devant un Ermitage emmuré. À mesure que ses tentacules de Bleed remontaient le long du bâtiment, les cris des cultistes prisonniers à l'intérieur se muaient en gémissements d'extase. Le pouvoir du Bleed les liait à leur Dieu supposé, et de plus en plus d'échos s'échappaient des âmes hurlantes à l'intérieur."/>
 	<entry name="DimensionalReverberationsFlavor" value="Les Orolos Stentors étaient à ce point connectés à Vox qu'ils pouvaient extraire des échos dimensionnels de tout ce qu'ils tuaient. Pourquoi<nbsp/>? Comment<nbsp/>? Trop tard dans la guerre... trop de choses dans ma tête pour essayer de l'expliquer. J'ai juste prévenu nos troupes que si cette chose les tuait, elle risquait de leur arracher l'âme pour alimenter la machine de guerre."/>
 	<entry name="DisputationFlavor" value="Les troupes religieuses parlaient de chefs spirituels qui fouettaient les enfants à la moindre once d'insolence. Les Prévôts fonctionnent de la même façon<nbsp/>: frappez-les et ils le prendront PERSONNELLEMENT. Leurs membres cinglaient l'air comme un fouet pour blesser ce qui était le plus proche d'eux et reprendre le contrôle."/>
 	<entry name="DozerBladeFlavor" value="Nous avons récupéré les lames de vieux véhicules de chantier pour que nos blindés lourds puissent déblayer le terrain. Si nous ne les avions pas attachées, nous aurions perdu énormément de troupes dans les forêts épaisses et les ruines enchevêtrées. Je pense que certains opérateurs préféraient déblayer le terrain plutôt que de combattre ouvertement."/>
 	<entry name="DragoonArmorFlavor" value="Une chamane Acrinn m'a expliqué que forger une armure de dragon relevait d'une ancienne tradition, antérieure à l'arrivée de Vox dans leur monde. C'était l'un de leurs derniers liens avec une ère de paix. «<nbsp/>Les outils avec lesquels nous entrons dans le monde sont ceux dont nous aurons besoin lorsqu'il prendra fin<nbsp/>», a-t-elle précisé. Je n'ai pas pu m'empêcher de songer que, dès leurs premiers jours, les Acrinns avaient dû penser à l'apocalypse."/>
+	<entry name="EconomiesOfScaleFlavor" value="Le Dauphin avait payé rubis sur l'ongle pour qu'une experte en production de l'Aristocrate honorable fasse défection. Je l'aimais bien, elle n'hésitait pas à lui dire ses quatre vérités. Elle lui a dit que la phrase «<nbsp/>il faut dépenser de l'argent pour gagner de l'argent<nbsp/>» était d'autant plus vraie quand on construit une machine de guerre. Un léger surcoût au départ peut engendrer des économies à chaque unité supplémentaire."/>
+	<entry name="ElusiveFlavor" value="Il y avait toutes sortes de façons de se glisser en territoire ennemi. La vitesse. Les boucliers à dispersion. Être tellement mastoc qu'on pouvait foncer tête baissée. C'était toujours un cauchemar de se faire prendre à revers, pire encore quand vous teniez votre assaillant en ligne de mire la seconde d'avant..."/>
 	<entry name="EMPFlavor" value="L'armement à base d'impulsions électromagnétiques était un truc étrangement vieillot pour une nouvelle ère. Dans les guerres de l'ancien monde, les chefs militaires s'inquiétaient seulement des dommages causés aux infrastructures électroniques civiles. Mais qu'est-ce que cela pouvait bien nous faire<nbsp/>? Nous avions juste besoin de faire griller des machines aussi vite que possible."/>
 	<entry name="EmulatedMindAffinityUpgrade2Flavor" value="La base de données centrale de l'Âme émulée contenait des exaoctets de recherche sur la singularité provenant des universités de l'ancien monde. Lorsque ZEPHON l'a réveillée, il l'a littéralement fait naître avec des connaissances sur les trous noirs auxquelles personne d'autre n'avait accès... Peut-être la raison de sa folie était-elle justement ces calculs impossibles, susceptibles de créer un horizon des événements à eux seuls."/>
 	<entry name="EnergyUpgradeFlavor" value="Les climats les plus impitoyables de la planète Terre regorgent de formes de vie extrêmophiles qui survivent dans des conditions impossibles. Nos techniciens ont découvert que certaines formes de vie présentes dans les marais les plus toxiques, enfouies sous la glace de l'Arctique, pouvaient être utilisées pour alimenter une production d'énergie exponentielle. C'est comme si tu extrayais des combustibles fossiles de la terre, sauf que les créatures n'étaient pas encore fossilisées."/>
@@ -741,6 +833,7 @@
 	<entry name="FortressArmamentFlavor" value="L'Âme émulée était une dirigeante particulièrement paranoïaque. Elle voulait s'assurer que ZEPHON ou qui que ce soit d'autre ne puisse pas lui faire de mal. Elle a donc fabriqué un canon spécial, dont elle n'a jamais communiqué les caractéristiques à aucune autre faction. Ce canon était très puissant, mais elle ne s'est sans doute jamais aperçue qu'il faisait d'elle une cible de choix."/>
 	<entry name="FurtiveTribunalAffinityUpgrade2Flavor" value="Le Tribunal a renoué avec une tradition de l'ancien monde pour ceux qui entrent dans l'Ermitage emmuré. Une fois les cultistes à l'intérieur, les préposés pompaient une combinaison de gaz d'algues et de poussière toxique dans l'Ermitage, sous le regard éploré de leurs proches. Des rires maniaques et des cris à glacer le sang s'échappaient des murs. Consécration<nbsp/>? Enterrement<nbsp/>? J'ai cessé de me préoccuper du nom qu'ils donnaient à cette cérémonie et simplement essayé de bloquer leurs cris."/>
 	<entry name="FusionWarheadFlavor" value="«<nbsp/>Que je comprenne bien<nbsp/>», m'a dit notre ingénieure en chef en armement. «<nbsp/>Le missile nucléaire tactique doit faire *plus* de dégâts<nbsp/>? 50<nbsp/>kilotonnes, ça ne suffit pas<nbsp/>?<nbsp/>» Je n'avais vraiment pas envie d'argumenter. Je lui ai montré des photos de reconnaissance d'un prototype de Titan que nous allions combattre dans quelques semaines. Elle est restée bouche bée devant sa taille. «<nbsp/>Contre ça<nbsp/>?<nbsp/>» j'ai répondu. «<nbsp/>Non, 50<nbsp/>kilotonnes, ça ne suffit pas. Mais alors pas du tout.<nbsp/>»"/>
+	<entry name="GalgalimPlatingFlavor" value="«<nbsp/>Il lui faut PLUS de blindage<nbsp/>?<nbsp/>» Je me disputais avec l'ingénieure en chef. Encore. Le boss aimait nous voir nous disputer. «<nbsp/>Si on ne veut pas qu'ils se fassent crucifier une fois en territoire ennemi, alors oui, crétin, il leur faut un meilleur blindage.<nbsp/>» Ce coup-là, elle avait gagné. Je lui ai revalu ça par la suite."/>
 	<entry name="GluttonyFlavor" value="À une époque, j'appréciais les goûts raffinés de l'Aristocrate honorable et des siens. Avec le temps, toutefois, j'ai commencé à être furieux contre son gaspillage. Il n'a jamais changé sa façon de répartir la nourriture, ses distributions générales de mets raffinés. Le rationnement n'était qu'un pis-aller. Il y avait peut-être là un traumatisme passé, une époque dans l'ancien monde où tout ce qu'il pouvait manger était du gruau. Peut-être... ai-je été trop dur la dernière fois que je lui ai parlé."/>
 	<entry name="GravitationalCompressionFlavor" value="Plus un objet est gros, plus la Terre l'attire. Or, grâce aux nouvelles technologies dont nous disposons, nous pouvions faire nôtre sa puissance. Plus nos ennemis étaient gros, plus ils faisaient de bruit en s'écrasant au sol."/>
 	<entry name="HammerheadProtocolsFlavor" value="Pourquoi ZEPHON a-t-il créé une arme qui ne tire jamais en premier<nbsp/>? Était-ce pour nous donner une leçon<nbsp/>? Étions-nous une expérience<nbsp/>? Pour ce que nous en savions, cela aurait pu être un heureux accident, quelque chose qu'il s'était contenté de laisser à nos meilleurs esprits."/>
@@ -756,8 +849,9 @@
 	<entry name="HeavyFlavor" value="Les armes lourdes avaient besoin de temps pour mettre en place et calibrer une solution de ciblage. Faire feu en se déplaçant était un sacré pari. Certaines troupes malchanceuses pouvaient se retrouver dépendantes de ces coups de poker. Les plus intelligents préféraient jouer la carte de la sécurité et assurer leurs tirs."/>
 	<entry name="HeroFlavor" value="Les bons généraux savaient qu'il était dangereux de laisser quelqu'un sortir du lot. Nos soldats devaient être anonymes pour pouvoir mourir sans trop nous attrister. Or, certains soldats défiaient cette logique et sortaient du rang pour devenir des pièces maîtresses sur le champ de bataille. Leur perte flanquait toujours un coup au moral."/>
 	<entry name="HitAndRunFlavor" value="Soldats et criminels ont plus en commun qu'on ne le croit. Les escrocs savent que si tu restes longtemps au même endroit, les autorités vont venir te coffrer. Les soldats savent que si tu te figes en entendant des coups de feu, tu vas finir avec une balle dans la tête. Ne jamais prendre ses aises. Ne jamais sympathiser avec quelqu'un. Toujours être en mouvement, c'est tout ce qui compte."/>
-	<entry name="HollowWarlordAffinityUpgradeFlavor" value="L'Agoniste avait-il été mécanicien dans l'ancien monde<nbsp/>? Peut-être gratte-papier chez un constructeur de bolides<nbsp/>? Il connaissait la mécanique des Scramblers comme pas deux dans le No Man's Land. Dans son temps libre, il les tunait, ou il apprenait aux autres à le faire. Il ne s'est jamais expliqué à ce sujet. Il avait l'air content de mettre d'autres motos en circulation, point barre."/>
+	<entry name="HobblingFlavor" value="Je croyais l'avoir semé. J'étais passé par le marais après m'être pris un coup du Caitiff. Mais je n'avais pas pansé ma blessure et j'avais laissé une traînée de sang sur des kilomètres qui le guiderait à moi. Il m'avait coincé et il savait pile où j'étais..."/>
 	<entry name="HollowWarlordAffinityUpgrade2Flavor" value="Trop de jeunes gens hyperactifs avec la gâchette qui les titillait... J'en faisais partie, il y a longtemps. Seul, en colère, apeuré sans vouloir l'admettre. Beaucoup d'entre nous ne cherchions pas l'argent ni la nourriture<nbsp/>; rien qu'un chef pour nous diriger vers quelqu'un sur qui nous défouler."/>
+	<entry name="HollowWarlordAffinityUpgradeFlavor" value="L'Agoniste avait-il été mécanicien dans l'ancien monde<nbsp/>? Peut-être gratte-papier chez un constructeur de bolides<nbsp/>? Il connaissait la mécanique des Scramblers comme pas deux dans le No Man's Land. Dans son temps libre, il les tunait, ou il apprenait aux autres à le faire. Il ne s'est jamais expliqué à ce sujet. Il avait l'air content de mettre d'autres motos en circulation, point barre."/>
 	<entry name="HolopatterFlavor" value="L'astuce la plus ancienne en temps de guerre consiste à se couvrir de branches pour qu'il soit plus difficile d'être vu dans la forêt. Les techniciens ont mis au point des capes holographiques qui fonctionnent également dans les ruines denses. Tu ne peux pas rester caché éternellement, mais tu gagnes quelques secondes supplémentaires pour préparer le tir parfait. Après tout, pas besoin de se cacher face à un mort."/>
 	<entry name="HonorableAristocratAffinityUpgradeFlavor" value="«<nbsp/>Responsable... nutrition<nbsp/>?<nbsp/>» J'étais abasourdi. L'Aristocrate m'a lancé que je pouvais l'accepter ou trouver un nouveau boss. Sa théorie était qu'avoir un diététicien dédié à notre logistique garantirait à chaque soldat un repas qui lui permettrait d'opérer au mieux. Et le pire, c'est que ça a marché. Une chose est sûre, je mangeais mieux en me battant pour lui."/>
 	<entry name="HonorboundFlavor" value="L'Aristocrate pouvait être un emmerdeur, mais c'était l'un des rares escrocs de la région qui veillait sur vous. Si vous signiez un accord commercial avec lui –<nbsp/>même mauvais<nbsp/>–, il chantait vos louanges sur les marchés et vous faisait passer pour un partenaire respectable. Passez des accords de ce genre et vous vous rapprocherez de nombreux amis. Et vos ennemis ne sauront pas qu'ils sont dans vos filets avant qu'il ne soit trop tard."/>
@@ -771,9 +865,12 @@
 	<entry name="ImmoralFlavor" value="L'Artificière savait que ses actes répugneraient les gens. Elle ne s'intéressait pas à ce que les autres pensaient d'elle. Peut-être en était-elle littéralement incapable. Pourtant, ils la suivaient quand même, ils suivaient sa vision brûlante-aveuglante de l'avenir."/>
 	<entry name="IndependentFlavor" value="La Renégate aimait s'entourer de libres penseurs et de grandes gueules qui n'hésitaient pas à parler sans détour. Une telle équipe n'était pas aussi loyale que de vrais soldats, mais cela ne lui posait pas de problème<nbsp/>: elle avait besoin non pas de flagorneurs, mais de l'élite du No Man's Land. C'était son chemin vers la victoire."/>
 	<entry name="IndirectFireFlavor" value="Tirer sans ligne de mire signifiait faire confiance à une puissance supérieure. C'était peut-être un ordinateur. Peut-être Vox. Tu étais en duel avec quelque chose que tu ne pouvais pas voir, et tu avais besoin de toute l'aide possible."/>
+	<entry name="InfiniteCountAffinityUpgrade2Flavor" value="Le Comte était à ma connaissance le seul être lié à Vox qui lui renvoyait sa propre essence. Je ne sais pas qui il était auparavant, mais il avait soif de quelque chose. Quand sa soif atteignait un certain seuil, elle s'insinuait dans les cultistes de Vox autour de lui. Eux n'avaient pas besoin de voler du temps. Un festin de sang à l'ancienne leur suffisait à être rassasiés."/>
 	<entry name="InfluenceUpgradeFlavor" value="Les rivières impétueuses restent le meilleur moyen d'échanger des marchandises et de partager des informations. Les équipes de marchands et les transporteurs se déplacent beaucoup plus rapidement lorsqu'ils glissent à la surface de l'eau. Nous voulions que la nouvelle de notre force se répande à travers le pays, or c'est sur les lèvres des marins qui se rendent à la taverne la plus proche que les nouvelles voyagent le plus vite."/>
+	<entry name="InvulnerableFlavor" value="Quand les balles, les lames, les bombes et la bile de monstre n'ont aucun effet, c'est le signe que vous avez intérêt à dégager de là."/>
 	<entry name="InterminableFlavor" value="Les villes de ZEPHON s'étendaient sur de grandes distances. Vues d'en haut, depuis le cockpit d'un Corsair, ton esprit te faisait croire à des motifs dans la mer de circuits... mais il n'y avait pas de signification. Aucune intention que nous pourrions déduire. ZEPHON se répandait, point."/>
 	<entry name="JudgementFromAboveFlavor" value="«<nbsp/>Jugement d'en haut<nbsp/>». Les seuls à avoir besoin de jugement étaient tous les imbéciles de commandants qui plaçaient leurs armées à une altitude inférieure à celle d'une unité d'artillerie. Les techniciens se lançaient dans de grandes explications hypermécaniques en voyant à quel point notre unité avait été touchée, mais il n'y avait rien de plus que de la simple physique. Enfin bon, personne ne m'écoute de toute façon..."/>
+	<entry name="JustShipItFlavor" value="Toute la merde que produisaient les usines du Dauphin ne méritait même pas d'être refilée au marché noire. Si vous achetiez un fusil à plasma de son stock, il avait une chance non négligeable de vous exploser à la gueule. Ça avait coûté la vie à pas mal de troupes, mais le Dauphin était content que personne ne veuille lui voler ses affaires."/>
 	<entry name="LargeFlavor" value="Les créatures et les machines de grande taille peuvent encaisser, mais ça ne les empêche pas de s'affaiblir au fur et à mesure qu'on leur enlève des parties."/>
 	<entry name="LargeSplashFlavor" value="Certains de nos ennemis pensaient pouvoir nous submerger par leur nombre. Comme des fourmis, ils envahissaient notre territoire pour tenter de nous faire tomber. Imaginez notre joie quand nous avons compris que nous pouvions éliminer tant de créatures irritantes d'un seul coup en les écrasant sous nos bottes."/>
 	<entry name="LaserFlavor" value="Il n'y a rien de poétique à utiliser la lumière comme une arme. Toute lumière est une arme. Le soleil brûle le corps, le projecteur brise le camouflage et la faible ampoule d'une chambre d'interrogatoire peut briser ton esprit. La technologie laser était honnête, au moins<nbsp/>: elle annonçait ce qu'elle allait toucher... et, plus important encore, d'où elle venait."/>
@@ -783,7 +880,7 @@
 	<entry name="LifestyleImplantsFlavor" value="Je pensais que ce qui donnait un sens à cette guerre, c'était de pouvoir se réunir entre amis autour d'une table. Mais quand les implants nutritifs sont arrivés, les gens se sont empressés d'abandonner les réfectoires, préférant grignoter entre deux gardes des cailloux, du métal... de la terre. Je mangeais seul. Les rations avaient un goût de merde, mais je ne voulais pas y renoncer."/>
 	<entry name="LowPowerFlavor" value="Il fallait s'habituer au rythme d'utilisation d'une arme laser. Tirer. Recharger. Recommencer. Un, deux, trois, comme si on apprenait à danser. Tirer, recharger, recommencer. Tirer, recharger, recommencer. Tirer... recharger... recommencer..."/>
 	<entry name="LoyaltyUpgradeFlavor" value="Notre holothèque ne contenait que quelques dizaines de films. L'état-major craignait que les troupes ne s'ennuient ou ne soient poussées à la mutinerie si nous les passions en boucle. Or en ces temps difficiles, tout le monde voulait une bonne histoire. Quelque chose qui donne un sens au monde."/>
-	<entry name="MarketDefluctuationFlavor" value="You want me to explain money shit? If I could do that I wouldn't be here, I'd still be in the best bunker you could buy before the war. Terminals that predicted markets to score the best price, “supply and demand…” I thought we left all that behind. But war has a way of making capitalism come crawling back."/> 
+	<entry name="MarketDefluctuationFlavor" value="Je dois expliquer les conneries monétaires<nbsp/>? Si je savais faire ça, je serais pas là<nbsp/>: je serais dans le meilleur bunker qu'on pouvait acheter avant la guerre. Les terminaux qui prédisaient le marché pour toper les meilleurs prix, «<nbsp/>l'offre et la demande<nbsp/>»... Je croyais qu'on avait laissé tout ça derrière nous. Mais la guerre a le chic pour réhabiliter le capitalisme."/>
 	<entry name="MassiveSplashFlavor" value="Le temps s'est ralenti quand une énorme explosion a déferlé sur nous comme un raz-de-marée. Une vague de la taille d'un bâtiment qui s'abat sur ton navire et s'apprête à le plonger dans les profondeurs. Au moins, ceux qui ont été pris dans l'explosion sont morts plus rapidement que le lent supplice de la noyade."/>
 	<entry name="MechanicalFlavor" value="C'est quand même marrant<nbsp/>: on fabrique des machines pour résoudre des problèmes compliqués. Mais sur le champ de bataille, une machine devient un problème à résoudre. Parfois, il faut des compétences particulières pour les abattre. Parfois, tu as simplement besoin d'une plus grosse machine."/>
 	<entry name="MeleeFlavor" value="Je sais que dans l'ancien monde, les humains créaient des arts et autres disciplines pour les combats de ce genre. Mais tout se résumait à la même chose<nbsp/>: pour survivre, seules comptaient l'adrénaline et l'attaque, pas le respect des règles, l'ancienneté ou les grades imaginaires. Chaque être vivant sait comment blesser l'autre, il suffit de s'approcher suffisamment."/>
@@ -806,6 +903,7 @@
 	<entry name="PerimeterRangeFlavor" value="À force de tâtonnements incessants et d'innombrables morts parmi les éclaireurs, pulvérisés en s'approchant trop de la ville, nous avons pu déterminer la portée des défenses énergétiques de ZEPHON. Si le commandement nous avait donné de l'artillerie dès le départ, nous aurions pu sauver tant de vies..."/>
 	<entry name="PhantasmFlavor" value="Les Onirophages appartenaient à un autre monde dont ils avaient été arrachés pour massacrer des gens dans le nôtre. Parfois, tu lui logeais trois balles dans le buffet... et tu voyais la dernière balle lui passer à travers comme s'il ne s'agissait que d'air."/>
 	<entry name="PilgrimOfTheVoiceFlavor" value="La dernière étape pour devenir un vrai disciple de Cr'la était un voyage de plusieurs jours à travers le No Man's Land. Pas de nourriture. Pas d'eau. Pas de protection contre le soleil, le Bleed ou quoi que ce soit d'autre. Lorsqu'ils revenaient parés au combat, leurs six pieds dégorgeaient cette immonde bouillasse jaunâtre, déchiquetés par des débris qui entaillaient profondément leur chair blanchie."/>
+	<entry name="PlatinumScionAffinityUpgradeFlavor" value="Le Dauphin a convoité les technologies cybernétiques à la seconde où il a posé les yeux sur le premier Exécuteur Ishim. Je le voyais à son regard<nbsp/>: ce type pourri gâté avait reçu pour éducation que les gens étaient des machines à contrôler. C'était l'avenir qu'il voulait."/>
 	<entry name="PopulationLimitUpgrade2Flavor" value="Infâme. Inhumain. Traiter les gens comme de la viande juste pour gagner de la place. Mettre les gens côte à côte sur des lits de camp, ça d'accord, à la guerre comme à la guerre<nbsp/>; mais de là à les assommer et à les pendre, comme des bœufs à l'abattoir... Ceux qui utilisent cette technologie sont condamnés à l'enfer."/>
 	<entry name="PopulationLimitUpgradeFlavor" value="L'un de ces maudits Horlogers a surgi de nulle part pendant une panne d'électricité pour nous donner les plans de ce... jouet. C'était une sorte de boîte à énigme avec des lumières brillantes, en quelque sorte sensible à l'humeur de l'utilisateur. Si tu étais détendu –<nbsp/>non, *heureux*<nbsp/>– et que tu jouais avec... ce fichu objet produisait de l'énergie. La première fois que j'en ai rapporté un, je jure que j'ai aperçu quelqu'un –<nbsp/>ou quelque chose<nbsp/>– qui m'observait du coin de l'œil."/>
 	<entry name="PracticalRomanticAffinityUpgrade2Flavor" value="La technologie n'était pas la spécialité du Romantique, mais je l'ai surpris un jour en train de griffonner des formules de boucliers améliorés pour nos champions. «<nbsp/>Elle m'a chuchoté en rêve<nbsp/>», a-t-il marmonné. «<nbsp/>Une reine de l'ancien monde, de l'ancien continent. Elle...<nbsp/>» Il s'est interrompu et a continué à écrire. Je doute que ce soient des rois morts depuis longtemps qui partagent des technologies avancées par le biais du pouvoir des rêves."/>
@@ -816,6 +914,7 @@
 	<entry name="RaidersFlavor" value="J'ai eu la malchance un jour d'être retenu prisonnier dans un camp de Reavers. Je les ai vus se rassembler comme des mouches autour d'un cadavre, se battre pour des miettes et même s'entretuer lorsque le camp devenait trop peuplé. Lorsque tout le monde semblait prêt à commettre un massacre, la Cheftaine les envoyait à la chasse."/>
 	<entry name="RailgunRoadsFlavor" value="À la guerre, chaque seconde compte. Surtout quand les géants arpentent la Terre. Dans les derniers instants, nos ingénieurs avaient aménagé des voies pour railgun sur lesquelles ont pouvait fixer n'importe quoi<nbsp/>: machine, monstre, supersoldat, tout ce qu'on voulait. Tu verrouillais ta cible, tu t'accrochais et t'essayais de pas comater en encaissant 5 à 7<nbsp/>G."/>
 	<entry name="ReaverAdvancementFlavor" value="La Cheftaine était maniaque, mais avisée. Elle nous tournait autour, volait notre matériel, nous distrayait de ses manigances. Elle montait toujours d'un cran dans son jeu. On les croyait dépassés, elle et ses Reavers... et puis l'un d'eux s'approchait furtivement, t'arrachait ton casque avancé et te tranchait la gorge."/>
+	<entry name="RecessionFlavor" value="Un mot chic utilisé par ceux qui ne veulent pas admettre que nous autres faisons les frais de leur cupidité."/>
 	<entry name="RegenerationFlavor" value="Parfois, j'entendais des scientifiques débattre de la façon dont les créatures du monde Acrinn pouvaient guérir si efficacement. Ils se demandaient si nous pouvions nous en servir pour sauver des vies humaines, ou les prolonger. J'ai précisé que si jamais ils apprenaient à recréer ce facteur de guérison, nous l'utiliserions d'abord pour nos troupes avant la population. Je craignais que nous ayons trop de bouches à nourrir."/>
 	<entry name="ResearchUpgradeFlavor" value="Cela a pris du temps, mais nos chercheurs ont mis au point des méthodes et des procédés permettant d'étudier en toute sécurité les créatures et les plantes provenant d'un autre monde. Ils ont demandé la construction de stations dédiées à ces recherches. L'investissement était un passage obligé, car amener de telles créatures dans nos installations habituelles avait souvent des conséquences fatales."/>
 	<entry name="ResourceNetworkFlavor" value="L'Âme émulée a dû se connecter à une base de données de ZEPHON lors de son exposition au réseau. Elle disposait d'inventaires détaillés de tous les avant-postes que nous avions rencontrés. Ses éclaireurs ne négligeaient rien et rapportaient toutes les ressources cachées aux regards indiscrets. C'était l'un des rares avantages de sa genèse douloureuse."/>
@@ -823,6 +922,8 @@
 	<entry name="RevealingFlavor" value="Il y avait tant de choses à apprendre en sondant l'obscurité. Vox avait sa façon de trouver les secrets et l'IA avait la sienne. Mais nous sommes tous partis à la recherche du monde pour la même raison<nbsp/>: survivre, grandir et voir nos ennemis avant qu'ils ne nous voient."/>
 	<entry name="RogueOperativeAffinityUpgrade2Flavor" value="Les corpos de l'ancien monde ont fait miroiter aux gouvernements des promesses d'IA qui allaient «<nbsp/>synergiser<nbsp/>» les unités d'infanterie. Comme toutes les autres conneries d'IA, c'était de la foutaise. La Renégate a réussi, on ne sait trop comment, à concrétiser ça pour les troupes terrestres cybernétiques. Il fallait juste réduire un peu leur libre arbitre..."/>
 	<entry name="RogueOperativeAffinityUpgradeFlavor" value="Un soldat avec qui j'ai travaillé –<nbsp/>un homme aux cheveux grisonnants qui lisait trop de livres<nbsp/>– a appelé cette nouvelle tenue de camouflage «<nbsp/>la ghillie suit de l'apocalypse<nbsp/>». Chargée de ce qui ressemblait à de la camelote, mais était en fait un camouflage adaptatif high-tech. Nous l'avons utilisée pour nous nicher dans les anfractuosités des machines abattues et ne plus ressembler qu'à des morceaux rouillés de notre civilisation mourante."/>
+	<entry name="RustbingingFlavor" value="Les grands vers de Throkos digéraient vite le métal. J'aurais aimé avoir un métabolisme pareil. Par contre, bonjour les effets secondaires. Les bouts de chair supplémentaire qui les rendent plus durs à abattre finissent par desquamer, ce qui les rend vulnérables si vous les interceptez avant qu'ils puissent se nourrir à nouveau."/>
+	<entry name="SappingFlavor" value="Avant-postes, forteresses, tombes de chair, boucliers... Tout ça, c'était très bien pour intercepter les attaques puissantes ou ralentir les armées. Mais tout ce qui les renforce a un prix. Il y a toujours un défaut dans la cuirasse. Il suffit que quelqu'un... ou quelque chose sache comment s'y prendre."/>
 	<entry name="ScavengerFlavor" value="Pour le Romantique, il n'y avait pas de petites économies. Je pense qu'il était encore hanté par ces longues nuits dans le bunker, aspirant désespérément à la moindre parcelle de nourriture ou de matériel qui pourrait sauver son peuple. Il le laissait rarement paraître, mais parfois, en le voyant examiner les rapports sur les ressources récupérées, je discernais cette expression de deuil sur son visage."/>
 	<entry name="SelfDestructFlavor" value="Pas moyen d'y échapper<nbsp/>: certaines armes que nous avions forgées devaient tuer leur porteur pour être efficaces. Les troupes chargées de transporter de tels armements étaient soumises à des contrôles psychologiques stricts entre les missions, et les drones n'étaient envoyés en mission suicide que lorsque nous avions les ressources nécessaires. Ce type de guerre a toujours un prix élevé à payer. Il fallait s'assurer que le jeu en valait la chandelle."/>
 	<entry name="SentryProtocolsFlavor" value="Les machines qui errent dans le No Man's Land ne se soucient pas de savoir sous quelle bannière tu marches. Elles se soucient en revanche de savoir si tu entres dans leur champ de vision et, si elles sont programmées pour le faire, elles ouvrent le feu sans hésiter. Même pas moyen de leur glisser un «<nbsp/>bonjour<nbsp/>» amical."/>
@@ -858,12 +959,13 @@
 	<entry name="UntoldProphetAffinityUpgrade2Flavor" value="Les patrouilles me conduisaient parfois autour de l'Ermitage emmuré. Le Prophète avait besoin de leur foi pour faire jouer son pouvoir sur le champ de bataille. Putain de glauque. Les premières années, ils encensaient les dieux de Vox sur tous les tons. Jamais le Grand Orateur. À la fin, c'était le seul nom qu'ils criaient. Et ils avaient l'air heureux en le faisant."/>
 	<entry name="UntoldProphetAffinityUpgradeFlavor" value="Le Prophète anonyme a toujours dit qu'il avait l'oreille de «<nbsp/>l'Orateur<nbsp/>». Peut-être était-ce ce démon Cr'la dont parlaient les disciples<nbsp/>? Il nous a ordonné d'ériger des sanctuaires avec des marques à leur intention. Vraiment le sale plan. Ils s'approchaient et pliaient parfaitement leur corps dans la pierre, produisant un grondement sourd qui me marquait jusqu'à ce que je ferme les yeux le soir. Si j'arrivais à fermer les yeux..."/>
 	<entry name="UntrustworthyFlavor" value="Tous les grands leaders s'attendaient à être poignardés dans le dos. Même l'Aristo prétendument «<nbsp/>honorable<nbsp/>» haussait les épaules<nbsp/>: «<nbsp/>À la guerre comme à la guerre.<nbsp/>» Pourtant, ils prenaient tous la trahison très personnellement. Je suppose que si tu as un ego assez grand pour te croire capable de diriger l'humanité, tu te sens un peu en droit d'humilier quiconque te fait passer pour un benêt."/>
+	<entry name="VanguardShieldFlavor" value="Tactique standard des Jaeger pour un assaut frontal<nbsp/>: charger l'ennemi tête baissée, puis se déporter à droite et refoncer dessus par la gauche. Comme ça, on arrivait toujours avec ce foutu bouclier en premier, ce qui en faisait autre chose qu'une relique imaginée par des scientifiques fous férus de chevaliers et de légionnaires."/>
 	<entry name="VoiceInfantryUpgradeFlavor" value="Vox avait besoin d'adeptes fidèles et savait que la foi vacillait lorsque l'ennemi s'approchait des portes. Elle se trouva de nouveaux acolytes, des prédicateurs qui parlaient d'un disciple nommé Nihilus. Unis dans le Chœur de Minuit, leurs chants sonores parvinrent aux oreilles de tous les soldats qui encerclaient la ville, pour leur rappeler que Vox et ses bénédictions seraient là en cas de besoin."/>
 	<entry name="VoiceVehiclesUpgradeFlavor" value="La mort ne semblait pas suffire à Vox. Quand quelque chose mourait, les humains en gestation dans l'isolement de Vox... s'accéléraient. D'une manière ou d'une autre, ils tiraient leur subsistance de la mort et sortaient plus tôt de leur confinement, qu'ils aient échoué dans leur ascension ou non."/>
 	<entry name="VoidDrifterFlavor" value="Nos armes les plus puissantes auraient dû réduire en miettes ces monstres adorateurs de Phenaris. Mais ils se sont contentés de... s'écarter. Sur le côté, hors de l'existence elle-même<nbsp/>? Puis ils... grrr. Ils rematérialisaient peu à peu avec le bruit d'un amant satisfait et continuaient à te traquer pendant la nuit. Même les Chasseurs, ces sales serpents osseux, faisaient ce putain de bruit."/>
 	<entry name="WeakenedFlavor" value="À court de munitions. Vidé. En infériorité numérique. Pour autant, mes troupes ne rentreraient pas au bercail si je ne prenais pas une lame pour nous ouvrir une échappatoire. J'avais échoué. J'étais épuisé, ma lame rebondissait à chaque coup sur la chair et le métal. Je ne pouvais en blesser aucun. Je n'étais qu'un vieil homme qu'on aurait dû laisser se recroqueviller avec les civils..."/>
 	<entry name="WeWhoAreAboutToDieFlavor" value="Les hommes de l'Agoniste le suivaient non pas pour qu'il les protège, mais pour qu'il leur offre de l'action. Victoire ou défaite, ils voulaient voir des morts. Sinon, les guerriers avaient la bougeotte<nbsp/>: ils s'insultaient mutuellement et des combats éclataient à travers tout le camp. On les faisait rentrer dans le rang, mais si vous vous promeniez dans le camp la nuit, vous voyiez des yeux qui vous fixaient sous les tentes... des hommes et des femmes dérangés qui se demandaient s'ils avaient moyen de vous buter vite fait."/>
-	<entry name="WildlifeFlavor" value="Au détour d'un avant-poste, nous avons croisé un abkluth dans un conteneur de spécimen prototypal. Il arpentait l'espace confiné, se cognait contre les murs à intervalles aléatoires. Je pensais qu'il essayait de s'échapper, jusqu'à ce qu'une meute d'abkluths envahisse notre camp et dévore un groupe de techniciens sans défense. Il avait <i>envoyé un signal</i> à sa meute. À partir de là, nous avons insonorisé les conteneurs."/>
+	<entry name="WildlifeFlavor" value="Au détour d'un avant-poste, nous avons croisé un abkluth dans un conteneur de spécimen prototypal. Il arpentait l'espace confiné, se cognait contre les murs à intervalles aléatoires. Je pensais qu'il essayait de s'échapper, jusqu'à ce qu'une meute d'abkluths envahisse notre camp et dévore un groupe de techniciens sans défense. Il avait *envoyé un signal* à sa meute. À partir de là, nous avons insonorisé les conteneurs."/>
 	<entry name="XenogenesisFlavor" value="Les cultistes qui se sont transformés en Ioks ont passé quelques jours de plus dans l'Oraison de l'aube<nbsp/>? La conversion finie, leur tâche n'était pas terminée. Ils avaient le pouvoir de faire naître d'autres Ioks simplement en s'asseyant et en se nourrissant de corps. Les nouveaux Ioks grandissaient dans les furoncles de leur dos, explosant pour vivre dans une gerbe de pus et de sang. Puis un Iok donnait naissance à un autre. Et un autre. Et un autre..."/>
 	<entry name="ZephonAdvancementFlavor" value="Tout n'était qu'une équation pour ZEPHON. Les Reavers et les Acrinns devaient se débrouiller, voler et se battre comme des diables pour conserver leur avantage, mais lui traçait toujours son chemin vers la fin. La puissance de ses machines ne faisait que s'accroître, à un rythme soigneusement calé sur le nôtre. Il ne prenait jamais trop d'avance. Il se contentait de regarder. Suivait. Et observait."/>
 	<entry name="ZephonStandingFlavor" value="Il s'agissait presque d'une réflexion après coup. Lors d'une communication avec ZEPHON, un général a proposé en plaisantant d'échanger les droits des IA contre une petite armée de puces. «<nbsp/>Ce serait acceptable<nbsp/>», a répondu ZEPHON. Personne n'a su quoi faire de cette réponse. ZEPHON pensait-il à l'avenir, à l'après-guerre<nbsp/>? Ou... non. Certainement pas. Il ne pouvait pas y avoir d'autres IA parmi nous... n'est-ce pas<nbsp/>?"/>

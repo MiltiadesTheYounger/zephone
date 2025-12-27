@@ -31,7 +31,7 @@
 	<entry name="ArcticRegionDensity2" value="낮음"/>
 	<entry name="ArcticRegionDensity3" value="보통"/>
 	<entry name="ArcticRegionDensity4" value="높음"/>
-	<entry name="ArcticRegionDensity5" value="Very High"/>	
+	<entry name="ArcticRegionDensity5" value="매우 높음"/>	
 	<entry name="AutoDisableSimultaneousTurns" value="동시 턴 자동 비활성화"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="AI 소유가 아닌 적 유닛이 서로 5칸 안에 들어서면 자동으로 동시 턴을 비활성화합니다."/>
 	<entry name="AvoidDuplicateRandomFactions" value="무작위 세력 중복 방지"/>
@@ -49,7 +49,7 @@
 	<entry name="BrushDensity2" value="낮음"/>
 	<entry name="BrushDensity3" value="보통"/>
 	<entry name="BrushDensity4" value="높음"/>
-	<entry name="BrushDensity5" value="Very High"/>	
+	<entry name="BrushDensity5" value="매우 높음"/>	
 	<entry name="CacheDensity" value="은닉품 밀도"/>
 	<entry name="CacheDensity0" value="없음"/>
 	<entry name="CacheDensity1" value="매우 낮음"/>
@@ -78,7 +78,8 @@
 	<entry name="ConstructRegionDensity3" value="보통"/>
 	<entry name="ConstructRegionDensity4" value="높음"/>
 	<entry name="ConstructRegionDensity5" value="매우 높음"/>
-	<entry name="DLC1" value="The Twisted & The Hollow DLC"/>
+	<entry name="DLC1" value="The Twisted & The Hollow DLC"/> <!-- DLC name. Do not translate. -->
+	<entry name="DLC2" value="The Platinum & The Infinite DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="사막 지역 밀도"/>
 	<entry name="DesertRegionDensity0" value="없음"/>
 	<entry name="DesertRegionDensity1" value="매우 낮음"/>
@@ -87,7 +88,7 @@
 	<entry name="DesertRegionDensity4" value="높음"/>
 	<entry name="DesertRegionDensity5" value="매우 높음"/>
 	<entry name="Difficulty" value="난이도"/>
-	<entry name="DifficultyHint" value="AI와 원주민이 받는 이익을 수정합니다."/>
+	<entry name="DifficultyHint" value="AI가 받는 이익을 조정합니다."/>
 	<entry name="Difficulty0" value="매우 쉬움"/>
 	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 보통의 도시 충성도 불이익을 받습니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도"/>
 	<entry name="Difficulty0RecommendationHint" value="<style name='Italic'/>스토리를 즐기는 플레이어에게 적합합니다."/>
@@ -98,16 +99,16 @@
 	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 이익도 불이익도 없습니다."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>턴제 전략 게임 팬에게 적합합니다."/>
 	<entry name="Difficulty3" value="어려움"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 적은 도시 충성도 및 유닛 레벨 이익을 받습니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 적은 도시 충성도 및 유닛 레벨 이익을 받으며, AI 외교적 공격성이 소폭 증가합니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Proxy Studios 게임에 익숙한 플레이어에게 적합합니다."/>
 	<entry name="Difficulty4" value="매우 어려움"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 보통의 도시 충성도 및 유닛 레벨 이익을 받습니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 보통의 도시 충성도 및 유닛 레벨 이익을 받으며, AI 외교적 공격성이 보통으로 증가합니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>어려움 난이도를 클리어한 플레이어에게 적합합니다."/>
 	<entry name="Difficulty5" value="최고로 어려움"/>
-	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 큰 도시 충성도 및 유닛 레벨 이익을 받습니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 큰 도시 충성도 및 유닛 레벨 이익을 받으며, AI 외교적 공격성이 크게 증가합니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
 	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>매우 어려움 난이도를 클리어한 플레이어에게 적합합니다."/>
 	<entry name="Difficulty6" value="악몽"/>
-	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 매우 큰 도시 충성도 및 유닛 레벨 이익을 받습니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> 매우 큰 도시 충성도 및 유닛 레벨 이익을 받으며, AI 외교적 공격성이 극도로 증가합니다.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> 충성도<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> 레벨<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> 공격성"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>권장하지 않습니다."/>
 	<entry name="DustStormDensity" value="모래폭풍 밀도"/>
 	<entry name="DustStormDensity0" value="없음"/>
@@ -135,7 +136,7 @@
 	<entry name="ForestDensity5" value="매우 높음"/>
 	<entry name="GameName" value="게임 이름"/>
 	<entry name="GameNameHint" value="멀티플레이어 게임 목록에 표시되는 이름입니다."/>
-	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility" value="게임 가시성"/> 
 	<entry name="GameVisibility0" value="친구 전용"/>
 	<entry name="GameVisibility0Hint" value="게임이 공개되지 않으며 친구 목록, 초대 또는 직접 연결을 통해서만 참여할 수 있습니다."/>
 	<entry name="GameVisibility1" value="비공개"/>
@@ -184,20 +185,28 @@
 	<entry name="Mutators/CanFreeWillExistHint" value="무기 피해가 무작위로 ±20% 증가하거나 감소합니다."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
 	<entry name="Mutators/DidHonorBalanceGreedHint" value="어떤 협정이든 취소하면 영원히 신뢰할 수 없는 세력이 됩니다."/>
+	<entry name="Mutators/DidIDoomMyFriends" value="<string name='Settings/Achievements/DidIDoomMyFriends'/>"/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="보이지 않는 타일이 턴마다 미탐사 타일이 됩니다."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
 	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="유닛 사망 시 사기가 두 배로 변동됩니다."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
-	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="중립이 아닌 유닛은 아군 도시나 전초기지 밖에 있을 때 턴마다 5%%의 체력을 잃습니다."/>
+	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="중립이 아닌 유닛은 아군 도시나 전초기지 밖에 있을 때 턴마다 5%의 체력을 잃습니다."/>
 	<entry name="Mutators/DidOurUnificationMatter" value="<string name='Settings/Achievements/DidOurUnificationMatter'/>"/>
 	<entry name="Mutators/DidOurUnificationMatterHint" value="기형체가 아닌 생체 유닛이 죽으면 중립 기형체 유닛이 됩니다. 이 효과는 다른 사망 효과 후에 발동합니다."/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="<string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/>"/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="획득하는 경험치가 두 배로 증가합니다."/>
 	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="연구소, 홀로그램 극장, 거주 지구, 건설장, 기술자를 연구한 상태로 게임을 시작합니다."/>
+	<entry name="Mutators/MustWeSufferSoHint" value="연구소, 행정 시설, 홀로그램 극장, 거주 지구, 건설장, 기술자를 연구한 상태로 게임을 시작합니다."/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="<string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/>"/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="누적된 자원이 턴마다 10%씩 복리로 증가합니다."/>
 	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
 	<entry name="Mutators/WasITrulyHumanHint" value="피해가 대상 유닛에 인접한 모든 아군 유닛 간에 분산됩니다."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
-	<entry name="Mutators/WasPerfectionWorthItHint" value="중복 유닛의 자원 비용이 20%% 증가합니다."/>
+	<entry name="Mutators/WasPerfectionWorthItHint" value="중복 유닛의 자원 비용이 20% 증가합니다."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
 	<entry name="Mutators/WasZephonTrulyAliveHint" value="타일 획득 범위가 무제한입니다."/>
+	<entry name="Mutators/WhatAmITruly" value="<string name='Settings/Achievements/WhatAmITruly'/>"/>
+	<entry name="Mutators/WhatAmITrulyHint" value="유닛 생산 속도가 두 배로 증가합니다."/>
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
 	<entry name="Mutators/WhatAreYouHint" value="친화성 있는 기술과 공용 기술만 연구할 수 있습니다."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
@@ -227,7 +236,7 @@
 	<entry name="RegionDensity2" value="낮음"/>
 	<entry name="RegionDensity3" value="보통"/>
 	<entry name="RegionDensity4" value="높음"/>
-	<entry name="RegionDensity5" value="Very High"/>	
+	<entry name="RegionDensity5" value="매우 높음"/>	
 	<entry name="RequiredTechnologiesPerTier" value="등급별 필수 기술"/>
 	<entry name="RequiredTechnologiesPerTier0" value="0"/>
 	<entry name="RequiredTechnologiesPerTier1" value="1"/>
@@ -268,26 +277,26 @@
 	<entry name="ResourceUpkeep3" value="높음"/>
 	<entry name="ResourceUpkeep4" value="매우 높음"/>
 	<entry name="RiverDensity" value="강 밀도"/>
-	<entry name="RiverDensity0" value="None"/>	
+	<entry name="RiverDensity0" value="없음"/>	
 	<entry name="RiverDensity1" value="매우 낮음"/>
 	<entry name="RiverDensity2" value="낮음"/>
 	<entry name="RiverDensity3" value="보통"/>
 	<entry name="RiverDensity4" value="높음"/>
-	<entry name="RiverDensity5" value="Very High"/>	
+	<entry name="RiverDensity5" value="매우 높음"/>	
 	<entry name="RocksDensity" value="암석 밀도"/>
 	<entry name="RocksDensity0" value="없음"/>
 	<entry name="RocksDensity1" value="매우 낮음"/>
 	<entry name="RocksDensity2" value="낮음"/>
 	<entry name="RocksDensity3" value="보통"/>
 	<entry name="RocksDensity4" value="높음"/>
-	<entry name="RocksDensity5" value="Very High"/>	
+	<entry name="RocksDensity5" value="매우 높음"/>	
 	<entry name="RuinsDensity" value="폐허 밀도"/>
 	<entry name="RuinsDensity0" value="없음"/>
 	<entry name="RuinsDensity1" value="매우 낮음"/>
 	<entry name="RuinsDensity2" value="낮음"/>
 	<entry name="RuinsDensity3" value="보통"/>
 	<entry name="RuinsDensity4" value="높음"/>
-	<entry name="RuinsDensity5" value="Very High"/>	
+	<entry name="RuinsDensity5" value="매우 높음"/>	
 	<entry name="Seed" value="월드 시드"/>
 	<entry name="SimultaneousTurns" value="동시 턴"/>
 	<entry name="SimultaneousTurnsHint" value="활성화하면 모든 플레이어가 함께 행동합니다.<br/><br/>비활성화하면 같은 팀에 속한 플레이어만 동시에 행동합니다.<br/><br/>비활성화하면 AI의 턴이 더 오래 걸리지만, 다른 AI와 전쟁할 때 유리하게 진행할 수 있습니다."/>
@@ -321,7 +330,7 @@
 	<entry name="SwampRegionDensity2" value="낮음"/>
 	<entry name="SwampRegionDensity3" value="보통"/>
 	<entry name="SwampRegionDensity4" value="높음"/>
-	<entry name="SwampRegionDensity5" value="Very High"/>	
+	<entry name="SwampRegionDensity5" value="매우 높음"/>	
 	<entry name="TurnTimer" value="턴 타이머"/>
 	<entry name="TurnTimer0" value="없음"/>
 	<entry name="TurnTimer1" value="매우 짧음(1분)"/>
@@ -344,7 +353,7 @@
 	<entry name="VolcanoDensity2" value="낮음"/>
 	<entry name="VolcanoDensity3" value="보통"/>
 	<entry name="VolcanoDensity4" value="높음"/>
-	<entry name="VolcanoDensity5" value="Very High"/>	
+	<entry name="VolcanoDensity5" value="매우 높음"/>	
 	<entry name="WildlifeDensity" value="중립 유닛 밀도"/>
 	<entry name="WildlifeDensity0" value="없음"/>
 	<entry name="WildlifeDensity1" value="매우 낮음"/>
@@ -352,7 +361,9 @@
 	<entry name="WildlifeDensity3" value="보통"/>
 	<entry name="WildlifeDensity4" value="높음"/>
 	<entry name="WildlifeDensity5" value="매우 높음"/>
-	<entry name="WorldSeed" value="월드 시드"/>
+	<entry name="WorldParameters" value="세계 매개변수"/>
+	<entry name="WorldParametersHint" value="변이체를 포함하지만 플레이어는 제외한 모든 세계 매개변수의 인코딩된 문자열입니다.<br/><br/>이를 사용하여 세계 설정을 다른 사람과 공유하거나 나중을 위해 저장하십시오."/>
+<entry name="WorldSeed" value="월드 시드"/>
 	<entry name="WastelandRegionDensity" value="황무지 지역 밀도"/>
 	<entry name="WastelandRegionDensity0" value="없음"/>
 	<entry name="WastelandRegionDensity1" value="매우 낮음"/>

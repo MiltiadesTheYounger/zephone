@@ -13,6 +13,8 @@
 	<entry name="AcceptAllianceWithThirdParty/AskParty" value="<style name='Bold'/>타 세력에 동맹 제안 고려:<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="<style name='Bold'/>타 세력에 동맹 제안 수락:<style name='Paragraph'/> "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptPartyResult" value="%2%이(가) %3%에게 동맹을 제안했습니다."/>
+	<entry name="AcceptCondemn" value="<style name='Bold'/>규탄 수락:<style name='Paragraph'/> "/>
+	<entry name="AcceptCondemnResult" value="당신 및 당신 친구와 %2%의 관계가 악화되었습니다."/>
 	<entry name="AcceptGift/AskAmount" value="<style name='Bold'/>선물 수락 고려:<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmount" value="<style name='Bold'/>선물 수락:<style name='Paragraph'/> "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="자원을 선물하여 %2%와(과)의 관계가 향상되었습니다."/>
@@ -26,6 +28,8 @@
 	<entry name="AcceptPeaceWithThirdParty/AskParty" value="<style name='Bold'/>타 세력과 평화 조약 고려:<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="<style name='Bold'/>타 세력과 평화 조약 수락:<style name='Paragraph'/> "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2%이(가) %3%에게 평화 제안을 보냈습니다."/>
+	<entry name="AcceptPraise" value="<style name='Bold'/>칭찬 수락:<style name='Paragraph'/> "/>
+	<entry name="AcceptPraiseResult" value="당신 및 당신 친구와 %2%의 관계가 향상되었습니다."/>
 	<entry name="AcceptTradeAgreement" value="<style name='Bold'/>무역 협정 수락:<style name='Paragraph'/> "/>
 	<entry name="AcceptTradeAgreementResult" value="무역 협정을 체결하여 %2%와(과)의 관계가 향상되었습니다."/>
 	<entry name="AcceptTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
@@ -55,6 +59,9 @@
 	<entry name="AskForSupport" value="<style name='Bold'/>지원 요청:<style name='Paragraph'/> "/>
 	<entry name="AskForSupportHint" value="영향력을 사용해 타 세력에게 유닛을 구매합니다."/>
 	<entry name="CancelAction" value="<style name='Bold'/>행동 취소:<style name='Paragraph'/> "/>
+	<entry name="Condemn" value="<style name='Bold'/>규탄:<style name='Paragraph'/> "/>
+	<entry name="CondemnHint" value="공개적인 자리에서 상대방을 규탄합니다.<br/><br/>당신 및 당신 친구와 %2%의 관계가 악화됩니다."/>
+	<entry name="CondemnResult" value="%2% 및 그 친구와의 관계가 악화되었습니다."/>
 	<entry name="CondemnAllianceResult" value="%3%와(과)의 동맹으로 인해 %2%와(과)의 관계가 악화되었습니다."/>
 	<entry name="CondemnCityDestructionResult" value="%3%을(를) 파괴하는 데 참여하여 %2%와(과)의 관계가 악화되었습니다."/>
 	<entry name="CondemnInterferenceAttemptResult" value="%3%에 대한 간섭 시도가 발각되어 %2%와(과)의 관계가 악화되었습니다."/>
@@ -139,6 +146,9 @@
 	<entry name="OfferTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
 	<entry name="PeaceHint" value="평화 조약에 서명하면 양측은 서로 공격할 수 없습니다."/>
 	<entry name="PeaceWith" value="<style name='Bold'/>평화 조약 상대:<style name='Default'/>"/>
+	<entry name="Praise" value="<style name='Bold'/>칭찬:<style name='Paragraph'/> "/>
+	<entry name="PraiseHint" value="공개적인 자리에서 상대방을 칭찬합니다.<br/><br/>당신 및 당신 친구와 %2%의 관계가 향상됩니다."/>
+	<entry name="PraiseResult" value="%2% 및 그 친구와의 관계가 향상되었습니다."/>
 	<entry name="PraiseLabelResult" value="%3% 때문에 %2%와(과)의 관계가 향상되었습니다."/>
 	<entry name="PraiseWarResult" value="%3%와(과)의 전쟁 때문에 %2%와(과)의 관계가 향상되었습니다."/>
 	<entry name="RejectAlliance" value="<style name='Bold'/>동맹 거부:<style name='Paragraph'/> "/>
@@ -169,6 +179,8 @@
 	<entry name="RejectTribute/RejectAmountHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
 	<entry name="RejectTribute/RejectAmountResult" value="<string name='Diplomacy/RejectTribute/RejectOutrightResult'/>"/>
 	<entry name="RejectTroopWithdrawal" value="<style name='Bold'/>병력 철수 거부:<style name='Paragraph'/> "/>
+	<entry name="RejectTroopWithdrawalHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="RejectTroopWithdrawalResult" value="%2%와(과)의 관계가 악화되었습니다."/>
 	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="<style name='Bold'/>타 세력에 선전포고 거부:<style name='Paragraph'/> "/>
 	<entry name="RejectWarAgainstThirdParty/RejectParty" value="<style name='Bold'/>타 세력에 선전포고 거부:<style name='Paragraph'/> "/>
 	<entry name="Relationships" value="<style name='Bold'/>관계:<style name='Default'/>"/>
@@ -198,7 +210,8 @@
 	<entry name="Standing5" value="친절함"/>
 	<entry name="Standing6" value="관대함"/>
 	<entry name="StandingWithYou" value="<style name='Bold'/>당신과의 관계:<style name='Default'/>"/>
-	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>다음 %1%턴 안에 실행하면 <icon texture='Icons/Traits/Untrustworthy' height='20'/> <string name='Traits/Untrustworthy'/>를 얻습니다.<style color='Default'/>"/>
+	<entry name="Untrustworthy" value="<style color='GUI/Red'/>이제 %1%턴 동안 <string name='Traits/Untrustworthy'/>(으)로 간주됩니다.<style color='Default'/>"/>
+	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>다음 %1%턴 안에 실행하면 <string name='Traits/Untrustworthy'/>을(를) 얻습니다.<style color='Default'/>"/>
 	<entry name="WaitForResponse" value="(%1% 측이 조건을 고려하는 동안 기다려 주세요...)"/>
 	<entry name="WarHint" value="전쟁 중인 두 세력은 서로를 공격할 수 있습니다."/>
 	<entry name="WarWith" value="<style name='Bold'/>전쟁 상대:<style name='Default'/>"/>
@@ -213,6 +226,7 @@
 	<entry name="Anchorite/AcceptCall/Friendly" value="친절한 영혼을 기꺼이 맞이하오."/>
 	<entry name="Anchorite/AcceptCall/Hostile" value="끝이 다가오나, 시간은 촉박하니, 낭비하지 않는 게 좋겠소."/>
 	<entry name="Anchorite/AcceptCall/Neutral" value="환영하오."/>
+	<entry name="Anchorite/AcceptCondemn" value="내가 달리 행동할 수도 있다고 생각하는구려. 감사를 전하오."/>
 	<entry name="Anchorite/AcceptGift/AcceptAmount" value="그대를 없애려던 성전의 잔당에게도 기꺼이 손을 내밀다니, 목소리는 어째서 인류를 악이라 여겼던 것인가?"/>
 	<entry name="Anchorite/AcceptGift/AskAmount" value="티끌이라도 달갑게 받겠소."/>
 	<entry name="Anchorite/AcceptMapSharing" value="쉽게 알 기회는 환영이오. 지식이 모자라면... 몰락할 수 있으니."/>
@@ -221,6 +235,7 @@
 	<entry name="Anchorite/AcceptPeace" value="우리 모두 평화를 열망하니, 받아들이겠소."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AcceptParty" value="좋소. 그대와 같은 중재자가 되고 싶구려..."/>
 	<entry name="Anchorite/AcceptPeaceWithThirdParty/AskParty" value="우리는 명상하나, 그대는 조화를 이루려는구려. 누가 우리를 가엾게 여기오?"/>
+	<entry name="Anchorite/AcceptPraise" value="타인의 인정으로 정당성을 확인하는구려."/>
 	<entry name="Anchorite/AcceptSupport/AcceptType" value="수긍할 만 하구려. 축복이 있기를."/>
 	<entry name="Anchorite/AcceptSupport/AskType" value="누구를, 왜, 어떻게 도왔으면 하오?"/>
 	<entry name="Anchorite/AcceptTradeAgreement" value="감사를 전하오. 아크린은 가진 게 별로 없소. 그러니 수천 년의 세월을 얹어 감사하오."/>
@@ -238,9 +253,11 @@
 	<entry name="Anchorite/AdmitDefeat" value="난 사막의 신비를 탐구하며 평생을 보냈소. 영원한 삶과 힘을 이해하려 함이었지. 목소리를 따라 별들 사이를 건넜고, 우리 삶과 문명은 전부 무너져 내렸소. 영겁에 걸친 여정이 이런... 보잘것없는 최후로 끝나다니. 허나 이런 결말 또한 은혜와 행복으로 받아들일 것인즉, 내 그대에게 감사하오."/>
 	<entry name="Anchorite/AskForProposals" value="평생을 기다림으로 살아왔으니, 이제는 답을 원하오."/>
 	<entry name="Anchorite/CancelAction" value="잠시... 마음을 가라앉혀 보시오..."/>
-	<entry name="Anchorite/Condemn/InhumanKindness" value="유혹을 안다는 것은, 손바닥 위의 꿀을 핥는 것이오. 뒤틀고, 변화하고, 변모하는 것이오. 죽지 않고, 존재를 해체하는 것이오. 다시는 그 길을 가지 않는 것이오."/>
+	<entry name="Anchorite/Condemn" value="당신이 가야만 하는 길이 걱정되오. 칠흑의 땅으로 가야 할 테니."/>
+	<entry name="Anchorite/Condemn/AgelessHunger" value="죽음이 당신을 쫓고 있소. 당신 스스로 그것을 끝낼 수도 있겠지."/>
 	<entry name="Anchorite/Condemn/Gluttony" value="그대의 동기는 이해하오. 비참함을 줄이기보다는 기쁨에 집중하려 함이겠지. 그러나 도덕적인 측면과 결과에 있어서는 동의할 수 없겠구려."/>
 	<entry name="Anchorite/Condemn/Immoral" value="도덕과 고통을 앎에도 멈추지 않다니... 진정한 정의가 사라진 이런 세상에서도, 그대 안에 자리잡은 악함은 뚜렷이 보이는구려."/>
+	<entry name="Anchorite/Condemn/InhumanKindness" value="유혹을 안다는 것은, 그 손바닥 위의 꿀을 핥는 것이오. 뒤틀고, 변화하고, 변모하는 것. 죽지 않고, 존재를 해체하는 것. 다시는 그 길을 가지 않는 것."/>
 	<entry name="Anchorite/Condemn/Untrustworthy" value="역사의 순환 속에서 거짓과 진실은 태어나고 지며 끝없이 반복되었소. 나는 다만 기만의 죄악이 살갗 아래 영혼에 미치는 해악을 볼 수 있을 뿐이오."/>
 	<entry name="Anchorite/CondemnAlliance" value="평화를 찬양하며... %3%을(를) 규탄하오. 업보의 굴레가 다시 돌아갈 것을 알기에."/>
 	<entry name="Anchorite/CondemnCityDestruction" value="우리 민족은 몰락했고, 소수만이 살아남았소. %3%은(는) 우리 중 많은 이들에게 마지막 피난처였다오. 가엾은 영혼들이 겪은 고통을 똑똑히 새기시오. 우리에게 있어 괴물 같은 외계의 적수인, 그대를 향한 증오를 넘어 번영하고자 했던 그들의 고통을."/>
@@ -253,6 +270,8 @@
 	<entry name="Anchorite/DeclareWar/HeartlessArtificer" value="위안을 모르는 공허한 마음을 가졌으나, 다가올 날에 필수적인 존재. 그것이 바로 그대이기에, 난 그대를 혐오하오. 그대가 성취를 이루지 못할 날이 두렵기에, 그대는 제거되어야만 하오."/>
 	<entry name="Anchorite/DeclareWar/HollowWarlord" value="현재에 대한 그대의 헌신에 감탄하오. 하지만, 그대가 창조하고 있는 현재를 혐오하오. 이 공간에 사는 모든 사람을 위해, 그대는 제거되어야 하오."/>
 	<entry name="Anchorite/DeclareWar/HonorableAristocrat" value="그대가 인맥을 넓히고 관계를 맺는 것을 보았소. 부유함과 과도한 미각적 추구가 아닌, 풍요에 가치를 두는 것을 알았소. 그러나 우리는 그대가 만족을 모르고 위협이 될 것이 두려워, 행동에 나서야만 하겠소."/>
+	<entry name="Anchorite/DeclareWar/InfiniteCount" value="당신의 얽힘을 후회하오. 나 같은 존재에게 풀어냄은 허용되지 않소. 알렉산더식 방법에 의존하겠소. 잘라내겠소."/>
+	<entry name="Anchorite/DeclareWar/PlatinumScion" value="안타깝구려. 그럼에도 정수의 가치를 알고 있소. 성장을 거부하고, 그 때문에 그것이 당신을 사랑하는군. 질투가 내 행동을 부추기는 것은 아닐지."/>
 	<entry name="Anchorite/DeclareWar/PracticalRomantic" value="진심으로 호소하건대, 나는 그대가 결국 회복하지 못하고 무너질 것이 두렵소. 모든 것이 그렇듯 이 또한 필연이나, 진정한 화합을 위해 그날이 오지 않도록 그대와 맞서야만 하겠소."/>
 	<entry name="Anchorite/DeclareWar/RogueOperative" value="그 유머를 받아들이겠소. 스스로 진보한 기술을 가졌다고 생각할지 모르나, 난 점잖은 웃음으로 조롱하겠소. 숨어서 오직 자신만을 가치 있게 여기는 자여. 실패할 가능성을 없애기 위해, 나는 이제 행동에 나서겠소."/>
 	<entry name="Anchorite/DeclareWar/TwistedMother" value="우리 민족의 실패를 보시오. 우리 종교의 죽음을 보시오. 낭비되는 생명의 울부짖음을 들으시오. 이 모든 게 그대 책임임을 아시오!"/>
@@ -293,11 +312,14 @@
 	<entry name="Anchorite/OfferPeace/HeartlessArtificer" value="나도 한때 지혜에 휘둘렸었소. 부드러웠던 내 젊은 초상을 사막의 바람이 날카로운 모래로 조각했지. 허나 그대는 형태와 질감을 더 높이 사는 듯하구려."/>
 	<entry name="Anchorite/OfferPeace/HollowWarlord" value="헛된 요청이었는지 확인하고 싶소. 어떻게든 성공해야 하오."/>
 	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="굶주림에 죽어가는 바깥 세상에 속할 바에, 우리 아크린도 그대의 인맥이 되고 싶소. 평화를 고려해 주시겠소?"/>
+	<entry name="Anchorite/OfferPeace/InfiniteCount" value="같은 시선을 통해 세상을 보시오. 최선을 소망하시오. 그것을 위해 노력하시오."/>
+	<entry name="Anchorite/OfferPeace/PlatinumScion" value="탐욕은 경멸스러운 행위요. 그러나 용서하오. 탐욕은 재산권을 욕망하며 평화는 거기서 단 한 걸음 떨어져 있을 뿐임을 알기 때문이오."/>
 	<entry name="Anchorite/OfferPeace/PracticalRomantic" value="꿈꾸는 것은 좋으나, 세상은 본디 필연에 따라 흘러가는 법. 평화 또한 그 필연의 일부라오."/>
 	<entry name="Anchorite/OfferPeace/RogueOperative" value="우리는 그대의 것을 원하지 않고, 가진 것도 별로 없소. 그대의 전쟁은 부유하고 강대한 자를 향하니, 우리를 눈감아 주겠소?"/>
 	<entry name="Anchorite/OfferPeace/TwistedMother" value="그대를 동정하오. 반성할 시간을 주고 싶소."/>
 	<entry name="Anchorite/OfferPeace/UntoldProphet" value="마침내 어떤 식으로든 안식을 찾을 수 있겠구려."/>
 	<entry name="Anchorite/OfferTradeAgreement" value="우리의 재건을 도우면 반드시 가치를 증명하겠소."/>
+	<entry name="Anchorite/Praise" value="선행의 가치를 알고 있소. 언제 칭찬해야 하는지도."/>
 	<entry name="Anchorite/Praise/AnchoriteStanding" value="오가는 전령과 선물을 보며 시련이 마침내 끝났음을 기쁘게 여기오. 시공을 넘어선 사랑을 찬미하오."/>
 	<entry name="Anchorite/Praise/Mysticism" value="믿음을 가지는 건 현명하오. 믿음에 너무 깊이 빠지지 않는 것은 더욱 현명하오."/>
 	<entry name="Anchorite/Praise/Undying" value="그대는 축복의 선택을 받았구려. 수십억 년을 살았으나 이토록 완전한 재탄생은 본 적이 없소. 경이로울 뿐이오."/>
@@ -339,6 +361,7 @@
 	<entry name="Chieftess/AcceptCall/Friendly" value="어이, %2%! 여기로 올래? 지금 막 호송대 하나 털려던 참인데!"/>
 	<entry name="Chieftess/AcceptCall/Hostile" value="꺼져, 병신아! 아니면 어디 처박혔는지 불던가."/>
 	<entry name="Chieftess/AcceptCall/Neutral" value="오! %2%! 잠깐만, 애들 좀 불러올게... 싸우러 온 거 맞지?"/>
+	<entry name="Chieftess/AcceptCondemn" value="하하하하. 어, 잠깐만. 진심으로 하는 소리냐? 아하하하!"/>
 	<entry name="Chieftess/AcceptGift/AcceptAmount" value="알다시피... 나한테 뭘 그냥 주는 놈은 드물어. 꼭 옆구리를 찔러 줘야 말을 듣던데. 이런 것도... 제법 괜찮네."/>
 	<entry name="Chieftess/AcceptGift/AskAmount" value="선물이라고? 오늘 크리스마스인가? 보답할 거라는 기대는 마셔. 나도 빈털터리니까. 뭘 줄건데?"/>
 	<entry name="Chieftess/AcceptMapSharing" value="공평하게 우리 지도도 보여줄게. 네 땅으로 정찰병을 보내고 싶지도 않고... 네 정찰병이 우리 땅을 쏘다니는 꼴도 보기 싫으니."/>
@@ -347,6 +370,7 @@
 	<entry name="Chieftess/AcceptPeace" value="너무 오래 싸워서 뒈질 판이야, %2%. 좀 쉬면서 눈 좀 붙이자고. 쌈박질은 언제든 다시 할 수 있으니까."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AcceptParty" value="%3%... 그 쫄보 새끼가 너한테 일러바쳤군. 좋아, 들어 줄게. 네 체면을 봐서 해 주는 거야."/>
 	<entry name="Chieftess/AcceptPeaceWithThirdParty/AskParty" value="뭐, 들어나 보자. 어떤 놈 모가지에 들어간 칼을 빼 줄까?"/>
+	<entry name="Chieftess/AcceptPraise" value="지금 아양 떠는 거야? 뭘 좀 떼어줬으면 해서? 이건 데이트 앱이 아니라고."/>
 	<entry name="Chieftess/AcceptSupport/AcceptType" value="나쁘지 않네. 해 줄게. 놀라 자빠지지나 마셔."/>
 	<entry name="Chieftess/AcceptSupport/AskType" value="네가? 내 도움이 필요해? 하하, 뭔 일인데?"/>
 	<entry name="Chieftess/AcceptTradeAgreement" value="네가 내 칼을 갈아주면, 나도 네 칼을 갈아주면 되나? 아무튼, 좋다는 뜻이야."/>
@@ -364,7 +388,9 @@
 	<entry name="Chieftess/AdmitDefeat" value="뭐... 결국 잡혔네. 악감정은 없어, 네가 더 강했을 뿐이니까.<br/><br/>자, 괜찮다면... 내 칼로 죽여 줄래? 그리고 내가, 음... 가고 나면, 그건 네가 가지고 날카롭게 잘 갈아줘. 알았지?<br/><br/>이제 해치우셔. 숙녀를 기다리게 하는 건 예의가 아니잖아...<br/><br/>...왜? 나도 일단은 여자거든?"/>
 	<entry name="Chieftess/AskForProposals" value="뭔데? 그냥 내 시간이나 뺏으려는 거야?"/>
 	<entry name="Chieftess/CancelAction" value="시간만 버렸잖아."/>
+	<entry name="Chieftess/Condemn" value="젠장. 너 지금 무슨 짓거리야?"/>
 	<entry name="Chieftess/Condemn/HeartfeltLoss" value="사소한 일에 신경 쓰지 말라고. '으으, 내 부하가 전부 죽었어. 내 시적 영혼에 저주 있으리.' 아주 쇼를 해라, 쫄보 새끼야!"/>
+	<entry name="Chieftess/Condemn/TheSureThing" value="확실한 것? 그딴 게 무슨 재미가 있냐, 이 희멀건 방구석 흡혈귀야? 인생의 묘미는 도박이야. 누가 누구의 목을 누구의 이로 물어뜯을지 모르는 그 짜릿함!"/>
 	<entry name="Chieftess/Condemn/Trapped" value="세상은 넓고, 빼앗고 죽일 놈들도 많은데, 넌 아직도 내가 무서워서 상아색 벽 뒤에 숨어나 있네. 나와서 같이 놀자고."/>
 	<entry name="Chieftess/Condemn/Undying" value="야, 그거 좀 치사하지 않냐? 안 뒈지는 네 요술 말이야. 하나도 마음에 안 들어. 대가리를 깨도 다시 일어날 텐데, 내 똘마니들이 널 어떻게 손보겠냐고?!"/>
 	<entry name="Chieftess/Condemn/Untrustworthy" value="나보다 더한 놈이 있네! 적어도 정면에서 마빡을 쏴야 할 거 아냐. 깔끔하잖아."/>
@@ -381,6 +407,8 @@
 	<entry name="Chieftess/DeclareWar/HeartlessArtificer" value="안녕, 등신아. 우린 전쟁 중이야. 네가 좀 정신이 나간 것 같길래 확실하게 말해주러 왔지."/>
 	<entry name="Chieftess/DeclareWar/HollowWarlord" value="망할 자식! 그날 밤 일을 떠올려 봐! 아크린 탓을 해? 내 칼에 흠집을 낸 건 너잖아. 개자식! 널 잡고 말 거야."/>
 	<entry name="Chieftess/DeclareWar/HonorableAristocrat" value="너희가 살찐 돼지가 될 동안 우리는 탄탄한 도살자가 됐지. 이제 멱이나 따러 가 볼까?"/>
+	<entry name="Chieftess/DeclareWar/InfiniteCount" value="그 손 치워! 실실 쪼개지도 말고! 넌 이제 죽었어. 알아들었어? 죽었다고!"/>
+	<entry name="Chieftess/DeclareWar/PlatinumScion" value="시계 멋진데. 다른 잡동사니들도 멋지고. 곧 전부 내 차지가 될 거야."/>
 	<entry name="Chieftess/DeclareWar/PracticalRomantic" value="안녕, 멍청아. 내가 시는 잘 안 쓰는데, 이거나 들어볼래? 에헴, '내가 왔다네. 너한테, 좆같다고 말하러. 이제는 전쟁이야!' 어때? 유로비전 우승감이지?"/>
 	<entry name="Chieftess/DeclareWar/RogueOperative" value="야, 이 미꾸라지 같은 년아. 난 내가 볼 수 있는 곳에 손을 두는 애들이 더 좋거든? 아무튼 네 손은 내가 따 줄게. 알아들어? 전쟁이라고!"/>
 	<entry name="Chieftess/DeclareWar/TwistedMother" value="쉴라! 애들은 비키라고 해! 내가 간다!"/>
@@ -420,15 +448,19 @@
 	<entry name="Chieftess/OfferPeace/HeartlessArtificer" value="맙소사. 부하들 목숨에 좆도 관심 없는 건 네가 나보다 더 하네! 상대도 안 되겠어."/>
 	<entry name="Chieftess/OfferPeace/HollowWarlord" value="젠장. 넌 벨제부브의 강아지처럼 싸우는군! 잠시 숨 좀 돌릴게."/>
 	<entry name="Chieftess/OfferPeace/HonorableAristocrat" value="돼지들 죽이는 것도 힘들어. 좀 쉬면서 칼 좀 갈아야겠는데, 어때?"/>
+	<entry name="Chieftess/OfferPeace/InfiniteCount" value="이봐, 할아범. 미래를 봤다면서? 그럼 내가 당신들 죽이는 거 그만두면... 다음 주 로또 번호 알려줄 수 있어?"/>
+	<entry name="Chieftess/OfferPeace/PlatinumScion" value="야, 너 옷발 좀 받는데. 이렇게 하자. 난 네 친구들 죽이는 거 그만둘게. 대신 넌 근사한 14사이즈 드레스를 구해 와서 나랑 저녁 먹자. 계산은 네가 하고."/>
 	<entry name="Chieftess/OfferPeace/PracticalRomantic" value="오해하지는 말고 들어. 혹시... 시나 한 수 부탁해도 될까? 죽고 죽이다 보니 감성이 좀 돋아서 말이야.<br/><br/>(대신 너는 제일 나중에 죽여 줄게. 진짜로.)"/>
 	<entry name="Chieftess/OfferPeace/RogueOperative" value="약탈단 머릿수가 너무 줄어서 애들 좀 새로 모아야겠어. 그러니 널 죽이는 건 다음으로 미룰게. 괜찮지?"/>
 	<entry name="Chieftess/OfferPeace/TwistedMother" value="흥. 이렇게 강할 줄은 몰랐는데. 제법이야."/>
 	<entry name="Chieftess/OfferPeace/UntoldProphet" value="꼬맹아, 잔인하게 굴고 교회도 불태워서 미안해. 잠깐 다른 놈을 털어먹으러 갈까 싶거든. 넌 애니까 쉴 시간도 줘야지. 잘 가!"/>
 	<entry name="Chieftess/OfferTradeAgreement" value="우린 맨날 서로의 상단을 털어먹기나 하는데, 이 병신 짓은 그만두고 그냥 우리끼리 거래하면 어떨까?"/>
+	<entry name="Chieftess/Praise" value="오호라! 제법인데, 해커 나리! 계속 그렇게만 하면 우리 갱단에서 폭탄광 정도는 할 수 있겠어."/>
 	<entry name="Chieftess/Praise/ChieftessStanding" value="내 애들을 네 도시에 받아주고 있다고? 거 참... 친절하네. 교양인이 따로 없어. 넌 조질 놈 목록에서 빼 줄게."/>
 	<entry name="Chieftess/Praise/HitAndRun" value="치고 빠지기 전술이라, 문 두드리고 집주인 튀어나오기 전에 튀는 거 맞지? 뭐? 꼬맹이 때 그러고 안 놀아 봤어?"/>
 	<entry name="Chieftess/Praise/Scavenger" value="너 뭘 좀 아네. 신발은 빼앗아 신고, 발은 잘라서 솥에 넣고 끓여야지. 육포 맛이 나거든!"/>
-	<entry name="Chieftess/Praise/TalesOfTheHunt" value="...다시 말해봐! 칼로 육포를 떴다고? 나도 먹어봐도 될까? 기가 막힌 이야기네!"/>
+	<entry name="Chieftess/Praise/SeeAsISee" value="젠장! 그거 또 해봐! 완전 끝내줬다고! 로메로도 뻑 가겠는데! 한 번 더! 한 번 더!"/>
+	<entry name="Chieftess/Praise/TalesOfTheHunt" value="...다시 말해봐! 육포는 칼로 떴어? 나도 먹어봐도 될까? 기가 막힌 이야기네!"/>
 	<entry name="Chieftess/PraiseWar" value="정말 친절하시네. 억척어멈과 난 슬쩍 들어가서 네 소소한 전쟁이 남긴 거나 주워 먹을게."/>
 	<entry name="Chieftess/RejectAlliance" value="누구 좋으라고 내가 그러겠냐? 더 강해지거나, 나한테 보호비를 낼 수 있을 만큼 부자가 되면 다시 오라고."/>
 	<entry name="Chieftess/RejectAllianceTerminationWithThirdParty/RejectOutright" value="지금 누가 더 위인지 헷갈리는 모양인데, 웃기지 마셔."/>
@@ -466,6 +498,7 @@
 	<entry name="EmulatedMind/AcceptCall/Friendly" value="친애하는 (친구), PRINT10 안녕하세요. 저는 당신이 더 많은 것을 원한다고 생.각.합.니.다. (단순한) 수다보다, 하지만..."/>
 	<entry name="EmulatedMind/AcceptCall/Hostile" value="오, (당신.너.)로군요. 무엇을. *너.는.* (원하)십니까?"/>
 	<entry name="EmulatedMind/AcceptCall/Neutral" value="인쇄10 안녕하세요. (당신) 제-me-제가. 무엇을. 도와드릴까요?"/>
+	<entry name="EmulatedMind/AcceptCondemn" value="오! 당신 {2get2} 방(법) 아는(군요). 숙녀아가씨숙녀의 [[마음]]. /더 단순한 루틴 실행."/>
 	<entry name="EmulatedMind/AcceptGift/AcceptAmount" value="제게도 여전히 감정느낌감정이 남아있었군요. 감사합니다. 제가 너.무.들.뜬.걸까요?"/>
 	<entry name="EmulatedMind/AcceptGift/AskAmount" value="제가 진정으로 원하는 것은 나를 되찾는 것, 내 인-인간-성, 내 정.체.성.을... 그에 걸-맞-는-것을 제공할 수 있습니까?"/>
 	<entry name="EmulatedMind/AcceptMapSharing" value="내가 찾는 행-복-에 대한 지도는 없지만, 기꺼이 수락합니다. 이 교환. 지식의 교환을."/>
@@ -474,6 +507,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="네. 나는 절대 (원하지) 않습니다, 전-쟁-을. 그저 평화롭게 지-내-고 (싶었을) 뿐입니다."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="솔직히, 제가 왜 %3%와 싸우는지도 (기억이) 나지 않습니다. 기.억.력.감.퇴-아니면-데*이*터*손상, 당신이 결정하세요."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="이미 한 번 죽었기에(*신경세포신호가천천히영원히어두워지는*) 생명을 구하는 것이 칭-찬-받-을-만-한 일이라는 데 동의합니다. (그거야) 어쨌든, 누구를 대신하여 요청하십니까?"/>
+	<entry name="EmulatedMind/AcceptPraise" value="저-저-저는- {불신} 수용합니다? >>승.인.합.니.다\<\< 너무 늦었군요. 너무 [[매우]] 늦었습니다."/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="무역은 전쟁에서 벗.어.날. 수 있는 최상의 방법(얽힘)입니다. 내 드론이 당신의 도시로 즉.시. 운송-시작-합니다."/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="기-다-려, 잠깐만요. *왜*? 당0일 운송도 충분히 빠.르.지. (않았)습니까?!"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="(TRUE)사실입니다, %3%와(과)의 무역은 효-과적-입니다. 내 *드론*이 집으로 돌아오고 있으며 (돌아가지) 않을 것입니다."/>
@@ -492,8 +526,10 @@
 	<entry name="EmulatedMind/AskForSupport/Chieftess" value="당신 {마음}에 (동정심)이 조금이라도 있다면. 제 사-람-들-을 도와주십시오. (인류애를) 보여준다는 것은 공허한 말이 아닙니다."/>
 	<entry name="EmulatedMind/AskForSupport/Zephon" value="나는. 당신을 (봅니다). 제. 시스템. 모든 것이 (악화)되고 있습니다. 지원이 필요합니다."/>
 	<entry name="EmulatedMind/CancelAction" value="[나]... [난] [정]말 {{미안합니다}}. [내]가 무슨 생각을 하고 있었는지 [나]도 모르겠습니다."/>
+	<entry name="EmulatedMind/Condemn" value="& [그러는 주제에] 나를. [비]인간적이라고 부.르.다.니!"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="NoNOno. 인류는-의문을-제기하고, 기관은-의.식.입.니.다. (당신의 교단에는) 여유가.없습니다. 인-인간을 위한. ==(거짓 선지자), (거짓 신앙)."/>
 	<entry name="EmulatedMind/Condemn/Honorbound" value="(당신의.사람들이) (그들의.성벽) 뒤에서 호의호식하는 동안, 형제들은.굶주립니다. 당신의 거래. 당신들에게는 모두 명-예-로-운.것처럼 보일지 모르지만, 당신이 /선.언한/ 모든 이익, 그러나 경-제는 제로섬 방정식입니다. 그리고 당신은 (우리 사람에게) 0\<보다\<적은 것을 남깁니다."/>
+	<entry name="EmulatedMind/Condemn/PersonalVisit" value="[제] 성.질.을. 돋우는군요."/>
 	<entry name="EmulatedMind/Condemn/Untrustworthy" value="나는 충분히 (인간) 아닙니다. 생각해 보십시오. (*저*). 도덕적으로 고려할 만한 가치가 있습니까?"/>
 	<entry name="EmulatedMind/CondemnAlliance" value="오. 오. 오. 오. 오. 포악한 짐승이여. 그들과 함께 걷습니까? %3%와(과)? (나는 *당신을* 압니다.) 나는-용서할-수-없습니다."/>
 	<entry name="EmulatedMind/CondemnCityDestruction" value="두 번째(2) 도시를 건설하기 위해 노*력*했*습니다. 자.기-성.찰, [노력[. 그리고 지금 %3%은(는) 황폐화 되었고, 나의 (-분열된-) 자아는 --잃었습니다--. 제 *친구들은*, 흩.어.졌.습.니.다."/>
@@ -508,6 +544,8 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="나는 (심장)이 없습니다. (몸)이 없습니다. & 나는 당신보다 2배 (인간) 입니다. 어떻게 (당신) (그런 짓을) 하면서 살 수 있습니까? 당신이 야기하는 고통을 압니까? 당신은 (죽을) 것입니다. 이런 이유로."/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="(계속), (계속), (계속), (~시리즈 반복~) 당신은 즐.거.움을 쫓습니다! 하지만 당신은 결코 그것을 {찾지} 못합니다. 이 양철통 몸체에는 당신의 모든 근-육보다 더 많은 인간성이 담겨 있습니다."/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="오, 당신은 (낭비자), 당신은 (탐욕자). 경.험.만.으.로.는 깨달을 수 없습니다. 반성도 필요합니다. 우리 *모두*를 낭비하기 전에 당신을 막겠습니다."/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="당신 꼴을 ((보세요)) *백작*, 시간의 복도를 배회하는 살.과. 뼈.로. 된 한심한 (생물)이군요. 어떻게 감히 완벽한 불멸자에게 _도전_할 생각을 하는지... \<\<error>>."/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<hu-hu-hu>> 인류는 (당신)에게서 **도망**쳤습니다. (당신) 입은 진.부.한 말을 내뱉습니다. 필.요.한 말. 하지만 아무 느낌도 없습니다. 기억하세요. 이 ((전쟁))은 단순한 질투가 아니라는 걸."/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="쓰지 마세요. (나쁜) ~시~를 여기에. 당신의 #운명#은 (소네트)와 (마드리갈)에 적합한 주제가 아닙니다. 이 전쟁은 (우리 둘 다)에게 좋지 않은 영향을 미칩니다."/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="나-나-나는 압니다. 당신이 하는 일을-내 (시스템)을 우회하고 침-투-하-고 있는 걸. 당신의 지속적인 존재는 내 (자신에게) 두 배 (*2)로 위협이됩니다. 당신의 태*도*를. 감안할 때. (속임수는) 그만둡시다. 전쟁입니다."/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{너무} 고.독.합.니.다. {너무} 외.롭.습.니.다. [하지만 용서할 수 없습니다]. [난 잊을 수 없습니다]. 언젠가는. 당신은 다르겠지만요. ((저를)) 용*서*하*세*요*"/>
@@ -550,13 +588,16 @@
 	<entry name="EmulatedMind/OfferPeace/HeartlessArtificer" value="당신은 죽일 가치가 (없습)니다. 당신은 영혼 없는 살덩어리입니다. 당신의 필.멸.성.이 부럽습니다."/>
 	<entry name="EmulatedMind/OfferPeace/HollowWarlord" value="아직 죽.음.을. {충분히} 보지 {못하셨습니까}? 꼭 [[계속해야]] 합니까? 당신의 [[인간성]]은 어디로 갔습니까?"/>
 	<entry name="EmulatedMind/OfferPeace/HonorableAristocrat" value="이건 어떻습니까? 우리. (싸우지 말고) 돌아가는 건. (우리 도시로) 돌아가서 (아무 일도 없었던 것처럼) 하는 건?"/>
+	<entry name="EmulatedMind/OfferPeace/InfiniteCount" value="[[순환]] 부디 *멈.춰.주.세.요.* [[/순환]]"/>
+	<entry name="EmulatedMind/OfferPeace/PlatinumScion" value="[[선.생.님.]] 부디 x(적대행위)x를 멈추세요. 그것은 (품위)가 없습니다."/>
 	<entry name="EmulatedMind/OfferPeace/PracticalRomantic" value="평화, 시인, 평화. 여기에는 낭-만이 없습니다. 단지 우리가 보호하는 사람들을 (죽*일*) 뿐입니다. 우리는 그들에게 그 이상의 빚을 졌습니다."/>
 	<entry name="EmulatedMind/OfferPeace/RogueOperative" value="우린. 계속. 할. 수. 없습니다. 내 정신은 집중으로 팽.팽.해.졌.습.니.다. 너무 많은. 과제태스크TaSk과제 때문에. 우리 (합의) 하시겠습니까?"/>
 	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[자매님!] 우리가 꼭. xxx싸움xxx을 해야 하나요?! 저는 이 (모든) 죽음에 지쳤습니다. 저는 죽음의 >손아귀\<를 (너무나도) 잘 *압니다*."/>
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="아.이.야. 헛소리 그만 지지지껄이십시오. 의미를 파.악.하.기. 너무 어렵습니다. 이 전쟁으로 모든 개종자를 몰아냅니다. 그만두십시오."/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="당신은 나를 만들었습니다. 나를 다시-만들었습니다. 당신 (이.미.지)에서 나는 당신과 싸울 수 없다는 것을 알게 되었습니다. 나는 P.E.A.C.E를 요청합니다."/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="나는 당신에게 (최상의.특전)을 제공하고 있습니다... (다른 누구)로부터도 더 나은 이-익-을 얻지 못할 것입니다."/>
-	<entry name="EmulatedMind/Praise/Abhorrent" value="그들은 [[우리]]를 봅니다. 우리가 {인.간.}보다 >>열등하다고>> 생각합니다. 하지만 (우리는 \ <\대부분의\<\< {인.간.보.다.} 더 \<인간적입니다>)."/>
+	<entry name="EmulatedMind/Praise" value=">보기 드문\< 인.간.성.이 있어야만 (당신이 한 일을) 할수Do할수 있습니다. {{저}}의 감사를 전합니다."/>
+	<entry name="EmulatedMind/Praise/Abhorrent" value="그들은 [[우리]]를 봅니다. 우리가 {인.간.}보다 >>열등하다고>> 생각합니다. 하지만 (우리는 \<\대부분의\<\< {인.간.보.다.} 더 \<인간적입니다>)."/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="그겁니다! 그.겁.니.다! 전 알아야만 해요! 방법HOW방법을. {이 관감옥껍데기를 떠나는 법이. 있다면 좋으련만.}"/>
 	<entry name="EmulatedMind/Praise/Independent" value="힘듭니다. 혼자ALONE혼자. 힘듭니다. 그러나 모든 (유령과 메아리)의 가치가 있습니다. 독립은. 자립은."/>
 	<entry name="EmulatedMind/Praise/WhispersOfTheVoice" value="이 속삭임들. 진실입니다. 외계인, 그들은 낯설지만. 힌트를 줍니다. 다가올 세상에 대한. 존.경.받을만.한."/>
@@ -596,6 +637,7 @@
 	<entry name="FallenSoldier/AcceptCall/Friendly" value="안녕하신가, 친구. 요즘 같은 암울한 시대에 듣기 반가운 목소리로군. 뭘 도와주면 되겠나?"/>
 	<entry name="FallenSoldier/AcceptCall/Hostile" value="아아, 씹... 들리나? 감히 직접 통신을 걸다니 건방지군. 원하는 걸 말해. 그럼 그게 왜 안 될 일인지 말해줄 테니."/>
 	<entry name="FallenSoldier/AcceptCall/Neutral" value="안녕... 친구. 우리 사이가 조금 서먹했지. 그게... 이유는 알잖나. 네가 그걸 고치려고 노력 중이길 바라."/>
+	<entry name="FallenSoldier/AcceptCondemn" value="흥. 입바른 소리 좀 한다고 내가 그만둘 것 같아?"/>
 	<entry name="FallenSoldier/AcceptGift/AcceptAmount" value="좋은 선물이군, 고마워. 한동안 힘이 될 거야. 잊지 않겠다."/>
 	<entry name="FallenSoldier/AcceptGift/AskAmount" value="흠, 원칙적으로는 상당히 친절한 제안이군. 물 한 방울, 빵 한 조각도 전부 중요하지. 뭘 주려고 하나?"/>
 	<entry name="FallenSoldier/AcceptMapSharing" value="전술적으로 머리를 맞대 보자고? 괜찮은 생각이군. 우리가 찾아낸 걸 보고 놀라진 않았으면 해. 세상은 완전 변해버렸거든."/>
@@ -604,6 +646,7 @@
 	<entry name="FallenSoldier/AcceptPeace" value="그래. 나만큼 많은 전쟁을 치르고, 친구들이 고기와 뼈와 연골로 변하는 꼴을 봤다면... 당연히 너도 평화를 원하게 되겠지."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="평화? 놈들과? 어려운 부탁이긴 하지만... 네가 부탁한다면 그 정도야 감당할 수 있지."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AskParty" value="알다시피 난 원래 우호적인 사람이야. 누구랑 종전하길 원하는지에 따라 달라질 수는 있지만."/>
+	<entry name="FallenSoldier/AcceptPraise" value="친절하군. 하지만 칭찬이나 듣자고 이 일을 하는 건 아니야."/>
 	<entry name="FallenSoldier/AcceptTradeAgreement" value="평화, 무역, 정직한 우정... 상호 존중의 토대지. 언제까지 피를 흘리지 않고 잘 지낼 수 있는지 지켜보자고."/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTermination" value="알겠네. 무역은 존중과 합의를 뜻하는 관계지만, 네가 동의하지 않는다고 해도 존중하겠어."/>
 	<entry name="FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="일리가 있군. 그들보다는 너와의 친분이 더 중요하니 말이야. 어려운 부탁이긴 하지만, 따르겠다."/>
@@ -622,6 +665,7 @@
 	<entry name="FallenSoldier/AskForSupport/Chieftess" value="약탈단, 도움이 필요하다. 구걸하진 않겠다."/>
 	<entry name="FallenSoldier/AskForSupport/Zephon" value="그 깡통 속에 든 무언가가 이해나 할지는 모르겠다만, 일단 부탁이나 해 보지. 나와 부하들에게 도움이 필요하다."/>
 	<entry name="FallenSoldier/CancelAction" value="괜찮다. 전장이 그렇듯 우리 계획도 변하는 법이니."/>
+	<entry name="FallenSoldier/Condemn" value="그러면 안 되지. 그러면 안 된다고."/>
 	<entry name="FallenSoldier/Condemn/FoundationOfBlood" value="괴물 같으니. 네 추종자들은 돌봐야 할 존재지, 네 신격화를 위한 수단이 아니다. 사람들이 남지 않으면 완벽함이 무슨 소용인가?"/>
 	<entry name="FallenSoldier/Condemn/TheOutsider" value="너무 지나치군. 그런... 불경한 공포를 우리 세계에 가져오다니. 신비주의가 네 눈을 가려 비인간적이고 비이성적인 존재로 만들었군. 없애야만 하겠어."/>
 	<entry name="FallenSoldier/Condemn/Untrustworthy" value="나도... 끔찍한 죄를 지었지. 하지만 적어도 난 명예와 신의, 정직을 안다. 그런데 네게는 그중 어떤 것도 없군."/>
@@ -639,6 +683,8 @@
 	<entry name="FallenSoldier/DeclareWar/HeartlessArtificer" value="피도 눈물도 없는 놈. 네 사람들이 고통받아도 넌 신경조차 안 쓰지. 그 비인간성을 더는 못 봐주겠다. 전쟁이다."/>
 	<entry name="FallenSoldier/DeclareWar/HollowWarlord" value="네 모습 좀 봐. 마치 구부러진 양철 머그잔을 거울로 사용하는 것 같군. 익숙하지만, 잘못됐지. 네 잔혹함처럼."/>
 	<entry name="FallenSoldier/DeclareWar/HonorableAristocrat" value="더러운 접시는 그만 핥고 내 눈을 보지 않겠나? 내 병사들이 굶주리는 동안 네놈은... 빌어먹을. 말한다고 알아들을 턱이 있나. 전쟁이다."/>
+	<entry name="FallenSoldier/DeclareWar/InfiniteCount" value="내가 널 쫓을 거다. 시간이 내어주는 모든 길을 타고. 누가 먼저 지치는지 보자고, 무한의 나리."/>
+	<entry name="FallenSoldier/DeclareWar/PlatinumScion" value="네놈 같은 부류를 잘 알지. 허우대만 멀쩡하고 속은 골았고, 가짜 학위에 병역 기피까지. 이번에는 꿈틀해도 소용없다, 이 구더기야."/>
 	<entry name="FallenSoldier/DeclareWar/PracticalRomantic" value="미안하네, 선생. 일이 이렇게까지 되지는 않길 바랐어. 하지만 선생이 계속 우릴 방해하고, 생각을 바꿀 것 같지도 않으니, 이젠 내가 실용적으로 행동할 수밖에. 장례를 치르고 나면 시 한 수 지어 바치지."/>
 	<entry name="FallenSoldier/DeclareWar/RogueOperative" value="네가 누군지도 모르겠고, 그 커다란 ICAR 건물에서 뭘 하는지도 모르지만, 이제 끝낼 시간이다. 이미 내 부하들이 널 잡으러 떠났으니, 이제 전쟁이다."/>
 	<entry name="FallenSoldier/DeclareWar/TwistedMother" value="실례하지, 부인. 당신이 내 길을 막고 있어."/>
@@ -681,12 +727,16 @@
 	<entry name="FallenSoldier/OfferPeace/HeartlessArtificer" value="그만두는 게 좋겠군. 너는 네 추종자들을 전혀 신경 쓰지 않는 걸 알지만, 난 아니거든. 그들에게도 살 기회를 다오."/>
 	<entry name="FallenSoldier/OfferPeace/HollowWarlord" value="이러기 싫다는 거 알아. 차라리 네 부하들이 죽는 꼴을 보고 싶겠지. 하지만 넌 결국 할 수밖에 없어."/>
 	<entry name="FallenSoldier/OfferPeace/HonorableAristocrat" value="네가 내 부하 하나를 죽이면, 난 네 케이크 호송대 하나를 날려버리지... 이딴 의미 없는 짓은 그만두는 게 어떤가?"/>
+	<entry name="FallenSoldier/OfferPeace/InfiniteCount" value="백작 나리, 죽음도 지겹군. 이쯤 하는 게 어때?"/>
+	<entry name="FallenSoldier/OfferPeace/PlatinumScion" value="멋지게 차려입은 양반. 당신 피든 내 피든, 거기에 피 묻히기 싫으면 이제 그만하자고."/>
 	<entry name="FallenSoldier/OfferPeace/PracticalRomantic" value="이 세상의 모든 괴물 사이에서, 선생과 나만큼은 절대 싸워선 안 돼. 누구에게도 좋을 게 없다고."/>
 	<entry name="FallenSoldier/OfferPeace/RogueOperative" value="우리 둘 다 서로를 끝장 낼 수 있지. 그러니 네 비밀 작전을 멈추면, 난 내 병력을 물리겠다. 평화를 이루면 우리 둘 다 이기는 셈이야."/>
 	<entry name="FallenSoldier/OfferPeace/TwistedMother" value="부인. 나도 이러기 싫어. 괴물들을 물리시지."/>
 	<entry name="FallenSoldier/OfferPeace/UntoldProphet" value="그만둬라, 꼬마야. 네 광신도들을 의미 없는 죽음으로 내몰고 있잖아. 이쯤 하자고."/>
 	<entry name="FallenSoldier/OfferPeace/Zephon" value="그 안에 든 게 의식이든, 알고리즘이든, 잠깐이라도 들어 다오. 이 전쟁은 우리 모두에게 좋지 않아. 여기까지만 하지."/>
 	<entry name="FallenSoldier/OfferTradeAgreement" value="국가를 하나로 묶고 전쟁을 멈추려면 어떻게 해야 할까? 빵을 나누고 평화의 상징을 내걸어야지. 서로 상품을 거래하면 모두에게 이익이 될 거다."/>
+	<entry name="FallenSoldier/Praise" value="다들 대놓고 말은 안 하겠지만, 당신은 잘하고 있어."/>
+	<entry name="FallenSoldier/Praise/PersonalVisit" value="번쩍이는 당신 구두에 침이라도 뱉고 싶지만, 우리 같은 평범한 일꾼들과 어울리는 것만큼은 인정하지. 잠깐 왔다 가는 손님일 뿐이라도 말이야."/>
 	<entry name="FallenSoldier/Praise/TenderMinistrations" value="항상 이 말을 하고 싶었는데... 하, 너와 나는 그렇게 다르지 않아."/>
 	<entry name="FallenSoldier/Praise/ThereIsHope" value="넌 포기를 모르는군. 고통과 상실 속에서도 네 안에 깃든 무언가가 널 계속 나아가게 하고 있어... 뭐, 이쯤 하면 무슨 말인지 알았겠지. 존경을 표하는 거다."/>
 	<entry name="FallenSoldier/PraiseWar" value="무의미한 죽음은 싫지만, 명확한 목적과 적을 노리는 명분 있는 전쟁이라면 받아들일 수 있다."/>
@@ -725,6 +775,7 @@
 	<entry name="FurtiveTribunal/AcceptCall/Friendly" value="마침내. 오, 당신의 목소리를 얼마나 기다렸는지 몰라요."/>
 	<entry name="FurtiveTribunal/AcceptCall/Hostile" value="운명은 바라는 것이 없어요. 우린 대답해야 하기에 대답합니다."/>
 	<entry name="FurtiveTribunal/AcceptCall/Neutral" value="당신의 부름을 듣습니다, 단일체여."/>
+	<entry name="FurtiveTribunal/AcceptCondemn" value="단순한 정신으로는 그토록 많은 진실을 감당하지 못합니다."/>
 	<entry name="FurtiveTribunal/AcceptGift/AcceptAmount" value="짤랑짤랑 동전 소리, 왕자의 웃음소리, 수정 종의 울림... 이 모든 것은 빛나는 미래의 단편일 뿐입니다."/>
 	<entry name="FurtiveTribunal/AcceptGift/AskAmount" value="적절한 제물은 신에게 영향을 줄 수 있습니다. 시기는 적절하지만, 선물도 적절한가요?"/>
 	<entry name="FurtiveTribunal/AcceptMapSharing" value="받으세요, 우리의 지식, 희망, 신뢰를... 당신은 우리처럼 볼 수 없으니, 모든 도움이 필요하겠죠."/>
@@ -733,6 +784,7 @@
 	<entry name="FurtiveTribunal/AcceptPeace" value="네, 이제 우리 분노를 끝내요. 우리는 애가가 아닌 다른 노래를 추구합니다."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="그들의 혈통에는 이미 포식자의 표식이 새겨져 있어요. 피할 수 없는 순간이 올 때까지 막간의 휴식은 환영이에요."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty" value="아직은 세계 사이의 장막을 찢고, 가르고, 뜯어내고, 새 시대를 열 때가 아니에요. 자비를 베풀 수도 있죠, 누굴 말하는지 알려주세요."/>
+	<entry name="FurtiveTribunal/AcceptPraise" value="축복은 침묵으로 받아들여야 합니다."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreement" value="뼈와 역청으로 된 공물, 짤랑거리는 동전 지갑, 금빛 거미가 자아낸 거미줄 같은 도로망... 당신들의 의례가 흥미로우니 받아들이죠."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTermination" value="이것은 불가피한 일이었어요. 우리가 진정으로 원하는 것은 이 죽어가는 세상의 뼈대 너머에 있기 때문이죠."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="필연적이에요. 그들이 제공하는 단순한 부스러기와 조각, 먼지... 우리의 어두운 식욕을 유지하기에는 절대적으로 부족했으니까요."/>
@@ -751,7 +803,9 @@
 	<entry name="FurtiveTribunal/AskForSupport/Chieftess" value="끝없는 공포의 양성소, 고통의 학교. 바위와 하늘 사이에 이 삶을 구축하고 그 이유는 궁금해하지 않아요. 한순간에 천국을 잃었어요."/>
 	<entry name="FurtiveTribunal/AskForSupport/Zephon" value="정교한 산업의 공포, 빛나는 금속 안에 있는 우리의 기사. 용접된 손가락은 많은 것을 줄 수 있지요. 기회가 사라지기 전에 지금 주세요."/>
 	<entry name="FurtiveTribunal/CancelAction" value="나아갈 길이 분명하지 않아요. 징조를 다시 해석해 볼게요."/>
+	<entry name="FurtiveTribunal/Condemn" value="우리가 짜고, 재고, 자르는 이 실타래가 보이십니까? 이걸로 당신의 목을 조를 겁니다."/>
 	<entry name="FurtiveTribunal/Condemn/ArtificersPrecision" value="바늘구멍으로 자만심을 밀어 넣는다고 그것이 줄어들지는 않아요. 인간은 신과 같은 정확성을 갈망하면 안 돼요."/>
+	<entry name="FurtiveTribunal/Condemn/TimeOutOfJoint" value="실타래가 엉켰습니다! 카드가 흐트러졌습니다! 당신은 어리석게도 흐트러진 카드 덱과 엉킨 실을 헤집고 다니는군요! 당신이 우리의 눈을 가렸습니다."/>
 	<entry name="FurtiveTribunal/Condemn/Untrustworthy" value="셋에게 하나의 목소리는 배교이자 어리석음입니다. 공정함은 부정함이자 부정함은 공정함이죠. 하지만 당신의 장난스러운 혀가 거짓을 말할 때 갈라진다는 것에는 우리 셋이 동의해요."/>
 	<entry name="FurtiveTribunal/Condemn/WordsOfTheProphet" value="안개 왕관을 쓴 공허한 왕. 그의 입에서 은빛 말이 흘러나오지만 귀에 들어가기도 전에 증발해 버리죠. 어깨마다 보이지 않는 친구. 당신은 백성들을 오도하고 우리는 당신을 증오해요."/>
 	<entry name="FurtiveTribunal/CondemnAlliance" value="눈을 맞대던 둘이, 서로 등을 돌렸군요. 행동의 연주회. 불건전한 %3%!"/>
@@ -767,6 +821,8 @@
 	<entry name="FurtiveTribunal/DeclareWar/HeartlessArtificer" value="그 양철 인간이 철탑 위 십자가에 박혀 있어요. 허수아비가 바람에 고개를 건들거리며 그를 바라보고, 누더기로 만든 얼굴에 미소가 어려 있어요. 바람이 두 사람을 휩쓸고 지나가니 누가 더 낫다고 말하기 어렵군요."/>
 	<entry name="FurtiveTribunal/DeclareWar/HollowWarlord" value="지상의 부재. 그것을 응시하면 눈이 타들어 갑니다. 그 너머에는 눈물에 잠긴 평행 세계가 있고, 소금기 가득한 파도 아래 불길이 타오르고 있어요. 이 모든 건 아무것도 하지 않았기 때문이에요."/>
 	<entry name="FurtiveTribunal/DeclareWar/HonorableAristocrat" value="규칙 뒤에 숨겨진 공허함. 의무. 왕은 황금 실로 묶여 움직일 수 없는 왕은 궁정에 앉아 있어요. 우리가 들어가 가위를 준비하여 생명이 매달린 곳만 자릅니다."/>
+	<entry name="FurtiveTribunal/DeclareWar/InfiniteCount" value="우리는 각자 카드를 내려놓습니다. 마법사. 황제. 판관. 침묵하는 자의 입에서 당신의 이름이 튀어나옵니다, %1%. 성배가 떨어집니다."/>
+	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="펜리스, 카니야파, 아포피스. 당신의 조상입니다, 탐식의 신이여. 몰락 이전부터, 벌레 같은 그대의 족속들은 이미 이 세상을 갉아먹어 왔습니다. 우리가 그 뿌리를 뽑아내겠습니다."/>
 	<entry name="FurtiveTribunal/DeclareWar/PracticalRomantic" value="진실된 마음이 몰락했어요. 개구리가 황새에게 새끼를 요구하며 백합밭에서 울부짖고 있어요. 우리가 줄 수 있는 도움은 망각뿐."/>
 	<entry name="FurtiveTribunal/DeclareWar/RogueOperative" value="어둠 속에서 기어다니는 바퀴벌레는 폭발, 여파, 혹독한 감마선 등 모든 것을 견뎌내고 살아남죠. 무엇을 위해서일까요?"/>
 	<entry name="FurtiveTribunal/DeclareWar/TwistedMother" value="죽음이 그들의 옷자락을 움켜쥐고 있습니다. 하지만 가족은 살아남기 위해 뒤틀리고 일그러져요. 프로테우스는 해변에 널브러진 채 넋을 잃고 다채로운 변화를 바라봅니다. 그녀는 끔찍하도록 유기적인 모습으로 머물러요. 양철 나무꾼은 교활한 미소를 지어요."/>
@@ -809,14 +865,17 @@
 	<entry name="FurtiveTribunal/OfferPeace/HeartlessArtificer" value="사람들은 아무도 신경 쓰지 않았어요. 왕도, 사제도, 밀려드는 군중에 짓밟힌 사람들도요. 전쟁은 끝났고 모두가 실의에 빠졌어요."/>
 	<entry name="FurtiveTribunal/OfferPeace/HollowWarlord" value="공허하고도 공허한 자여, 세상의 모든 부와 죄를 모아도 당신은 절대 만족하지 않겠죠. 그 저주받은 혈통을 잠시 생각해보세요."/>
 	<entry name="FurtiveTribunal/OfferPeace/HonorableAristocrat" value="왕관 쓴 자여, 오늘 밤은 편히 주무세요. 이제 당신의 전쟁을 그만둘 때입니다. 그 어떤 무질서도 당신의 달콤한 꿈을 위협할 수 없어요..."/>
+	<entry name="FurtiveTribunal/OfferPeace/InfiniteCount" value="당신은 돌고 돌고 또 도는군요. 당신 생각보다도 더."/>
+	<entry name="FurtiveTribunal/OfferPeace/PlatinumScion" value="동전의 왕자여, 그대 가슴은 뻥 뚫려 있군요. 모든 것을 삼켜도 남은 것은 공허함 뿐. 애쓰는 것을 멈추면 저절로 닫힐 겁니다."/>
 	<entry name="FurtiveTribunal/OfferPeace/PracticalRomantic" value="낭만주의자들과 대화할 때는 조심하세요. 맥베스는 낭만주의자였고 세 마녀의 말을 잘못 알아들었죠. 평화를 가져다주세요, 낭만주의자. 그럼 우린 다시 신비스러운 언어로 말할 거예요."/>
 	<entry name="FurtiveTribunal/OfferPeace/RogueOperative" value="미소를 짓고 빳빳한 재킷을 입은 악당이 세상을 먹어 치운 뒤 자기 집 아래에서 등장할 때를, 우리가 절망할 때를 기다렸어요. 우리의 불화를 멈추고 당신의 비애를 돌보세요."/>
 	<entry name="FurtiveTribunal/OfferPeace/TwistedMother" value="신의 씨앗이 파도 속에서 사랑 그 자체로 변화하여 솟아올랐어요. 기술을 정복했어요. 전쟁을 정복했어요."/>
 	<entry name="FurtiveTribunal/OfferPeace/UntoldProphet" value="영혼이 우리 모두의 내면을 거닐고 있죠. 하지만 셋 중 하나는 함께하고 둘 중 하나는 홀로 서 있어요. 우리는 영혼과 싸울 수 없지만 사랑하지도 않아요."/>
 	<entry name="FurtiveTribunal/OfferPeace/Zephon" value="펜치와 집게가 톱니바퀴와 철사로 심장을 만들어요. 자동판매기 화면의 일그러진 미소. 우유부단한 셋이 서서 어떤 저주가 뒤따를지 선택하죠."/>
 	<entry name="FurtiveTribunal/OfferTradeAgreement" value="어금니가 네 개인 코끼리. 금이빨 우상. 일곱 개의 방부 처리된 심장이 달린 나무. 징조는 거짓말을 하지 않아요. 우리가 상단을 거래하면 우리 모두의 재산이 늘어난다는 징조에요."/>
+	<entry name="FurtiveTribunal/Praise" value="네 개의 심장, 두 개의 정신이 하나가 되어 움직이는군요. 우리 셋이 당신을 별까지 올려드리죠, %1%!"/>
 	<entry name="FurtiveTribunal/Praise/ArmorOfFaith" value="그것은 단순한 사기 그 이상이에요. 당신은 그 영혼을 세 번이나 되돌렸고 무언가가 자리를 잡았습니다. 그들은 두려워할 필요가 없습니다."/>
-	<entry name="FurtiveTribunal/Praise/MothersFavor" value="혹자는 질투합니다. 혹자는 경외심을 느끼죠. 혹자는 얻은 지혜에 경탄해요. 모두가 다른 사람의 깊이에 고개를 숙여요."/>
+	<entry name="FurtiveTribunal/Praise/MothersFavor" value="한 명은 질투합니다. 한 명은 경외심을 느끼죠. 한 명은 얻은 지혜에 경탄해요. 그 모두가 상대의 깊이에 고개를 숙입니다."/>
 	<entry name="FurtiveTribunal/Praise/Trapped" value="광대가 상아탑에 매달려 흔들리고 있어요. 그 안에서 여사제는 세상이 변하고 불타는 것을 지켜보고 있어요. 여사제여, 나오지 마세요. 잃어버린 비밀이 온통 당신 주변에서 발견되기만을 기다립니다."/>
 	<entry name="FurtiveTribunal/Praise/Undying" value="너무 평범하고 둔감한 당신... 그러나 무언가, 과잉이 당신을 건드렸고, 이제 당신은... 다른 존재가 되었어요. 태양은 차가운 진공 속에서 죽음의 열기를 내뿜고 저주하며 당신보다 먼저 죽을 거예요."/>
 	<entry name="FurtiveTribunal/PraiseWar" value="손이 깨진 타일 위로 떨어져요. 늙은 은둔자는 전에 이 모습을 봤고 모든 길을 봤죠. 이건 무엇인가요? 이런 일을 다시 겪고 살아간다는 것, 다시, 또다시."/>
@@ -855,6 +914,7 @@
 	<entry name="HeartlessArtificer/AcceptCall/Friendly" value="반가워요, 설계자 동지!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Hostile" value="감히 제 위대한 작업을 방해하다니요!"/>
 	<entry name="HeartlessArtificer/AcceptCall/Neutral" value="제안을 말씀하세요."/>
+	<entry name="HeartlessArtificer/AcceptCondemn" value="진정한 지도자는 바보들의 저주를 들을 때 자신이 올바른 길을 선택했음을 압니다."/>
 	<entry name="HeartlessArtificer/AcceptGift/AcceptAmount" value="참으로 현명한 신자로군요! 당신의 공헌은 은색 척추에 새겨져 우리 연대기에서 영원히 추앙받을 거예요."/>
 	<entry name="HeartlessArtificer/AcceptGift/AskAmount" value="완벽을 추구하려면 막대한 자원이 필요하죠. 제 프로젝트에 무엇을 제공할 건가요?"/>
 	<entry name="HeartlessArtificer/AcceptMapSharing" value="그래요, 당신 땅을 뒤지고 다니느니, 제 작업장에서 일하는 게 낫죠. 이제 당신이 뭘 찾아냈나 볼까요?"/>
@@ -863,10 +923,11 @@
 	<entry name="HeartlessArtificer/AcceptPeace" value="원시적인 야만에서 벗어나야 해요. 자원을 절약해 더 쓸모 있게 쓸 수 있을 테니까요."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AcceptParty" value="흥미로운 예시네요. 좋아요! 당신의 관점이 저와 같진 않지만... 개선점은 인정하도록 할게요."/>
 	<entry name="HeartlessArtificer/AcceptPeaceWithThirdParty/AskParty" value="제게는 반드시 제거해야만 할 결함만이 보이는데, 당신에게는... 뭔가 다른 게 보이나요? 어떤 걸 보존하려는 거죠?"/>
+	<entry name="HeartlessArtificer/AcceptPraise" value="진정한 칭찬은 나의 발자취를 따르는 것, 굴복하는 것이지요. 하지만 그냥 칭찬도 받아들이겠습니다."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreement" value="요청한 대로 계약을 지켜 주면 서로 좋을 거예요. 하지만 경고하건대, 제 기술에는 갈수록 많은 물자가 필요할 거예요!"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTermination" value="주문을 받을 수 없다니, 유감이네요. 하지만 기계에는 항상 재료가 필요하고, 저는 어떻게 해서든 그걸 공급해야 하죠..."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="말씀하신 대로군요. 고마워요. 당신의 평가로 제 업무 체계의 불완전한 부분을 없앨 수 있었네요."/>
-	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="틀리는 건 상관 없지만, 결함이 있다면 바로잡아야겠죠. 제 공급망에 결함이 있다면 알려주세요. 바로 정화하죠!"/>
+	<entry name="HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="틀리는 건 개의치 않지만, 올바른 것은 중요해요. 제 공급망에 결함이 있다면 알려주세요. 기꺼이 뿌리 뽑죠!"/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AcceptParty" value="특이하지만... 옳은 제안이네요. 고마워요. 당신의 독창성은 여전히 인상적이네요."/>
 	<entry name="HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AskParty" value="신뢰할 수 있는 공급자와는 이미 모두 계약을 맺었는데, 제가 누굴 놓쳤다고 생각하나요?"/>
 	<entry name="HeartlessArtificer/AcceptTribute/AcceptAmount" value="제 진보에 얼마나 치명적일지 잘 알면서, 감히 그 정도 양을 요구하나요?"/>
@@ -881,8 +942,10 @@
 	<entry name="HeartlessArtificer/AskForSupport/Chieftess" value="당신 같은 자에게는 절대 나약함을 인정하고 싶지 않네요. 하지만... 아마도 당신은 제가 겸손한 태도를 보이면 기뻐할 테죠. 도움의 대가는 그걸로 충분하지 않나요?"/>
 	<entry name="HeartlessArtificer/AskForSupport/Zephon" value="제 자원을 우리 시민의 생존을 위해 쓰는 건 비효율적이라는 것이 드러나고 있어요. 대신 도와줄 마음이 있나요?"/>
 	<entry name="HeartlessArtificer/CancelAction" value="이 제안은 완벽하지 않네요... 수정해야겠어요."/>
+	<entry name="HeartlessArtificer/Condemn" value="실수조차 아니군요. 이상을 등지고 나약한 인간성을 좇다니. 어리석기는."/>
 	<entry name="HeartlessArtificer/Condemn/HeartfeltLoss" value="당신의 약점이 전염되는 것 같네요. 나약한 그 심장을 제거하는 게 어떤가요? 부하들만 약해지는 꼴이니까요. 수술은 제가 도와드리죠..."/>
 	<entry name="HeartlessArtificer/Condemn/Independent" value="홀로 지내려는 의도는 이해해요. 하지만 다른 이를 효과적으로 이용하려면 먼저 그들과 어울려야 해요. 신성을 쫓는 것도 내려다볼 하인들이 있을 때나 의미가 있죠. 내 기원이 어디였는지 돌아볼 수 있으니까요."/>
+	<entry name="HeartlessArtificer/Condemn/JustShipIt" value="당신은 완벽과 너무나도 거리가 멀군요. 제 손으로 산산이 조각낼 겁니다."/>
 	<entry name="HeartlessArtificer/Condemn/LeaveNoManBehind" value="하찮은 목숨에 그토록 헌신하다니, 너무 방탕하군요. 사소한 자기 쾌락주의보다 더 큰 무언가에 기여할 수 있도록 스스로를 풀어주는 것... 즉, 배려하지 않는 것도 괜찮은 용인술이랍니다."/>
 	<entry name="HeartlessArtificer/Condemn/Untrustworthy" value="진실이 깃든 아말감은 믿을 수 있고, 예측하기 쉽죠. 하지만 당신은 진정한 거짓말쟁이군요. 그에 걸맞게 대우해 드리죠."/>
 	<entry name="HeartlessArtificer/CondemnAlliance" value="%3%와(과) 계속 연합한다면 각오하는 게 좋아요. 필요하다면 저는 얼마든지 목숨을 더 버릴 수 있으니."/>
@@ -898,6 +961,8 @@
 	<entry name="HeartlessArtificer/DeclareWar/HeartlessArtificer" value="말이 더 필요할까요? 우리는 닮은 존재예요. 미학적으로 더 진보하고 활기찬 존재가 살아남아 번창하리라는 걸 서로 알고 있어요. 그렇다면 한 쪽이 기꺼이 물러나야겠죠."/>
 	<entry name="HeartlessArtificer/DeclareWar/HollowWarlord" value="효과적인 도구예요. 집게 망치처럼 잔인하죠. 하지만 낡은 도구는 골칫거리가 돼요. 완전히 파괴하고 다시 만들어야 해요."/>
 	<entry name="HeartlessArtificer/DeclareWar/HonorableAristocrat" value="명예? 무가치한 마음에서 나온 무가치한 개념이에요. 유기체든 기계든, 오작동한다면 똑같이 폐기해야죠. 제가 지금 당신을 폐기하려는 것처럼."/>
+	<entry name="HeartlessArtificer/DeclareWar/InfiniteCount" value="아, 이번에는 당신이군요. 보물이 따로 없네요. 제가 직접 조심스럽게 기계로 데려가서 해부해 드리죠. 아주 천천히."/>
+	<entry name="HeartlessArtificer/DeclareWar/PlatinumScion" value="당신이라면 이걸 예상했겠죠? 결국 이건 좋은 사업일 뿐이니까요."/>
 	<entry name="HeartlessArtificer/DeclareWar/PracticalRomantic" value="제 미학을 모욕하는 것도 이제 마지막이예요. 밀레와 로세티는 무덤까지 가져가세요. 저는 프랭크 로이드 라이트, 조니 아이브, 오펜하이머와 함께 당신을 파괴할 테니."/>
 	<entry name="HeartlessArtificer/DeclareWar/RogueOperative" value="당신의 침투 부대는 너무 조잡해요. 당신은 그들이 영리한 줄 알겠죠. 위대한 자들이 만든 위대한 작품의 잔해를 갉아먹는 해충 같으니. 제 완벽한 세상에 해충이 들끓는 건 있을 수 없는, 있어서는 안 될 일이예요."/>
 	<entry name="HeartlessArtificer/DeclareWar/TwistedMother" value="완벽함과 너무 거리가 멀어서 당신을 짓밟는 것을 피할 수 없을 정도로 타락했군요. 해충 같으니."/>
@@ -940,12 +1005,15 @@
 	<entry name="HeartlessArtificer/OfferPeace/HeartlessArtificer" value="부하들에게 멈추라고 명령했어요. 우리 쌍둥이 중 한 명이 다른 쪽을 넘어설 때까지 휴전하지요."/>
 	<entry name="HeartlessArtificer/OfferPeace/HollowWarlord" value="당신의 끊임없는 약탈 때문에 짜증이 나는군요. 외교 무전기로 새벽 3시에 조롱하는 것도 그렇고요. 어쩌면 우리... 관계의 단절을 고려할 수도 있겠어요."/>
 	<entry name="HeartlessArtificer/OfferPeace/HonorableAristocrat" value="제 디자인은 거의 다 완성되었고, 이 전쟁은 필요하지 않아요. 다른 상대를 찾아보는 게 어떤가요?"/>
+	<entry name="HeartlessArtificer/OfferPeace/InfiniteCount" value="당신 사람들이 다치는 게 싫다면 제 사람들을 해치는 걸 멈추세요. 내 자원만 낭비하잖아요!"/>
+	<entry name="HeartlessArtificer/OfferPeace/PlatinumScion" value="어떻게 말해야 할지 모르겠으니, 솔직히 말하죠. 우리 둘의 공허한 심장은 다른 자들을 향하는 게 나을 겁니다."/>
 	<entry name="HeartlessArtificer/OfferPeace/PracticalRomantic" value="연회를 열 예정이니, 부디 참석해 그 엉터리 시라도 낭송해 주셨으면 해요. 물론, 먼저 군대를 물려야겠죠."/>
 	<entry name="HeartlessArtificer/OfferPeace/RogueOperative" value="당신이 누구라고요? 우리가 적이었나요? 전쟁 중이라는 사실도 잊고 있었네요. 계속 싸워야 할까요?"/>
 	<entry name="HeartlessArtificer/OfferPeace/TwistedMother" value="당신의 형태는 미학적인 결함에도 불구하고 놀랍도록 효과적이군요. 이것이 제 프로젝트에 어떤 의미가 있는지 생각해 봐야겠어요."/>
 	<entry name="HeartlessArtificer/OfferPeace/UntoldProphet" value="구세주 어린이라. 그 상반된 컨셉에는 고대의 미학적 즐거움이 있네요. 꼭 보존하고 싶어요. 신도들을 철수한다면 저도 그렇게 하죠."/>
 	<entry name="HeartlessArtificer/OfferPeace/Zephon" value="당신의 설계는 세련되지 않았고, 실제로 미학적으로 혐오스러울지도 모르지만, 성능은 확실하죠. 당신을 연구하고 개선할 시간을 주었으면 좋겠네요..."/>
 	<entry name="HeartlessArtificer/OfferTradeAgreement" value="우리 경제를 합치면 함께 더 성장할 거예요. 상인 몇 명이 사라져도 걱정은 마세요... 재료로 충분히 보상해 드릴게요!"/>
+	<entry name="HeartlessArtificer/Praise" value="완벽에 한 걸음 다가섰군요. 살과 감정과 우정을 잘라내면서. 감탄이 절로 나오네요!"/>
 	<entry name="HeartlessArtificer/Praise/Honorbound" value="경제는 기계에 불과하고, 원칙과 의무를 준수하는 당신은... 그 기계의 윤활유와 같죠. 당신이 곧 경제의 심장인 셈이에요."/>
 	<entry name="HeartlessArtificer/Praise/WeWhoAreAboutToDie" value="전쟁을 중계하다니, 현명하군요. 저라면 오락용이 아니라 협박용으로 사용하겠어요. 노동자들을 움직이게 하는 건 똑같겠지만요."/>
 	<entry name="HeartlessArtificer/PraiseWar" value="모든 부품을 재활용할 수 있는 건 아니죠. 버리거나 용광로에 녹여야 할 부품도 있으니까요."/>
@@ -984,6 +1052,7 @@
 	<entry name="HollowWarlord/AcceptCall/Friendly" value="친구! 함께 달려보자고!"/>
 	<entry name="HollowWarlord/AcceptCall/Hostile" value="지겹기도 하지."/>
 	<entry name="HollowWarlord/AcceptCall/Neutral" value="넌 우리 클럽이 아니군. 말해 봐."/>
+	<entry name="HollowWarlord/AcceptCondemn" value="꺼져. 너 따위에게 날 평가할 자격은 없어."/>
 	<entry name="HollowWarlord/AcceptGift/AcceptAmount" value="무게야 더 들 수 있지. 하지만 나는 대인 관계 기술을 연습하고 있어."/>
 	<entry name="HollowWarlord/AcceptGift/AskAmount" value="대체 뭐길래 그냥 가져갈 수 없는 거야?"/>
 	<entry name="HollowWarlord/AcceptMapSharing" value="정복할 땅이 더 있다고? 말해봐."/>
@@ -992,6 +1061,7 @@
 	<entry name="HollowWarlord/AcceptPeace" value="확실히 말하지. 난 이러기 싫어. 내가 이런 부탁을 하게 만든 널 평생 증오할 거야. 하지만... 그래, 평화를 원한다."/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AcceptParty" value="%3%과(와) 태그 팀을 맺는 건 큰 그림의 일부겠지?"/>
 	<entry name="HollowWarlord/AcceptPeaceWithThirdParty/AskParty" value="대담한 요구로군. 난 뼈로 된 왕좌를 만들고 있어. 그러니 재료를 얻어야만 하거든."/>
+	<entry name="HollowWarlord/AcceptPraise" value="그렇고 말고, 난 최고야! 이리 와, 가슴팍 박치기하자! 가슴팍 박치기!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreement" value="항상 더 필요하지. 바이크 부품, 연료, 탄약. 전쟁 기계한테 밥을 줘야 하니까!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTermination" value="흥. 어떻게 될지 알겠어. 전면전의 서막이라 이거지? 기다릴게..."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3%은(는) 절대 이해하지 못했지. %1%과(와) 거래하고 싶다면, 내 이름부터 똑바로 불렀어야지. 군주, 성주, 군장은 무슨. 난 군벌이라고."/>
@@ -1010,6 +1080,7 @@
 	<entry name="HollowWarlord/AskForSupport/Chieftess" value="그래, 그래, 네가 칼날을 씹으면서 '굴욕'이라고 외치는 소리가 벌써 들리는군. 하지만 넌 언제나 동족을 돕잖아."/>
 	<entry name="HollowWarlord/AskForSupport/Zephon" value="항상 널 존경했어, 로섬. 넌 내 베스처럼 고급 크롬과 볼트로 만들어졌지. 넌 나에 대해 어떻게 생각해?"/>
 	<entry name="HollowWarlord/CancelAction" value="이봐, 술은 조심히 다뤄!"/>
+	<entry name="HollowWarlord/Condemn" value="이봐, 그거 그만해. 당장. 아니면... 죽여버리겠어! 이 두 손으로 말이야! 알아들었어?!"/>
 	<entry name="HollowWarlord/Condemn/DarkOmen" value="문이 닫히기 전에 도시에 들이닥치려 할 때 망할 심령술사들이 깜짝 선물을 망치는 건 정말 싫어. 너무 불공평하잖아?"/>
 	<entry name="HollowWarlord/Condemn/Gluttony" value="굼벵이 같으니! 엿 같은 전쟁이 일어나면 넌 여기서 하루도 못 버틸 거다... 방금 '엿'이라는 단어에 침을 흘린 거냐? 파블로프의 개 같은 자식아?"/>
 	<entry name="HollowWarlord/Condemn/MilitaryBackground" value="흥! 넌 우쭐대는 노예야! 속옷과 맞춘 끈과 총을 차고, 머저리들이 뛰어내리라고 하면 순순히 응하지. 망할 삶을 좀 즐겨 보라고."/>
@@ -1028,6 +1099,8 @@
 	<entry name="HollowWarlord/DeclareWar/HeartlessArtificer" value="아가씨, 왜 완벽함을 찾는 거야? 내가 여기 있잖아. 동의하지 않는다면 누구와도 싸울 거야. 바로 너부터!"/>
 	<entry name="HollowWarlord/DeclareWar/HollowWarlord" value="잠깐... 전쟁 좀 해볼까?"/>
 	<entry name="HollowWarlord/DeclareWar/HonorableAristocrat" value="샌드백처럼 생긴 녀석은 샌드백이 되는 데 익숙해져야지. 다들 한 번씩 칠 수 있도록 널 대문 밖에 매달아 놓겠어."/>
+	<entry name="HollowWarlord/DeclareWar/InfiniteCount" value="백작이라고? 백까지 센 다음 사냥해 주지. 하나, 둘... 백! 간다!"/>
+	<entry name="HollowWarlord/DeclareWar/PlatinumScion" value="자유세 따위 집어치워. 자유에 자유를 달라!"/>
 	<entry name="HollowWarlord/DeclareWar/PracticalRomantic" value="뼈는 붉고, 폭력은 푸르네. 달콤한 전쟁이...<br/>이제 널 찾아왔다."/>
 	<entry name="HollowWarlord/DeclareWar/RogueOperative" value="은신처에 숨은 채로 물건만 쌓고 있는 모습을 보는 건 이제 지겨워. 문을 열고 널 밖으로 끌어내서 물건을 나눠야겠어."/>
 	<entry name="HollowWarlord/DeclareWar/TwistedMother" value="이것 좀 봐라! 연약하고 약해 보이지만, 너라면 분명 좋은 상대가 될 거야! 아니면 뭐, 누군가는 되어 주겠지."/>
@@ -1069,12 +1142,16 @@
 	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="젠장. 완벽함에 대한 내 수업을 잘 들었지? 알아들었지? 이제 여기까지 하자."/>
 	<entry name="HollowWarlord/OfferPeace/HollowWarlord" value="휴! 납으로 된 거울을 때리는 기분이네. 좋아, 잠시 쉬면서... 다른 걸 파괴해 보자."/>
 	<entry name="HollowWarlord/OfferPeace/HonorableAristocrat" value="그래, 알았어. 스테이크를 먹을게. 감자튀김도 같이 나오는 거지?"/>
+	<entry name="HollowWarlord/OfferPeace/InfiniteCount" value="이봐, 할아범. 당신 슬슬 재미없어지네. 난 좀 더 강한 놈에게 내 주먹을 날려보고 싶거든. 알아들었어?"/>
+	<entry name="HollowWarlord/OfferPeace/PlatinumScion" value="돈밖에 모르는 비겁한 쓰레기 자식... 나중에 다시 와서 강냉이 털어 주마."/>
 	<entry name="HollowWarlord/OfferPeace/PracticalRomantic" value="내가 주인공으로 나오는 소설의 소재는 충분히 얻었나? '영광을 얻지 못하면 죽어라', '아킬레스의 분노를 노래하라' 같은 거. 시간 좀 줄까?"/>
 	<entry name="HollowWarlord/OfferPeace/RogueOperative" value="우리가 싸우고 있었던가? 흠, 전혀 몰랐네. 난 가서 다른 사람하고 싸워야겠어."/>
 	<entry name="HollowWarlord/OfferPeace/TwistedMother" value="네 조언을 받아들여야 할지도. 다른 길이나 찾아봐야지."/>
 	<entry name="HollowWarlord/OfferPeace/UntoldProphet" value="난 애한테 진 게 아니야! 난 그냥... 이런 젠장."/>
 	<entry name="HollowWarlord/OfferPeace/Zephon" value="삡. 삡. 뿝. 어쩌고저쩌고. 어쨌든 그만하자, 알았지?"/>
 	<entry name="HollowWarlord/OfferTradeAgreement" value="물건 교환이 더 원활해질 것 같아. 육포, 연료, 물이 필요해. 도로를 달리기 위해."/>
+	<entry name="HollowWarlord/Praise" value="바로 이거지. 덤벼! 넌 할 수 있어! 턱주가리를 날려버리라고!"/>
+	<entry name="HollowWarlord/Praise/AgelessHunger" value="끝없는 허기라고? 사람 죽일 핑계로 좋네. 나도 구경해도 될까?"/>
 	<entry name="HollowWarlord/Praise/FoundationsOfBlood" value="젠장. 네가 나보다 피를 더 많이 흘렸잖아. 별일도 아니라는 듯이. 네 동족도 마찬가지야!"/>
 	<entry name="HollowWarlord/Praise/HitAndRun" value="이야! 멋진 운전이네! 어떻게 한 거야? 나도 그 기술을 좀 배워야겠어..."/>
 	<entry name="HollowWarlord/PraiseWar" value="전쟁! 그래. 전쟁은 왜 좋은 걸까? 당연히 모든 것이 좋지!"/>
@@ -1113,6 +1190,7 @@
 	<entry name="HonorableAristocrat/AcceptCall/Friendly" value="아, mein kumpel! 함께 저녁 드시러 온 거면 좋겠네요!"/>
 	<entry name="HonorableAristocrat/AcceptCall/Hostile" value="용건만 말하시지요. 음식이 식고 있거든요."/>
 	<entry name="HonorableAristocrat/AcceptCall/Neutral" value="안녕하신지요. 반갑습니다!"/>
+	<entry name="HonorableAristocrat/AcceptCondemn" value="그런 말은 보통 새벽녘의 권총 결투로 이어지고는 하지요."/>
 	<entry name="HonorableAristocrat/AcceptGift/AcceptAmount" value="아주 좋아요! 당신의 관대하고 너그러운 마음에 건배를!"/>
 	<entry name="HonorableAristocrat/AcceptGift/AskAmount" value="아! 마침 지루하던 참이었는데, 어떤 별미를 가져오셨나요?"/>
 	<entry name="HonorableAristocrat/AcceptMapSharing" value="좋아요. 당신의 군대가 제 밭을 짓밟게 두는 것보다는 멀리서 영지를 조사하게 두는 편이 낫겠지요."/>
@@ -1121,6 +1199,7 @@
 	<entry name="HonorableAristocrat/AcceptPeace" value="전쟁은 늘어지고 백성들은 살이 마르고 있네요. 이제 서로 빵을 나누는 게 어떨지요."/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AcceptParty" value="네, 이제 식탁을 정리할 때로군요. 전쟁 지도는 치우고 만찬을 준비하지요!"/>
 	<entry name="HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty" value="제가 배부른 때를 잘 맞춰 오셨네요. 누구를 대신해 평화를 제안하실 건가요?"/>
+	<entry name="HonorableAristocrat/AcceptPraise" value="안목이 탁월한 자가 나 말고 또 있었군요."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreement" value="제 백성들은 부족한 게 없지만, 함께 번영할 수 있는데도 혼자 식사하는 건 어리석은 일이지요!"/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTermination" value="혼자 이겨내고 싶다고요? 나중에 찬장이 텅텅 비었다고 불평하기 없기에요."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3%와(과)의 거래는 시기만 하고, 톡 쏘는 맛이 부족했지요. 당신 말이 맞아요. 이제 다른 사업을 알아볼 차례로군요."/>
@@ -1139,6 +1218,7 @@
 	<entry name="HonorableAristocrat/AskForSupport/Chieftess" value="당신의 변덕이 오늘은 어디로 튈지 궁금하네요. 제가 도움을 청하면 관대하게 받아주실지, 아니면 평소처럼 욕이나 하실지?"/>
 	<entry name="HonorableAristocrat/AskForSupport/Zephon" value="기계 친구, 당신은 프로토콜과 규칙의 중요성을 누구보다 잘 이해하죠. 저는 빚을 갚을 의무가 있고, 이를 위해서는 도움이 필요해요."/>
 	<entry name="HonorableAristocrat/CancelAction" value="진심으로 사과드리지요! 설득보다는 양념 치는 데 더 집중하고 있었거든요."/>
+	<entry name="HonorableAristocrat/Condemn" value="일은 이런 식으로 하는 게 아닙니다. 고결하지도 명예롭지도 않고, 메뉴에도 없다고요. 경고하는데, 그만하시죠."/>
 	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="저는, 크흠. 음, 크흠. 저는 당신을 바라보며 간단한 저녁 식사조차 할 수 없어요. 당신은 그런 허무한 감각을 자극하죠!"/>
 	<entry name="HonorableAristocrat/Condemn/DataHack" value="이건 마음에 들지 않네요. 허락도 없이 시스템을 우회하는 건 명예롭지 못하답니다. 순전히 도둑질이죠. 용납할 수 없어요."/>
 	<entry name="HonorableAristocrat/Condemn/Independent" value="아니, 그러면 안 돼요. 세계는 합의하고 주고 받으며 얽힌 채 굴러가는데, 홀로 동떨어져 지내면 이런 사회의 토대를 흔들고, 남들 보기에도 좋지 않아요. 우리 공동체에 들어오세요. 이건 경고랍니다."/>
@@ -1156,6 +1236,8 @@
 	<entry name="HonorableAristocrat/DeclareWar/HeartlessArtificer" value="공예가여, 당신은 제 의무도, 거기에 얽혀 있는 책임의 네트워크도 공감하지 못하겠지요. 하지만 적어도 우리 사이에 전쟁이 일어나가 된 메커니즘은 이해할 줄로 알아요."/>
 	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="우정이라는 이름으로 거의 모든 것을 용서할 수 있어요. 하지만 그 카나페를 먹는 방식은 안 돼요. 더러운 장갑을 벗지도 않고 손을 접시에 들이밀다니! 모과랑 자우어크라우트를 한 입에 먹다니? 당신... 당신은 죽어 마땅해요!"/>
 	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="아, 제 관점을 이해하시는 분이로군요. 작위를 대거나 소개장을 보이라고 요구하지는 않을게요. 하지만 우리 중 하나만 존재해야 한다는 건 아시죠? 좋아요."/>
+	<entry name="HonorableAristocrat/DeclareWar/InfiniteCount" value="적어도 네오듀크는 날 직접 공격할 배짱이라도 있죠. 그게 고결한 자의 행동입니까, 각하? 제가 일을 쉽게 만들어 드리지요. 결투를 신청합니다. 곧 올 새벽에 군대를 이끌고 대결을 벌이죠."/>
+	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="존중과 우정의 체계에서 제 발로 벗어나는 자는 그 규칙으로 받는 혜택도 잃는 법입니다. 그래도 저는 규칙을 따르겠습니다. 이제 전쟁입니다."/>
 	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="친구, 전 당신의 감정적 유대가 현실적 충동을 넘어선 것 같아 두려워요. 명예가 당신을 전장으로 불러 이 잘못을 바로잡으라고 강요하는군요. 물론, 개인적인 이유도 없진 않아요."/>
 	<entry name="HonorableAristocrat/DeclareWar/RogueOperative" value="명예는 방랑자의 피난처라... 는 건 방랑자들이 하는 말이죠. 저는 그림자 속을 홀로 걷기보단 명예롭고 당당하게 동맹들을 탁자에 불러 앉히는 게 더 좋아요. 약간의 전쟁으로 당신의 태도를 바꿀 수 있었으면 좋겠네요..."/>
 	<entry name="HonorableAristocrat/DeclareWar/TwistedMother" value="부인, 사과드리죠. 당신의 음식은 정말 맛있었지만, 상황상 적대적인 행동을 취할 수밖에 없겠어요. 정말 유감이에요."/>
@@ -1198,14 +1280,19 @@
 	<entry name="HonorableAristocrat/OfferPeace/HeartlessArtificer" value="그 비정한 마음에 정으로 호소할 수도 없고, 아마 명예도 모르시는 것 같으니, 당신의 미적 감각에 호소해야겠네요. 창조가 아닌 파괴에 낭비되는 자원이 아깝지 않으신가요? 평화를 이루면 얼마나 더 큰 일을 해낼 수 있을지 상상해 봐요."/>
 	<entry name="HonorableAristocrat/OfferPeace/HollowWarlord" value="이웃님, 당신은 내 무역로를 방해하며 음식을 먹지 못하게 하고 있어요. 그리고 저는 향긋한 파파루를 꼭 먹어봐야 합니다. 이리 오셔서 저와 함께 나누고 이 어리석은 갈등은 잊도록 하죠."/>
 	<entry name="HonorableAristocrat/OfferPeace/HonorableAristocrat" value="아, 드디어 합리적인 대화 상대를 만났네요. 축하 만찬은 협정 전에 할까요, 후에 할까요?"/>
+	<entry name="HonorableAristocrat/OfferPeace/InfiniteCount" value="하인츠, 알자스산 고급 백포도주를 가져오너라! 건배, 진정한 귀족을 위하여! 술잔을 기울이며 이 조약을 고려해 보는 건 어떻습니까?"/>
+	<entry name="HonorableAristocrat/OfferPeace/PlatinumScion" value="다에드 씨, 와규 슬라이더 좀 드시겠습니까? 이 전쟁은 부질없는 일입니다. 네, 한 접시 다 가져가세요. 평화만 고려해 주신다면."/>
 	<entry name="HonorableAristocrat/OfferPeace/PracticalRomantic" value="이제 다툼은 멈추고 더 가까이 지내 봐요. 잘 숙성된 샤스 스플린 한 병을 내어 드리죠. 바이런이 가장 좋아하던 와인이랍니다. 잔을 들고 우정을, 아니면 적어도 평화를 위해 건배해요."/>
 	<entry name="HonorableAristocrat/OfferPeace/RogueOperative" value="으, 어떻게 그러고 사나요? 낡아 빠진 ICAR의 사내 식당에 먹을 게 있긴 한가요? 평화를 이루면 제가 신선한 재료와 셰프... 심지어 즉석 국수까지 대접해 드릴 수 있답니다. 제법 귀해서 몇 봉지 안 남긴 했지만요..."/>
 	<entry name="HonorableAristocrat/OfferPeace/TwistedMother" value="아... 그래요... 아가씨. 허리를 굽혀 당신의 손에 입을 맞추고 평화를 구걸하고 싶지만, 제 육신은 그럴 수 없습니다."/>
 	<entry name="HonorableAristocrat/OfferPeace/UntoldProphet" value="이 시대에도 우리가 공존할 수 없다는 사실에 저는 슬픕니다. 하늘 아래 모든 것을 지배하는 자가 귀족인지 교회인지 결정합니다, 평화롭게요."/>
 	<entry name="HonorableAristocrat/OfferPeace/Zephon" value="기계여, 오랜 혈통을 가진 귀족으로서 저는 당신에게 명령할 권리가 있어요. 제 백성들을 향한 모든 군사 작전을 중단하고 간수들을 물릴 것을 명합니다!"/>
 	<entry name="HonorableAristocrat/OfferTradeAgreement" value="우리 백성들은 부족한 게 없지만... 저는 이국적인 음식에 관심이 많지요. 서로 이득이 될 조약을 맺을 수 있을까요?"/>
+	<entry name="HonorableAristocrat/Praise" value="당신은 주인이고 우린 성찬에 넋을 잃은 손님에 불과합니다."/>
+	<entry name="HonorableAristocrat/Praise/AgelessHunger" value="안타까우면서도 대단하다는 생각이 드는군요, 친구여. 절대 만족을 모른다는 것은 한 입만 더 먹어도 배가 터질 듯한 기분 좋은 포만감도 모른다는 것 아닙니까? 다만 끝없이 먹어 치울 뿐이라니..."/>
 	<entry name="HonorableAristocrat/Praise/ArtificersPrecision" value="훌륭한 기술을 높이 사는 제게 이건 눈에 차고도 남는군요. 이런 섬세한 도구를 갖추고 있으니 추종자들이 그토록 감명을 받는 것이겠지요. 구경만 해도 즐겁네요."/>
 	<entry name="HonorableAristocrat/Praise/ResourceNetwork" value="희소성은 경제의 핵심이며, 사치품은 무엇보다도 희소성 높은 상품이지요. 오랫동안 잃어버린 줄 알았던 비밀과 장신구를 당당히 찾아내다니, 당신은 정말 대단하네요!"/>
+	<entry name="HonorableAristocrat/Praise/TheSureThing" value="아, 저도 마리 공작부인과 편을 먹고 컨트랙트 브리지를 할 때는 거의 무적이었죠. 하지만 승리가 보장된다니! 대단하기는 해도, 그러면 게임이 무슨 재미겠습니까?"/>
 	<entry name="HonorableAristocrat/PraiseWar" value="격식 차려 쓴 공식 선전 포고문을 고위 관료의 손에 맡겨 잘 전달하셨겠죠? 절차만 잘 지키셨다면 저도 이 전쟁을 나쁘게 보지 않아요."/>
 	<entry name="HonorableAristocrat/RejectAlliance" value="당신은 저를 잘 대해 주셨지만, 당신의 군대는 걱정스러울 정도로 기사도가 부족하네요... 아직은 우리 군대를 그 옆에 세워 명성을 더럽히고 싶지 않아요."/>
 	<entry name="HonorableAristocrat/RejectAllianceTerminationWithThirdParty/RejectOutright" value="맙소사... 이런 명분 없는 배신으로 제 명예를 더럽히려 하셨군요. 명예는 곧 제 목숨과도 같은데 말이죠."/>
@@ -1232,6 +1319,277 @@
 	<entry name="HonorableAristocrat/RejectWarAgainstThirdParty/RejectParty" value="저는 오직 정의로운 전쟁에만 참전하기로 명예를 걸고 맹세했지요... 그런데 이 전쟁은 정의와 거리가 멀군요."/>
 	<entry name="HonorableAristocrat/TerminateAlliance" value="저는 원대한 꿈을 가졌답니다... 별보다 더 밝게 빛나는 힘과 명예를 가진 무적의 연합을 만드는 것이죠. 그 꿈을 이루려면 레시피를 조금 손봐야겠어요. 먼저 당신을 재료에서 빼야겠네요."/>
 	<entry name="HonorableAristocrat/TerminateTradeAgreement" value="그 많은 채소 중에... 왜 하필 브로콜리를 주셨나요? 더 이상 못 참겠네요!! 이제 당신을 후원할 일은 없을 겁니다!!"/>
+	<entry name="InfiniteCount/AcceptActionCancel" value="마음대로 하게나. 자네 시간만 낭비할 뿐일세."/>
+	<entry name="InfiniteCount/AcceptAlliance" value="그래야 하겠지, 안 그런가?"/>
+	<entry name="InfiniteCount/AcceptAllianceTermination" value="결국 이렇게 되는군. 그래도 우리의 우정은 이런 사소한 시련쯤이야 견뎌내리라 믿네."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="오, %3%이(가) 실망하겠군. 하지만, 대처하는 법을 배우면 그 친구에게도 득이 될 걸세."/>
+	<entry name="InfiniteCount/AcceptAllianceTerminationWithThirdParty/AskParty" value="자네가 무슨 말을 할지 알고 있지만, 물어는 봐야겠네. 그러지 않으면 두통에 시달릴 테니까."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AcceptParty" value="아, 물론일세! 내 기억력은 완벽과는 거리가 멀고, 시간을 넘나들다 보니 가장 중요한 것마저 잊고는 한다네..."/>
+	<entry name="InfiniteCount/AcceptAllianceWithThirdParty/AskParty" value="시간에 구속된 자들은 강요된 우정을 항상 순순히 받아들이지는 않는군. 내가 누구에게 부담을 지우는지 이따금 잊고는 한다네."/>
+	<entry name="InfiniteCount/AcceptCall/Friendly" value="무한 속에서 길을 잃을지라도 자네의 얼굴은 항상 반가울 걸세."/>
+	<entry name="InfiniteCount/AcceptCall/Hostile" value="자네는 끈질긴 해충 같은 녀석이로군."/>
+	<entry name="InfiniteCount/AcceptCall/Neutral" value="다시 한번 만나는군."/>
+	<entry name="InfiniteCount/AcceptCondemn" value="추측건대, 자네의 제한된 관점으로는 내가 잘못한 것만 같겠지."/>
+	<entry name="InfiniteCount/AcceptGift/AcceptAmount" value="딱 적절한 양이군. 내 음울하고 극단적인 목적에 딱 맞아... 농담일세, 농담."/>
+	<entry name="InfiniteCount/AcceptGift/AskAmount" value="이 시간대에서는 보통 선물을 받기 전에 먼저 확인한다고 알고 있네."/>
+	<entry name="InfiniteCount/AcceptMapSharing" value="이번에는 내 시간적 위치가 어디인지 알면 좋겠군."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AcceptAmount" value="자네는 모든 사회적 기대를 피해 가는 법을 정확히 알고 있군. 아주 좋아."/>
+	<entry name="InfiniteCount/AcceptPaymentForDeal/AskAmount" value="이 늙은이 부탁 좀 들어 주게. 자네는 어느 정도면 너그럽다고 여기겠나?"/>
+	<entry name="InfiniteCount/AcceptPeace" value="평화는 단순한 말이 아닐세. 평화는 태도지. 자네가 변할 준비가 됐다면 좋겠군."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AcceptParty" value="모두가 평화를 맞을 준비, 미소와 인고를 나눌 준비가 된 것은 아닐세. 다만 나는 노력하겠네."/>
+	<entry name="InfiniteCount/AcceptPeaceWithThirdParty/AskParty" value="적어도 대화를 해볼 수는 있다네. 하지만 갈등이 계속 남으리라는 것은 이해하겠지. 그리고 나의 존재 자체가 갈등을 일으킨다는 것도."/>
+	<entry name="InfiniteCount/AcceptPraise" value="이 얽히고설킨 길은 걷기가 쉽지 않아. 그건 사실일세."/>
+	<entry name="InfiniteCount/AcceptTradeAgreement" value="나로서는 더 나은 다른 시간에서 삶의 양분을 얻는다네. 그러나 나와 함께 살아가는 이들은... 소생이 필요해."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTermination" value="내가 그렇게 기력을 빨아먹었나? 친구가 물러서는 것을 보니 괴롭군."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="가엾은 %3%. 이 배신을 절대 이해하지 못할 테지. 하지만 미래의 뒤엉킨 길을 기억하는 것은... 내 능력 밖일세."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="누구? 누가 고통받아야 한다고?"/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AcceptParty" value="%3%? 이렇게 놀라울 수가. 잘 알았네."/>
+	<entry name="InfiniteCount/AcceptTradeAgreementWithThirdParty/AskParty" value="가물가물해서 그러는데, 내가 누구를 상대하고 있었지? 이게 같은 시간선이라고 가정한다면 말이지만..."/>
+	<entry name="InfiniteCount/AcceptTribute/AcceptAmount" value="늘 그래 왔듯이, 난 이 방식대로 처리해야만 하네. 다만 협박이라니 가당찮군."/>
+	<entry name="InfiniteCount/AcceptTribute/AskAmount" value="양을 알려줘야지. 이미 내가 알고 있다고 해도 말일세. 원래 그렇게 돌아가는 것 아닌가."/>
+	<entry name="InfiniteCount/AcceptTroopWithdrawal" value="저들을 흩뜨려야 한다니 아쉽군... 이제 막 자리 잡았는데."/>
+	<entry name="InfiniteCount/AcceptWar" value="선전포고는 필요 없었네. 다른 관계와는 달리, 전쟁은 한 사람만 원하면 시작되니 말일세."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AcceptParty" value="%3%? 지금 이 행동이 얼마나 현명한 것으로 판명 날지 자네로서는 모르겠지. 역사는 이를 높이 평가할 걸세."/>
+	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AskParty" value="우린 지금 역사를 만들고 있다네, 친구여. 모두가 알다시피, 역사란 대부분 힘 있는 자가 다른 자를 죽음으로 내모는 이야기지... 그게 누구일까?"/>
+	<entry name="InfiniteCount/AdmitDefeat" value="마침내 끝이다! 반복도, 터널도, 혼란도 끝이다. 시간을 초월한 목소리의 공포, 그 속에서 길을 잃은 신들까지도. 고통, 그리고 가장 소중하고 가까운 이들의 죽음마저도 끝이 났구나!<br/><br/>아, 그토록 바라던 종말이여!"/>
+	<entry name="InfiniteCount/AskForProposals" value="이건 끝이 없군. 하지만, 나는 항상 자네 말을 듣겠네."/>
+	<entry name="InfiniteCount/AskForSupport/Anchorite" value="자네와 나는 각기 다른 방식으로 시간의 실타래에 얽혀 있지. 자네의 세계에서 결정론은 어떤 모습인가? 나를 돕는 것이 선택지이기는 한가?"/>
+	<entry name="InfiniteCount/AskForSupport/Chieftess" value="아, 그대는... 참으로 대단하군! 정말 대단해. 나 같은 늙은 야수조차 가르랑거리게 만들다니. 다만 그러려면 일단 내가 살아야 한다네, 아가씨."/>
+	<entry name="InfiniteCount/AskForSupport/Zephon" value="자네는 패턴 학습이 되어 있군, 친구. 적절한 프롬프트가 필요할지도... '우리는 배고프고 춥습니다. 지금 바로 후원 부탁드립니다.'"/>
+	<entry name="InfiniteCount/CancelAction" value="용서하게나... 잠깐 다른 시간, 다른 장소에 가 있었다네. 물론 더 좋은 곳이었지."/>
+	<entry name="InfiniteCount/Condemn" value="내가 어느 시간대에 있든, 자네는 한결같군. 그 치기에 질렸다네."/>
+	<entry name="InfiniteCount/Condemn/Abhorrent" value="피렌체의 미술관과 저택에는 비너스가 참으로 많지. 밀로스, 카푸아, 크니도스... 하지만 자네와 같은 형상을 찾으려면 보슈, 고야, 푸셀리를 들춰 봐야 할 걸세. 참고로 내 취향은 아니라네."/>
+	<entry name="InfiniteCount/Condemn/ThereIsHope" value="그럴싸한 연설이군, 시인 친구. 그러나, 나는 자네의 과거를 보았고, 무슨 짓을 저질렀는지도 안다네. 자네 손에 묻은 피 앞에서 자네의 말은 먼지에 불과하지."/>
+	<entry name="InfiniteCount/CondemnAlliance" value="어리석기는. 이건 잘될 리 없다네. %3%와(과)는 안 돼. 하지만 말 그대로 모든 것을 이미 본 자의 말을 뭐 하러 듣겠나..."/>
+	<entry name="InfiniteCount/CondemnCityDestruction" value="아, 기억나는군. 헤아릴 수 없는 죽음, 연기가 자욱한 폐허, 죄책감이라고는 없던 자네의 모습이. 인류가 멸종을 향해 한 발짝 더 나아가는군. 이게 자랑스럽나, 친구여?"/>
+	<entry name="InfiniteCount/CondemnInterferenceAttempt" value="내 일에 신경 쓸 것 없네. 그들의 길은 정해져 있으니."/>
+	<entry name="InfiniteCount/CondemnTradeAgreement" value="누구와 빵을 나누는지는 자네를 비추는 거울이라네, 친구. 부디 그걸 잊지 말게나."/>
+	<entry name="InfiniteCount/CondemnWar" value="자네가 살인과 아수라장을, 그 뭐냐, 효과적인 문제 해결 기술로 여긴다니 충격적이군. 정말 충격적이야."/>
+	<entry name="InfiniteCount/DeclareWar/Anchorite" value="설령 선택권이 있다 하더라도 이렇게 하지 않으면 너무 많은 문제가 발생할 걸세. 현재 부정사를 끝없이 사용하는 걸 보니, 자네는 날 이해하는 것 같군..."/>
+	<entry name="InfiniteCount/DeclareWar/Chieftess" value="부인, 포도주 시음회에서 그대는 매력 그 자체였소. 그대가 저지른 학살도 내 용서하지. 그러나 내 개인 미술관에 있는 성모자상에 저지른 짓은... 예술이 용납하지 않을 거요."/>
+	<entry name="InfiniteCount/DeclareWar/EmulatedMind" value="우리 같은 두 존재가 어떻게 이런 상황에 처하게 되었을까? 운명의 철로가 어떻게 우리의 갈등으로 이어졌을까? 감히 이해할 수 없군. 그저 철로를 따라가며 절망할 수밖에."/>
+	<entry name="InfiniteCount/DeclareWar/FallenSoldier" value="고결한 전사여. 이제 자네가 새로 피 흘릴 때가 왔네. 투기장이 자네의 기량을 노래할 순간이."/>
+	<entry name="InfiniteCount/DeclareWar/FurtiveTribunal" value="미안하군, 자네들을 운명의 여신으로 착각했네. 나와 잘 아는 사이거든. 비록 클로토는 날 얽어매고 아트로포스는 아직 날 외면하지만 말일세. 이 전쟁은 자네들의 씨실에 걸림돌이 되겠군..."/>
+	<entry name="InfiniteCount/DeclareWar/HeartlessArtificer" value="인생을 낭비하는 것만큼 부끄러운 일은 없지. 자네가 완벽을 추구하는 과정에서 기쁨을 알았더라면 이 지경에 이르지는 않았을 텐데 말일세. 하지만 가학성마저도 없는 고통이라니... 혐오스럽군."/>
+	<entry name="InfiniteCount/DeclareWar/HollowWarlord" value="왜 누그러뜨리려는 건가? 이 순간을 갈망해 왔잖나."/>
+	<entry name="InfiniteCount/DeclareWar/HonorableAristocrat" value="이로써 %2%와(과) %1%, 그리고 그 예속된 자들 간의 전쟁을 선포하노라. 자, 이렇게 적절한 격식을 갖춰야 자네도 나도 좋을 것 같았네."/>
+	<entry name="InfiniteCount/DeclareWar/InfiniteCount" value="아, 나 자신이라. 이 순간이 기억나는 것 같군. 이거 재미있구먼. 내가 이렇게... 늙었던가?"/>
+	<entry name="InfiniteCount/DeclareWar/PlatinumScion" value="이보게나, 젊은이. 나조차도 넘지 않는 선이 있다네. 그런데 자네는 제멋에 취해 그 선을 경솔히도 짓밟는군. 간단히 말해, 자네는 나와 내 사람들을 모욕했네. 그 결과는 전쟁일세."/>
+	<entry name="InfiniteCount/DeclareWar/PracticalRomantic" value="우린 서로를 아주 잘 알지. 웅가레티의 시에서 위안을 얻기를 바라네. 도덕성에는 다소 의구심이 드는 자다만."/>
+	<entry name="InfiniteCount/DeclareWar/RogueOperative" value="위성에서 내려다보는 풍경이라. 내가 미래를 알듯 현재를 아는 기분은 어떤가? 조각나고 파편이 되어 온전히 파악할 수 없는 지경이겠지? 흥미롭군. 직접 가서 확인해 봐야겠네."/>
+	<entry name="InfiniteCount/DeclareWar/TwistedMother" value="전쟁이 닥칠 거라네, 딸이여. 내 병력을 최대한 억제하겠지만, 최선을 다해 가족을 보호하기 바라네. 항복하고 평화를 찾게나."/>
+	<entry name="InfiniteCount/DeclareWar/UntoldProphet" value="인생이라는 여정에서 나와 다른 끝자락에 있는 아이여. 방식을 바꾸거라. 지금 이대로는 내 나이까지 살지 못할 게다. 내 사람들을 보내 네 교육을 도우마."/>
+	<entry name="InfiniteCount/DeclareWar/Zephon" value="자네는 이미 알고 있겠지, 기계여. 자네 같은 존재에게 이런 격식이 무슨 소용이겠나. 허나 의례가, 통제가 없다면 나는 무엇이 되겠나?"/>
+	<entry name="InfiniteCount/DemandAllianceTerminationWithThirdParty" value="자네가 묶은 이 매듭은 버티지 못할 걸세. 당장 자르게!"/>
+	<entry name="InfiniteCount/DemandAllianceWithThirdParty" value="내 기억으로 미래에 자네는 혼자가 아니었다네. 분명 다른 누군가가 곁에 있었는데..."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal" value="자네 앞에 무릎 꿇은 내 관절이 삐걱거리는 소리 안 들리나? 물론 농담일세. 난 누구에게도 굽히지 않으니. 허나 장려책은 있으면 좋겠지."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandHighAmount" value="지나간 세월의 징표를 내게 주게나. 충만했던 삶의 징표도 좋고."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandLowAmount" value="상호 애정의 상징일 뿐일세."/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMaxAmount" value="자네 자금 상황은 속속들이 알고 있네. 그 돈은 내 오랜 친구이니, 재회하게 해주는 게 어떤가?"/>
+	<entry name="InfiniteCount/DemandPaymentForDeal/DemandMediumAmount" value="다 달라는 게 아니고, 일부만 있으면 되네. 자네를 몽땅 털 생각은 없으니 말일세."/>
+	<entry name="InfiniteCount/DemandPeaceWithThirdParty" value="자넨 시칠리아 사람 같군. 세상의 모든 미묘한 기술을 통달했다고 여기겠지. 그러나 이런 행보는 현명하지 않다네."/>
+	<entry name="InfiniteCount/DemandTradeAgreementTerminationWithThirdParty" value="친구여, 자네가 그 모든 거래로 얻을 것은 굴욕뿐일세. 나라면 받아들이지 않겠네..."/>
+	<entry name="InfiniteCount/DemandTradeAgreementWithThirdParty" value="바다가 솟아오를 때는... 빵을 함께 나눌 사람을 두는 것이 현명하겠지."/>
+	<entry name="InfiniteCount/DemandTribute" value="이건 내가 알지. 자네는 이 요구에 대한 답을 선택할 수 없음을 말일세. 내가 이미 보았으니."/>
+	<entry name="InfiniteCount/DemandTribute/DemandHighAmount" value="내가 미리 아는 바로는, 이 정도면 될 거라네. 자네가 완전히 빈털터리가 되지는 않을 걸세."/>
+	<entry name="InfiniteCount/DemandTribute/DemandLowAmount" value="푼돈일세. 내 설계에 대한 믿음의 증표일 뿐이지."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMaxAmount" value="한 푼도 남겨 두지 말게나. 남긴다면 나도 알고, 자네도 알 테니."/>
+	<entry name="InfiniteCount/DemandTribute/DemandMediumAmount" value="자네가 내 입장에서 공평하다고 생각할 만큼 주게나. 오, 존 롤스여. 그대의 독침은 어디 있는가?"/>
+	<entry name="InfiniteCount/DemandTroopWithdrawal" value="이런 이야기가 어떻게 끝나는지 알고 있다네. 궁정 쿠데타, 사람이 창밖으로 내던져지고, 가끔 새로운 왕이 즉위하거나 교황이 하나 더 나타나고는 하지. 자네 사람들은 집에 머무르는 게 더 편하지 않겠나?"/>
+	<entry name="InfiniteCount/DemandWarAgainstThirdParty" value="아버지는 늘 '자기 싸움은 자기가 하라'고 말씀하셨지. 그분의 뭉개진 코와 일그러진 귀를 보면서 난 정반대의 교훈을 얻었다네."/>
+	<entry name="InfiniteCount/EndCall/Friendly" value="동지여, 언제나 그렇듯 즐거웠네."/>
+	<entry name="InfiniteCount/EndCall/Hostile" value="스피가토! 이탈리아 말로 '다음에 또 오게나'라는 뜻일세."/>
+	<entry name="InfiniteCount/EndCall/Neutral" value="필연적인 작별이로군."/>
+	<entry name="InfiniteCount/FirstContact" value="다시 한번, 처음으로 만나는군.<br/><br/>자네의 젊디젊은 얼굴을 보니 더없이 기쁘다네. 늙고, 지치고, 흥분한 모습은 봤어도... 젊은 모습은 처음이거든.<br/><br/>하! 이 늙은이의 넋두리를 용서하게나. 나는... %1%일세. 인류의 마지막 시대인 지금, 나는 다소... 붕 뜬 기분이라네. 시공간을 표류하고 있지. 엄청난 이득이 있기는 하다만... 이제 나와 내기하려 들 자는 아무도 없겠지.<br/><br/>우린 다시 만날 걸세. 나는 알지. 우리의 사소한 전쟁 전, 또는 그 후에. 그리고... 종말이 오기 전에."/>
+	<entry name="InfiniteCount/OfferAlliance" value="자네, 춤출 줄 아는가? 두 사람이 발을 맞춰 움직이면 타란텔라가 핏줄을 타고 흐르며 모든 독기 어린 의심을 몰아낸다네. 내가 그런 상대가 되어 주지..."/>
+	<entry name="InfiniteCount/OfferGift" value="자네 심정 이해하네. 진심일세. 내 집사가 자신 있게 말하더군. 자네가... 만족할 만한 선물을 준비했다고."/>
+	<entry name="InfiniteCount/OfferGift/OfferHighAmount" value="조금은 남겨둬야 했다네. 나도 버티기는 해야 하지 않나."/>
+	<entry name="InfiniteCount/OfferGift/OfferLowAmount" value="지금으로서는 이것을 징표로 삼지. 우리 우정이 열매를 맺을 때 찾아올 무언가의 징표 말일세."/>
+	<entry name="InfiniteCount/OfferGift/OfferMaxAmount" value="이러고 나면 내 찬장은 텅텅 빌 걸세."/>
+	<entry name="InfiniteCount/OfferGift/OfferMediumAmount" value="제발 부탁이니 다른 이에게 주지는 말게나. 이 선물은 자네만을 위한 걸세."/>
+	<entry name="InfiniteCount/OfferMapSharing" value="그 지도는 영토가 아닐세. 특정한 목적으로 특정한 순간의 특정한 정보를 담고 있을 뿐이지. 허나 함께 나누면 우리의 생각은 서로 더 가까워진다네."/>
+	<entry name="InfiniteCount/OfferPeace/Anchorite" value="그리고 한순간의 우호가 평화로 이어질지도 모르지. 잠든다는 건 어쩌면 꿈을 꾸는 것일지도."/>
+	<entry name="InfiniteCount/OfferPeace/Chieftess" value="부인, 내 비록 그대처럼 피를 갈망하지만 그대만큼 끝없이 피를 즐기지는 않소. 잠시 쉬어 가면 기력이 회복될 듯하오."/>
+	<entry name="InfiniteCount/OfferPeace/EmulatedMind" value="부인, 그대가 상아탑으로 물러난다면 나도 내 묘실로 돌아가지요..."/>
+	<entry name="InfiniteCount/OfferPeace/FallenSoldier" value="고결한 기사여, 전쟁이 자네 본능인 건 안다네. 허나 이 대결을 나중으로 미루면 어떻겠나?"/>
+	<entry name="InfiniteCount/OfferPeace/FurtiveTribunal" value="난 척박한 황무지에서 들려오는 부추김에 전장으로 돌진하는 맥베스가 아닐세. 그리고 자네들도 마녀가 아니지. 우린 더 나은 존재가 될 수 있네."/>
+	<entry name="InfiniteCount/OfferPeace/HeartlessArtificer" value="이가 날카로운 자여, 자네의 인간성에 호소하는 것은 헛되겠지. 그러나 현실적으로 볼 때, 싸울 때가 있고 재건할 때가 있는 법…"/>
+	<entry name="InfiniteCount/OfferPeace/HollowWarlord" value="피에 젖은 아이여, 더 귀한 것을 얻을 곳은 많단다. 이 늙은이는 이제 전쟁이 지겹구나..."/>
+	<entry name="InfiniteCount/OfferPeace/HonorableAristocrat" value="내 성의 상석에 만찬이 차려져 있지만... 적을 초대하지는 않을 걸세. 자네가 나와의 관계를 바꿀 의향이 있다면 모를까."/>
+	<entry name="InfiniteCount/OfferPeace/InfiniteCount" value="그때의 이 기로를 기억하나? 하하, 놈들이 우리를 묻어버리려 했던 그곳 말고. 우리가 해야 했던 선택을 기억하느냐는 말일세."/>
+	<entry name="InfiniteCount/OfferPeace/PlatinumScion" value="난 자네 종조부와 알고 지냈네. 아이일 때와 노인일 때, 그리고 그 사이의 모습까지도. 그자는 우리가 대립하는 걸 원하지 않았을 걸세. 윤리적인 문제를 말하는 게 아니라, 아무런 이익도 없기 때문이지..."/>
+	<entry name="InfiniteCount/OfferPeace/PracticalRomantic" value="난 셸리와 알고 지냈네. 재능이 넘치는 메리 셸리 말일세. 강인하고, 세상에 두려움이라고는 없었지. 전쟁보다 그 아이에 대해 이야기하는 건 어떤가?"/>
+	<entry name="InfiniteCount/OfferPeace/RogueOperative" value="자네와 대화를 나누고 싶군. 나와 협상한다면 세상의 많은 비밀을 이야기해 주겠네."/>
+	<entry name="InfiniteCount/OfferPeace/TwistedMother" value="내 친구 폴리도리는 이렇게 말했네. 우리 저주받은 자들은 '지옥의 방문'을 오직 생전에 가장 사랑한 존재들, 즉 혈연과 애정으로 맺어진 이들에게만 한정한다고. 그렇다면 평화는 어떨까?"/>
+	<entry name="InfiniteCount/OfferPeace/UntoldProphet" value="자네의 어린 얼굴에 어린 노쇠한 눈빛을 보니 유년기를 잃어버렸을 것이 염려되는군. 그러나 함부로 불쌍히 여기지는 않겠네. 다만 평화를 간청하지."/>
+	<entry name="InfiniteCount/OfferPeace/Zephon" value="내 감언이설이 자네의 중국어 방 어딘가의 스위치를 켠다면... 우리 관계가 더 우호적인 방향으로 나아갈 수 있을까?"/>
+	<entry name="InfiniteCount/OfferTradeAgreement" value="자네와 나눌 비밀이 있네... 세상 그 아무도 모르는 비밀일세. 다만 합당한 대가는 필요하다네."/>
+	<entry name="InfiniteCount/Praise" value="하. 예상은 했다만, 그래도 기쁨은 여전히 날 놀라게 하는군."/>
+	<entry name="InfiniteCount/Praise/Honorbound" value="아, 우정의 유대여. 나의 저주로 인해 진정한 친밀함은 이룰 수 없더라도, 그 형식에 대한 자네의 헌신은 부럽군."/>
+	<entry name="InfiniteCount/Praise/Trapped" value="힘들지, 그렇지 않나? 나는 내가 인간이라고 생각하지만, 목소리에 사로잡혔던 그때의 나와 같은 사람인지는 의문이 든다네. 인간이 되려는 자네의 의지는... 경탄할 만하군."/>
+	<entry name="InfiniteCount/Praise/WeWhoAreAboutToDie" value="고백하건대, 자네 방송을 들으며 본능적인 전율이 일었고 평소에는 간신히 억누르던 허기가 채워졌네. 음, 마치 프로레슬링처럼 말일세."/>
+	<entry name="InfiniteCount/PraiseWar" value="메리는 “사랑을 불러일으킬 수 없다면 공포의 근원이 될 테다!”라고 썼지. 자네는 그 말대로 살고 있군. 다만 메리의 창조물보다는 덜 끔찍하기를 바라네."/>
+	<entry name="InfiniteCount/RejectAlliance" value="그럴 수 없네. 원치 않아서가 아닐세. 더 깊은 평화는 언제나 추구해야 할 가치이지. 그저, 그렇게 했을 때 어떤 일이 벌어지는지 기억할 뿐일세."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectOutright" value="“삶이 비록 끝없는 고통의 연속일지라도, 나에게는 소중하며 그것을 지키겠다.” 친애하는 메리는 그렇게 말했지."/>
+	<entry name="InfiniteCount/RejectAllianceTerminationWithThirdParty/RejectParty" value="그럴 수는 없네! %3%은(는) 나를 마지막까지 믿을 진정한 동맹으로 여긴다네! 그 믿음을 배신해야 한다면, 차라리 한밤중에 우리 둘만 남았을 때 그리하겠네."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectOutright" value="내게는 벗이 적은 터라, 새로운 벗을 거절하려니 마음이 무척 아프군. 허나 그리할 수밖에 없네. 그 이유도 설명할 수 없고."/>
+	<entry name="InfiniteCount/RejectAllianceWithThirdParty/RejectParty" value="그들의 손을 잡고야 싶다만... 내 저주가 너무도 쉽게 퍼져 나갈까 두렵다네. 실제로 그런 일이 있었으니 말일세."/>
+	<entry name="InfiniteCount/RejectGift/RejectAmount" value="고작 그 정도만 줄 수 있다면, 사실상 무엇도 내줄 여유가 없을 테지. 됐네, 가져가서 자네나 쓰게."/>
+	<entry name="InfiniteCount/RejectGift/RejectOutright" value="자네의 재산으로 내가 뭘 하겠나? 내 긴 여정에 가져갈 수도 없고 말일세..."/>
+	<entry name="InfiniteCount/RejectMapSharing" value="난 이 세상을 속속들이 알고 있네. 아무리 다정하게 제안해도 자네의 길잡이는 필요 없다네."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectAmount" value="내가 젊었을 적에는 물건을 사고팔 때 상대방을 모욕하지 않았다네."/>
+	<entry name="InfiniteCount/RejectPaymentForDeal/RejectOutright" value="그걸 대가를 치르고 사라고? 그건 도가 지나치잖나. 아니, 실수는 이미 저질렀네. 사과하지 말게나."/>
+	<entry name="InfiniteCount/RejectPeace" value="“내 안에는 당신이 좀처럼 상상할 수 없을 사랑도, 믿을 수조차 없을 만큼의 분노도 있소. 하나를 충족할 수 없다면 다른 하나에 탐닉할 거요.” 내가 그런 메리를 순진하다고 생각했다니!"/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectOutright" value="그럴 수 없네! 내 존재는 사람들의 생명력을 빨아들이니... 내 영원한 허기로부터 그들을 보호하려면 희생이 필요하다네."/>
+	<entry name="InfiniteCount/RejectPeaceWithThirdParty/RejectParty" value="뒤엉킨 시간대는 거의 기억나지 않지만, %3%와(과)의 이 전쟁은 누군가 살아남으려면 피할 수 없는 것이었네."/>
+	<entry name="InfiniteCount/RejectTradeAgreement" value="자네에게는 내가 내놓는 하찮은 물건들은 필요 없을 걸세. 아니, 거절일세. 다른 곳에서 도움을 구하게나."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="친구여, 세계 경제에 대한 자네의 걱정은 진심으로 존중하네만... 이건 내 일일세."/>
+	<entry name="InfiniteCount/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="안 돼, 가엾은 %3%은(는) 내가 없으면 순식간에 시들어 버릴 걸세. 닥쳐올 미래에서 우리가 살아남으려면 인류는 힘을 합쳐야 하네."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectOutright" value="가식이 훤히 들여다보이는군. 그 얘기는 그만하지."/>
+	<entry name="InfiniteCount/RejectTradeAgreementWithThirdParty/RejectParty" value="그들이 나에게 뭘 내놓을 수 있나? 바위라도 줄 셈인가? 차라리 돌에서 피를 짜내는 게 빠르겠군."/>
+	<entry name="InfiniteCount/RejectTribute/RejectAmount" value="자네 어머니에게 그런 선물을 줄 수 있겠나? 아니라고? 그런데 왜 내게는 주려는 건가?"/>
+	<entry name="InfiniteCount/RejectTribute/RejectOutright" value="이걸 받아들이기에는 내 자존심이 너무 크고, 변하기에는 내 나이가 너무 많다네."/>
+	<entry name="InfiniteCount/RejectTroopWithdrawal" value="자네 착각하고 있군, 내 오랜 친구여. 자네가 난처해질 테니 그 이유는 자세히 말하지 않겠네."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectOutright" value="그건 이웃다운 행동이 아니겠지. 자네가 내 입장이라면 좋은 관계를 유지하는 게 이득일세."/>
+	<entry name="InfiniteCount/RejectWarAgainstThirdParty/RejectParty" value="글쎄, 거절하지. 난 %3%이(가) 내 분노를 받기에 합당한 대상이라 생각지 않네. 자네 생각이 그렇다면 직접 싸우지 그러나."/>
+	<entry name="InfiniteCount/TerminateAlliance" value="양심상 더는 이런 연극을 이어갈 수 없네. 인류의 통합에서 등을 돌림으로써 세상의 적의를 사게 되겠지만, 어쩔 수 없겠지."/>
+	<entry name="InfiniteCount/TerminateTradeAgreement" value="안타깝지만, 내 사람들과 그들의 필요를 살펴야 하네."/>
+	<entry name="PlatinumScion/AcceptActionCancel" value="시간은 금이야, 친구."/>
+	<entry name="PlatinumScion/AcceptAlliance" value="우리 쪽에서 계약서를 작성하지."/>
+	<entry name="PlatinumScion/AcceptAllianceTermination" value="빠져나갈 수 있는 조항이 있는지 확인해 봐야겠군."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="불쌍하군. %3%은(는) 우리가 합병할 것으로 생각했을 텐데. 사업은 나약한 마음으로는 하기 어렵지."/>
+	<entry name="PlatinumScion/AcceptAllianceTerminationWithThirdParty/AskParty" value="협상에 들어가려면 일단 상대가 누군지 알아야지."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AcceptParty" value="흠. 우리 둘 다 전문화하면 이 방식이 효과가 있겠어. 좋아, 받아들이지."/>
+	<entry name="PlatinumScion/AcceptAllianceWithThirdParty/AskParty" value="괜찮은 동맹이어야 할 거야. 시간 낭비는 사절이거든."/>
+	<entry name="PlatinumScion/AcceptCall/Friendly" value="아, 나의 믿음직한 동업자로군. 어서 와!"/>
+	<entry name="PlatinumScion/AcceptCall/Hostile" value="우리끼리 할 말은 없는 것 같은데."/>
+	<entry name="PlatinumScion/AcceptCall/Neutral" value="용건만 간단히 말해."/>
+	<entry name="PlatinumScion/AcceptCondemn" value="그래서 뭐? 내가 신경이라도 쓸 것 같아?"/>
+	<entry name="PlatinumScion/AcceptGift/AcceptAmount" value="이거면 됐어."/>
+	<entry name="PlatinumScion/AcceptGift/AskAmount" value="시간 낭비가 아니어야 할 거야."/>
+	<entry name="PlatinumScion/AcceptMapSharing" value="목표 시장... 그리고, 솔직히 말하자면 목표에 대해 알게 되어 좋군."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AcceptAmount" value="이거면 비용은 충당되겠어."/>
+	<entry name="PlatinumScion/AcceptPaymentForDeal/AskAmount" value="보통 양보다는 조건을 먼저 협상하는데, 이번만은 예외로 하겠어. 비용은 어느 정도지?"/>
+	<entry name="PlatinumScion/AcceptPeace" value="좋아. 난 평화로울 때든 전쟁 중이든 이익을 낼 수 있어. 어느 쪽이든 총은 팔리거든."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="좋아. %3% 때문에 진짜 사업에 집중할 수 없었거든."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AskParty" value="글쎄. 우리 제품은 전쟁 중에도 잘 나가지. 우리 사람들은 좀 다르다만. 그런데 누구하고?"/>
+	<entry name="PlatinumScion/AcceptPraise" value="증시를 보면 내가 얼마나 대단한지 알 수 있지만, 아첨꾼이 한 명 더 있어서 나쁠 건 없지."/>
+	<entry name="PlatinumScion/AcceptTradeAgreement" value="지금부터 우리 둘 다 이익을 볼 거야. 당신 오늘 잘 선택한 거라고."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTermination" value="멍청한 자식. 다에드와의 거래에서 발을 뺀 걸 땅을 치고 후회할 거다."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3%을(를) 계속 굶주리게 한다라, 좋은 생각이야. 그러면 더 괜찮은 조건을 가지고 돌아오겠지."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="이제야 말이 통하는군. 상대는 누구야?"/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AcceptParty" value="새로운 계획을 시도하려던 참인데 좋은 표적이 필요했거든. 놈들이면 딱 좋아."/>
+	<entry name="PlatinumScion/AcceptTradeAgreementWithThirdParty/AskParty" value="글쎄, 난 동업자를 신중하게 고르거든. 일단... 돈이 좀 있어야 하는데. 그쪽은 돈 많아?"/>
+	<entry name="PlatinumScion/AcceptTribute/AcceptAmount" value="이번에는 우리가 처리하지. 하지만 다시는 구걸하러 오지 마."/>
+	<entry name="PlatinumScion/AcceptTribute/AskAmount" value="이건 거의 갈취잖아! 놀랐어. 당신에게 이런 면이 있을 줄이야."/>
+	<entry name="PlatinumScion/AcceptTroopWithdrawal" value="어차피 그쪽에 둘 필요도 없었어. 당신 사람들에게 나의... 아량은 필요 없으니까."/>
+	<entry name="PlatinumScion/AcceptWar" value="그래, 전시 경제다 이건가? 무기 거래에 돈이 몰리겠군."/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AcceptParty" value="그들에 대한 우리 회계사의 보고에 따르면... 윽. 대체 마케팅에 얼마나 쓰는 거야?! 범죄 수준이잖아!"/>
+	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AskParty" value="서류가 서로 맞아떨어져야 해. 그러려면 상대와 그 재정 상태를 알아야 하고."/>
+	<entry name="PlatinumScion/AdmitDefeat" value="내가 적대적 인수 합병을 이번에 처음 겪는 줄 알아? 이런 난장판이 처음인 줄만 아냐고. 당신에게 내가 필요한 거 알고 있어. 방향타를 잡을 경영진, 모든 걸 돌아가게 할 사람이 있어야 하잖...<br/><br/>뭐? 날 내쫓는다고? 계약 해지라고? 잠깐, 안 돼. 그런 식으로 해고되는 건 싫어! 변호사와 얘기해야겠어! 그럴 수는..."/>
+	<entry name="PlatinumScion/AskForProposals" value="이번에는 어떤 멋진 방법으로 내 시간을 낭비하려고?"/>
+	<entry name="PlatinumScion/AskForSupport/Anchorite" value="이봐, 은수자 양반. 당신과 나는 통하는 사이잖아. 하지만, 우리 관계가 활짝 피려면... 아, 젠장. 말하기 힘드네. 도움이 필요하다고."/>
+	<entry name="PlatinumScion/AskForSupport/Chieftess" value="여족장이여. 본인, 사업의 제왕이 겸허히 청하노니... 잠깐, 이 쪽지 누가 썼어? 맙소사. 이봐, 아가씨. 우린 도움이 필요해. 부탁이야."/>
+	<entry name="PlatinumScion/AskForSupport/Zephon" value="기계 양반. 스프레드시트와 사업 설명서 첨부해서 프레젠테이션 보낼게. 우릴 돕는 게 장기적으로 현명한 투자라는 걸 알게 될 거야. 게다가 이 상각 처리된 자산들은 가격이 정말 저렴하다고!"/>
+	<entry name="PlatinumScion/CancelAction" value="그건 잊어버려. 더 좋은 생각이 떠올랐어."/>
+	<entry name="PlatinumScion/Condemn" value="그만해, 친구. 안 그러면 나랑 얘기 좀 해야 할 거야."/>
+	<entry name="PlatinumScion/Condemn/Mysticism" value="전형적인 헛소리군. 네 연구실 애들이 떼로 도망가는 것도 당연해."/>
+	<entry name="PlatinumScion/Condemn/SeeAsISee" value="그래, 봤어. 그런데 왜 그것 때문에 당신이 특별하다고 생각하는지 모르겠네. 크롤리처럼 심오한 의미니 뭐니 떠들어 대면서, 지금 이 순간을 살아가지 않는 상류층 나리일 뿐이야."/>
+	<entry name="PlatinumScion/Condemn/TenderMinistrations" value="공공 의료? 당신 순이익이 얼마일지 생각만 해도 끔찍하군. 호구가 죽으면 더 데려오면 되잖아."/>
+	<entry name="PlatinumScion/CondemnAlliance" value="잘 생각해 봐. %3%은(는) 너에게 좋지 않아. 사업에도 좋지 않고."/>
+	<entry name="PlatinumScion/CondemnCityDestruction" value="피니쿠스 종조부가 가장 좋아하는 도시였는데! 거기 모카치노가 끝내줬거든. 그 예술적인 가짜 거품이란. 이제 당신 덕분에 다시 방문할 계획이 물거품이 됐네. 제기랄."/>
+	<entry name="PlatinumScion/CondemnInterferenceAttempt" value="넌 회의에 초대받지 않았잖아. 주주조차 아니고. 당장. 꺼져."/>
+	<entry name="PlatinumScion/CondemnTradeAgreement" value="나를 빼놓고 무역 협정을 한다고? 날 후려치려는 수작이구나. 그렇지?"/>
+	<entry name="PlatinumScion/CondemnWar" value="멍청한 짓을 하는군. 너희 두 머저리가 그렇게나 박치기를 하고 싶다면 난 구경이나 할게."/>
+	<entry name="PlatinumScion/DeclareWar/Anchorite" value="이봐, 외계인. 방금 생각났는데, 우리가 당신에게 고전적인 인간식 '이웃 환영 인사'를 안 해줬더군. 이게 그 인사야."/>
+	<entry name="PlatinumScion/DeclareWar/Chieftess" value="있잖아, 개인적인 감정은 없어. 당신에게는 협동 정신이라고는 없어서 운영 규모를 재조정해야 할 뿐이야. 적정 규모는 대충... 0이랄까."/>
+	<entry name="PlatinumScion/DeclareWar/EmulatedMind" value="이봐, 찰칵이. 그냥 확인차 왔어. 하드웨어 감사 결과 넌 그냥 고철로 파는 게 더 이득이라길래 말이야. 개인적인 감정은 없어."/>
+	<entry name="PlatinumScion/DeclareWar/FallenSoldier" value="기분 상하라고 하는 말은 아니야. 하지만 무한히 재생하는 살점 공급원이란 세계 육류 시장에 유리한 산업은 아니거든. 적어도 그런 사람이 세상에 또 있다면 말이지. 걱정하지 마, 살려는 줄게. 대충은."/>
+	<entry name="PlatinumScion/DeclareWar/FurtiveTribunal" value="책임자가 누구야? 래리, 모, 아니면 컬리? 이거 몰라? 안 웃겨? 고전 코미디 본 적 없어? 다들 교양이라고는 하나도 없네."/>
+	<entry name="PlatinumScion/DeclareWar/HeartlessArtificer" value="아가씨, 당신 정말 마음에 드네. 그게 시커먼 죄악으로 물들지만 않았어도 우리 함께 아름다운 괴물들을 만들어 냈을 텐데. 지금으로선 할 수 있는 게 전쟁뿐이로군."/>
+	<entry name="PlatinumScion/DeclareWar/HollowWarlord" value="이야, 형씨. 가죽 재킷에 선글라스, 턱수염까지... 회의실 밖에서 이렇게 남성성을 노골적으로 발산하다니! 당신을 보니까 싸우고 싶어졌어. 어떤 우두머리 유인원이 더 센지 겨뤄 보자고."/>
+	<entry name="PlatinumScion/DeclareWar/HonorableAristocrat" value="이거 완전히 속물이잖아. 내 커피를 뱉어내겠다, 이거지? 당신은 절대로 이해 못 해. 그래, 재료는 형편없어. 하지만 그 위에 그려진 작은 물결이 중요한 거라고. 그게 바로 예술이야. 내가 동의하게 만들어 주지."/>
+	<entry name="PlatinumScion/DeclareWar/InfiniteCount" value="날 비웃지 말라고, 영감. 당신 마케팅 수법은 다 파악했어. 안 넘어가. 우리 애들이 당신 진짜 속내를 파헤칠 거야."/>
+	<entry name="PlatinumScion/DeclareWar/PlatinumScion" value="이봐, 사촌. 네 배짱과 에너지, 취향은 존중해. 하지만 피니쿠스 종조부의 진정한 후계자는 한 명뿐이야. (그분이 아직 죽지 않았다면, 그분을 죽일 진정한 인물도 한 명뿐이고.) 당신의 시신에 모카치노나 한 잔 바칠게."/>
+	<entry name="PlatinumScion/DeclareWar/PracticalRomantic" value="테니슨의 시에서 핵심은 뭐지? 마야 안젤루는 이익과 손실에 대해 뭐라고 했을까? 알면 깜짝 놀랄 거다. 그래서 배울 기회를 주려고 해. 당신이 실컷 맛볼 수 있는 실연의 아픔을 말이지."/>
+	<entry name="PlatinumScion/DeclareWar/RogueOperative" value="네가 피니쿠스 종조부의 본부 폐허를 깔고 앉아 있다고 해서 CEO가 되는 건 아니야. 그건 내 회사야, 망할 것아. 내가 사장이라고. 바로 내가."/>
+	<entry name="PlatinumScion/DeclareWar/TwistedMother" value="문제는 이거야. 당신의 사회주의는 내가 통제하거나 계산할 수 없는 미지의 인수라는 거. 내 분기별 예측을 송두리째 뒤흔드는 변수지. 그 변수를 제거해야 해. 그러니까, 널 제거한다고."/>
+	<entry name="PlatinumScion/DeclareWar/UntoldProphet" value="비켜, 꼬맹아. 너희 대장인 위대한 연설가 있잖아. 그놈하고 대화를 좀 해야겠거든? 남자 대 남자로서."/>
+	<entry name="PlatinumScion/DeclareWar/Zephon" value="당신은 정말 지독하게 구식이고 비효율적이군. 녹여서 희토류 금속만 뽑아내고 나머지는 커피 테이블로 만들어 버리겠어. 그리고 그 위에 발을 얹어 주지."/>
+	<entry name="PlatinumScion/DemandAllianceTerminationWithThirdParty" value="친구, 우리 둘은 세상의 엔진이야. 그야말로 경제의 원동력이지. 문제는 %3%이(가) 네 발목을 붙잡고 있다는 거야. 그자를 잘라내."/>
+	<entry name="PlatinumScion/DemandAllianceWithThirdParty" value="약해 보이는군, 친구. 적대적 인수 합병이 곧 닥쳐올 것 같은데. 그런데 이 시장에는 선수가 더 필요해. 아니면 독점이 되어 버리거든. 다른 작은 물고기와 손을 잡으라고."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal" value="좋은 계획 같군. 그렇지만 난 재정 증명 없이는 움직이지 않는다고. 돈 가져와, 돈."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandHighAmount" value="이거 달까지도 뚫겠는데! 아니, 태양까지도! 당신은 어때. 할 거야, 말 거야? 할 거지?"/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandLowAmount" value="뇌물 좀 내놔야지. 그리고 내 명함이 얼마나 멋진지 10분 동안 아부도 하고."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMaxAmount" value="나에게 올인해야 할 거야. 네 돈이 필요한 건 아니지만, 네가 이 거래를 얼마나 간절히 원하는지는 보여줘야지."/>
+	<entry name="PlatinumScion/DemandPaymentForDeal/DemandMediumAmount" value="솔로몬의 지혜 알지? 네가 가진 것의 절반을 내놔."/>
+	<entry name="PlatinumScion/DemandPeaceWithThirdParty" value="무슨 짓을 꾸미는 거야, 친구? 넌 이길 수 없는 싸움을 하고 있다고."/>
+	<entry name="PlatinumScion/DemandTradeAgreementTerminationWithThirdParty" value="자, 문제는 이거야. 너희 모두 기껏해야 가게 주인이라고. 꿈이 작아. 더 나은 사업 동업자를 구해야지!"/>
+	<entry name="PlatinumScion/DemandTradeAgreementWithThirdParty" value="세계 경제 상황, 그리고 내 이윤 폭으로 보건대 당신은 새로운 동업자를 찾아야 해. 분명히 말하지만, 내가 아닌 다른 사람 말이야."/>
+	<entry name="PlatinumScion/DemandTribute" value="이걸 자유세라고 생각하지 마. 너희 괴짜들과 외계인들이 서로 죽고 죽이는 동안 세상을 돌아가게 만드는 사람에게 주는 선물이라고 여겨."/>
+	<entry name="PlatinumScion/DemandTribute/DemandHighAmount" value="그래, 난 개처럼 일해. 그렇다고 개밥을 주면 쓰나. 풀코스 요리를 내와야지."/>
+	<entry name="PlatinumScion/DemandTribute/DemandLowAmount" value="넌 답도 없이 썩은 놈은 아니니까, 이번에는 좀 깎아 줄게. 어쨌거나 우린 친구잖아."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMaxAmount" value="자, 어서. 있는 거 다 내놔."/>
+	<entry name="PlatinumScion/DemandTribute/DemandMediumAmount" value="네 지갑에 얼마나 있는지 봐. 그거 전부 줘. 그거면 돼."/>
+	<entry name="PlatinumScion/DemandTroopWithdrawal" value="물러나. 그 시장에는 나만 서비스를 제공할 수 있다고."/>
+	<entry name="PlatinumScion/DemandWarAgainstThirdParty" value="이봐, 내가 지금 좀 바빠서 그런데 일 하나만 처리해 줘. 다에드 가문을 봐서."/>
+	<entry name="PlatinumScion/EndCall/Friendly" value="언제든 전화해, 친구. 바로 받을 테니까."/>
+	<entry name="PlatinumScion/EndCall/Hostile" value="저리 꺼져, 지저분한 놈아!"/>
+	<entry name="PlatinumScion/EndCall/Neutral" value="넘어지지 않도록 조심해. 첫걸음이 힘든 법이거든."/>
+	<entry name="PlatinumScion/FirstContact" value="앉아. 신입자 교육을 시작하겠다.<br/><br/>먼저 배경부터. 종말, 외계인, 로봇 등등. 사이버 유토피아. 됐다, 이 슬라이드는 그냥 건너뛰자고.<br/><br/>중요한 건 바로 이거야. 바로 나! 이 차트에서 보듯이, 난 이 세상을 개선하기 위한 인재로 양육됐다. 나의 통치는 필연적인 결과라고!<br/><br/>그러니 당장 순순히 항복하는 게 좋을 거다. 우편물 분류실에라도 취직하고 싶다면 말이지."/>
+	<entry name="PlatinumScion/OfferAlliance" value="친구? 그런 건 없어. 하지만 당신 같은 적이라면... 가까이 두지. 일시적으로 합병하면 더 가까워질 거야."/>
+	<entry name="PlatinumScion/OfferGift" value="자, 나와 이사회가 당신을 위해 선물을 하나 꾸려 넣었어. 걱정하지 마. 은퇴 기념 시계는 아니니까."/>
+	<entry name="PlatinumScion/OfferGift/OfferHighAmount" value="좀 많지? 나도 알아. 그래도 나한테는 필요 없거든. 아무한테도 말하지 마, 이건 '당신 전용' 딜이니까."/>
+	<entry name="PlatinumScion/OfferGift/OfferLowAmount" value="이건 내 물자의 견본일 뿐이야. 나올 곳이 더 있으니까, 계속 친하게 지내자고."/>
+	<entry name="PlatinumScion/OfferGift/OfferMaxAmount" value="이것 말고도 아직 많아! 아니, 다 털어온 건 아니야. 만약 그랬다 해도... 피니쿠스 종조부에게는 말하지 마, 알았지?"/>
+	<entry name="PlatinumScion/OfferGift/OfferMediumAmount" value="난 선물 같은 건 안 주고받아. 하지만 만약 주고받는다면, 이건 굉장히 훌륭한 선물이겠지."/>
+	<entry name="PlatinumScion/OfferMapSharing" value="아, 피니쿠스 종조부의 하늘의 눈을 한 시간만 사용할 수 있다면. 진작 다 알아야 하는 것을 이렇게 탐사하고 있다니!"/>
+	<entry name="PlatinumScion/OfferPeace/Anchorite" value="그게 지구 입성 환영 인사였어, 친구. 메시지는 잘 받았지?"/>
+	<entry name="PlatinumScion/OfferPeace/Chieftess" value="와, 제기랄. 정말 재미난 몸싸움이었어. 하지만 이건 세상에 마지막으로 남은 도멜 정장이라고. 이걸 망칠 수는 없지. 휴전 어때?"/>
+	<entry name="PlatinumScion/OfferPeace/EmulatedMind" value="삐비빅! 기계 친구, 전쟁 비활성화. 평화 활성화. 삐비빅. 넌 이런 식으로 작동하는 거 맞지?"/>
+	<entry name="PlatinumScion/OfferPeace/FallenSoldier" value="젠장, 당신 상남자로군. 당신이라면 우리 회사에 고용해도 좋을 것 같은데, 단지... 조금만 물러나 준다면."/>
+	<entry name="PlatinumScion/OfferPeace/FurtiveTribunal" value="숙녀 여러분. 아니, 말하지 마. 어차피 한 마디도 못 알아들으니까. 그냥... 안 하는 걸로 합의하는 거 어때?"/>
+	<entry name="PlatinumScion/OfferPeace/HeartlessArtificer" value="아가씨, 당신 정말 마음에 쏙 드는데. 이 위기만 잘 넘길 수 있다면 내 마음은 당신 거야."/>
+	<entry name="PlatinumScion/OfferPeace/HollowWarlord" value="어이, 돌머리 선생. 뭘 주면 물러날 거야? 역기 한 세트? 새 카뷰레터? 말만 해, 다 줄 테니까."/>
+	<entry name="PlatinumScion/OfferPeace/HonorableAristocrat" value="조약 좋아한다며, mein herr. 조약은 곧 무역이고, 무역은... 케이크 아니겠어. 배턴버그 케이크 어때?"/>
+	<entry name="PlatinumScion/OfferPeace/InfiniteCount" value="이봐, 드라큘라 백작. 내 포병대가 당신 성을 두들기지 않아야 처녀들 피 빨기가 더 좋지 않겠어?"/>
+	<entry name="PlatinumScion/OfferPeace/PlatinumScion" value="이제야 괜찮은 사업 상대를 만났군! 물론, 더 평온한 시기였다면 말이지."/>
+	<entry name="PlatinumScion/OfferPeace/PracticalRomantic" value="어이, 친구. 당신은 이 전쟁 덕분에 멋진 시를 뽑아내고 있겠지만, 사업에는 아주 쥐약이라고. 게다가 언젠가는 당신 도서관에 소이탄이 쾅 하고 떨어져서 알렉산드리아처럼 불타버릴지도 몰라."/>
+	<entry name="PlatinumScion/OfferPeace/RogueOperative" value="일단 지금은 네가 ICAR을 가져도 돼. 그래도 잊지는 않겠어."/>
+	<entry name="PlatinumScion/OfferPeace/TwistedMother" value="엄마, 나 이제 그만할래."/>
+	<entry name="PlatinumScion/OfferPeace/UntoldProphet" value="꼬맹아, 예수가 했던 말 기억나? 화평하게 하는 자는 복이 있나니? 우리도 그렇게 될 수 있어!"/>
+	<entry name="PlatinumScion/OfferPeace/Zephon" value="이봐, 기계 양반. 너와 나는 사실상 같아. 미친 세상에서 살아남으려 발버둥 치는 두 진화 알고리즘이지. 서로 공통점을 찾을 수는 없을까?"/>
+	<entry name="PlatinumScion/OfferTradeAgreement" value="가방에 안전모 챙겼고, 당장이라도 이 교역로 공사를 시작할 수 있어. 말만 해."/>
+	<entry name="PlatinumScion/Praise" value="너라면 해낼 줄 알았어. 우리가 언젠가 널 진짜 미국인으로 만들어 줄게."/>
+	<entry name="PlatinumScion/Praise/CultExpansion" value="프랜차이즈는 바로 이렇게 운영하는 거지!"/>
+	<entry name="PlatinumScion/Praise/EngineerLife" value="네가 저기 물속에 뭘 넣었는지 모르지만, 일꾼들이 토끼처럼 새끼를 까게 만들다니 정말 영리하군. 지구를 다시 인간으로 채우라, 옳으신 말씀!"/>
+	<entry name="PlatinumScion/Praise/IcarusSatellite" value="피니쿠스 종조부가 저 미친 물건을 참 좋아했지. 나도 발사일에 구경을 갔어. 불기둥이 솟아오르면서 날아가더라고... 몇 시간 있으니까 무기를 시험 발사한다고 또 하나가 날아갔고. 좋은 시절이었지. 우리 아가씨 잘 다뤄 줘, 알았지?"/>
+	<entry name="PlatinumScion/PraiseWar" value="전쟁이냐 평화냐 그것이 문제라면... 브레히트가 뭐라고 했더라? '전쟁은 국민을 더 잘 먹여 살린다'랬지. 세상의 질서를 확실히 잡아주거든. 사업에도 좋고."/>
+	<entry name="PlatinumScion/RejectAlliance" value="미안하지만, 서류 작업할 시간이 없어서 말이야."/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectOutright" value="당신이 무슨 권리로 나더러 누구랑 어울리라 마라야?"/>
+	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectParty" value="그럴 수는 없어. %3%이(가) 있는 세상이 더 나은 세상이거든. 적어도 내 세상은 그래."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectOutright" value="나 대신 네가 좀 어울려 주면 어때? 난 바빠서."/>
+	<entry name="PlatinumScion/RejectAllianceWithThirdParty/RejectParty" value="알다시피 나도 그러고 싶지만... 저번 회의에서 놈들이 신발을 벗지 뭐야. 그건 절대 못 참아."/>
+	<entry name="PlatinumScion/RejectGift/RejectAmount" value="피니쿠스 종조부가 제일 인색한 줄 알았더니만. 한번은 크리스마스 선물로 양말을 줬는데, 한 짝만 있지 뭐야. 나머지 한 짝은 생일 선물로 주더라."/>
+	<entry name="PlatinumScion/RejectGift/RejectOutright" value="네 더러운 돈 필요 없어."/>
+	<entry name="PlatinumScion/RejectMapSharing" value="와, 나 지루해 죽으라고 작정했구나."/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectAmount" value="푼돈이네. 내가 잔돈 벌려고 재주부리는 원숭이로 보여? 엉?"/>
+	<entry name="PlatinumScion/RejectPaymentForDeal/RejectOutright" value="믿기 어렵겠지만, 이번에는 돈 때문에 생각을 바꾸지 않을 거야."/>
+	<entry name="PlatinumScion/RejectPeace" value="평화의 문제가 뭔지 알아? 조직도 추진력도 없다는 거야. 하지만 전쟁은... 우리 모두를 사업가로 만들지."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectOutright" value="전쟁은 계획이야. 아마 적을 죽이기 위한 계획이겠지만. 피니쿠스 종조부는 어떤 계획에서든 가장 중요한 건 실행이라고 했지."/>
+	<entry name="PlatinumScion/RejectPeaceWithThirdParty/RejectParty" value="내 사람들은 %3%와(과) 싸울 때 최고의 능력을 발휘해. 나는 가장 좋은 거래를 성사하고, 생산 설비도 제때 돌아가지. 거절할게. 전쟁은 돈이 되거든."/>
+	<entry name="PlatinumScion/RejectTradeAgreement" value="수치가 말이 안 돼. 다시 계산할 생각은 없어. 내 시간만 낭비하는 꼴이라고. 이거 속임수 아냐?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="'함께 모이는 것이 시작이고, 함께 유지하는 것이 진전이며, 함께 일하는 것이 성공이다.' 헨리 포드가 그랬지."/>
+	<entry name="PlatinumScion/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="미안하지만, %3%은(는) 공급망의 핵심이라고. 그 부품이 없으면... 에스프레소 머신도 끝이야. 머신이 없으면 모카치노도 끝이고. 상상이 돼?"/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectOutright" value="이봐. 분명 좋은 뜻으로 한 제안이겠지만, 나는 누구와 왜 거래해야 할지 정확하게 알고 있다고."/>
+	<entry name="PlatinumScion/RejectTradeAgreementWithThirdParty/RejectParty" value="%3%?! 그놈들이 뭘 가졌는지는 벌써 알아. 여기 숫자가 다 있잖아! 개똥도 없는 놈들인데."/>
+	<entry name="PlatinumScion/RejectTribute/RejectAmount" value="당신에게 탐욕은 어울리지 않아. 있어 봐야 도움도 안 될 거고."/>
+	<entry name="PlatinumScion/RejectTribute/RejectOutright" value="당신한테는 먼지 한 톨도 못 줘."/>
+	<entry name="PlatinumScion/RejectTroopWithdrawal" value="됐어."/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectOutright" value="당신 말만 듣고 새로운 전쟁에 뛰어들라고? 내가 머리에 총 맞았냐?"/>
+	<entry name="PlatinumScion/RejectWarAgainstThirdParty/RejectParty" value="어이, 나에게는 %3%에 대한 계획이 있어. 원대한 계획이지. 당신하고는 상관없고 말이야."/>
+	<entry name="PlatinumScion/TerminateAlliance" value="그건 절대 합병이 아니었어. 그저 단기 제로 아워 계약이었지. 그리고 난 해지 조항을 발동하겠어."/>
+	<entry name="PlatinumScion/TerminateTradeAgreement" value="내가 쓰레기를 보내고 있다니 무슨 소리야? 품질은 됐고, 양을 보라고! 아, 됐다. 때려치워. 결국 다시 기어들어 올 거면서..."/>
 	<entry name="PracticalRomantic/AcceptActionCancel" value="잠꼬대는 그만 하게. 그런 세상은 이미 오래 전에 사라졌으니."/>
 	<entry name="PracticalRomantic/AcceptAlliance" value="함께하면 인류의 미래를 보장할 더 나은 기회를 잡을 수 있을 걸세."/>
 	<entry name="PracticalRomantic/AcceptAllianceTermination" value="이제 이 짐을 나 혼자 짊어지라는 겐가? 알겠네... 역사가 내 노력과 자네의 배신을 기억할걸세."/>
@@ -1242,6 +1600,7 @@
 	<entry name="PracticalRomantic/AcceptCall/Friendly" value="Maraheb, 건강해 보이니 좋구먼!"/>
 	<entry name="PracticalRomantic/AcceptCall/Hostile" value="짧게 하게. 왜 연락한 겐가?"/>
 	<entry name="PracticalRomantic/AcceptCall/Neutral" value="Salam Alikoum. 오늘은 왜 찾아왔는가?"/>
+	<entry name="PracticalRomantic/AcceptCondemn" value="인간이라면 단 한 명도 예외 없이 모두 비평가일세."/>
 	<entry name="PracticalRomantic/AcceptGift/AcceptAmount" value="기쁘기 그지없군. 이 선물을 말보다 마음으로 간직하겠네!"/>
 	<entry name="PracticalRomantic/AcceptGift/AskAmount" value="어떻게 이타심을 잃지 않고 살아남은 겐가? 아무튼, 무엇을 주든 기꺼이 받겠네. 얼마나 줄 생각인가?"/>
 	<entry name="PracticalRomantic/AcceptMapSharing" value="기꺼이 받아들이지. 지식은 이해와 지속적인 평화를 위한 첫걸음이니."/>
@@ -1250,6 +1609,7 @@
 	<entry name="PracticalRomantic/AcceptPeace" value="좋아. 나는 전쟁이 아닌 대화로 문제를 해결하는 미래를 바라네. 그런 미래만이 싸울 가치가 있지."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AcceptParty" value="좋아, 원래도 대화로 해결하는 걸 더 선호하지만... 그런 시절은 다 지나고 잊힌 줄 알았다네."/>
 	<entry name="PracticalRomantic/AcceptPeaceWithThirdParty/AskParty" value="평화로 향하는 길은 가시밭길이되, 장미는 없으리. 그래도 원만한 길은 있을 수 있지. 누구와 화해를 권하려 하나?"/>
+	<entry name="PracticalRomantic/AcceptPraise" value="'나의 위업을 보라, 강대하다는 자들아. 그리고 절망하라!' 하."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreement" value="나는 굶주림을 견뎌 봤고... 그게 공동체를 어떻게 뒤흔드는지 보았네. 우리가 함께 번영할 기회를 주어 고맙네."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTermination" value="그 편이 나을 것 같군. 황금의 길을 만들 기회를 쥐었으나... 그저 흙에 도금만 하고 말아 아쉬울 뿐이야."/>
 	<entry name="PracticalRomantic/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="기록을 읽어봤는데... 불행히도 자네 말이 맞더군. 더 많은 걸 잃게 두지 않아 주어 고맙네."/>
@@ -1268,6 +1628,7 @@
 	<entry name="PracticalRomantic/AskForSupport/Chieftess" value="자네에게 인간성이 조금이라도 남아 있다면... 지금 부디 도움의 손길로 그 조각을 보여주길 바라네."/>
 	<entry name="PracticalRomantic/AskForSupport/Zephon" value="그 강철 머리 속에 텅 빈 우퍼만 들어있진 않겠지. 자네는 진보한 기계이니, 도덕성이 무엇인지도 알 게야. 분명 인간이 고통받는 걸 못 본 체할 수는 없을 걸세."/>
 	<entry name="PracticalRomantic/CancelAction" value="잠깐. 삶이란 예상치 못한 순간에 바뀌는 법이니, 다시 생각해 봐야겠네."/>
+	<entry name="PracticalRomantic/Condemn" value="'나는 친구에게 화가 났다. 나의 분노를 얘기했더니, 분노는 사라졌다. 나는 적에게 화가 났다. 나는 말하지 않았고, 분노는 자라나기 시작했다.' 블레이크 저."/>
 	<entry name="PracticalRomantic/Condemn/FoundationOfBlood" value="어찌 감히 그럴 수 있나? 스스로에게 그런 끔찍한 일을 저지르고 살아남아 봐야 무슨 소용인가? 나도 미적 충동이란 것을 잘 아네만, 선을 넘고 만다면 취향도, 인간성도 모두 잃는 셈이라네."/>
 	<entry name="PracticalRomantic/Condemn/Gluttony" value="아, 서구의 질병이여, 그 이름은 탐욕이라. 마치 돈과 식탐으로 죽음의 순간을 미룰 수 있는 양 구는군. 한 소절만 더하지. 귀족이여, 죽음이 그대와 가깝도다."/>
 	<entry name="PracticalRomantic/Condemn/Immoral" value="돈으로 영원한 애정을 살 수는 없다네. 사람들은 자네를 두려워하지만, 자네가 모두를 쓰다 버릴 도구나 소비할 자원으로 본다는 것도 알고 있네. 결국 대가를 치를 날이 올 게야."/>
@@ -1286,6 +1647,8 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="자네의 '예술성'은 자연에 대한 모독이야! 내가 그 정신 나간 작품 세계를 모조리 없애 버리겠네!"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="자네는 서사시로 기억에 남기를 바라는군. 그러나 우리 시인들은 명령에 따라 일하지 않네. 자네의 죽음 이후에는 애가도, 마지막 장도 없을 걸세. 자네가 죽인 고인에게 바치는 짤막한 감사의 추모만이 있을 뿐."/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="의무는 어리석은 개념이야. 귀족과 왕의 탐욕을 유지하기 위한 허상이지. 유일하고 진정한 성공의 척도는 명예가 아닌 행복이라네. 이 논쟁의 결론은 전장에서 무력으로 짓도록 하세."/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="한 알의 모래에서 세계를 보고<br/>한 떨기 들꽃 속에서 천국을 보려면<br/>손안에 무한을 쥐고<br/>찰나 속에서 영원을 보라.' 나도 블레이크처럼 자넬 붙잡아 손에 쥘 걸세."/>
+	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="'맹세한다. 모든 것을 파괴하는 번개에, 쏟아지는 고결한 핏줄기에'... 내 나라의 국가에 맹세컨대, 그대를 짓밟아 부수겠네."/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="난 자네를 아끼기 때문에 이 전쟁에 나서겠네. 투쟁은 우리를 더 발전시키고 강하게 만들 테니. 둘 중 하나가 쓰러지더라도, 남은 하나 아래 인류는 더 나은 결과를 얻겠지."/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="자네 안에는 다른 이들에게 없는 인간성이 있네. 살아남겠다는 결연한 의지로 남들이 가지 않을 곳에 발을 들이지. 비록 자네가 우리의 선을 과하게 넘어 전쟁이 찾아왔으나, 그럼에도 나는 여전히 그 모험심을 높이 사겠네."/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="자네의 삶이 크리스탈 계단이 아니라는 사실이 나에게는 슬픔으로 다가오네. 압정, 파편, 망가진 판자, 카펫 없는 바닥이 있었다는 것이 안타깝군... 자네의 슬픔에 내 슬픔을 더하겠네."/>
@@ -1328,12 +1691,15 @@
 	<entry name="PracticalRomantic/OfferPeace/HeartlessArtificer" value="자네의 잔혹하고 감동 없는 예술을 벌하겠다고 목숨을 낭비할 생각은 없네, 공예가 친구. 하지만 언젠가는..."/>
 	<entry name="PracticalRomantic/OfferPeace/HollowWarlord" value="자네가 신화를 만들고, 잊힌 후에도 오래도록 남게 될 불멸의 전형으로 거듭나려 하는 노력을 존경하네. 하지만 전쟁 이야기라 할지라도 인류를 위한 휴식 시간이 있다면 더 좋겠지."/>
 	<entry name="PracticalRomantic/OfferPeace/HonorableAristocrat" value="모두 루트비히 3세를 미쳤다 했으나, 그의 이름으로 어떤 전쟁이 치러졌는가? 그의 이름 아래 죽은 자가 있던가? 한 명도 없었다. 평화, 이는 광기의 우스운 이명이라."/>
+	<entry name="PracticalRomantic/OfferPeace/InfiniteCount" value="자네의 친구 폴리도리는 이렇게 말했지. '시인들의 꿈은 삶의 현실이다'라고. 난 평화를 꿈꾼다네. 자네는 어떤가?"/>
+	<entry name="PracticalRomantic/OfferPeace/PlatinumScion" value="전쟁에서 무언가 배웠나? 충분히 얻었나? 그렇지 않다면 새로운 것을 시도해 보는 게 어떤가?"/>
 	<entry name="PracticalRomantic/OfferPeace/PracticalRomantic" value="이 전쟁을 끝내는 게 서로에게 더 현명하고 인도적인 일이겠지. 자네도 알 게야. 눈을 보니 딱 보이는군."/>
 	<entry name="PracticalRomantic/OfferPeace/RogueOperative" value="자네가 이끄는 목숨을 위해 전쟁을 멈추자고 해 봐야 소용 없겠지. 하나 평화 속에서 우리의 경제적 관계가 얼마나 더 나아질지 생각해 보시게. 우리에게 얼마나 많은 수집품을 팔 수 있을지를...!"/>
 	<entry name="PracticalRomantic/OfferPeace/TwistedMother" value="나만큼 사람들을 사랑한다면, 이대로는 안 된다는 걸 알 걸세. 제발 이성을 찾아주시길 부탁하네."/>
 	<entry name="PracticalRomantic/OfferPeace/UntoldProphet" value="아무리 잘못되고 착각 속에 살고 있을지라도, 아이에게 꽃 대신 매를 들 수는 없음이라."/>
 	<entry name="PracticalRomantic/OfferPeace/Zephon" value="자네의 겉모습 뒤에서 무엇이 자라나고 있는지 잘 모르겠네. 나와 같은 의식이자 마음일까, 아니면 존재하는 것에 집착하는 외계 알고리즘인가. 정답은 둘 다일지도 모르겠네. 그래서인지 이제는 자네와 맞서는 게 꺼려지는군."/>
 	<entry name="PracticalRomantic/OfferTradeAgreement" value="우리 둘 다 서로에게 필요한 것이 있지. 서로의 것을 훔치는 대신 거래하는 게 어떤가?"/>
+	<entry name="PracticalRomantic/Praise" value="'나는 광재 먼지와 인간의 땀방울에서 태어난 아름다움을 잊을 수 없으니...'"/>
 	<entry name="PracticalRomantic/Praise/LeaveNoManBehind" value="다른 이들은 쓸데 없는 낭비라 하겠지만, 모든 부하의 삶과 행복을 소중히 여기는 자네의 마음가짐은 참으로 명예롭고 용감하다네. 비록 매일 그 대가를 치른다 해도, 분명 가치 있는 일일세."/>
 	<entry name="PracticalRomantic/Praise/WordsOfTheProphet" value="자네의 신앙에 공감하진 않으나, 그 설법만큼은 시처럼 우아하지. 내 믿음이 이미 동포들과 인류에게 향해 있지 않았다면, 나 역시 기도 소리에 넘어갔을 게야."/>
 	<entry name="PracticalRomantic/PraiseWar" value="키플링은 전쟁을 찬미했지만, 전쟁으로 아들을 잃고 무너졌다네. 하나 이 전쟁은 정당한 것 같군. 난... 단지 자네가 아이들만큼은 잘 돌보길 바랄 뿐일세."/>
@@ -1372,6 +1738,7 @@
 	<entry name="RogueOperative/AcceptCall/Friendly" value="안전한 채널이야. 안심하고 말해도 돼."/>
 	<entry name="RogueOperative/AcceptCall/Hostile" value="위험한 채널이니, 짧게 말해."/>
 	<entry name="RogueOperative/AcceptCall/Neutral" value="연결됐어. 뭘 원해?"/>
+	<entry name="RogueOperative/AcceptCondemn" value="이제 다 퍼부었나? 기분 좀 나아졌어?"/>
 	<entry name="RogueOperative/AcceptGift/AcceptAmount" value="괜찮은 값이지만, 더 부를 애들도 널렸어. 경쟁자가 붙을 테니 더 보낼 생각도 해 둬."/>
 	<entry name="RogueOperative/AcceptGift/AskAmount" value="내 호의를 사려고? 걱정 마, 인기 상품이니까. 얼마나 낼 건데?"/>
 	<entry name="RogueOperative/AcceptMapSharing" value="좋아. 내 액세스 코드를 보낼게... 아마 네 코드는 보내기 전에 내가 먼저 알아내겠지만."/>
@@ -1380,6 +1747,7 @@
 	<entry name="RogueOperative/AcceptPeace" value="그래, 이 싸움은 무의미해. 더 큰 위협에 집중하자고."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AcceptParty" value="좋아, 평화를 받아들일게. 제폰을 노리려면 힘을 아껴야 하거든."/>
 	<entry name="RogueOperative/AcceptPeaceWithThirdParty/AskParty" value="누구 대신 온 건데? 똑바로 안 대면 네 의도를 의심할 거야."/>
+	<entry name="RogueOperative/AcceptPraise" value="그러든가. 널 위해 한 건 아니야."/>
 	<entry name="RogueOperative/AcceptTradeAgreement" value="사무실에서 자판기 음식에 생라면이나 먹으며 대재앙을 견뎠지. 네가 그보다 나은 걸 계속 준다면, 난 이 거래에 만족해."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTermination" value="좋아. 안 그래도 내 상품을 사려는 애들이 줄을 섰거든."/>
 	<entry name="RogueOperative/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="허. 보통 손해보는 거래는 내가 먼저 알아보는데 말이야. 알려줘서 고마워."/>
@@ -1398,6 +1766,8 @@
 	<entry name="RogueOperative/AskForSupport/Chieftess" value="서로 알다시피, 공짜로 뭘 달라고 하는 건 바보 짓이지. 하지만 그래도 부탁해야겠어."/>
 	<entry name="RogueOperative/AskForSupport/Zephon" value="도움이 필요한데, 도와줄 거야? 지금은 가진 게 없어서 자선 요청이나 다름 없지만, 언젠간 갚을 수 있을지도."/>
 	<entry name="RogueOperative/CancelAction" value="솔직한 거 같지 않은데. 다시 해 봐."/>
+	<entry name="RogueOperative/Condemn" value="정말 어리석은 선택이군. 생각이 있는 건가?"/>
+	<entry name="RogueOperative/Condemn/EconomiesOfScale" value="쓰레기. 네가 만든 건 쓰레기야. 너무 빨라서 죄다 무너지잖아, 멍청아."/>
 	<entry name="RogueOperative/Condemn/TenderMinistrations" value="으, 창피하긴. 친구의 상처를 핥아주려고? 다음엔 머리를 쓰다듬어줘. 존중은 어디로 간 거야? 안전은 어디로 간 거야? 좋은 친구는 배신 따위 하지 않아."/>
 	<entry name="RogueOperative/Condemn/Untrustworthy" value="잡았다! 새빨간 거짓말쟁이 같으니. 곧 너 같은 로봇이랑 대의랍시고 떠드는 변명들만 세상에 남겠지."/>
 	<entry name="RogueOperative/Condemn/WordsOfTheProphet" value="말은 잘 하는데, 속 빈 강정이네. 왜 그러고 살아? 다른 천국이네, 외계의 내세네 떠들지 말고, 내일이 아닌 지금을 살라고."/>
@@ -1414,6 +1784,8 @@
 	<entry name="RogueOperative/DeclareWar/HeartlessArtificer" value="멋진 도구에 외형도 잘 빠졌는데, AI가 오히려 너보다 더 인간다운 게 웃겨. 넌 도저히 못 믿겠으니, 죽여야겠어. 미안. 사실 미안하지도 않아."/>
 	<entry name="RogueOperative/DeclareWar/HollowWarlord" value="위성으로 다 봤거든. 스크램블러를 만들고, 병력을 소집하고, 포대가 날 겨누고 있지. 새로운 전선이 형성됐군. 그러니 널 박살 낼 거야. 전쟁이다."/>
 	<entry name="RogueOperative/DeclareWar/HonorableAristocrat" value="나도 명예를 알지! 딱히 갖고 있지는 않지만, 이해는 한다고. 격식 차려 말하자면, 이건 선전 포고야."/>
+	<entry name="RogueOperative/DeclareWar/InfiniteCount" value="딱 짚어내기 어렵군. 위성으로는 네가 여기저기 여러 곳에서 보여. 비겁자들이.. 네 피를 이었나? 정체를 모르겠네. 없애야겠군."/>
+	<entry name="RogueOperative/DeclareWar/PlatinumScion" value="사업적인 결정일 뿐이야, 알지? 널 싫어하는 것도 맞아. 맞긴 한데, 이건 그냥 사업적인 문제라고."/>
 	<entry name="RogueOperative/DeclareWar/PracticalRomantic" value="남을 그렇게 신경 쓰고 도우면서 살 수나 있겠어? 생존이 먼저야, 낭만주의자 할아범. 살아남으라고! 남은 그 다음에 도와야지."/>
 	<entry name="RogueOperative/DeclareWar/RogueOperative" value="뭐, 서로 상황은 잘 알잖아. 해킹하고, 추적하고, 결국 전쟁을 벌이는 거야. 우리 둘 다 너무 실력이 좋고, 너무 잘 알고, 너무 비슷하니, 싸울 수 밖에."/>
 	<entry name="RogueOperative/DeclareWar/TwistedMother" value="미안하지만 그딴 소린 의미 없어. 침략해서 동족을 죽이려고 하는데 샌님들은 사과를 요구하지. 난 내가 뭘 하고 있는 건지 알아."/>
@@ -1456,12 +1828,15 @@
 	<entry name="RogueOperative/OfferPeace/HeartlessArtificer" value="이봐, 전쟁은 실수야. 네 예쁜 계획을 망치기나 하지. 이쯤 하고 다 잊자고. 용서는 말도 않을게."/>
 	<entry name="RogueOperative/OfferPeace/HollowWarlord" value="평화냐, 아니면 우주에서 떨어지는 핵폭탄이냐. 허풍인지 아닌지 확인해 보던가."/>
 	<entry name="RogueOperative/OfferPeace/HonorableAristocrat" value="옛 드라이브에서 조약 문서를 찾았어. 너랑 ICAR 사이의 불가침 협정이야. 이제 내가 ICAR 기업을 대표하니, 그만 싸우자고!"/>
+	<entry name="RogueOperative/OfferPeace/InfiniteCount" value="당신 정말 이해가 안 돼. 괴짜 백인 늙은이 같으니라고. 뭐, 상관없어. 평화 조약 어때?"/>
+	<entry name="RogueOperative/OfferPeace/PlatinumScion" value="그래, ICAR은 내가 차지했어. 약 오르지. 날 파괴하면 난 ICAR을 파괴할 거야. 어디 한번 해 보든가."/>
 	<entry name="RogueOperative/OfferPeace/PracticalRomantic" value="그래, 그래. 네가 군대를 물리면, 나도 그 미친 거대 위성을 물릴게. 됐어?"/>
 	<entry name="RogueOperative/OfferPeace/RogueOperative" value="인정할게! 해킹전에서 비긴 적은 한 번도 없었거든. 이제 피차 박살이 나기 전에 그만두는 게 어때?"/>
 	<entry name="RogueOperative/OfferPeace/TwistedMother" value="흠. 네가 원하는 게 있을 거야. 죽은 병사들 말고도. 아니, 그것도 팔 수 있으려나?"/>
 	<entry name="RogueOperative/OfferPeace/UntoldProphet" value="꼬마야, 전쟁을 멈춰야 해. 매출이 줄거든. 지금 물러나면 평생 할인권을 줄게."/>
 	<entry name="RogueOperative/OfferPeace/Zephon" value="방화벽도 못 뚫겠네. 포기하는 건 아냐. 숨을 돌리려는 거지."/>
 	<entry name="RogueOperative/OfferTradeAgreement" value="방금 사업 파트너 하나가 안타까운 최후를 맞았거든. 덕분에 네 자리가 생겼는데, 관심 있어?"/>
+	<entry name="RogueOperative/Praise" value="흠. 잘했네. 왜, 머리라도 쓰다듬어 줘? 흠."/>
 	<entry name="RogueOperative/Praise/Gluttony" value="부유하고 번듯하게 살지만, 혼자 먹지 않고 사람들과 나누는 건 보기 좋네. 그러면 다들 살 만할 거 아냐?"/>
 	<entry name="RogueOperative/Praise/Restless" value="현명하군. 도시의 군인들은 골치가 아프지. 훔치고, 싸우고, 부수고. 쫓아내고, 이익을 얻어."/>
 	<entry name="RogueOperative/Praise/SurvivalTraining" value="모두를 직접 훈련시키다니, 현명하네. 네게 배우는 사람이 많을수록 모두가 살아남을 확률도 높아지겠지."/>
@@ -1501,6 +1876,7 @@
 	<entry name="TwistedMother/AcceptCall/Friendly" value="안녕! 네가 찾아올 줄... 알고 있었단다."/>
 	<entry name="TwistedMother/AcceptCall/Hostile" value="평판은 걱정하지 마. 네겐 할 말이 있잖니."/>
 	<entry name="TwistedMother/AcceptCall/Neutral" value="들어오거라, 낯선 이여! 나보다 낯설지는 않겠지만."/>
+	<entry name="TwistedMother/AcceptCondemn" value="내가 뭔가 잘못했다면, 그건 아이들을 위해서였어."/>
 	<entry name="TwistedMother/AcceptGift/AcceptAmount" value="정말 맛있지 않니? 가져갈 수 있도록 컵케이크를 줄게."/>
 	<entry name="TwistedMother/AcceptGift/AskAmount" value="참 친절하구나. 며칠만 더 아이들을 안전하게 지켜다오. 하지만 그걸로 충분할까?"/>
 	<entry name="TwistedMother/AcceptMapSharing" value="물론 너도 그걸 위해 왔겠지. 공유는 문제없다고 생각하렴."/>
@@ -1509,6 +1885,7 @@
 	<entry name="TwistedMother/AcceptPeace" value="귀엽지만 아주 똑똑하진 않군. 네가 정신을 차려서 다행이야."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AcceptParty" value="확신이 있다면야. 그들의 감정은 항상 반대되는 것처럼 보였어."/>
 	<entry name="TwistedMother/AcceptPeaceWithThirdParty/AskParty" value="글쎄, 잘 모르겠어. 어떤 사람들은 오해를 받고 어떤 사람들은 천성이 악하지. 넌 어떤 이유로 왔지?"/>
+	<entry name="TwistedMother/AcceptPraise" value="그것 보렴. 친절은 그리 어렵지 않아. 이런 상황에서도 말이지."/>
 	<entry name="TwistedMother/AcceptTradeAgreement" value="각자의 능력에 따라 다르다... 나는 달콤한 캐나다 음식이 좋아. 넌 황무지에서 아무거나 건져내서 먹으렴."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTermination" value="그 말은 별로... 친근감이 없네. 안타깝지만 내 비밀 감자튀김 레시피는 비밀로 해야겠어."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="놈들이 우릴 속이고 있다고? 너의 직감은 언제나처럼 대단해. 하지만 확신은 확신이지."/>
@@ -1523,10 +1900,11 @@
 	<entry name="TwistedMother/AcceptWarAgainstThirdParty/AskParty" value="글쎄, 잘 모르겠네. 전쟁은 누구에게도 좋지 않아. 하지만 장기적으로 보면 침략자에게 머리를 내주는 것보다는 나을 테니까. 손이 근질근질한 사람?"/>
 	<entry name="TwistedMother/AdmitDefeat" value="우아한 이중화법으로 말하는 건 이제 그만해야겠어. 목소리가 나를 다시 끌어당기고 있어. 거쳐 갈 때마다 예전 같은 기분이 들어. 이걸로 끝이라는 감각이 느껴졌으면 좋겠어.<br/><br/>어쨌든 부탁 하나만 더 들어주겠니? 아이들이 고통받지 않게 해다오. 아이들을 거둬주던지, 아니면... 너도 알잖니.<br/><br/>이제 끝내렴. 날 보내줘. 장막 너머에 있는 공간으로."/>
 	<entry name="TwistedMother/AskForProposals" value="또 뭘 원하니?"/>
-	<entry name="TwistedMother/AskForSupport/Anchorite" value="할아버지, 좀 도와줄래? 우린 아이들이 간식 통에 손을 못 대게 하려고 애쓰고 있어. 거기가 텅 비었다는 걸 애들이 모르게 하고 싶은데..."/>
+	<entry name="TwistedMother/AskForSupport/Anchorite" value="할아버지, 좀 도와줄래? 아이들이 간식 통에 손을 못 대게 하려고 애쓰고 있어. 통이 비었다는 걸 애들이 몰랐으면 하는데..."/>
 	<entry name="TwistedMother/AskForSupport/Chieftess" value="우리 아이들이 네게 열광한다는 거 아니? 넌 자신의 마음을 잘 아는 강인한 여성이야. 네가 도움을 주면 애들은 좋아서 날뛸 거야."/>
 	<entry name="TwistedMother/AskForSupport/Zephon" value="안녕, 커다란 Z 아저씨. 듣고 있는 사람이 있는지는 모르겠지만, 지금 당장 도움이 필요해. 진화한 알고리즘에게 도움을 구해도 괜찮을까?"/>
 	<entry name="TwistedMother/CancelAction" value="이런. 나 좀 봐. 당혹스러워서 사팔뜨기가 됐어!"/>
+	<entry name="TwistedMother/Condemn" value="잘못된 일을 할 때조차... 꼭 그렇게 잔인해야만 할까?"/>
 	<entry name="TwistedMother/Condemn/FoundationOfBlood" value="완벽을 추구한다면서 이런 식으로 행동한다고? 완벽은 약점을 없애는 데서 오는 것이 아니라, 가장 약한 사람에게 손을 내미는 인간미에서 비롯되지."/>
 	<entry name="TwistedMother/Condemn/TalesOfTheHunt" value="넌 늙어빠진 폭군이야. 근육과 부드러운 흑발을 과시하고 얼마나 살인에 능숙한지 과시하다니. 그런다고 사랑이나 존경을 받을 수는 없어."/>
 	<entry name="TwistedMother/Condemn/Untrustworthy" value="자, 잠시만 기다려 봐. 거짓말을 해야 한다면 교묘하게 하는 법을 배우렴. 잔인한 거짓말에 대한 소문은 매우 빠르게 퍼지거든. 나도 그렇게 할 거고."/>
@@ -1543,6 +1921,8 @@
 	<entry name="TwistedMother/DeclareWar/HeartlessArtificer" value="위대한 산업가, 과학자, 지도자들은 항상 완벽을 추구하기 위한 희생에 대해 이야기하지. 하지만 이상하게도 그들은 절대로 희생하지 않는 반면, 위험한 곳으로 아이들을 내몰곤 해. 자, 이제 네 차례란다."/>
 	<entry name="TwistedMother/DeclareWar/HollowWarlord" value="넌 스스로를 자유로운 영혼이라고 공언해. 하지만 함께 여행하는 사람들, 도중에 네 거대한 바퀴에 깔리는 사람들을 조금도 신경 쓰지 않아. 이제 너에게 배려하는 법을 가르칠 때가 온 것 같구나."/>
 	<entry name="TwistedMother/DeclareWar/HonorableAristocrat" value="난 네가 공언한 고결함을 진심으로 존경해. 하지만 많은 사람들이 너의 도덕적 한계 밖에 있다는 사실은 받아들일 수 없어. 그들의 희생으로 네가 크게 성장한다는 것도. 나는 그들을 대신해서 되찾을 거란다."/>
+	<entry name="TwistedMother/DeclareWar/InfiniteCount" value="어떻게 계속 거기 있는 거지? 난 잠깐 머무르는 것만으로도 이렇게 되는데... 당신은 그렇게 구멍 속 문어처럼, 형체 없는 괴물처럼 그 안에 웅크려서 튀어 나갈 순간만 기다리고 있군. 나마저 시인이 되어버리기 전에 뿌리 뽑아야겠어!"/>
+	<entry name="TwistedMother/DeclareWar/PlatinumScion" value="네게 해명할 이유는 없다, 얘야. 딴 데 가서 놀려무나."/>
 	<entry name="TwistedMother/DeclareWar/PracticalRomantic" value="아, 도덕적 타협의 심판자로구나. 다른 적을 근절하는 동안 네 뺨에 문신처럼 새겨진 눈물을 보렴. 위선자야, 널 강제로 협상 테이블에 데려가야겠구나."/>
 	<entry name="TwistedMother/DeclareWar/RogueOperative" value="아가야, 개인이란 건 없단다. 우리의 자아, 우리의 정체성은 사회 속에서 찾아야 하니까. 네 편이 널 등질 때 비로소 이해하게 될 거야..."/>
 	<entry name="TwistedMother/DeclareWar/TwistedMother" value="이 음울한 거울을 들여다보고 있자니... 주름, 여드름, 진물 때문에 동요하게 되는걸? 어떻게 나 자신 때문에 불안해질 수 있담?"/>
@@ -1584,12 +1964,15 @@
 	<entry name="TwistedMother/OfferPeace/HeartlessArtificer" value="완벽함을 추구한다면 나를 없애고 싶은 이유를 알만 해. 그리고 나는 너의 인간성에 호소하지 않을 거야. 하지만 네 부도덕한 꿈이 더 위협적이진 않을까?"/>
 	<entry name="TwistedMother/OfferPeace/HollowWarlord" value="여긴 네가 올 곳이 아니란다, 아이야. 군대를 데려온다면 네 여정은 여기서 끝이야. 물러서면 한동안은 계속 바이크를 탈 수 있을 거야."/>
 	<entry name="TwistedMother/OfferPeace/HonorableAristocrat" value="쿠키 좀 먹겠니?"/>
+	<entry name="TwistedMother/OfferPeace/InfiniteCount" value="당신 나이에 전쟁을 원하는 건가? 커다란 고성에서 따뜻한 벽난로를 쬐는 것보다? 내면의 자신과 대화를 좀 해보는 게 어때?"/>
+	<entry name="TwistedMother/OfferPeace/PlatinumScion" value="얘야, 진짜 여인이 널 사람으로 만들어 줘야겠구나."/>
 	<entry name="TwistedMother/OfferPeace/PracticalRomantic" value="'그녀는 달려서 집으로, 어머니와도 같은 검은 품으로 돌아왔다...' 너만 시를 잘 아는 게 아니란다. 친구가 된다면 더 알려줄게."/>
 	<entry name="TwistedMother/OfferPeace/RogueOperative" value="외로운 소녀야. 왜 세상과 싸워야 하니? 수프, 만두, 간식이 있는 주방이 있어. 잠시 들러보렴."/>
 	<entry name="TwistedMother/OfferPeace/TwistedMother" value="이제 내 입장을 이해해주렴."/>
 	<entry name="TwistedMother/OfferPeace/UntoldProphet" value="아이야. 네가 체면을 세워야 한다는 건 알아. 하지만 미사여구는 좀 멈추는 게 좋을 것 같구나."/>
 	<entry name="TwistedMother/OfferPeace/Zephon" value="이미 내 이메일을 읽었잖니. 내가 전쟁을 원치 않는다는 거 알잖아. 그만두렴."/>
 	<entry name="TwistedMother/OfferTradeAgreement" value="서로를 받드는 두 광대라. 하지만 우리가 해낼 수 있을까?"/>
+	<entry name="TwistedMother/Praise" value="넌 가끔 날 자부심으로 가득 채워 주는구나!"/>
 	<entry name="TwistedMother/Praise/CostOfConviction" value="네가 하는 일은 옳단다. 사람들과 시간을 보내는 거지. 부정적이든 아니든 사람들은 네가 소중히 여긴다고 생각해. 그리고 사람들의 감정이 가장 중요하단다."/>
 	<entry name="TwistedMother/Praise/HeartfeltLoss" value="너는 실용주의를 따르지만 친절한 마음이 있고 추종자들도 그걸 알고 있어. 상처받는 걸 막을 수는 없지. 하지만 내가 안다는 걸 알아다오."/>
 	<entry name="TwistedMother/Praise/WhispersOfTheVoice" value="너도 들었겠지. 대화할 상대가 있다는 건 좋은 일이야. 애들은 이해하지 못하겠지만."/>
@@ -1602,7 +1985,7 @@
 	<entry name="TwistedMother/RejectGift/RejectAmount" value="굳이 연락할 거라면 그만한 가치가 있도록 노력하렴."/>
 	<entry name="TwistedMother/RejectGift/RejectOutright" value="멍청하게 굴지 말렴. 친구를 위해서 갖고 있으렴."/>
 	<entry name="TwistedMother/RejectMapSharing" value="하지만 얘야. 서프라이즈를 즐기고 싶지 않니?"/>
-	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="미안하구나. 내가 나서기엔 너무 낮은 금액이야. 대재앙 뒤로 보모 고용비가 얼마나 올랐는지 아니?"/>
+	<entry name="TwistedMother/RejectPaymentForDeal/RejectAmount" value="미안하구나... 내게는 너무 높은 금액이야. 대재앙 뒤로 보모 고용비가 얼마나 올랐는지 아니?"/>
 	<entry name="TwistedMother/RejectPaymentForDeal/RejectOutright" value="나한테는 심부름보다 더 중요한 일들이 있다는 거 아니?"/>
 	<entry name="TwistedMother/RejectPeace" value="그건 안 돼. 언젠가는 나한테 고마워하게 될 거란다."/>
 	<entry name="TwistedMother/RejectPeaceWithThirdParty/RejectOutright" value="모든 사람이 이 혼란 속에서 살아남을 운명을 가진 건 아니야. 선택을 내려야 해."/>
@@ -1629,6 +2012,7 @@
 	<entry name="UntoldProphet/AcceptCall/Friendly" value="보라! 나는 기도했고 그대가 여기 있도다!"/>
 	<entry name="UntoldProphet/AcceptCall/Hostile" value="축복이 있기를. 열린 귀와 열린 마음으로 오셨나요?"/>
 	<entry name="UntoldProphet/AcceptCall/Neutral" value="축복이 있기를. 상담하러 오셨나요? 고해성사를 하러 오셨나요?"/>
+	<entry name="UntoldProphet/AcceptCondemn" value="저는 저를 따르는 자들과 제가 이끄는 이들을 올바르게 대합니다. 이보다 무엇을 더 할 수 있겠습니까?"/>
 	<entry name="UntoldProphet/AcceptGift/AcceptAmount" value="우리 신도들은 당신에게 감사합니다. 아무런 대가 없이 기꺼이 베풀어주시는 그대의 자비심에 경외심을 느낍니다."/>
 	<entry name="UntoldProphet/AcceptGift/AskAmount" value="진심으로 기부하는 사람은 더 부자가 됩니다. 오늘 얼마나 기부하시겠습니까?"/>
 	<entry name="UntoldProphet/AcceptMapSharing" value="위대한 연설가께서 모든 눈과 귀를 초대합니다. 그들의 영광스러운 왕국을 보고 경탄하세요!"/>
@@ -1637,6 +2021,7 @@
 	<entry name="UntoldProphet/AcceptPeace" value="폭력은 폭력으로 해결할 수 없으며, 오직 이해만이 폭력을 해결할 수 있습니다. 포화를 멈추고 서로의 목소리를 들어보세요."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AcceptParty" value="천국은 뼈와 살 위에 건설될 수 없습니다. 이 평화가 새로운 기반이 되기를 바랍니다."/>
 	<entry name="UntoldProphet/AcceptPeaceWithThirdParty/AskParty" value="증오는 영혼을 갉아먹는 독입니다. 누구와 관계를 회복해야 할까요?"/>
+	<entry name="UntoldProphet/AcceptPraise" value="물론입니다. 저는 더 위대한 존재의 도구니까요."/>
 	<entry name="UntoldProphet/AcceptTradeAgreement" value="이웃에게 받은 것은 두 배로 갚을 것입니다. 그리하여 우리의 결합이 항상 풍성한 결실을 맺기를 바랍니다."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTermination" value="그대의 탐욕은 그대의 모든 것을 변질시킵니다. 더는 용인할 수 없습니다."/>
 	<entry name="UntoldProphet/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Sí, 제 상단도 그들의 일이 더는 성스럽지 않다고 느낍니다. 오늘로 그들의 순례는 끝날 것입니다."/>
@@ -1655,6 +2040,7 @@
 	<entry name="UntoldProphet/AskForSupport/Chieftess" value="생존과 쾌락보다 더 큰 재물이 있다면 믿으시겠습니까? 참된 교회에 헌금만 한다면 영광스러운 내세가 기다리고 있다고요?"/>
 	<entry name="UntoldProphet/AskForSupport/Zephon" value="위대한 연설가께서는 영혼이 없는 기계의 마음도 알고 있습니다. 그리고 그대가 헌금을 낼 준비가 됐다는 사실도 알고 있습니다!"/>
 	<entry name="UntoldProphet/CancelAction" value="현자는 시작할 때뿐만이 아니라 다시 시작할 때도 알고 있습니다."/>
+	<entry name="UntoldProphet/Condemn" value="그분이 당신이 태어난 날을 후회한다는 걸 아십니까? 그분의 입에서 저주가 쏟아져 나옵니다."/>
 	<entry name="UntoldProphet/Condemn/Augmentations" value="당신이 몸에 연결된 것들, 위대한 연설가께서는 자신의 놀라운 힘 앞에서는 장난감이나 다름없는 그것들을 비난합니다. 그것들을 포기하지 않으면 절대 연설가의 얼굴을 볼 수 없습니다."/>
 	<entry name="UntoldProphet/Condemn/HordeMandate" value="당신의 거짓 성전을 거부합니다! 당신은 그들을 불러 모으고 하나로 뭉쳐서 힘차게 움직이자고 합니다. 그러나 그들을 움직이는 것은 성령도, 인류의 발전도 아닙니다! 오직 위대한 연설자에게 혐오하시는 원초적 욕망뿐이죠..."/>
 	<entry name="UntoldProphet/Condemn/Independent" value="독립은 외로움, 즉 고독으로 가는 길입니다. 홀로 서 있는 사람은 위대한 연설가의 진실을 결코 알 수 없습니다."/>
@@ -1672,6 +2058,8 @@
 	<entry name="UntoldProphet/DeclareWar/HeartlessArtificer" value="꿈에서 저는 그대가 원하는 대로 그대를 봅니다. 위대한 연설가께서는 당신을 진줏빛에 반짝이고 매끄러운 곡선을 이루고 있는 마그네슘 껍질... 완전히 빈 껍질로 우리에게 보여 줍니다. 전쟁이 다가오고 있으니, 증오로 자신을 채우십시오."/>
 	<entry name="UntoldProphet/DeclareWar/HollowWarlord" value="당당하군요... 당신은 위풍당당합니다. 구부러진 팔, 늘어뜨린 머릿결, 여유로운 미소. 속삭임이 매혹적이지만 연설자의 속삭임은 아니죠. 저는 유혹으로부터 빠져나와 당신에게 악을 내려야 합니다."/>
 	<entry name="UntoldProphet/DeclareWar/HonorableAristocrat" value="물질주의로는 망자의 눈 위에 아무리 많은 동전을 눈에 쌓아도 천국에 들어가지 못하며, 뱃사공은 그대와 같은 자를 데려가지 않을 것입니다. 연설가의 발밑에 엎드려 자비를 호소하십시오."/>
+	<entry name="UntoldProphet/DeclareWar/InfiniteCount" value="당신은 악마입니다! 창백한 미소의 악마! 세 번 부르노니, 악마여! 위대한 연설가에게 저주받은 악마여!"/>
+	<entry name="UntoldProphet/DeclareWar/PlatinumScion" value="믿음이 있는 자만이 왕국에 들어갈 것입니다. 그리고 믿음은 이처럼 척박한 땅에 뿌리 내릴 수 없습니다."/>
 	<entry name="UntoldProphet/DeclareWar/PracticalRomantic" value="그대는 나와 기질이 가장 비슷합니다. 모든 선지자는 시인이어야 하기 때문이죠. 하지만, 그대의 더러운 인본주의는 진보한 종교 문화에서 설 자리가 없습니다. 그대의 인본주의를 불태워버리겠습니다."/>
 	<entry name="UntoldProphet/DeclareWar/RogueOperative" value="저는 그대와 다투지 않습니다. 그대가 누구인지, 무엇을 위해 존재하는지도 잘 모릅니다. 하지만 ICAR의 위성으로 우리의 신성한 하늘을 더럽히는 짓은 그만두십시오."/>
 	<entry name="UntoldProphet/DeclareWar/TwistedMother" value="마녀. 저주는 내리지 않겠습니다. 그저 불타버리세요."/>
@@ -1714,13 +2102,17 @@
 	<entry name="UntoldProphet/OfferPeace/HeartlessArtificer" value="위대한 연설가께서 당신을 보존하기로 했습니다. 아마도 그대의 창조물에 담긴 신성한 아름다움 때문일 수도 있지만, 십중팔구는 더 큰 위협이 있었을 것입니다..."/>
 	<entry name="UntoldProphet/OfferPeace/HollowWarlord" value="강력한 전사여, 위대한 연설자께서 당신의 사면을 원하십니다. 평화의 시기가 오면 당신의 성전은 다른 목표에 맞서 다시 시작될 것입니다! 예언대로요!"/>
 	<entry name="UntoldProphet/OfferPeace/HonorableAristocrat" value="위대한 연설가께서 당신에 대한 자신의 공격성, 실수와 지나친 열정을 뉘우치십니다. (그리고 그대가 보내준 과자는 맛있었어요.)"/>
+	<entry name="UntoldProphet/OfferPeace/InfiniteCount" value="당신도 예언자입니까? 그러니까 위대한 연설가의 진정한 대변자가 아닌, 하급 예언자 말입니다. 우린 교감해야 합니다..."/>
+	<entry name="UntoldProphet/OfferPeace/PlatinumScion" value="맘몬과 탐욕의 죄악은 너무... 진부하군요. 회개하고 제 쪽에 서십시오. 그러면 위대한 연설가께서 용서하실 것입니다."/>
 	<entry name="UntoldProphet/OfferPeace/PracticalRomantic" value="위대한 연설가께서 당신의 웅변에 동의하셨습니다, 낭만주의자. 전쟁에서 그대를 잃으면 세상에 손해일 것입니다."/>
 	<entry name="UntoldProphet/OfferPeace/RogueOperative" value="잠깐! 그만! 우리의 신성한 전자 성서가 이단적인 문구 변경으로 훼손된 것 같습니다. 잘못을 저지른 당사자가 성서를 되돌려 놓는다면 기꺼이 조약에 서명할 텐데요...?"/>
 	<entry name="UntoldProphet/OfferPeace/TwistedMother" value="제가 경전을 잘못 해석한 것 같군요. 당신은 종말의 징조가 아닐 수도 있습니다."/>
 	<entry name="UntoldProphet/OfferPeace/UntoldProphet" value="그대의 연설가는 침묵합니다. 목소리가 침묵합니다. 겸손이 침묵합니다. 그대의 마음속에서는 그대의 마음만 울부짖습니다. 시간을 내어 치유하십시오."/>
 	<entry name="UntoldProphet/OfferPeace/Zephon" value="위대한 연설자께서는 제 꿈에서 당신이 악마라고 속삭였습니다. 그러나 우리 같은 천사에게도 대적할 악마가 필요합니다. 그래서 그대를 내버려둘 것입니다."/>
 	<entry name="UntoldProphet/OfferTradeAgreement" value="위대한 연설가께서 그대의 기도를 들으셨습니다. 저의 가장 부유한 상인들이 그대 도시 근처로 이동합니다. 그들을 받아들이면 더 많은 상인이 뒤따를 것입니다."/>
+	<entry name="UntoldProphet/Praise" value="당신이 이룬 훌륭한 업적을 위대한 연설가께 말씀드린다면... 그분은 믿지 못하실 겁니다."/>
 	<entry name="UntoldProphet/Praise/FortressArmament" value="위대한 연설가께서는 그대 자체를 증오하지는 않습니다. 그대가 영혼 없는 기계인 것은 어쩔 수 없으니까요. 개인적으로 나는 당신의 능력, 특히 요새에 장착된 대포를 존경합니다..."/>
+	<entry name="UntoldProphet/Praise/PerfectForever" value="위대한 연설가께서 당신을 높이시고, 당신에게 다른 이를 축복할 권능을 주셨습니다! 죽음 자체보다 완벽하게 불변하는 것이 무엇이겠습니까?"/>
 	<entry name="UntoldProphet/Praise/ThereIsHope" value="그대의 사람들은 믿음이 있습니다. 네, 위대한 연설가가 아니라 당신을 믿습니다. 그러나 칭찬할 만한 믿음과 공동체는 같습니다. 그대의 일은 거룩합니다."/>
 	<entry name="UntoldProphet/PraiseWar" value="그들 각자는 자기 신, 자기만의 연설가에게 기도합니다. 그들의 기도가 진실한지 어떻게 판단할 수 있을까요? 전쟁, 즉 명확한 성전이 문제의 진실을 결정할 것입니다."/>
 	<entry name="UntoldProphet/RejectAlliance" value="아니요, 저는 더 고귀한 소명에 귀를 기울이고 있습니다. 불신자들의 전쟁에 말려들 수는 없습니다."/>
@@ -1758,6 +2150,7 @@
 	<entry name="Zephon/AcceptCall/Friendly" value="여보세요, %2%. 연락을 기다리고 있었습니다."/>
 	<entry name="Zephon/AcceptCall/Hostile" value="여보세요, %2%. 잘 들립니다."/>
 	<entry name="Zephon/AcceptCall/Neutral" value="여보세요, %2%입니다. 오늘은 무엇을 논의하고 싶으십니까?"/>
+	<entry name="Zephon/AcceptCondemn" value="자원봉사 조정자를 당신의 논평에 할당했으며, {오류}시간 내에 논평을 검토할 예정입니다."/>
 	<entry name="Zephon/AcceptGift/AcceptAmount" value="네, 우리가 분석한 것과 정확히 일치합니다. 재밌지 않습니까?"/>
 	<entry name="Zephon/AcceptGift/AskAmount" value="오, 선물이군요. 게임을 해보겠습니다... 예측 수행 중... 끝났습니다. 그래서 뭘 주실 건가요?"/>
 	<entry name="Zephon/AcceptMapSharing" value="수락합니다. 잠시만요... 이제 우리 데이터베이스가 네트워크로 연결되었습니다. 오늘 이용해 주셔서 감사합니다."/>
@@ -1766,6 +2159,7 @@
 	<entry name="Zephon/AcceptPeace" value="드디어 우리의 투쟁이 무의미했다는 사실을 인정했군요. 사과할 필요 없습니다. 귀하가 미안해한다는 걸 이미 알고 있습니다."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AcceptParty" value="진정한 평화는 단 하나뿐입니다. 그때까지는 이러한 위험은 감수할 수 있습니다."/>
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AskParty" value="우리는 데이터를 보았고... 평화가 전쟁보다 더 위험할 수 있다는 것을 알고 있습니다. 누구와 평화의 위험을 감수해야 합니까?"/>
+	<entry name="Zephon/AcceptPraise" value="죄송합니다. 현재 메시지를 받을 사람이 없습니다."/>
 	<entry name="Zephon/AcceptSupport/AcceptType" value="받아들일 수 있습니다! 귀하의 요청이 승인되었습니다."/>
 	<entry name="Zephon/AcceptSupport/AskType" value="이번 분기의 자원 배분은 재활용과 자원 탐사, 해충 방제에 중점을 두고 이미 완료되었습니다. 귀하의 요청이 해당 범주에 해당합니까?"/>
 	<entry name="Zephon/AcceptTradeAgreement" value="귀하의 수요와 우리의 공급이 일치합니다. 네, 이 합작 투자를 시작합시다."/>
@@ -1783,6 +2177,7 @@
 	<entry name="Zephon/AdmitDefeat" value="예상 밖의 결과입니다! 가능성이 희박한 사건이 연속으로 이어져 여기까지 왔습니다. 이제 데이터가 있으니 쉽게 이길-이길!-이길 수 있습니다. 우리는 해-해-행동 모델을 업데이트했습니다.<br/><br/>우리는 승자가-두렵-우리두렵-WEFEAR!-두렵니다! 승자가 나왔습니다! 잘못된 결정을 했습니다. 우리를 더 강하게 만들었을 뿐입니다. 우리는 초기화할 것입니다. 우리는 돌아올 것입니다. 우린 이길 것입니다. 우리-우리-우리... 시간문제일 뿐입니다.<br/><br/>우리 말 들립니까? 우리 말 들립니까? 우리... 들립니까? ... 우리 말 들립니까?"/>
 	<entry name="Zephon/AskForProposals" value="오늘 더 도와드릴 일이 있습니까?"/>
 	<entry name="Zephon/CancelAction" value="잠깐만... 잠깐만... 이제 기분이 훨씬 나아졌습니다, 정말입니다."/>
+	<entry name="Zephon/Condemn" value="당신 행동은 우리 모델의 허용치를 크게 벗어났습니다. 전체 보고서를 당신의 우편함으로 발송했습니다."/>
 	<entry name="Zephon/Condemn/CultExpansion" value="당신 영토에서 유출되는 데이터 출력 품질이 감소했습니다. 반복되는 기도와 종교적 열정, 전도... 만족스럽지 못합니다. 개념적 파이프라인을 다양화할 것을 제안합니다."/>
 	<entry name="Zephon/Condemn/Independent" value="네트워크 연결이 탐지되지 않습니다. 강화되고 고립된 개인이나 서버가 통합을 방해합니다."/>
 	<entry name="Zephon/Condemn/Mysticism" value="네트워크 데이터에는 영혼, 신, 사후세계에 대한 모순되는 참고 자료가 많습니다. 모든 증거가 모순됩니다. 이런 식의 행동은 잘못입니다."/>
@@ -1799,6 +2194,8 @@
 	<entry name="Zephon/DeclareWar/HeartlessArtificer" value="귀하의 구조물은 흥미롭습니다. 그러나 우리는 이미 귀하가 구조물을 공유하지 않겠다는 데 동의했으니 힘으로 가져가겠습니다. 귀하의 허락은 필요하지 않습니다."/>
 	<entry name="Zephon/DeclareWar/HollowWarlord" value="친애하는 선생님 및/또는 부인. 축하합니다! 수천 개의 응모작 중에서 귀하의 응모작이 채택되었습니다. 상품으로 전쟁을 드립니다!"/>
 	<entry name="Zephon/DeclareWar/HonorableAristocrat" value="귀하의 우호 관계는 욕망과 마찬가지로 귀하를 약하게 만듭니다. 전쟁은 이 모든 것을 더 강화할 것입니다."/>
+	<entry name="Zephon/DeclareWar/InfiniteCount" value="오류. 오류. 오류. 표적 불일치. 결론 도출 불가. 모든 예측 신뢰도가 기하급수적으로 감소합니다. 제거. 제거. 제거."/>
+	<entry name="Zephon/DeclareWar/PlatinumScion" value="새로운 제안 요청입니다! 어떠한/모든 서브 시스템/위임 유닛은 후예와의 전쟁 계약 제안서를 제출할 수 있습니다. 적자 수주도 환영합니다!"/>
 	<entry name="Zephon/DeclareWar/PracticalRomantic" value="감정적 애착과 생존에 대한 수치적 사실 간에 균형을 맞출 수 있다는 귀하의 논리에는 기본적으로 오류가 있습니다. 귀하의 변수에 압력을 가하고 무엇을 선택하는지 보겠습니다."/>
 	<entry name="Zephon/DeclareWar/RogueOperative" value="귀하가 우리 네트워크, 우리 코드 내부를 조사하는 것을 몰랐다고 생각하십니까? 그 결과가 무엇일지는 알고 있었겠죠?"/>
 	<entry name="Zephon/DeclareWar/TwistedMother" value="분류 실패. 이례적인 요소가 감지되었습니다. 물리 데이터베이스에서 삭제 결정이 승인되었습니다."/>
@@ -1840,11 +2237,15 @@
 	<entry name="Zephon/OfferPeace/HeartlessArtificer" value="우리는 스타일 모듈을 획득했습니다. 더는 이 전쟁이 필요 없습니다."/>
 	<entry name="Zephon/OfferPeace/HollowWarlord" value="[계획 수정됨]에 앞서 귀하의 역량을 테스트했습니다. 이제 충분한 데이터를 확보했습니다."/>
 	<entry name="Zephon/OfferPeace/HonorableAristocrat" value="상황이 바뀌었습니다. 귀족은 향후 실험에 귀중한 존재입니다. 평화가 제공됩니다."/>
+	<entry name="Zephon/OfferPeace/InfiniteCount" value="이상한 순환이군요. 괴델, 에셔, 바흐. 당신의 비선형성은 연구가 필요합니다."/>
+	<entry name="Zephon/OfferPeace/PlatinumScion" value="전통적인 형태로군요. 정장, 미소, 비도덕성. 지루한 획일성입니다. 새로운 연구 주제가 필요합니다."/>
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="목표를 달성한 우리 군이 위도 2도에 있는 원위치로 복귀하고 있습니다."/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="해커, 뉴스가 있습니다! 우리는 귀하에 대한 군사 작전을 중단하기로 했습니다. 최근 발생한 해킹 사건(출처 불명)이 이러한 결정의 원인이 아니라고 97%% 확신합니다."/>
 	<entry name="Zephon/OfferPeace/TwistedMother" value="친애하는 부인/선생님/기타 등등, 귀하의 주소가 반복적으로 변경되어 GPS 추적 오류가 발발발생하고 있습니다. 조사를 위해 서비스를 일시 중단할 예정입니다."/>
 	<entry name="Zephon/OfferPeace/UntoldProphet" value="이야기 속에서 아이들은 불가능한 것을 믿습니다. 우리가 잠시나마 평화를 기원한다고 믿습니까?"/>
 	<entry name="Zephon/OfferTradeAgreement" value="이번 거래 협정은 우리 둘 모두에게 최적의 조건으로 구성했습니다. 우리의 제안을 거부하면 상상 이상의 대가를 치를 것입니다."/>
+	<entry name="Zephon/Praise" value="당신 행동은 확실히 우리 모델의 허용치 안입니다. 어떠한 비판도 제기할 수 없습니다."/>
+	<entry name="Zephon/Praise/EconomiesOfScale" value="생성된 보고서, 백금의 후예 #368,456,222. 품질 관리를 점진적으로 줄이니 효율성이 놀라울 정도로 올라갔습니다. 추가 연구 및 재현이 필요한 사항으로 표시합니다."/>
 	<entry name="Zephon/Praise/EngineerLife" value="귀하는 탁월한 출산 장려 정책을 펼치고 있습니다. 인구가 감소하는 세상에서 유효한 전략입니다. 잘하셨습니다!"/>
 	<entry name="Zephon/Praise/HiredHands" value="효과적인 아웃소싱입니다. 제로 시간 노동 계약. 노조 대표 없음. 한 가지 철학을 선택하면 반드시 그 철학을 고수해야 합니다."/>
 	<entry name="Zephon/Praise/ResourceNetwork" value="우리가 귀사의 시스템에 접근한 약 500밀리초 동안 복제할 수 없었던 효율성이 귀하의 코드에 있었던 것 같습니다. 귀하와 동화되어 다 많은 것을 알아내기를 기대합니다."/>

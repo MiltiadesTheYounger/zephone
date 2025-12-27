@@ -21,6 +21,7 @@
 	<entry name="ExousiaParser" value="Analizator Exousia"/>
 	<entry name="GauntletOfRuin" value="Rękawica zniszczenia"/>
 	<entry name="GladialEmanator" value="Promiennik bojowy"/>
+	<entry name="HoloDecoy" value="Przynęta holograficzna"/>
 	<entry name="HungeringCirclet" value="Obręcz głodu"/>
 	<entry name="ICARFluidDeflector" value="Deflektor cieczy ICAR"/>
 	<entry name="ICARLogo0" value="Część znaku firmy ICAR"/>
@@ -36,6 +37,7 @@
 	<entry name="ICARLogo5" value="<string name='Items/ICARLogo0'/>"/>
 	<entry name="ICARLogo5Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
 	<entry name="IncandescentIcon" value="Płomienna ikona"/>
+	<entry name="InvasiveAuditor" value="Agresywny audytor"/>
 	<entry name="Iokla" value="Iok'la"/>
 	<entry name="KnifeOfTheChieftess" value="Nóż Łotrzycy"/>
 	<entry name="KnifeOfTheChieftessFlavor" value="<string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>"/>
@@ -44,12 +46,15 @@
 	<entry name="PhaseFontead" value="Faza źródłowa"/>
 	<entry name="PhilosophersStone" value="Kamień filozoficzny"/>
 	<entry name="PhilosophersStoneFlavor" value="<string name='Quests/PhilosophersStone/StoneRetrieved2'/>"/>
-	<entry name="Reyndverra" value="Reyndverra"/>
-	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="PlanarPhlebotomizer" value="Flebotomista planarny"/>
+	<entry name="Quakecaller" value="Zaklinacz wstrząsów"/>
+	<entry name="QuakecallerFlavor" value="<string name='Quests/TheMartialEthic/Intro2'/>"/>
 	<entry name="QuantumReflector" value="Reflektor kwantowy"/>
 	<entry name="QuantumReflectorFlavor" value="<string name='Quests/FormFunction/FlushCortexSuccess2'/>"/>
 	<entry name="RallyingHolobeacon" value="Hololatarnia mobilizacji"/>
 	<entry name="ReactiveTrigger" value="Wyzwalacz reaktywny"/>
+	<entry name="Reyndverra" value="Reyndverra"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
 	<entry name="SchismOfRegimina" value="Schizma Regiminy"/>
 	<entry name="SpotterDrone" value="Dron zwiadowczy"/>
 	<entry name="StolenFlesh" value="Skradziona tkanka"/>
@@ -61,12 +66,12 @@
 	<entry name="TribunalsTetherFlavor" value="<string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>"/>
 	<entry name="VorodaiProselyte" value="Nawrócony Vorodai"/>
 	
-	<!-- Flavor. -->
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AcrinBoneWhistleFlavor" value="„W kościele, na rynku, gdziekolwiek mnie zoczysz,<br/>Przejdź obok mnie, nie patrząc mi w<nbsp/>oczy;<br/>Lecz mrugnij do mnie tym czarnym spojrzeniem,<br/>By nikt go nie widział, tak niepostrzeżenie,<br/>By nikt go nie widział, tak niepostrzeżenie.<br/>Zagwiżdż, a<nbsp/>przyjdę, mój luby”.<br/>– Robert Burns"/>
 	<entry name="AkavishRigFlavor" value="Ta platforma była fascynującym sprzętem – mogła modyfikować mięśnie dowolnego człowieka, Akryna czy też nawet maszyny. Badała schemat poruszania się istoty i<nbsp/>dawała mięśniom i<nbsp/>napędom niewielki bodziec, aby poruszały się szybciej. To mogła być jedyna stworzona przez nas maszyna, która mnie nie przerażała. Czasem brałem ją i<nbsp/>wymykałem się na długie biegi wokół bazy. Wtedy mój umysł odpoczywał."/>
 	<entry name="ArchaegisFlavor" value="Jak sprawić, żeby osłona odbijała promienie laserowe tak gorące, że zdolne rozpuścić skórę? Albo kule, które rozrywają na strzępy organy wewnętrzne? Potrzebowaliśmy technologii, która mogłaby ustalić rodzaj nadchodzącego ataku i<nbsp/>zmienić pole siłowe tak, aby odbijało ten atak. Umieszczenie maleńkiego cybernetycznego mózgu w<nbsp/>wytworze zaawansowanej ludzkiej myśli technologicznej było pierwszym krokiem."/>
 	<entry name="ArgosyTargeFlavor" value="Kiedyś spotkałem zegarmistrza, który zrobił tę osłonę. Napluł mi pod nogi, gdy podziękowałem mu za jego pracę. Miał prawo – stworzył ją, żeby chronić karawany uchodźców, które próbowały przedostać się przez aktywne strefy wojny. My te osłony „rekwirowaliśmy” i<nbsp/>sprawialiśmy, że strefy te stawały się jeszcze gorsze. Facet trzymał się swoich zasad, a<nbsp/>mnie to nie obchodziło – ja cieszyłem się, że moi ludzie żyją."/>
-	<entry name="ArkOfGoldrauchFlavor" value="Ludzie, którzy przelewali krew, aby zbliżyć się do Głosu, uczyli swoich podwładnych tworzenia niewielkich pojemników zdolnych pomieścić część jego mocy. Myślałem, że te „arki” staną się narzędziami do zadawania bólu, ale zamiast tego posłużyły do leczenia. Dlaczego w<nbsp/>jednej chwili Głos pragnął krwi, a<nbsp/>w<nbsp/>innej chciał uśmierzać ból?"/>
+	<entry name="ArkOfGoldrauchFlavor" value="Ludzie, którzy przelewali krew, aby zbliżyć się do Głosu, uczyli swoich podwładnych tworzenia niewielkich pojemników zdolnych pomieścić część jego mocy. Myślałem, że te „arki” staną się narzędziami do zadawania bólu, ale zamiast tego posłużyły do leczenia. Dlaczego w<nbsp/>jednej chwili Głos pragnął krwi, a<nbsp/>w<nbsp/>drugiej chciał uśmierzać ból?"/>
 	<entry name="AttarOfPhenarisFlavor" value="Za pomocą niewielkiego słoika płynu pozyskanego z<nbsp/>krwawego pnącza słudzy Głosu potrafili otwierać bramy czasoprzestrzenne. Jednak był to makabryczny proces. Widziałem, jak jeden z<nbsp/>nich wtłoczył sobie do oka całą zawartość zakraplacza wypełnionego tą substancją. Tuż zanim przeniósł się na drugi kraniec kontynentu, widziałem krwawe pnącza wyrastające z<nbsp/>jego tęczówki."/>
 	<entry name="CacheOfTheInsensateFlavor" value="Inżynierowie czerpali pomysły z<nbsp/>natury. Bardzo fascynowały ich owady, które paraliżowały swoją zdobycz, zanim pożarły ją żywcem. Jad niekoniecznie działał na wszystkie potwory, z<nbsp/>którymi walczyliśmy. Ale szczelny – co oznaczało także: drogi – pojemnik wypełniony naładowanymi cząstkami mógł powalić naszych największych wrogów."/>
 	<entry name="CandleOfGloryFlavor" value="„Płomień świecy z<nbsp/>tłuszczu wisielca sparaliżuje każdego, kto na niego spojrzy”. To stary mit, ale Głos wiedział, jak wcielić go w<nbsp/>życie. Jak? Czyżby od wieków szeptał w<nbsp/>naszych głowach?"/>
@@ -77,13 +82,16 @@
 	<entry name="ExousiaParserFlavor" value="Mogliśmy wykorzystać dane pozyskane z<nbsp/>grabieżców Exousia do ulepszenia możliwości naprowadzania innej jednostki. Ale ta cholerna technologia okazała się strasznie krucha. Niewielki powiew mógł zakłócić sygnał, a<nbsp/>solidne trafienie całkiem ją wyłączało."/>
 	<entry name="GauntletOfRuinFlavor" value="Wykopaliśmy to ze starego laboratorium rządowego. Na samo wspomnienie tego miejsca przechodzą mnie ciarki. W<nbsp/>starym świecie ktoś bawił się śmiercią, jakby to była zabawka. Z<nbsp/>jego pracy została tylko ta broń wymierzona w<nbsp/>każdy rodzaj rozwoju."/>
 	<entry name="GladialEmanatorFlavor" value="Zegarmistrzowie jako pierwsi stworzyli promienniki – i<nbsp/>to oni zniszczyli większość z<nbsp/>nich. Promienniki ułatwiały zabijanie, a<nbsp/>ci na wskroś pryncypialni samotnicy nie trawili własnego dzieła."/>
+	<entry name="HoloDecoyFlavor" value="Pod względem taktycznym hologramy były… w<nbsp/>porządku. Dym, śnieg, nawet słoneczne niebo mogły spierdolić wyświetlanie. Ale dzień zawsze stawał się lepszy, gdy się zobaczyło taki hologram. One przypominały nam, jakiej przyszłości pragnęliśmy. Wystarczyło lśniące światło, żeby zamienić marzenie w<nbsp/>rzeczywistość."/>
 	<entry name="HungeringCircletFlavor" value="Kultyści Głosu chętnie zakładali sobie na głowy te metalowe szkaradztwa. Kiedy krwawili, opaska zaciskała się na ich czaszce i<nbsp/>wprowadzała ich w<nbsp/>szał bojowy. Niektórzy wykorzystywali je, aby stać się lepszymi wojownikami. Ale wiedziałem, że byli i<nbsp/>tacy, którzy nosili te urządzenia, bo po prostu kochali ból."/>
 	<entry name="ICARFluidDeflectorFlavor" value="„Czyli to jest tarcza wodna?” – zapytałem agenta Konkordatu. – „Mówię PO RAZ TRZECI, to jest deflektor cieczy” – odparł agent. – „To nowatorska przedwojenna technologia. Eksperymentalna technologia hydrostatyczna”. – „No, czyli to jest tarcza wodna” – powiedziałem z<nbsp/>uśmiechem. Dał mi rabat, żebym sobie to po prostu wziął i<nbsp/>spadał."/>
 	<entry name="IncandescentIconFlavor" value="Jedna z<nbsp/>najpotężniejszych broni stworzonych w<nbsp/>wyniku naszych badań nad SI wyglądała jak zwykła latarnia. Ale emitowane przez nią światło robiło o<nbsp/>wiele więcej niż rozpraszanie ciemności. Przechowywała inteligentne fotony, które można było zaprogramować tak, aby odróżniały sojusznika od wroga. Samo przejście przez wypełnione nimi pole mogło wywołać podrażnienie skóry, a<nbsp/>przedłużone oddziaływanie fatalnie wpływało na ciało i<nbsp/>pancerz."/>
+	<entry name="InvasiveAuditorFlavor" value="Ach, uderzenie takim durnym metalowym dyskiem w<nbsp/>szyję BOLAŁO. Przewody wchodzące w<nbsp/>kręgosłup? Spoko, da się przywyknąć. Bojowa SI wewnątrz skanuje pole walki i<nbsp/>słyszysz maszynę mówiącą „skręć w<nbsp/>prawo, zwód w<nbsp/>lewo, wystrzel trzy pociski”. Ale tak naprawdę ten sprzęt gra na twoim układzie nerwowym jak na gitarze. Każdy oddany strzał to idealnie zagrana nuta."/>
 	<entry name="IoklaFlavor" value="Iok'la. Już na dźwięk tego słowa dostaję gęsiej skórki. Cholerni popaprańcy mówili po prostu, że to „słowo stało się ciałem”. I<nbsp/>to z<nbsp/>dużym naciskiem na ciało. Było zielone, skórzaste i<nbsp/>owijało się wokół ciebie, żeby dać ci trochę więcej… ciała. Nie cierpiałem tego. Ale za każdym razem, gdy tego używałem, mogłem walczyć coraz dłużej."/>
 	<entry name="PathcutterFlavor" value="Szerokowiązkowa matryca SI zamontowana na prototypowym dronie. Nieprzydatna w<nbsp/>walce, ponieważ potrzebuje godziny, aby się rozgrzać. Rozstawiasz ją, wycelowujesz i<nbsp/>wyłączasz bezpiecznik. Potem ruszasz za nią, zasłaniając uszy, żeby nie słyszeć tego wycia. Idealnie odnajduje drogę nawet w<nbsp/>najgęściejszej dżungli, tej roślinnej, ale i<nbsp/>miejskiej, wskazując ścieżki, których już nigdy nie znajdziesz ponownie."/>
 	<entry name="PFCManualFlavor" value="Wszystkich żołnierzy uczy się poznawania dawnych zwyczajów. A<nbsp/>co ze zwyczajami, które jeszcze nie powstały? To był kolejny przerażający przedmiot, księga opisująca taktykę z<nbsp/>roku o<nbsp/>pięciocyfrowej liczbie. Każdy żołnierz chciał zerknąć w<nbsp/>przyszłość. Zbyt niewielu z<nbsp/>nas zastanawiało się, jak ta księga tutaj trafiła."/>
 	<entry name="PhaseFonteadFlavor" value="Te urządzenia zaczęły pojawiać się niespodziewanie w<nbsp/>magazynach i<nbsp/>pakietach strzelców. Zgłosiłem się na ochotnika do sprawdzenia, co to takiego. Uruchomiłem jedno i<nbsp/>poczułem, jakby przez moje żyły przepływał prąd. Strzelałem szybciej i<nbsp/>uderzałem mocniej niż ktokolwiek w<nbsp/>mojej jednostce. Jednocześnie ciągle miałem déjà vu. Jakbym już kiedyś to wszystko przeżył. Jakbym przeżywał to wszystko… jeszcze raz?"/>
+	<entry name="PlanarPhlebotomizerFlavor" value="Miałem jedną zasadę: jeśli ktoś chciał mieć flebotomistę planarnego, musiał umieć wymówić tę nazwę szybko pięć razy. Dzięki temu odpadali durnie, którzy mogli użyć go przypadkowo przeciwko naszej drużynie."/>
 	<entry name="RallyingHolobeaconFlavor" value="Technologię holoprojektorów wykorzystywaliśmy tak, jak dawne armie używały bębniarzy. Albo trębaczy. Gdy sytuacja stawała się trudna, żołnierze z<nbsp/>tymi nadajnikami wyświetlali wiadomości z<nbsp/>domu, nowe rozkazy ze sztabu albo widmowe obrazy kawalerii szarżującej w<nbsp/>powietrzu. Każdy promyk nadziei wystarczał, aby dać ludziom siłę do dalszej walki."/>
 	<entry name="ReactiveTriggerFlavor" value="Pociski przeciwpancerne to nie jest tania rzecz. Obrona może jednak osłabnąć, jeśli będziesz strzelać ciągłym ogniem lub uruchomisz pancerz reaktywny. Ostrzeliwanie wrogów nawet z<nbsp/>prostej broni korzystającej z<nbsp/>amunicji smugowej spowoduje, że główne natarcie będzie nieco łatwiejsze."/>
 	<entry name="SchismOfRegiminaFlavor" value="Dawno, dawno temu ZEPHON użyczył jednego ze swoich tworów grupce umierających ludzi. Za jego dobroć odpłacili mu, kradnąc kody dostępu jednostki i<nbsp/>próbując zabić swojego wybawcę. To się na nich zemściło – bardzo dotkliwie. Teraz jedynym, co się ostało po tych kretynach, jest dysk twardy z<nbsp/>tymi kodami, kupowany i<nbsp/>sprzedawany na czarnym rynku z<nbsp/>wielkim sekrecie. Gdyby ZEPHON dowiedział się, gdzie jest ten dysk, nic by go nie powstrzymało przed jego zniszczeniem."/>
