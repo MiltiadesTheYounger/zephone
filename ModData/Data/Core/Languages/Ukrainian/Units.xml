@@ -60,9 +60,9 @@
 <entry name="Caitiff" value="Сквернавці"/>
 <entry name="CaitiffProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні чудовиська ближнього бою, що сковують ворогів, легко горять і відроджуються після смерті"/>
 <entry name="CassielShredder" value="Кассіелі-розчленувачі"/>
-<entry name="CassielShredderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота ближнього бою, що зберігає рівень завданої шкоди при зменшенні чисельності загону"/>
+<entry name="CassielShredderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота ближнього бою, що зберігає рівень завданої шкоди при зменшенні чисельності загону"/>
 <entry name="ChayotExterminator" value="Хайот-ліквідатор"/>
-<entry name="ChayotExterminatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна паруюча техніка з потужними дистанційними здібностями та бойовими дронами"/>
+<entry name="ChayotExterminatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна левітуюча техніка з потужними дистанційними здібностями та бойовими дронами"/>
 <entry name="CherubimTitan" value="Херувим-титан"/>
 <entry name="CherubimTitanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний титан-літунець, що вражає ворогів тахіонною зброєю та зменшує шкоду для союзників"/>
 <entry name="ChosenOfThrokos" value="Обранець Трокоса"/>
@@ -73,7 +73,7 @@
 <entry name="CircusAbkhanFlavor" value="&lt;string name='Quests/CircusCambion/AbkluthJousting2'/&gt;"/>
 <entry name="CircusAbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Приручений Абхан"/>
 <entry name="CombatDrone" value="Бойові мелісай"/>
-<entry name="CombatDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота зі штурмовою гвинтівкою"/>
+<entry name="CombatDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота зі штурмовою гвинтівкою"/>
 <entry name="CombatMedic" value="Бойові медики"/>
 <entry name="CombatMedicProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота, здатна лікувати та посилювати біологічні юніти"/>
 <entry name="Commander" value="Командир"/>
@@ -95,20 +95,20 @@
 <entry name="DreadPearlmanFlavor" value="&lt;string name='Quests/ConcordatCompromised/Intro2'/&gt;"/>
 <entry name="DreadPearlmanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
 <entry name="Dreameater" value="Сноїд"/>
-<entry name="DreameaterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика паруюча істота, що знижує бойовий дух ворогів і підкорює зломлених"/>
+<entry name="DreameaterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика левітуюча істота, що знижує бойовий дух ворогів і підкорює зломлених"/>
 <entry name="ElectOfUzhodai" value="Обранець Узодая"/>
 <entry name="ElectOfUzhodaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий біологічний герой ближнього бою, що телепортується по полю бою та карає ворогів на передовій"/>
 <entry name="ElohimMaelstrom" value="Елохіми-урагани"/>
-<entry name="ElohimMaelstromProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота з далекобійними облоговими гарматами, найефективніша на височинах"/>
+<entry name="ElohimMaelstromProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота з далекобійними облоговими гарматами, найефективніша на височинах"/>
 <entry name="EMPDrone" value="ЕМІ-мелісай"/>
-<entry name="EMPDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що підриває себе для оглушення механічних юнітів"/>
+<entry name="EMPDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота, що підриває себе для оглушення механічних юнітів"/>
 <entry name="Engineer" value="Інженери"/>
 <entry name="EngineerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна піхота, що будує міста й дороги, очищає клітинки, а також ремонтує та посилює механічні юніти"/>
 <entry name="ErelimAssassin" value="Ерелім-ассасин"/>
 <entry name="ErelimAssassinProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічний герой для прихованого проникнення в тил ворога, майстер ближнього бою"/>
 <entry name="ErelimPriest" value="Ерелім-жрець"/>
 <entry name="ExousiaMarauder" value="«Ексузія-Мародер»"/>
-<entry name="ExousiaMarauderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний паруючий транспорт, що дозволяє швидко висаджувати юніти"/>
+<entry name="ExousiaMarauderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний левітуючий транспорт, що дозволяє швидко висаджувати юніти"/>
 
 <entry name="FallenOrolos" value="Падлий Оролос"/>
 <entry name="FallenOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота, що заражає тих, хто атакує її в ближньому бою, та володіє далекобійною гарматою, яка стріляє точніше, коли нерухома"/>
@@ -119,7 +119,7 @@
 <entry name="Hammerhead" value="Молотоголови"/>
 <entry name="HammerheadProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічні летуни, що захоплюють застави та усувають Течу"/>
 <entry name="HashmallimHost" value="Хашмаллім-господар"/>
-<entry name="HashmallimHostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна паруюча техніка, що керує гравітацією: ігнорує укриття, вражає великі юніти та впливає на точність союзників і ворогів"/>
+<entry name="HashmallimHostProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна левітуюча техніка, що керує гравітацією: ігнорує укриття, вражає великі юніти та впливає на точність союзників і ворогів"/>
 <entry name="Headquarters" value="&lt;string name='Buildings/Headquarters'/&gt;"/>
 <entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Міська оборона"/>
 <entry name="HollowWarlord" value="&lt;string name='Factions/HollowWarlord'/&gt;"/>
@@ -157,16 +157,16 @@
 <entry name="KlotHadalProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Легендарний абклютський драгун"/>
 <entry name="KlotHadalFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheGreatHunt2'/&gt;"/>
 <entry name="KriteriaAnnihilator" value="Критерій-анігілятор"/>
-<entry name="KriteriaAnnihilatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що стає сильнішою після знищення ворога"/>
+<entry name="KriteriaAnnihilatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота, що стає сильнішою після знищення ворога"/>
 <entry name="KryptArchai" value="Крипт-архай"/>
-<entry name="KryptArchaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний паруючий герой, якого важко ремонтувати, але він здатен керувати матерією для захисту союзників і паралізації ворогів"/>
+<entry name="KryptArchaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний левітуючий герой, якого важко ремонтувати, але він здатен керувати матерією для захисту союзників і паралізації ворогів"/>
 <entry name="LandanGraham" value="Ландан Ґрем"/>
 <entry name="LandanGrahamProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічний учений, здатний очищати клітинки"/>
 <entry name="LandanGrahamAugmented" value="Ландан Ґрем (Посилений)"/>
 <entry name="LandanGrahamAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічний учений, посилений чудовою зброєю на стику людських і акринських технологій"/>
 <entry name="LandanGrahamAugmentedFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/&gt;"/>
 <entry name="MalakimDestroyer" value="Малакими-знищувачі"/>
-<entry name="MalakimDestroyerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна паруюча піхота з потужною перегріваючою зброєю"/>
+<entry name="MalakimDestroyerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічна левітуюча піхота з потужною перегріваючою зброєю"/>
 <entry name="Militant" value="Вояки"/>
 <entry name="MilitantProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Основна піхота з підвищеною скорострільністю на близькій дистанції"/>
 <entry name="MissileTeam" value="Ракетний розрахунок"/>
@@ -202,7 +202,7 @@
 <entry name="ReaverCampFlavor" value="&lt;string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/&gt;"/>
 <entry name="ReaverCampProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне укріплення"/>
 <entry name="RepairDrone" value="Ремонтні мелісай"/>
-<entry name="RepairDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна паруюча піхота, що ремонтує механічних союзників"/>
+<entry name="RepairDroneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Механічна левітуюча піхота, що ремонтує механічних союзників"/>
 <entry name="ResourceTransport" value="Транспорт із ресурсами"/>
 <entry name="Scrambler" value="Блукачі"/>
 <entry name="ScramblerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біомеханічні байкери, що майстерно маневрують, вступаючи в бій і виходячи з нього"/>
@@ -223,7 +223,7 @@
 <entry name="TH3Corsair" value="«TH-3 Корсар»"/>
 <entry name="TH3CorsairProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний летючий транспорт зі здатністю до ухильних маневрів"/>
 <entry name="TesseraCore" value="Тессера-ядро"/>
-<entry name="TesseraCoreProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне паруюче укріплення, здатне керувати гравітацією та діяти кілька разів за хід"/>
+<entry name="TesseraCoreProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике механічне левітуюче укріплення, здатне керувати гравітацією та діяти кілька разів за хід"/>
 
 <entry name="Test" value="Тест"/>
 <entry name="TheFalseSpeaker" value="Фальшивий Вісник"/>
@@ -253,7 +253,7 @@
 <entry name="Wastelander" value="«Пустельник»"/>
 <entry name="WastelanderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний транспорт із важким озброєнням, що посилює союзників поблизу"/>
 <entry name="WhispererOfGoldrauch" value="Шепотійка про Ґолдроха"/>
-<entry name="WhispererOfGoldrauchProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний паруючий герой із дистанційними здібностями для лікування, призову союзників, виявлення та ураження ворогів"/>
+<entry name="WhispererOfGoldrauchProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічний левітуючий герой із дистанційними здібностями для лікування, призову союзників, виявлення та ураження ворогів"/>
 <entry name="ZandraKyne" value="Зандра Каїн"/>
 <entry name="ZandraKyneProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Блискуча й трохи божевільна вчена, що керує часом"/>
 <entry name="ZandraKyneFlavor" value="&lt;string name='Quests/TheLastDaysOfEarth/TheSpaceEngine2'/&gt;"/>
