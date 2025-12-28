@@ -28,6 +28,7 @@
 	<entry name="Reveal" value="&lt;icon texture='GUI/Bullet'/&gt;Відкриває клітини%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->
+	<!-- <entry name="UnlockItem" value="%1% тепер доступний у Конкордаті для цього й майбутніх проходжень"/> -->
 	<entry name="UnlockMutator" value="&lt;icon texture='GUI/Bullet'/&gt;Розблоковує мутатор %1%%2% — його можна активувати у майбутніх проходженнях"/>
 	
 	<!-- %1% conditional from Modifiers.xml, %2% player name -->
