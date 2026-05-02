@@ -12,7 +12,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="AcquireTile" value="Приєднання клітинки"/>
 	<entry name="AcquireTileDescription" value="Перед будівництвом будівель ви повинні захопити для них територію. Натисніть на &lt;icon height='20' texture='Icons/Actions/AcquireTile'/&gt;&lt;nbsp/&gt;Приєднання клітинки та &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;виберіть клітинку з 1 або більше &lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;&lt;nbsp/&gt;слотами для будівель."/>
 	<entry name="Affinities" value="Спорідненості"/>
-	<entry name="AffinitiesDescription" value="Через вашу спорідненість (%1%) ви отримуєте ранній і дешевший доступ до технологій цієї спорідненості, а також ексклюзивний доступ до найвищого рівня досліджень. Втім, дослідження за межами вашої спорідненості можуть принести вам унікальні синергії — перемикайтеся між гілками технологій, щоб переглянути їх."/>
+	<entry name="AffinitiesDescription" value="Через вашу спорідненість %1% ви отримуєте ранній і дешевший доступ до технологій спорідненості %1%, а також ексклюзивний доступ до найвищого рівня досліджень спорідненості %1%. Втім, дослідження за межами вашої спорідненості можуть принести вам унікальні синергії — перемикайтеся між гілками технологій, щоб переглянути їх."/>
 	<entry name="AllianceVictory" value="Союзна перемога"/>
 	<entry name="AllianceVictoryDescription" value="Навіть якщо ви в союзі з усіма, для досягнення перемоги всі ваші союзники теж повинні бути в союзі один з одним."/>
 	<entry name="AreaOrderUnits" value="Наказ юнітам в області"/>
@@ -67,7 +67,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Morale" value="Бойовий дух"/>
 	<entry name="MoraleDescription" value="Втрата союзників поблизу позначилася на &lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;&lt;nbsp/&gt;бойовому дусі юніта. Це погіршить його бойові якості. Щоб юніт відновився, не давайте йому вступати в бій або, навпаки, вбивайте ворожі юніти."/>
 	<entry name="Movement" value="Рух"/>
-	<entry name="MovementDescription" value="Перемістіть вибраний юніт, натиснувши &lt;icon height='20' texture='Icons/RightMouseButton'/&gt;. Кожен юніт може рухатися лише один раз за хід."/>
+	<entry name="MovementDescription" value="Перемістіть вибраний юніт, натиснувши &lt;icon height='20' texture='Icons/RightMouseButton'/&gt;. Кожен юніт може рухатися лише один раз за хід у межах &lt;style color='GUI/Green'/&gt;зеленої області&lt;style color='Default'/&gt;. Скелі, які можуть подолати лише титани й літаючі юніти, позначені &lt;style color='GUI/Orange'/&gt;помаранчевими лініями&lt;style color='Default'/&gt;."/>
 	<entry name="NPCs" value="Неігрові персонажі"/>
 	<entry name="NPCsDescription" value="Крім вас, боротьбу за перевагу ведуть три неігрових лідери: &lt;icon height='20' texture='Icons/Factions/Anchorite'/&gt;&lt;nbsp/&gt;Анахорет, &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt;&lt;nbsp/&gt;Дикунка та &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt;&lt;nbsp/&gt;ЗЕФОН. Укладений з ними мир дозволяє вам запитувати їхню підтримку. Хороші стосунки також дають доступ до додаткових варіантів у завданнях."/>
 	<entry name="NextTask" value="Наступне завдання"/>
@@ -99,7 +99,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Selection" value="Вибір"/>
 	<entry name="SelectionDescription" value="&lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;клацніть по юніту, щоб його вибрати."/>
 	<entry name="Winning" value="Перемога"/>
-	<entry name="WinningDescription" value="Щоб перемогти, завдайте поразки всім гравцям або об'єднайте всіх в один союз."/>
+	<entry name="WinningDescription" value="Щоб перемогти, завдайте поразки всім гравцям або об'єднайте всіх в один союз. У вступній грі вам достатньо здолати &lt;icon height='20' texture='Icons/Factions/HeartlessArtificer'/&gt;&lt;nbsp/&gt;Бездушну Майстриню."/>
 
 	<entry name="Loading" value="Поради з завантажувальних екранів"/>
 	<entry name="Loading/0" value="Вогонь і Теча зупиняють наземні юніти та завдають їм шкоди."/>
@@ -167,7 +167,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Loading/62" value="[&lt;control name='OrderAllUnits'/&gt;] — наказ усім юнітам."/>
 	<entry name="Loading/63" value="[&lt;control name='OrderAreaUnits'/&gt;] — наказ усім юнітам в області (радіус 3)."/>
 	<entry name="Loading/64" value="Переміщайте юніти на великі відстані, клацаючи правою кнопкою по мінікарті."/>
-	<entry name="Loading/65" value="&lt;string name='Tips/CombatDescription'/&gt;"/>
+	<entry name="Loading/65" value="&lt;string name='Tips/DamageCapDescription'/&gt;"/>
 	<entry name="Loading/66" value="Теча, ліси, руїни, вулкани та міські будівлі блокують огляд юнітів."/>
 	<entry name="Loading/67" value="&lt;string name='Tips/EnemyInCityDescription'/&gt;"/>
 	<entry name="Loading/Count" value="68"/>

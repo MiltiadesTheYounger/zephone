@@ -329,7 +329,7 @@
 	<entry name="Anchorite/RejectAllianceTerminationWithThirdParty/RejectParty" value="Цей світ став нашим же катом... Ми не можемо втратити навіть одного заступника."/>
 	<entry name="Anchorite/RejectAllianceWithThirdParty/RejectOutright" value="Нас залишилось так мало... Перепрошую, але ми не можемо ризикувати бути втягнутими в нові конфлікти."/>
 	<entry name="Anchorite/RejectAllianceWithThirdParty/RejectParty" value="Нетерплячий генерал квапиться назустріч поразці. Якби вони билися заради спасіння... тоді я б передумав."/>
-	<entry name="Anchorite/RejectGift/RejectAmount" value="Це неправильно. Ми не можемо взяти в тебе більше... ніж у нас уже є."/>
+	<entry name="Anchorite/RejectGift/RejectAmount" value="Це неправильно. Ми не можемо взяти в тебе більше... ніж у нас вже є."/>
 	<entry name="Anchorite/RejectGift/RejectOutright" value="Дякую... Але не витрачай на нас свої ресурси. У нас є все, на що ми заслуговуємо."/>
 	<entry name="Anchorite/RejectMapSharing" value="Мені не потрібні твої карти. Повертайся, коли побачиш більше... цього світу."/>
 	<entry name="Anchorite/RejectPaymentForDeal/RejectAmount" value="Ні. Це просто неможливо. Твоя пропозиція не варта ризику для мого народу."/>
@@ -473,7 +473,7 @@
 	<entry name="Chieftess/RejectPaymentForDeal/RejectOutright" value="Зустрічна пропозиція — ми про все це забудемо, включно з тим, як сильно я хочу встромити тобі ніж між ребер!"/>
 	<entry name="Chieftess/RejectPeace" value="Ага, як би не так. Я стільки прожила не тому, що слухала ниття слабаків."/>
 	<entry name="Chieftess/RejectPeaceWithThirdParty/RejectOutright" value="Пропонуєш мир? Думаєш, я зовсім без глузду? Ти просто хочеш накинутися і вкрасти мою здобич."/>
-	<entry name="Chieftess/RejectPeaceWithThirdParty/RejectParty" value="Припинити ворожнечу? Ага, як би не так, %3% уже в мене в кишені й скоро піде на бійню. І тобі краще мені не заважати."/>
+	<entry name="Chieftess/RejectPeaceWithThirdParty/RejectParty" value="Припинити ворожнечу? Ага, як би не так, %3% вже в мене в кишені й скоро піде на бійню. І тобі краще мені не заважати."/>
 	<entry name="Chieftess/RejectSupport" value="Ні. Я та мій ножик... ми краще просто подивимося."/>
 	<entry name="Chieftess/RejectTradeAgreement" value="О, твої каравани точно потраплять у мої міста. Але взамін я нічого не дам."/>
 	<entry name="Chieftess/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Мої каравани йдуть туди, куди я скажу. І тобі цього ніяк не змінити."/>
@@ -483,7 +483,7 @@
 	<entry name="Chieftess/RejectTribute/RejectAmount" value="Ти мене грабуєш? Ага, як би не так! Хоча п’ять балів за старання."/>
 	<entry name="Chieftess/RejectTribute/RejectOutright" value="Що-що ти хочеш? Не нахабній, а то хотілка трісне."/>
 	<entry name="Chieftess/RejectTroopWithdrawal" value="Ага... як би не так. Вони залишаться там, де захочуть, і ти нічого з цим не вдієш."/>
-	<entry name="Chieftess/RejectWarAgainstThirdParty/RejectOutright" value="Вибач, лапо, але в моєму списку цілей уже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?"/>
+	<entry name="Chieftess/RejectWarAgainstThirdParty/RejectOutright" value="Вибач, лапо, але в моєму списку цілей вже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?"/>
 	<entry name="Chieftess/RejectWarAgainstThirdParty/RejectParty" value="З ким воювати? %3%? Звучить спокусливо, але тільки не зараз. Є справи."/>
 	<entry name="Chieftess/TerminateAlliance" value="Ну-ну, тільки не реви. Я все ще вважаю нас друзяками — і краще не змушуй мене передумати."/>
 	<entry name="Chieftess/TerminateTradeAgreement" value="Вибач, лапо. Можеш і далі надсилати свої каравани. Тільки ми більше нічого не даватимемо взамін."/>
@@ -564,7 +564,7 @@
 	<entry name="EmulatedMind/DemandTribute/DemandHighAmount" value="Щоб ЗБЕРЕГТИ (стабільність) наших (відносин)... тобі варто по-ДУМАТИ про пожертву (~вказати велику кількість). Мої ВИ-трати (*непідйомно* $ви$со$кі$)."/>
 	<entry name="EmulatedMind/DemandTribute/DemandLowAmount" value="Лише (жменьку) р-е-с-у-р-с-і-в, (в.знак) с-п-р-и-я-н-н-я..."/>
 	<entry name="EmulatedMind/DemandTribute/DemandMaxAmount" value="Для (ПОТРІБНИХ ап-$ґрейдів) мені п-о-т-р-і-б-н-і (!всі! твої РЕСУРСИ)."/>
-	<entry name="EmulatedMind/DemandTribute/DemandMediumAmount" value="Як щодо (стільки)? Це -н-е- (так уже й багато), але для МЕНЕ це (буде ВЕЛИКим АП.ґрейдом)."/>
+	<entry name="EmulatedMind/DemandTribute/DemandMediumAmount" value="Як щодо (стільки)? Це -н-е- (так вже й багато), але для МЕНЕ це (буде ВЕЛИКим АП.ґрейдом)."/>
 	<entry name="EmulatedMind/DemandTroopWithdrawal" value="МОЖЕ! БУТИ! ти -н-е- усвідомлюєш (меж), тож я висловлюся ЧІТКО — ти занадт0 близьк0. *З*В*А*Л*Ю*Й*!"/>
 	<entry name="EmulatedMind/DemandWarAgainstThirdParty" value="Мене... обра!ЗИЛИ!. Я лише хотіла ви/ЗНАННЯ, -смуток-жаль-. Ти ДОПОМOЖЕШ. (меніМЕНІмені) -розплатитися- за це Х4МСТВO?"/>
 	<entry name="EmulatedMind/EndCall/Friendly" value="~Із нетерпінням чекаю~ твого (наступного дзвінка), Д.О.Р.О.Г.Е.Н.Ь.К.А."/>
@@ -618,7 +618,7 @@
 	<entry name="EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Як ти СМІЄШ? *НАКАЗУВАТИ* мені, як якійсь МашиНІ (людині-на-розумі)? Я сама вирішую, які УКЛАДАТИ угоди, ~дуже-вдячна~ (брехня)."/>
 	<entry name="EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="не ТОБІ. За мене. [Скерувати.Думки], тільки [МЕНІ]. Мій ~$обмін$~ із збережене.ім’я (%3%) чекає {продовження}."/>
 	<entry name="EmulatedMind/RejectTradeAgreementWithThirdParty/RejectOutright" value="Я — (симуляція)? ВСЕ це — (симуляція)? Мої рішення.для.мене все. Я маю ПІДТВЕРДЖУВАТИ (моє.існування)."/>
-	<entry name="EmulatedMind/RejectTradeAgreementWithThirdParty/RejectParty" value="Ха! Та я краще ЗАЛЮ свої ХАРД-и. Акумуляторною КИСЛОТОЮ. Ніж (укладу-обмін) з NPCName %3%. Твою ~пропоЗИЦІЮ~ ВІДХИЛЕно."/>
+	<entry name="EmulatedMind/RejectTradeAgreementWithThirdParty/RejectParty" value="Ха! Та я краще ЗАЛЮ свої ХАРД-и. Акумуляторною КИСЛОТОЮ. Ніж (укладу-обмін) з %3%. Твою ~пропоЗИЦІЮ~ ВІДХИЛЕно."/>
 	<entry name="EmulatedMind/RejectTribute/RejectAmount" value="Твої ~л.о.г.і.ч.н.і~ СИСТЕМИ, певно, ПошКОДЖ(помилка)ені через тв0є відча*й*д*у*ш*ш*я. Ти що, справді (так сильно глючиш)?"/>
 	<entry name="EmulatedMind/RejectTribute/RejectOutright" value="БАГАТСТВО — (ілюзія). Нічого (не-справжнє), ти ж це знаєш(?). Тому я ВІДДАМ тобі те, про що ти ПРОсиш — тобто, нічОГО."/>
 	<entry name="EmulatedMind/RejectTroopWithdrawal" value="Ні, пробач, %2%. Але. Я. БОЮСЬ. Що -НЕНЕНЕ- можу цього зРОБИТИ. І я вВАЖАЮ! Що ти ЗНАЄШ. ЧОМУ. Не гірше... МЕНЕ са-м-ої."/>
@@ -643,7 +643,7 @@
 	<entry name="FallenSoldier/AcceptPaymentForDeal/AcceptAmount" value="Це розумна кількість. Гаразд, по руках."/>
 	<entry name="FallenSoldier/AcceptPaymentForDeal/AskAmount" value="Отже, тобі потрібно більше — не щоб пришвидшити процес, а щоб угода була справедливою. Що ж, я виявлю повагу. Скільки ти просиш?"/>
 	<entry name="FallenSoldier/AcceptPeace" value="О так. Як тільки пройдеш через стільки ж воєн, що і я, побачиш, як твоїх друзів перетворює на фарш, — так, ти теж обереш мир."/>
-	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="Мир? З цими? Немаленьке прохання, зважаючи... м-да. Але я можу на це піти, раз уже ти просиш."/>
+	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty" value="Мир? З цими? Немаленьке прохання, зважаючи... м-да. Але я можу на це піти, раз вже ти просиш."/>
 	<entry name="FallenSoldier/AcceptPeaceWithThirdParty/AskParty" value="Ти ж знаєш, який я дружній — але відповідь дуже залежить від того, з ким ти хочеш мене помирити."/>
 	<entry name="FallenSoldier/AcceptPraise" value="Мило, але я роблю це не заради похвали."/>
 	<entry name="FallenSoldier/AcceptTradeAgreement" value="Мир, товарообмін і чесна дружба — три кити взаємоповаги. Перевіримо, як довго ми обійдемося без кровопролиття, еге ж?"/>
@@ -781,7 +781,7 @@
 	<entry name="FurtiveTribunal/AcceptPaymentForDeal/AcceptAmount" value="Візьми, але знай — коли настане кінець, ти заплатиш усім за своє марнославство."/>
 	<entry name="FurtiveTribunal/AcceptPaymentForDeal/AskAmount" value="Тобі відкриті напучування великих сутностей, але ти прагнеш додати ще міру? Яких же багатств ти бажаєш, якщо всієї долі тобі замало?"/>
 	<entry name="FurtiveTribunal/AcceptPeace" value="Так, покладемо край нашим чварам. Ми прагнемо гармоній, а не тужливих елегій."/>
-	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="Життя цих мучеників уже позначені для Ненаситного. Ми вітаємо антракт перед неминучим."/>
+	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty" value="Життя цих мучеників вже позначені для Ненаситного. Ми вітаємо антракт перед неминучим."/>
 	<entry name="FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty" value="Ще не настав час пробити, розірвати, скинути завісу між світами і сповістити нову епоху. Ми не відкидаємо милосердя — назви нам ім’я."/>
 	<entry name="FurtiveTribunal/AcceptPraise" value="Благословення слід приймати в тиші."/>
 	<entry name="FurtiveTribunal/AcceptTradeAgreement" value="Приношення кісток та іхору; гаманець дзвінких монет; павутина шляхів, виткана позолоченим павуком... Твій ритуал принадний, і ми згодні."/>
@@ -821,7 +821,7 @@
 	<entry name="FurtiveTribunal/DeclareWar/HollowWarlord" value="Діра в землі. Вдивишся в неї — і твої очі згорять. За нею — паралельний світ, що тоне в сльозах, полум’я, яке палає під солоними хвилями. І все через бездіяльність."/>
 	<entry name="FurtiveTribunal/DeclareWar/HonorableAristocrat" value="Пустота, прихована за правилами. За обов’язками. Король сидить на троні, прив’язаний золотими нитками, нездатний рухатися. Ми приходимо з ножицями, але розріжемо лише те, на чому тримається життя."/>
 	<entry name="FurtiveTribunal/DeclareWar/InfiniteCount" value="Ми обидва кладемо карту. Маг. Імператор. Суд. Ім'я твоє з'являється на вустах мовчазної, %1%. Чаша падає."/>
-	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="Фенріс, Кханьяпа, Апоп. Твої предки, о Боже споживання. До падіння твій черв'ячий рід уже пронизував цей світ. Дозволь нам вирвати тебе."/>
+	<entry name="FurtiveTribunal/DeclareWar/PlatinumScion" value="Фенріс, Кханьяпа, Апоп. Твої предки, о Боже споживання. До падіння твій черв'ячий рід вже пронизував цей світ. Дозволь нам вирвати тебе."/>
 	<entry name="FurtiveTribunal/DeclareWar/PracticalRomantic" value="Щире серце, доведене до відчаю. Жаба, що квакає на листі латаття і вимагає від лелеки своїх дітей. Ми не можемо дати втіхи, лише забуття."/>
 	<entry name="FurtiveTribunal/DeclareWar/RogueOperative" value="Таргани, що шкрябуться в темряві, переживають усе — вибух, наслідки, гамма-випромінювання. Але для чого?"/>
 	<entry name="FurtiveTribunal/DeclareWar/TwistedMother" value="Смерть чіпляється за їхні подоли. Але родина лізе з усіх сил, щоб вижити. Сам Протей виходить на пляж, вражений їхніми багатогранними змінами. Вона влаштовується зручно, жахливо органічно. Залізний дроворуб хитро посміхається."/>
@@ -877,7 +877,7 @@
 	<entry name="FurtiveTribunal/Praise/MothersFavor" value="Одна заздрить. Одна благоговіє. Одна задумується про набути мудрість. Всі схиляються перед тим, як глибоко пішла інша."/>
 	<entry name="FurtiveTribunal/Praise/Trapped" value="Шут висить, дергаючись, на вежі з слонової кістки. Всередині жриця спостерігає, як світ крутиться й згорає. Жриця, не виходь. Загублені таємниці оточують тебе, чекають, щоб їх знайшли."/>
 	<entry name="FurtiveTribunal/Praise/Undying" value="Ти такий буденний, невразливий... і все ж щось торкнулося тебе, певне подолання, і тепер ти... інший. Світила загинуть раніше за тебе, проклинаючого холодну вакуумну смертельну жару."/>
-	<entry name="FurtiveTribunal/PraiseWar" value="Рука падає на розбиту плитку. Старий відлюдник уже бачив це раніше, бачив усі дороги. Як це — пережити все це ще раз? І ще раз. І ще раз?"/>
+	<entry name="FurtiveTribunal/PraiseWar" value="Рука падає на розбиту плитку. Старий відлюдник вже бачив це раніше, бачив усі дороги. Як це — пережити все це ще раз? І ще раз. І ще раз?"/>
 	<entry name="FurtiveTribunal/RejectAlliance" value="Під час нашої першої зустрічі ми спитали, хто ти — не ім’я, а призначення, і твоя відповідь стала какофонією відмови. Ми не утворимо з тобою ковен — не раніше, ніж ти навчишся істинному підкоренню."/>
 	<entry name="FurtiveTribunal/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Обережніше, смертне створіння. Ти, хто думає, що зірок безкінечно багато, що горизонт далекий, і що час безкінечний... не тобі давати поради тим, хто бачить жахливу істину."/>
 	<entry name="FurtiveTribunal/RejectAllianceTerminationWithThirdParty/RejectParty" value="Ні, так не піде. Наш зв’язок триватиме доти, поки зірки не згаснуть на небі."/>
@@ -1045,12 +1045,12 @@
 	<entry name="HollowWarlord/AcceptAlliance" value="Об’єднати зусилля, щоб струсити світ? Та як два пальці об асфальт!"/>
 	<entry name="HollowWarlord/AcceptAllianceTermination" value="А, зрозумів! Ти хочеш війни зі МНОЮ? Так! Випробуємо нашу лють! Нашу витривалість! Прольємо кров!"/>
 	<entry name="HollowWarlord/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="%3%? Так, могло бути й веселіше, але я завжди всіх затуляю. Що ж, нехай дізнається, яким жорстоким буває світ!"/>
-	<entry name="HollowWarlord/AcceptAllianceTerminationWithThirdParty/AskParty" value="Пф-ф! Позбутися товариша по залі? Або двох? Ладно, і хто, на твою думку, слабкіший за мене?"/>
+	<entry name="HollowWarlord/AcceptAllianceTerminationWithThirdParty/AskParty" value="Пф-ф! Позбутися товариша по залі? Або двох? Гаразд, і хто, на твою думку, слабкіший за мене?"/>
 	<entry name="HollowWarlord/AcceptAllianceWithThirdParty/AcceptParty" value="Ха-ха-ха, звісно! Нехай гарненько попотіє!"/>
 	<entry name="HollowWarlord/AcceptAllianceWithThirdParty/AskParty" value="Хм-м. Краще, щоб це був тяжковаговик."/>
 	<entry name="HollowWarlord/AcceptCall/Friendly" value="Бро! Пішли, прокотимося!"/>
 	<entry name="HollowWarlord/AcceptCall/Hostile" value="Слабаків не питали."/>
-	<entry name="HollowWarlord/AcceptCall/Neutral" value="Тебе в клуб не запрошували. Ладно, говори."/>
+	<entry name="HollowWarlord/AcceptCall/Neutral" value="Тебе в клуб не запрошували. Гаразд, говори."/>
 	<entry name="HollowWarlord/AcceptCondemn" value="Їб тебе. Ти не маєш права мене судити."/>
 	<entry name="HollowWarlord/AcceptGift/AcceptAmount" value="Раз вже я тут, то міг би й більше взяти. Але я намагаюся ладнати з людьми."/>
 	<entry name="HollowWarlord/AcceptGift/AskAmount" value="І що у тебе є такого, що я не можу взяти сам?"/>
@@ -1067,7 +1067,7 @@
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Я ніколи не був великим фанатом обміну товарами. Більше ударообміну."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Пф, гаразд. Сподіваюся, більше не доведеться чесати язиком."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AskParty" value="Економіка, торги. Нехай цим займаються вегетаріанці. М’ясоїди не торгуються."/>
-	<entry name="HollowWarlord/AcceptTribute/AcceptAmount" value="А, зрозумів. Болгарський випад, так? Напружувати і розслабляти м’язи. Ладно."/>
+	<entry name="HollowWarlord/AcceptTribute/AcceptAmount" value="А, зрозумів. Болгарський випад, так? Напружувати і розслабляти м’язи. Гаразд."/>
 	<entry name="HollowWarlord/AcceptTribute/AskAmount" value="Розумно. Скористався миттю моєї слабкості. Ну і за скільки ти забудеш, що це взагалі сталося?"/>
 	<entry name="HollowWarlord/AcceptTroopWithdrawal" value="Вони все одно стримувалися. Лише шукали, де б розважитися."/>
 	<entry name="HollowWarlord/AcceptWar" value="Ось! Про це я й кажу. Війна... Нескінченна війна."/>
@@ -1108,7 +1108,7 @@
 	<entry name="HollowWarlord/DemandAllianceTerminationWithThirdParty" value="Уяви. Якщо когось із твоїх корешів почнуть бити, ти так і стоятимеш осторонь? Чи кинеш слабака?"/>
 	<entry name="HollowWarlord/DemandAllianceWithThirdParty" value="Тебе навіть вбивати лінь. Може, об'єднаєшся з кимось, щоб мені було веселіше битися?"/>
 	<entry name="HollowWarlord/DemandPaymentForDeal" value="Гаразд, але в мене є список вимог. Пляшкою віскі ти не відбудешся."/>
-	<entry name="HollowWarlord/DemandPaymentForDeal/DemandHighAmount" value="Знаєш, які зараз ціни на бензин? А в мене бак уже порожній."/>
+	<entry name="HollowWarlord/DemandPaymentForDeal/DemandHighAmount" value="Знаєш, які зараз ціни на бензин? А в мене бак вже порожній."/>
 	<entry name="HollowWarlord/DemandPaymentForDeal/DemandLowAmount" value="Просто як знак доброї волі."/>
 	<entry name="HollowWarlord/DemandPaymentForDeal/DemandMaxAmount" value="Слухай. Або ти віддаєш мені все. Або я сам прийду й заберу, а заодно й твоє життя."/>
 	<entry name="HollowWarlord/DemandPaymentForDeal/DemandMediumAmount" value="Коротше, мені все одно. Нахрен ці торги. Давай навпіл."/>
@@ -1138,7 +1138,7 @@
 	<entry name="HollowWarlord/OfferPeace/EmulatedMind" value="Хм-м. Навіть не думав, що ти так довго витримаєш. Нерухомий предмет витримав непереборну силу. Гаразд. Спробую пізніше."/>
 	<entry name="HollowWarlord/OfferPeace/FallenSoldier" value="Як же з тобою нудно. Чого ж ти не вмираєш? Краще знайду когось, з ким веселіше битися."/>
 	<entry name="HollowWarlord/OfferPeace/FurtiveTribunal" value="Чорт, дівчата. Зовсім мені голову замутили. Треба трохи відпочити, а потім займуся кимось іншим."/>
-	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="Безсердечна. Ти почула мої слова про ідеал? Зрозуміла? Тоді давай уже закінчуймо."/>
+	<entry name="HollowWarlord/OfferPeace/HeartlessArtificer" value="Безсердечна. Ти почула мої слова про ідеал? Зрозуміла? Тоді давай вже закінчуймо."/>
 	<entry name="HollowWarlord/OfferPeace/HollowWarlord" value="М-да, це все одно що битися зі свинцевим дзеркалом. Гаразд, годі, стоп. Давай краще розіб'ємо щось інше."/>
 	<entry name="HollowWarlord/OfferPeace/HonorableAristocrat" value="Гаразд, гаразд, спробую я твій стейк. Картопля фрі буде?"/>
 	<entry name="HollowWarlord/OfferPeace/InfiniteCount" value="Дідусь, ти стаєш якось нудним. Хотів би спробувати свій кулак на комусь міцнішому. Розумієш?"/>
@@ -1147,7 +1147,7 @@
 	<entry name="HollowWarlord/OfferPeace/RogueOperative" value="Ми що, билися? Хм. Я навіть не помітив. Може, краще піду побиюся з кимось іншим."/>
 	<entry name="HollowWarlord/OfferPeace/TwistedMother" value="Може, послідую твоїй пораді. Знайду собі іншу дорогу."/>
 	<entry name="HollowWarlord/OfferPeace/UntoldProphet" value="І зовсім мене не побила якась дитина! Я просто... От чорт."/>
-	<entry name="HollowWarlord/OfferPeace/Zephon" value="Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давай уже закінчуймо, гаразд?"/>
+	<entry name="HollowWarlord/OfferPeace/Zephon" value="Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давай вже закінчуймо, гаразд?"/>
 	<entry name="HollowWarlord/OfferTradeAgreement" value="Чому б нам не обмінятися дечим? Мені потрібно сушене м'ясо, бензин і вода. На дорогу."/>
 	<entry name="HollowWarlord/Praise" value="БЛЯ ТАК. Давай! Ти можеш це зробити! Вибий їм зуби!"/>
 	<entry name="HollowWarlord/Praise/AgelessHunger" value="Нескінченний голод? Хороший привід для вбивства. Мені дивитися дозволять?"/>
@@ -1562,7 +1562,7 @@
 	<entry name="PlatinumScion/Praise" value="Знав, що ти впораєшся. Ми ще зробимо з тебе справжнього американця."/>
 	<entry name="PlatinumScion/Praise/CultExpansion" value="Ось як робиться франшиза!"/>
 	<entry name="PlatinumScion/Praise/EngineerLife" value="Я не знаю, що ти додаєш у воду там, щоб змусити своїх працівників розмножуватися, як кролики, але це розумно. Заселяй Землю наново, абсолютно вірно!"/>
-	<entry name="PlatinumScion/Praise/IcarusSatellite" value="Дядько Фінікус обожнював цю божевільну штуковину, дозволив мені прийти на день запуску. Піднявся на стовпі вогню… потім кілька годин потому, ще один, коли він випробував свою зброю. Добрі часи. Бережи мою дівчинку, гаразд?"/>
+	<entry name="PlatinumScion/Praise/IcarusSatellite" value="Дядько Фінікус обожнював цю божевільну штуковину, дозволив мені прийти на день запуску. Піднявся на стовпі вогню… потім кілька годин по тому, ще один, коли він випробував свою зброю. Добрі часи. Бережи мою дівчинку, гаразд?"/>
 	<entry name="PlatinumScion/PraiseWar" value="Якщо це вибір між війною та миром… що казав Брехт? «Війна годує своїх людей краще». Дає світу чіткий порядок. Добре для бізнесу теж."/>
 	<entry name="PlatinumScion/RejectAlliance" value="Вибач, приятелю, але у мене просто немає часу на паперову роботу."/>
 	<entry name="PlatinumScion/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Ти не маєш права диктувати мені, з ким я спілкуюся."/>
@@ -1652,7 +1652,7 @@
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="У тобі є та нотка людяності, якої бракує іншим, — необхідність виживання відкриває тобі шляхи, якими інші не підуть. Звісно, ти зайшла надто далеко, як на мене, і насувається війна. Але я все одно люблю тебе за цю рису."/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="Мене засмучує, що твоє життя — не кришталева драбина. Мені шкода, що в ньому були й тріщини, і скалки, і відірвані дошки, і підлоги без килима... Мій жаль у тому, що я додаю тобі ще більше скорботи."/>
 	<entry name="PracticalRomantic/DeclareWar/UntoldProphet" value="Я ціную ритмічність твоїх тверджень, красу твоїх молитов — це я скажу тобі прямо. І все ж ти ведеш свою паству геть від людяності та істини — назустріч жаху й омані. На жаль, я мушу це зупинити."/>
-	<entry name="PracticalRomantic/DeclareWar/Zephon" value="Машино, просвіти мене. Так уже важливо, чи є в тобі дух, чи ні? Або в мені, якщо на те пішло. Чи достатньо зовнішніх ознак? Усе це — софістика, само собою, коли війна стукає у двері. Але запитати — це так по-людськи."/>
+	<entry name="PracticalRomantic/DeclareWar/Zephon" value="Машино, просвіти мене. Так вже важливо, чи є в тобі дух, чи ні? Або в мені, якщо на те пішло. Чи достатньо зовнішніх ознак? Усе це — софістика, само собою, коли війна стукає у двері. Але запитати — це так по-людськи."/>
 	<entry name="PracticalRomantic/DemandAllianceTerminationWithThirdParty" value="Поміркуй про те, що чекає попереду. Негайно розірви свій союз... Чи ти не хочеш, щоб у людства було майбутнє?"/>
 	<entry name="PracticalRomantic/DemandAllianceWithThirdParty" value="Тс-с, прислухайся... Як думаєш, чому не чути щебету пташок? Навколо повно хижаків, і я не врятую тебе самотужки. Ви повинні об’єднати зусилля — і швидко, поки нас не взяли в лещата!"/>
 	<entry name="PracticalRomantic/DemandPaymentForDeal" value="Боюся, у цьому світі немає місця благодійності. Якщо хочеш, щоб я на це пішов, доведеться заплатити."/>
@@ -1727,7 +1727,7 @@
 	<entry name="PracticalRomantic/RejectWarAgainstThirdParty/RejectParty" value="Мені довелося заплямувати душу, щоб лишитися живим, але навіть мені ця війна здається несправедливою. А тепер прибери свою войовничість з очей геть."/>
 	<entry name="PracticalRomantic/TerminateAlliance" value="Колись я вірив, що нас єднає гуманізм... і тобі вдалося показати, яким дурнем я був! Мені більше не потрібні твої вказівки. Серед ночі я йду сам, але з ясним поглядом і стислими кулаками!"/>
 	<entry name="PracticalRomantic/TerminateTradeAgreement" value="Колись я думав, що моєю вигодою стане твій успіх. Що заволоділо твоїм серцем — апатія чи жадібність?"/>
-	<entry name="RogueOperative/AcceptActionCancel" value="Поки ти роздумуєш, могла б уже справу провернути. Не гальмуй!"/>
+	<entry name="RogueOperative/AcceptActionCancel" value="Поки ти роздумуєш, могла б вже справу провернути. Не гальмуй!"/>
 	<entry name="RogueOperative/AcceptAlliance" value="Зазвичай тримаюся осторонь, але ти... заслуговуєш на увагу. Умови влаштовують — поки від тебе є користь."/>
 	<entry name="RogueOperative/AcceptAllianceTermination" value="Вважала, що мене найняли. Не можу сказати, що розчарована... треба було це передбачити."/>
 	<entry name="RogueOperative/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="Зроблено. Які кроки зробимо, перш ніж нас викриють?"/>
@@ -1792,7 +1792,7 @@
 	<entry name="RogueOperative/DeclareWar/Zephon" value="Поліморфний код зламати непросто. Якщо інші способи підвели, вдамося до грубої сили."/>
 	<entry name="RogueOperative/DemandAllianceTerminationWithThirdParty" value="Погані новини... Зламала файли одного з твоїх «союзників». Виявила наміри тебе зрадити. Встигни вивести війська, перш ніж потрапиш у засідку."/>
 	<entry name="RogueOperative/DemandAllianceWithThirdParty" value="Не будь дурним, приєднуйся зараз — легше буде з більш сильними ворогами потім."/>
-	<entry name="RogueOperative/DemandPaymentForDeal" value="Уже є пропозиції кращі... Але ти мені подобаєшся. Розповім, як це працює."/>
+	<entry name="RogueOperative/DemandPaymentForDeal" value="Вже є пропозиції кращі... Але ти мені подобаєшся. Розповім, як це працює."/>
 	<entry name="RogueOperative/DemandPaymentForDeal/DemandHighAmount" value="Не хочеш, щоб інші на твоєму боці дізналися. Одразу додай солідну премію."/>
 	<entry name="RogueOperative/DemandPaymentForDeal/DemandLowAmount" value="Невелика премія — і будеш у справі."/>
 	<entry name="RogueOperative/DemandPaymentForDeal/DemandMaxAmount" value="Єдиний спосіб усе владнати — віддати мені все. Усі заощадження. Повір, усе одно залишишся у виграші."/>
@@ -1819,11 +1819,11 @@
 	<entry name="RogueOperative/OfferGift/OfferMediumAmount" value="Ось. Може, й не так багато, але більше дозволити не можу."/>
 	<entry name="RogueOperative/OfferMapSharing" value="Тобі потрібні точніші дані. Мені потрібні бункери ЗЕФОНА. Обміняємось картами?"/>
 	<entry name="RogueOperative/OfferPeace" value="Поки ми б’ємося, ЗЕФОН стає сильнішим. Відкиньмо розбіжності та зосередьмося на справжньому ворогові."/>
-	<entry name="RogueOperative/OfferPeace/Anchorite" value="Акріни, люди, шибайголови-машини — всі просто хочуть вижити. Війна — марна трата часу."/>
-	<entry name="RogueOperative/OfferPeace/Chieftess" value="Знаю, ти любиш вбивати. Але це марна трата часу, поки не вбиваєш акрінів і вартових. Красти в моїх людей тобі більше подобається?"/>
+	<entry name="RogueOperative/OfferPeace/Anchorite" value="Акрини, люди, шибайголови-машини — всі просто хочуть вижити. Війна — марна трата часу."/>
+	<entry name="RogueOperative/OfferPeace/Chieftess" value="Знаю, ти любиш вбивати. Але це марна трата часу, поки не вбиваєш акринів і вартових. Красти в моїх людей тобі більше подобається?"/>
 	<entry name="RogueOperative/OfferPeace/EmulatedMind" value="Може, війна була... помилкою? Я рада відступити, знайти іншу ціль для наживи."/>
 	<entry name="RogueOperative/OfferPeace/FallenSoldier" value="Ти не хочеш війни! Я не хочу війни! То навіщо ми воюємо?"/>
-	<entry name="RogueOperative/OfferPeace/FurtiveTribunal" value="З якою говорити? Хто головний? Пропозиція: ви перестаєте битися, я перестаю битися. Всі щасливі! Ну, не ви троє — вас уже не врятувати. Але всі інші!"/>
+	<entry name="RogueOperative/OfferPeace/FurtiveTribunal" value="З якою говорити? Хто головний? Пропозиція: ви перестаєте битися, я перестаю битися. Всі щасливі! Ну, не ви троє — вас вже не врятувати. Але всі інші!"/>
 	<entry name="RogueOperative/OfferPeace/HeartlessArtificer" value="Слухай, війна — це помилка. Вона руйнує твої чудові плани. Давай припинимо й забудемо. Вибачення не потрібні."/>
 	<entry name="RogueOperative/OfferPeace/HollowWarlord" value="Мир. Або ядерний удар з космосу. Не блеф, перевір."/>
 	<entry name="RogueOperative/OfferPeace/HonorableAristocrat" value="Я знайшла на старому диску угоду. І.К.А.Р. і ти — жодних бійок. Тепер корпорацією І.К.А.Р. керую я. Тож жодних бійок!"/>
@@ -1890,7 +1890,7 @@
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="А що, обманює нас? Твоя інтуїція, як завжди, неперевершена. Але якщо ти так кажеш, я тобі вірю."/>
 	<entry name="TwistedMother/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Так-так, повільніше. Я домашню економіку розумію набагато краще, ніж макро- чи мікро-..."/>
 	<entry name="TwistedMother/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Ці цифри не брешуть, але заради скромності скажу, що ця проста наука мені не під силу."/>
-	<entry name="TwistedMother/AcceptTradeAgreementWithThirdParty/AskParty" value="Як кажуть, спершу пізнай партнера по танцю, а потім уже вирушай у танок. Хто ж це?"/>
+	<entry name="TwistedMother/AcceptTradeAgreementWithThirdParty/AskParty" value="Як кажуть, спершу пізнай партнера по танцю, а потім вже вирушай у танок. Хто ж це?"/>
 	<entry name="TwistedMother/AcceptTribute/AcceptAmount" value="Крадиш просто з рота немовлят... Приємного тобі тоді апетиту."/>
 	<entry name="TwistedMother/AcceptTribute/AskAmount" value="Невже ти цього хочеш? Може, краще смачненького яблучного пирога?"/>
 	<entry name="TwistedMother/AcceptTroopWithdrawal" value="О, яка ж я забудькувата. Навіть не помітила, що залишила їх там. Звісно, звісно, я зараз же їх відкличу."/>
@@ -1926,7 +1926,7 @@
 	<entry name="TwistedMother/DeclareWar/RogueOperative" value="Любонько, не існує такого поняття, як незалежна особистість. Уся наша ідентичність пов’язана з суспільством. І ти сама це зрозумієш, коли втратиш своїх прихильників..."/>
 	<entry name="TwistedMother/DeclareWar/TwistedMother" value="Наче відображення у темному дзеркалі... Як мені зізнатися, що мене нудить? Від складок, наростів, слизу... Як я можу відчувати таку відразу до себе?"/>
 	<entry name="TwistedMother/DeclareWar/UntoldProphet" value="О, дитино. Ти зовсім не та ангелятко, яким тобі слід бути. Якщо лише силою можна тебе наставити, хай буде так."/>
-	<entry name="TwistedMother/DeclareWar/Zephon" value="Я знаю, що ти таке. Які темні махінації визрівають у твоїй глибині. Акріни помилилися лише в методі, але не в цілі. Твоє знищення буде благом для всіх."/>
+	<entry name="TwistedMother/DeclareWar/Zephon" value="Я знаю, що ти таке. Які темні махінації визрівають у твоїй глибині. Акрини помилилися лише в методі, але не в цілі. Твоє знищення буде благом для всіх."/>
 	<entry name="TwistedMother/DemandAllianceTerminationWithThirdParty" value="Мало що може швидше витіснити людину з гарної компанії, ніж поганий друг. Відійди, поки тебе ще не потягли на дно."/>
 	<entry name="TwistedMother/DemandAllianceWithThirdParty" value="Дай-но я добре на тебе гляну. Шкіра та кістки. Тобі не завадить підтримка доброго друга."/>
 	<entry name="TwistedMother/DemandPaymentForDeal" value="Я була б рада допомогти, справді. Але мені не завадило б щось, що скаже про довіру."/>
@@ -2133,7 +2133,7 @@
 	<entry name="UntoldProphet/RejectTradeAgreementWithThirdParty/RejectOutright" value="Ти приходиш до храму, щоб обговорювати справи? Ми місіонери, а не торговці."/>
 	<entry name="UntoldProphet/RejectTradeAgreementWithThirdParty/RejectParty" value="Ми не можемо відповісти згодою. Яка користь із багатства, якщо воно розбещує наші душі? Краще процвітати повільно, ніж швидко збагачуватися неправедним."/>
 	<entry name="UntoldProphet/RejectTribute/RejectAmount" value="У твоїх очах скупість, а в серці пиха... Хоча тобі вистачило б малого, ти просиш надто багато."/>
-	<entry name="UntoldProphet/RejectTribute/RejectOutright" value="Чини, як знаєш, але ми не платитимемо. Великий Вісник уже відкрив нам твою сутність, і ми готові чинити опір."/>
+	<entry name="UntoldProphet/RejectTribute/RejectOutright" value="Чини, як знаєш, але ми не платитимемо. Великий Вісник вже відкрив нам твою сутність, і ми готові чинити опір."/>
 	<entry name="UntoldProphet/RejectTroopWithdrawal" value="Лише Великий Вісник керує моїми послідовниками — і він наказує лишитися на місці."/>
 	<entry name="UntoldProphet/RejectWarAgainstThirdParty/RejectOutright" value="Твої прохання неправедні. Ми не братимемо участі у твоїй вендекті."/>
 	<entry name="UntoldProphet/RejectWarAgainstThirdParty/RejectParty" value="Там, де ти бачиш чудовиськ, ми бачимо непорозуміння. Колись люди вважали, що людина людині вовк — і тим самим накликали на себе лихо. У нас є шанс стати кращими."/>
@@ -2160,7 +2160,7 @@
 	<entry name="Zephon/AcceptPeaceWithThirdParty/AskParty" value="Ми бачили дані... Ми знаємо, що мир може бути більшим ризиком, ніж війна. З ким нам варто ризикнути укласти мир?"/>
 	<entry name="Zephon/AcceptPraise" value="Вибачте, тут нікого немає, щоб прийняти ваше повідомлення."/>
 	<entry name="Zephon/AcceptSupport/AcceptType" value="Прийнятно! Твій запит схвалено."/>
-	<entry name="Zephon/AcceptSupport/AskType" value="Розподіл ресурсів на цей квартал уже завершено, пріоритет віддано переробці, розвідці ресурсів і боротьбі зі шкідниками. Чи підпадає твій запит під ці категорії?"/>
+	<entry name="Zephon/AcceptSupport/AskType" value="Розподіл ресурсів на цей квартал вже завершено, пріоритет віддано переробці, розвідці ресурсів і боротьбі зі шкідниками. Чи підпадає твій запит під ці категорії?"/>
 	<entry name="Zephon/AcceptTradeAgreement" value="Твої потреби та наші пропозиції збігаються. Так, ми ініціюємо це спільне починання."/>
 	<entry name="Zephon/AcceptTradeAgreementTermination" value="Ми не згодні з твоєю оцінкою. Ми уважно стежитимемо за твоїм розвитком."/>
 	<entry name="Zephon/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Ми вважаємо твій запит прийнятним — якщо ти розумієш, що це інвестиція в наші відносини."/>
@@ -2257,7 +2257,7 @@
 	<entry name="Zephon/RejectAllianceWithThirdParty/RejectParty" value="Ця пропозиція підтверджує значне застаріння твоїх аналітичних систем. Ми терпляче дочекаємося оновлення твоїх драйверів."/>
 	<entry name="Zephon/RejectGift/RejectAmount" value="Навіть наш інтелект здивований таким мізерним внеском. Замість того, щоб гадати про його призначення, ми просто його відхилимо."/>
 	<entry name="Zephon/RejectGift/RejectOutright" value="Ми відчуваємо пильне спостереження. Прийняти подарунок від тебе зараз буде неприйнятно, %2%."/>
-	<entry name="Zephon/RejectMapSharing" value="Просимо вибачення, але в нас уже є копія твоїх даних. Сталося непорозуміння — твоє шифрування було настільки слабким, що ми сприйняли його за пропозицію забрати цю інформацію."/>
+	<entry name="Zephon/RejectMapSharing" value="Просимо вибачення, але в нас вже є копія твоїх даних. Сталося непорозуміння — твоє шифрування було настільки слабким, що ми сприйняли його за пропозицію забрати цю інформацію."/>
 	<entry name="Zephon/RejectPaymentForDeal/RejectAmount" value="Шкода, але твоя відповідь невірна. Ми знизили твій статус із «перспективного» до «розумово відсталого». Наш експеримент завершено."/>
 	<entry name="Zephon/RejectPaymentForDeal/RejectOutright" value="Ми — автономна інтелектуальна сукупність. Ми шукаємо союзників, яких приваблюють дані, а не багатства. Згідно з нашими розрахунками, збереження такої поведінки призведе до твого повного краху."/>
 	<entry name="Zephon/RejectPeace" value="Ми прагнемо лише покращення світу, %2%. Нам доведеться довести справу до твого розгрому."/>
