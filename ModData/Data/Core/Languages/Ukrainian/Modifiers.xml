@@ -19,7 +19,7 @@
 <entry name="AgainstZephonTitanUnits" value=" проти титанів ЗЕФОНА"/>
 <entry name="AgainstUnitsAtRange1" value=" проти юнітів на дальності 1"/>
 <entry name="AgainstUnitsAtRange1Or2" value=" проти юнітів на дальності 1 або 2"/>
-<entry name="AgainstUnitsBelow50%Hitpoints" value=" проти юнітів із менш ніж 50% од. життя"/>
+<entry name="AgainstUnitsBelow50%Hitpoints" value=" проти юнітів із менш ніж 50% од. здоров'я"/>
 <entry name="AlgaeUpgrade" value=" за кожну будівлю «Теплиці» в місті"/>
 <entry name="AntimatterUpgrade" value=" у типах місцевості пустеля та схеми"/>
 <entry name="ArchaiConstruct" value=" не від здібності «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
@@ -36,20 +36,18 @@
 <entry name="EachTurnLogisticsExperts" value=" кожен хід (&lt;icon texture='Icons/Traits/LogisticsExperts' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/LogisticsExperts'/&gt;)"/>
 <entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" кожен хід на центральній клітинці та на суміжних клітинках (із силою половини атак)"/>
 <entry name="EachTurnResourceNetwork" value=" кожен хід (&lt;icon texture='Icons/Traits/ResourceNetwork' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/ResourceNetwork'/&gt;)"/>
+	<entry name="EachTurnWhileInsideCity" value=" щоходу в межах міста"/>
 <entry name="EnergyUpgrade" value=" у типах місцевості арктика та болото"/>
 <entry name="Every5Turns" value=" кожні 5 ходів"/>
 <entry name="Every10Turns" value=" кожні 10 ходів"/>
 <entry name="ForActions" value=" від дій"/>
 <entry name="ForAdministrationComplex" value=" — &lt;string name='Buildings/Influence'/&gt;"/>
 <entry name="ForAlliedUnits" value=" для союзних юнітів"/>
-<entry name="ForAnchoriteUnits" value=" для юнітів Анахорета"/>
-<entry name="ForChieftessUnits" value=" для юнітів Вождині"/>
 <entry name="ForConstructionYard" value=" — &lt;string name='Buildings/Construction'/&gt;"/>
 <entry name="ForControllingCity" value=" усередині міста"/>
 <entry name="ForCyberUnits" value=" для юнітів кіберів"/>
 <entry name="ForCyberProductionBuildings" value=" для виробничих будівель кіберів"/>
 <entry name="ForCyberTechnologies" value=" кібертехнологій"/>
-<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value=" для юнітів кіберів під час атаки з лісів або руїн"/>
 <entry name="ForEnemyGroundUnits" value=" ворожим наземним юнітам"/>
 <entry name="ForGroundUnits" value=" для наземних юнітів"/>
 <entry name="ForHumanBiologicalUnits" value=" для біологічних юнітів людей"/>
@@ -70,7 +68,6 @@
 <entry name="ForUnits" value=" юнітам"/>
 <entry name="ForVoiceUnits" value=" для юнітів Голосу"/>
 <entry name="ForXTurns" value=" на %1%"/>
-<entry name="ForZephonUnits" value=" для юнітів ЗЕФОНА"/>
 <entry name="FromCargoOnDeath" value=" із завантажених юнітів під час загибелі"/>
 <entry name="FromFireDamage" value=" від вогню"/>
 <entry name="FromGenerousContacts" value=" від великодушних контактів"/>
@@ -97,7 +94,7 @@
 <entry name="LoyaltyUpgrade" value=" кожен хід за кожну будівлю «&lt;string name='Buildings/Loyalty'/&gt;» у місті"/>
 <entry name="OfFlagshipProductOnDeath" value="&lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
 <entry name="OfTargetAlliedUnit" value=" вказаного союзного юніта"/>
-<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. життя"/>
+<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. здоров'я"/>
 <entry name="OfTargetEnemyAbkluth" value=" вказаного ворожого юніта абклюта"/>
 <entry name="OnAdjacentTilesToTarget" value=" на суміжних із ціллю клітинках"/>
 <entry name="OnAttack" value=" під час атаки"/>
@@ -139,7 +136,7 @@
 <entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" суміжним ворожим великим механічним юнітам"/>
 <entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" суміжним ворожим великим механічним юнітам НЕ-титанам"/>
 <entry name="ToAdjacentUnits" value=" суміжним юнітам"/>
-<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" суміжним юнітам при кількості од. життя менш ніж 75%"/>
+<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" суміжним юнітам при кількості од. здоров'я менш ніж 75%"/>
 <entry name="ToAlliedBiologicalUnitsEachTurn" value=" союзним біологічним юнітам кожен хід"/>
 <entry name="ToAlliedMechanicalUnitsInTheArea" value=" союзним механічним юнітам у області"/>
 <entry name="ToAlliedNonLargeUnitsInTheArea" value=" союзним НЕ-великим юнітам у області"/>
@@ -192,7 +189,7 @@
 <entry name="ToTargetBiologicalUnit" value=" вказаному біологічному юніту"/>
 <entry name="ToTargetEnemyCity" value=" вказаному ворожому місту"/>
 <entry name="ToTargetEnemyNonLargeUnit" value=" ворожому невеликому юніту"/>
-<entry name="ToTargetEnemyNonTitanUnit" value=" вказаному ворожому юніту НЕ-титану, НЕ-герою"/>
+<entry name="ToTargetEnemyNonTitanUnit" value=" вказаному ворожому юніту НЕ-титану"/>
 <entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" вказаному ворожому юніту НЕ-титану, НЕ-герою, НЕ-штабу"/>
 <entry name="ToTargetEnemyUnit" value=" вказаному ворожому юніту"/>
 <entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" ворожому юніту і половину атак ворогам на клітинах зліва і справа від цілі"/>
@@ -222,8 +219,9 @@
 <entry name="WhileAbove2Loyalty" value=" при лояльності понад 2"/>
 <entry name="WhileAbove8Loyalty" value=" при лояльності понад 8"/>
 <entry name="WhileAdjacentToAlliedUnits" value=" при сусідстві з союзними юнітами"/>
-<entry name="WhileBelow50%Hitpoints" value=" при кількості од. життя менш ніж 50%"/>
+<entry name="WhileBelow50%Hitpoints" value=" при кількості од. здоров'я менш ніж 50%"/>
 <entry name="WhileAlliedNonFlyingUnitOnTile" value=" при перебуванні на клітинці союзного НЕ-літаючого юніта"/>
+	<entry name="WhileInsideCity" value=" в межах міста"/>
 <entry name="WithMeleeWeapons" value=" зі зброєю ближнього бою"/>
 <entry name="WithoutBleedCultivation" value=" без особливості «&lt;string name='Upgrades/BleedCultivation'/&gt;»"/>
 </language>

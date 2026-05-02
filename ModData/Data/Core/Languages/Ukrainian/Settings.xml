@@ -64,6 +64,8 @@
 <entry name="Controls/LobbyAdvancedParameters" value="Показати розширені параметри лобі"/>
 <entry name="Controls/LobbyBasicParameters" value="Показати базові параметри лобі"/>
 <entry name="Controls/LobbyChat" value="Показати чат лобі"/>
+	<entry name="Controls/LobbyDensityParameters" value="Показати параметри щільності ігрового лобі"/>
+	<entry name="Controls/LobbyDLC" value="Показати DLC ігрового лобі"/>
 <entry name="Controls/LobbyMutators" value="Показати мутації лобі"/>
 <entry name="Controls/MarkTile" value="Позначити клітинку"/>
 <entry name="Controls/NextMusicTrack" value="Наступний музичний трек"/>
@@ -158,6 +160,8 @@
 <entry name="General/FriendNamesHint" value="Показувати користувачів вашої платформи як користувачів друзів у списку."/>
 <entry name="General/Language" value="Мова"/>
 <entry name="General/LanguageHint" value="Мова тексту."/>
+	<entry name="General/OpenCompendiumOnNotificationClick" value="Відкривати довідник за натисканням на сповіщення"/>
+	<entry name="General/OpenCompendiumOnNotificationClickHint" value="При натисканні на сповіщення у списку сповіщень відкриває відповідну сторінку довідника (якщо вона є)."/>
 <entry name="General/ResetTips" value="Скинути підказки"/>
 <entry name="General/ResetTipsHint" value="Скинути ігрові підказки, щоб переглянути їх знову."/>
 <entry name="General/ScreenShake" value="Тремтіння екрана"/>

@@ -3,7 +3,7 @@
 <entry name="Abkhan" value="Абхан"/>
 <entry name="AbkhanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий біологічний течеход, який захищає своє гніздо"/>
 <entry name="Abkluth" value="Абклют"/>
-<entry name="AbkluthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи ближнього бою, які щоходу відновлюють одиниці життя"/>
+<entry name="AbkluthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи ближнього бою, які щоходу відновлюють одиниці здоров'я"/>
 <entry name="AbkluthDragoon" value="Абклютські драгуни"/>
 <entry name="AbkluthDragoonProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні течеходи ближнього бою, здатні підкорювати ворожих абклютів"/>
 <entry name="AcrinMilitia" value="Акринські виживальники"/>
@@ -88,7 +88,7 @@
 <entry name="DarkVassael" value="Темний вассаель"/>
 <entry name="DarkVassaelProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика біологічна істота з жахливою атакою, що знижує бойовий дух ворогів"/>
 <entry name="Deformity" value="Потворності"/>
-<entry name="DeformityProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні чудовиська ближнього бою, які створюють нові потворності після вбивства, але щоходу втрачають одиниці життя"/>
+<entry name="DeformityProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні чудовиська ближнього бою, які створюють нові потворності після вбивства, але щоходу втрачають одиниці здоров'я"/>
 <entry name="DevoteeOfThrokos" value="Приверженці Трокоса"/>
 <entry name="DevoteeOfThrokosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічні стрілецькі чудовиська, ефективні проти пошкоджених ворогів"/>
 <entry name="DreadPearlman" value="Дред-Перлман"/>
@@ -180,7 +180,7 @@
 <entry name="Outrider" value="«Колісниця»"/>
 <entry name="OutriderProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний транспорт із легким оснащенням і чудовими розвідувальними здібностями"/>
 <entry name="PhenarisEpicurean" value="Епікурейці Фенариса"/>
-<entry name="PhenarisEpicureanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота ближнього бою, яка тимчасово підвищує свої одиниці життя та лікує союзників, атакуючи ворогів"/>
+<entry name="PhenarisEpicureanProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота ближнього бою, яка тимчасово підвищує свої одиниці здоров'я та лікує союзників, атакуючи ворогів"/>
 <entry name="PhenarisHunter" value="Мисливці Фенариса"/>
 <entry name="PhenarisHunterProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота ближнього бою, що пересувається приховано, створює моторошні ілюзії та розкриває ворогів своїми серпами"/>
 <entry name="PhoenixInterceptor" value="Перехоплювач «Фенікс»"/>
@@ -246,7 +246,7 @@
 <entry name="Village" value="Селище"/>
 <entry name="VillageFlavor" value="&lt;string name='Quests/BecomingUnbound/ConquerorPathSuccess2'/&gt;"/>
 <entry name="Warden" value="Страж"/>
-<entry name="WardenProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний робот, що краде одиниці життя у механічних юнітів і спалює своїх жертв живцем"/>
+<entry name="WardenProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний робот, що краде одиниці здоров'я у механічних юнітів і спалює своїх жертв живцем"/>
 <entry name="WardenAugmented" value="Страж (Посилений)"/>
 <entry name="WardenAugmentedFlavor" value="&lt;string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/&gt;"/>
 <entry name="WardenAugmentedProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Високотехнологічний страж"/>

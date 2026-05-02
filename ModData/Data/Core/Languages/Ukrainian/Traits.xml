@@ -33,7 +33,7 @@
 	<entry name="AmbushFlavor" value="Я сидів на дереві, дивлячись вниз крізь гвинтівку, яку витяг у мертвого снайпера. Чекав на свою ціль, але тоді — рух внизу. Дикий пес. Можливо, койот. Він крався крізь кущі, полюючи на щось, чого я не бачив. Подивись на нас. Двоє мисливців. Готових вдарити з тіні."/>
 	<entry name="AnchoriteStanding" value="Випробування відлюдника"/>
 	<entry name="AnchoriteStandingFlavor" value="&lt;string name='Upgrades/AnchoriteStandingFlavor'/&gt;"/>
-	<entry name="AnchoriteStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує з часом дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Anchorite'/&gt; Анахоретом"/>
+	<entry name="AnchoriteStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Anchorite'/&gt; Анахоретом при отриманні та з часом"/>
 	<entry name="Annihilating" value="Анігіляція"/>
 	<entry name="AnnihilatingFlavor" value="&lt;string name='Traits/AnnihilationProtocolsFlavor'/&gt;"/>
 	<entry name="AnnihilationProtocols" value="Протоколи анігіляції"/>
@@ -118,7 +118,7 @@
 	<entry name="CherubicHallowingFlavor" value="&lt;string name='Actions/CherubicHallowingFlavor'/&gt;"/>
 	<entry name="ChieftessStanding" value="Імміграція Спустошувачів"/>
 	<entry name="ChieftessStandingFlavor" value="&lt;string name='Upgrades/ChieftessStandingFlavor'/&gt;"/>
-	<entry name="ChieftessStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує з часом дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt; Дикункою"/>
+	<entry name="ChieftessStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt; Дикункою при отриманні та з часом"/>
 	<entry name="ChipsUpgrade" value="Вбудований геній"/>
 	<entry name="Cicadas" value="&lt;string name='Features/Cicadas'/&gt;"/>
 	<entry name="CicadasFlavor" value="&lt;string name='Features/CicadasFlavor'/&gt;"/>
@@ -258,7 +258,7 @@
 	<entry name="FallenSoldierAffinityUpgrade2" value="Абляційні нарости"/>
 	<entry name="FallenSoldierAffinityUpgrade2Flavor" value="&lt;string name='Upgrades/FallenSoldierAffinityUpgrade2Flavor'/&gt;"/>
 	<entry name="FerventStrength" value="Невичерпна сила"/>
-	<entry name="FerventStrengthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Не отримує зниження точності при кількості од. життя менше 50%"/>
+	<entry name="FerventStrengthProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Не отримує зниження точності при кількості од. здоров'я менше 50%"/>
 	<entry name="Fire" value="&lt;string name='Features/Fire'/&gt;"/>
 	<entry name="FireFlavor" value="&lt;string name='Features/FireFlavor'/&gt;"/>
 	<entry name="FirstAidDrone" value="&lt;string name='Actions/FirstAidDrone'/&gt;"/>
@@ -279,6 +279,7 @@
 	<entry name="FortressArmamentProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Місто оснащене додатковою далекобійною гарматою"/>
 	<entry name="FragilityOfFlesh" value="Слабкість плоті"/>
 	<entry name="FragilityOfFleshFlavor" value="&lt;string name='Quests/TheDream/AskZephonComplete'/&gt;"/>
+	<entry name="FragmentOfTheFulcrumResource" value="&lt;string name='Features/FragmentOfTheFulcrum'/&gt;"/>
 	<entry name="Frenzy" value="&lt;string name='Actions/Frenzy'/&gt;"/>
 	<entry name="FrenzyFlavor" value="&lt;string name='Actions/FrenzyFlavor'/&gt;"/>
 	<entry name="FurtiveTribunalAffinityUpgrade2" value="Келії відлюдників"/>
@@ -372,8 +373,6 @@
 	<entry name="ImmoralProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Лояльність знижується на 0,5 кожен хід"/>
 	<entry name="ImmaculateDeliveryUpgrade" value="&lt;string name='Upgrades/ImmaculateDeliveryUpgrade'/&gt;"/>
 	<entry name="ImmaculateDeliveryUpgradeFlavor" value="&lt;string name='Upgrades/ImmaculateDeliveryUpgradeFlavor'/&gt;"/>
-	<entry name="ImmuneTransfer" value="&lt;string name='Upgrades/ImmaculateDeliveryUpgrade'/&gt;"/>
-	<entry name="ImmuneTransferFlavor" value="&lt;string name='Upgrades/ImmaculateDeliveryUpgradeFlavor'/&gt;"/>
 	<entry name="IncandescentIcon" value="&lt;string name='Items/IncandescentIcon'/&gt;"/>
 	<entry name="IncandescentIconFlavor" value="&lt;string name='Items/IncandescentIconFlavor'/&gt;"/>
 	<entry name="Independent" value="Незалежна"/>
@@ -396,6 +395,8 @@
 	<entry name="InternalRepairStationFlavor" value="&lt;string name='Actions/InternalRepairStationFlavor'/&gt;"/>
 	<entry name="Iokla" value="&lt;string name='Items/Iokla'/&gt;"/>
 	<entry name="IoklaFlavor" value="&lt;string name='Items/IoklaFlavor'/&gt;"/>
+	<entry name="IonDischarge" value="&lt;string name='Actions/IonDischarge'/&gt;"/>
+	<entry name="IonDischargeFlavor" value="&lt;string name='Actions/IonDischargeFlavor'/&gt;"/>
 	<entry name="JudgementFromAbove" value="Вирок згори"/>
 	<entry name="JustShipIt" value="І так зійде"/>
 	<entry name="JustShipItDebuffAttacks" value="Нижча атака"/>
@@ -725,7 +726,7 @@
 	<entry name="UzhodaisZealFlavor" value="&lt;string name='Actions/UzhodaisZealFlavor'/&gt;"/>
 	<entry name="Valhalla" value="&lt;string name='Actions/Valhalla'/&gt;"/>
 	<entry name="ValhallaFlavor" value="&lt;string name='Actions/ValhallaFlavor'/&gt;"/>
-	<entry name="ValhallaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/DamageIcon'/&gt; шкоди при кожній загибелі будь-якого юніта в області"/>
+	<entry name="ValhallaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/DamageIcon'/&gt; шкоди при кожній загибелі будь-якого юніта в області&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/HitpointsIcon'/&gt; макс. одиниць здоров'я при кожній загибелі будь-якого юніта в області"/>
 	<entry name="VanguardShield" value="Наступальний щит"/>
 	<entry name="VanguardShieldFlavor" value="&lt;string name='Quests/TouchTheSky/CarveFaceSunHighRoad2'/&gt;"/>
 	<entry name="VoiceAircraftUpgrade" value="Рефрен на світанку"/>
@@ -756,7 +757,7 @@
 	<entry name="ZephonInterference" value="Перешкоджаючий ЗЕФОН"/>
 	<entry name="ZephonInterferenceFlavor" value="&lt;string name='Quests/UnderObservation/AcquireShardsFailure2'/&gt;"/>
 	<entry name="ZephonStanding" value="Права ШІ"/>
-	<entry name="ZephonStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує з часом дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt; ЗЕФОНом"/>
+	<entry name="ZephonStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt; ЗЕФОНом при отриманні та з часом"/>
 	<entry name="ZephonVirus" value="Вірус ЗЕФОНа"/>
 	<entry name="ZephonVirusFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherDefendSuccess'/&gt;"/>
 

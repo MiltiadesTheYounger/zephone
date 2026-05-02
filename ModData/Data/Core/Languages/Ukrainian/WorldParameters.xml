@@ -7,6 +7,14 @@
 <entry name="AbkhanDreyDensity3" value="Середня"/>
 <entry name="AbkhanDreyDensity4" value="Висока"/>
 <entry name="AbkhanDreyDensity5" value="Дуже висока"/>
+	<entry name="AIAggressiveness" value="Агресивність ШІ"/>
+	<entry name="AIAggressiveness0" value="Немає"/>
+	<entry name="AIAggressiveness1" value="Дуже мирні"/>
+	<entry name="AIAggressiveness2" value="Мирні"/>
+	<entry name="AIAggressiveness3" value="Звичайні"/>
+	<entry name="AIAggressiveness4" value="Агресивні"/>
+	<entry name="AIAggressiveness5" value="Дуже агресивні"/>
+	<entry name="AIAggressivenessHint" value="Визначає схильність комп’ютерних гравців до миру."/>
 <entry name="AIControlDisconnectedPlayers" value="Відключених гравців контролює ШІ"/>
 <entry name="AIControlDisconnectedPlayersHint" value="Дозволяє ШІ керувати стороною гравців, які втратили з’єднання.&lt;br/&gt;&lt;br/&gt;Доступно лише при вимкненому режимі «Залізна воля»."/>
 <entry name="AdaptiveTurnTimer" value="Адаптивний таймер ходу"/>
@@ -79,6 +87,16 @@
 <entry name="ConstructRegionDensity3" value="Середня"/>
 <entry name="ConstructRegionDensity4" value="Висока"/>
 <entry name="ConstructRegionDensity5" value="Дуже висока"/>
+	<entry name="Diplomacy" value="Дипломатія"/>
+	<entry name="Diplomacy0" value="Жорстко задані команди"/>
+	<entry name="Diplomacy0Hint" value="Найжорсткіші правила: стани війни, миру і союзів задані для всіх і не змінюються через дипломатію під час гри."/>
+	<entry name="Diplomacy1" value="Задані команди + без неігрових союзників"/>
+	<entry name="Diplomacy1Hint" value="Ви можете вести справи з неігровими фракціями, але не можете укладати з ними союзи. Інші гравці не можуть змінювати союзи між собою."/>
+	<entry name="Diplomacy2" value="Задані команди + стандартні неігрові"/>
+	<entry name="Diplomacy2Hint" value="Ви можете вести справи з неігровими фракціями як зазвичай. Інші гравці не можуть змінювати союзи між собою."/>
+	<entry name="Diplomacy3" value="Стандартно"/>
+	<entry name="Diplomacy3Hint" value="Дипломатія з іншими гравцями та неігровими сторонами повністю дозволена. Під час гри можна змінювати стани війни, миру і союзів."/>
+	<entry name="DiplomacyHint" value="Наскільки можна впливати на війну, мир і союзи після початку гри."/>
 <entry name="DLC1" value="DLC «Потворна і Воєвода Порожнечі»"/>
 <entry name="DLC2" value="DLC «Платиновий і Незліченний»"/>
 <entry name="DesertRegionDensity" value="Щільність регіонів: пустеля"/>
@@ -113,6 +131,7 @@
 <entry name="Difficulty6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; величезний бонус до лояльності міст і рівня юнітів.&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%2% &lt;string name='Attributes/LoyaltyIcon'/&gt; лояльність&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3% &lt;string name='Attributes/LevelIcon'/&gt; рівень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%4% &lt;icon texture='Icons/Notifications/Diplomacy1' height='20'/&gt; агресивність"/>
 
 <entry name="Difficulty6RecommendationHint" value="&lt;style name='Italic'/&gt;Не рекомендовано."/>
+	<entry name="DLCHint" value="Вмикає в гру юнітів і дослідження з цього DLC."/>
 <entry name="DustStormDensity" value="Щільність: піщана буря"/>
 <entry name="DustStormDensity0" value="Немає"/>
 <entry name="DustStormDensity1" value="Дуже низька"/>
@@ -128,8 +147,6 @@
 <entry name="EscalationPace3" value="Стандартний"/>
 <entry name="EscalationPace4" value="Високий"/>
 <entry name="EscalationPace5" value="Дуже високий"/>
-<entry name="FixedTeams" value="Фіксовані команди"/>
-<entry name="FixedTeamsHint" value="Забороняє гравцям змінювати статус війни та союзів"/>
 <entry name="ForestDensity" value="Щільність: ліс"/>
 <entry name="ForestDensity0" value="Немає"/>
 <entry name="ForestDensity1" value="Дуже низька"/>
@@ -137,6 +154,13 @@
 <entry name="ForestDensity3" value="Середня"/>
 <entry name="ForestDensity4" value="Висока"/>
 <entry name="ForestDensity5" value="Дуже висока"/>
+	<entry name="FragmentOfTheFulcrumDensity" value="Щільність: уламки Твердині"/>
+	<entry name="FragmentOfTheFulcrumDensity0" value="Немає"/>
+	<entry name="FragmentOfTheFulcrumDensity1" value="Дуже низька"/>
+	<entry name="FragmentOfTheFulcrumDensity2" value="Низька"/>
+	<entry name="FragmentOfTheFulcrumDensity3" value="Середня"/>
+	<entry name="FragmentOfTheFulcrumDensity4" value="Висока"/>
+	<entry name="FragmentOfTheFulcrumDensity5" value="Дуже висока"/>
 <entry name="GameName" value="Назва гри"/>
 <entry name="GameNameHint" value="Назва, під якою гра відображається у списку мультиплеєрних ігор."/>
 <entry name="GameVisibility" value="Видимість гри"/>
@@ -235,6 +259,8 @@
 <entry name="QuestPace3" value="Стандартний"/>
 <entry name="QuestPace4" value="Високий"/>
 <entry name="QuestPace5" value="Дуже високий"/>
+	<entry name="Random" value="Випадковий вибір"/>
+	<entry name="RandomHint" value="На початку гри буде обрано випадковий варіант."/>
 <entry name="RegionDensity" value="Щільність: регіони"/>
 <entry name="RegionDensity0" value="Немає"/>
 <entry name="RegionDensity1" value="Дуже низька"/>
@@ -317,6 +343,10 @@
 <entry name="Size3Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 6 гравців."/>
 <entry name="Size4" value="Гігантський"/>
 <entry name="Size4Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендовано для 8 гравців."/>
+	<entry name="Size5" value="Гігантський"/>
+	<entry name="Size5Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендується для 10 гравців."/>
+	<entry name="Size6" value="Колосальний"/>
+	<entry name="Size6Hint" value="&lt;style name='Bold'/&gt;%1%:&lt;style name='Default'/&gt; %2%x%3%&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Рекомендується для 12 гравців."/>
 <entry name="SpecialResourceDensity" value="Щільність: застави"/>
 <entry name="SpecialResourceDensity0" value="Немає"/>
 <entry name="SpecialResourceDensity1" value="Дуже низька"/>
@@ -337,6 +367,14 @@
 <entry name="SwampRegionDensity3" value="Середня"/>
 <entry name="SwampRegionDensity4" value="Висока"/>
 <entry name="SwampRegionDensity5" value="Дуже висока"/>
+	<entry name="TradeGain" value="Вигода торгівлі"/>
+	<entry name="TradeGain0" value="Немає"/>
+	<entry name="TradeGain0Hint" value="Немає вигоди торгівлі від партнерів: торговельні угоди та союзи не приносять дохід від виробництва іншої сторони."/>
+	<entry name="TradeGain1" value="Лише з неігровими"/>
+	<entry name="TradeGain1Hint" value="Вигода торгівлі діє лише за умови, що одна зі сторін — неігрова фракція. Гравці не отримують вигоди від торгівлі один з одним."/>
+	<entry name="TradeGain2" value="Стандартно"/>
+	<entry name="TradeGain2Hint" value="Вигода торгівлі діє між усіма лідерами, які уклали торговельну угоду або союз."/>
+	<entry name="TradeGainHint" value="Чи приносять торговельні угоди та союзи додатковий дохід, що залежить від виробництва партнера."/>
 <entry name="TurnTimer" value="Таймер ходу"/>
 <entry name="TurnTimer0" value="Немає"/>
 <entry name="TurnTimer1" value="Дуже короткий (1 хв.)"/>

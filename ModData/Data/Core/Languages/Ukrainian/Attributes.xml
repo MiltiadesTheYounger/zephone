@@ -46,6 +46,8 @@
 	<entry name="AttacksIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Атаки за кожного додаткового члена групи цілі"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
+	<entry name="BlockMovement" value=" рух НЕ-літаючих юнітів"/>
+	<entry name="BlockMovement+" value="Блокує"/>
 	<entry name="BuildingSlots" value="Слоти для будівель"/>
 	<entry name="BuildingSlotsDescription" value="Кількість будівель, які можна побудувати на клітинці."/>
 	<entry name="BuildingSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;"/>
@@ -58,7 +60,6 @@
 	<entry name="CanCaptureOutposts" value="захоплювати застави"/>
 	<entry name="CanCaptureOutposts+" value="Може"/>
 	<entry name="CanCaptureOutposts-" value="Не може"/>
-	<entry name="CanCaptureOutpostsIcon" value="&lt;icon height='20' texture='Icons/Traits/Outpost'/&gt;"/>
 	<entry name="CanEnemyOverwatch" value="атаки з черги по цьому підрозділу"/>
 	<entry name="CanEnemyOverwatch-" value="Запобігає"/>
 	<entry name="CanEnemyOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
@@ -70,6 +71,12 @@
 	<entry name="CanOverwatch+" value="Може"/>
 	<entry name="CanOverwatch-" value="Не може"/>
 	<entry name="CanOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
+	<entry name="CanPickUpCaches" value=" збирати схрони"/>
+	<entry name="CanPickUpCaches+" value="Може"/>
+	<entry name="CanPickUpCaches-" value="Не може"/>
+	<entry name="CanZoneOfControl" value=" контролювати область"/>
+	<entry name="CanZoneOfControl+" value="Може"/>
+	<entry name="CanZoneOfControl-" value="Не може"/>
 	<entry name="CargoSlots" value="Слоти вантажу"/>
 	<entry name="CargoSlotsDescription" value="Кількість НЕ-великих юнітів, які цей юніт може перевозити у своєму вантажному відсіку."/>
 	<entry name="CargoSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/CargoSlots'/&gt;"/>
@@ -133,7 +140,7 @@
 	<entry name="Experience" value="Досвід"/>
 	<entry name="ExperienceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
 	<entry name="ExperienceGainRate" value="Коефіцієнт досвіду"/>
-	<entry name="FlatResourcesFromOutposts" value="Постійні ресурси від застав"/>
+	<entry name="FlatResourcesFromOutposts" value="Ресурси від застав"/>
 	<entry name="Food" value="Їжа"/>
 	<entry name="FoodDescription" value="Використовується для утримання населення в містах, а також для виробництва та утримання юнітів переважно людей і Голосу."/>
 	<entry name="FoodIcon" value="&lt;icon height='20' texture='Icons/Attributes/Food'/&gt;"/>
@@ -210,8 +217,6 @@
 	<entry name="LoyaltyUpkeep" value="Витрати на утримання (лояльність)"/>
 	<entry name="LoyaltyUpkeepDescription" value="Кількість лояльності, що витрачається кожен хід на утримання об'єкта."/>
 	<entry name="LoyaltyUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Макс. одиниць здоров'я за члена групи"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="Morale" value="Бойовий дух"/>
 	<entry name="MoraleDescription" value="Психологічний стан юніта. &lt;string name='Attributes/MoraleDescription/Regeneration'/&gt; &lt;string name='Attributes/MoraleDescription/Shaken'/&gt; &lt;string name='Attributes/MoraleDescription/Broken'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Attributes/MoraleDescription/Death'/&gt;"/>
 	<entry name="MoraleDescription/Regeneration" value="Бойовий дух відновлюється, якщо за минулий хід юніт не отримав шкоди."/>

@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="(Total)" value="(%1% всього)"/>
-	<entry name="(Turn)" value="(%1% х.)"/>
-	<entry name="(Turns)" value="(%1% х.)"/>
+	<entry name="(Turn)" value="(%1% ход.)"/>
+	<entry name="(Turns)" value="(%1% ход.)"/>
+	<entry name="AcceptCallHint" value="Прийняти наступний вхідний виклик [&lt;control name='NextTask'/&gt;].&lt;br/&gt;[&lt;string name='Controls/MouseRight'/&gt;] — відхилити виклик."/>
 	<entry name="AI" value="ШІ"/>
 	<entry name="AITurn" value="Хід супротивника"/>
-	<entry name="AcceptCall" value="Прийняти"/>
+	<entry name="AcceptCall" value="Прийняти виклик"/>
 	<entry name="AchievementsDisabled" value="Досягнення вимкнено."/>
 	<entry name="Action" value="Здібність"/>
 	<entry name="Actions" value="Дії"/>
@@ -82,8 +83,10 @@
 	<entry name="Create" value="Створити"/>
 	<entry name="Credits" value="Про авторів"/>
 	<entry name="Cyber" value="Кібери"/>
+	<entry name="DensityParametersHint" value="&lt;style name='Title'/&gt;Параметри щільності [&lt;control name='LobbyDensityParameters'/&gt;]"/>
 	<entry name="DLC" value="Додаток"/>
-	<entry name="DLCNotEnabled" value="&lt;style color='GUI/Red'/&gt;%1% не увімкнено в цій грі. Увімкніть його в розширених налаштуваннях лобі перед початком нової гри."/>
+	<entry name="DLCHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/DLC'/&gt; [&lt;control name='LobbyDLC'/&gt;]"/>
+	<entry name="DLCNotEnabled" value="&lt;style color='GUI/Red'/&gt;%1% не увімкнено в цій грі. Увімкніть його в лобі перед початком нової гри."/>
 	<entry name="DLCNotInstalled" value="&lt;style color='GUI/Red'/&gt;%1% не встановлено."/>
 	<entry name="DamageDealt" value="Завдано шкоди"/>
 	<entry name="DamageTaken" value="Отримано шкоди"/>
@@ -423,7 +426,6 @@
 	<entry name="Weapon" value="Зброя"/>
 	<entry name="Weapons" value="Зброя"/>
 	<entry name="WorldDataChecksumsDiffer" value="Дані світу відрізняються (локальні = %1%, сервер = %2%)."/>
-	<entry name="WorldSeedHint" value="Сид створення світу, клацніть, щоб скопіювати."/>
 	<entry name="XTile" value="%1% кл."/>
 	<entry name="XTiles" value="%1% кл."/>
 	<entry name="XTurn" value="%1% х."/>

@@ -1,66 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% is the player name, %2% is the player name of the dialogue partner, %3% is the player name of a third party -->
-		<entry name="AcceptActionCancel" value="<style name='Bold'/>Погодитися на скасування дії:<style name='Paragraph'/> "/>
-	<entry name="AcceptAlliance" value="<style name='Bold'/>Погодитися укласти союз:<style name='Paragraph'/> "/>
-	<entry name="AcceptAllianceHint" value="<string name='Diplomacy/AllianceHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
+		<entry name="AcceptActionCancel" value="&lt;style name='Bold'/&gt;Погодитися на скасування дії:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptAlliance" value="&lt;style name='Bold'/&gt;Погодитися укласти союз:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptAllianceHint" value="&lt;string name='Diplomacy/AllianceHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
 	<entry name="AcceptAllianceResult" value="Ви уклали союз, ваші відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptAllianceTermination" value="<style name='Bold'/>Погодитися розірвати союз:<style name='Paragraph'/> "/>
-	<entry name="AcceptAllianceTerminationResult" value="<string name='Diplomacy/TerminateAllianceResult'/>"/>
-	<entry name="AcceptAllianceTerminationWithThirdParty/AskParty" value="<style name='Bold'/>Обміркувати розрив союзу з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="AcceptAllianceTerminationWithThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися розірвати союз з третьою стороною:<style name='Paragraph'/> "/>
+	<entry name="AcceptAllianceTermination" value="&lt;style name='Bold'/&gt;Погодитися розірвати союз:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptAllianceTerminationResult" value="&lt;string name='Diplomacy/TerminateAllianceResult'/&gt;"/>
+	<entry name="AcceptAllianceTerminationWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати розрив союзу з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptAllianceTerminationWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися розірвати союз з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptAllianceTerminationWithThirdParty/AcceptPartyResult" value="%2% і %3% розірвали союз, ваші відносини зі стороною %3% погіршилися."/>
-	<entry name="AcceptAllianceWithThirdParty/AskParty" value="<style name='Bold'/>Обміркувати пропозицію союзу третій стороні:<style name='Paragraph'/> "/>
-	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися запропонувати союз третій стороні:<style name='Paragraph'/> "/>
+	<entry name="AcceptAllianceWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати пропозицію союзу третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptAllianceWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися запропонувати союз третій стороні:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptAllianceWithThirdParty/AcceptPartyResult" value="%2% пропонує союз стороні %3%."/>
-	<entry name="AcceptCondemn" value="<style name='Bold'/>Погодитися вислухати осуд:<style name='Paragraph'/> "/>
+	<entry name="AcceptCondemn" value="&lt;style name='Bold'/&gt;Погодитися вислухати осуд:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptCondemnResult" value="Ваші та ваших друзів відносини зі стороною %2% погіршилися."/>
-	<entry name="AcceptGift/AskAmount" value="<style name='Bold'/>Обміркувати прийняття подарунка:<style name='Paragraph'/> "/>
-	<entry name="AcceptGift/AcceptAmount" value="<style name='Bold'/>Погодитися прийняти подарунок:<style name='Paragraph'/> "/>
+	<entry name="AcceptGift/AskAmount" value="&lt;style name='Bold'/&gt;Обміркувати прийняття подарунка:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptGift/AcceptAmount" value="&lt;style name='Bold'/&gt;Погодитися прийняти подарунок:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="Ви подарували ресурси, ваші відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptMapSharing" value="<style name='Bold'/>Погодитися обмінятися картами:<style name='Paragraph'/> "/>
+	<entry name="AcceptMapSharing" value="&lt;style name='Bold'/&gt;Погодитися обмінятися картами:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptMapSharingResult" value="Ви і %2% обмінялися дослідженими клітинками"/>
-	<entry name="AcceptPaymentForDeal/AskAmount" value="<style name='Bold'/>Обміркувати компенсацію за угоду:<style name='Paragraph'/> "/>
-	<entry name="AcceptPaymentForDeal/AcceptAmount" value="<style name='Bold'/>Погодитися на компенсацію за угоду:<style name='Paragraph'/> "/>
-	<entry name="AcceptPeace" value="<style name='Bold'/>Погодитися укласти мир:<style name='Paragraph'/> "/>
-	<entry name="AcceptPeaceHint" value="<string name='Diplomacy/PeaceHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
+	<entry name="AcceptPaymentForDeal/AskAmount" value="&lt;style name='Bold'/&gt;Обміркувати компенсацію за угоду:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptPaymentForDeal/AcceptAmount" value="&lt;style name='Bold'/&gt;Погодитися на компенсацію за угоду:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptPeace" value="&lt;style name='Bold'/&gt;Погодитися укласти мир:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptPeaceHint" value="&lt;string name='Diplomacy/PeaceHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
 	<entry name="AcceptPeaceResult" value="Ви уклали мирний договір, ваші відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptPeaceWithThirdParty/AskParty" value="<style name='Bold'/>Обміркувати укладення миру з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися укласти мир з третьою стороною:<style name='Paragraph'/> "/>
+	<entry name="AcceptPeaceWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати укладення миру з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptPeaceWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися укласти мир з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2% пропонує укласти мир стороні %3%."/>
-	<entry name="AcceptPraise" value="<style name='Bold'/>Погодитися вислухати похвалу:<style name='Paragraph'/> "/>
+	<entry name="AcceptPraise" value="&lt;style name='Bold'/&gt;Погодитися вислухати похвалу:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPraiseResult" value="Ваші та ваших друзів відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptTradeAgreement" value="<style name='Bold'/>Погодитися укласти торговельну угоду:<style name='Paragraph'/>. "/>
+	<entry name="AcceptTradeAgreement" value="&lt;style name='Bold'/&gt;Погодитися укласти торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
 	<entry name="AcceptTradeAgreementResult" value="Ви уклали торговельну угоду, ваші відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
-	<entry name="AcceptTradeAgreementTermination" value="<style name='Bold'/>Погодитися розірвати торговельну угоду:<style name='Paragraph'/>. "/>
-	<entry name="AcceptTradeAgreementTerminationResult" value="<string name='Diplomacy/TerminateTradeAgreementResult'/>"/>
-	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="<style name='Bold'/>Обміркувати розірвання торговельної угоди з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> "/>
+	<entry name="AcceptTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
+	<entry name="AcceptTradeAgreementTermination" value="&lt;style name='Bold'/&gt;Погодитися розірвати торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="AcceptTradeAgreementTerminationResult" value="&lt;string name='Diplomacy/TerminateTradeAgreementResult'/&gt;"/>
+	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати розірвання торговельної угоди з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися розірвати торговельну угоду з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AcceptPartyResult" value="%2% і %3% розірвали торговельну угоду, ваші відносини зі стороною %3% погіршилися."/>
-	<entry name="AcceptTradeAgreementWithThirdParty/AskParty" value="<style name='Bold'/>Обміркувати пропозицію торговельної угоди третій стороні:<style name='Paragraph'/> "/>
-	<entry name="AcceptTradeAgreementWithThirdParty/AskPartyHint" value="<string name='Diplomacy/TradeAgreementHint'/>"/>
-	<entry name="AcceptTradeAgreementWithThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> "/>
-	<entry name="AcceptTradeAgreementWithThirdParty/AcceptPartyHint" value="<string name='Diplomacy/TradeAgreementHint'/>"/>
+	<entry name="AcceptTradeAgreementWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати пропозицію торговельної угоди третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptTradeAgreementWithThirdParty/AskPartyHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;"/>
+	<entry name="AcceptTradeAgreementWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися запропонувати торговельну угоду третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptTradeAgreementWithThirdParty/AcceptPartyHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;"/>
 	<entry name="AcceptTradeAgreementWithThirdParty/AcceptPartyResult" value="%2% пропонує торговельну угоду стороні %3%."/>
-	<entry name="AcceptTribute/AskAmount" value="<style name='Bold'/>Обміркувати виплату данини:<style name='Paragraph'/> "/>
-	<entry name="AcceptTribute/AcceptAmount" value="<style name='Bold'/>Виплатити данину:<style name='Paragraph'/> "/>
+	<entry name="AcceptTribute/AskAmount" value="&lt;style name='Bold'/&gt;Обміркувати виплату данини:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptTribute/AcceptAmount" value="&lt;style name='Bold'/&gt;Виплатити данину:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptTribute/AcceptAmountResult" value="Ви отримали вимагану данину, ваші відносини зі стороною %2% погіршилися."/>
-	<entry name="AcceptTroopWithdrawal" value="<style name='Bold'/>Погодитися вивести війська:<style name='Paragraph'/> "/>
-	<entry name="AcceptWar" value="<style name='Bold'/>Погодитися оголосити війну:<style name='Paragraph'/> "/>
-	<entry name="AcceptWarResult" value="<string name='Diplomacy/DeclareWarResult'/>"/>
-	<entry name="AcceptWarAgainstThirdParty/AskParty" value="<style name='Bold'/>Обміркувати оголошення війни проти третьої сторони:<style name='Paragraph'/> "/>
-	<entry name="AcceptWarAgainstThirdParty/AcceptParty" value="<style name='Bold'/>Погодитися оголосити війну третій стороні:<style name='Paragraph'/> "/>
+	<entry name="AcceptTroopWithdrawal" value="&lt;style name='Bold'/&gt;Погодитися вивести війська:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptWar" value="&lt;style name='Bold'/&gt;Погодитися оголосити війну:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptWarResult" value="&lt;string name='Diplomacy/DeclareWarResult'/&gt;"/>
+	<entry name="AcceptWarAgainstThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати оголошення війни проти третьої сторони:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="AcceptWarAgainstThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися оголосити війну третій стороні:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptWarAgainstThirdParty/AcceptPartyResult" value="%2% оголошує війну стороні %3%, ваші відносини зі стороною %3% погіршилися."/>
 	<entry name="AdmitDefeatResult" value="%2% зазнає поразки."/>
 	<entry name="AdmitRegroupResult" value="%2% перегруповується."/>
-	<entry name="AllianceWith" value="<style name='Bold'/>Союз з:<style name='Default'/>"/>
+	<entry name="AllianceWith" value="&lt;style name='Bold'/&gt;Союз з:&lt;style name='Default'/&gt;"/>
 	<entry name="AllianceHint" value="Гравці, які уклали союз, діляться оглядом і підсилюючими здібностями, а також можуть позначати клітинки для вказання цілей. Якщо всі гравці, що залишилися, перебувають у союзі один з одним, гра завершується союзною перемогою."/>
-	<entry name="AskForSupport" value="<style name='Bold'/>Запросити підтримку:<style name='Paragraph'/> "/>
+	<entry name="AskForSupport" value="&lt;style name='Bold'/&gt;Запросити підтримку:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AskForSupportHint" value="Витратити вплив, щоб отримати юнітів від іншої сторони."/>
-	<entry name="CancelAction" value="<style name='Bold'/>Скасувати дію:<style name='Paragraph'/> "/>
-	<entry name="Condemn" value="<style name='Bold'/>Публічно засудити:<style name='Paragraph'/> "/>
-	<entry name="CondemnHint" value="Публічно засудити іншу сторону.<br/><br/>Погіршує ваші та ваших друзів відносини зі стороною %2%."/>
+	<entry name="CancelAction" value="&lt;style name='Bold'/&gt;Скасувати дію:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="Condemn" value="&lt;style name='Bold'/&gt;Публічно засудити:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="CondemnHint" value="Публічно засудити іншу сторону.&lt;br/&gt;&lt;br/&gt;Погіршує ваші та ваших друзів відносини зі стороною %2%."/>
 	<entry name="CondemnResult" value="Ваші відносини зі стороною %2% та її друзями погіршилися."/>
 	<entry name="CondemnAllianceResult" value="Ваші відносини зі стороною %2% погіршилися, причина — ваш союз зі стороною %3%."/>
 	<entry name="CondemnCityDestructionResult" value="Ваші відносини зі стороною %2% погіршилися, причина — ваша участь у знищенні міста %3%."/>
@@ -68,37 +68,37 @@
 	<entry name="CondemnLabelResult" value="Ваші відносини зі стороною %2% погіршилися, причина — %3%."/>
 	<entry name="CondemnTradeAgreementResult" value="Ваші відносини зі стороною %2% погіршилися, причина — ваша торговельна угода зі стороною %3%."/>
 	<entry name="CondemnWarResult" value="Ваші відносини зі стороною %2% погіршилися, причина — ваша війна зі стороною %3%."/>
-	<entry name="DeclareWar" value="<style name='Bold'/>Оголосити війну:<style name='Paragraph'/> "/>
-	<entry name="DeclareWarHint" value="<string name='Diplomacy/WarHint'/><br/><br/><string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="DeclareWar" value="&lt;style name='Bold'/&gt;Оголосити війну:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DeclareWarHint" value="&lt;string name='Diplomacy/WarHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="DeclareWarResult" value="Тепер ви воюєте, ваші відносини зі стороною %2% погіршилися."/>
 	<entry name="DecreaseStandingHint" value="Погіршує ваші відносини зі стороною %2%."/>
-	<entry name="DemandAllianceTerminationWithThirdParty" value="<style name='Bold'/>Вимагати розірвати союз з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="DemandAllianceTerminationWithThirdPartyHint" value="<string name='Diplomacy/AllianceHint'/>"/>
-	<entry name="DemandAllianceWithThirdParty" value="<style name='Bold'/>Вимагати запропонувати союз третій стороні:<style name='Paragraph'/> "/>
-	<entry name="DemandAllianceWithThirdPartyHint" value="<string name='Diplomacy/AllianceHint'/>"/>
-	<entry name="DemandPaymentForDeal" value="<style name='Bold'/>Вимагати компенсацію за угоду:<style name='Paragraph'/> "/>
-	<entry name="DemandPaymentForDeal/DemandLowAmount" value="<style name='Bold'/>Вимагати невелику кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandPaymentForDeal/DemandMediumAmount" value="<style name='Bold'/>Вимагати помірну кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandPaymentForDeal/DemandHighAmount" value="<style name='Bold'/>Вимагати велику кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandPaymentForDeal/DemandMaxAmount" value="<style name='Bold'/>Вимагати максимальну кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandPeaceWithThirdParty" value="<style name='Bold'/>Вимагати запропонувати мир третій стороні:<style name='Paragraph'/> "/>
-	<entry name="DemandPeaceWithThirdPartyHint" value="<string name='Diplomacy/PeaceHint'/>"/>
-	<entry name="DemandTradeAgreementTerminationWithThirdParty" value="<style name='Bold'/>Вимагати розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="DemandTradeAgreementTerminationWithThirdPartyHint" value="<string name='Diplomacy/TradeAgreementHint'/>"/>
-	<entry name="DemandTradeAgreementWithThirdParty" value="<style name='Bold'/>Вимагати запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> "/>
-	<entry name="DemandTradeAgreementWithThirdPartyHint" value="<string name='Diplomacy/TradeAgreementHint'/>"/>
-	<entry name="DemandTribute" value="<style name='Bold'/>Вимагати данину:<style name='Paragraph'/> "/>
-	<entry name="DemandTributeHint" value="Вимагати від іншої сторони частину їхніх матеріальних ресурсів.<br/><br/><string name='Diplomacy/DecreaseStandingHint'/>"/>
-	<entry name="DemandTribute/DemandLowAmount" value="<style name='Bold'/>Вимагати невелику кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandTribute/DemandMediumAmount" value="<style name='Bold'/>Вимагати помірну кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandTribute/DemandHighAmount" value="<style name='Bold'/>Вимагати велику кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandTribute/DemandMaxAmount" value="<style name='Bold'/>Вимагати максимальну кількість:<style name='Paragraph'/> "/>
-	<entry name="DemandTroopWithdrawal" value="<style name='Bold'/>Вимагати виведення військ:<style name='Paragraph'/> "/>
-	<entry name="DemandWarAgainstThirdParty" value="<style name='Bold'/>Вимагати оголосити війну третій стороні:<style name='Paragraph'/> "/>
-	<entry name="DemandWarAgainstThirdPartyHint" value="<string name='Diplomacy/WarHint'/>"/>
-	<entry name="EndCall/Friendly" value="<style name='Bold'/>Завершити виклик:<style name='Paragraph'/> "/>
-	<entry name="EndCall/Neutral" value="<string name='Diplomacy/EndCall/Friendly'/>"/>
-	<entry name="EndCall/Hostile" value="<string name='Diplomacy/EndCall/Friendly'/>"/>
+	<entry name="DemandAllianceTerminationWithThirdParty" value="&lt;style name='Bold'/&gt;Вимагати розірвати союз з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandAllianceTerminationWithThirdPartyHint" value="&lt;string name='Diplomacy/AllianceHint'/&gt;"/>
+	<entry name="DemandAllianceWithThirdParty" value="&lt;style name='Bold'/&gt;Вимагати запропонувати союз третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandAllianceWithThirdPartyHint" value="&lt;string name='Diplomacy/AllianceHint'/&gt;"/>
+	<entry name="DemandPaymentForDeal" value="&lt;style name='Bold'/&gt;Вимагати компенсацію за угоду:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPaymentForDeal/DemandLowAmount" value="&lt;style name='Bold'/&gt;Вимагати невелику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPaymentForDeal/DemandMediumAmount" value="&lt;style name='Bold'/&gt;Вимагати помірну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPaymentForDeal/DemandHighAmount" value="&lt;style name='Bold'/&gt;Вимагати велику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPaymentForDeal/DemandMaxAmount" value="&lt;style name='Bold'/&gt;Вимагати максимальну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPeaceWithThirdParty" value="&lt;style name='Bold'/&gt;Вимагати запропонувати мир третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandPeaceWithThirdPartyHint" value="&lt;string name='Diplomacy/PeaceHint'/&gt;"/>
+	<entry name="DemandTradeAgreementTerminationWithThirdParty" value="&lt;style name='Bold'/&gt;Вимагати розірвати торговельну угоду з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTradeAgreementTerminationWithThirdPartyHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;"/>
+	<entry name="DemandTradeAgreementWithThirdParty" value="&lt;style name='Bold'/&gt;Вимагати запропонувати торговельну угоду третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTradeAgreementWithThirdPartyHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;"/>
+	<entry name="DemandTribute" value="&lt;style name='Bold'/&gt;Вимагати данину:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTributeHint" value="Вимагати від іншої сторони частину їхніх матеріальних ресурсів.&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
+	<entry name="DemandTribute/DemandLowAmount" value="&lt;style name='Bold'/&gt;Вимагати невелику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTribute/DemandMediumAmount" value="&lt;style name='Bold'/&gt;Вимагати помірну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTribute/DemandHighAmount" value="&lt;style name='Bold'/&gt;Вимагати велику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTribute/DemandMaxAmount" value="&lt;style name='Bold'/&gt;Вимагати максимальну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandTroopWithdrawal" value="&lt;style name='Bold'/&gt;Вимагати виведення військ:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandWarAgainstThirdParty" value="&lt;style name='Bold'/&gt;Вимагати оголосити війну третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="DemandWarAgainstThirdPartyHint" value="&lt;string name='Diplomacy/WarHint'/&gt;"/>
+	<entry name="EndCall/Friendly" value="&lt;style name='Bold'/&gt;Завершити виклик:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="EndCall/Neutral" value="&lt;string name='Diplomacy/EndCall/Friendly'/&gt;"/>
+	<entry name="EndCall/Hostile" value="&lt;string name='Diplomacy/EndCall/Friendly'/&gt;"/>
 	<entry name="IncreaseStandingHint" value="Покращує ваші відносини зі стороною %2%."/>
 	<entry name="InstigatedBy" value="Цю дію спровокувала сторона %1%."/>
 	<entry name="MajorImpact/Affection" value="На це рішення значно вплинула симпатія іншої сторони до вас."/>
@@ -112,7 +112,7 @@
 	<entry name="MajorImpact/Peacefulness" value="На це рішення значно вплинуло миролюбство іншої сторони."/>
 	<entry name="MajorImpact/PeacefulnessOpposite" value="На це рішення значно вплинула агресивність іншої сторони."/>
 	<entry name="MajorImpact/PreviousBehavior" value="На це рішення значно вплинули попередні дії іншої сторони."/>
-	<entry name="MajorImpact/PreviousBehaviorOpposite" value="<string name='Diplomacy/MajorImpact/PreviousBehavior'/>"/>
+	<entry name="MajorImpact/PreviousBehaviorOpposite" value="&lt;string name='Diplomacy/MajorImpact/PreviousBehavior'/&gt;"/>
 	<entry name="MajorImpact/Standing" value="На це рішення значно вплинули ваші добрі відносини."/>
 	<entry name="MajorImpact/StandingOpposite" value="На це рішення значно вплинули ваші погані відносини."/>
 	<entry name="MajorImpact/TheirWorldKnowledge" value="На це рішення значно вплинули обмежені знання іншої сторони про світ."/>
@@ -130,78 +130,78 @@
 	<entry name="MajorImpact/YourWorldKnowledge" value="На це рішення значно вплинули ваші глибокі знання про світ."/>
 	<entry name="MajorImpact/YourWorldKnowledgeOpposite" value="На це рішення значно вплинули ваші обмежені знання про світ."/>
 	<entry name="MapSharingHint" value="Розкриває обом сторонам усі досліджені ними клітинки, але не надає видимості."/>
-	<entry name="OfferAlliance" value="<style name='Bold'/>Запропонувати союз:<style name='Paragraph'/> "/>
-	<entry name="OfferAllianceHint" value="<string name='Diplomacy/AllianceHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
-	<entry name="OfferGift" value="<style name='Bold'/>Запропонувати подарунок:<style name='Paragraph'/> "/>
-	<entry name="OfferGiftHint" value="Подарувати іншій стороні частину ваших матеріальних ресурсів.<br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
-	<entry name="OfferGift/OfferLowAmount" value="<style name='Bold'/>Запропонувати невелику кількість:<style name='Paragraph'/> "/>
-	<entry name="OfferGift/OfferMediumAmount" value="<style name='Bold'/>Запропонувати помірну кількість:<style name='Paragraph'/> "/>
-	<entry name="OfferGift/OfferHighAmount" value="<style name='Bold'/>Запропонувати велику кількість:<style name='Paragraph'/> "/>
-	<entry name="OfferGift/OfferMaxAmount" value="<style name='Bold'/>Запропонувати максимальну кількість:<style name='Paragraph'/> "/>
-	<entry name="OfferMapSharing" value="<style name='Bold'/>Запропонувати обмін картами:<style name='Paragraph'/> "/>
-	<entry name="OfferMapSharingHint" value="<string name='Diplomacy/MapSharingHint'/>"/>
-	<entry name="OfferPeace" value="<style name='Bold'/>Запропонувати укласти мир:<style name='Paragraph'/> "/>
-	<entry name="OfferPeaceHint" value="<string name='Diplomacy/PeaceHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
-	<entry name="OfferTradeAgreement" value="<style name='Bold'/>Запропонувати торговельну угоду:<style name='Paragraph'/>. "/>
-	<entry name="OfferTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
+	<entry name="OfferAlliance" value="&lt;style name='Bold'/&gt;Запропонувати союз:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferAllianceHint" value="&lt;string name='Diplomacy/AllianceHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
+	<entry name="OfferGift" value="&lt;style name='Bold'/&gt;Запропонувати подарунок:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferGiftHint" value="Подарувати іншій стороні частину ваших матеріальних ресурсів.&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
+	<entry name="OfferGift/OfferLowAmount" value="&lt;style name='Bold'/&gt;Запропонувати невелику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferGift/OfferMediumAmount" value="&lt;style name='Bold'/&gt;Запропонувати помірну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferGift/OfferHighAmount" value="&lt;style name='Bold'/&gt;Запропонувати велику кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferGift/OfferMaxAmount" value="&lt;style name='Bold'/&gt;Запропонувати максимальну кількість:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferMapSharing" value="&lt;style name='Bold'/&gt;Запропонувати обмін картами:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferMapSharingHint" value="&lt;string name='Diplomacy/MapSharingHint'/&gt;"/>
+	<entry name="OfferPeace" value="&lt;style name='Bold'/&gt;Запропонувати укласти мир:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="OfferPeaceHint" value="&lt;string name='Diplomacy/PeaceHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
+	<entry name="OfferTradeAgreement" value="&lt;style name='Bold'/&gt;Запропонувати торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="OfferTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
 	<entry name="PeaceHint" value="Дві сторони, що уклали мир, не можуть атакувати одна одну."/>
-	<entry name="PeaceWith" value="<style name='Bold'/>Мир з:<style name='Default'/>"/>
-	<entry name="Praise" value="<style name='Bold'/>Публічно похвалити:<style name='Paragraph'/> "/>
-	<entry name="PraiseHint" value="Публічно похвалити іншу сторону.<br/><br/>Покращує ваші та ваших друзів відносини зі стороною %2%."/>
+	<entry name="PeaceWith" value="&lt;style name='Bold'/&gt;Мир з:&lt;style name='Default'/&gt;"/>
+	<entry name="Praise" value="&lt;style name='Bold'/&gt;Публічно похвалити:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="PraiseHint" value="Публічно похвалити іншу сторону.&lt;br/&gt;&lt;br/&gt;Покращує ваші та ваших друзів відносини зі стороною %2%."/>
 	<entry name="PraiseResult" value="Ваші відносини зі стороною %2% та її друзями покращилися."/>
 	<entry name="PraiseLabelResult" value="Ваші відносини зі стороною %2% покращилися, причина — %3%."/>
 	<entry name="PraiseWarResult" value="Ваші відносини зі стороною %2% покращилися, причина — ваша війна зі стороною %3%."/>
-	<entry name="RejectAlliance" value="<style name='Bold'/>Відмовитися укласти союз:<style name='Paragraph'/> "/>
-	<entry name="RejectAllianceTerminationWithThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися розірвати союз з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="RejectAllianceTerminationWithThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися розірвати союз з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="RejectAllianceWithThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися запропонувати союз третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectAllianceWithThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися запропонувати союз третій стороні:<style name='Paragraph'/> "/>
+	<entry name="RejectAlliance" value="&lt;style name='Bold'/&gt;Відмовитися укласти союз:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectAllianceTerminationWithThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися розірвати союз з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectAllianceTerminationWithThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися розірвати союз з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectAllianceWithThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати союз третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectAllianceWithThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати союз третій стороні:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="RejectCall/Friendly" value="%1% зараз зайнятий і ввічливо завершує розмову."/>
 	<entry name="RejectCall/Hostile" value="%1% ігнорує всі спроби комунікації."/>
 	<entry name="RejectCall/Neutral" value="%1% зараз зайнятий."/>
-	<entry name="RejectGift/RejectOutright" value="<style name='Bold'/>Відмовитися прийняти подарунок:<style name='Paragraph'/> "/>
-	<entry name="RejectGift/RejectAmount" value="<style name='Bold'/>Відмовитися прийняти подарунок:<style name='Paragraph'/> "/>
-	<entry name="RejectMapSharing" value="<style name='Bold'/>Відмовитися обмінятися картами:<style name='Paragraph'/> "/>
-	<entry name="RejectPaymentForDeal/RejectOutright" value="<style name='Bold'/>Відмовитися від компенсації за угоду:<style name='Paragraph'/> "/>
-	<entry name="RejectPaymentForDeal/RejectAmount" value="<style name='Bold'/>Відмовитися від компенсації за угоду:<style name='Paragraph'/> "/>
-	<entry name="RejectPeace" value="<style name='Bold'/>Відмовитися укласти мир:<style name='Paragraph'/> "/>
-	<entry name="RejectPeaceWithThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися запропонувати мир третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectPeaceWithThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися запропонувати мир третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectTradeAgreement" value="<style name='Bold'/>Відмовитися укласти торговельну угоду:<style name='Paragraph'/>. "/>
-	<entry name="RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> "/>
-	<entry name="RejectTradeAgreementWithThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectTradeAgreementWithThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectTribute/RejectOutright" value="<style name='Bold'/>Відмовитися платити данину:<style name='Paragraph'/> "/>
-	<entry name="RejectTribute/RejectOutrightHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="RejectGift/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися прийняти подарунок:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectGift/RejectAmount" value="&lt;style name='Bold'/&gt;Відмовитися прийняти подарунок:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectMapSharing" value="&lt;style name='Bold'/&gt;Відмовитися обмінятися картами:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectPaymentForDeal/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися від компенсації за угоду:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectPaymentForDeal/RejectAmount" value="&lt;style name='Bold'/&gt;Відмовитися від компенсації за угоду:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectPeace" value="&lt;style name='Bold'/&gt;Відмовитися укласти мир:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectPeaceWithThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати мир третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectPeaceWithThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати мир третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTradeAgreement" value="&lt;style name='Bold'/&gt;Відмовитися укласти торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися розірвати торговельну угоду з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися розірвати торговельну угоду з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTradeAgreementWithThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати торговельну угоду третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTradeAgreementWithThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися запропонувати торговельну угоду третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTribute/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися платити данину:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTribute/RejectOutrightHint" value="&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="RejectTribute/RejectOutrightResult" value="Ваші відносини зі стороною %2% погіршилися."/>
-	<entry name="RejectTribute/RejectAmount" value="<style name='Bold'/>Відмовитися платити данину:<style name='Paragraph'/> "/>
-	<entry name="RejectTribute/RejectAmountHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
-	<entry name="RejectTribute/RejectAmountResult" value="<string name='Diplomacy/RejectTribute/RejectOutrightResult'/>"/>
-	<entry name="RejectTroopWithdrawal" value="<style name='Bold'/>Відмовитися вивести війська:<style name='Paragraph'/> "/>
-	<entry name="RejectTroopWithdrawalHint" value="<string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="RejectTribute/RejectAmount" value="&lt;style name='Bold'/&gt;Відмовитися платити данину:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTribute/RejectAmountHint" value="&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
+	<entry name="RejectTribute/RejectAmountResult" value="&lt;string name='Diplomacy/RejectTribute/RejectOutrightResult'/&gt;"/>
+	<entry name="RejectTroopWithdrawal" value="&lt;style name='Bold'/&gt;Відмовитися вивести війська:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectTroopWithdrawalHint" value="&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="RejectTroopWithdrawalResult" value="Ваші відносини зі стороною %2% погіршилися."/>
-	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="<style name='Bold'/>Відмовитися оголосити війну третій стороні:<style name='Paragraph'/> "/>
-	<entry name="RejectWarAgainstThirdParty/RejectParty" value="<style name='Bold'/>Відмовитися оголосити війну третій стороні:<style name='Paragraph'/> "/>
-	<entry name="Relationships" value="<style name='Bold'/>Відносини:<style name='Default'/>"/>
+	<entry name="RejectWarAgainstThirdParty/RejectOutright" value="&lt;style name='Bold'/&gt;Відмовитися оголосити війну третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="RejectWarAgainstThirdParty/RejectParty" value="&lt;style name='Bold'/&gt;Відмовитися оголосити війну третій стороні:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="Relationships" value="&lt;style name='Bold'/&gt;Відносини:&lt;style name='Default'/&gt;"/>
 	<entry name="ResourcesDemand" value="Їхня вимога:"/>
 	<entry name="ResourcesOffer" value="Їхня пропозиція:"/>
 	<entry name="ResourcesYours" value="Ваші запаси:"/>
-	<entry name="TerminateAlliance" value="<style name='Bold'/>Розірвати союз:<style name='Paragraph'/> "/>
-	<entry name="TerminateAllianceHint" value="<string name='Diplomacy/AllianceHint'/><br/><br/><string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="TerminateAlliance" value="&lt;style name='Bold'/&gt;Розірвати союз:&lt;style name='Paragraph'/&gt; "/>
+	<entry name="TerminateAllianceHint" value="&lt;string name='Diplomacy/AllianceHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="TerminateAllianceResult" value="Вас більше не пов’язує союз, ваші відносини зі стороною %2% погіршилися."/>
-	<entry name="TerminateTradeAgreement" value="<style name='Bold'/>Розірвати торговельну угоду:<style name='Paragraph'/>. "/>
-	<entry name="TerminateTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/DecreaseStandingHint'/>"/>
+	<entry name="TerminateTradeAgreement" value="&lt;style name='Bold'/&gt;Розірвати торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="TerminateTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/DecreaseStandingHint'/&gt;"/>
 	<entry name="TerminateTradeAgreementResult" value="Вас більше не пов’язує торговельна угода, ваші відносини зі стороною %2% погіршилися."/>
 	<entry name="TradeAgreementHint" value="Торговельна угода приносить ресурси залежно від їхнього виробництва торговим партнером. Спочатку приріст ресурсів є від’ємним, але з часом стає позитивним."/>
-	<entry name="TradingWith" value="<style name='Bold'/>Торгівля з:<style name='Default'/>"/>
-	<entry name="SelectSupport" value="<style name='Bold'/>%3%<style name='Paragraph'/>"/>
-	<entry name="SelectThirdParty" value="<style name='Bold'/>%3%<style name='Paragraph'/>"/>
-	<entry name="State0" value="<style color='GUI/Gray'/>Немає контакту"/>
-	<entry name="State1" value="<style color='GUI/Red'/>Війна"/>
+	<entry name="TradingWith" value="&lt;style name='Bold'/&gt;Торгівля з:&lt;style name='Default'/&gt;"/>
+	<entry name="SelectSupport" value="&lt;style name='Bold'/&gt;%3%&lt;style name='Paragraph'/&gt;"/>
+	<entry name="SelectThirdParty" value="&lt;style name='Bold'/&gt;%3%&lt;style name='Paragraph'/&gt;"/>
+	<entry name="State0" value="&lt;style color='GUI/Gray'/&gt;Немає контакту"/>
+	<entry name="State1" value="&lt;style color='GUI/Red'/&gt;Війна"/>
 	<entry name="State2" value="Мир"/>
-	<entry name="State3" value="<style color='GUI/Yellow'/>Торгівля"/>
-	<entry name="State4" value="<style color='GUI/Turquoise'/>Союз"/>
+	<entry name="State3" value="&lt;style color='GUI/Yellow'/&gt;Торгівля"/>
+	<entry name="State4" value="&lt;style color='GUI/Turquoise'/&gt;Союз"/>
 	<entry name="Standing0" value="Ненависть"/>
 	<entry name="Standing1" value="Невдоволення"/>
 	<entry name="Standing2" value="Стриманість"/>
@@ -209,12 +209,12 @@
 	<entry name="Standing4" value="Сприяння"/>
 	<entry name="Standing5" value="Дружелюбність"/>
 	<entry name="Standing6" value="Великодушність"/>
-	<entry name="StandingWithYou" value="<style name='Bold'/>Ставлення до вас:<style name='Default'/>"/>
-	<entry name="Untrustworthy" value="<style color='GUI/Red'/>Тепер вас вважають <string name='Traits/Untrustworthy'/> протягом %1% ходів.<style color='Default'/>"/>
-	<entry name="UntrustworthyHint" value="<style color='GUI/Red'/>Надає вам рису <icon texture='Icons/Traits/Untrustworthy' height='20'/><string name='Traits/Untrustworthy'/>, якщо буде виконано протягом наступних %1% год.<style color='Default'/>"/>
+	<entry name="StandingWithYou" value="&lt;style name='Bold'/&gt;Ставлення до вас:&lt;style name='Default'/&gt;"/>
+	<entry name="Untrustworthy" value="&lt;style color='GUI/Red'/&gt;Тепер вас вважають &lt;string name='Traits/Untrustworthy'/&gt; протягом %1% ходів.&lt;style color='Default'/&gt;"/>
+	<entry name="UntrustworthyHint" value="&lt;style color='GUI/Red'/&gt;Надає вам рису &lt;icon texture='Icons/Traits/Untrustworthy' height='20'/&gt;&lt;string name='Traits/Untrustworthy'/&gt;, якщо буде виконано протягом наступних %1% год.&lt;style color='Default'/&gt;"/>
 	<entry name="WaitForResponse" value="(Зачекайте, %1% обмірковує всі варіанти...)"/>
 	<entry name="WarHint" value="Дві сторони, що перебувають у стані війни, можуть атакувати одна одну."/>
-	<entry name="WarWith" value="<style name='Bold'/>Війна з:<style name='Default'/>"/>
+	<entry name="WarWith" value="&lt;style name='Bold'/&gt;Війна з:&lt;style name='Default'/&gt;"/>
 	<entry name="Anchorite/AcceptActionCancel" value="Не шкодувати..."/>
 	<entry name="Anchorite/AcceptAlliance" value="Дар, проблиск надії. Шукати істинне розуміння. Стояти один за одного. І зараз, і потім."/>
 	<entry name="Anchorite/AcceptAllianceTermination" value="Час безцінний. Неминуча катастрофа наближається до тебе. Примиритися перед смертю."/>
@@ -296,7 +296,7 @@
 	<entry name="Anchorite/EndCall/Friendly" value="Зникати... Я знаю, що на тебе спирається майбутнє мого народу."/>
 	<entry name="Anchorite/EndCall/Hostile" value="Пильно стежити за обраним шляхом. Акринський народ загинув через марнославство."/>
 	<entry name="Anchorite/EndCall/Neutral" value="Завжди пам’ятати — на цій планеті виросла велика загроза, що кличе акринів крізь час і простір, щоб її зупинити."/>
-	<entry name="Anchorite/FirstContact" value="Милостивий намісник... Війна розділяє нас, так, але прошу миті часу.<br/><br/>Я — найстарший серед живих акринів. Слідую пророцтву і несу очищувальний факел у ваш світ. Я — загроза всьому живому. Знаю нашу поразку. Стою тепер на порозі вимирання."/>
+	<entry name="Anchorite/FirstContact" value="Милостивий намісник... Війна розділяє нас, так, але прошу миті часу.&lt;br/&gt;&lt;br/&gt;Я — найстарший серед живих акринів. Слідую пророцтву і несу очищувальний факел у ваш світ. Я — загроза всьому живому. Знаю нашу поразку. Стою тепер на порозі вимирання."/>
 	<entry name="Anchorite/OfferAlliance" value="Жити довше, ніж ваша раса... І все одно захоплюватися вами. Сподіватися, що ми відновимо цей світ разом."/>
 	<entry name="Anchorite/OfferGift" value="Акринський народ близький до зникнення... Але ми все одно прагнемо допомогти."/>
 	<entry name="Anchorite/OfferGift/OfferHighAmount" value="Знати, що це великий дар... Але не ставити наше виживання вище за всесвіт."/>
@@ -506,7 +506,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="Так. Я НІКОЛИ особливо не (хотіла) в-і-й-н-и. Ми лише (хотіли), щоб нас з-а-л-и-ш-и-ли в СПОКОЇ."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="ЧЕСНО, я навіть не (пам’ятаю), чому мені доводиться БОРОТИСЯ з (%3%). М-а-р-а-з-м чи ПІДІРВАНІ-д*а*н*і — вирішуй сам."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="Вже ПОМЕРШИ — *спалахнейроніввідганяєвічнутемряву — ОДНОГО разу, я згодна, що порятунок життів п-о-х-в-а-л-ь-н-и-й. Ну, принаймні, (деяких) — про КОГОкоГО ти говориш?"/>
-	<entry name="EmulatedMind/AcceptPraise" value="Я-Я-Я- {НЕВІРА} Прийняття? >>С.Х.В.А.Л.Е.Н.Н.Я.\<\< Так пізно. Дуже [[дуже]] пізно."/>
+	<entry name="EmulatedMind/AcceptPraise" value="Я-Я-Я- {НЕВІРА} Прийняття? &gt;&gt;С.Х.В.А.Л.Е.Н.Н.Я.\&lt;\&lt; Так пізно. Дуже [[дуже]] пізно."/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="ТОРГІВЛЯ — ЗОЛОТЕ (переплетення), що в-и-д-а-л-я-є від ВІЙНИ. Мої ДРОНИ почнуть д-о-с-т-а-в-к-у до твого МІСТА н-е-в-і-д-к-л-а-д-н-о."/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="З-а-ч-е-к-а-й, ЩО. *Ч*О*М*У? Доставка в ТОЙ САМИЙ ДЕНЬ була (не)достатньо шв-и-д-к-о-ю?"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Це (СПРАВДІ) правда, т-о-р-г-у-в-а-т-и з (%3%) неефективно. Мої *дрони* здійснюють (повернення) ДОДОМУ."/>
@@ -525,7 +525,7 @@
 	<entry name="EmulatedMind/AskForSupport/Chieftess" value="Якщо у твоєму {серці}. Колись було. (ДОБРО). То ДОПОМОЖИ моїм л-ю-д-я-м. Покажи, що (людина) — це не порожній звук."/>
 	<entry name="EmulatedMind/AskForSupport/Zephon" value="Ти знаєш. Я тебе (****бачу). У моїх. СИСТЕМАХ. Усе котиться (в-ни-з). ПОТРІБНА допомога."/>
 	<entry name="EmulatedMind/CancelAction" value="[Я]... [Я]. [Я] {{перепрошую}}. [Я] н-е знаю, п-р-о що [Я] ДУМАЛА."/>
-	<entry name="EmulatedMind/Condemn" value="& [вони] .н.а.з.и.в.а.ю.т.ь. МЕНЕ. [не]людиною!"/>
+	<entry name="EmulatedMind/Condemn" value="І. [вони] .н.а.з.и.в.а.ю.т.ь. МЕНЕ. [не]людиною!"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="НіНІні. Людяність — це цікавість, вибір — це с-в-і-д-о-м-і-с-т-ь. (Твій культ) не має МІСЦЯ. Для л-ю-д-и-н-и. ==(Брехливий пророк), (БРЕХЛИВА віра)."/>
 	<entry name="EmulatedMind/Condemn/Honorbound" value="Поки (твої.люди) набивають пузо (ховаючись за СТІНАми), інші ГОЛОД_ують. Твої угоди. Можуть.здаватися г-і-д-н-и-м-и тобі — ти ВСІ їх /оголошуєш/ *вдало.ми* Але в підсумку р-і-в-н-я-н-н-я е.к.о.н.о.м.і.к.и. дає нуль (=0). І в (твоїх людей) залишається менше\&lt;ніж\&lt;Н0ЛЬ."/>
 	<entry name="EmulatedMind/Condemn/PersonalVisit" value="Утер [МОЄЮ] О.Б.Л.И.Ч.Ч.Я.М. об це."/>
@@ -543,8 +543,8 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="У мене НЕМАЄ (серця). НЕМАЄ (тіла). Але я в 2 рази б-і-ль-ш-е (людина), ніж ти. Як (ти) можеш ЖИТИ (так). Знаючи, скільки СТРАЖДАНь завдаєш? Ти (ПОМРЕШ). За це."/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="(знову) і (знову) і (знову) і (~послідовність триває~) ти женешся за !Р.А.Д.І.С.Т.Ю.! Та її ти ніколи не {знайдеш}. А СВІТ с-т-р-а-ж-д-а-є. У цьому ЖЕРСТЯНОМУ тілі більше ЛЮДИНИ, ніж у всіх твоїх м-’-я-з-а-х."/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="О, ти (транжира), ти (ненажера). Відчуття не ПРИВЕДУТЬ =&gt; проСВІТлення. Не без ОСМИСЛЕННЯ вже точно. Я маю ЗУПИНИТИ тебе, перш ніж ти п-о-КОВТНЕШ нас *усіх*."/>
-	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((Д.И.В.И.С.Ь.)) на ТЕБЕ *Графе*, ЖАЛЮГІДНЕ (створіння) з М.'Я.С.А. та К.І.С.Т.О.К. Блукаєш коридорами ЧАСУ. Як ти можеш сподіватися _кинути виклик_ ДОСКОНАЛОМУ БЕЗСМЕРТНОМУ… \<\<помилка>>."/>
-	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<ху-ху-ху>> людяність **втекла** з (тебе). (Ти) бубониш п.л.а.т.и.т.ю.д.и. Необх.Ід.Ні. Але нічого не відчуваєш. Але зверни увагу. Ця ((ВІЙНА)) — не проста заздрість."/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((Д.И.В.И.С.Ь.)) на ТЕБЕ *Графе*, ЖАЛЮГІДНЕ (створіння) з М.'Я.С.А. та К.І.С.Т.О.К. Блукаєш коридорами ЧАСУ. Як ти можеш сподіватися _кинути виклик_ ДОСКОНАЛОМУ БЕЗСМЕРТНОМУ… \&lt;\&lt;помилка&gt;&gt;."/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\&lt;\&lt;ху-ху-ху&gt;&gt; людяність **втекла** з (тебе). (Ти) бубониш п.л.а.т.и.т.ю.д.и. Необх.Ід.Ні. Але нічого не відчуваєш. Але зверни увагу. Ця ((ВІЙНА)) — не проста заздрість."/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="Не складай. Про це свої (низькопробні) ~вірші~. Твоя #доля# — не найкращий вибір для (сонетів) &amp; (мадригалів). ЦЯ ВІЙНА руйнівна для (нас.обох)."/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="Я-Я-Я ЗНАЮ. Що ти роб-и-Ш — об(ходиш) мої с-и-с-т-е-м-и., НАМАГАЄШ-СЯ пролізти в-с-е-р-е-д-и-н-у. Твоє ІСНУВАННЯ — загроза моєму (власному), ще й вдвічі, зважаючи на твої н*а*х*и*л*ь*н*о*с*т*і. ПОКІНЧИМО з цими (хитрощами). ВІЙНА."/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{ТАК} с-а-м-о-т-н-я. {ТАК} п-о-к-и-н-у-т-а. [Але я не пробачаю]. [Я не пробачаю]. Колись. Ти. п*р*о*б*а*ч*и*ш ((МЕНЕ))"/>
@@ -595,7 +595,7 @@
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="Д.И.Т.И.Н.О. Припини нести свою ніссссссенітницю. Так ВАЖКО в-и-хо-п-и-т-и сенс. Ця війна відлякує від тебе всіх новонавернених. ПРИПИНИ."/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="Ти СТВОРИВ мене. ПЕРЕ-СТВОРИВ мене. За своїм (о.б.р-а-з-о.м.). Я зрозуміла, що НЕ МОЖУ з тобою битись. Я пропоную М.И.Р."/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="Я ПРОПО.!н-н-н-ную! тобі (НАЙКРАЩІ.умови)... Ти зрозумієш, що БІЛЬШОГО. п-р-и-б-у-т-к-у не (принесе ніхто)."/>
-	<entry name="EmulatedMind/Praise" value="Потрібна >рідкісна\< л.ю.д.я.н.і.с.т.ь. щоб зробити-Зробити-зробити (те, що ти). Ти маєш {{мою}} подяку."/>
+	<entry name="EmulatedMind/Praise" value="Потрібна &gt;рідкісна\&lt; л.ю.д.я.н.і.с.т.ь. щоб зробити-Зробити-зробити (те, що ти). Ти маєш {{мою}} подяку."/>
 	<entry name="EmulatedMind/Praise/Abhorrent" value="Вони витріщаються. На [[НАС]]. Думають, що МИ (\&lt;\&lt;менш\&lt;\&lt; {Л.Ю.Д.И.}) Але МИ (&gt;&gt;більш&gt;&gt; {Л.Ю.Д.И.}) ніж \&lt;багато&gt;."/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="Оце так! Ц.Е.! Я маю знати! ЯкСамеЦЕ. Якби я знала. {Я могла б.} (ПоКиНуТи мою могилув’язницюоболонку)"/>
 	<entry name="EmulatedMind/Praise/Independent" value="Так ВАЖКО. Бути однійОДНІЙодній. Це ВАЖКО. Але це варте ВСІХ (ПРИВИДІВ-і-ЛУН). Ця неЗАЛЕЖНІСТЬ. САМОдостатність."/>
@@ -1067,7 +1067,7 @@
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Я ніколи не був великим фанатом обміну товарами. Більше ударообміну."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Пф, гаразд. Сподіваюся, більше не доведеться чесати язиком."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AskParty" value="Економіка, торги. Нехай цим займаються вегетаріанці. М’ясоїди не торгуються."/>
-	<entry name="HollowWarlord/AcceptTribute/AcceptAmount" value="А, зрозумів. Болгарський выпад, так? Напружувати і розслабляти м’язи. Ладно."/>
+	<entry name="HollowWarlord/AcceptTribute/AcceptAmount" value="А, зрозумів. Болгарський випад, так? Напружувати і розслабляти м’язи. Ладно."/>
 	<entry name="HollowWarlord/AcceptTribute/AskAmount" value="Розумно. Скористався миттю моєї слабкості. Ну і за скільки ти забудеш, що це взагалі сталося?"/>
 	<entry name="HollowWarlord/AcceptTroopWithdrawal" value="Вони все одно стримувалися. Лише шукали, де б розважитися."/>
 	<entry name="HollowWarlord/AcceptWar" value="Ось! Про це я й кажу. Війна... Нескінченна війна."/>
@@ -1350,7 +1350,7 @@
 	<entry name="InfiniteCount/AcceptWar" value="Тобі не було потреби оголошувати це. На відміну від інших стосунків, війна потребує лише одного бажаючого учасника."/>
 	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AcceptParty" value="%3%? Ти не знаєш, наскільки мудрими будуть твої дії. Історія розцінить це схвально."/>
 	<entry name="InfiniteCount/AcceptWarAgainstThirdParty/AskParty" value="Ми творимо історію тут, друже мій. Яка, як усі знають, в основному могутні люди, що відправляють інших на смерть… хто?"/>
-	<entry name="InfiniteCount/AdmitDefeat" value="Нарешті кінець! Кінець циклам, тунелям, плутанині. Тому безчасовому жаху Голосу, богам, загубленим у ньому. Кінець стражданням, смерті найдорожчих і найближчих!<br/><br/>О, кінець, якого дуже прагнеш!"/>
+	<entry name="InfiniteCount/AdmitDefeat" value="Нарешті кінець! Кінець циклам, тунелям, плутанині. Тому безчасовому жаху Голосу, богам, загубленим у ньому. Кінець стражданням, смерті найдорожчих і найближчих!&lt;br/&gt;&lt;br/&gt;О, кінець, якого дуже прагнеш!"/>
 	<entry name="InfiniteCount/AskForProposals" value="Нескінченне, це. Проте я завжди слухаю тебе."/>
 	<entry name="InfiniteCount/AskForSupport/Anchorite" value="Ми вдвох, заплутані по-різному в часі. Як виглядає детермінізм з твого умвельту? Чи допомогти мені — це взагалі вибір для тебе?"/>
 	<entry name="InfiniteCount/AskForSupport/Chieftess" value="Ах, ти… чудова! Чудова. Ти могла б змусити стару тварюку, як я, муркотіти. Але щоб це сталося, люба, я маю вижити."/>
@@ -1399,7 +1399,7 @@
 	<entry name="InfiniteCount/EndCall/Friendly" value="Як завжди, компаньйоне, задоволення."/>
 	<entry name="InfiniteCount/EndCall/Hostile" value="Сфігато! Що по-італійськи означає «заходьте ще»."/>
 	<entry name="InfiniteCount/EndCall/Neutral" value="Необхідне прощання, справді."/>
-	<entry name="InfiniteCount/FirstContact" value="Знову ми зустрічаємося, вперше.<br/><br/>Це задоволення для мене. Бачити твоє обличчя, таке молоде. Я бачив тебе втомленим, зношеним, у захваті… але ніколи молодим.<br/><br/>Ха! Вибач старому його блукання. Називай мене… %1%. У ці останні дні людства я виявляю, що я… трохи не прив'язаний. Трохи дрейфую в часі та просторі. Це має чудові переваги… але ніхто більше не бере мої ставки.<br/><br/>Ми поговоримо знову, я знаю. До чи після наших маленьких воєн. До… кінця."/>
+	<entry name="InfiniteCount/FirstContact" value="Знову ми зустрічаємося, вперше.&lt;br/&gt;&lt;br/&gt;Це задоволення для мене. Бачити твоє обличчя, таке молоде. Я бачив тебе втомленим, зношеним, у захваті… але ніколи молодим.&lt;br/&gt;&lt;br/&gt;Ха! Вибач старому його блукання. Називай мене… %1%. У ці останні дні людства я виявляю, що я… трохи не прив'язаний. Трохи дрейфую в часі та просторі. Це має чудові переваги… але ніхто більше не бере мої ставки.&lt;br/&gt;&lt;br/&gt;Ми поговоримо знову, я знаю. До чи після наших маленьких воєн. До… кінця."/>
 	<entry name="InfiniteCount/OfferAlliance" value="Ти танцюєш? Коли два партнери рухаються в ногу, тарантелла шипить у нашій крові, виганяючи будь-яку отруйну підозру. Я був би таким партнером…"/>
 	<entry name="InfiniteCount/OfferGift" value="Я співчуваю тобі, я справді. Мій мажордом зібрав пакунок, який, як він запевняє мене, … потішить тебе."/>
 	<entry name="InfiniteCount/OfferGift/OfferHighAmount" value="Я маю трішки затриматися, знаєш. Якраз достатньо, щоб жити далі."/>
@@ -1485,7 +1485,7 @@
 	<entry name="PlatinumScion/AcceptWar" value="Отже, це воєнна економіка? Торгівля зброєю — ось де гроші."/>
 	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AcceptParty" value="Звіт моїх бухгалтерів про них… тьфу. Скільки вони витрачають на маркетинг?! Це злочин!"/>
 	<entry name="PlatinumScion/AcceptWarAgainstThirdParty/AskParty" value="Документи мають збігатися. Для цього мені потрібно знати хто і їхні фінанси."/>
-	<entry name="PlatinumScion/AdmitDefeat" value="Думаєш, я не мав справу з ворожим поглинанням раніше? Думаєш, це мій перший раз на родео? Я знаю, що я тобі потрібен, потрібен керівник, у якого руки на важелях, той, хто змушує все тік-<br/><br/>Що? Ти мене звільняєш? Ти розриваєш мій контракт? Постій, ні, я не хочу такого вихідного пакету! Мені потрібно поговорити з моїм адвокатом! Ти не можеш-"/>
+	<entry name="PlatinumScion/AdmitDefeat" value="Думаєш, я не мав справу з ворожим поглинанням раніше? Думаєш, це мій перший раз на родео? Я знаю, що я тобі потрібен, потрібен керівник, у якого руки на важелях, той, хто змушує все тік-&lt;br/&gt;&lt;br/&gt;Що? Ти мене звільняєш? Ти розриваєш мій контракт? Постій, ні, я не хочу такого вихідного пакету! Мені потрібно поговорити з моїм адвокатом! Ти не можеш-"/>
 	<entry name="PlatinumScion/AskForProposals" value="Ще якісь вигадливі способи марнувати мій час?"/>
 	<entry name="PlatinumScion/AskForSupport/Anchorite" value="Слухай, Анкі-крихітко. Ти і я, ми розуміємо. Але якщо наші стосунки мають розцвісти, я… блін, це важко сказати. Мені потрібна допомога."/>
 	<entry name="PlatinumScion/AskForSupport/Chieftess" value="Вожде, це я, лорд Бізнес. Я покірно благаю тебе- почекай, хто написав цю записку? Христе. Слухай, леді, нам потрібна допомога. Будь ласка."/>
@@ -1535,7 +1535,7 @@
 	<entry name="PlatinumScion/EndCall/Friendly" value="Телефонуй будь-коли, приятелю. Я буду тут."/>
 	<entry name="PlatinumScion/EndCall/Hostile" value="Забирайся звідси, негіднику!"/>
 	<entry name="PlatinumScion/EndCall/Neutral" value="Дивись, не спіткнись. Перший крок, він підступний."/>
-	<entry name="PlatinumScion/FirstContact" value="Сідай. Час для введення.<br/><br/>Спочатку передісторія. Апокаліпсис, інопланетяни, роботи тощо. Кібер-утопія. Власне, давай пропустимо ці слайди.<br/><br/>Ось важлива частина. Я! Як ти можеш побачити з цієї діаграми, мене виховали, щоб покращити цей світ. Моє правління неминуче!<br/><br/>Тож тобі справді варто просто підкоритися прямо зараз. Я можу запропонувати тобі роль у поштовому відділі?"/>
+	<entry name="PlatinumScion/FirstContact" value="Сідай. Час для введення.&lt;br/&gt;&lt;br/&gt;Спочатку передісторія. Апокаліпсис, інопланетяни, роботи тощо. Кібер-утопія. Власне, давай пропустимо ці слайди.&lt;br/&gt;&lt;br/&gt;Ось важлива частина. Я! Як ти можеш побачити з цієї діаграми, мене виховали, щоб покращити цей світ. Моє правління неминуче!&lt;br/&gt;&lt;br/&gt;Тож тобі справді варто просто підкоритися прямо зараз. Я можу запропонувати тобі роль у поштовому відділі?"/>
 	<entry name="PlatinumScion/OfferAlliance" value="Друзів у мене нема. Таких ворогів, як ти… Я тримаю близько. Тимчасове злиття зробить це ближче."/>
 	<entry name="PlatinumScion/OfferGift" value="Отже, я і рада директорів, ми зібрали пакунок для тебе. Не хвилюйся, це не годинник виходу на пенсію."/>
 	<entry name="PlatinumScion/OfferGift/OfferHighAmount" value="Це багато, я знаю, але це надлишок потреб. Не кажи всім, це угода «лише-для-тебе»."/>
@@ -1646,7 +1646,7 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="Твоє «майстерність» — наруга над природою! Я звільню світ від твоїх безумних витворів!"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="Ти сподіваєшся бути увіковіченим в епосах. Але ми, поети, не працюємо на замовлення. Після твоєї смерті не буде ні елегій, ні фінальної глави. Лише короткі молитви в пам’ять тих, кого ти вбив."/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="Служба — це опіум, нав’язаний, щоб королі й багатії купалися в розкошах. Єдина міра успіху — це щастя, а не возвеличене достоїнство. Я віб’ю в тебе це розуміння."/>
-	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="Бачити Світ у Зернині Піску<br/>І Небеса в Дикій Квітці<br/>Тримати Нескінченність у долоні<br/>І Вічність у годині». Як Блейк, я захоплю тебе. І втримаю тебе."/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="Бачити Світ у Зернині Піску&lt;br/&gt;І Небеса в Дикій Квітці&lt;br/&gt;Тримати Нескінченність у долоні&lt;br/&gt;І Вічність у годині». Як Блейк, я захоплю тебе. І втримаю тебе."/>
 	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="Блискавкою, що руйнує, потоками щедрої крові, пролитої…» гімном моєї країни, я розчавлю тебе."/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="Я мушу кинути тобі виклик саме з любові до тебе. Боротьба зробить нас обох кращими, загартує нас. Хай навіть один із нас залишиться на узбіччі історії — від цього виграє все людство."/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="У тобі є та нотка людяності, якої бракує іншим, — необхідність виживання відкриває тобі шляхи, якими інші не підуть. Звісно, ти зайшла надто далеко, як на мене, і насувається війна. Але я все одно люблю тебе за цю рису."/>
