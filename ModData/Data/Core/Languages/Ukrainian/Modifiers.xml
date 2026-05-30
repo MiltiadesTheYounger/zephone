@@ -144,7 +144,6 @@
 <entry name="ToAlliedUnitsEachTurn" value=" союзним юнітам кожен хід"/>
 <entry name="ToAlliedUnitsInTheArea" value=" союзним юнітам у області"/>
 <entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" союзним юнітам на вказаній і суміжних клітинках"/>
-<entry name="ToAlliedUnitsOnTilesInTargetArea" value=" союзним юнітам на клітинках у вказаній області"/>
 <entry name="ToAnchorite" value=" Пустельниці"/>
 <entry name="ToAttackedEnemy" value=" атакованому ворогу"/>
 <entry name="ToAttacker" value=" атакуючому"/>
@@ -189,13 +188,12 @@
 <entry name="ToTargetBiologicalUnit" value=" вказаному біологічному юніту"/>
 <entry name="ToTargetEnemyCity" value=" вказаному ворожому місту"/>
 <entry name="ToTargetEnemyNonLargeUnit" value=" ворожому невеликому юніту"/>
-<entry name="ToTargetEnemyNonTitanUnit" value=" вказаному ворожому юніту НЕ-титану"/>
+<entry name="ToTargetEnemyNonTitanUnit" value=" на вказаний ворожий юніт, що не є титаном"/>
 <entry name="ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit" value=" вказаному ворожому юніту НЕ-титану, НЕ-герою, НЕ-штабу"/>
 <entry name="ToTargetEnemyUnit" value=" вказаному ворожому юніту"/>
 <entry name="ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile" value=" ворожому юніту і половину атак ворогам на клітинах зліва і справа від цілі"/>
 <entry name="ToTargetEnemyZephonUnit" value=" вказаному ворожому юніту ЗЕФОНА"/>
 <entry name="ToTargetEnemyZephonNonTitanUnit" value=" вказаному ворожому юніту ЗЕФОНА НЕ-титану"/>
-<entry name="ToTargetEnemyZephonNonTitanNonHeadquartersUnit" value=" вказаному ворожому юніту ЗЕФОНА НЕ-титану, НЕ-штабу"/>
 <entry name="ToTargetOwnBiologicalUnit" value=" вказаному своєму біологічному юніту"/>
 <entry name="ToTargetOwnUnit" value=" підконтрольному юніту"/>
 <entry name="ToUnitAndAdjacentAlliedUnits" value=" юніту і суміжним союзним юнітам"/>
@@ -224,4 +222,23 @@
 	<entry name="WhileInsideCity" value=" в межах міста"/>
 <entry name="WithMeleeWeapons" value=" зі зброєю ближнього бою"/>
 <entry name="WithoutBleedCultivation" value=" без особливості «&lt;string name='Upgrades/BleedCultivation'/&gt;»"/>
+	<entry name="AgainstNonHumanUnits" value=" проти нелюдських юнітів"/>
+	<entry name="AtRange1" value=" на дальності 1"/>
+	<entry name="AtRange2OrHigher" value=" на дальності 2 чи більше"/>
+	<entry name="OfInvadingDreameater" value=" при вторгненні Сноїда"/>
+	<entry name="Defend" value=" коли поряд із союзними юнітами з &lt;string name='Traits/Defend'/&gt;"/>
+	<entry name="EachTurnForReachedLevels4710" value=" щоходу за досягнуті рівні 4, 7 і 10"/>
+	<entry name="Encircle" value=" при атаці на ворожий юніт, що межує щонайменше з двома союзними юнітами з &lt;string name='Traits/Encircle'/&gt;"/>
+	<entry name="TargetOwnNonTitanNonFortificationUnit" value=" ціль — власний юніт, що не є титаном і не є укріпленням"/>
+	<entry name="ToAdjacentTiles" value=" на прилеглі клітинки"/>
+	<entry name="ToAlliedUnitsInTargetArea" value=" на союзні юніти в зоні цілі"/>
+	<entry name="ToEnemyUnitsOnTargetAndAdjacentTiles" value=" на ворожі юніти на вказаній та прилеглих клітинках"/>
+	<entry name="ToNonHeadquartersBuildingsOnTargetEnemyCityTile" value=" на будівлі, окрім штабу, на клітинці вказаного ворожого міста"/>
+	<entry name="ToUnmovedAlliedUnitsInTargetArea" value=" на союзні юніти, що не рухалися, у зоні цілі"/>
+	<entry name="ToTargetZephonNonTitanNonHeadquartersUnit" value=" на вказаний юніт ЗЕФОНу, що не є титаном і не є штабом"/>
+	<entry name="ToZeroOrOneBeforeDistressSignalMimicked" value=" на ZERO чи ONE, доки вони не зімітували сигнал лиха"/>
+	<entry name="UponDiscovery" value=" при виявленні"/>
+	<entry name="WhenProduced" value=" при виробництві"/>
+	<entry name="ForReachedLevels4710" value=" за досягнуті рівні 4, 7 і 10"/>
+	<entry name="WhileAdjacentToAlliedNonCyberUnits" value=" коли поряд із союзними юнітами, що не є кіберами"/>
 </language>

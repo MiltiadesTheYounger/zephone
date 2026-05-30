@@ -44,4 +44,7 @@
 	<entry name="DelayTitanBattle+" value="&lt;icon texture='GUI/Bullet'/&gt;Затримує ескалацію на %1% ходів"/>
 	<entry name="DelayTitanBattle-" value="&lt;icon texture='GUI/Bullet'/&gt;Прискорює ескалацію на %1% ходів"/>
 
+	<entry name="ChangeTraitDuration+" value="&lt;icon texture='GUI/Bullet'/&gt;Подовжує %1%&lt;nbsp/&gt;%2%%3% на %4%"/>
+	<entry name="ChangeTraitDuration-" value="&lt;icon texture='GUI/Bullet'/&gt;Скорочує %1%&lt;nbsp/&gt;%2%%3% на %4%"/>
+	<entry name="TeleportToClosestOwnCity" value="&lt;icon texture='GUI/Bullet'/&gt;Телепортує%1% до найближчого власного міста"/>
 </language>

@@ -86,13 +86,12 @@
 	<entry name="DensityParametersHint" value="&lt;style name='Title'/&gt;Параметри щільності [&lt;control name='LobbyDensityParameters'/&gt;]"/>
 	<entry name="DLC" value="Додаток"/>
 	<entry name="DLCHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/DLC'/&gt; [&lt;control name='LobbyDLC'/&gt;]"/>
-	<entry name="DLCNotEnabled" value="&lt;style color='GUI/Red'/&gt;%1% не увімкнено в цій грі. Увімкніть його в лобі перед початком нової гри."/>
+	<entry name="DLCNotEnabled" value="&lt;style color='GUI/Red'/&gt;%1% не увімкнено для цієї гри. Увімкніть його в лобі гри перед початком нової партії."/>
 	<entry name="DLCNotInstalled" value="&lt;style color='GUI/Red'/&gt;%1% не встановлено."/>
 	<entry name="DamageDealt" value="Завдано шкоди"/>
 	<entry name="DamageTaken" value="Отримано шкоди"/>
 	<entry name="Debug" value="Налагодження"/>
 	<entry name="DeclareWar" value="Оголосити війну"/>
-	<entry name="DeclineCall" value="Відхилити"/>
 	<entry name="DeclineCalls" value="Відхиляти виклики"/>
 	<entry name="DeclineCallsHint" value="Відхиляти всі вхідні виклики [&lt;control name='NextTask'/&gt;]."/>
 	<entry name="Default" value="За замовчуванням"/>
@@ -443,4 +442,19 @@
 	<entry name="TraitsFlavor" value="Ви неодмінно захочете знати численні відмінні особливості світу, за який боретеся. Якщо ви не усвідомлюєте різниці між польотом і ширянням, то як ви взагалі сподіваєтеся перемогти?"/>
 	<entry name="UnitsFlavor" value="Від зруйнованих вулиць до безкрайнього неба — ваші солдати готові до бою. Нікому з них не під силу зрозуміти, наскільки високі ставки в цій війні. Вам доведеться повести їх до перемоги — і зробити їхню неминучу загибель виправданою."/>
 	<entry name="WeaponsFlavor" value="Клинки, кулі й бомби — лише початок. Ви перевернете нутро всесвіту й підкорите силу природи помахом своєї руки. Але не забувайте — ваші вороги зроблять те саме."/>
+	<entry name="Accept" value="Прийняти"/>
+	<entry name="CommunicationsHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Communications'/&gt; [&lt;control name='OpenCommunicationsScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Викликайте інших гравців, щоб вести дипломатію, обмінюватися ресурсами та узгоджувати пакти."/>
+	<entry name="CompendiumHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Compendium'/&gt; [&lt;control name='OpenCompendiumScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Переглядайте ігрові поняття, юнітів, будівлі, технології та відкриті відомості."/>
+	<entry name="Decline" value="Відхилити"/>
+	<entry name="MenuHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Menu'/&gt; [&lt;control name='Cancel'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Відкрийте меню, щоб зберегти, завантажити, змінити налаштування чи вийти з гри."/>
+	<entry name="OrderAllIdleUnitsHint" value="&lt;style name='Title'/&gt;&lt;string name='Settings/Controls/OrderAllIdleUnits'/&gt; [&lt;control name='OrderAllIdleUnits'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Наказати всім бездіяльним юнітам рушити до вказаної клітинки або атакувати вказаного ворога."/>
+	<entry name="OrderAllUnitsHint" value="&lt;style name='Title'/&gt;&lt;string name='Settings/Controls/OrderAllUnits'/&gt; [&lt;control name='OrderAllUnits'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Наказати всім юнітам рушити до вказаної клітинки або атакувати вказаного ворога."/>
+	<entry name="OrderAreaUnitsHint" value="&lt;style name='Title'/&gt;&lt;string name='Settings/Controls/OrderAreaUnits'/&gt; [&lt;control name='OrderAreaUnits'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Наказати всім юнітам у межах 3 клітинок від цілі рушити або атакувати."/>
+	<entry name="ReleaseOutpostDescription" value="Виберіть одну зі своїх застав, щоб звільнити її з-під вашого контролю."/>
+	<entry name="ReleaseOutpostHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/ReleaseOutpostTitle'/&gt;&lt;style name='Default'/&gt;&lt;br/&gt;&lt;string name='GUI/ReleaseOutpostDescription'/&gt;"/>
+	<entry name="ReleaseOutpostTitle" value="Звільнити заставу"/>
+	<entry name="ResearchHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Research'/&gt; [&lt;control name='OpenResearchScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Обирайте нові технології та вивчайте дерево досліджень."/>
+	<entry name="StatsHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Stats'/&gt; [&lt;control name='ToggleStatsScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Переглядайте рахунок, економіку, військову міць та інші показники кожного гравця."/>
+	<entry name="ToggleYieldOverlayHint" value="&lt;style name='Title'/&gt;&lt;string name='Settings/Controls/ToggleYieldOverlay'/&gt; [&lt;control name='ToggleYieldOverlay'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Показати або сховати прибутки та інші відомості про клітинки на карті світу."/>
+	<entry name="WorldHUDExtraButtonsHint" value="Перемкнути додаткові кнопки світового HUD."/>
 </language>

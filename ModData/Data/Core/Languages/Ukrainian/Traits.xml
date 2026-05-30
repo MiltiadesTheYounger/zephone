@@ -118,7 +118,7 @@
 	<entry name="CherubicHallowingFlavor" value="&lt;string name='Actions/CherubicHallowingFlavor'/&gt;"/>
 	<entry name="ChieftessStanding" value="Імміграція Спустошувачів"/>
 	<entry name="ChieftessStandingFlavor" value="&lt;string name='Upgrades/ChieftessStandingFlavor'/&gt;"/>
-	<entry name="ChieftessStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt; Дикункою при отриманні та з часом"/>
+	<entry name="ChieftessStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Chieftess'/&gt; Вождинею при отриманні та з часом"/>
 	<entry name="ChipsUpgrade" value="Вбудований геній"/>
 	<entry name="Cicadas" value="&lt;string name='Features/Cicadas'/&gt;"/>
 	<entry name="CicadasFlavor" value="&lt;string name='Features/CicadasFlavor'/&gt;"/>
@@ -313,7 +313,7 @@
 	<entry name="HauntedFlavor" value="&lt;string name='Quests/TheDream/Ignore'/&gt;"/>
 	<entry name="Headquarters" value="Штаб"/>
 	<entry name="HeadquartersFlavor" value="&lt;string name='Units/HeadquartersFlavor'/&gt;"/>
-	<entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Знищення штабу знищує все місто"/>
+	<entry name="HeadquartersProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Знищення штабу знищує все місто&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;Залишає схрон після знищення"/>
 	<entry name="HeadquartersAccuracyUpgrade" value="Засуджені коректувальники"/>
 	<entry name="HeadquartersAlgae" value="Скит на Грані"/>
 	<entry name="HeadquartersChips" value="Кремнієві долини"/>
@@ -559,7 +559,7 @@
 	<entry name="RogueOperativeAffinityUpgrade" value="Сміттєвий камуфляж"/>
 	<entry name="RogueOperativeAffinityUpgrade2" value="Корпус привидів"/>
 	<entry name="CloseQuartersFire" value="Стрільба впритул"/>
-	<entry name="CloseQuartersFireProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+100%&lt;style color='Default'/&gt; &lt;string name='Attributes/AttacksIcon'/&gt; атаки на половинній дальності"/>
+	<entry name="CloseQuartersFireProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+100%&lt;style color='Default'/&gt; &lt;string name='Attributes/AttacksIcon'/&gt;&lt;nbsp/&gt;атак на половинній дальності"/>
 	<entry name="Rare" value="Рідкісне"/>
 	<entry name="RareProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Класифікація"/>
 	<entry name="ReactiveTrigger" value="&lt;string name='Items/ReactiveTrigger'/&gt;"/>
@@ -726,7 +726,7 @@
 	<entry name="UzhodaisZealFlavor" value="&lt;string name='Actions/UzhodaisZealFlavor'/&gt;"/>
 	<entry name="Valhalla" value="&lt;string name='Actions/Valhalla'/&gt;"/>
 	<entry name="ValhallaFlavor" value="&lt;string name='Actions/ValhallaFlavor'/&gt;"/>
-	<entry name="ValhallaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/DamageIcon'/&gt; шкоди при кожній загибелі будь-якого юніта в області&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/HitpointsIcon'/&gt; макс. одиниць здоров'я при кожній загибелі будь-якого юніта в області"/>
+	<entry name="ValhallaProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/DamageIcon'/&gt; шкоди щоразу, коли юніт у цій зоні гине&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+10&lt;style color='Default'/&gt;% &lt;string name='Attributes/HitpointsIcon'/&gt;&lt;nbsp/&gt; макс. одиниць здоров’я щоразу, коли юніт у цій зоні гине"/>
 	<entry name="VanguardShield" value="Наступальний щит"/>
 	<entry name="VanguardShieldFlavor" value="Стандартна тактика «Єгеря» для лобової атаки — кинутися назустріч ворогу, а потім різко вильнути праворуч і зайти з лівого боку. Так перед тобою завжди залишався цей здоровенний смердючий щит, що робило його не просто реліктом за авторством божевільних вчених, які досі мріяли про лицарів і легіонерів."/>
 	<entry name="VoiceAircraftUpgrade" value="Рефрен на світанку"/>
@@ -759,7 +759,7 @@
 	<entry name="ZephonStanding" value="Права ШІ"/>
 	<entry name="ZephonStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Покращує дипломатичні відносини з &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt; ЗЕФОНом при отриманні та з часом"/>
 	<entry name="ZephonVirus" value="Вірус ЗЕФОНа"/>
-	<entry name="ZephonVirusFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherDefendSuccess'/&gt;"/>
+	<entry name="ZephonVirusFlavor" value="&lt;string name='Quests/BinaricChoice/ReturnToZephonSuccess2'/&gt;"/>
 
 	<!-- Flavor. -->
 	<entry name="AbhorrentFlavor" value="О, Матір ніколи не вміла вести перемовини. Можливо, хтось і пожалів би її, але... будьмо чесні. Важко відчути жаль, коли бачиш її зовнішність. Можливо, вона дозволяла іншим користуватися собою? Дозволяла їм брати більше, ніж давали?"/>
@@ -792,7 +792,7 @@
 	<entry name="BleedwalkerFlavor" value="У акринів і їхньої живності був особливий зв’язок із Голосом — коли вони проходили крізь Течь, вона розступалася перед ними. Я вважаю, що вони збиралися біля викидів Течі, бо на цій новій пекельній Землі ці місця нагадували їм дім."/>
 	<entry name="BlightedFlavor" value="Все розкладається. Але культістам Голосу, здається, подобалося прискорювати це гниття. Плоть. Метал. Земля. Не так вже й важливо. Тварюки на кшталт оролоса поширювали навколо заразу, від якої гнило все. Її можна було змити, очистити, але... Боже, цей сморід. Навіть розплавлений метал смердів, як труп у вигрібній ямі."/>
 	<entry name="BlindedFlavor" value="На тренуваннях нам зав’язували очі, вчили битися, покладаючись на інші чуття. Це, звісно, добре для саморозвитку, але не надто ефективно проти танка. Або літака. Або жахливого породження Голосу."/>
-	<entry name="BreachCollectorFlavor" value="Ти не уявляєш, яка війна ставок розгорілася, коли якийсь невдаха-хакер вийшов із території ЗЕФОНА з половиною резервних ключів до технологій минулого світу. Конкордат зібрав усіх зацікавлених в одній кімнаті, провів аукціон... а потім оголосив, що сам заплатить найвищу ставку й загребе всі технології. Це що — така гра?"/>
+	<entry name="BreachCollectorFlavor" value="Можеш не сумніватися, що розгорілася справжня війна ставок, коли якийсь бідолашний хакер вибрів із осколка ЗЕФОНу, тримаючи половину ключів до бекдорів технологій Старого Світу. Конкордат влаштував аукціон, зібрав усіх гравців у залі, змусив їх торгуватися… а тоді оголосив, що сам заплатить найвищу ціну, і залишив усі технології собі. У що це він грав?"/>
 
 	<entry name="BrokenFlavor" value="Війна небезпечна для тіла, але ще небезпечніша для розуму. Я боровся зі своїми найстрашнішими кошмарами — і уві сні, і наяву. Інші такою міцністю духу похвалитися не могли. Це було видно в їхніх очах, чути в їхньому диханні. Смерть вже забрала їхні душі. Тіла були наступними."/>
 	<entry name="BunkerExtensionFlavor" value="Будівництво бункерів завжди було ризикованим. Велика площа — велика ціль для важкого озброєння. Але що поробиш. Армії росли, і в цих бункерах мало вистачити місця для всіх, кого ми туди відправляли. Це був наш єдиний шанс на надійну оборону."/>
@@ -986,4 +986,102 @@
 	<entry name="XenogenesisFlavor" value="Культісти, що провели надто багато днів у будівлі Оди Світанку, ставали іоками? Але на перетворенні їхня робота не закінчувалась. Вони могли створювати нових іоків, просто сидячи й пожираючи трупи. Нові тварюки формувалися в нариві на їхній спині, приходячи в цей світ із фонтанів гною й крові. Потім ці іоки породжували нових. А потім ще. І ще..."/>
 	<entry name="ZephonAdvancementFlavor" value="Для ЗЕФОНА це було просто рівняння. Опустошувачам і акринам доводилося животіти, красти, битися з останніх сил, на межі можливостей — а ця машина до самого кінця займалася обчисленнями. ЗЕФОН просто... нарощував свою міць, знову й знову, згідно з рівнянням. Він ніколи не випереджав нас. Лише спостерігав. Слідував. І вичікував."/>
 	<entry name="ZephonStandingFlavor" value="Ця думка прийшла надто пізно. Під час однієї розмови з ЗЕФОНОМ якийсь генерал мимохідь пожартував про обмін прав для ІІ на невеличку гору чипів. «Це було б прийнятно», — раптом відповів той. Ніхто не знав, як реагувати. Чи думав ЗЕФОН наперед — про час після війни? Чи... ні. Точно ні. Серед нас же не було інших носіїв штучного інтелекту... правда ж?"/>
+	<entry name="ACurseOnBothYourHouses" value="Чума на обидва ваші доми"/>
+	<entry name="ACurseOnBothYourHousesFlavor" value="&lt;string name='Quests/TheEmpathsDefense/StabKolya2'/&gt;"/>
+	<entry name="BallisticDevotion" value="Балістична відданість"/>
+	<entry name="BleedBond" value="&lt;string name='Items/BleedBond'/&gt;"/>
+	<entry name="BleedBondFlavor" value="&lt;string name='Items/BleedBondFlavor'/&gt;"/>
+	<entry name="CivilizationShieldProtocol" value="CivilizationShieldProtocol"/>
+	<entry name="CivilizationShieldProtocolFlavor" value="&lt;string name='Quests/BinaricChoice/HelpOneSuccess2'/&gt;"/>
+	<entry name="Coil" value="Котушка"/>
+	<entry name="CoilProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;style color='GUI/Green'/&gt;+50%&lt;style color='Default'/&gt; &lt;string name='Attributes/AttacksIcon'/&gt;&lt;nbsp/&gt;атак (50% шанс)"/>
+	<entry name="Defend" value="&lt;string name='Actions/Defend'/&gt;"/>
+	<entry name="DefendFlavor" value="&lt;string name='Actions/DefendFlavor'/&gt;"/>
+	<entry name="DeviantProliferation" value="Поширення девіацій"/>
+	<entry name="DiscarnateFramework" value="Безтілесний каркас"/>
+	<entry name="DistressSignalMimicked" value="Імітований сигнал лиха"/>
+	<entry name="DistressSignalMimickedFlavor" value="&lt;string name='Quests/BinaricChoice/HelpBothStageOneSuccess3'/&gt;"/>
+	<entry name="DutyOfCare" value="&lt;string name='Actions/DutyOfCare'/&gt;"/>
+	<entry name="DutyOfCareFlavor" value="&lt;string name='Actions/DutyOfCareFlavor'/&gt;"/>
+	<entry name="EidolicFocus" value="Ейдолічне зосередження"/>
+	<entry name="Encircle" value="&lt;string name='Actions/Encircle'/&gt;"/>
+	<entry name="EncircleFlavor" value="&lt;string name='Actions/EncircleFlavor'/&gt;"/>
+	<entry name="FormIsFunction" value="Форма є функцією"/>
+	<entry name="ForTheFew" value="Заради обраних"/>
+	<entry name="GrainRaiders" value="Зерногарбіжники"/>
+	<entry name="GrainRaidersFlavor" value="&lt;string name='Quests/PoliticalFallout/Ignore2'/&gt;"/>
+	<entry name="HumanitysFinest" value="Найкращі з людства"/>
+	<entry name="HydroponicFarm" value="&lt;string name='Features/HydroponicFarm'/&gt;"/>
+	<entry name="HydroponicFarmFlavor" value="&lt;string name='Features/HydroponicFarmFlavor'/&gt;"/>
+	<entry name="IkonOfVorodaiUnit" value="&lt;string name='Features/IkonOfVorodai'/&gt;"/>
+	<entry name="IkonOfVorodaiUnitFlavor" value="&lt;string name='Features/IkonOfVorodaiFlavor'/&gt;"/>
+	<entry name="ImperiousExonautAffinityUpgrade" value="Офіцерська підготовка"/>
+	<entry name="ImperiousExonautAffinityUpgrade2" value="Атомні прямоточні двигуни"/>
+	<entry name="KolyasContempt" value="Зневага Колі"/>
+	<entry name="KolyasContemptFlavor" value="&lt;string name='Quests/TheEmpathsDefense/SacrificePawnFailure2'/&gt;"/>
+	<entry name="LegacyExploit" value="&lt;string name='Actions/LegacyExploit'/&gt;"/>
+	<entry name="LegacyExploitFlavor" value="&lt;string name='Quests/FitForAdoration/ZephonNotGod2'/&gt;"/>
+	<entry name="MachineMind" value="&lt;string name='Actions/MachineMind'/&gt;"/>
+	<entry name="MachineMindFlavor" value="&lt;string name='Actions/MachineMindFlavor'/&gt;"/>
+	<entry name="MandatedEmpathy" value="Зобов’язана емпатія"/>
+	<entry name="MandatedEmpathyProperties" value="&lt;icon texture='GUI/Bullet'/&gt;50% шанс на"/>
+	<entry name="MarinMediates" value="Марін посередничає"/>
+	<entry name="MarinMediatesFlavor" value="&lt;string name='Quests/PoliticalFallout/RecruitMarinSuccess2'/&gt;"/>
+	<entry name="NapalmTide" value="&lt;string name='Weapons/NapalmTide'/&gt;"/>
+	<entry name="NapalmTideFlavor" value="&lt;string name='Weapons/NapalmTideFlavor'/&gt;"/>
+	<entry name="NaturalStimulants" value="&lt;string name='Actions/NaturalStimulants'/&gt;"/>
+	<entry name="NaturalStimulantsFlavor" value="&lt;string name='Actions/NaturalStimulantsFlavor'/&gt;"/>
+	<entry name="OrolosianSanctuary" value="&lt;string name='Actions/OrolosianSanctuary'/&gt;"/>
+	<entry name="OrolosianSanctuaryFlavor" value="&lt;string name='Actions/OrolosianSanctuaryFlavor'/&gt;"/>
+	<entry name="PlancksCoil" value="&lt;string name='Items/PlancksCoil'/&gt;"/>
+	<entry name="PlancksCoilFlavor" value="&lt;string name='Items/PlancksCoilFlavor'/&gt;"/>
+	<entry name="PlanetShieldProtocol" value="PlanetShieldProtocol"/>
+	<entry name="PlanetShieldProtocolFlavor" value="&lt;string name='Quests/BinaricChoice/HelpZeroSuccess2'/&gt;"/>
+	<entry name="PlayerOfGames" value="Гравець в ігри"/>
+	<entry name="PlayerOfGamesFlavor" value="&lt;string name='Quests/TheEmpathsDefense/ResetTheBoard2'/&gt;"/>
+	<entry name="ProfessionalAgitator" value="Професійний агітатор"/>
+	<entry name="ProfessionalAgitatorFlavor" value="&lt;string name='Quests/PoliticalFallout/RecruitMarinFailure2'/&gt;"/>
+	<entry name="QualityTells" value="Якість видно"/>
+	<entry name="QualityTellsPlayer" value="&lt;string name='Traits/QualityTells'/&gt;"/>
+	<entry name="QualityTellsPlayerFlavor" value="&lt;string name='Traits/QualityTellsFlavor'/&gt;"/>
+	<entry name="QueensGambitAccepted" value="Ферзевий гамбіт прийнято"/>
+	<entry name="QueensGambitAcceptedFlavor" value="&lt;string name='Quests/TheEmpathsDefense/OneLastGameSuccess2'/&gt;"/>
+	<entry name="QueensGambitDeclined" value="Ферзевий гамбіт відхилено"/>
+	<entry name="QueensGambitDeclinedFlavor" value="&lt;string name='Quests/TheEmpathsDefense/EndThisSuccess2'/&gt;"/>
+	<entry name="SaboteurInsurrection" value="&lt;string name='Actions/SaboteurInsurrection'/&gt;"/>
+	<entry name="SaboteurInsurrectionFlavor" value="&lt;string name='Actions/SaboteurInsurrectionFlavor'/&gt;"/>
+	<entry name="SyncreticDevaAffinityUpgrade" value="Разом, заради всіх"/>
+	<entry name="SyncreticDevaAffinityUpgrade2" value="Пансофічний перенос"/>
+	<entry name="SyncreticDevaAffinityUpgrade2Properties" value="&lt;icon texture='GUI/Bullet'/&gt;Кіберюніти отримують досвід від загибелі союзних кіберюнітів"/>
+	<entry name="TenderArchitecture" value="Дбайлива архітектура"/>
+	<entry name="TerminalTransition" value="Кінцевий перехід"/>
+	<entry name="TheMythThatWasMarin" value="Міф на ім’я Марін"/>
+	<entry name="TheMythThatWasMarinFlavor" value="&lt;string name='Quests/PoliticalFallout/RejectMarin2'/&gt;"/>
+	<entry name="ViewFromAboveUpgrade" value="&lt;string name='Upgrades/ViewFromAboveUpgrade'/&gt;"/>
+	<entry name="ViewFromAboveUpgrade2" value="&lt;string name='Upgrades/ViewFromAboveUpgrade2'/&gt;"/>
+	<entry name="ViewFromAboveUpgrade2Flavor" value="&lt;string name='Upgrades/ViewFromAboveUpgrade2Flavor'/&gt;"/>
+	<entry name="ViewFromAboveUpgrade2Tile" value="&lt;string name='Traits/ViewFromAboveUpgrade2'/&gt;"/>
+	<entry name="ViewFromAboveUpgradeFlavor" value="&lt;string name='Upgrades/ViewFromAboveUpgradeFlavor'/&gt;"/>
+	<entry name="ViewFromAboveUpgradeTile" value="&lt;string name='Traits/ViewFromAboveUpgrade'/&gt;"/>
+	<entry name="WhatIsTrulyWorthyOfWorship" value="&lt;string name='Settings/Achievements/WhatIsTrulyWorthyOfWorship'/&gt;"/>
+	<entry name="WhatIsTrulyWorthyOfWorshipProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Отримує +2 до броні щохід, поки лишається на місці, аж до +6. Бонус втрачається, щойно юніт рушає."/>
+	<entry name="Withdraw" value="&lt;string name='Actions/Withdraw'/&gt;"/>
+	<entry name="WithdrawFlavor" value="&lt;string name='Actions/WithdrawFlavor'/&gt;"/>
+	<entry name="BallisticDevotionFlavor" value="Провокатори вже знали кожну легенду про «Валькірію». Прорив стався тоді, коли їхні наставники перетворили цю одержимість на ритуал: дихай разом із енергоелементом, чекай, доки вгамується ствол, стріляй лише тоді, коли привид у твоїй голові скаже зараз. Хоч поклоніння, хоч ненависть — а влучати вони стали краще."/>
+	<entry name="CoilFlavor" value="Є причина, чому блискавична зброя досі ніколи не приживалася. Надто непередбачувана. Розряд — як кидок кості. Котушки Содому частково взяли її під контроль… але завжди лишався той дотик хаосу, що скрадався під поверхнею."/>
+	<entry name="DeviantProliferationFlavor" value="Смішно, яку різницю здатен зробити один зайвий Одай. Ще одна жива бомба, що відриває тобі руку. Ще одна губка, що всотує твої кулі. Ще одна душа, звільнена з ходячого пекла."/>
+	<entry name="DiscarnateFrameworkFlavor" value="Я попереджав старого. Поставити пару Єгерів попереду його лінії Снайперів — анідідька не дасть проти зграї Нишпорок. А там, позаду, був його хлопчина. Не тішило мене, що я мав рацію. Нишпорки скористалися деревами як укриттям. Прослизнули повз ходячих титанів із їхніми малолітніми пілотами. І посікли Снайперів — разом із його хлопчиною — на шматки."/>
+	<entry name="EidolicFocusFlavor" value="Дивно було битися з Нишпоркою впритул. Здалеку ти бачив у них машини, якими вони й були. Зблизька — якесь поле, що йшло від них. Воно змушувало тебе бачити речі — людей — із твого минулого. Не просто відволікало. Бентежило. Забагато сутичок, де мені здавалося, ніби я от-от штрикну ножем найкращого друга дитинства."/>
+	<entry name="FormIsFunctionFlavor" value="Послідовники Божества були єдиним технолюбним гуртом, що не виміняв своєї людяності, під’єднавшись до машин. Це означало, що тобі треба трохи більше потужності, аби світло не гасло… зате його працівники були щасливіші. Завзятіші. Вони вірили у справу, якої саме Божество й не бачило."/>
+	<entry name="ForTheFewFlavor" value="Послідовники Божества перекрутили його слова… Думали, ніби він хоче, щоб кожна будівля була тим самим храмом. А він прагнув лише одного: щоб вони поклонялися власній неповторності так само, як поклонялися богам. А не щоб придушували свої відмінності."/>
+	<entry name="HumanitysFinestFlavor" value="Звершення. Зростання. Самовдосконалення. Усе те, що я повикидав, коли вперше вибрів із бункера. Екзонавтка вимагала цих рис від своїх бійців. «Ти не народжуєшся найкращим. Ти можеш лише ПІДНЕСТИСЯ до величі.» Людство роками отримувало стусанів. Його затьмарювали чудовиська й машини. Приємно було знову опинитися нагорі."/>
+	<entry name="ImperiousExonautAffinityUpgrade2Flavor" value="Купа гидких таємниць там, нагорі, на космічній станції, що її Екзонавтка відрядила до нас. Цікаво, чи Скрамджети мали призначатися для довоєнних космічних апаратів. Тепер єдині ракети, що ми ними користуємося, націлені на інших людей."/>
+	<entry name="ImperiousExonautAffinityUpgradeFlavor" value="«Сенс доброго навчання в тому, що ти маєш навчитися вчитися.» Слова моєї тітки, коли вона нарікала на своїх учнів. Згодом вони стали моїми словами. Я шпетив усіх горлорізів, невдячних за добру науку, яку пропонувала їм Екзонавтка."/>
+	<entry name="MandatedEmpathyFlavor" value="Мило. Я небагато пам’ятаю з уроків англійської, та згадую, що «емпатія» — це слово, яке вживають про людей. Не про машини смерті. Авжеж, ця штукенція змушує тебе відчувати те, що відчуває вона, коли ти завдаєш їй болю. Та назву їй усе одно слід кращу."/>
+	<entry name="QualityTellsFlavor" value="Я наскрізь бачив Екзонавтку. Усі ці балачки про те, що вона хоче бачити в лавах найкращих із найкращих, що заплатить будь-яку ціну за еліту, — чув я таке вже не раз. Ні, вона ставилася до своєї солдатні так, як сама хотіла б, щоб із нею поводилися в академії. Будь-кого можна зробити елітою, якщо чиниш так, ніби він того вартий."/>
+	<entry name="SyncreticDevaAffinityUpgrade2Flavor" value="Минуле Божества в дослідженні зброї дало йому неповторний кут зору: спосіб вивантажити розум машини за секунди до загибелі. Просто перед тим, як боти робили «бабах», вони встигали випустити останній пакет даних. Поки поруч була інша машина, що могла його впіймати, та частинка їхніх даних жила далі. Для Божества то був урятований життям."/>
+	<entry name="SyncreticDevaAffinityUpgradeFlavor" value="Божество хотіло, щоб ми всі трималися разом, мов одна велика щаслива родина. Машини, чудовиська й люди стояли пліч-о-пліч. Виявилося, що тактично це теж доволі дієво. Нова, моральна форма поєднання різних родів військ."/>
+	<entry name="TenderArchitectureFlavor" value="Шкода від блискавки — це вулиця з двостороннім рухом. Перетвори її на зброю — і машина, що нею б’є, теж дістане відлунний удар. Зміцнення опорної конструкції здатне пришвидшити ремонт. Тож твоя машина для вбивства зможе хутчіш повернутися до різанини."/>
+	<entry name="TerminalTransitionFlavor" value="Душі всередині Скорботного Одая шукали будь-який спосіб вирватися. Смерть носія була одним із виходів. Чи билися вони між собою за те, щоб останньою вислизнути за двері? Чи була одна… обрана? Який шлях був легшим? Люди б’ються й рвуться пазурами на волю. Можливо, культисти хочуть померти в кайданах."/>
+	<entry name="WhatIsTrulyWorthyOfWorshipFlavor" value="[ЗАРАДИ ЧОГО ПОКЛОНІННЯ? ЗАРАДИ ІСТИНИ? ЧИ Є ІСТИНА В ПОРОЖНЕЧІ?]"/>
 </language>

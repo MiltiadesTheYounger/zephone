@@ -335,4 +335,13 @@
 	<entry name="TypeLimit" value="Ліміт типу"/>
 	<entry name="UnitCost" value="Вартість юніта"/>
 	<entry name="UnitUpkeep" value="Витрати на утримання юніта"/>
+	<entry name="LoyaltyPerBuildingType" value="Лояльність за тип будівлі"/>
+	<entry name="LoyaltyPerBuildingTypeIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
+	<entry name="LoyaltyPerDuplicateBuilding" value="Лояльність за повторювану будівлю"/>
+	<entry name="LoyaltyPerDuplicateBuildingIcon" value="&lt;icon height='20' texture='Icons/Attributes/Loyalty'/&gt;"/>
+	<entry name="PopulationEnergyUpkeep" value="Витрати на утримання населення (енергія)"/>
+	<entry name="PopulationEnergyUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Energy'/&gt;"/>
+	<entry name="PopulationFoodUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Food'/&gt;"/>
+	<entry name="PopulationInfluenceUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
+	<entry name="PopulationMineralsUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Minerals'/&gt;"/>
 </language>

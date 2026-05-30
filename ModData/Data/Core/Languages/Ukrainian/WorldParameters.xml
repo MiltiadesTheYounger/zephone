@@ -43,7 +43,7 @@
 <entry name="AutoDisableSimultaneousTurns" value="Автовимкнення одночасних ходів"/>
 <entry name="AutoDisableSimultaneousTurnsHint" value="Автоматично вимикає одночасні ходи, коли ворожі юніти, що не належать ШІ, наближаються одне до одного на відстань 5 клітинок."/>
 <entry name="AvoidDuplicateRandomFactions" value="Уникати повторення випадкових фракцій"/>
-<entry name="AvoidDuplicateRandomFactionsHint" value="Налаштовує ймовірність випадкових фракцій так, щоб усі фракції з’являлись у грі рівномірно."/>
+<entry name="AvoidDuplicateRandomFactionsHint" value="Коригує шанси випадкових фракцій так, щоб кожна фракція з’являлася в грі однакову кількість разів."/>
 
 <entry name="BleedDensity" value="Щільність: Теча"/>
 <entry name="BleedDensity0" value="Немає"/>
@@ -431,4 +431,13 @@
 <entry name="WorldParameters" value="Параметри світу"/>
 <entry name="WorldParametersHint" value="Зашифрований рядок з усіма параметрами світу, включно з мутаторами, але без гравців.&lt;br/&gt;&lt;br/&gt;Дозволяє поділитися налаштуваннями світу з іншими або зберегти їх на потім."/>
 
+	<entry name="DLC3" value="Додаток «Синкретичне та Владна»"/>
+	<entry name="Mutators/WasAnyOfItReal" value="&lt;string name='Settings/Achievements/WasAnyOfItReal'/&gt;"/>
+	<entry name="Mutators/WasAnyOfItRealHint" value="Нейтральна сторона має всі покращення."/>
+	<entry name="Mutators/WhatCarriesAcross" value="&lt;string name='Settings/Achievements/WhatCarriesAcross'/&gt;"/>
+	<entry name="Mutators/WhatCarriesAcrossHint" value="Анахорет і ЗЕФОН можуть будувати титанів."/>
+	<entry name="Mutators/WhatIsTheWorthOfAHumanLife" value="&lt;string name='Settings/Achievements/WhatIsTheWorthOfAHumanLife'/&gt;"/>
+	<entry name="Mutators/WhatIsTheWorthOfAHumanLifeHint" value="Можна переглядати екран статистики під час гри."/>
+	<entry name="Mutators/WhatIsTrulyWorthyOfWorship" value="&lt;string name='Settings/Achievements/WhatIsTrulyWorthyOfWorship'/&gt;"/>
+	<entry name="Mutators/WhatIsTrulyWorthyOfWorshipHint" value="Юніти отримують +2 до броні щоходу, поки стоять на місці, до +6. Бонус втрачається під час руху."/>
 </language>

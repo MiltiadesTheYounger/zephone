@@ -350,4 +350,38 @@
 <entry name="WastelanderFlavor" value="Кожен лихач серед Спустошувачів мріяв осідлати цього величного звіра й кричати під рев шестицилиндрового дизельного двигуна... Але для більшості це був смертний вирок. Можна було задихнутись від диму. Впасти на шипи... Підсковзнутись і побачити, як тебе розчавлюють велетенські колеса."/>
 <entry name="WhispererOfGoldrauchFlavor" value="Поговарювали про жінку, яка зав’язала собі вуха, закрила очі й... ну, щось вона там зробила зі своєю шкірою... Вона не хотіла відчувати нічого — тільки Голос. Вона підійшла ближче за всіх до розуміння акринів. Вона затаїла їхній біль у собі й вирізала собі нове призначення. Краще не ставайте їй на шляху."/>
 <entry name="ZephonTitanFlavor" value="Часові. Молотоголови. Стражі. ЗЕФОН завжди мав особливу прив’язаність до людських машин — наче міг зазирнути в них і побачити чудовиськ, які їх створили. Його титан був машиною прихованого гніву, вирізаною з серця іржавого лінкора, що колись перевозив смерть через океан і назад."/>
+	<entry name="AbanimCatalyst" value="Каталізатор Абанім"/>
+	<entry name="AbanimCatalystProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика ширяюча механічна конструкція з випадковим відбиттям шкоди та нестабільними сплесками атаки"/>
+	<entry name="CavaediumOdai" value="Каведіум Одай"/>
+	<entry name="CavaediumOdaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велике біологічне чудовисько, що прикликає Скорботних Одаїв"/>
+	<entry name="EngineerKarel" value="Інженер Карел"/>
+	<entry name="EngineerKarelFlavor" value="&lt;string name='Quests/BinaricChoice/HelpBothStageOneSuccess2'/&gt;"/>
+	<entry name="Eradicator" value="Винищувач"/>
+	<entry name="EradicatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Великий механічний літун із різноманітним арсеналом, здатний поливати ворогів вогнем"/>
+	<entry name="EradicatorOne" value="ОДИН"/>
+	<entry name="EradicatorOneFlavor" value="&lt;string name='Quests/BinaricChoice/Intro2'/&gt;"/>
+	<entry name="EradicatorOneProperties" value="&lt;string name='Units/EradicatorProperties'/&gt;"/>
+	<entry name="EradicatorZero" value="НУЛЬ"/>
+	<entry name="EradicatorZeroFlavor" value="&lt;string name='Quests/BinaricChoice/Intro2'/&gt;"/>
+	<entry name="EradicatorZeroProperties" value="&lt;string name='Units/EradicatorProperties'/&gt;"/>
+	<entry name="HeliosMissileTank" value="Ракетний танк «Геліос»"/>
+	<entry name="HeliosMissileTankProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Велика механічна машина, створена, щоб сіяти спустошення серед ворожих міст і піхоти з гранично великої відстані"/>
+	<entry name="KolyasFollowers" value="Послідовники Колі"/>
+	<entry name="KolyasFollowersFlavor" value="&lt;string name='Quests/TheEmpathsDefense/SacrificePawnSuccess/StudyKolya2'/&gt;"/>
+	<entry name="LamentingOdai" value="Скорботний Одай"/>
+	<entry name="LamentingOdaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Ширяюча біологічна піхота, що самознищується, завдаючи шкоди ворогам поблизу"/>
+	<entry name="PaytanimProwler" value="Нишпорки Пайтанім"/>
+	<entry name="PaytanimProwlerProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Ширяюча механічна піхота, створена для проникнення в тил ворога"/>
+	<entry name="Provocator" value="Провокатори"/>
+	<entry name="ProvocatorProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота, оснащена далекобійними гарматами, щоб дошкуляти ворогам на відстані та прикривати відступ союзників"/>
+	<entry name="YbbaathOfTheOrolos" value="Іббаат з Оролосів"/>
+	<entry name="YbbaathOfTheOrolosProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Біологічна піхота, що вражає ворогів пошестю та керує полем бою"/>
+	<entry name="AbanimCatalystFlavor" value="Годинникарі кажуть, що це не їхній витвір. Та це лише провина говорить. Вони знають, що хтось — може, ЗЕФОН, може, Майстриня — поцупив їхні записи й зварганив пересувний громовідвід. Вони бачили, як він підсмажує цивільних, і воліли б не мати до цього жодного стосунку."/>
+	<entry name="CavaediumOdaiFlavor" value="Скількох культистів запекли в один із цих… крокучих соборів? Не могло бути лиш одне тіло. Енергія Голосу прокочувалася табором щоразу, коли один із них опинявся поруч. Мені здавалося, ніби я чую… крик. Багато. І багато. Крику."/>
+	<entry name="EradicatorFlavor" value="Хтозна, як ЗЕФОН зметикував, як підняти цю величезну купу брухту в небо. Перший із них, з ким ми билися, збив цілі ескадрильї винищувачів і підсмажив купу зеніток. А коли він нарешті впав… то гепнувся на торговий обоз. Виправдав своє ім’я до останньої миті."/>
+	<entry name="HeliosMissileTankFlavor" value="Сила сонця у зброї, що могла затьмарити небо. Не можна було довіряти їх рядовим горлорізам. Операторів набирали з наукового корпусу. Не варто їх недооцінювати. Немає нічого страшнішого за яйцеголового, якому нарешті дали зброю до рук."/>
+	<entry name="LamentingOdaiFlavor" value="Душі, що вже не могли цього витримати. Рвуться пазурами зі своєї клітки, поспіхом збираючись у щось схоже на тіло. Багато про що говорить те, що перетворитися на одного з цих і згоріти у вогні — краще, ніж лишатися ув’язненим у більшій тварюці."/>
+	<entry name="PaytanimProwlerFlavor" value="Її позивний був «Садівниця». Найкраща мисливиця на Нишпорок у моїй зграї. І все через мутацію, казала вона. Новий різновид дальтонізму, що вразив її аж після пострілу Твердині. «Світ — то лиш тисяча відтінків сірого, — бурмотіла вона. — Окрім яскраво-зеленого. Як очі Нишпорки»."/>
+	<entry name="ProvocatorFlavor" value="Ці вояки говорили тільки про «Валькірію». Дорого платили за право орудувати її автогарматою, прив’язуючи себе до тих величезних силових комірок. Чи скривило це їм мізки? Чи щось інше живило їхню одержимість? Поклоніння чи ненависть… я так і не зрозумів напевно."/>
+	<entry name="YbbaathOfTheOrolosFlavor" value="З усіх тварюк Оролосів Іббаат здавався… найсумнішим. Скорботним. Стражденним. Їхній розум лишився недоторканим, тож вони чудово усвідомлювали отруту, що ринула з їхніх тіл, і невинних, які гинули, задихаючись від неї."/>
 </language>

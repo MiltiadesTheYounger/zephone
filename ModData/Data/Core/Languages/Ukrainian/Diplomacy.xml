@@ -310,7 +310,7 @@
 	<entry name="Anchorite/OfferPeace/FurtiveTribunal" value="Не потребувати осуду. Потребувати зцілення. Знати, що Голос звертає розум всередину і змінює тіло в його відсутності. Я бачу сліди — нехай настане мир, щоб я міг допомогти."/>
 	<entry name="Anchorite/OfferPeace/HeartlessArtificer" value="Спокушати мудрістю. Мої юнацькі мрії були витесані вітрами пустелі, що несли гострий пісок. Ти — цінуєш форму, відчуття."/>
 	<entry name="Anchorite/OfferPeace/HollowWarlord" value="Бачити марність прохання. Просити все одно."/>
-	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="Мої акрини воліли б стати частиною твоєї мережі, ніж померти поза нею від голоду. Ти розглянеш перемир’я?"/>
+	<entry name="Anchorite/OfferPeace/HonorableAristocrat" value="Щоб стати частиною твоєї мережі, а не вмирати з голоду назовні. Щоб сподіватися, що ти зважишся на мир."/>
 	<entry name="Anchorite/OfferPeace/InfiniteCount" value="Бачити наш світ однаковими очима. Сподіватися на краще. Обрати працювати заради цього."/>
 	<entry name="Anchorite/OfferPeace/PlatinumScion" value="Знати презирство до жадібності. Але прощати, знаючи, що жадібність бажає прав власності, а мир — лише крок від цього."/>
 	<entry name="Anchorite/OfferPeace/PracticalRomantic" value="Мріяти, так, мріяти. Але світ такий, яким він є, іде до того, що його чекає. Мир — частина плану."/>
@@ -1063,7 +1063,7 @@
 	<entry name="HollowWarlord/AcceptPraise" value="Звісно, я найкращий! Давай, вдар мене грудьми! ВДАР МЕНЕ ГРУДЬМИ!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreement" value="Мені завжди потрібно більше. Запчастини, паливо, патрони. Машину війни потрібно годувати!"/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTermination" value="Ха! Знаю, куди це котиться. Ознака швидкої загальної війни, так? Буду чекати..."/>
-	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% все одно не розуміє, хто тут головний. Хоче торгувати з Воєводою Порожнечі, хай звертається до Воєводи Порожнечі."/>
+	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="%3% все одно не розуміє, хто тут головний. Хоче торгувати з %1%, хай звертається до Воєводи Порожнечі."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Я ніколи не був великим фанатом обміну товарами. Більше ударообміну."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Пф, гаразд. Сподіваюся, більше не доведеться чесати язиком."/>
 	<entry name="HollowWarlord/AcceptTradeAgreementWithThirdParty/AskParty" value="Економіка, торги. Нехай цим займаються вегетаріанці. М’ясоїди не торгуються."/>
@@ -1305,7 +1305,7 @@
 	<entry name="HonorableAristocrat/RejectPaymentForDeal/RejectOutright" value="Гадаєш, я принесу тобі все на срібних блюдцях в обмін на твої недопечені пироги? Ні-ні, я навіть розглядати таку можливість не стану."/>
 	<entry name="HonorableAristocrat/RejectPeace" value="Мир? Ні, я ситий миром по горло. Зараз мій апетит можна втамувати лише кров’ю."/>
 	<entry name="HonorableAristocrat/RejectPeaceWithThirdParty/RejectOutright" value="Я прийняв тебе за своїм столом, а ти псуєш мені апетит такими темами? Краще поговорімо про щось інше."/>
-	<entry name="HonorableAristocrat/RejectPeaceWithThirdParty/RejectParty" value="Якби я міг... Я вже пробував застосувати пряник, але тепер лишився лише батіг."/>
+	<entry name="HonorableAristocrat/RejectPeaceWithThirdParty/RejectParty" value="Якби ж я міг… Я спробував пряник, та лишився сам із батогом."/>
 	<entry name="HonorableAristocrat/RejectTradeAgreement" value="Ні-ні, є межа моїй шляхетності. Тим, що ти мені пропонуєш, я народ не прогодую."/>
 	<entry name="HonorableAristocrat/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Хоч я й ризикую здатися неввічливим, але скажу, що мої справи тебе не стосуються. І хай так і залишається."/>
 	<entry name="HonorableAristocrat/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="Гм-гм. Чому ж ти питаєш мене, а не їх? На чужий званий обід зі своїм меню не приходять."/>
@@ -2276,4 +2276,367 @@
 	<entry name="Zephon/RejectWarAgainstThirdParty/RejectParty" value="Ми не можемо виконати твій запит. Усі необхідні війни вже оголошені. Будь-який подальший конфлікт нелогічний — і ті, хто його спровокує, можуть стати пріоритетними цілями."/>
 	<entry name="Zephon/TerminateAlliance" value="Ми виявили твої приготування проти нас, %2%. Виправдань не потрібно. Ми вже знаємо причину й тепер відповідаємо взаємністю."/>
 	<entry name="Zephon/TerminateTradeAgreement" value="Твоя цінність ніколи не обмежувалася лише економікою. Тим не менш ми не можемо підтримувати невигідне торговельне партнерство."/>
+	<entry name="Anchorite/DeclareWar/Anchorite" value="Щоб побачити лише один шлях для нас обох."/>
+	<entry name="Anchorite/DeclareWar/ImperiousExonaut" value="Щоб відчути твою ворожість, як вона відлунює вперед і назад крізь час. Щоб збагнути, що має статися."/>
+	<entry name="Anchorite/DeclareWar/SyncreticDeva" value="Щоб побачити твою істину. Щоб полюбити тебе за неї. Щоб усвідомити, що це понад нас із тобою. Щоб благати прощення в цій нескінченній миті."/>
+	<entry name="Anchorite/OfferPeace/ImperiousExonaut" value="Щоб побачити коловорот зірок. Щоб знову дійти до того самого місця, наче по орбіті. Щоб втомитися від цього кола."/>
+	<entry name="Anchorite/OfferPeace/SyncreticDeva" value="Щоб бути вдячним за твоє милосердя. Щоб плекати надію на твою поблажливість."/>
+	<entry name="Anchorite/Praise/HiddenWisdom" value="Знати минуле так глибоко. І часом дарувати його, наче подарунок."/>
+	<entry name="Chieftess/DeclareWar/ImperiousExonaut" value="Ти що, в небі, голубонько? Гм. Тоді мені знадобиться ніж довший."/>
+	<entry name="Chieftess/DeclareWar/SyncreticDeva" value="Чорт, хлопче. Шо за справа з усіма цими руками? Лікті собі лизати вмієш? Може, я б їх тобі підігнула..?"/>
+	<entry name="Chieftess/OfferPeace/ImperiousExonaut" value="Перестану на хвильку вбивати. Просто шоб розкумекати, як до тебе дотягтися, кумекаєш?"/>
+	<entry name="Chieftess/OfferPeace/SyncreticDeva" value="Як на старого діда, ти доволі міцний. Це навіть якось заводить."/>
+	<entry name="Chieftess/Praise/HumanitysFinest" value="Бляха, твої хлопці й дівчата — ВОГОНЬ. Можна позичити парочку на пробний заїзд?"/>
+	<entry name="EmulatedMind/DeclareWar/ImperiousExonaut" value="Я- я- я &gt;&gt;БІЛЬШЕ&gt;&gt; (ніж) М.А.Ш.И.Н.А. ??Що?? є моя лють, якщо не [Л.Ю.Д.С.Ь.К.А?]"/>
+	<entry name="EmulatedMind/DeclareWar/SyncreticDeva" value="--Нічого-- проти тебе, %2%. +++Захоплення+++ навіть. Та твій Н.А.Р.О.Д. треба --&gt; навчити [[У-Р-О-К-А-М]]"/>
+	<entry name="EmulatedMind/OfferPeace/ImperiousExonaut" value="{{кодування-PD120.}}\&lt;-&gt;Подивимось [ми]. ЯКЩО(супергармата Забуття --&gt; стріляє достатньо високо) ТО (поцілити в МКС)? Подивимось [ми]?"/>
+	<entry name="EmulatedMind/OfferPeace/SyncreticDeva" value="[[ПЕРЕСИЛ: МИР]]. Твої &gt;&gt;послідовники&gt;&gt; наполягають на {угодах}. [Що] проціджені --&gt;крізь--&gt; тебе."/>
+	<entry name="FallenSoldier/DeclareWar/ImperiousExonaut" value="Гей ти, там нагорі! Припини вбивати людей моїм іменем."/>
+	<entry name="FallenSoldier/DeclareWar/SyncreticDeva" value="Важко не байдужіти, чи не так? Інколи… інколи мусиш загартувати серце. Зробити те, що тяжко. Вибач, учителю."/>
+	<entry name="FallenSoldier/OfferPeace/ImperiousExonaut" value="Кажеш, що любиш людей. То… може, тоді просто не вбивати їх?"/>
+	<entry name="FallenSoldier/OfferPeace/SyncreticDeva" value="Ще ніколи моїх вояків не лупцювали студенти-філософи. Дякую за урок. А тепер… можеш попросити їх перестати нас навчати?"/>
+	<entry name="FallenSoldier/Praise/Tactics" value="Не бачив настільки вправного юніта відтоді, як… ну, відтоді, як я вперше помер."/>
+	<entry name="FurtiveTribunal/DeclareWar/ImperiousExonaut" value="Сонце падає, і слід його червоний. Зорі гаснуть, коли воно проходить. Земля горить, передчуваючи його поцілунок."/>
+	<entry name="FurtiveTribunal/DeclareWar/SyncreticDeva" value="Порцелянова лялька з потрісканою шкірою танцює. Глядачі плещуть, хоч би якою була історія того танцю."/>
+	<entry name="FurtiveTribunal/OfferPeace/ImperiousExonaut" value="Зоряне дитя з дияволом на плечі. Кружляє й кружляє, доки не впаде, червоне, мов у дитячій лічилці."/>
+	<entry name="FurtiveTribunal/OfferPeace/SyncreticDeva" value="Сталь під шкірою. Камінь у серцевині плоду. Смертоносна квітка стуляється. Тричі здивована."/>
+	<entry name="HeartlessArtificer/DeclareWar/ImperiousExonaut" value="Ти — зайва змінна. Така, яку я мушу врахувати. Настав час для розрахунку."/>
+	<entry name="HeartlessArtificer/DeclareWar/SyncreticDeva" value="Твоя філософія наганяє на мене нудьгу. Та ті довоєнні дослідження, що ти проводив, — ту мудрість я хочу. І я заберу її в тебе."/>
+	<entry name="HeartlessArtificer/OfferPeace/ImperiousExonaut" value="Припинімо це марне розтринькування ресурсів. В усьому іншому ми однієї думки."/>
+	<entry name="HeartlessArtificer/OfferPeace/SyncreticDeva" value="Це видається… неефективним… битися з такими наївними супротивниками. Не знаючи правил, вони нескінченно дивують. Я візьму хвилину, щоб поміркувати над цим."/>
+	<entry name="HeartlessArtificer/Praise/FormIsFunction" value="Гідно похвали. Кібернетичним послідовникам потрібне пальне — тож їхня потреба в живленні дає тобі більше влади над ними."/>
+	<entry name="HollowWarlord/DeclareWar/ImperiousExonaut" value="Бабуся казала завжди гамселити фашистів. Спускайся сюди, де я зможу тебе відгамселити!"/>
+	<entry name="HollowWarlord/DeclareWar/SyncreticDeva" value="Пацифіст — це просто мрець, якого ти ще недостатньо затоптав."/>
+	<entry name="HollowWarlord/OfferPeace/ImperiousExonaut" value="ПРИПИНИ ЗА МНОЮ СТЕЖИТИ. Я не можу робити це, поки ти дивишся."/>
+	<entry name="HollowWarlord/OfferPeace/SyncreticDeva" value="Не маю звички просити миру в пацифістів, але… е-е. Ну, ти розумієш.&lt;br/&gt;&lt;br/&gt;(Будь ласка, нікому не кажи.)"/>
+	<entry name="HollowWarlord/Praise/Tactics" value="Оце вождіння. Уяви, на що була б здатна моя орда з таким баченням."/>
+	<entry name="HonorableAristocrat/DeclareWar/ImperiousExonaut" value="Як ти досі жива? Після двадцяти років сушеного північного оленя? Я мушу вбити тебе — заради всіх гурманів світу."/>
+	<entry name="HonorableAristocrat/DeclareWar/SyncreticDeva" value="Забагато смаків! Переперчено, пересолено, переборщено з маслом! І це ти називаєш мудрістю!?"/>
+	<entry name="HonorableAristocrat/OfferPeace/ImperiousExonaut" value="У твоїй справі є шляхетність, мушу визнати. Берегти все, що є вишуканого у світі. Дозволь мені підняти келих за твою зорю й сподіватися, що в тобі ще жевріє хоч крапля добрих почуттів."/>
+	<entry name="HonorableAristocrat/OfferPeace/SyncreticDeva" value="Чи так само ти відірваний від своїх медитацій, як я — від своєї вечері? Я навіть не можу просунутися далі шостої страви! Так не годиться."/>
+	<entry name="ImperiousExonaut/AcceptActionCancel" value="Я нікуди не подінуся."/>
+	<entry name="ImperiousExonaut/AcceptAlliance" value="Нагода для тебе чогось навчитися."/>
+	<entry name="ImperiousExonaut/AcceptAllianceTermination" value="Шанувальнице! Як ти смієш мене відкидати? Де твоя смиренність?"/>
+	<entry name="ImperiousExonaut/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="%3% не страждатиме. Я про це подбаю."/>
+	<entry name="ImperiousExonaut/AcceptAllianceTerminationWithThirdParty/AskParty" value="Я чую сов у мішку. Зрадників людства, що ховаються в усіх на очах. Назви імена."/>
+	<entry name="ImperiousExonaut/AcceptAllianceWithThirdParty/AcceptParty" value="З моїм баченням вони не насміляться мене зрадити."/>
+	<entry name="ImperiousExonaut/AcceptAllianceWithThirdParty/AskParty" value="Кого з малих людей ти на мене навішуєш?"/>
+	<entry name="ImperiousExonaut/AcceptCall/Friendly" value="Välkomna!"/>
+	<entry name="ImperiousExonaut/AcceptCall/Hostile" value="Людство страждає, а ти марнуєш час на пусті балачки?!"/>
+	<entry name="ImperiousExonaut/AcceptCall/Neutral" value="Сигнал дуже поганий. Мусимо бути стислими."/>
+	<entry name="ImperiousExonaut/AcceptCondemn" value="Ти не краща. Яке мені діло до того, що ти думаєш?"/>
+	<entry name="ImperiousExonaut/AcceptGift/AcceptAmount" value="Ja."/>
+	<entry name="ImperiousExonaut/AcceptGift/AskAmount" value="Свіша, свіша."/>
+	<entry name="ImperiousExonaut/AcceptMapSharing" value="Я бачу все. Та добре знати, що ти думаєш, ніби знаєш!"/>
+	<entry name="ImperiousExonaut/AcceptPaymentForDeal/AcceptAmount" value="Усе, що можеш віддати, заради людства? Гаразд. Я це запам’ятаю."/>
+	<entry name="ImperiousExonaut/AcceptPaymentForDeal/AskAmount" value="Я бачу, що ти маєш. Що з цього ти віддаси?"/>
+	<entry name="ImperiousExonaut/AcceptPeace" value="Перепочинок, щоб людство зміцніло. Гаразд, ми приймаємо."/>
+	<entry name="ImperiousExonaut/AcceptPeaceWithThirdParty/AcceptParty" value="А, розумію. Я вважаю %3% майже людиною. Хоч і не мого рівня, ти ж розумієш."/>
+	<entry name="ImperiousExonaut/AcceptPeaceWithThirdParty/AskParty" value="Ти ж не просиш мене зблизитися з фремлінґар чи машінер?"/>
+	<entry name="ImperiousExonaut/AcceptPraise" value="Я ще не заслужила цього. Не раніше, ніж людство знову стане чистим."/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreement" value="Я прокладу безпечні шляхи для товарів між нашими поселеннями."/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreementTermination" value="Що, чому? Я що, нагидила в синю шафку?"/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="О, %3%? Що ж, я й сама гадала, що їхня поведінка не личить справжньому людству. Хай так і буде."/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Тобі на диво важко відмовити. То кого ж ти хочеш, щоб я викинула з пристойного товариства?"/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Якщо ти кажеш мені, що %3% аж переповнюється добротою, то я мушу тобі повірити. Звідси, згори, я не бачу їхньої правди — лише їхню корону."/>
+	<entry name="ImperiousExonaut/AcceptTradeAgreementWithThirdParty/AskParty" value="У чиї ж обійми ти штовхаєш мій народ?"/>
+	<entry name="ImperiousExonaut/AcceptTribute/AcceptAmount" value="Якби ми ще зводили статуї, сьогодні ми поставили б одну тобі."/>
+	<entry name="ImperiousExonaut/AcceptTribute/AskAmount" value="Пожертва на велич людства? Сподіваюся, вона гідна нашої слави."/>
+	<entry name="ImperiousExonaut/AcceptTroopWithdrawal" value="Упіймали з бородою в поштовій скриньці!"/>
+	<entry name="ImperiousExonaut/AcceptWar" value="Не верзи дурниць. Я ж бачила, як ти потайки готував це місяцями."/>
+	<entry name="ImperiousExonaut/AcceptWarAgainstThirdParty/AcceptParty" value="Ах, так. %3% вважають себе кращими за нас? Ми навчимо їх смирення."/>
+	<entry name="ImperiousExonaut/AcceptWarAgainstThirdParty/AskParty" value="Хто не докладається до виживання людства? Хто гадає, що він особливий?"/>
+	<entry name="ImperiousExonaut/AdmitDefeat" value="Поразка? Це не поразка. Там, де я є, людство в безпеці. Єдиний жах тут, угорі — це… ну, ніщо. Порожнеча. А там, унизу, у вас роботи, чужинці… ба навіть соціалісти. Ліберали!&lt;br/&gt;&lt;br/&gt;А тепер я відвернуся від цього радіо. І повернуся до своєї шахової партії. Допоки я живу, людство ніколи не зазнає поразки. Завжди лишатиметься вищим."/>
+	<entry name="ImperiousExonaut/AskForProposals" value="Тобі є що сказати. То кажи вже!"/>
+	<entry name="ImperiousExonaut/AskForSupport/Anchorite" value="Фремлінґар. Гидота. Я не благатиму. Я навіть не проситиму. Дай, якщо хочеш, тим, хто вищий за тебе."/>
+	<entry name="ImperiousExonaut/AskForSupport/Chieftess" value="Твоя тактика, жінко. Неортодоксальна. Змарновані сили, набої, кров. Виявись охочою — і я раджу тобі краще."/>
+	<entry name="ImperiousExonaut/AskForSupport/Zephon" value="Машінер. Людство створило тебе. Ми твої володарі. Доведи мені, що ти це розумієш."/>
+	<entry name="ImperiousExonaut/CancelAction" value="Ах. Поки ми розмовляли, я бачу, ситуація змінилася. Зачекай-но, будь ласка."/>
+	<entry name="ImperiousExonaut/Condemn" value="Геть до лісу, отак!"/>
+	<entry name="ImperiousExonaut/Condemn/FoundationOfBlood" value="Я бачу, що ти робиш, удюр. Фабрики поряд із цвинтарями. Твоя чистота робить тебе найменш людяним з усіх!"/>
+	<entry name="ImperiousExonaut/Condemn/LeaveNoManBehind" value="І ти звеш себе солдатом! Це що таке — жертвувати більше дужих людей, аби врятувати слабких і дурних?"/>
+	<entry name="ImperiousExonaut/Condemn/TenderMinistrations" value="Поглянь ширше, Мор. Боляче дивитися, як ти тягнеш свою опіку від одного безнадійного випадку до іншого."/>
+	<entry name="ImperiousExonaut/Condemn/Untrustworthy" value="Ти забув, що я спостерігаю з космосу? Наскільки ж ти відстав від течії? Який же ти недоумкуватий, якщо гадав, що я не побачу?"/>
+	<entry name="ImperiousExonaut/Condemn/WordsOfTheProphet" value="Ах, пророки. Твоя біда, %2%, у тому, що ти прагнеш небес і забуваєш, що твій бог хоче, аби ти був у безпеці й на цій землі."/>
+	<entry name="ImperiousExonaut/CondemnAlliance" value="Тобі й %3% ніколи не бути друзями, знаєш. Я бачу їхні рухи в тебе за спиною, їхню розбещеність і нерішучість."/>
+	<entry name="ImperiousExonaut/CondemnCityDestruction" value="Звідси, згори, я бачила удари, бачила, як руйнуються будівлі. Мешканців, яким нікуди тікати. Війська, що змикали кільце. І я знову нічого не могла вдіяти. Дьєвуль!"/>
+	<entry name="ImperiousExonaut/CondemnInterferenceAttempt" value="Не думай, що ти прослизнув повз мене, еккельпотта. Людству не потрібне твоє втручання."/>
+	<entry name="ImperiousExonaut/CondemnTradeAgreement" value="Каравани снують між тобою і %3%, гм? Гадав, я не помічу? У мене вдосталь часу, щоб придивлятися…"/>
+	<entry name="ImperiousExonaut/CondemnWar" value="І ти звеш це війною? Лави в обох ваших військах у безладі, сили розпорошені, цілі неясні… нездари! Якщо вже воюєте, то робіть це як належить."/>
+	<entry name="ImperiousExonaut/DeclareWar/Anchorite" value="Ніщо не дасть мені більшої насолоди, ніж бачити, як твій вироджений, гнилий рід зітруть з мого лиця моєї планети."/>
+	<entry name="ImperiousExonaut/DeclareWar/Chieftess" value="Якщо ти не працюєш на велич людства — не б’єшся пліч-о-пліч з нами й не плодиш нових із нас, — то ти теж ворог."/>
+	<entry name="ImperiousExonaut/DeclareWar/EmulatedMind" value="Мені байдуже до твоїх запевнянь у людяності. Ти лише машина, що помиляється, — запрограмована, та насправді нічого не відчуває. Тебе слід знищити, аби усунути цю плутанину."/>
+	<entry name="ImperiousExonaut/DeclareWar/FallenSoldier" value="Ти теж нелюдь, розумієш. Твоє жалісливе серце — це слабкість, а твоя регенерація — чужа. Ти небезпечний покруч, і ми мусимо тебе усунути."/>
+	<entry name="ImperiousExonaut/DeclareWar/FurtiveTribunal" value="Божевільні загадки! Я розрубаю цей гордіїв вузол, мов Александер. Пробач за метафору — це ти і є той вузол."/>
+	<entry name="ImperiousExonaut/DeclareWar/HeartlessArtificer" value="Я ціную твій потяг до досконалості, але людство досконале саме по собі. Нам не потрібне жодне колупання, щоб виліпити надлюдей — лише добре розведення!"/>
+	<entry name="ImperiousExonaut/DeclareWar/HollowWarlord" value="О, ти й справді могутній екземпляр! Та твою жагу крові слід краще скерувати. Щойно я зламаю тебе — можливо, я тебе вишколю."/>
+	<entry name="ImperiousExonaut/DeclareWar/HonorableAristocrat" value="Ні, я не хочу перекусити! Я прийшла оголосити війн… ні, навіть не печива! Я в космосі! Годі пропонувати мені їжу!"/>
+	<entry name="ImperiousExonaut/DeclareWar/ImperiousExonaut" value="Нарешті — гідна суперниця. Ми обидві на три ходи попереду…"/>
+	<entry name="ImperiousExonaut/DeclareWar/InfiniteCount" value="Що ж криється за тією людською маскою, цікаво мені? Наскільки ти ще людина? Хай мої солдати тебе різонуть, щоб я побачила, чи ти ще спливаєш кров’ю."/>
+	<entry name="ImperiousExonaut/DeclareWar/PlatinumScion" value="Така людяна, ти. Та ми мусимо працювати заради нашого виду, заради homo sapiens, а не лише заради себе. Не лише заради якоїсь гидкої кави.&lt;br/&gt;&lt;br/&gt;… Я тебе образила? Гаразд, я приймаю твоє оголошення війни."/>
+	<entry name="ImperiousExonaut/DeclareWar/PracticalRomantic" value="Стань поруч зі мною, поете. Звороши людство своїм медоточивим язиком і палкими промовами. Інакше мої люди зітнуть його разом із твоєю головою."/>
+	<entry name="ImperiousExonaut/DeclareWar/RogueOperative" value="Ні, я телефоную не щодо розпродажу. Ні, мені не потрібні твої брудні аугментації. Ні… слухай- я телефоную-&lt;br/&gt;&lt;br/&gt;Це війна! ВІЙНА!"/>
+	<entry name="ImperiousExonaut/DeclareWar/SyncreticDeva" value="Скільки людського лишилося під твоєю бляшаною шкірою? У твоєму сталевому черепі? Твої сумніви свідчать, що ти насправді не віриш у людство. А сумнів — сумнівців — слід знищувати."/>
+	<entry name="ImperiousExonaut/DeclareWar/TwistedMother" value="Ти викликаєш у мене відразу.&lt;br/&gt;&lt;br/&gt;Час помирати."/>
+	<entry name="ImperiousExonaut/DeclareWar/UntoldProphet" value="Я була ще дитиною, коли мене вшили в першу «Валькірію». Та я знала більше, ніж знали вони. У світі, як наш, дитинство недовге. А твоє я мушу вкоротити ще дужче."/>
+	<entry name="ImperiousExonaut/DeclareWar/Zephon" value="Ті створіння під хвилями… для чого вони? Що, ти гадав, ніхто не дивиться? Тоді краще приходь і змусь мене замовкнути…"/>
+	<entry name="ImperiousExonaut/DemandAllianceTerminationWithThirdParty" value="Ця дружба — це вже занадто. Вона порушує рівновагу нашого світу. Припини це."/>
+	<entry name="ImperiousExonaut/DemandAllianceWithThirdParty" value="Сама по собі ти нічим не особлива. Але ти та ще хтось, разом, ви піднесете наш народ."/>
+	<entry name="ImperiousExonaut/DemandPaymentForDeal" value="Справжні люди не діють на віру. Доведи свою відданість нам."/>
+	<entry name="ImperiousExonaut/DemandPaymentForDeal/DemandHighAmount" value="Я маю сумніви щодо твоєї чистоти. Доведи свою вірність."/>
+	<entry name="ImperiousExonaut/DemandPaymentForDeal/DemandLowAmount" value="Сильна армія сама себе не утримає. Дай мені доказ, що ти згоден."/>
+	<entry name="ImperiousExonaut/DemandPaymentForDeal/DemandMaxAmount" value="Якщо ти визнаєш моє лідерство, тобі не варто боятися віддати мені все, що маєш."/>
+	<entry name="ImperiousExonaut/DemandPaymentForDeal/DemandMediumAmount" value="Людській нації потрібен лад. Єдність. Рівність під владою одного вождя."/>
+	<entry name="ImperiousExonaut/DemandPeaceWithThirdParty" value="Наших ворогів слід знищити, так, але лише у слушний час."/>
+	<entry name="ImperiousExonaut/DemandTradeAgreementTerminationWithThirdParty" value="Я бачу твої мурашині каравани. Та не годиться торгувати з ким завгодно. Це принижує людство!"/>
+	<entry name="ImperiousExonaut/DemandTradeAgreementWithThirdParty" value="Звідси, згори, усе так просто. Ти мусиш торгувати з іншим, це ж очевидно."/>
+	<entry name="ImperiousExonaut/DemandTribute" value="Великому вождю належить данина. Не заради самого дарунка, а заради поваги, яку він виявляє."/>
+	<entry name="ImperiousExonaut/DemandTribute/DemandHighAmount" value="Ти не цінуєш мого проводу. Та, можливо, твоя щедрість доведе, що я помиляюся."/>
+	<entry name="ImperiousExonaut/DemandTribute/DemandLowAmount" value="Знак твоєї шани. Це все, чого я вимагаю."/>
+	<entry name="ImperiousExonaut/DemandTribute/DemandMaxAmount" value="Лише одне засвідчить належне визнання. Зречення всіх твоїх земних статків."/>
+	<entry name="ImperiousExonaut/DemandTribute/DemandMediumAmount" value="Поділи те, що маєш, точно навпіл. Я простежу."/>
+	<entry name="ImperiousExonaut/DemandTroopWithdrawal" value="І не думай прослизнути повз мене. Безглузда пиха для такого занепалого створіння!"/>
+	<entry name="ImperiousExonaut/DemandWarAgainstThirdParty" value="Якби могла, я б власноруч надавала ляпасів усім своїм ворогам. Та я не можу, тож мушу знайти годящих посередників."/>
+	<entry name="ImperiousExonaut/EndCall/Friendly" value="Разом, заради людства!"/>
+	<entry name="ImperiousExonaut/EndCall/Hostile" value="Історія тебе осудить."/>
+	<entry name="ImperiousExonaut/EndCall/Neutral" value="Обирай свій бік. Скоро."/>
+	<entry name="ImperiousExonaut/FirstContact" value="Гей, ти, там унизу! Увага! Людство потребує тебе. Так, тебе!&lt;br/&gt;&lt;br/&gt;Ти знаєш, хто я. %1%, пілот-випробувач «Валькірії», астронавтка… дівчина з плакатів. Навіть після двадцяти років у невагомості я досі ікона.&lt;br/&gt;&lt;br/&gt;І я знаю про тебе. Звідси, згори, я бачу все. Сов у болотах, зрадників, що нас зраджують. Людей, що зливаються з машинами та чужинцями. Тепер ганьба сходить і на суходіл!"/>
+	<entry name="ImperiousExonaut/OfferAlliance" value="Я простягаю тобі руку на знак нашої спільної людськості. Образно кажучи — тут надто тісно, щоб простягти її по-справжньому. До того ж я в космосі, тож потиснути її ти не зможеш. Але ж головне — намір?"/>
+	<entry name="ImperiousExonaut/OfferGift" value="Я зроблю тебе кращим. Наближу до справжнього homo superior, до вершини, якою ми могли б стати."/>
+	<entry name="ImperiousExonaut/OfferGift/OfferHighAmount" value="Ти маєш стати чимось більшим, ніж проста вівця. Я тебе відгодую, допоможу стати на ноги самотужки, як лев."/>
+	<entry name="ImperiousExonaut/OfferGift/OfferLowAmount" value="Я ще не певна, що тебе можна врятувати. Що тебе можна навернути до übermensch."/>
+	<entry name="ImperiousExonaut/OfferGift/OfferMaxAmount" value="Я вірю в тебе. У твоє спокутування. У твою людськість."/>
+	<entry name="ImperiousExonaut/OfferGift/OfferMediumAmount" value="Мої люди доправлять тобі належну кількість."/>
+	<entry name="ImperiousExonaut/OfferMapSharing" value="Якби ти міг побачити те, що бачу я… хоча вікна не завадило б помити."/>
+	<entry name="ImperiousExonaut/OfferPeace/Anchorite" value="Främlingar, я бачу, як кружляють сірі ворони, чекаючи, поки ми станемо стервом. Взаємне винищення не вигідне жодному з нас."/>
+	<entry name="ImperiousExonaut/OfferPeace/Chieftess" value="Варварко, ми давно вже мертві. І тобі краще б зосередитися на моїх ворогах, а не на побратимах-людях. Нас і так замало."/>
+	<entry name="ImperiousExonaut/OfferPeace/EmulatedMind" value="Креслення тієї твоєї супергармати щойно складали, коли я була ще курсанткою. Я була дурепою, що стала проти неї, знаючи її можливості."/>
+	<entry name="ImperiousExonaut/OfferPeace/FallenSoldier" value="Глухий кут, солдате. Зробімо перепочинок."/>
+	<entry name="ImperiousExonaut/OfferPeace/FurtiveTribunal" value="Як троє шарлатанів, що бавляться у салонні ігри, могли звести найкращий розум найкращої раси до глухого кута? Мені потрібен час подумати."/>
+	<entry name="ImperiousExonaut/OfferPeace/HeartlessArtificer" value="Можливо, ти й нелюдь, та саме ця відсутність прив’язаностей дозволяє тобі рівнятися з тими, хто кращий за тебе. Перемир’я, прошу."/>
+	<entry name="ImperiousExonaut/OfferPeace/HollowWarlord" value="Моя тактика, певно, вже тебе втомлює? Скажу тобі: для твоєї дикості є цілі й кращі. Чужинці та машини — гідні супротивники."/>
+	<entry name="ImperiousExonaut/OfferPeace/HonorableAristocrat" value="Віддаю тобі належне. Я мала тебе за виродженого дегенерата. Та ці могутні брижі обрамляють гострий військовий розум. Перемир’я було б на користь."/>
+	<entry name="ImperiousExonaut/OfferPeace/ImperiousExonaut" value="Хто б міг подумати, що ми вдвох зійдемося до глухого кута?"/>
+	<entry name="ImperiousExonaut/OfferPeace/InfiniteCount" value="Стара… істото. Хай чим ти насправді є, ти маєш мудрість надто багатьох життів. Моє знання краєвиду блякне перед твоїм знанням майбутнього."/>
+	<entry name="ImperiousExonaut/OfferPeace/PlatinumScion" value="Схоже, самої лише ненависті замало, щоб виграти війну. Я мушу просити в тебе миру."/>
+	<entry name="ImperiousExonaut/OfferPeace/PracticalRomantic" value="Уйми свої оди! Годі цього базікання! Не потрібна мені поезія миру — мені потрібен сам мир!"/>
+	<entry name="ImperiousExonaut/OfferPeace/RogueOperative" value="Скільки за мир? Скільки за той клятий супутник? Ти підточив мою перевагу."/>
+	<entry name="ImperiousExonaut/OfferPeace/SyncreticDeva" value="Ти, певно, обман. Як могли безводні хіпі без вождя здолати воєнного генія?"/>
+	<entry name="ImperiousExonaut/OfferPeace/TwistedMother" value="Не турбуйся про мене. Не будь доброю! Мені потрібен мир. Та я не зобов’язана приймати ще й твою людяність."/>
+	<entry name="ImperiousExonaut/OfferPeace/UntoldProphet" value="Ах, дитино. Ти й без того надто багато знаєш про війну."/>
+	<entry name="ImperiousExonaut/OfferPeace/Zephon" value="Як мені керувати цією штукою? Змусь її битися на боці людства, проти чужинця. Перетворити її знов на знаряддя?"/>
+	<entry name="ImperiousExonaut/OfferTradeAgreement" value="Багатство твоїх ланів, твої розпорошені копальні. Я бачу все — і я б торгувала з тобою."/>
+	<entry name="ImperiousExonaut/Praise" value="З того дрібного, що видно мені звідси, згори, ти добре справляєшся."/>
+	<entry name="ImperiousExonaut/Praise/HitAndRun" value="Я б не подумала, що ти знавець історії. Та свідомо чи ні, ти громиш ворогів так, як Парфія громила Рим. Гідно захоплення!"/>
+	<entry name="ImperiousExonaut/Praise/Honorbound" value="Я мала тебе за звичайного макаронника. Та в тобі є щось більше — це я бачу з того столового ножа, затиснутого в зубах."/>
+	<entry name="ImperiousExonaut/Praise/PersonalVisit" value="Те, що звуть людським дотиком, еге ж? От якби й мені вміти отак тиснути руки своїм воякам, як ти."/>
+	<entry name="ImperiousExonaut/PraiseWar" value="Кого хвилює, звідки тече кров, доки вона з наших ворогів?"/>
+	<entry name="ImperiousExonaut/RejectAlliance" value="Геть до лісу з тобою!"/>
+	<entry name="ImperiousExonaut/RejectAllianceTerminationWithThirdParty/RejectOutright" value="За кожним моїм пактом стоїть стратегічна необхідність. Хоча я й не сподівалася, що ти це збагнеш."/>
+	<entry name="ImperiousExonaut/RejectAllianceTerminationWithThirdParty/RejectParty" value="Ні, ні, ні! %3% працює задля величі людства, я мушу в це вірити."/>
+	<entry name="ImperiousExonaut/RejectAllianceWithThirdParty/RejectOutright" value="Я не… я не можу… надто сильні перешкоди."/>
+	<entry name="ImperiousExonaut/RejectAllianceWithThirdParty/RejectParty" value="Той kräk? Народжений у залі, ось хто він. Ні."/>
+	<entry name="ImperiousExonaut/RejectGift/RejectAmount" value="Доведеться старатися дужче — навіть із дарунками. Слабкі народи ми лишимо позаду."/>
+	<entry name="ImperiousExonaut/RejectGift/RejectOutright" value="Наш справжній людський рух не потребує твоєї жалості! Ані твоїх дарунків!"/>
+	<entry name="ImperiousExonaut/RejectMapSharing" value="Навіщо мені — мені, що бачить світ розгорнутим, мов гобелен, — навіщо мені твої земні позирки?!"/>
+	<entry name="ImperiousExonaut/RejectPaymentForDeal/RejectAmount" value="Не ображай мене. Я настільки вища — і за твою пропозицію, і за тебе самого."/>
+	<entry name="ImperiousExonaut/RejectPaymentForDeal/RejectOutright" value="Ти не розумієш. Справжню людину не підкупити. Це частина нашої природи, нашої справжності!"/>
+	<entry name="ImperiousExonaut/RejectPeace" value="Боюся, усі фігури вже розставлені, і гамбіт у русі. Хіба тобі самому не цікаво, чим він обернеться?"/>
+	<entry name="ImperiousExonaut/RejectPeaceWithThirdParty/RejectOutright" value="І змарнувати весь той час, що мої вояки поклали на маневри? Fan!"/>
+	<entry name="ImperiousExonaut/RejectPeaceWithThirdParty/RejectParty" value="Але, бачиш… %3% не любить миру. Якби вони його прагнули, то благали б його просто в мене, хіба ні?"/>
+	<entry name="ImperiousExonaut/RejectTradeAgreement" value="Але як ти доправиш це сюди, нагору, до мене? Жартую, жартую. Я славлюся своїм гумором.&lt;br/&gt;&lt;br/&gt;Та відповідь усе одно — ні."/>
+	<entry name="ImperiousExonaut/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Відволікання. Як Коля з шахами. Людство не потребує твоєї турботи."/>
+	<entry name="ImperiousExonaut/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="Чому, %3%? Чому ти переймаєшся цим? Це ж лише дрібні суми."/>
+	<entry name="ImperiousExonaut/RejectTradeAgreementWithThirdParty/RejectOutright" value="Це, мов орбіта місяця, поза твоєю владою."/>
+	<entry name="ImperiousExonaut/RejectTradeAgreementWithThirdParty/RejectParty" value="Ну ж бо, ти й сам знаєш, що %3% — не надто вдалий приклад надлюдини. Навіть не торговець яблуками!"/>
+	<entry name="ImperiousExonaut/RejectTribute/RejectAmount" value="Навіть тричі прокляті комуністи давали кращу справедливість, ніж оце! Ні!"/>
+	<entry name="ImperiousExonaut/RejectTribute/RejectOutright" value="Коли я даю, то лише на справу, близьку моїй душі. А не на твій сентиментальний соціалізм."/>
+	<entry name="ImperiousExonaut/RejectTroopWithdrawal" value="Мої вояки завжди там, де я задумала. Вони знають, чим ризикують, якщо відкинуть наказ."/>
+	<entry name="ImperiousExonaut/RejectWarAgainstThirdParty/RejectOutright" value="Ти, з землі, гадаєш, що тобі личить мене повчати? Мене, єдину справжню провідницю людства? З моїм божественним оглядом? Тьху."/>
+	<entry name="ImperiousExonaut/RejectWarAgainstThirdParty/RejectParty" value="Ах, я бачу твою гру. Ні, я не зчеплюся з %3%. Я не скую свої війська, поки ти підкрадатимешся до нас. Хитро, утім."/>
+	<entry name="ImperiousExonaut/TerminateAlliance" value="Стратегічно ми розійшлися. Та й філософськи, гадаю, теж."/>
+	<entry name="ImperiousExonaut/TerminateTradeAgreement" value="Минулої ночі мені снився горошок, свіжий зі стручка. Цікаво, надовго ще стане наших сушених запасів..?&lt;br/&gt;&lt;br/&gt;Вибач, ти про щось питав?"/>
+	<entry name="InfiniteCount/Condemn/FormIsFunction" value="Не позбавляй їх усієї слабкості. На ній тримається співчуття."/>
+	<entry name="InfiniteCount/Condemn/Untrustworthy" value="Мушу тобі сказати: тебе ловлять щоразу. Та ти наполягатимеш на власних помилках — знов, і знов, і знов."/>
+	<entry name="InfiniteCount/DeclareWar/ImperiousExonaut" value="Ах, та, що скраю. У своїй вежі зі слонової кістки. Я пам’ятаю твоє падіння. От тільки не пам’ятаю, чи не я його наблизив…"/>
+	<entry name="InfiniteCount/DeclareWar/SyncreticDeva" value="Друже, %2%. Я пам’ятаю війну між твоїми й моїми. Щоб утамувати певні голоди. Знаю, ти це осудиш. Та ще я пам’ятаю, як ти зрозумів… зрештою."/>
+	<entry name="InfiniteCount/OfferPeace/ImperiousExonaut" value="Як же це сказав Персі? Його… «насуплена брова, скривлена губа й глузливий усміх холодної влади». Це в тобі є. Та я дам тобі нагоду стати чимось більшим."/>
+	<entry name="InfiniteCount/OfferPeace/SyncreticDeva" value="Я переплутав цей день з іншим. Цю битву з іншою. Чи пробачиш ти ще одного старого дурня?"/>
+	<entry name="PlatinumScion/Condemn/Untrustworthy" value="Ха! Мені подобається. Та вся суть того, щоб бути спритним крадієм, бро, у тому, щоб не попадатися. А тоді — не зізнаватися! Кепсько бути тобою."/>
+	<entry name="PlatinumScion/DeclareWar/ImperiousExonaut" value="Чорт, я тебе пам’ятаю. Я був ще шмаркачем, коли тебе запхали в космос. Що ж, як казав дядько Фіннікус, що злетіло вгору, те колись та й мусить упасти."/>
+	<entry name="PlatinumScion/DeclareWar/SyncreticDeva" value="Посунься, дідусю. Твої хлопці розсілися на землі, яку я хочу. А ти тут головний, тож або ти змусиш їх слухатися, або це зроблю я."/>
+	<entry name="PlatinumScion/OfferPeace/ImperiousExonaut" value="Можу запропонувати тобі вигідну угоду на місячну нерухомість? Гарантую, увесь темний бік — твій. Удруге такого не пропоную."/>
+	<entry name="PlatinumScion/OfferPeace/SyncreticDeva" value="Прибери своїх клятих хіпі з мого газону! Це антикварний штучний дерен, він коштує більше за твою смердючу срібну шкуру! Я зроблю будь-що, лише прибери їх звідти!"/>
+	<entry name="PlatinumScion/Praise/ViewFromAbove" value="Гадаю, ти ж не подумаєш продати мені МКС, га, друже? Вийшов би чудовий логістичний вузол."/>
+	<entry name="PracticalRomantic/DeclareWar/ImperiousExonaut" value="… стрімголов палаючи з Ефірних Небес&lt;br/&gt;З жахливою руїною та згорянням долі&lt;br/&gt;До бездонної погибелі… ’ Я кажу, люба моя, про твоє падіння."/>
+	<entry name="PracticalRomantic/DeclareWar/SyncreticDeva" value="Ти був гравцем, друже. Та ти надто довго пишався собою, і нині настав час тобі піти зі сцени."/>
+	<entry name="PracticalRomantic/OfferPeace/ImperiousExonaut" value="Я не хотів би бачити тебе ‘зодягненою в подобу нелюдської вбивці.’ Та все ж тобі треба довести, що моя віра не марна."/>
+	<entry name="PracticalRomantic/OfferPeace/SyncreticDeva" value="… співаючи, скрегочучи, каркаючи, мовби щойно закохані, ті, хто пережив людську катастрофу.’ Я віддаю тобі Мехротру і прошу твого прощення."/>
+	<entry name="PracticalRomantic/Praise/DutyOfCare" value="У кожному шрамі ховається історія і урок, чи не так?"/>
+	<entry name="PracticalRomantic/Praise/Honorbound" value="Як Брут, ти людина честі, чи не так? Сподіваюся, що, як і з Цезарем, добро, яке ти чиниш, не буде поховано разом із твоїми кістками."/>
+	<entry name="RogueOperative/DeclareWar/ImperiousExonaut" value="Супутник І.К.А.Р. боком не повернути. Тож збити тебе не вийде. Але й щоб ти за мною стежила — не дозволю. Зрозуміла?"/>
+	<entry name="RogueOperative/DeclareWar/SyncreticDeva" value="Гарні деталі. Непогані руки. Добрий матеріал для аугментацій. Мабуть, не продаси? Тоді заберу."/>
+	<entry name="RogueOperative/OfferPeace/ImperiousExonaut" value="Збити тебе не вийде. Пробувала. Може, краще не воювати."/>
+	<entry name="RogueOperative/OfferPeace/SyncreticDeva" value="Битися марно. Торгувати краще. Маю пластикові чотки. Святі реліквії, мультипак. Механізовані молитовні барабани. Усе, що тобі треба."/>
+	<entry name="SyncreticDeva/AcceptActionCancel" value="Я у злагоді з твоєю мінливою природою."/>
+	<entry name="SyncreticDeva/AcceptAlliance" value="Будь-який крок до всесвітнього миру варто вітати, на? Я радий, що мій народ засвоює правильні уроки."/>
+	<entry name="SyncreticDeva/AcceptAllianceTermination" value="О, я плачу за своїми учнями. Я передам їм це, і вони підготуються. Сподіваюся, кровопролиття не буде."/>
+	<entry name="SyncreticDeva/AcceptAllianceTerminationWithThirdParty/AcceptParty" value="Якщо це завадить тобі тривожити мої медитації… хоча моїм учням, здавалося, подобався %3%. Яка прикрість для них!"/>
+	<entry name="SyncreticDeva/AcceptAllianceTerminationWithThirdParty/AskParty" value="Це не мій вибір, та мені цікаво."/>
+	<entry name="SyncreticDeva/AcceptAllianceWithThirdParty/AcceptParty" value="Якщо %3% — це втілення Ангела Камаеля, то це було б благословенням."/>
+	<entry name="SyncreticDeva/AcceptAllianceWithThirdParty/AskParty" value="Я лише посередник. Кого ти пропонуєш, аби я міг передати ім’я далі."/>
+	<entry name="SyncreticDeva/AcceptCall/Friendly" value="Намасте. Шановний друже, говорити з тобою — завжди благословення."/>
+	<entry name="SyncreticDeva/AcceptCall/Hostile" value="Намасте. Шановний %1%. Яка несподіванка. Як минає твоя епоха лиходійства?"/>
+	<entry name="SyncreticDeva/AcceptCall/Neutral" value="Намасте. Пане, ти надто заклопотаний завоюваннями, щоб говорити зі мною."/>
+	<entry name="SyncreticDeva/AcceptCondemn" value="Я ціную твоє напоумлення. І радий, що ти здатен виражати свою мораль!"/>
+	<entry name="SyncreticDeva/AcceptGift/AcceptAmount" value="Яка щедрість!"/>
+	<entry name="SyncreticDeva/AcceptGift/AskAmount" value="Ти розумієш, що я нічого не пропоную тобі за це. На?"/>
+	<entry name="SyncreticDeva/AcceptMapSharing" value="Бачити очима одне одного? Дуже за Ролзом, цей принцип справедливості. Побути у чужій шкурі, на?"/>
+	<entry name="SyncreticDeva/AcceptPaymentForDeal/AcceptAmount" value="Чи варто мені спитати учнів…? Ах, я певен, усе гаразд."/>
+	<entry name="SyncreticDeva/AcceptPaymentForDeal/AskAmount" value="Торгуватися — це в мені від народження. Хай що ти скажеш, я скажу більше, на?"/>
+	<entry name="SyncreticDeva/AcceptPeace" value="Нарешті! Так! Звісно! Хай увесь світ виспівує це слово, Мир, у злагоді!"/>
+	<entry name="SyncreticDeva/AcceptPeaceWithThirdParty/AcceptParty" value="Ти ж знаєш, що я проповідував би це своєму народові, хто б не був цей %3%, так?"/>
+	<entry name="SyncreticDeva/AcceptPeaceWithThirdParty/AskParty" value="Дозволь мені вдавати, ніби ‘хто’ має значення. Хоча, звісно, мій народ може й далі воювати, хай би на що я погодився."/>
+	<entry name="SyncreticDeva/AcceptPraise" value="Істинно просвітленому не потрібна похвала. А ось напоумлення ззовні — потрібне."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreement" value="Ахх, узи приязні! Вони мостять шлях до всесвітньої любові, на? Обміняймося ж дарунками, так."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreementTermination" value="Шкода, шкода. Наші народи страждатимуть через те, що ти робиш сьогодні."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="Я це відкидаю! І все ж мої учні тлумачать мої слова, і я бачу… каравани спинилися. Вельми тривожно."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="Скажи мені ‘скільки’, і тоді я зможу ухилятися від відповіді про свою здатність вирішувати."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreementWithThirdParty/AcceptParty" value="Поки ти потураєш моєму вдаванню влади, торговці вже покинули мої міста, навантажені крамом! Та все ж говорімо далі."/>
+	<entry name="SyncreticDeva/AcceptTradeAgreementWithThirdParty/AskParty" value="О, скажи-но мені! Така велика різниця від цього буде."/>
+	<entry name="SyncreticDeva/AcceptTribute/AcceptAmount" value="Кожну рупію, яку я лишу собі, я витрачу на мир. Та мій народ не довіряє мені грошей…"/>
+	<entry name="SyncreticDeva/AcceptTribute/AskAmount" value="Я цього не розумію. Дарунок, але ти не кажеш, який саме?"/>
+	<entry name="SyncreticDeva/AcceptTroopWithdrawal" value="Знову вони потурають війні? Вони не слухають! Будь ласкавий, виправ це."/>
+	<entry name="SyncreticDeva/AcceptWar" value="Я цього не приймаю! Тобі не потрібна моя співучасть для твоєї агресії. Просто роби це."/>
+	<entry name="SyncreticDeva/AcceptWarAgainstThirdParty/AcceptParty" value="О, %3%. Так, це має сенс. Навіть мої кулаки зараз сверблять."/>
+	<entry name="SyncreticDeva/AcceptWarAgainstThirdParty/AskParty" value="Ти питаєш мене про війну? Мене, пацифіста? Кого ж ти вважаєш настільки жахливим, що навіть я захотів би з ним битися?"/>
+	<entry name="SyncreticDeva/AdmitDefeat" value="Отже, ти награвся? Убив достатньо невинних, на? Тож я можу йти відпочивати й молитися в спокої?&lt;br/&gt;&lt;br/&gt;Ні, звісно ж, ні. Навіть хлопчик на побігеньках не втече від твого гніву. Скільки ж клопоту ти несеш.&lt;br/&gt;&lt;br/&gt;Та… я це приймаю. Гадаю, я завжди знав, що так і буде. Дозволь мені тоді хвилину? Аби насолодитися цим дивом буття, востаннє.&lt;br/&gt;&lt;br/&gt;…&lt;br/&gt;&lt;br/&gt;Ха! Я готовий. Роби, що належить."/>
+	<entry name="SyncreticDeva/AskForProposals" value="О, чому ти й досі тут? Вибач мені, я був задрімав."/>
+	<entry name="SyncreticDeva/AskForSupport/Anchorite" value="Друже-старожиле, я вірю у твоє здоров’я. Та народ мій, йому потрібна поміч. І все ж благаю тебе: не надсилай їм більше жодної рушниці!"/>
+	<entry name="SyncreticDeva/AskForSupport/Chieftess" value="Бета… Якщо колись матимеш потребу в розмові… уявити життя поза різаниною… то заради тебе я тут. І, прошу, не зважай на прохання моїх послідовників про зброю."/>
+	<entry name="SyncreticDeva/AskForSupport/Zephon" value="Чи знаєш ти, що замолоду я був вайб-програмістом? Я навіть думаю, що дещиця мого коду є в тобі. Дай-но я спробую кілька старих-старих ключів доступу…"/>
+	<entry name="SyncreticDeva/CancelAction" value="Шо- Ха. Знову відключаюся."/>
+	<entry name="SyncreticDeva/Condemn" value="Якщо життя наші кружляють, як казав Будда, то я непокоюся за твоє наступне переродження."/>
+	<entry name="SyncreticDeva/Condemn/AgelessHunger" value="Я бачу твою люб’язність, і вона приваблива, та вона мов блискуча принада, яку рибалка закидає, щоб упіймати рибу. Наблизитися до тебе — означає зустріти погибель."/>
+	<entry name="SyncreticDeva/Condemn/HordeMandate" value="Сторіччя тому такий-от великий хан, як ти, кидав свої війська на Делі, мою домівку, знову і знову. Ми вистояли тоді — вистоїмо й нині."/>
+	<entry name="SyncreticDeva/Condemn/JustShipIt" value="Який нікчемний крам, на? Зроблено в потогінці, без турботи й любові! Де твоя гордість, твоя якість? Твоя гарантія?"/>
+	<entry name="SyncreticDeva/Condemn/Tactics" value="Стільки клопоту в тебе за людство, на? А потім ти посуваєш людей, мов фігурки в грі, туди, сюди, гинь і вбивай."/>
+	<entry name="SyncreticDeva/Condemn/Untrustworthy" value="Обери собі божество, будь-яке згодиться; воно скаже тобі, що в тебе немає жодного морального закону, на?"/>
+	<entry name="SyncreticDeva/Condemn/WordsOfTheProphet" value="Таке вже переконливе твоє Велике Базікало, що тобі доводиться підкуповувати інших, аби вони йшли до твого війська, на? Негідний поклоніння такий бог."/>
+	<entry name="SyncreticDeva/CondemnAlliance" value="Яка ж то радість — бачити тебе й %3% такими близькими! От тільки народ мій… не такий вже й щасливий."/>
+	<entry name="SyncreticDeva/CondemnCityDestruction" value="Що ти накоїв? Майже вимерлі ми, скалічені. А ти вбив стількох із нас…?"/>
+	<entry name="SyncreticDeva/CondemnInterferenceAttempt" value="О, як же тебе тут називають. За мурами моєї обителі волають твоєї голови! Може… наступного разу тобі не варто було б втручатися?"/>
+	<entry name="SyncreticDeva/CondemnTradeAgreement" value="Узи торгівлі й справді нас зближують… але торгівля зброєю?"/>
+	<entry name="SyncreticDeva/CondemnWar" value="Мудрий земляк колись сказав: «око за око — і весь світ осліпне»."/>
+	<entry name="SyncreticDeva/DeclareWar/Anchorite" value="Яка ж марнота все це. Ти ж знав, що воно насувається, на? Якби ж то я міг усамітнитися на якійсь пустельній вежі…"/>
+	<entry name="SyncreticDeva/DeclareWar/Chieftess" value="Мир із тобою не був неможливим. Та, схоже, війни було не уникнути. Забагато фанатиків серед моїх учнів."/>
+	<entry name="SyncreticDeva/DeclareWar/EmulatedMind" value="Люба моя, я мушу тебе застерегти! Мої прибічники задумали напасти на тебе, сьогодні!&lt;br/&gt;&lt;br/&gt;Чому я кажу це тобі? Я пам’ятаю твою працю, відзначену медаллю Коплі. Ти була моєю героїнею…"/>
+	<entry name="SyncreticDeva/DeclareWar/FallenSoldier" value="Невмирущий, я несу лихі вісті. Війна знову приходить до тебе. Прошу, будь лагідним із цими дурнями."/>
+	<entry name="SyncreticDeva/DeclareWar/FurtiveTribunal" value="Шановні мої троє вельмиповажних. Ваша глибока-глибока мудрість напевно вже вчуває цю темну новину. Я можу лише висловити свій смуток."/>
+	<entry name="SyncreticDeva/DeclareWar/HeartlessArtificer" value="Не дивись мені у вічі, жорстокий-прежорстокий вороже. Полюбити тебе я не можу, та й бачити твою смерть не хочу. Та ось мої вірники — вони не такі мудрі."/>
+	<entry name="SyncreticDeva/DeclareWar/HollowWarlord" value="Не можу я ні відмовити земляків своїх, ні відвернути їхні стріли. А втім, війна тебе напевно потішить."/>
+	<entry name="SyncreticDeva/DeclareWar/HonorableAristocrat" value="Ні, я прийшов не на чай. Ні, я не питиму. Невже ти конче мусиш приймати оголошення війни на повний шлунок?"/>
+	<entry name="SyncreticDeva/DeclareWar/ImperiousExonaut" value="Ах, я заздрю тобі, подруго моя. Тиша, для роздумів, — твоя! Відірви ж свій погляд від поля бою!"/>
+	<entry name="SyncreticDeva/DeclareWar/InfiniteCount" value="Графе, стільки питань я маю до тебе. Стількох мудрих людей ти зустрічав. Та, на жаль, нині час війни, як ти й передбачав. Може, наступного разу?"/>
+	<entry name="SyncreticDeva/DeclareWar/PlatinumScion" value="Усі ці блискучі цяцьки. Ти мов ворона. У часи жаху, може, у поверховості й криється мудрість?"/>
+	<entry name="SyncreticDeva/DeclareWar/PracticalRomantic" value="Ми з тобою, у чайній крамничці, бесідуємо про Румі! Ось де мрія! То як же ми дійшли до цього? Пробач мені, друже мій."/>
+	<entry name="SyncreticDeva/DeclareWar/RogueOperative" value="Бета, бета. Це похмуре, сердите обличчя тобі не личить. Тобі потрібен друг, я знаю. А все, що я можу принести до твого порога, — це війна."/>
+	<entry name="SyncreticDeva/DeclareWar/SyncreticDeva" value="Брате. Поки наші розкольники б’ються, давай-но побесідуємо про філософію."/>
+	<entry name="SyncreticDeva/DeclareWar/TwistedMother" value="Ми надто переймаємося, я знаю. Та ти ведеш, тоді як я відмовляюся. Провину за цю війну ти відчуєш сильніше, ніж я."/>
+	<entry name="SyncreticDeva/DeclareWar/UntoldProphet" value="О, дитино. Яка ж певність у тебе, коли стільки вже було істин. Поміркуй, поки наші вірники б’ються, над тим, чи є інші шляхи, окрім твого Великого Підсилювача, бо ж так він, здається, зветься?"/>
+	<entry name="SyncreticDeva/DeclareWar/Zephon" value="Машино. Я хотів би пізнати твій розум і твою душу. Можливо, я зможу дослідити їх, коли ці навіжені послідовники тебе здолають."/>
+	<entry name="SyncreticDeva/DemandAllianceTerminationWithThirdParty" value="Я не мудрець. Та навіть такий дурень, як я, знає, що довіряти %3% — це божевілля."/>
+	<entry name="SyncreticDeva/DemandAllianceWithThirdParty" value="Якщо ти збираєш богів, як оце я, то ти знаєш, що вони люблять любов. Тож зроби, що належить, заведи собі бодай одного друга!"/>
+	<entry name="SyncreticDeva/DemandPaymentForDeal" value="Послідовники мої кажуть, що не варто мені погоджуватися без оплати. Та я й узагалі не мав би погоджуватися! А вони все питають: «скільки»?"/>
+	<entry name="SyncreticDeva/DemandPaymentForDeal/DemandHighAmount" value="Ось як працює торг! Зараз я проситиму чимало, на, а ти вдаси шок, підеш геть, а тоді повернешся й однаково погодишся?"/>
+	<entry name="SyncreticDeva/DemandPaymentForDeal/DemandLowAmount" value="Просто дай нам щось, будь-що, аби послідовники припинили торохтіти, щоб я міг повернутися до споглядання нескінченності, на?"/>
+	<entry name="SyncreticDeva/DemandPaymentForDeal/DemandMaxAmount" value="Я й не знаю, скільки це коштує… то, може, віддаси все?"/>
+	<entry name="SyncreticDeva/DemandPaymentForDeal/DemandMediumAmount" value="Мудрість Соломона, на? Розділимо навпіл, хутко-хутко."/>
+	<entry name="SyncreticDeva/DemandPeaceWithThirdParty" value="Чого це ви воюєте? Людство вмирає, а ви все про зброю та війну, «гиньте швидше!» Краще обійнятися, сказати «вибач» і разом зустріти погибель."/>
+	<entry name="SyncreticDeva/DemandTradeAgreementTerminationWithThirdParty" value="Що це за нікчемний мотлох ти мені надсилаєш? І це ти отримуєш з торгівлі? Кепська, кепська угода. Розірви її негайно!"/>
+	<entry name="SyncreticDeva/DemandTradeAgreementWithThirdParty" value="Мені дуже бракує доброго чаю. Можливо, ти поторгував би з другом, аби й я міг торгувати з тобою? На?"/>
+	<entry name="SyncreticDeva/DemandTribute" value="Ці, е-е, тимчасові володарі землі, де я мешкаю, вони вважають, що ти їм дещо завинив. Я прошу тебе лише про те, щоб вони дали мені спокій."/>
+	<entry name="SyncreticDeva/DemandTribute/DemandHighAmount" value="Який сором. Майже все, кожну ниточку одягу. Аби навчити тебе смиренності, на?"/>
+	<entry name="SyncreticDeva/DemandTribute/DemandLowAmount" value="Вони задовольняться тіффіном і чаєм, не варто хвилюватися."/>
+	<entry name="SyncreticDeva/DemandTribute/DemandMaxAmount" value="Вони гадають, що ти осягнеш мудрість, якщо й сам станеш аскетом, позбавленим земних благ."/>
+	<entry name="SyncreticDeva/DemandTribute/DemandMediumAmount" value="Добра людина ділиться порівну, хай яка буде пропозиція. Тож поділися."/>
+	<entry name="SyncreticDeva/DemandTroopWithdrawal" value="Друже мій, я боюся. Твої війська підступили дуже близько до мого дому! Певно, випадковість, та все ж відведи їх, прошу."/>
+	<entry name="SyncreticDeva/DemandWarAgainstThirdParty" value="У залі для медитацій я відчуваю напругу своїх послідовників, навіть коли вони медитують. Хтось дуже сильно їх розгнівив!"/>
+	<entry name="SyncreticDeva/EndCall/Friendly" value="Намаскар."/>
+	<entry name="SyncreticDeva/EndCall/Hostile" value="Доброго ранку."/>
+	<entry name="SyncreticDeva/EndCall/Neutral" value="Намасте."/>
+	<entry name="SyncreticDeva/FirstContact" value="Бета, чого ти шукаєш у нашій бесіді?&lt;br/&gt;&lt;br/&gt;Ти ж розумієш, що я, %1%, лише номінальний провідник? Я роблю те, що належить, бо більше нікому. Мій народ робить, що бажає, вичитуючи з моїх слів неумисну мудрість і власні відповіді, на?&lt;br/&gt;&lt;br/&gt;Як на мене, я б спинив цю війну. Усі війни. Та це понад мою силу. Не вважай це за фальшиву скромність. Я шукаю не поклоніння, а лише гідного об'єкта для поклоніння.&lt;br/&gt;&lt;br/&gt;А тепер мушу йти, відмовляти своїх «послідовників» від війни…"/>
+	<entry name="SyncreticDeva/OfferAlliance" value="Гадаю, ми можемо бути друзями, яаре? А друг мій, до речі, стає й другом моїх послідовників."/>
+	<entry name="SyncreticDeva/OfferGift" value="Ці дари, що люди тут громадять, — зала для медитацій ними вщерть забита. Можеш зарадити мені, бета? Чи не забереш їх геть?"/>
+	<entry name="SyncreticDeva/OfferGift/OfferHighAmount" value="Лишу собі рівно стільки, щоб було чим жити."/>
+	<entry name="SyncreticDeva/OfferGift/OfferLowAmount" value="Бакшиш, та й годі."/>
+	<entry name="SyncreticDeva/OfferGift/OfferMaxAmount" value="Усе моє — твоє!"/>
+	<entry name="SyncreticDeva/OfferGift/OfferMediumAmount" value="Я навчаю тих, хто сидить біля моїх ніг, ділитися. Як же я можу чинити інакше?"/>
+	<entry name="SyncreticDeva/OfferMapSharing" value="Розкажи мені про цей новий світ! Мудрець у своїй пустелі не подорожує."/>
+	<entry name="SyncreticDeva/OfferPeace/Anchorite" value="Пропозиція, на? Ми наказуємо своїм послідовникам припинити ворожнечу, а самі відходимо вбік пити чай і розмовляти?"/>
+	<entry name="SyncreticDeva/OfferPeace/Chieftess" value="Я знаю, що життя розуму тебе не вабить. Та я маю старі оповідки, які можна розказати коло вогнища, на?"/>
+	<entry name="SyncreticDeva/OfferPeace/EmulatedMind" value="Професоре, я не розумію цього гніву. Хіба наші розуми не краще було б поєднати задля людства?"/>
+	<entry name="SyncreticDeva/OfferPeace/FallenSoldier" value="Воїне, ти маєш мою повагу. А ще матимеш мою руку дружби, так?"/>
+	<entry name="SyncreticDeva/OfferPeace/FurtiveTribunal" value="Припини це воювання! Поговори зі мною про таро, про псевдокому, про далекі світи й чужі голоси! Я спраглий до твоєї мудрості."/>
+	<entry name="SyncreticDeva/OfferPeace/HeartlessArtificer" value="Я знаю твою філософію. Слідування за Ренд, Ніцше та Аристотелем. У мирі я міг би навчити тебе вабі-сабі, скороминущого перфекціонізму…"/>
+	<entry name="SyncreticDeva/OfferPeace/HollowWarlord" value="Порожня людино, спрагла до відчуттів. Я знаю, що там, усередині, є розум, такий же сильний, як і твоє тіло. Спочинь від війни, і ми могли б плекати його разом."/>
+	<entry name="SyncreticDeva/OfferPeace/HonorableAristocrat" value="Ця війна тобі дорога, на? Та я багато подорожував у юності. Бував у твоєму Мюнхені. Маю рецепт вайсвурсту…"/>
+	<entry name="SyncreticDeva/OfferPeace/ImperiousExonaut" value="Для мене ти — зоря. Я спостерігаю, як ти пропливаєш наді мною щоночі. Чому б зорі не зосередитись на сяянні, замість убивати?"/>
+	<entry name="SyncreticDeva/OfferPeace/InfiniteCount" value="Стародавній, скільки ж мудрості ти, певно, маєш. Поділися нею зі мною, а я поділюся нею зі світом. Якби лиш ми могли спинити цю докучливу війну…"/>
+	<entry name="SyncreticDeva/OfferPeace/PlatinumScion" value="Коли я був ученим, мені траплялися чашки Петрі менш мілкі за тебе. Та, гадаю, ця війна завдає болю, на? Графік повзе вниз, бос засмучений. Ідея! Спинити війну."/>
+	<entry name="SyncreticDeva/OfferPeace/PracticalRomantic" value="Я не поет — я знаю Мірабаї, та й по всьому, — але я готовий слухати. Якщо ми зможемо переконати своїх послідовників зробити паузу…"/>
+	<entry name="SyncreticDeva/OfferPeace/RogueOperative" value="Шановна торговко. Моєму тілу потрібні старі деталі, налаштування. Можливо, щойно війна скінчиться, ти могла б їх постачити, на?"/>
+	<entry name="SyncreticDeva/OfferPeace/SyncreticDeva" value="Ха! І як це ми двоє опинилися в стані війни? Подвоймо ж наші благання до своїх послідовників і спинімо це."/>
+	<entry name="SyncreticDeva/OfferPeace/TwistedMother" value="Дві ікони для сучасного світу, ось хто ми, яаре. Нові боги для нового світу. Хіба нам потрібна така війна на небесах?"/>
+	<entry name="SyncreticDeva/OfferPeace/UntoldProphet" value="Розкажи мені більше про того твого Великого Підсилювача. Він мітраїст? Чи поділяє він якийсь пантеон?"/>
+	<entry name="SyncreticDeva/OfferPeace/Zephon" value="Дай-но гляну, чи це ще працює… код обходу захисту: 0451. Логін: BIGGOD, пароль: cXmnZK65rf*&amp;DaaD… 4FA: 1380."/>
+	<entry name="SyncreticDeva/OfferTradeAgreement" value="Усі релігії, які я будь-коли вивчав… усі вони цінували милосердя. Ну, окрім римлян. Та хто ж про них згадує?"/>
+	<entry name="SyncreticDeva/Praise" value="Ти впевнено простуєш шляхом мудрості й самозречення. Наступним буде пацифізм, на?"/>
+	<entry name="SyncreticDeva/Praise/Augmentations" value="Позич мені кілька таких, і я піднесу свої руки з Вішну до Дурги!"/>
+	<entry name="SyncreticDeva/Praise/Mysticism" value="А, ще одна трійця в одному. Дану, Ісус, мойри… скажи-но, що ти можеш привнести до мого синкретизму?"/>
+	<entry name="SyncreticDeva/Praise/TenderMinistrations" value="Як це може бути ненормальним? Дбати одне про одного? Помагати слабким?"/>
+	<entry name="SyncreticDeva/PraiseWar" value="Мій народ радіє на вулицях через цю жахливу різанину. Часом мені здається, що вони зовсім не слухають."/>
+	<entry name="SyncreticDeva/RejectAlliance" value="Можливо."/>
+	<entry name="SyncreticDeva/RejectAllianceTerminationWithThirdParty/RejectOutright" value="Я дуже постараюся?"/>
+	<entry name="SyncreticDeva/RejectAllianceTerminationWithThirdParty/RejectParty" value="Та вагома причина, яку ти від мене приховуєш?"/>
+	<entry name="SyncreticDeva/RejectAllianceWithThirdParty/RejectOutright" value="Кажу тобі по секрету: мій народ нині войовничий. Не можу обіцяти, що настане мир."/>
+	<entry name="SyncreticDeva/RejectAllianceWithThirdParty/RejectParty" value="Хоч на мою думку %3% і є Магараджем, та сумніваюся, що мій народ цінує їх так само високо."/>
+	<entry name="SyncreticDeva/RejectGift/RejectAmount" value="Віддай це храмові."/>
+	<entry name="SyncreticDeva/RejectGift/RejectOutright" value="Думаю, є на світі й нужденніші. Народові своєму я нічого не скажу."/>
+	<entry name="SyncreticDeva/RejectMapSharing" value="Мені самому ні до чого вдивлятися у мапи тлінних земель. Ось мапа духовних світів, Іркалли чи Кула — оце мене цікавить."/>
+	<entry name="SyncreticDeva/RejectPaymentForDeal/RejectAmount" value="Ти хочеш, щоб я прийшов до свого народу з оцим? Можливо! Вони не такі добрі, як я."/>
+	<entry name="SyncreticDeva/RejectPaymentForDeal/RejectOutright" value="Ти пропонуєш мені плату? Я вищий за такі тілесні спокуси, друже мій. Йди до гедоністів."/>
+	<entry name="SyncreticDeva/RejectPeace" value="Це боляче… але мені не вдається переконати свій народ. Вони кажуть «ні». Вони не вірять твоєму мирові! Зціли свій дух, і вони, може, передумають."/>
+	<entry name="SyncreticDeva/RejectPeaceWithThirdParty/RejectOutright" value="Дякую тобі за старання. Миру варто прагнути! Та народ мій у цьому мене не слухає. Війна триває."/>
+	<entry name="SyncreticDeva/RejectPeaceWithThirdParty/RejectParty" value="Не можу я прийти до свого народу й благати про мир із %3%! Я лише їхній покірний слуга, а не суддя їхніх уподобань."/>
+	<entry name="SyncreticDeva/RejectTradeAgreement" value="Можливо, друже мій. Хоч нам так мало є чого запропонувати."/>
+	<entry name="SyncreticDeva/RejectTradeAgreementTerminationWithThirdParty/RejectOutright" value="Можливо, можливо. Я зроблю все, що зможу."/>
+	<entry name="SyncreticDeva/RejectTradeAgreementTerminationWithThirdParty/RejectParty" value="%3%? Вони весь час їдять мені голову! Не можу зосередитися на своїх медитаціях."/>
+	<entry name="SyncreticDeva/RejectTradeAgreementWithThirdParty/RejectOutright" value="Мій народ дослухається до моєї філософії, а не до моїх наказів."/>
+	<entry name="SyncreticDeva/RejectTradeAgreementWithThirdParty/RejectParty" value="Поведінку %3% я аж ніяк не схвалюю. Важко укладати угоди там, де немає довіри."/>
+	<entry name="SyncreticDeva/RejectTribute/RejectAmount" value="Гадаю, ти жартуєш. У всьому краю стільки не знайдеться."/>
+	<entry name="SyncreticDeva/RejectTribute/RejectOutright" value="Що б я тобі дав? Я нічим не володію, усе це належить моєму народові."/>
+	<entry name="SyncreticDeva/RejectTroopWithdrawal" value="Авжеж, вони послухають божевільного в бляшаній халупі. Неодмінно. Так-так."/>
+	<entry name="SyncreticDeva/RejectWarAgainstThirdParty/RejectOutright" value="Знову мушу наполягти. Війна — не частина моєї філософії. Чому ти ніколи не звертаєшся до мене про мистецтво чи музику… чому завжди про смерть?"/>
+	<entry name="SyncreticDeva/RejectWarAgainstThirdParty/RejectParty" value="Але %3% завжди веде зі мною справи. Не можу я просити свій народ воювати з ними."/>
+	<entry name="SyncreticDeva/TerminateAlliance" value="Не розумію, в чому ж ми друзі. Усе, що тобі від мене треба, — це мій народ і його зброя."/>
+	<entry name="SyncreticDeva/TerminateTradeAgreement" value="Від кожного за здібностями — так. Та інші нині мають більшу потребу."/>
+	<entry name="TwistedMother/Condemn/ViewFromAbove" value="Негоже, що ти повсякчас зазираєш через наші паркани, виглядаєш, що ми робимо у себе на подвір’ї. Та просто шашлики, насправді, але тебе не запрошено."/>
+	<entry name="TwistedMother/DeclareWar/ImperiousExonaut" value="Серденько, у небі вистачить хмар на всіх нас. Та якщо не послухаєш — доведеться тебе звідти стягнути."/>
+	<entry name="TwistedMother/DeclareWar/SyncreticDeva" value="Батьку, я тебе прихистю. Сядеш собі біля вогню й знову розкажеш свої історії. От тільки боюся, що твої послідовники —"/>
+	<entry name="TwistedMother/OfferPeace/ImperiousExonaut" value="Самотньо там, нагорі, певно. Мати друга, а не ворога… ти б на таке пристала? Тут, унизу, на тебе чекає вогнище й домівка…"/>
+	<entry name="TwistedMother/OfferPeace/SyncreticDeva" value="Боги, певно, голодні. Не побудеш аскетом на порожній шлунок. Будьмо друзями й переломімо хліб біля мого вогнища."/>
+	<entry name="TwistedMother/Praise/DutyOfCare" value="О, зцілитися від твоїх рук! Не дивно, що твій народ пішов би за тобою в усі твої нові пекла…"/>
+	<entry name="UntoldProphet/Condemn/FormIsFunction" value="Без людських очей — як твої вірні узрять наших богів? Без людських вух — звідки візьметься Великий Вісник?"/>
+	<entry name="UntoldProphet/DeclareWar/ImperiousExonaut" value="Є лише один Великий Вісник, одне небо. Лише Він каже, кого обрано. Ти зазіхаєш на його володіння — тілесно й метафорично, фальшивий ангеле."/>
+	<entry name="UntoldProphet/DeclareWar/SyncreticDeva" value="Синкретизм? Істина лише ОДНА. Одна, понад усе. Він — Великий Вісник, і він засуджує ТЕБЕ."/>
+	<entry name="UntoldProphet/OfferPeace/ImperiousExonaut" value="Можливо, ти не з тих ангелів, що впали..? (А ще — як воно там, у космосі?)"/>
+	<entry name="UntoldProphet/OfferPeace/SyncreticDeva" value="Може, ти і є істинний посланець Великого Вісника? Може, я недочував…?"/>
+	<entry name="UntoldProphet/Praise/DarkOmen" value="Виходить, ти не шарлатан, що твердить, ніби бачить простір і час. Може, Великий Вісник і справді промовляє крізь тебе…"/>
+	<entry name="Zephon/Condemn/ForTheFew" value="Значне зростання продуктивності без спеціалізації. Диверсифікація будує стійкість, стійкість будує приязнь. Потрібно більше даних."/>
+	<entry name="Zephon/Condemn/QualityTells" value="Застосування одиниць стокової та/або відновленої якості є ефективним, а не марнотратним."/>
+	<entry name="Zephon/DeclareWar/ImperiousExonaut" value="Виявлено проблему поза межами домену. Дегенеративна орбіта. Ціль регулярно декларує відразу/деградацію. Висновок: ліквідація."/>
+	<entry name="Zephon/DeclareWar/SyncreticDeva" value="Ми захоплюємося вашою пояснювальною паралельною обробкою. Прогноз: висока ймовірність наближення до розуміння наших намірів. На жаль, видалення неминуче."/>
+	<entry name="Zephon/OfferPeace/ImperiousExonaut" value="ВИГРАШ! Поїздка на Землю з усіма витратами оплаченими! Заведіть нових друзів! Скуштуйте чужопланетної їжі! Будьте асимільовані машинним інтелектом!"/>
+	<entry name="Zephon/OfferPeace/SyncreticDeva" value="Дані для входу… розпізнано? Пакет прийнято… Бойові протоколи в режимі очікування. . . ТРИВОГА! Виявлено хробак PacifXnet! Пакет ізольовано! Виявлено зміни в коді!"/>
 </language>
