@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1%已经向%2%宣战。"/>
+	<entry name="Diplomacy2Summary" value="%1%已经与%2%签订和平协定。"/>
+	<entry name="Diplomacy3Summary" value="%1%已经与%2%签订贸易协定。"/>
+	<entry name="Diplomacy4Summary" value="%1%已经与%2%达成联盟。"/>
+	<entry name="CityFoundedSummary" value="已建立%1%。"/>
+	<entry name="CityGrownSummary" value="%1%已成长至%2%人口。"/>
+	<entry name="FactionDefeated" value="派系已战败"/>
+	<entry name="FactionDiscovered" value="已发现派系"/>
+	<entry name="FactionDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="FeatureTypeDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="Foundations" value="浅显的根基"/>
+	<entry name="FoundationsWithMutator" value="异化的根基"/>
+	<entry name="Interlude0" value="<string name='Quests/AScintillaOfHope'/>"/>
+	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
+	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
+	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattleSummary" value="%1%将激化提前了%2%回合。"/>
+	<entry name="PlayerCondemnedSummary" value="%1%谴责了%2%。"/>
+	<entry name="PlayerDelayedTitanBattleSummary" value="%1%将激化延迟了%2%回合。"/>
+	<entry name="PlayerLost" value="战败！"/>
+	<entry name="PlayerLostSummary" value="%1%已战败！"/>
+	<entry name="PlayerPraisedSummary" value="%1%表扬了%2%。"/>
+	<entry name="PlayerRegroupedSummary" value="%1%已重新编队。"/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="胜利！"/>
+	<entry name="PlayerWonSummary" value="%1%已胜利！"/>
+	<entry name="ProductionCompletedSummary" value="%1%已生产%2%。"/>
+	<entry name="RegionDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="ResearchCompleted" value="研究完成。"/>
+	<entry name="ResearchCompletedSummary" value="已研究%1%。"/>
+	<entry name="RewardGainedSummary" value="已获得%2%。"/>
+	<entry name="TileAcquiredSummary" value="%1%已获取地块。"/>
+	<entry name="TileCapturedSummary" value="%1%已占领%2%。"/>
+	<entry name="TileClearedSummary" value="%1%已清理%2%。"/>
+	<entry name="UnitAttackedSummary" value="%1%攻击了%2%。"/>
+	<entry name="UnitCapturedSummary" value="%1%已捕获%2%。"/>
+	<entry name="UnitDamagedSummary" value="%1%已伤害%2%。"/>
+	<entry name="UnitKilledSummary" value="%1%杀死了%2%。"/>
+	<entry name="UnitGainedTraitSummary" value="%1%获得了%2%。"/>
+	<entry name="UnitTransformedSummary" value="%1%已转变为%2%。"/>
+	<entry name="UnitTypeDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="UnitUsedActionOnSummary" value="%1%对%3%使用了%2%。"/>
+</language>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1% hat %2% den Krieg erklärt."/>
+	<entry name="Diplomacy2Summary" value="%1% hat einen Friedensvertrag mit %2% unterzeichnet."/>
+	<entry name="Diplomacy3Summary" value="%1% hat ein Handelsabkommen mit %2% unterzeichnet."/>
+	<entry name="Diplomacy4Summary" value="%1% ist ein Bündnis mit %2% eingegangen."/>
+	<entry name="CityFoundedSummary" value="%1% gegründet."/>
+	<entry name="CityGrownSummary" value="Die Bevölkerung von %1% ist auf %2% angewachsen."/>
+	<entry name="FactionDefeated" value="Fraktion besiegt"/>
+	<entry name="FactionDiscovered" value="Fraktion entdeckt"/>
+	<entry name="FactionDiscoveredSummary" value="%1% entdeckt."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1% entdeckt."/>
+	<entry name="Foundations" value="Niedrige Fundamente"/>
+	<entry name="FoundationsWithMutator" value="Angepasste Fundamente"/>
+	<entry name="Interlude0" value="<string name='Quests/AScintillaOfHope'/>"/>
+	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
+	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
+	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattleSummary" value="%1% hat die Eskalation um %2% Runde(n) beschleunigt."/>
+	<entry name="PlayerCondemnedSummary" value="%1% hat %2% verurteilt."/>
+	<entry name="PlayerDelayedTitanBattleSummary" value="%1% hat die Eskalation um %2% Runde(n) verzögert."/>
+	<entry name="PlayerLost" value="Besiegt!"/>
+	<entry name="PlayerLostSummary" value="%1% wurde besiegt!"/>
+	<entry name="PlayerPraisedSummary" value="%1% hat %2% gelobt."/>
+	<entry name="PlayerRegroupedSummary" value="%1% hat sich neu versammelt."/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="Sieg!"/>
+	<entry name="PlayerWonSummary" value="%1% ist siegreich!"/>
+	<entry name="ProductionCompletedSummary" value="%1% hat %2% produziert."/>
+	<entry name="RegionDiscoveredSummary" value="%1% entdeckt."/>
+	<entry name="ResearchCompleted" value="Forschung abgeschlossen"/>
+	<entry name="ResearchCompletedSummary" value="%1% erforscht."/>
+	<entry name="RewardGainedSummary" value="%2% erhalten."/>
+	<entry name="TileAcquiredSummary" value="%1% hat ein Feld erworben."/>
+	<entry name="TileCapturedSummary" value="%1% hat %2% erobert."/>
+	<entry name="TileClearedSummary" value="%1% hat %2% geräumt."/>
+	<entry name="UnitAttackedSummary" value="%1% hat %2% angegriffen."/>
+	<entry name="UnitCapturedSummary" value="%1% hat %2% gefangen."/>
+	<entry name="UnitDamagedSummary" value="%1% hat %2% beschädigt."/>
+	<entry name="UnitKilledSummary" value="%1% hat %2% getötet."/>
+	<entry name="UnitGainedTraitSummary" value="%1% hat %2% erhalten."/>
+	<entry name="UnitTransformedSummary" value="%1% wurde zu %2% umgewandelt."/>
+	<entry name="UnitTypeDiscoveredSummary" value="%1% entdeckt."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% hat %2% auf %3% benutzt."/>
+</language>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1%이(가) %2%에게 선전포고했습니다."/>
+	<entry name="Diplomacy2Summary" value="%1%이(가) %2%와(과) 평화 조약을 체결했습니다."/>
+	<entry name="Diplomacy3Summary" value="%1%이(가) %2%와(과) 무역 협정을 체결했습니다."/>
+	<entry name="Diplomacy4Summary" value="%1%이(가) %2%와(과) 동맹을 맺었습니다."/>
+	<entry name="CityFoundedSummary" value="%1%이(가) 설립되었습니다."/>
+	<entry name="CityGrownSummary" value="%1%의 인구가 %2%(으)로 성장했습니다."/>
+	<entry name="FactionDefeated" value="패배한 세력"/>
+	<entry name="FactionDiscovered" value="발견한 세력"/>
+	<entry name="FactionDiscoveredSummary" value="%1%을(를) 발견했습니다."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1%을(를) 발견했습니다."/>
+	<entry name="Foundations" value="얕은 토대"/>
+	<entry name="FoundationsWithMutator" value="변경된 토대"/>
+	<entry name="Interlude0" value="<string name='Quests/AScintillaOfHope'/>"/>
+	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
+	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
+	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattleSummary" value="%1%이(가) 긴장 고조를 %2%턴 앞당겼습니다."/>
+	<entry name="PlayerCondemnedSummary" value="%1%이(가) %2%을(를) 규탄했습니다."/>
+	<entry name="PlayerDelayedTitanBattleSummary" value="%1%이(가) 긴장 고조를 %2%턴 지연시켰습니다."/>
+	<entry name="PlayerLost" value="패배!"/>
+	<entry name="PlayerLostSummary" value="%1%이(가) 패배했습니다!"/>
+	<entry name="PlayerPraisedSummary" value="%1%이(가) %2%을(를) 칭찬했습니다."/>
+	<entry name="PlayerRegroupedSummary" value="%1%이(가) 재집결했습니다."/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="승리!"/>
+	<entry name="PlayerWonSummary" value="%1%이(가) 승리했습니다!"/>
+	<entry name="ProductionCompletedSummary" value="%1%이(가) %2%을(를) 생산했습니다."/>
+	<entry name="RegionDiscoveredSummary" value="%1%을(를) 발견했습니다."/>
+	<entry name="ResearchCompleted" value="연구 완료"/>
+	<entry name="ResearchCompletedSummary" value="%1% 연구를 완료했습니다."/>
+	<entry name="RewardGainedSummary" value="%2%을(를) 획득했습니다."/>
+	<entry name="TileAcquiredSummary" value="%1%이(가) 타일을 획득했습니다."/>
+	<entry name="TileCapturedSummary" value="%1%이(가) %2%을(를) 점령했습니다."/>
+	<entry name="TileClearedSummary" value="%1%이(가) %2%을(를) 제거했습니다."/>
+	<entry name="UnitAttackedSummary" value="%1%이(가) %2%을(를) 공격했습니다."/>
+	<entry name="UnitCapturedSummary" value="%1%이(가) %2%을(를) 점령했습니다."/>
+	<entry name="UnitDamagedSummary" value="%1%이(가) %2%에게 피해를 주었습니다."/>
+	<entry name="UnitKilledSummary" value="%1%이(가) %2%을(를) 처치했습니다."/>
+	<entry name="UnitGainedTraitSummary" value="%1%이(가) %2%을(를) 획득했습니다."/>
+	<entry name="UnitTransformedSummary" value="%1%이(가) %2%으(로) 변환되었습니다."/>
+	<entry name="UnitTypeDiscoveredSummary" value="%1%을(를) 발견했습니다."/>
+	<entry name="UnitUsedActionOnSummary" value="%1%이(가) %3%에 %2%을(를) 사용했습니다."/>
+</language>

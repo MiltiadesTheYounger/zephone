@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1% est en guerre avec %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% a signé un traité de paix avec %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% a signé un accord commercial avec %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% a conclu une alliance avec %2%."/>
+	<entry name="CityFoundedSummary" value="%1% a été fondée."/>
+	<entry name="CityGrownSummary" value="%1% a atteint %2% de population."/>
+	<entry name="FactionDefeated" value="Faction vaincue"/>
+	<entry name="FactionDiscovered" value="Faction découverte"/>
+	<entry name="FactionDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="Foundations" value="Fondations superficielles"/>
+	<entry name="FoundationsWithMutator" value="Fondations altérées"/>
+	<entry name="Interlude0" value="<string name='Quests/AScintillaOfHope'/>"/>
+	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
+	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
+	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattleSummary" value="%1% a avancé l'escalade de %2% tour(s)."/>
+	<entry name="PlayerCondemnedSummary" value="%1% a condamné %2%."/>
+	<entry name="PlayerDelayedTitanBattleSummary" value="%1% a retardé l'escalade de %2% tour(s)."/>
+	<entry name="PlayerLost" value="Défaite<nbsp/>!"/>
+	<entry name="PlayerLostSummary" value="%1% s'est fait vaincre<nbsp/>!"/>
+	<entry name="PlayerPraisedSummary" value="%1% a loué %2%."/>
+	<entry name="PlayerRegroupedSummary" value="%1% se regroupe."/>
+	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
+	<entry name="PlayerWon" value="Victoire<nbsp/>!"/>
+	<entry name="PlayerWonSummary" value="%1% remporte la victoire<nbsp/>!"/>
+	<entry name="ProductionCompletedSummary" value="Production<nbsp/>: %2% par %1%."/>
+	<entry name="RegionDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="ResearchCompleted" value="Recherches terminées"/>
+	<entry name="ResearchCompletedSummary" value="Recherche<nbsp/>: %1%."/>
+	<entry name="RewardGainedSummary" value="Obtenu<nbsp/>: %2%."/>
+	<entry name="TileAcquiredSummary" value="Case acquise par %1%."/>
+	<entry name="TileCapturedSummary" value="Capture<nbsp/>: %2% par %1%."/>
+	<entry name="TileClearedSummary" value="Déblaiement<nbsp/>: %2% par %1%."/>
+	<entry name="UnitAttackedSummary" value="Attaque<nbsp/>: %2% par %1%."/>
+	<entry name="UnitCapturedSummary" value="Capture<nbsp/>: %2% par %1%."/>
+	<entry name="UnitDamagedSummary" value="Dégâts<nbsp/>: %2% par %1%."/>
+	<entry name="UnitKilledSummary" value="Élimination<nbsp/>: %2% par %1%."/>
+	<entry name="UnitGainedTraitSummary" value="Obtention<nbsp/>: %2% par %1%."/>
+	<entry name="UnitTransformedSummary" value="Évolution<nbsp/>: %1% en %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Découverte<nbsp/>: %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1%<nbsp/>: utilisation de %2% sur %3%."/>
+</language>

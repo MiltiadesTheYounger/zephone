@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="Diplomacy1Summary" value="%1% объявляет войну: %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% заключает мир с: %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% заключает торговое соглашение с: %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% вступает в союз с: %2%."/>
+	<entry name="CityFoundedSummary" value="Основан город: %1%."/>
+	<entry name="CityGrownSummary" value="%1% достигает населения %2%."/>
+	<entry name="FactionDefeated" value="Фракция побеждена"/>
+	<entry name="FactionDiscovered" value="Фракция обнаружена"/>
+	<entry name="FactionDiscoveredSummary" value="Обнаружено: %1%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="Обнаружено: %1%."/>
+	<entry name="Foundations" value="Шаткие основы"/>
+	<entry name="FoundationsWithMutator" value="Иные основы"/>
+	<entry name="Interlude0" value="&lt;string name='Quests/AScintillaOfHope'/&gt;"/>
+	<entry name="Interlude0Info" value="&lt;string name='Quests/AScintillaOfHope/Intro'/&gt;"/>
+	<entry name="Interlude1" value="&lt;string name='Quests/PortentsOfDespair'/&gt;"/>
+	<entry name="Interlude1Info" value="&lt;string name='Quests/PortentsOfDespair/Intro'/&gt;"/>
+	<entry name="PlayerAdvancedTitanBattleSummary" value="%1% ускоряет эскалацию на %2% х."/>
+	<entry name="PlayerCondemnedSummary" value="%1% осуждает: %2%."/>
+	<entry name="PlayerDelayedTitanBattleSummary" value="%1% замедляет эскалацию на %2% х."/>
+	<entry name="PlayerLost" value="Поражение!"/>
+	<entry name="PlayerLostSummary" value="%1% терпит поражение!"/>
+	<entry name="PlayerPraisedSummary" value="%1% хвалит: %2%."/>
+	<entry name="PlayerRegroupedSummary" value="%1% перегруппируется."/>
+	<entry name="PlayerUsedActionOnSummary" value="&lt;string name='Notifications/UnitUsedActionOnSummary'/&gt;"/>
+	<entry name="PlayerWon" value="Победа!"/>
+	<entry name="PlayerWonSummary" value="%1% побеждает!"/>
+	<entry name="ProductionCompletedSummary" value="%1% производит: %2%."/>
+	<entry name="RegionDiscoveredSummary" value="Обнаружено: %1%."/>
+	<entry name="ResearchCompleted" value="Исследование завершено"/>
+	<entry name="ResearchCompletedSummary" value="Исследовано: %1%."/>
+	<entry name="RewardGainedSummary" value="Получено: %2%."/>
+	<entry name="TileAcquiredSummary" value="%1% присоединяет клетку."/>
+	<entry name="TileCapturedSummary" value="%1% захватывает: %2%."/>
+	<entry name="TileClearedSummary" value="%1% зачищает: %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% атакует: %2%."/>
+	<entry name="UnitCapturedSummary" value="%1% захватывает: %2%."/>
+	<entry name="UnitDamagedSummary" value="%1% наносит урон: %2%."/>
+	<entry name="UnitKilledSummary" value="%1% убивает: %2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% получает: %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% превращается в: %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Обнаружено: %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% использует: %2%, цель: %3%."/>
+</language>
