@@ -4,7 +4,15 @@
       "Read(//c/Program Files \\(x86\\)/Steam/steamapps/common/ZEPHON/Documents/English/PatchNotes/**)",
       "PowerShell(git -C $root add ModData/Data/Core/Languages/French/Features.xml ModData/Data/Core/Languages/German/Features.xml ModData/Data/Core/Languages/Korean/Features.xml ModData/Data/Core/Languages/Polish/Features.xml ModData/Data/Core/Languages/Russian/Features.xml ModData/Data/Core/Languages/SimplifiedChinese/Features.xml ModData/Data/Core/Languages/Spanish/Features.xml README.md .claude/settings.json .claude/settings.local.json)",
       "PowerShell(git -C $root status --porcelain)",
-      "PowerShell($root='C:\\\\Users\\\\kirav\\\\Desktop\\\\MyCode\\\\zephone')"
+      "PowerShell($root='C:\\\\Users\\\\kirav\\\\Desktop\\\\MyCode\\\\zephone')",
+      "PowerShell(git -C $root commit -m \"Sync localization to game version 1.3.5 and refresh the base-language Ikon of Vorodai entries\")",
+      "PowerShell(git -C $root log --oneline -3)",
+      "PowerShell(git -C $root log origin/main..HEAD --oneline 2>$null)",
+      "PowerShell(git -C $root show --stat --oneline HEAD)",
+      "PowerShell(git -C $root add .claude/settings.json)",
+      "PowerShell(git -C $root commit -m \"Update project Claude settings\")",
+      "PowerShell(git -C $root push origin main)",
+      "PowerShell(git -C $root log origin/main..HEAD --oneline)"
     ]
   }
 }
