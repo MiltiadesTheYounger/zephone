@@ -12,7 +12,9 @@
       "PowerShell(git -C $root add .claude/settings.json)",
       "PowerShell(git -C $root commit -m \"Update project Claude settings\")",
       "PowerShell(git -C $root push origin main)",
-      "PowerShell(git -C $root log origin/main..HEAD --oneline)"
+      "PowerShell(git -C $root log origin/main..HEAD --oneline)",
+      "Edit(~/.claude/skills/commits/**)",
+      "PowerShell(git -C $root diff .claude/settings.json)"
     ]
   }
 }
