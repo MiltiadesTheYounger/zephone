@@ -51,6 +51,7 @@
 	<entry name="HymnOfDecay" value="<string name='Actions/HymnOfDecay'/>"/>
 	<entry name="HymnOfDecayFlavor" value="<string name='Actions/HymnOfDecayFlavor'/>"/>
 	<entry name="IkonOfVorodai" value="보로다이의 이콘"/>
+	<entry name="IkonOfVorodaiProperties" value="<icon texture='GUI/Bullet'/>3타일 이내의 적 유닛에게 <icon texture='Icons/Features/IkonOfVorodai' height='20'/><nbsp/><string name='Traits/IkonOfVorodaiUnit'/>을 적용합니다"/>
 	<entry name="MicrochipFabricator" value="마이크로칩 제조기"/>
 	<entry name="Mines" value="광산"/>
 	<entry name="MinesFlavor" value="<string name='Actions/MinelayerFlavor'/>"/>

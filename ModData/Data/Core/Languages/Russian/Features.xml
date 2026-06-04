@@ -51,6 +51,7 @@
 	<entry name="HymnOfDecay" value="&lt;string name='Actions/HymnOfDecay'/&gt;"/>
 	<entry name="HymnOfDecayFlavor" value="&lt;string name='Actions/HymnOfDecayFlavor'/&gt;"/>
 	<entry name="IkonOfVorodai" value="Идол Вародай"/>
+	<entry name="IkonOfVorodaiProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Применяет &lt;icon texture='Icons/Features/IkonOfVorodai' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/IkonOfVorodaiUnit'/&gt; к вражеским юнитам в радиусе 3 клеток"/>
 	<entry name="MicrochipFabricator" value="Фабрикатор микрочипов"/>
 	<entry name="Mines" value="Мины"/>
 	<entry name="MinesFlavor" value="&lt;string name='Actions/MinelayerFlavor'/&gt;"/>

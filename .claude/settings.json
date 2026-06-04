@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Program Files \\(x86\\)/Steam/steamapps/common/ZEPHON/Documents/English/PatchNotes/**)",
+      "PowerShell(git -C $root add ModData/Data/Core/Languages/French/Features.xml ModData/Data/Core/Languages/German/Features.xml ModData/Data/Core/Languages/Korean/Features.xml ModData/Data/Core/Languages/Polish/Features.xml ModData/Data/Core/Languages/Russian/Features.xml ModData/Data/Core/Languages/SimplifiedChinese/Features.xml ModData/Data/Core/Languages/Spanish/Features.xml README.md .claude/settings.json .claude/settings.local.json)",
+      "PowerShell(git -C $root status --porcelain)",
+      "PowerShell($root='C:\\\\Users\\\\kirav\\\\Desktop\\\\MyCode\\\\zephone')"
+    ]
+  }
+}
