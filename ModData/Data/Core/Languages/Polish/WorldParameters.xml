@@ -7,6 +7,13 @@
 	<entry name="AbkhanDreyDensity3" value="Średnie"/>
 	<entry name="AbkhanDreyDensity4" value="Duże"/>
 	<entry name="AbkhanDreyDensity5" value="Bardzo duże"/>
+	<entry name="AcrinCrashSiteDensity" value="Zagęszczenie miejsc katastrofy Akrynów"/>
+	<entry name="AcrinCrashSiteDensity0" value="Brak"/>
+	<entry name="AcrinCrashSiteDensity1" value="Bardzo małe"/>
+	<entry name="AcrinCrashSiteDensity2" value="Małe"/>
+	<entry name="AcrinCrashSiteDensity3" value="Średnie"/>
+	<entry name="AcrinCrashSiteDensity4" value="Duże"/>
+	<entry name="AcrinCrashSiteDensity5" value="Bardzo duże"/>
 	<entry name="AIControlDisconnectedPlayers" value="Kontrola SI w<nbsp/>przypadku rozłączenia graczy"/>
 	<entry name="AIControlDisconnectedPlayersHint" value="Zezwól SI kontrolować jednostki rozłączonych graczy.<br/><br/>Dostępne tylko przy wyłączonym trybie ironmana."/>
 	<entry name="AdaptiveTurnTimer" value="Adaptacyjny zegar tury"/>
@@ -32,6 +39,13 @@
 	<entry name="ArcticRegionDensity3" value="Średnie"/>
 	<entry name="ArcticRegionDensity4" value="Duże"/>
 	<entry name="ArcticRegionDensity5" value="Bardzo duże"/>	
+	<entry name="AtmosphericAnchorDensity" value="Zagęszczenie kotwic atmosferycznych"/>
+	<entry name="AtmosphericAnchorDensity0" value="Brak"/>
+	<entry name="AtmosphericAnchorDensity1" value="Bardzo małe"/>
+	<entry name="AtmosphericAnchorDensity2" value="Małe"/>
+	<entry name="AtmosphericAnchorDensity3" value="Średnie"/>
+	<entry name="AtmosphericAnchorDensity4" value="Duże"/>
+	<entry name="AtmosphericAnchorDensity5" value="Bardzo duże"/>
 	<entry name="AutoDisableSimultaneousTurns" value="Automatyczne wyłączenie jednoczesnych tur"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="Automatycznie wyłącza jednoczesne tury, gdy wrogie jednostki niebędące SI wejdą na 5 pól, na których znajdują się inni gracze."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Unikaj duplikacji losowych frakcji"/>
@@ -78,6 +92,13 @@
 	<entry name="ConstructRegionDensity3" value="Średnie"/>
 	<entry name="ConstructRegionDensity4" value="Duże"/>
 	<entry name="ConstructRegionDensity5" value="Bardzo duże"/>
+	<entry name="CrystalBasinDensity" value="Zagęszczenie kryształowych dolin"/>
+	<entry name="CrystalBasinDensity0" value="Brak"/>
+	<entry name="CrystalBasinDensity1" value="Bardzo małe"/>
+	<entry name="CrystalBasinDensity2" value="Małe"/>
+	<entry name="CrystalBasinDensity3" value="Średnie"/>
+	<entry name="CrystalBasinDensity4" value="Duże"/>
+	<entry name="CrystalBasinDensity5" value="Bardzo duże"/>
 	<entry name="DLC1" value="DLC „The Twisted & The Hollow”"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="DLC „The Platinum & The Infinite”"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC3" value="DLC „The Syncretic & The Imperious”"/> <!-- DLC name. Do not translate. -->
@@ -119,6 +140,13 @@
 	<entry name="DustStormDensity3" value="Średnie"/>
 	<entry name="DustStormDensity4" value="Duże"/>
 	<entry name="DustStormDensity5" value="Bardzo duże"/>
+	<entry name="ErebusExcavatorDensity" value="Zagęszczenie koparek Erebus"/>
+	<entry name="ErebusExcavatorDensity0" value="Brak"/>
+	<entry name="ErebusExcavatorDensity1" value="Bardzo małe"/>
+	<entry name="ErebusExcavatorDensity2" value="Małe"/>
+	<entry name="ErebusExcavatorDensity3" value="Średnie"/>
+	<entry name="ErebusExcavatorDensity4" value="Duże"/>
+	<entry name="ErebusExcavatorDensity5" value="Bardzo duże"/>
 	<entry name="EscalationPace" value="Szybkość eskalacji"/>
 	<entry name="EscalationPaceHint" value="Zmienia szybkość postępów gry do jej finału. Może ich nie być wcale."/>
 	<entry name="EscalationPace0" value="Brak"/>
@@ -145,6 +173,13 @@
 	<entry name="TradeGain1Hint" value="Zyski z<nbsp/>handlu obowiązują tylko, gdy jedna ze stron jest frakcją BN. Inni gracze nie zyskują na wzajemnym handlu."/>
 	<entry name="TradeGain2" value="Standardowe"/>
 	<entry name="TradeGain2Hint" value="Zyski z<nbsp/>handlu obowiązują między wszystkimi przywódcami posiadającymi umowę handlową lub sojusz."/>
+	<entry name="FleshTreeDensity" value="Zagęszczenie mięsnych drzew"/>
+	<entry name="FleshTreeDensity0" value="Brak"/>
+	<entry name="FleshTreeDensity1" value="Bardzo małe"/>
+	<entry name="FleshTreeDensity2" value="Małe"/>
+	<entry name="FleshTreeDensity3" value="Średnie"/>
+	<entry name="FleshTreeDensity4" value="Duże"/>
+	<entry name="FleshTreeDensity5" value="Bardzo duże"/>
 	<entry name="ForestDensity" value="Zagęszczenie lasów"/>
 	<entry name="ForestDensity0" value="Brak"/>
 	<entry name="ForestDensity1" value="Bardzo małe"/>
@@ -176,6 +211,20 @@
 	<entry name="Growth2" value="Średni"/>
 	<entry name="Growth3" value="Duży"/>
 	<entry name="Growth4" value="Bardzo duży"/>
+	<entry name="HydroponicFarmDensity" value="Zagęszczenie farm hydroponicznych"/>
+	<entry name="HydroponicFarmDensity0" value="Brak"/>
+	<entry name="HydroponicFarmDensity1" value="Bardzo małe"/>
+	<entry name="HydroponicFarmDensity2" value="Małe"/>
+	<entry name="HydroponicFarmDensity3" value="Średnie"/>
+	<entry name="HydroponicFarmDensity4" value="Duże"/>
+	<entry name="HydroponicFarmDensity5" value="Bardzo duże"/>
+	<entry name="IkonOfVorodaiDensity" value="Zagęszczenie Ikon Vorodaia"/>
+	<entry name="IkonOfVorodaiDensity0" value="Brak"/>
+	<entry name="IkonOfVorodaiDensity1" value="Bardzo małe"/>
+	<entry name="IkonOfVorodaiDensity2" value="Małe"/>
+	<entry name="IkonOfVorodaiDensity3" value="Średnie"/>
+	<entry name="IkonOfVorodaiDensity4" value="Duże"/>
+	<entry name="IkonOfVorodaiDensity5" value="Bardzo duże"/>
 	<entry name="Ironman" value="Ironman"/>
 	<entry name="IronmanHint" value="Ogranicza kontrolę gracza nad plikiem zapisu, usuwając tym sposobem możliwość poprawy błędów i<nbsp/>zmiany decyzji dokonanych podczas rozgrywki.<br/><br/>Niektóre osiągnięcia mogą zostać odblokowane tylko przy włączonym trybie ironmana."/>
 	<entry name="LandMass" value="Wielkość lądu"/>
@@ -198,6 +247,13 @@
 	<entry name="MaximumTechnologyTier8" value="8"/>
 	<entry name="MaximumTechnologyTier9" value="9"/>
 	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="MicrochipFabricatorDensity" value="Zagęszczenie wytwórni mikroczipów"/>
+	<entry name="MicrochipFabricatorDensity0" value="Brak"/>
+	<entry name="MicrochipFabricatorDensity1" value="Bardzo małe"/>
+	<entry name="MicrochipFabricatorDensity2" value="Małe"/>
+	<entry name="MicrochipFabricatorDensity3" value="Średnie"/>
+	<entry name="MicrochipFabricatorDensity4" value="Duże"/>
+	<entry name="MicrochipFabricatorDensity5" value="Bardzo duże"/>
 	<entry name="Mutators/AreYouTheGreatSpeaker" value="<string name='Settings/Achievements/AreYouTheGreatSpeaker'/>"/>
 	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Podwaja efekt lojalności."/>
 	<entry name="Mutators/CanLoveBeMoral" value="<string name='Settings/Achievements/CanLoveBeMoral'/>"/>
@@ -255,6 +311,13 @@
 	<entry name="Pace2" value="Standardowa"/>
 	<entry name="Pace3" value="Szybka"/>
 	<entry name="Pace4" value="Bardzo szybka"/>
+	<entry name="PhaseGeneratorDensity" value="Zagęszczenie generatorów fazy"/>
+	<entry name="PhaseGeneratorDensity0" value="Brak"/>
+	<entry name="PhaseGeneratorDensity1" value="Bardzo małe"/>
+	<entry name="PhaseGeneratorDensity2" value="Małe"/>
+	<entry name="PhaseGeneratorDensity3" value="Średnie"/>
+	<entry name="PhaseGeneratorDensity4" value="Duże"/>
+	<entry name="PhaseGeneratorDensity5" value="Bardzo duże"/>
 	<entry name="AIAggressiveness" value="Agresywność SI"/>
 	<entry name="AIAggressivenessHint" value="Reguluje skłonność graczy SI do utrzymywania pokoju."/>
 	<entry name="AIAggressiveness0" value="Brak"/>
@@ -273,6 +336,20 @@
 	<entry name="QuestPace5" value="Bardzo szybka"/>
 	<entry name="Random" value="Losowy"/>
 	<entry name="RandomHint" value="Po rozpoczęciu gry zostanie wylosowana opcja."/>
+	<entry name="ReaverDepotDensity" value="Zagęszczenie magazynów Łupieżców"/>
+	<entry name="ReaverDepotDensity0" value="Brak"/>
+	<entry name="ReaverDepotDensity1" value="Bardzo małe"/>
+	<entry name="ReaverDepotDensity2" value="Małe"/>
+	<entry name="ReaverDepotDensity3" value="Średnie"/>
+	<entry name="ReaverDepotDensity4" value="Duże"/>
+	<entry name="ReaverDepotDensity5" value="Bardzo duże"/>
+	<entry name="RecyclingTanksDensity" value="Zagęszczenie zbiorników kompostowniczych"/>
+	<entry name="RecyclingTanksDensity0" value="Brak"/>
+	<entry name="RecyclingTanksDensity1" value="Bardzo małe"/>
+	<entry name="RecyclingTanksDensity2" value="Małe"/>
+	<entry name="RecyclingTanksDensity3" value="Średnie"/>
+	<entry name="RecyclingTanksDensity4" value="Duże"/>
+	<entry name="RecyclingTanksDensity5" value="Bardzo duże"/>
 	<entry name="RegionDensity" value="Zagęszczenie regionów"/>
 	<entry name="RegionDensity0" value="Brak"/>
 	<entry name="RegionDensity1" value="Bardzo małe"/>
@@ -371,6 +448,13 @@
 	<entry name="StartingResource2" value="Średnie"/>
 	<entry name="StartingResource3" value="Duże"/>
 	<entry name="StartingResource4" value="Bardzo duże"/>
+	<entry name="SurvivorsBazaarDensity" value="Zagęszczenie giełd ocalałych"/>
+	<entry name="SurvivorsBazaarDensity0" value="Brak"/>
+	<entry name="SurvivorsBazaarDensity1" value="Bardzo małe"/>
+	<entry name="SurvivorsBazaarDensity2" value="Małe"/>
+	<entry name="SurvivorsBazaarDensity3" value="Średnie"/>
+	<entry name="SurvivorsBazaarDensity4" value="Duże"/>
+	<entry name="SurvivorsBazaarDensity5" value="Bardzo duże"/>
 	<entry name="SwampRegionDensity" value="Zagęszczenie mokradeł"/>
 	<entry name="SwampRegionDensity0" value="Brak"/>
 	<entry name="SwampRegionDensity1" value="Bardzo małe"/>
@@ -378,6 +462,13 @@
 	<entry name="SwampRegionDensity3" value="Średnie"/>
 	<entry name="SwampRegionDensity4" value="Duże"/>
 	<entry name="SwampRegionDensity5" value="Bardzo duże"/>	
+	<entry name="TempleOfCrlaDensity" value="Zagęszczenie Świątyń Cr'li"/>
+	<entry name="TempleOfCrlaDensity0" value="Brak"/>
+	<entry name="TempleOfCrlaDensity1" value="Bardzo małe"/>
+	<entry name="TempleOfCrlaDensity2" value="Małe"/>
+	<entry name="TempleOfCrlaDensity3" value="Średnie"/>
+	<entry name="TempleOfCrlaDensity4" value="Duże"/>
+	<entry name="TempleOfCrlaDensity5" value="Bardzo duże"/>
 	<entry name="TurnTimer" value="Zegar tury"/>
 	<entry name="TurnTimer0" value="Brak"/>
 	<entry name="TurnTimer1" value="Bardzo krótki (1 minuta)"/>
@@ -418,6 +509,13 @@
 	<entry name="WastelandRegionDensity3" value="Średnie"/>
 	<entry name="WastelandRegionDensity4" value="Duże"/>
 	<entry name="WastelandRegionDensity5" value="Bardzo duże"/>
+	<entry name="WatchtowerDensity" value="Zagęszczenie strażnic"/>
+	<entry name="WatchtowerDensity0" value="Brak"/>
+	<entry name="WatchtowerDensity1" value="Bardzo małe"/>
+	<entry name="WatchtowerDensity2" value="Małe"/>
+	<entry name="WatchtowerDensity3" value="Średnie"/>
+	<entry name="WatchtowerDensity4" value="Duże"/>
+	<entry name="WatchtowerDensity5" value="Bardzo duże"/>
 	<entry name="WhisperingWightsDensity" value="Zagęszczenie szepczących bytów"/>
 	<entry name="WhisperingWightsDensity0" value="Brak"/>
 	<entry name="WhisperingWightsDensity1" value="Bardzo małe"/>

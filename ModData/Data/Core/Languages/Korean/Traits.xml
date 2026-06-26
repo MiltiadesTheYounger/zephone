@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="지침 이탈"/>
 	<entry name="DiscarnateFramework" value="탈육체 골격"/>
 	<entry name="Disputation" value="논쟁"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="고정 명중률"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> 명중률은 수정할 수 없습니다"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="비행"/>
@@ -893,6 +896,7 @@
 	<entry name="DeviantProliferationFlavor" value="재미있는 건 오다이 하나가 더 있으면 얼마나 차이가 나는지. 팔을 뜯어낼 수 있는 살아있는 폭탄 하나 더. 총알을 흡수하는 스펀지 하나 더. 지옥에서 해방된 영혼 하나 더."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="우조다이의 선민 한 명이 봉인된 은신처 밖에서 설교를 벌였다. 혈사초의 촉수가 건물을 휘감으며 올라갔고, 세뇌된 신도들의 외침은 황홀경의 통곡으로 바뀌었다. 혈사초의 힘은 그들을 신에게 묶었고, 비명을 지르는 영혼들의 메아리는 점점 더 커졌다."/>
 	<entry name="DimensionalReverberationsFlavor" value="구슬픈 오롤로스는 목소리와 연결되어 그들이 죽인 모든 것에서 차원의 메아리를 추출할 수 있었다. 왜? 어떻게? 전쟁이 너무 길어진 탓에... 이유를 떠올려 보기엔 머릿속이 너무 복잡했다. 그래서 병사들에게는 그저 이 괴물에게 죽으면 영혼이 뽑혀 전쟁 기계에게 잡아먹힐 수 있다고만 경고했다."/>
+	<entry name="DirectiveDevianceFlavor" value="발사할 수 없는 무기는 짐덩어리에 불과하다. 그것을 들고 다니는 병사도 곧 같은 교훈을 배우게 된다."/>
 	<entry name="DiscarnateFrameworkFlavor" value="노인에게 경고했습니다. 저격수 라인 앞에 예거 한 쌍을 세워도 프라울러 무리에겐 아무 소용 없다고. 그의 아이가 거기 있었습니다. 맞췄다고 기쁘지 않았습니다. 프라울러들이 나무를 엄폐물로 삼았습니다. 걸어다니는 타이탄과 십대 조종사들을 스쳐 지나갔습니다. 저격수들과 그의 아이를 산산조각 냈습니다."/>
 	<entry name="DisputationFlavor" value="종교를 믿는 병사들은 아이들이 조금이라도 무례한 행동을 보이면 채찍질했다는 영적 지도자의 이야기를 들려주었다. 프로보스트도 같은 식으로 기능했다. 누가 때리면 깊은 앙심을 품었지. 채찍을 내리치듯 팔다리를 휘두르며 가장 가까이에 있는 것을 해쳐서라도 통제력을 되찾으려 들었다."/>
 	<entry name="DozerBladeFlavor" value="우린 낡은 건설 차량에 달린 도저 블레이드를 떼어 우리 중기갑 차량이 지형을 개척할 수 있도록 했다. 그게 없었다면 울창한 숲과 뒤엉킨 폐허에서 많은 병력을 잃었을 것이다. 몇몇 운전병은 전투보다 지형 정리를 더 좋아하는 것 같았다."/>
@@ -910,6 +914,7 @@
 	<entry name="ExtraPlatingFlavor" value="우린 대원들을 살아 돌아오게 하려고 장갑 차량에 굵은 장갑을 씌운 게 아니었다. 그들이 단 몇 초라도 더 버티며 적을 공격하면 전세를 뒤집을 수도 있었기 때문이었다."/>
 	<entry name="FerventStrengthFlavor" value="우조다이를 가장 열렬하게 숭배한 이들의 몸은 암흑 우주에서 긴 여정을 견디기 위해 개조되었다. 무슨 뜻이냐고? 수천 발의 총알을 쏟아부어 놈의 뼈가 피부 밖으로 튀어나오면 신경 다발과 혈관이 스스로 반응하며 육신을 살려내고 싸우게 하는 걸 가까이에서 볼 수 있었다. 이 괴물들을 상처입히는 건 불가능했다. 그저 죽여야만 했지."/>
 	<entry name="FiringPointsFlavor" value="좁은 장소에 갇혀 집중포화를 받고 있을 때 적절한 엄폐물 뒤에서 반격하는 건 기분 좋은 일이다. 우리 기술자들은 벙커의 총안이 건물의 내구성을 손상하지 않도록 열심히 노력했다. 병사들이 죽기 살기로 싸우는데 지붕이 무너진다면 아무 소용이 없으니까..."/>
+	<entry name="FixedAccuracyFlavor" value="일부 무기들은 조준하기보다 그저 답에 도달했다. 좌표를 외치거나, 표적 데이터를 입력하거나, 콘솔 앞에서 기도해 봐야 소용이 없었다. 일단 발사가 승인되면, 탄두는 자신만의 냉혹한 확신을 따를 뿐이었다."/>
 	<entry name="FlyingFlavor" value="하늘을 날면 오염된 공기를 마시게 되지만, 갈라진 지구의 황량한 바다와 울퉁불퉁한 절벽을 가로질러 갈 수 있다. 지구가 독에 오염된 악몽처럼 변하기 전이었다면 경치가 더 좋았을 테지."/>
 	<entry name="FoodUpgradeFlavor" value="엄청난 연봉을 받을 자격이 있는 일부 기술자들은 물에서 비료를 정화할 수 있는 화학 용액을 개발했다. 덕분에 온실 주변은 지상에서 가장 오염되지 않은 곳이 되었다. 신선한 환경을 갈망하는 물고기 떼가 이곳에 모여들었고, 사람들에게 절실히 필요한 식량을 공급할 수 있었다."/>
 	<entry name="FormIsFunctionFlavor" value="데바의 추종자들은 기계에 연결할 때 인간성을 버리지 않은 유일한 기술 애호 집단이었습니다. 불을 켜두려면 약간의 추가 전력이 필요했지만... 그의 노동자들은 더 행복했습니다. 열정적이었습니다. 데바 자신이 볼 수 없었던 대의를 믿었습니다."/>

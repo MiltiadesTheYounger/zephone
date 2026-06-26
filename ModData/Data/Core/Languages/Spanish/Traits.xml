@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="Desviación de la directiva"/>
 	<entry name="DiscarnateFramework" value="Marco incorpóreo"/>
 	<entry name="Disputation" value="Disputa"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="Precisión fija"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> la precisión no se puede modificar"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="Vuelo"/>
@@ -899,6 +902,7 @@
 	<entry name="DeviantProliferationFlavor" value="Curioso el cambio que puede suponer un Odai extra. Una bomba viviente más que puede arrancarte el brazo. Una esponja más para absorber tus balas. Un alma más liberada del infierno andante."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="Un electo de Uzhodai pronunció un sermón delante de un Cenobio Sellado. Las extremidades de la Sangría ascendieron por el edificio y los gritos de los siervos enclaustrados se convirtieron en gemidos de éxtasis. El poder de la Sangría los unía a su supuesta divinidad y cada vez salían más ecos de las almas que gritaban en el interior."/>
 	<entry name="DimensionalReverberationsFlavor" value="Los orolos plañideros estaban tan conectados a la Voz que podían extraer ecos dimensionales de cualquier cosa que mataran. ¿Por qué? ¿Cómo? La pregunta ya era demasiado tardía a estas alturas de la guerra... y mi cabeza estaba demasiado saturada para siquiera intentar contestarla. Me limité a advertir a nuestras tropas de que si ese ser los mataba, sus propias almas servirían de sustento para la máquina de guerra."/>
+	<entry name="DirectiveDevianceFlavor" value="Un arma que no puede dispararse no es más que un lastre. El soldado que la carga pronto aprende la misma lección."/>
 	<entry name="DiscarnateFrameworkFlavor" value="Les advertí al anciano. Poner dos Jaeger delante de su línea de Francotiradores no serviría de nada contra una manada de Acechadores. Su hijo estaba allí. No me alegré de tener razón. Los Acechadores usaron los árboles como cobertura. Pasaron junto a los titanes andantes y sus pilotos adolescentes. Destrozaron a los Francotiradores, y a su hijo, haciéndoles trizas."/>
 	<entry name="DisputationFlavor" value="Las tropas religiosas contaban historias de líderes espirituales que fustigaban a los niños cuando mostraban una pizca de insolencia. Los prebostes practicaban los mismos métodos. Si los atacabas, se lo llevaban a lo personal. Sus extremidades se agitaban, como un látigo, solo para herir lo que tuvieran más a mano y recuperar la sensación de control."/>
 	<entry name="DozerBladeFlavor" value="Desmontamos las palas topadoras de vehículos de construcción viejos para que nuestros blindados pesados pudieran despejar el terreno. Si no se las hubiéramos instalado, habríamos perdido a muchas tropas en bosques frondosos y ruinas enrevesadas. Creo que algunos operarios preferían despejar el terreno para que la contienda se librara en campo abierto."/>
@@ -916,6 +920,7 @@
 	<entry name="ExtraPlatingFlavor" value="No instalamos chapas de alto calibre en los blindados móviles para que los nuestros volvieran a casa sanos y salvos. Lo hicimos porque, si los manteníamos con vida aunque fueran unos segundos más, cabía la posibilidad de que efectuaran un disparo que volviera las tornas de la batalla."/>
 	<entry name="FerventStrengthFlavor" value="Los cuerpos de los adoradores más fervientes de Uzhodai estaban habituados a las largas travesías en la negrura del espacio. ¿Qué significaba eso? Cose a balazos a uno hasta que el hueso empiece a sobresalirle de la piel y podrás ver de cerca cómo las extremidades de los nervios y los vasos sanguíneos se expanden para mantener el organismo vivito y coleando. No había que herir a esos monstruos... sino matarlos."/>
 	<entry name="FiringPointsFlavor" value="Cuando te atrapan en un espacio reducido y recibes un aluvión de balas, es una gozada devolvérsela al enemigo... siempre y cuando lo hagas tras la cobertura adecuada. Nuestros técnicos se esforzaron en asegurarse de que los puntos de disparo de nuestros búnkeres no comprometieran su integridad. No serviría de mucho dejar que nuestros soldados lucharan como locos si eso hacía que se les cayera el techo encima..."/>
+	<entry name="FixedAccuracyFlavor" value="Algunas armas no tanto apuntaban como llegaban a una conclusión. Podías gritar coordenadas, suministrarles datos de apuntado o rezar sobre la consola. Daba igual. Una vez autorizado el lanzamiento, la carga seguía su propia y fría certeza."/>
 	<entry name="FlyingFlavor" value="Volar por el cielo te exponía al aire contaminado, pero también te permitía atravesar los mares sombríos y los acantilados escarpados tan característicos de aquella Tierra agrietada. Probablemente las vistas eran mejores cuando nuestro planeta no era una pesadilla envenenada."/>
 	<entry name="FoodUpgradeFlavor" value="Unos técnicos que se merecían un buen aumento desarrollaron una solución química que purificaba el fertilizante del agua. Eso hizo que la zona de alrededor de nuestros invernaderos fuera uno de los lugares menos contaminados de la superficie. Los bancos de peces se congregaban en esos lugares, ávidos de condiciones inocuas, y nos proporcionaban la comida que tanto necesitábamos para mantener alimentado a nuestro pueblo."/>
 	<entry name="FormIsFunctionFlavor" value="Los seguidores del Deva fueron el único grupo amante de la tecnología que no renunció a su humanidad cuando se conectaron a las máquinas. Eso significaba necesitar un poco más de energía para mantener las luces encendidas... pero sus trabajadores eran más felices. Entusiastas. Creían en una causa que el propio Deva no podía ver."/>

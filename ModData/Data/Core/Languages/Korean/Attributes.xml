@@ -63,6 +63,9 @@
 	<entry name="CanEnemyOverwatch" value="이 유닛에 대한 경계 공격"/>
 	<entry name="CanEnemyOverwatch-" value="방지"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanFly" value="비행"/>
+	<entry name="CanFly+" value="가능"/>
+	<entry name="CanFly-" value="불가"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="이동력 점수가 최대가 아니어도 자동 치유를 받습니다."/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="가능"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="불가"/>

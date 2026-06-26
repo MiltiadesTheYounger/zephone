@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="Déviance de directive"/>
 	<entry name="DiscarnateFramework" value="Cadre discarnate"/>
 	<entry name="Disputation" value="Contestation"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="Précision fixe"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> la précision ne peut pas être modifiée"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="Aérien"/>
@@ -883,6 +886,7 @@
 	<entry name="DeviantProliferationFlavor" value="C'est fou la différence que peut faire un Odaï de plus. Une bombe vivante de plus capable de t'arracher le bras. Une éponge de plus pour absorber tes balles. Une âme de plus libérée de l'enfer ambulant."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="Un Élu d'Uzhodai a fait un sermon devant un Ermitage emmuré. À mesure que ses tentacules de Bleed remontaient le long du bâtiment, les cris des cultistes prisonniers à l'intérieur se muaient en gémissements d'extase. Le pouvoir du Bleed les liait à leur Dieu supposé, et de plus en plus d'échos s'échappaient des âmes hurlantes à l'intérieur."/>
 	<entry name="DimensionalReverberationsFlavor" value="Les Orolos Stentors étaient à ce point connectés à Vox qu'ils pouvaient extraire des échos dimensionnels de tout ce qu'ils tuaient. Pourquoi<nbsp/>? Comment<nbsp/>? Trop tard dans la guerre... trop de choses dans ma tête pour essayer de l'expliquer. J'ai juste prévenu nos troupes que si cette chose les tuait, elle risquait de leur arracher l'âme pour alimenter la machine de guerre."/>
+	<entry name="DirectiveDevianceFlavor" value="Une arme que l'on ne peut pas utiliser n'est qu'un poids mort. Le soldat qui la porte apprend bientôt la même leçon."/>
 	<entry name="DiscarnateFrameworkFlavor" value="J'avais prévenu le vieux. Mettre une paire de Jaegers devant sa ligne de tireurs d'élite n'allait servir à rien contre une meute de Rôdeurs. Son gamin était derrière. Je n'ai pas aimé avoir raison. Les Rôdeurs se sont servis des arbres comme couvert. Ils ont filé droit devant les titans ambulants et leurs pilotes ados. Ils ont mis les tireurs d'élite –<nbsp/>et son gamin<nbsp/>– en charpie."/>
 	<entry name="DisputationFlavor" value="Les troupes religieuses parlaient de chefs spirituels qui fouettaient les enfants à la moindre once d'insolence. Les Prévôts fonctionnent de la même façon<nbsp/>: frappez-les et ils le prendront PERSONNELLEMENT. Leurs membres cinglaient l'air comme un fouet pour blesser ce qui était le plus proche d'eux et reprendre le contrôle."/>
 	<entry name="DozerBladeFlavor" value="Nous avons récupéré les lames de vieux véhicules de chantier pour que nos blindés lourds puissent déblayer le terrain. Si nous ne les avions pas attachées, nous aurions perdu énormément de troupes dans les forêts épaisses et les ruines enchevêtrées. Je pense que certains opérateurs préféraient déblayer le terrain plutôt que de combattre ouvertement."/>
@@ -900,6 +904,7 @@
 	<entry name="ExtraPlatingFlavor" value="Si nous avons mis un revêtement de haut calibre sur les blindés mobiles, ce n'était pas pour que nos hommes rentrent au bercail sains et saufs. C'était parce que si nous les gardions en vie quelques secondes de plus, ils auraient peut-être le temps de tirer le coup de feu capable de renverser le cours de la bataille."/>
 	<entry name="FerventStrengthFlavor" value="Les corps des plus fervents adorateurs d'Uzhodai étaient recouverts d'un moule pour les longs voyages dans le vide de l'espace. Corollaire<nbsp/>: truffez l'un d'eux de balles, faites en sorte que l'os commence à sortir de la peau, et vous pouviez voir de près comment les tentacules nerveux et les vaisseaux sanguins se réparaient pour maintenir le corps en état de combattre. On ne pouvait pas blesser ces monstres. Uniquement les tuer."/>
 	<entry name="FiringPointsFlavor" value="Quand on est coincé sous le feu dans une boîte étroite, on n'a qu'une envie, c'est de riposter... à condition de le faire à l'abri. Nos techniciens ont travaillé dur pour s'assurer que les postes de tir de nos bunkers ne compromettraient pas leur intégrité. Ça ne servirait pas à grand-chose de laisser nos soldats se battre comme des diables si c'était pour que le ciel leur tombe sur la tête..."/>
+	<entry name="FixedAccuracyFlavor" value="Certaines armes ne visaient pas tant qu'elles arrivaient à une conclusion. On pouvait crier des coordonnées, fournir des données de ciblage, ou prier devant la console. Rien n'y faisait. Une fois le tir autorisé, la charge suivait sa propre certitude froide."/>
 	<entry name="FlyingFlavor" value="Dans le ciel, on avait droit à un bain d'air pollué, mais on était libre de traverser les mers mornes et les falaises tranchantes qui délimitaient la Terre fissurée. La vue était probablement meilleure avant que notre planète ne devienne un cauchemar toxique."/>
 	<entry name="FoodUpgradeFlavor" value="Des techniciens qui méritaient une sacrée augmentation de salaire ont mis au point une solution chimique qui nettoyait l'eau des engrais. La zone autour de nos serres est ainsi devenue l'un des endroits les moins pollués de la surface<nbsp/>: des bancs de poissons s'y rassemblaient, avides de fraîcheur, et nous fournissaient les aliments dont nous avions désespérément besoin pour nourrir notre population."/>
 	<entry name="FormIsFunctionFlavor" value="Les disciples de Deva étaient le seul groupe féru de technologie qui ne troquait pas son humanité quand il se branchait à des machines. Ça voulait dire qu'il fallait un peu plus d'énergie pour garder les lumières allumées... mais ses ouvriers étaient plus heureux. Empressés. Ils croyaient à une cause que Deva lui-même ne voyait pas."/>

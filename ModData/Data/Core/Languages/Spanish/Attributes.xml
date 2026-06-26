@@ -63,6 +63,9 @@
 	<entry name="CanEnemyOverwatch" value="vigilar que los ataques no se dirijan a esta unidad"/>
 	<entry name="CanEnemyOverwatch-" value="Evita"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanFly" value="volar"/>
+	<entry name="CanFly+" value="Puede"/>
+	<entry name="CanFly-" value="No puede"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="se cura pasivamente aunque no tenga todos los puntos de movimiento"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Puede"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="No puede"/>

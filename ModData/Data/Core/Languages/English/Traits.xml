@@ -206,6 +206,8 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="Directive Deviance"/>
+	<entry name="DirectiveDevianceFlavor" value="<string name='Quests/BinaricChoice/HelpEradicatorsSuccess2'/>"/>
 	<entry name="DiscarnateFramework" value="Discarnate Framework"/>
 	<entry name="Disputation" value="Disputation"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +277,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="Fixed Accuracy"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> accuracy cannot be modified"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="Flying"/>
@@ -899,6 +903,7 @@
 	<entry name="DeviantProliferationFlavor" value="Funny how much difference one extra Odai can make. One more living bomb that can tear your arm off. One more sponge soaking up your bullets. One more soul freed from walking hell."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="An Elect of Uzhodai gave a sermon outside a Sealed Hermitage facility. Tendrils of Bleed wound their way up the building and the cries of the immured cultists turned into wails of ecstasy. The Bleed's power bound them to their supposed God—and more and more echoes poured out of the screaming souls inside."/>
 	<entry name="DimensionalReverberationsFlavor" value="Plangent Orolos were so connected to the Voice they could extract Dimensional Echoes from anything they killed. Why? How? Too late in the war… too much in my head to even try and explain it. Just warned our troops if this thing killed them, their very souls could be yanked out and fed to the war machine."/>
+	<entry name="DirectiveDevianceFlavor" value="A weapon that cannot be fired is dead weight. The soldier carrying it soon learns the same lesson."/>
 	<entry name="DiscarnateFrameworkFlavor" value="I warned the old man. Putting a pair of Jaegers in front of his Sharpshooter line wouldn't do jack shit against a Prowler pack. His kid was back there. Didn't enjoy being right. Prowlers used the trees as cover. Breezed past the walking titans and their teen pilots. Cut the Sharpshooters—and his kid—to shreds."/>
 	<entry name="DisputationFlavor" value="Troops of the religious sort told tales about spiritual leaders lashing kids with the whip when they showed even a shred of insolence. Provosts worked the same way. Strike them and they'd take it PERSONALLY. Their limbs would lash out, like a cracking whip, just to hurt the thing closest to it and gain any sense of control."/>
 	<entry name="DozerBladeFlavor" value="We stripped dozer blades off of old construction vehicles so that our heavy armor could clear out terrain. If we hadn't strapped them on, we'd have lost so many troops to thick forests and dense, tangled ruins. I think some operators preferred clearing out terrain to open combat."/>
@@ -916,6 +921,7 @@
 	<entry name="ExtraPlatingFlavor" value="We didn't put high-caliber plating on mobile armor to get our people home safe. We did it because if we kept them alive for even a few seconds longer, they'd have the time to fire off a shot that could turn the tide of battle."/>
 	<entry name="FerventStrengthFlavor" value="The bodies of Uzhodai's most fervent worshippers were molded for long journeys in the black of space. What did that mean? Pour a thousand bullets into one, get the bone to start sticking out from the skin, and you could see up close how the tendrils of nerves and blood vessels rebound themselves to keep the body alive and fighting. There was no wounding these monsters. Just killing them."/>
 	<entry name="FiringPointsFlavor" value="When you're trapped in a tight box taking heavy fire, it feels good to hit back—just as long as you're doing it behind proper cover. Our techs worked hard to make sure firing points in our bunkers wouldn't compromise their integrity. It wouldn't do much good to let our soldiers fight like hell if it would bring the roof down on them…"/>
+	<entry name="FixedAccuracyFlavor" value="Some weapons didn't aim so much as arrive at an answer. You could shout coordinates, feed them targeting data, or pray over the console. None of it mattered. Once the release was authorized, the payload followed its own cold certainty."/>
 	<entry name="FlyingFlavor" value="Getting skybound put you in the polluted air, but it let you traverse the bleak seas and jagged cliffs that defined the cracked Earth. The view was probably better before our planet became a poisoned nightmare."/>
 	<entry name="FoodUpgradeFlavor" value="Some Techs who deserved a hell of a pay bump developed a chemical solution that would clean up fertilizer from the water. That made the area around our greenhouses some of the most unpolluted places on the surface. Schools of fish would gather in these spots, eager for fresh conditions—and giving us some desperately-needed food supplies to keep our people fed."/>
 	<entry name="FormIsFunctionFlavor" value="The Deva's followers were the only tech-loving group that didn't trade away their humanity when they hooked themselves up to machines. Meant you needed a bit of extra power to keep the lights on… but his workers were happier. Eager. Believed in a cause the Deva himself couldn't see."/>

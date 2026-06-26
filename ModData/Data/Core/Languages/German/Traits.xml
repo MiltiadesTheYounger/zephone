@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="Direktiv-Abweichung"/>
 	<entry name="DiscarnateFramework" value="Entkörpertes Rahmenwerk"/>
 	<entry name="Disputation" value="Streitgespräch"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="Feste Genauigkeit"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> Genauigkeit kann nicht verändert werden"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="Fliegen"/>
@@ -893,6 +896,7 @@
 	<entry name="DeviantProliferationFlavor" value="Lustig, welchen Unterschied ein einziges Extra-Odai machen kann. Noch eine lebende Bombe, die dir den Arm abreißen kann. Noch ein Schwamm, der deine Kugeln aufsaugt. Noch eine Seele, die aus der lebenden Hölle befreit wird."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="Ein Auserwählter von Uzhodai hielt eine Predigt vor einer Einrichtung der Versiegelten Eremitage. Ranken der Blutung schlängelten sich das Gebäude hinauf und das Klagen der gefangenen Kultisten verwandelten sich in ekstatische Schreie. Die Macht der Blutung band sie an ihren vermeintlichen Gott – und immer mehr Echos drangen aus den schreienden Seelen im Inneren."/>
 	<entry name="DimensionalReverberationsFlavor" value="Widerhallende Orolos waren so sehr mit der Stimme verbunden, dass sie von allem, was sie töteten, ein Dimensionsecho extrahieren konnten. Warum? Wie? Zu spät im Krieg ... zu viel in meinem Kopf, um es noch zu erklären. Ich habe unsere Truppen gewarnt. Sollten sie durch ihre Hand sterben, würden ihre Seelen herausgerissen und an die Kriegsmaschine verfüttert werden."/>
+	<entry name="DirectiveDevianceFlavor" value="Eine Waffe, die nicht abgefeuert werden kann, ist totes Gewicht. Der Soldat, der sie trägt, lernt bald dieselbe Lektion."/>
 	<entry name="DiscarnateFrameworkFlavor" value="Ich warnte den alten Mann. Zwei Jaeger vor seiner Schützenlinien aufzustellen, würde gegen ein Rudel Schleicher nichts bringen. Sein Kind war da hinten. Ich genoss es nicht, recht zu behalten. Die Schleicher nutzten die Bäume als Deckung. Schwebten an den wandelnden Titanen und ihren Teenagerpiloten vorbei. Zerschnitten die Schützen – und sein Kind – zu Fetzen."/>
 	<entry name="DisputationFlavor" value="Religiöse Truppen erzählten Geschichten über geistliche Führer, die Kinder auspeitschten, wenn sie auch nur einen Funken Frechheit zeigten. Bei den Pröpsten war es genauso. Wenn man sie schlägt, nehmen sie es PERSÖNLICH. Ihre Gliedmaßen schlugen aus wie eine Peitsche, nur um denjenigen zu verletzen, der ihnen am nächsten war und um ein Gefühl der Kontrolle zu erlangen."/>
 	<entry name="DozerBladeFlavor" value="Wir haben Räumschilde von alten Baufahrzeugen abmontiert, damit unsere schwere Panzerung das Gelände räumen konnte. Hätten wir sie nicht verwendet, hätten wir unzählige Truppen in dichten Wäldern und verworrenen Ruinen verloren. Ich glaube, einige Soldaten zogen die Räumung des Geländes dem offenen Kampf vor."/>
@@ -910,6 +914,7 @@
 	<entry name="ExtraPlatingFlavor" value="Wir haben unsere mobilen Panzer nicht mit hochwertiger Panzerung ausgestattet, um unsere Leute sicher nach Hause zu bringen. Wir taten es, um ihnen wichtige Sekunden zu verschaffen, sodass sie noch einen Schuss abgeben und die Schlacht für uns entscheiden konnten."/>
 	<entry name="FerventStrengthFlavor" value="Die Körper von Uzhodais fanatischsten Verehrern wurden für lange Reisen in der Dunkelheit des Weltraums geformt. Was hatte das zu bedeuten? Wenn man tausend Kugeln in einen Körper schießt, ragen die Knochen aus der Haut und man kann aus nächster Nähe sehen, wie sich die Nervenstränge und Blutgefäße aufrichten, um den Körper am Leben zu erhalten und zu kämpfen. Diese Monster konnte man nicht verwunden. Man konnte sie nur töten."/>
 	<entry name="FiringPointsFlavor" value="Wenn man in die Enge getrieben wurde unter schwerem Beschuss steht, ist es ein gutes Gefühl, zurückzuschlagen – vorausgesetzt, man befindet sich dabei hinter einer guten Deckung. Unsere Techniker haben hart gearbeitet, um sicherzustellen, dass die Schießstellungen in unseren Bunkern ihre Integrität nicht gefährden. Es würde nichts bringen, unsere Soldaten wie wild kämpfen zu lassen, wenn dadurch das Dach über ihnen zusammenbricht …"/>
+	<entry name="FixedAccuracyFlavor" value="Manche Waffen zielten nicht so sehr, wie sie zu einer Antwort gelangten. Man konnte Koordinaten schreien, ihnen Zieldaten einprogrammieren oder die Konsole anbeten. Nichts davon spielte eine Rolle. Sobald die Freigabe erteilt worden war, folgte der Sprengkopf seiner eigenen kalten Gewissheit."/>
 	<entry name="FlyingFlavor" value="Wenn man sich in den Himmel erhebt, bewegt man sich durch verschmutzte Luft, aber man kann die düsteren Meere und zerklüfteten Klippen überqueren, die die rissige Erde ausmachen. Die Aussicht war wahrscheinlich besser, bevor unser Planet zu einem vergifteten Albtraum wurde."/>
 	<entry name="FoodUpgradeFlavor" value="Einige Techniker, die eine satte Gehaltserhöhung verdient hatten, entwickelten eine chemische Lösung, mit der Dünger aus dem Wasser entfernt werden konnte. Dadurch wurde das Gebiet um unsere Gewächshäuser zu einem der am wenigsten verschmutzten Orte an der Wasseroberfläche. Schwärme von Fischen versammelten sich an diesen Stellen, begierig auf frische Bedingungen – und versorgten uns mit dringend benötigten Nahrungsmitteln, um unsere Leute zu ernähren."/>
 	<entry name="FormIsFunctionFlavor" value="Devas Anhänger waren die einzige Technik-liebende Gruppe, die ihre Menschlichkeit nicht einbüßte, als sie sich mit Maschinen verdrahteten. Bedeutete, dass man ein bisschen extra Strom brauchte, um das Licht brennen zu lassen... aber seine Arbeiter waren glücklicher. Eifrig. Glaubten an eine Sache, die Deva selbst nicht sehen konnte."/>

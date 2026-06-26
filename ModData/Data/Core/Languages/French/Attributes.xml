@@ -63,6 +63,9 @@
 	<entry name="CanEnemyOverwatch" value="attaques en surveillance quand cette unité est ciblée"/>
 	<entry name="CanEnemyOverwatch-" value="Empêche"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanFly" value="voler"/>
+	<entry name="CanFly+" value="Peut"/>
+	<entry name="CanFly-" value="Ne peut pas"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="soin passif sans points de déplacement au max"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Peut"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Ne peut pas"/>

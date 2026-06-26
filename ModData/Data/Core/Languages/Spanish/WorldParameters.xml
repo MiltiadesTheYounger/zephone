@@ -7,6 +7,13 @@
 	<entry name="AbkhanDreyDensity3" value="Media"/>
 	<entry name="AbkhanDreyDensity4" value="Alta"/>
 	<entry name="AbkhanDreyDensity5" value="Muy alta"/>
+	<entry name="AcrinCrashSiteDensity" value="Densidad de lugares de accidente acrin"/>
+	<entry name="AcrinCrashSiteDensity0" value="Ninguno"/>
+	<entry name="AcrinCrashSiteDensity1" value="Muy bajo"/>
+	<entry name="AcrinCrashSiteDensity2" value="Bajo"/>
+	<entry name="AcrinCrashSiteDensity3" value="Medio"/>
+	<entry name="AcrinCrashSiteDensity4" value="Alto"/>
+	<entry name="AcrinCrashSiteDensity5" value="Muy alto"/>
 	<entry name="AIControlDisconnectedPlayers" value="Jugadores controlados por IA desconectados"/>
 	<entry name="AIControlDisconnectedPlayersHint" value="Permitir que la IA sustituya a personajes desconectados.<br/><br/>Solo disponible si se desactiva Hombre de hierro."/>
 	<entry name="AdaptiveTurnTimer" value="Temporizador de turno adaptativo"/>
@@ -32,6 +39,13 @@
 	<entry name="ArcticRegionDensity3" value="Medio"/>
 	<entry name="ArcticRegionDensity4" value="Alto"/>
 	<entry name="ArcticRegionDensity5" value="Muy alto"/>	
+	<entry name="AtmosphericAnchorDensity" value="Densidad de anclas atmosféricas"/>
+	<entry name="AtmosphericAnchorDensity0" value="Ninguna"/>
+	<entry name="AtmosphericAnchorDensity1" value="Muy baja"/>
+	<entry name="AtmosphericAnchorDensity2" value="Baja"/>
+	<entry name="AtmosphericAnchorDensity3" value="Media"/>
+	<entry name="AtmosphericAnchorDensity4" value="Alta"/>
+	<entry name="AtmosphericAnchorDensity5" value="Muy alta"/>
 	<entry name="AutoDisableSimultaneousTurns" value="Desactivar automáticamente turnos simultáneos"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="Desactiva automáticamente los turnos simultáneos cuando hay unidades enemigas que no sean de la IA a 5 casillas o menos entre sí."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Evitar facciones aleatorias duplicadas"/>
@@ -78,6 +92,13 @@
 	<entry name="ConstructRegionDensity3" value="Medio"/>
 	<entry name="ConstructRegionDensity4" value="Alto"/>
 	<entry name="ConstructRegionDensity5" value="Muy alto"/>
+	<entry name="CrystalBasinDensity" value="Densidad de cuencas de cristal"/>
+	<entry name="CrystalBasinDensity0" value="Ninguna"/>
+	<entry name="CrystalBasinDensity1" value="Muy baja"/>
+	<entry name="CrystalBasinDensity2" value="Baja"/>
+	<entry name="CrystalBasinDensity3" value="Media"/>
+	<entry name="CrystalBasinDensity4" value="Alta"/>
+	<entry name="CrystalBasinDensity5" value="Muy alta"/>
 	<entry name="DLC1" value="DLC The Twisted & The Hollow"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="DLC The Platinum & The Infinite"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC3" value="The Syncretic & The Imperious DLC"/> <!-- DLC name. Do not translate. -->
@@ -119,6 +140,13 @@
 	<entry name="DustStormDensity3" value="Media"/>
 	<entry name="DustStormDensity4" value="Alta"/>
 	<entry name="DustStormDensity5" value="Muy alta"/>
+	<entry name="ErebusExcavatorDensity" value="Densidad de excavadoras Erebus"/>
+	<entry name="ErebusExcavatorDensity0" value="Ninguna"/>
+	<entry name="ErebusExcavatorDensity1" value="Muy baja"/>
+	<entry name="ErebusExcavatorDensity2" value="Baja"/>
+	<entry name="ErebusExcavatorDensity3" value="Media"/>
+	<entry name="ErebusExcavatorDensity4" value="Alta"/>
+	<entry name="ErebusExcavatorDensity5" value="Muy alta"/>
 	<entry name="EscalationPace" value="Ritmo de intensificación"/>
 	<entry name="EscalationPaceHint" value="Ajusta la rapidez con que se intensifican las hostilidades hacia el final del juego (si lo hacen)."/>
 	<entry name="EscalationPace0" value="Ninguna"/>
@@ -145,6 +173,13 @@
 	<entry name="TradeGain1Hint" value="La ganancia comercial se aplica solo cuando una de las partes es una facción NPC. Otros jugadores no ganan del comercio mutuo."/>
 	<entry name="TradeGain2" value="Estándar"/>
 	<entry name="TradeGain2Hint" value="La ganancia comercial se aplica entre todos los líderes que tienen un acuerdo comercial o alianza."/>
+	<entry name="FleshTreeDensity" value="Densidad de árboles de carne"/>
+	<entry name="FleshTreeDensity0" value="Ninguno"/>
+	<entry name="FleshTreeDensity1" value="Muy bajo"/>
+	<entry name="FleshTreeDensity2" value="Bajo"/>
+	<entry name="FleshTreeDensity3" value="Medio"/>
+	<entry name="FleshTreeDensity4" value="Alto"/>
+	<entry name="FleshTreeDensity5" value="Muy alto"/>
 	<entry name="ForestDensity" value="Densidad de bosques"/>
 	<entry name="ForestDensity0" value="Ninguno"/>
 	<entry name="ForestDensity1" value="Muy bajo"/>
@@ -176,6 +211,20 @@
 	<entry name="Growth2" value="Medio"/>
 	<entry name="Growth3" value="Alto"/>
 	<entry name="Growth4" value="Muy alto"/>
+	<entry name="HydroponicFarmDensity" value="Densidad de granjas hidropónicas"/>
+	<entry name="HydroponicFarmDensity0" value="Ninguna"/>
+	<entry name="HydroponicFarmDensity1" value="Muy baja"/>
+	<entry name="HydroponicFarmDensity2" value="Baja"/>
+	<entry name="HydroponicFarmDensity3" value="Media"/>
+	<entry name="HydroponicFarmDensity4" value="Alta"/>
+	<entry name="HydroponicFarmDensity5" value="Muy alta"/>
+	<entry name="IkonOfVorodaiDensity" value="Densidad de ikono de Vorodai"/>
+	<entry name="IkonOfVorodaiDensity0" value="Ninguno"/>
+	<entry name="IkonOfVorodaiDensity1" value="Muy bajo"/>
+	<entry name="IkonOfVorodaiDensity2" value="Bajo"/>
+	<entry name="IkonOfVorodaiDensity3" value="Medio"/>
+	<entry name="IkonOfVorodaiDensity4" value="Alto"/>
+	<entry name="IkonOfVorodaiDensity5" value="Muy alto"/>
 	<entry name="Ironman" value="Hombre de hierro"/>
 	<entry name="IronmanHint" value="Limita el control del jugador sobre su archivo de guardado, eliminando la posibilidad de corregir errores y cambiar las decisiones tomadas durante la partida.<br/><br/>Algunos errores solo se pueden desbloquear con el modo Hombre de hierro activado."/>
 	<entry name="LandMass" value="Masa terrestre"/>
@@ -198,6 +247,13 @@
 	<entry name="MaximumTechnologyTier8" value="8"/>
 	<entry name="MaximumTechnologyTier9" value="9"/>
 	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="MicrochipFabricatorDensity" value="Densidad de fábricas de microchips"/>
+	<entry name="MicrochipFabricatorDensity0" value="Ninguna"/>
+	<entry name="MicrochipFabricatorDensity1" value="Muy baja"/>
+	<entry name="MicrochipFabricatorDensity2" value="Baja"/>
+	<entry name="MicrochipFabricatorDensity3" value="Media"/>
+	<entry name="MicrochipFabricatorDensity4" value="Alta"/>
+	<entry name="MicrochipFabricatorDensity5" value="Muy alta"/>
 	<entry name="Mutators/AreYouTheGreatSpeaker" value="<string name='Settings/Achievements/AreYouTheGreatSpeaker'/>"/>
 	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Duplica los efectos de la lealtad."/>
 	<entry name="Mutators/CanLoveBeMoral" value="<string name='Settings/Achievements/CanLoveBeMoral'/>"/>
@@ -255,6 +311,13 @@
 	<entry name="Pace2" value="Normal"/>
 	<entry name="Pace3" value="Rápida"/>
 	<entry name="Pace4" value="Muy rápida"/>
+	<entry name="PhaseGeneratorDensity" value="Densidad de generadores de fase"/>
+	<entry name="PhaseGeneratorDensity0" value="Ninguno"/>
+	<entry name="PhaseGeneratorDensity1" value="Muy bajo"/>
+	<entry name="PhaseGeneratorDensity2" value="Bajo"/>
+	<entry name="PhaseGeneratorDensity3" value="Medio"/>
+	<entry name="PhaseGeneratorDensity4" value="Alto"/>
+	<entry name="PhaseGeneratorDensity5" value="Muy alto"/>
 	<entry name="AIAggressiveness" value="Agresividad de la IA"/>
 	<entry name="AIAggressivenessHint" value="Ajusta la disposición de los jugadores con IA a mantener la paz."/>
 	<entry name="AIAggressiveness0" value="Ninguna"/>
@@ -273,6 +336,20 @@
 	<entry name="QuestPace5" value="Muy rápido"/>
 	<entry name="Random" value="Aleatorio"/>
 	<entry name="RandomHint" value="Se seleccionará una opción aleatoria cuando comience la partida."/>
+	<entry name="ReaverDepotDensity" value="Densidad de depósitos de asediadores"/>
+	<entry name="ReaverDepotDensity0" value="Ninguno"/>
+	<entry name="ReaverDepotDensity1" value="Muy bajo"/>
+	<entry name="ReaverDepotDensity2" value="Bajo"/>
+	<entry name="ReaverDepotDensity3" value="Medio"/>
+	<entry name="ReaverDepotDensity4" value="Alto"/>
+	<entry name="ReaverDepotDensity5" value="Muy alto"/>
+	<entry name="RecyclingTanksDensity" value="Densidad de depósitos de reciclaje"/>
+	<entry name="RecyclingTanksDensity0" value="Ninguno"/>
+	<entry name="RecyclingTanksDensity1" value="Muy bajo"/>
+	<entry name="RecyclingTanksDensity2" value="Bajo"/>
+	<entry name="RecyclingTanksDensity3" value="Medio"/>
+	<entry name="RecyclingTanksDensity4" value="Alto"/>
+	<entry name="RecyclingTanksDensity5" value="Muy alto"/>
 	<entry name="RegionDensity" value="Densidad de regiones"/>
 	<entry name="RegionDensity0" value="Ninguno"/>
 	<entry name="RegionDensity1" value="Muy bajo"/>
@@ -371,6 +448,13 @@
 	<entry name="StartingResource2" value="Medio"/>
 	<entry name="StartingResource3" value="Alto"/>
 	<entry name="StartingResource4" value="Muy alto"/>
+	<entry name="SurvivorsBazaarDensity" value="Densidad de bazar del superviviente"/>
+	<entry name="SurvivorsBazaarDensity0" value="Ninguno"/>
+	<entry name="SurvivorsBazaarDensity1" value="Muy bajo"/>
+	<entry name="SurvivorsBazaarDensity2" value="Bajo"/>
+	<entry name="SurvivorsBazaarDensity3" value="Medio"/>
+	<entry name="SurvivorsBazaarDensity4" value="Alto"/>
+	<entry name="SurvivorsBazaarDensity5" value="Muy alto"/>
 	<entry name="SwampRegionDensity" value="Densidad de regiones de pantano"/>
 	<entry name="SwampRegionDensity0" value="Ninguno"/>
 	<entry name="SwampRegionDensity1" value="Muy bajo"/>
@@ -378,6 +462,13 @@
 	<entry name="SwampRegionDensity3" value="Medio"/>
 	<entry name="SwampRegionDensity4" value="Alto"/>
 	<entry name="SwampRegionDensity5" value="Muy alto"/>	
+	<entry name="TempleOfCrlaDensity" value="Densidad de templos de Cr'la"/>
+	<entry name="TempleOfCrlaDensity0" value="Ninguno"/>
+	<entry name="TempleOfCrlaDensity1" value="Muy bajo"/>
+	<entry name="TempleOfCrlaDensity2" value="Bajo"/>
+	<entry name="TempleOfCrlaDensity3" value="Medio"/>
+	<entry name="TempleOfCrlaDensity4" value="Alto"/>
+	<entry name="TempleOfCrlaDensity5" value="Muy alto"/>
 	<entry name="TurnTimer" value="Temporizador de turno"/>
 	<entry name="TurnTimer0" value="Ninguno"/>
 	<entry name="TurnTimer1" value="Muy breve (1 minuto)"/>
@@ -418,6 +509,13 @@
 	<entry name="WastelandRegionDensity3" value="Medio"/>
 	<entry name="WastelandRegionDensity4" value="Alto"/>
 	<entry name="WastelandRegionDensity5" value="Muy alto"/>
+	<entry name="WatchtowerDensity" value="Densidad de atalayas"/>
+	<entry name="WatchtowerDensity0" value="Ninguna"/>
+	<entry name="WatchtowerDensity1" value="Muy baja"/>
+	<entry name="WatchtowerDensity2" value="Baja"/>
+	<entry name="WatchtowerDensity3" value="Media"/>
+	<entry name="WatchtowerDensity4" value="Alta"/>
+	<entry name="WatchtowerDensity5" value="Muy alta"/>
 	<entry name="WhisperingWightsDensity" value="Densidad de criaturas susurrantes"/>
 	<entry name="WhisperingWightsDensity0" value="Ninguna"/>
 	<entry name="WhisperingWightsDensity1" value="Muy baja"/>

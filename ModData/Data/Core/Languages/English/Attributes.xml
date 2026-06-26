@@ -63,6 +63,9 @@
 	<entry name="CanEnemyOverwatch" value="overwatch attacks from targeting this unit"/>
 	<entry name="CanEnemyOverwatch-" value="Prevents"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanFly" value="fly"/>
+	<entry name="CanFly+" value="Can"/>
+	<entry name="CanFly-" value="Cannot"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="heal passively without full movement points"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Can"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Cannot"/>

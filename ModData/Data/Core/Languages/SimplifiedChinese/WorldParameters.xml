@@ -7,6 +7,13 @@
 	<entry name="AbkhanDreyDensity3" value="普通"/>
 	<entry name="AbkhanDreyDensity4" value="高"/>
 	<entry name="AbkhanDreyDensity5" value="极高"/>
+	<entry name="AcrinCrashSiteDensity" value="Acrin坠毁地点密度"/>
+	<entry name="AcrinCrashSiteDensity0" value="无"/>
+	<entry name="AcrinCrashSiteDensity1" value="极低"/>
+	<entry name="AcrinCrashSiteDensity2" value="低"/>
+	<entry name="AcrinCrashSiteDensity3" value="中"/>
+	<entry name="AcrinCrashSiteDensity4" value="高"/>
+	<entry name="AcrinCrashSiteDensity5" value="极高"/>
 	<entry name="AIControlDisconnectedPlayers" value="AI接管断开连接的玩家"/>
 	<entry name="AIControlDisconnectedPlayersHint" value="允许AI接管断开连接的玩家。<br/><br/>仅在关闭铁人模式时生效。"/>
 	<entry name="AdaptiveTurnTimer" value="自动调整回合倒计时时长"/>
@@ -32,6 +39,13 @@
 	<entry name="ArcticRegionDensity3" value="中"/>
 	<entry name="ArcticRegionDensity4" value="高"/>
 	<entry name="ArcticRegionDensity5" value="极高"/>	
+	<entry name="AtmosphericAnchorDensity" value="大气锚点密度"/>
+	<entry name="AtmosphericAnchorDensity0" value="无"/>
+	<entry name="AtmosphericAnchorDensity1" value="极低"/>
+	<entry name="AtmosphericAnchorDensity2" value="低"/>
+	<entry name="AtmosphericAnchorDensity3" value="中"/>
+	<entry name="AtmosphericAnchorDensity4" value="高"/>
+	<entry name="AtmosphericAnchorDensity5" value="极高"/>
 	<entry name="AutoDisableSimultaneousTurns" value="自动禁用同步回合"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="当非AI敌方单位之间相距5个地块以内时自动禁用同步回合。"/>
 	<entry name="AvoidDuplicateRandomFactions" value="避免重复的随机阵营"/>
@@ -78,6 +92,13 @@
 	<entry name="ConstructRegionDensity3" value="中"/>
 	<entry name="ConstructRegionDensity4" value="高"/>
 	<entry name="ConstructRegionDensity5" value="极高"/>
+	<entry name="CrystalBasinDensity" value="水晶盆地密度"/>
+	<entry name="CrystalBasinDensity0" value="无"/>
+	<entry name="CrystalBasinDensity1" value="极低"/>
+	<entry name="CrystalBasinDensity2" value="低"/>
+	<entry name="CrystalBasinDensity3" value="中"/>
+	<entry name="CrystalBasinDensity4" value="高"/>
+	<entry name="CrystalBasinDensity5" value="极高"/>
 	<entry name="DLC1" value="《The Twisted & The Hollow》DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="《The Platinum & The Infinite》DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC3" value="《The Syncretic & The Imperious》DLC"/> <!-- DLC name. Do not translate. -->
@@ -119,6 +140,13 @@
 	<entry name="DustStormDensity3" value="普通"/>
 	<entry name="DustStormDensity4" value="高"/>
 	<entry name="DustStormDensity5" value="极高"/>
+	<entry name="ErebusExcavatorDensity" value="Erebus挖掘机密度"/>
+	<entry name="ErebusExcavatorDensity0" value="无"/>
+	<entry name="ErebusExcavatorDensity1" value="极低"/>
+	<entry name="ErebusExcavatorDensity2" value="低"/>
+	<entry name="ErebusExcavatorDensity3" value="中"/>
+	<entry name="ErebusExcavatorDensity4" value="高"/>
+	<entry name="ErebusExcavatorDensity5" value="极高"/>
 	<entry name="EscalationPace" value="终局激化速度"/>
 	<entry name="EscalationPaceHint" value="决定在游戏后期是否会迎来一场终极大战，或者是向终极大战推进的速度。"/>
 	<entry name="EscalationPace0" value="无"/>
@@ -145,6 +173,13 @@
 	<entry name="TradeGain1Hint" value="只有当一方是NPC阵营时，贸易收益才适用。其他玩家不会从彼此的贸易中获益。"/>
 	<entry name="TradeGain2" value="标准"/>
 	<entry name="TradeGain2Hint" value="贸易收益适用于拥有贸易协定或同盟关系的所有领袖之间。"/>
+	<entry name="FleshTreeDensity" value="血肉树密度"/>
+	<entry name="FleshTreeDensity0" value="无"/>
+	<entry name="FleshTreeDensity1" value="极低"/>
+	<entry name="FleshTreeDensity2" value="低"/>
+	<entry name="FleshTreeDensity3" value="中"/>
+	<entry name="FleshTreeDensity4" value="高"/>
+	<entry name="FleshTreeDensity5" value="极高"/>
 	<entry name="ForestDensity" value="森林密度"/>
 	<entry name="ForestDensity0" value="无"/>
 	<entry name="ForestDensity1" value="极低"/>
@@ -176,6 +211,20 @@
 	<entry name="Growth2" value="中"/>
 	<entry name="Growth3" value="高"/>
 	<entry name="Growth4" value="极高"/>
+	<entry name="HydroponicFarmDensity" value="水培农场密度"/>
+	<entry name="HydroponicFarmDensity0" value="无"/>
+	<entry name="HydroponicFarmDensity1" value="极低"/>
+	<entry name="HydroponicFarmDensity2" value="低"/>
+	<entry name="HydroponicFarmDensity3" value="中"/>
+	<entry name="HydroponicFarmDensity4" value="高"/>
+	<entry name="HydroponicFarmDensity5" value="极高"/>
+	<entry name="IkonOfVorodaiDensity" value="Vorodai圣像密度"/>
+	<entry name="IkonOfVorodaiDensity0" value="无"/>
+	<entry name="IkonOfVorodaiDensity1" value="极低"/>
+	<entry name="IkonOfVorodaiDensity2" value="低"/>
+	<entry name="IkonOfVorodaiDensity3" value="中"/>
+	<entry name="IkonOfVorodaiDensity4" value="高"/>
+	<entry name="IkonOfVorodaiDensity5" value="极高"/>
 	<entry name="Ironman" value="铁人模式"/>
 	<entry name="IronmanHint" value="限制玩家的存档操作，铁人模式意味着玩家在游玩期间无法通过读取存档来纠正错误或改变自己的决定。<br/><br/>部分成就仅在开启铁人模式的情况下才能解锁。"/>
 	<entry name="LandMass" value="陆地面积"/>
@@ -198,6 +247,13 @@
 	<entry name="MaximumTechnologyTier8" value="8"/>
 	<entry name="MaximumTechnologyTier9" value="9"/>
 	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="MicrochipFabricatorDensity" value="微芯片制造厂密度"/>
+	<entry name="MicrochipFabricatorDensity0" value="无"/>
+	<entry name="MicrochipFabricatorDensity1" value="极低"/>
+	<entry name="MicrochipFabricatorDensity2" value="低"/>
+	<entry name="MicrochipFabricatorDensity3" value="中"/>
+	<entry name="MicrochipFabricatorDensity4" value="高"/>
+	<entry name="MicrochipFabricatorDensity5" value="极高"/>
 	<entry name="Mutators/AreYouTheGreatSpeaker" value="<string name='Settings/Achievements/AreYouTheGreatSpeaker'/>"/>
 	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="双倍忠诚度效果。"/>
 	<entry name="Mutators/CanLoveBeMoral" value="<string name='Settings/Achievements/CanLoveBeMoral'/>"/>
@@ -255,6 +311,13 @@
 	<entry name="Pace2" value="标准"/>
 	<entry name="Pace3" value="快速"/>
 	<entry name="Pace4" value="极快"/>
+	<entry name="PhaseGeneratorDensity" value="相位发生器密度"/>
+	<entry name="PhaseGeneratorDensity0" value="无"/>
+	<entry name="PhaseGeneratorDensity1" value="极低"/>
+	<entry name="PhaseGeneratorDensity2" value="低"/>
+	<entry name="PhaseGeneratorDensity3" value="中"/>
+	<entry name="PhaseGeneratorDensity4" value="高"/>
+	<entry name="PhaseGeneratorDensity5" value="极高"/>
 	<entry name="AIAggressiveness" value="AI侵略性"/>
 	<entry name="AIAggressivenessHint" value="调整AI玩家维持和平的意愿。"/>
 	<entry name="AIAggressiveness0" value="无"/>
@@ -273,6 +336,20 @@
 	<entry name="QuestPace5" value="极快"/>
 	<entry name="Random" value="随机"/>
 	<entry name="RandomHint" value="游戏开始时将随机选择一个选项。"/>
+	<entry name="ReaverDepotDensity" value="掠夺者仓库密度"/>
+	<entry name="ReaverDepotDensity0" value="无"/>
+	<entry name="ReaverDepotDensity1" value="极低"/>
+	<entry name="ReaverDepotDensity2" value="低"/>
+	<entry name="ReaverDepotDensity3" value="中"/>
+	<entry name="ReaverDepotDensity4" value="高"/>
+	<entry name="ReaverDepotDensity5" value="极高"/>
+	<entry name="RecyclingTanksDensity" value="回收槽密度"/>
+	<entry name="RecyclingTanksDensity0" value="无"/>
+	<entry name="RecyclingTanksDensity1" value="极低"/>
+	<entry name="RecyclingTanksDensity2" value="低"/>
+	<entry name="RecyclingTanksDensity3" value="中"/>
+	<entry name="RecyclingTanksDensity4" value="高"/>
+	<entry name="RecyclingTanksDensity5" value="极高"/>
 	<entry name="RegionDensity" value="地区密度"/>
 	<entry name="RegionDensity0" value="无"/>
 	<entry name="RegionDensity1" value="极低"/>
@@ -371,6 +448,13 @@
 	<entry name="StartingResource2" value="中"/>
 	<entry name="StartingResource3" value="高"/>
 	<entry name="StartingResource4" value="极高"/>
+	<entry name="SurvivorsBazaarDensity" value="幸存者集市密度"/>
+	<entry name="SurvivorsBazaarDensity0" value="无"/>
+	<entry name="SurvivorsBazaarDensity1" value="极低"/>
+	<entry name="SurvivorsBazaarDensity2" value="低"/>
+	<entry name="SurvivorsBazaarDensity3" value="中"/>
+	<entry name="SurvivorsBazaarDensity4" value="高"/>
+	<entry name="SurvivorsBazaarDensity5" value="极高"/>
 	<entry name="SwampRegionDensity" value="沼泽地区密度"/>
 	<entry name="SwampRegionDensity0" value="无"/>
 	<entry name="SwampRegionDensity1" value="极低"/>
@@ -378,6 +462,13 @@
 	<entry name="SwampRegionDensity3" value="中"/>
 	<entry name="SwampRegionDensity4" value="高"/>
 	<entry name="SwampRegionDensity5" value="极高"/>	
+	<entry name="TempleOfCrlaDensity" value="Crla神庙密度"/>
+	<entry name="TempleOfCrlaDensity0" value="无"/>
+	<entry name="TempleOfCrlaDensity1" value="极低"/>
+	<entry name="TempleOfCrlaDensity2" value="低"/>
+	<entry name="TempleOfCrlaDensity3" value="中"/>
+	<entry name="TempleOfCrlaDensity4" value="高"/>
+	<entry name="TempleOfCrlaDensity5" value="极高"/>
 	<entry name="TurnTimer" value="回合倒计时"/>
 	<entry name="TurnTimer0" value="无"/>
 	<entry name="TurnTimer1" value="极短（1分钟）"/>
@@ -418,6 +509,13 @@
 	<entry name="WastelandRegionDensity3" value="中"/>
 	<entry name="WastelandRegionDensity4" value="高"/>
 	<entry name="WastelandRegionDensity5" value="极高"/>
+	<entry name="WatchtowerDensity" value="瞭望塔密度"/>
+	<entry name="WatchtowerDensity0" value="无"/>
+	<entry name="WatchtowerDensity1" value="极低"/>
+	<entry name="WatchtowerDensity2" value="低"/>
+	<entry name="WatchtowerDensity3" value="中"/>
+	<entry name="WatchtowerDensity4" value="高"/>
+	<entry name="WatchtowerDensity5" value="极高"/>
 	<entry name="WhisperingWightsDensity" value="低语亡魂密度"/>
 	<entry name="WhisperingWightsDensity0" value="无"/>
 	<entry name="WhisperingWightsDensity1" value="极低"/>

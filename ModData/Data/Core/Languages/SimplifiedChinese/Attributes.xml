@@ -63,6 +63,9 @@
 	<entry name="CanEnemyOverwatch" value="对该单位进行监视攻击"/>
 	<entry name="CanEnemyOverwatch-" value="阻止"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanFly" value="飞行"/>
+	<entry name="CanFly+" value="允许"/>
+	<entry name="CanFly-" value="不允许"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="未拥有完整移动点时能够被动治疗"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="允许"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="不允许"/>

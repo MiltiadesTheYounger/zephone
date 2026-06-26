@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
+	<entry name="DirectiveDeviance" value="指令偏差"/>
 	<entry name="DiscarnateFramework" value="非化身框架"/>
 	<entry name="Disputation" value="扰乱"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
 	<entry name="FirstAidDrone" value="<string name='Actions/FirstAidDrone'/>"/>
 	<entry name="FirstAidDroneFlavor" value="<string name='Actions/FirstAidDroneFlavor'/>"/>
+	<entry name="FixedAccuracy" value="固定精准度"/>
+	<entry name="FixedAccuracyProperties" value="<icon texture='GUI/Bullet'/><string name='Attributes/AccuracyIcon'/> 精准度无法被修改"/>
 	<entry name="FleshTree" value="<string name='Features/FleshTree'/>"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Flying" value="飞行"/>
@@ -899,6 +902,7 @@
 	<entry name="DeviantProliferationFlavor" value="多出一个奥棘能造成多大的差别，这很有趣。多一个可以撤断你手臂的活体炸弹。多一块吸收子弹的海绵。多一个从行走的地狱中得到解脱的灵魂。"/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="一头乌佐达神选者在封闭禁室设施外进行了一次布道。无数的异血触须缠绕住了建筑的外层，被囚禁在其中的信徒们的哭嚎声也立刻变成了狂喜的尖叫。异血的力量将他们与自己信奉的神灵绑定在了一起……接着那些嚎叫不止的灵魂便带来了越来越多的回响。"/>
 	<entry name="DimensionalReverberationsFlavor" value="凭借与秘音之间的紧密联系，恸哭奥鲁罗斯能够从被自己杀死的事物中提取出位面回响。为什么？它们是怎么做到的？在愈演愈烈的战火中……我已经没有精力去思考或者是解释那些不可理喻的事情。我能做的就只是警告士兵们，如果被这种玩意干掉，他们的灵魂将会成为战争的燃料。"/>
+	<entry name="DirectiveDevianceFlavor" value="无法开火的武器不过是累赘。携带它的士兵很快便会得出相同的结论。"/>
 	<entry name="DiscarnateFrameworkFlavor" value="我警告过建筑孄。在他的第一线射手阵线前放两台猎户机甲，对抗一个潜行者群，简直无效。他的孩子就在后面。我没有业余高兴自己是对的。潜行者使用树木作掩护，绕过了巨型战祭与他们年轻的驾驶员。将第一线射手——和他孩子——切割成碎片。"/>
 	<entry name="DisputationFlavor" value="信教的士兵们经常会说，小时候自己一旦做了什么出格的坏事，他们当时的宗教领袖们就会拿起皮鞭把捣蛋的小孩狠抽一顿以儆效尤。而教长们也会采取同样的手段。要是有人敢对他们出手，这些家伙就会勃然大怒。他们的肢体会想强有力的鞭子一样狂抽猛打，只有通过伤害那些冒犯者才能够重新确定自己的统治地位。"/>
 	<entry name="DozerBladeFlavor" value="为了确保我们的重型装甲设备能够快速清理复杂地形，我们从过去的工程车上借来了大量的推土铲。多亏了这些势不可挡的设备，我们才没有在密不透风的森林或者是错综复杂的废墟之中损失大量士兵。而且说实话，比起枪林弹雨的战场，操作员们更喜欢与地形环境为敌。"/>
@@ -916,6 +920,7 @@
 	<entry name="ExtraPlatingFlavor" value="我们之所以在战车上安装厚实的装甲板，并不是为了确保里面的驾驶员们能够安全回家。我们之所以这么做，是为了让他们能够在战场上坚持更久，哪怕是短短几秒钟的时间，有时候几发出其不意的炮弹就足以扭转乾坤。"/>
 	<entry name="FerventStrengthFlavor" value="作为乌佐达最狂热的信徒，这些家伙的身体早已适应了在暗无边际的太空中进行的漫长旅行。你也许会问这是什么意思？很简单，就算你用子弹把他们打成马蜂窝，或者用锤子敲断他们的骨头，你会惊恐地发现，伤口暴露在外的各种神经触须与血管会迅速自我愈合，只为了确保它们的主人能够继续战斗下去。这些怪物根本不惧怕伤痛。因此你必须想方设法以最快速度把他们碎尸万段。"/>
 	<entry name="FiringPointsFlavor" value="当你在密不透风的防御工事里面承受着猛烈的炮火时，你会迫不及待地想要向敌人予以反击，前提是你一定得先拥有良好的掩体。技术团队花费了很多心血来确保碉堡中的射击口不会影响掩体的结构稳定性。谁也不希望看见自己的士兵在激烈的交火中因为建筑坍塌而被活埋……"/>
+	<entry name="FixedAccuracyFlavor" value="有些武器与其说是在瞄准，不如说是在自行推算答案。你可以大声喊出坐标，输入目标锁定数据，或者对着控制台祈祷。这一切都毫无意义。一旦发射命令下达，弹头便会循着自己冷酷的必然性而去。"/>
 	<entry name="FlyingFlavor" value="虽然我们头顶的天空中充斥着被污染的空气，但人们仍然可以通过飞行穿越死寂的汪洋与千疮百孔的悬崖峭壁。可惜我们的地球已经沦为了一个剧毒的噩梦之地，过去的震撼美景都已经不复存在。"/>
 	<entry name="FoodUpgradeFlavor" value="有几位技术人员成功开发出了一种能够净化水体中的残余肥料污染的化学药剂，说实话我们真的应该给他们加薪封官。这种新型的净化技术使得我们的温室成为了如今地表上最干净的区域之一。各种鱼类都会成群结队涌入久违的干净水源，这反过来也会我们带来了喂饱人民所需要的食物来源。"/>
 	<entry name="FormIsFunctionFlavor" value="神祏的信徒是唱涱战担者中唱一级唱激脊高特科技的群体中，还能保持人性的。意味着你需要额外的能源来维持运转，但他的工人更快乐。活跃。信仰一个神祏自己都没法看见的事业。"/>

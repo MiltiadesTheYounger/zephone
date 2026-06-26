@@ -7,6 +7,13 @@
 	<entry name="AbkhanDreyDensity3" value="보통"/>
 	<entry name="AbkhanDreyDensity4" value="높음"/>
 	<entry name="AbkhanDreyDensity5" value="매우 높음"/>
+	<entry name="AcrinCrashSiteDensity" value="아크린 추락지 밀도"/>
+	<entry name="AcrinCrashSiteDensity0" value="없음"/>
+	<entry name="AcrinCrashSiteDensity1" value="매우 낮음"/>
+	<entry name="AcrinCrashSiteDensity2" value="낮음"/>
+	<entry name="AcrinCrashSiteDensity3" value="보통"/>
+	<entry name="AcrinCrashSiteDensity4" value="높음"/>
+	<entry name="AcrinCrashSiteDensity5" value="매우 높음"/>
 	<entry name="AIControlDisconnectedPlayers" value="연결 끊긴 플레이어 AI 제어"/>
 	<entry name="AIControlDisconnectedPlayersHint" value="플레이어의 연결이 끊기면 AI가 대신 플레이하게 합니다.<br/><br/>철인 모드를 끈 상태에서만 사용할 수 있습니다."/>
 	<entry name="AdaptiveTurnTimer" value="적응형 턴 타이머"/>
@@ -32,6 +39,13 @@
 	<entry name="ArcticRegionDensity3" value="보통"/>
 	<entry name="ArcticRegionDensity4" value="높음"/>
 	<entry name="ArcticRegionDensity5" value="매우 높음"/>	
+	<entry name="AtmosphericAnchorDensity" value="대기의 앵커 밀도"/>
+	<entry name="AtmosphericAnchorDensity0" value="없음"/>
+	<entry name="AtmosphericAnchorDensity1" value="매우 낮음"/>
+	<entry name="AtmosphericAnchorDensity2" value="낮음"/>
+	<entry name="AtmosphericAnchorDensity3" value="보통"/>
+	<entry name="AtmosphericAnchorDensity4" value="높음"/>
+	<entry name="AtmosphericAnchorDensity5" value="매우 높음"/>
 	<entry name="AutoDisableSimultaneousTurns" value="동시 턴 자동 비활성화"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="AI 소유가 아닌 적 유닛이 서로 5칸 안에 들어서면 자동으로 동시 턴을 비활성화합니다."/>
 	<entry name="AvoidDuplicateRandomFactions" value="무작위 세력 중복 방지"/>
@@ -78,6 +92,13 @@
 	<entry name="ConstructRegionDensity3" value="보통"/>
 	<entry name="ConstructRegionDensity4" value="높음"/>
 	<entry name="ConstructRegionDensity5" value="매우 높음"/>
+	<entry name="CrystalBasinDensity" value="크리스탈 분지 밀도"/>
+	<entry name="CrystalBasinDensity0" value="없음"/>
+	<entry name="CrystalBasinDensity1" value="매우 낮음"/>
+	<entry name="CrystalBasinDensity2" value="낮음"/>
+	<entry name="CrystalBasinDensity3" value="보통"/>
+	<entry name="CrystalBasinDensity4" value="높음"/>
+	<entry name="CrystalBasinDensity5" value="매우 높음"/>
 	<entry name="DLC1" value="The Twisted & The Hollow DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="The Platinum & The Infinite DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC3" value="The Syncretic & The Imperious DLC"/> <!-- DLC name. Do not translate. -->
@@ -119,6 +140,13 @@
 	<entry name="DustStormDensity3" value="보통"/>
 	<entry name="DustStormDensity4" value="높음"/>
 	<entry name="DustStormDensity5" value="매우 높음"/>
+	<entry name="ErebusExcavatorDensity" value="에레부스 굴착기 밀도"/>
+	<entry name="ErebusExcavatorDensity0" value="없음"/>
+	<entry name="ErebusExcavatorDensity1" value="매우 낮음"/>
+	<entry name="ErebusExcavatorDensity2" value="낮음"/>
+	<entry name="ErebusExcavatorDensity3" value="보통"/>
+	<entry name="ErebusExcavatorDensity4" value="높음"/>
+	<entry name="ErebusExcavatorDensity5" value="매우 높음"/>
 	<entry name="EscalationPace" value="긴장 고조 속도"/>
 	<entry name="EscalationPaceHint" value="대단원을 향한 긴장 고조 속도와 고조 여부를 조정합니다."/>
 	<entry name="EscalationPace0" value="없음"/>
@@ -145,6 +173,13 @@
 	<entry name="TradeGain1Hint" value="무역 이득은 한쪽이 NPC 세력인 경우에만 적용됩니다. 다른 플레이어는 서로의 무역으로부터 이득을 얻지 못합니다."/>
 	<entry name="TradeGain2" value="표준"/>
 	<entry name="TradeGain2Hint" value="무역 이득은 무역 협정 또는 동맹이 있는 모든 지도자 간에 적용됩니다."/>
+	<entry name="FleshTreeDensity" value="살점 나무 밀도"/>
+	<entry name="FleshTreeDensity0" value="없음"/>
+	<entry name="FleshTreeDensity1" value="매우 낮음"/>
+	<entry name="FleshTreeDensity2" value="낮음"/>
+	<entry name="FleshTreeDensity3" value="보통"/>
+	<entry name="FleshTreeDensity4" value="높음"/>
+	<entry name="FleshTreeDensity5" value="매우 높음"/>
 	<entry name="ForestDensity" value="숲 밀도"/>
 	<entry name="ForestDensity0" value="없음"/>
 	<entry name="ForestDensity1" value="매우 낮음"/>
@@ -176,6 +211,20 @@
 	<entry name="Growth2" value="보통"/>
 	<entry name="Growth3" value="높음"/>
 	<entry name="Growth4" value="매우 높음"/>
+	<entry name="HydroponicFarmDensity" value="수경 농장 밀도"/>
+	<entry name="HydroponicFarmDensity0" value="없음"/>
+	<entry name="HydroponicFarmDensity1" value="매우 낮음"/>
+	<entry name="HydroponicFarmDensity2" value="낮음"/>
+	<entry name="HydroponicFarmDensity3" value="보통"/>
+	<entry name="HydroponicFarmDensity4" value="높음"/>
+	<entry name="HydroponicFarmDensity5" value="매우 높음"/>
+	<entry name="IkonOfVorodaiDensity" value="보로다이의 이콘 밀도"/>
+	<entry name="IkonOfVorodaiDensity0" value="없음"/>
+	<entry name="IkonOfVorodaiDensity1" value="매우 낮음"/>
+	<entry name="IkonOfVorodaiDensity2" value="낮음"/>
+	<entry name="IkonOfVorodaiDensity3" value="보통"/>
+	<entry name="IkonOfVorodaiDensity4" value="높음"/>
+	<entry name="IkonOfVorodaiDensity5" value="매우 높음"/>
 	<entry name="Ironman" value="철인"/>
 	<entry name="IronmanHint" value="플레이어의 저장 파일 제어 권한을 제한하여 플레이 도중 실수를 만회하거나 결정을 바꿀 수 없도록 합니다.<br/><br/>일부 업적은 철인 모드를 켜야만 잠금 해제할 수 있습니다."/>
 	<entry name="LandMass" value="육지 비율"/>
@@ -198,6 +247,13 @@
 	<entry name="MaximumTechnologyTier8" value="8"/>
 	<entry name="MaximumTechnologyTier9" value="9"/>
 	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="MicrochipFabricatorDensity" value="마이크로칩 제조기 밀도"/>
+	<entry name="MicrochipFabricatorDensity0" value="없음"/>
+	<entry name="MicrochipFabricatorDensity1" value="매우 낮음"/>
+	<entry name="MicrochipFabricatorDensity2" value="낮음"/>
+	<entry name="MicrochipFabricatorDensity3" value="보통"/>
+	<entry name="MicrochipFabricatorDensity4" value="높음"/>
+	<entry name="MicrochipFabricatorDensity5" value="매우 높음"/>
 	<entry name="Mutators/AreYouTheGreatSpeaker" value="<string name='Settings/Achievements/AreYouTheGreatSpeaker'/>"/>
 	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="충성도 효과가 두 배로 증가합니다."/>
 	<entry name="Mutators/CanLoveBeMoral" value="<string name='Settings/Achievements/CanLoveBeMoral'/>"/>
@@ -255,6 +311,13 @@
 	<entry name="Pace2" value="표준"/>
 	<entry name="Pace3" value="빠름"/>
 	<entry name="Pace4" value="매우 빠름"/>
+	<entry name="PhaseGeneratorDensity" value="위상 발전기 밀도"/>
+	<entry name="PhaseGeneratorDensity0" value="없음"/>
+	<entry name="PhaseGeneratorDensity1" value="매우 낮음"/>
+	<entry name="PhaseGeneratorDensity2" value="낮음"/>
+	<entry name="PhaseGeneratorDensity3" value="보통"/>
+	<entry name="PhaseGeneratorDensity4" value="높음"/>
+	<entry name="PhaseGeneratorDensity5" value="매우 높음"/>
 	<entry name="AIAggressiveness" value="AI 공격성"/>
 	<entry name="AIAggressivenessHint" value="AI 플레이어의 평화 유지 성향을 조정합니다."/>
 	<entry name="AIAggressiveness0" value="없음"/>
@@ -273,6 +336,20 @@
 	<entry name="QuestPace5" value="매우 빠름"/>
 	<entry name="Random" value="무작위"/>
 	<entry name="RandomHint" value="게임 시작 시 무작위로 옵션이 선택됩니다."/>
+	<entry name="ReaverDepotDensity" value="약탈단 보급소 밀도"/>
+	<entry name="ReaverDepotDensity0" value="없음"/>
+	<entry name="ReaverDepotDensity1" value="매우 낮음"/>
+	<entry name="ReaverDepotDensity2" value="낮음"/>
+	<entry name="ReaverDepotDensity3" value="보통"/>
+	<entry name="ReaverDepotDensity4" value="높음"/>
+	<entry name="ReaverDepotDensity5" value="매우 높음"/>
+	<entry name="RecyclingTanksDensity" value="재활용 탱크 밀도"/>
+	<entry name="RecyclingTanksDensity0" value="없음"/>
+	<entry name="RecyclingTanksDensity1" value="매우 낮음"/>
+	<entry name="RecyclingTanksDensity2" value="낮음"/>
+	<entry name="RecyclingTanksDensity3" value="보통"/>
+	<entry name="RecyclingTanksDensity4" value="높음"/>
+	<entry name="RecyclingTanksDensity5" value="매우 높음"/>
 	<entry name="RegionDensity" value="지역 밀도"/>
 	<entry name="RegionDensity0" value="없음"/>
 	<entry name="RegionDensity1" value="매우 낮음"/>
@@ -371,6 +448,13 @@
 	<entry name="StartingResource2" value="보통"/>
 	<entry name="StartingResource3" value="많음"/>
 	<entry name="StartingResource4" value="매우 많음"/>
+	<entry name="SurvivorsBazaarDensity" value="생존자의 시장 밀도"/>
+	<entry name="SurvivorsBazaarDensity0" value="없음"/>
+	<entry name="SurvivorsBazaarDensity1" value="매우 낮음"/>
+	<entry name="SurvivorsBazaarDensity2" value="낮음"/>
+	<entry name="SurvivorsBazaarDensity3" value="보통"/>
+	<entry name="SurvivorsBazaarDensity4" value="높음"/>
+	<entry name="SurvivorsBazaarDensity5" value="매우 높음"/>
 	<entry name="SwampRegionDensity" value="늪 지역 밀도"/>
 	<entry name="SwampRegionDensity0" value="없음"/>
 	<entry name="SwampRegionDensity1" value="매우 낮음"/>
@@ -378,6 +462,13 @@
 	<entry name="SwampRegionDensity3" value="보통"/>
 	<entry name="SwampRegionDensity4" value="높음"/>
 	<entry name="SwampRegionDensity5" value="매우 높음"/>	
+	<entry name="TempleOfCrlaDensity" value="크를라의 신전 밀도"/>
+	<entry name="TempleOfCrlaDensity0" value="없음"/>
+	<entry name="TempleOfCrlaDensity1" value="매우 낮음"/>
+	<entry name="TempleOfCrlaDensity2" value="낮음"/>
+	<entry name="TempleOfCrlaDensity3" value="보통"/>
+	<entry name="TempleOfCrlaDensity4" value="높음"/>
+	<entry name="TempleOfCrlaDensity5" value="매우 높음"/>
 	<entry name="TurnTimer" value="턴 타이머"/>
 	<entry name="TurnTimer0" value="없음"/>
 	<entry name="TurnTimer1" value="매우 짧음(1분)"/>
@@ -418,6 +509,13 @@
 	<entry name="WastelandRegionDensity3" value="보통"/>
 	<entry name="WastelandRegionDensity4" value="높음"/>
 	<entry name="WastelandRegionDensity5" value="매우 높음"/>
+	<entry name="WatchtowerDensity" value="망루 밀도"/>
+	<entry name="WatchtowerDensity0" value="없음"/>
+	<entry name="WatchtowerDensity1" value="매우 낮음"/>
+	<entry name="WatchtowerDensity2" value="낮음"/>
+	<entry name="WatchtowerDensity3" value="보통"/>
+	<entry name="WatchtowerDensity4" value="높음"/>
+	<entry name="WatchtowerDensity5" value="매우 높음"/>
 	<entry name="WhisperingWightsDensity" value="죽은 자의 속삭임 밀도"/>
 	<entry name="WhisperingWightsDensity0" value="없음"/>
 	<entry name="WhisperingWightsDensity1" value="매우 낮음"/>
