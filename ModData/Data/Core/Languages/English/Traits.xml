@@ -207,7 +207,6 @@
 	<entry name="DirectControl" value="<string name='Actions/DirectControl'/>"/>
 	<entry name="DirectControlFlavor" value="<string name='Actions/DirectControlFlavor'/>"/>
 	<entry name="DirectiveDeviance" value="Directive Deviance"/>
-	<entry name="DirectiveDevianceFlavor" value="<string name='Quests/BinaricChoice/HelpEradicatorsSuccess2'/>"/>
 	<entry name="DiscarnateFramework" value="Discarnate Framework"/>
 	<entry name="Disputation" value="Disputation"/>
 	<entry name="DistortedLens" value="<string name='Items/DistortedLens'/>"/>
@@ -339,6 +338,11 @@
 	<entry name="Hero" value="Hero"/>
 	<entry name="HexeskeltalCreche" value="Hexeskeltal Creche"/>
 	<entry name="HexeskeltalCrecheFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/ConstructDefensesWithCreche'/>"/>
+	<entry name="HiddenWisdom" value="Hidden Wisdom"/>
+	<entry name="HiddenWisdomUpgrade" value="<string name='Upgrades/HiddenWisdomUpgrade'/>"/>
+	<entry name="HiddenWisdomUpgradeFlavor" value="<string name='Upgrades/HiddenWisdomUpgradeFlavor'/>"/>
+	<entry name="HiddenWisdomUpgrade2" value="<string name='Upgrades/HiddenWisdomUpgrade2'/>"/>
+	<entry name="HiddenWisdomUpgrade2Flavor" value="<string name='Upgrades/HiddenWisdomUpgrade2Flavor'/>"/>
 	<entry name="Hijack" value="<string name='Actions/Hijack'/>"/>
 	<entry name="HijackFlavor" value="<string name='Actions/HijackFlavor'/>"/>
 	<entry name="HijackProperties" value="<icon texture='GUI/Bullet'/>Applies on death"/>

@@ -46,5 +46,7 @@
 	<!-- %1% turns -->
 	<entry name="DelayTitanBattle+" value="<icon texture='GUI/Bullet'/>Delays escalation by %1% turns"/>
 	<entry name="DelayTitanBattle-" value="<icon texture='GUI/Bullet'/>Advances escalation by %1% turns"/>
+	<entry name="FailQuest" value="<icon texture='GUI/Bullet'/>Fails %1%<nbsp/>%2%%3%%4%"/>
+	<entry name="StartQuest" value="<icon texture='GUI/Bullet'/>Starts %1%<nbsp/>%2%%3%%4%"/>
 	
 </language>

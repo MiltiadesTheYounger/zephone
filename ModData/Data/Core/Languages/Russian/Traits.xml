@@ -206,6 +206,7 @@
 	<entry name="DimensionalShuntsFlavor" value="&lt;string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/&gt;"/>
 	<entry name="DirectControl" value="&lt;string name='Actions/DirectControl'/&gt;"/>
 	<entry name="DirectControlFlavor" value="&lt;string name='Actions/DirectControlFlavor'/&gt;"/>
+	<entry name="DirectiveDeviance" value="Отклонение от директивы"/>
 	<entry name="DiscarnateFramework" value="Форма разъединения"/>
 	<entry name="Disputation" value="Возражение"/>
 	<entry name="DistortedLens" value="&lt;string name='Items/DistortedLens'/&gt;"/>
@@ -213,7 +214,7 @@
 	<entry name="DistressSignalMimicked" value="Имитация сигнала бедствия"/>
 	<entry name="DistressSignalMimickedFlavor" value="&lt;string name='Quests/BinaricChoice/HelpBothStageOneSuccess3'/&gt;"/>
 	<entry name="DozerBlade" value="Бульдозерный нож"/>
-	<entry name="DozerBladeProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Снижает &lt;string name='Attributes/MovementIcon'/&gt; цену передвижения по лесам и руинам"/>
+	<entry name="DozerBladeProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Снижает &lt;string name='Attributes/MovementIcon'/&gt;&lt;nbsp/&gt;цену передвижения по лесам и руинам"/>
 	<entry name="DragoonArmor" value="Доспех драгуна"/>
 	<entry name="DreamPrison" value="&lt;string name='Actions/DreamPrison'/&gt;"/>
 	<entry name="DreamPrisonFlavor" value="&lt;string name='Actions/DreamPrisonFlavor'/&gt;"/>
@@ -275,6 +276,8 @@
 	<entry name="FireFlavor" value="&lt;string name='Features/FireFlavor'/&gt;"/>
 	<entry name="FirstAidDrone" value="&lt;string name='Actions/FirstAidDrone'/&gt;"/>
 	<entry name="FirstAidDroneFlavor" value="&lt;string name='Actions/FirstAidDroneFlavor'/&gt;"/>
+	<entry name="FixedAccuracy" value="Заданная точность"/>
+	<entry name="FixedAccuracyProperties" value="&lt;icon texture='GUI/Bullet'/&gt;&lt;string name='Attributes/AccuracyIcon'/&gt; точность не может быть изменена"/>
 	<entry name="FleshTree" value="&lt;string name='Features/FleshTree'/&gt;"/>
 	<entry name="FleshTreeFlavor" value="&lt;string name='Features/FleshTreeFlavor'/&gt;"/>
 	<entry name="Flying" value="Летающий"/>
@@ -335,6 +338,11 @@
 	<entry name="Hero" value="Герой"/>
 	<entry name="HexeskeltalCreche" value="Гексоскелетные ясли"/>
 	<entry name="HexeskeltalCrecheFlavor" value="&lt;string name='Quests/PerfectionFromBeyondTheStars/ConstructDefensesWithCreche'/&gt;"/>
+	<entry name="HiddenWisdom" value="Скрытая мудрость"/>
+	<entry name="HiddenWisdomUpgrade" value="&lt;string name='Upgrades/HiddenWisdomUpgrade'/&gt;"/>
+	<entry name="HiddenWisdomUpgradeFlavor" value="&lt;string name='Upgrades/HiddenWisdomUpgradeFlavor'/&gt;"/>
+	<entry name="HiddenWisdomUpgrade2" value="&lt;string name='Upgrades/HiddenWisdomUpgrade2'/&gt;"/>
+	<entry name="HiddenWisdomUpgrade2Flavor" value="&lt;string name='Upgrades/HiddenWisdomUpgrade2Flavor'/&gt;"/>
 	<entry name="Hijack" value="&lt;string name='Actions/Hijack'/&gt;"/>
 	<entry name="HijackFlavor" value="&lt;string name='Actions/HijackFlavor'/&gt;"/>
 	<entry name="HijackProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Применяется при гибели"/>
@@ -899,6 +907,7 @@
 	<entry name="DeviantProliferationFlavor" value="Любопытно, как много может значить всего один одай. Ещё одна живая бомба, которая способна оторвать тебе руку. Ещё одна губка, поглощающая твои пули. Ещё одна душа, освобождённая из ходячего ада."/>
 	<entry name="DimensionalEchoesUpgradeFlavor" value="Избранник Узодай прочитал проповедь перед камерами затворничества. Усики Течи заползли в комплекс, и завывания замурованных культистов превратились в экстатические вопли. Сила Течи соединила их с воображаемым богом — и кричащие взаперти души изливали всё больше и больше отзвуков."/>
 	<entry name="DimensionalReverberationsFlavor" value="Заунывные оролосы имели такую прочную связь с Голосом, что могли извлекать отзвуки измерений из всего, что они убивали. Почему? Как? Слишком давно шла эта война... Я даже не стал пытаться искать объяснения. Лишь предупредил наших солдат, что если эта тварь их убьёт, то уже их души станут вращать жернова войны."/>
+	<entry name="DirectiveDevianceFlavor" value="Оружие, которым невозможно воспользоваться, — просто балласт. Солдат, несущий его, быстро это понимает."/>
 	<entry name="DiscarnateFrameworkFlavor" value="Я предупредил старикана. Щит из пары «Егерей» перед рядом его снайперов нихрена не поможет против стаи бродяг. Его сын был среди них. Как же я не люблю оказываться правым. Бродяги использовали деревья как укрытия. Прокрались мимо ходячих титанов и их малолетних пилотов. Разорвали снайперов — и его сына — на куски."/>
 	<entry name="DisputationFlavor" value="Религиозные солдаты рассказывали о духовных лидерах, готовых высечь любого ребёнка, который проявил хотя бы признак неповиновения. Пробсты следовали тому же принципу. Стоило их ударить — и они принимали это ОЧЕНЬ БЛИЗКО. Они вздевали конечности подобно щёлкающим плетям и хлестали ими вокруг, чтобы вернуть себе ощущение контроля."/>
 	<entry name="DozerBladeFlavor" value="Мы поснимали бульдозерные ножи со старых строительных машин, чтобы наши тяжёлые танки могли расчищать местность. В противном случае мы потеряли бы множество солдат в густых зарослях и плотных, запутанных развалинах. Думаю, некоторые экипажи предпочитали расчистку местности открытым битвам."/>
@@ -916,6 +925,7 @@
 	<entry name="ExtraPlatingFlavor" value="Мы вешали на танки мощную броню не для того, чтобы наши люди могли вернуться домой в целости и сохранности. А для того, чтобы за лишние несколько секунд жизни они успели произвести выстрел, способный переломить ход битвы."/>
 	<entry name="FerventStrengthFlavor" value="Тела самых стойких почитателей Узодай подходили для долгих путешествий в черноте космоса. Что это значило для нас? Ты всадил в одного из них тысячу пуль, из кожи торчат обломки костей, но вблизи ты видишь, как прочно переплетаются нити нервов и сосудов, чтобы тело продолжало жить и сражаться. Этих монстров нельзя было ранить. Только убить."/>
 	<entry name="FiringPointsFlavor" value="Когда ты заперт в тесной коробке под плотным огнём неприятеля, приятно иметь возможность отстреливаться — конечно, если есть подходящее укрытие. Яйцеголовые потрудились на славу, чтобы огневые точки наших бункеров не угрожали их прочности. Вряд ли солдатам понравится, если потолок обрушится на них из-за их же попыток сопротивления."/>
+	<entry name="FixedAccuracyFlavor" value="На точность некоторых видов оружия ты никак не мог повлиять. Сколько угодно выкрикивай координаты, уточняй данные для наведения, танцуй с бубном или молись над консолью. Ничто из этого не имело значения. После инициации запуска полезная нагрузка безучастно следовала заданным курсом."/>
 	<entry name="FlyingFlavor" value="Взлетая, ты попадал в грязный воздух, но так ты мог пересечь унылые моря и зазубренные скалы, которые усыпали потрескавшуюся Землю. Вид, наверное, был лучше, когда наша планета ещё не превратилась в отравленный ночной кошмар."/>
 	<entry name="FoodUpgradeFlavor" value="Кое-какие техники, заслужившие солидную прибавку к окладу, разработали химическое средство, которое очищало воду от удобрений. Это превратило области вокруг наших теплиц в самые незагрязнённые участки планеты. К таким местам сплывались косяки рыб, которые желали жить в чистой воде — и тем самым обеспечивали нас столь необходимыми запасами пищи."/>
 	<entry name="FormIsFunctionFlavor" value="Сторонники Дэва были единственной группой технофилов, которые не спешили отбрасывать свою человечность, когда подключали себя к машинам. Это приводило к неэффективности и лишним расходам энергии... Но его работники были счастливее. Мотивированнее. Верили в то, что сам Дэв затруднялся узреть."/>

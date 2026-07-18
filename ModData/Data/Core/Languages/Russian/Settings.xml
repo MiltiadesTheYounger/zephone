@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="Скорость прокрутки"/>
 	<entry name="General/ScrollSpeedHint" value="Скорость прокрутки камеры."/>
 	<entry name="General/ScrollToAction" value="Фокус на действии"/>
+	<entry name="General/ScrollToAction0" value="Нет"/>
+	<entry name="General/ScrollToAction1" value="Все"/>
+	<entry name="General/ScrollToAction2" value="Враги"/>
 	<entry name="General/ScrollToActionHint" value="Автоматически фокусирует камеру на активность во время хода ИИ."/>
 	<entry name="General/ShowAttackArea" value="Показывать область атаки"/>
 	<entry name="General/ShowAttackAreaHint" value="Всегда показывать область атаки юнита. Если отключено, её можно отобразить, если зажать Shift."/>

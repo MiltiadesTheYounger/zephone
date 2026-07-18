@@ -46,5 +46,7 @@
 	<!-- %1% turns -->
 	<entry name="DelayTitanBattle+" value="<icon texture='GUI/Bullet'/>Retrasa la intensificación %1% turno(s)"/>
 	<entry name="DelayTitanBattle-" value="<icon texture='GUI/Bullet'/>Acelera la intensificación %1% turno(s)"/>
+	<entry name="FailQuest" value="<icon texture='GUI/Bullet'/>Hace fallar %1%<nbsp/>%2%%3%%4%"/>
+	<entry name="StartQuest" value="<icon texture='GUI/Bullet'/>Inicia %1%<nbsp/>%2%%3%%4%"/>
 	
 </language>

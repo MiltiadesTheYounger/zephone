@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="스크롤 속도"/>
 	<entry name="General/ScrollSpeedHint" value="카메라 스크롤 속도입니다."/>
 	<entry name="General/ScrollToAction" value="행동으로 자동 스크롤"/>
+	<entry name="General/ScrollToAction0" value="없음"/>
+	<entry name="General/ScrollToAction1" value="모두"/>
+	<entry name="General/ScrollToAction2" value="적"/>
 	<entry name="General/ScrollToActionHint" value="AI 턴 동안 AI 활동에 맞춰 카메라를 자동 스크롤합니다."/>
 	<entry name="General/ShowAttackArea" value="공격 영역 표시"/>
 	<entry name="General/ShowAttackAreaHint" value="유닛의 공격 범위를 항상 표시합니다. 이 설정이 꺼진 상태에서도 Shift 키를 누르면 표시할 수 있습니다."/>

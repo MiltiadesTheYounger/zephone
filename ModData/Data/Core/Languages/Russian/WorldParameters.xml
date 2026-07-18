@@ -7,6 +7,13 @@
 	<entry name="AbkhanDreyDensity3" value="Средняя"/>
 	<entry name="AbkhanDreyDensity4" value="Высокая"/>
 	<entry name="AbkhanDreyDensity5" value="Очень высокая"/>
+	<entry name="AcrinCrashSiteDensity" value="Плотность: акринские крушения"/>
+	<entry name="AcrinCrashSiteDensity0" value="Нет"/>
+	<entry name="AcrinCrashSiteDensity1" value="Очень низкая"/>
+	<entry name="AcrinCrashSiteDensity2" value="Низкая"/>
+	<entry name="AcrinCrashSiteDensity3" value="Средняя"/>
+	<entry name="AcrinCrashSiteDensity4" value="Высокая"/>
+	<entry name="AcrinCrashSiteDensity5" value="Очень высокая"/>
 	<entry name="AIControlDisconnectedPlayers" value="Отключившиеся игроки контролируются ИИ"/>
 	<entry name="AIControlDisconnectedPlayersHint" value="Позволяет ИИ контролировать сторону отключившихся игроков.&lt;br/&gt;&lt;br/&gt;Доступно только при отключении режима «Железный человек»."/>
 	<entry name="AdaptiveTurnTimer" value="Адаптивный таймер хода"/>
@@ -32,6 +39,13 @@
 	<entry name="ArcticRegionDensity3" value="Средняя"/>
 	<entry name="ArcticRegionDensity4" value="Высокая"/>
 	<entry name="ArcticRegionDensity5" value="Очень высокая"/>	
+	<entry name="AtmosphericAnchorDensity" value="Плотность: атмосферные якоря"/>
+	<entry name="AtmosphericAnchorDensity0" value="Нет"/>
+	<entry name="AtmosphericAnchorDensity1" value="Очень низкая"/>
+	<entry name="AtmosphericAnchorDensity2" value="Низкая"/>
+	<entry name="AtmosphericAnchorDensity3" value="Средняя"/>
+	<entry name="AtmosphericAnchorDensity4" value="Высокая"/>
+	<entry name="AtmosphericAnchorDensity5" value="Очень высокая"/>
 	<entry name="AutoDisableSimultaneousTurns" value="Автоотключение одновременных ходов"/>
 	<entry name="AutoDisableSimultaneousTurnsHint" value="Автоматически отключать одновременные ходы, когда вражеские юниты, не принадлежащие ИИ, подходят друг к другу на расстояние 5 кл."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Избегать повторения случайных фракций"/>
@@ -78,6 +92,13 @@
 	<entry name="ConstructRegionDensity3" value="Средняя"/>
 	<entry name="ConstructRegionDensity4" value="Высокая"/>
 	<entry name="ConstructRegionDensity5" value="Очень высокая"/>
+	<entry name="CrystalBasinDensity" value="Плотность: рощи кристаллов"/>
+	<entry name="CrystalBasinDensity0" value="Нет"/>
+	<entry name="CrystalBasinDensity1" value="Очень низкая"/>
+	<entry name="CrystalBasinDensity2" value="Низкая"/>
+	<entry name="CrystalBasinDensity3" value="Средняя"/>
+	<entry name="CrystalBasinDensity4" value="Высокая"/>
+	<entry name="CrystalBasinDensity5" value="Очень высокая"/>
 	<entry name="DLC1" value="DLC «Безобразная и Бесцельный»"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="DLC «Платиновый и Неисчислимый»"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC3" value="DLC «Синкретический и Властная»"/> <!-- DLC name. Do not translate. -->
@@ -119,6 +140,13 @@
 	<entry name="DustStormDensity3" value="Средняя"/>
 	<entry name="DustStormDensity4" value="Высокая"/>
 	<entry name="DustStormDensity5" value="Очень высокая"/>
+	<entry name="ErebusExcavatorDensity" value="Плотность: экскаваторы «Эреб»"/>
+	<entry name="ErebusExcavatorDensity0" value="Нет"/>
+	<entry name="ErebusExcavatorDensity1" value="Очень низкая"/>
+	<entry name="ErebusExcavatorDensity2" value="Низкая"/>
+	<entry name="ErebusExcavatorDensity3" value="Средняя"/>
+	<entry name="ErebusExcavatorDensity4" value="Высокая"/>
+	<entry name="ErebusExcavatorDensity5" value="Очень высокая"/>
 	<entry name="EscalationPace" value="Темп эскалации"/>
 	<entry name="EscalationPaceHint" value="Определяет, как быстро будет проходить эскалация в сторону финала."/>
 	<entry name="EscalationPace0" value="Нет"/>
@@ -145,6 +173,13 @@
 	<entry name="TradeGain1Hint" value="Выгода торговли существует только при торговле с неигровой фракцией. Игроки не получают выгоды от торговли с друг другом."/>
 	<entry name="TradeGain2" value="Стандартно"/>
 	<entry name="TradeGain2Hint" value="Выгода торговли существует между всеми лидерами, заключившими торговое соглашение или союз."/>
+	<entry name="FleshTreeDensity" value="Плотность: мясные деревья"/>
+	<entry name="FleshTreeDensity0" value="Нет"/>
+	<entry name="FleshTreeDensity1" value="Очень низкая"/>
+	<entry name="FleshTreeDensity2" value="Низкая"/>
+	<entry name="FleshTreeDensity3" value="Средняя"/>
+	<entry name="FleshTreeDensity4" value="Высокая"/>
+	<entry name="FleshTreeDensity5" value="Очень высокая"/>
 	<entry name="ForestDensity" value="Плотность: леса"/>
 	<entry name="ForestDensity0" value="Нет"/>
 	<entry name="ForestDensity1" value="Очень низкая"/>
@@ -176,6 +211,20 @@
 	<entry name="Growth2" value="Средний"/>
 	<entry name="Growth3" value="Высокий"/>
 	<entry name="Growth4" value="Очень высокий"/>
+	<entry name="HydroponicFarmDensity" value="Плотность: гидропонные фермы"/>
+	<entry name="HydroponicFarmDensity0" value="Нет"/>
+	<entry name="HydroponicFarmDensity1" value="Очень низкая"/>
+	<entry name="HydroponicFarmDensity2" value="Низкая"/>
+	<entry name="HydroponicFarmDensity3" value="Средняя"/>
+	<entry name="HydroponicFarmDensity4" value="Высокая"/>
+	<entry name="HydroponicFarmDensity5" value="Очень высокая"/>
+	<entry name="IkonOfVorodaiDensity" value="Плотность: идолы Вародай"/>
+	<entry name="IkonOfVorodaiDensity0" value="Нет"/>
+	<entry name="IkonOfVorodaiDensity1" value="Очень низкая"/>
+	<entry name="IkonOfVorodaiDensity2" value="Низкая"/>
+	<entry name="IkonOfVorodaiDensity3" value="Средняя"/>
+	<entry name="IkonOfVorodaiDensity4" value="Высокая"/>
+	<entry name="IkonOfVorodaiDensity5" value="Очень высокая"/>
 	<entry name="Ironman" value="Железный человек"/>
 	<entry name="IronmanHint" value="Ограничивает контроль игрока над файлом сохранения, не позволяя корректировать ошибки и менять решения, принятые в игре.&lt;br/&gt;&lt;br/&gt;Некоторые достижения можно получить только в режиме «Железный человек»."/>
 	<entry name="LandMass" value="Площадь суши"/>
@@ -198,6 +247,13 @@
 	<entry name="MaximumTechnologyTier8" value="8"/>
 	<entry name="MaximumTechnologyTier9" value="9"/>
 	<entry name="MaximumTechnologyTier10" value="10"/>
+	<entry name="MicrochipFabricatorDensity" value="Плотность: фабрикаторы микрочипов"/>
+	<entry name="MicrochipFabricatorDensity0" value="Нет"/>
+	<entry name="MicrochipFabricatorDensity1" value="Очень низкая"/>
+	<entry name="MicrochipFabricatorDensity2" value="Низкая"/>
+	<entry name="MicrochipFabricatorDensity3" value="Средняя"/>
+	<entry name="MicrochipFabricatorDensity4" value="Высокая"/>
+	<entry name="MicrochipFabricatorDensity5" value="Очень высокая"/>
 	<entry name="Mutators/AreYouTheGreatSpeaker" value="&lt;string name='Settings/Achievements/AreYouTheGreatSpeaker'/&gt;"/>
 	<entry name="Mutators/AreYouTheGreatSpeakerHint" value="Удвоенный эффект от лояльности."/>
 	<entry name="Mutators/CanLoveBeMoral" value="&lt;string name='Settings/Achievements/CanLoveBeMoral'/&gt;"/>
@@ -255,6 +311,13 @@
 	<entry name="Pace2" value="Стандартная"/>
 	<entry name="Pace3" value="Высокая"/>
 	<entry name="Pace4" value="Очень высокая"/>
+	<entry name="PhaseGeneratorDensity" value="Плотность: фазовые генераторы"/>
+	<entry name="PhaseGeneratorDensity0" value="Нет"/>
+	<entry name="PhaseGeneratorDensity1" value="Очень низкая"/>
+	<entry name="PhaseGeneratorDensity2" value="Низкая"/>
+	<entry name="PhaseGeneratorDensity3" value="Средняя"/>
+	<entry name="PhaseGeneratorDensity4" value="Высокая"/>
+	<entry name="PhaseGeneratorDensity5" value="Очень высокая"/>
 	<entry name="AIAggressiveness" value="Агрессивность ИИ"/>
 	<entry name="AIAggressivenessHint" value="Определяет склонность компьютерных игроков к миру."/>
 	<entry name="AIAggressiveness0" value="Нет"/>
@@ -273,6 +336,20 @@
 	<entry name="QuestPace5" value="Очень высокий"/>
 	<entry name="Random" value="Случайный выбор"/>
 	<entry name="RandomHint" value="При начале игры будет выбран случайный вариант."/>
+	<entry name="ReaverDepotDensity" value="Плотность: гаражи Опустошителей"/>
+	<entry name="ReaverDepotDensity0" value="Нет"/>
+	<entry name="ReaverDepotDensity1" value="Очень низкая"/>
+	<entry name="ReaverDepotDensity2" value="Низкая"/>
+	<entry name="ReaverDepotDensity3" value="Средняя"/>
+	<entry name="ReaverDepotDensity4" value="Высокая"/>
+	<entry name="ReaverDepotDensity5" value="Очень высокая"/>
+	<entry name="RecyclingTanksDensity" value="Плотность: чаны переработки"/>
+	<entry name="RecyclingTanksDensity0" value="Нет"/>
+	<entry name="RecyclingTanksDensity1" value="Очень низкая"/>
+	<entry name="RecyclingTanksDensity2" value="Низкая"/>
+	<entry name="RecyclingTanksDensity3" value="Средняя"/>
+	<entry name="RecyclingTanksDensity4" value="Высокая"/>
+	<entry name="RecyclingTanksDensity5" value="Очень высокая"/>
 	<entry name="RegionDensity" value="Плотность: регионы"/>
 	<entry name="RegionDensity0" value="Нет"/>
 	<entry name="RegionDensity1" value="Очень низкая"/>
@@ -371,6 +448,13 @@
 	<entry name="StartingResource2" value="Средние"/>
 	<entry name="StartingResource3" value="Высокие"/>
 	<entry name="StartingResource4" value="Очень высокие"/>
+	<entry name="SurvivorsBazaarDensity" value="Плотность: ярмарки выживших"/>
+	<entry name="SurvivorsBazaarDensity0" value="Нет"/>
+	<entry name="SurvivorsBazaarDensity1" value="Очень низкая"/>
+	<entry name="SurvivorsBazaarDensity2" value="Низкая"/>
+	<entry name="SurvivorsBazaarDensity3" value="Средняя"/>
+	<entry name="SurvivorsBazaarDensity4" value="Высокая"/>
+	<entry name="SurvivorsBazaarDensity5" value="Очень высокая"/>
 	<entry name="SwampRegionDensity" value="Плотность регионов: болото"/>
 	<entry name="SwampRegionDensity0" value="Нет"/>
 	<entry name="SwampRegionDensity1" value="Очень низкая"/>
@@ -378,6 +462,13 @@
 	<entry name="SwampRegionDensity3" value="Средняя"/>
 	<entry name="SwampRegionDensity4" value="Высокая"/>
 	<entry name="SwampRegionDensity5" value="Очень высокая"/>	
+	<entry name="TempleOfCrlaDensity" value="Плотность: капища Кр'ла"/>
+	<entry name="TempleOfCrlaDensity0" value="Нет"/>
+	<entry name="TempleOfCrlaDensity1" value="Очень низкая"/>
+	<entry name="TempleOfCrlaDensity2" value="Низкая"/>
+	<entry name="TempleOfCrlaDensity3" value="Средняя"/>
+	<entry name="TempleOfCrlaDensity4" value="Высокая"/>
+	<entry name="TempleOfCrlaDensity5" value="Очень высокая"/>
 	<entry name="TurnTimer" value="Таймер хода"/>
 	<entry name="TurnTimer0" value="Нет"/>
 	<entry name="TurnTimer1" value="Очень короткий (1 мин.)"/>
@@ -418,6 +509,13 @@
 	<entry name="WastelandRegionDensity3" value="Средняя"/>
 	<entry name="WastelandRegionDensity4" value="Высокая"/>
 	<entry name="WastelandRegionDensity5" value="Очень высокая"/>
+	<entry name="WatchtowerDensity" value="Плотность: вышки"/>
+	<entry name="WatchtowerDensity0" value="Нет"/>
+	<entry name="WatchtowerDensity1" value="Очень низкая"/>
+	<entry name="WatchtowerDensity2" value="Низкая"/>
+	<entry name="WatchtowerDensity3" value="Средняя"/>
+	<entry name="WatchtowerDensity4" value="Высокая"/>
+	<entry name="WatchtowerDensity5" value="Очень высокая"/>
 	<entry name="WhisperingWightsDensity" value="Плотность: шепчущие тени"/>
 	<entry name="WhisperingWightsDensity0" value="Нет"/>
 	<entry name="WhisperingWightsDensity1" value="Очень низкая"/>

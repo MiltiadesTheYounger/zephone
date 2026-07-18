@@ -46,5 +46,7 @@
 	<!-- %1% turns -->
 	<entry name="DelayTitanBattle+" value="<icon texture='GUI/Bullet'/>将激化延迟%1%回合"/>
 	<entry name="DelayTitanBattle-" value="<icon texture='GUI/Bullet'/>将激化提前%1%回合"/>
+	<entry name="FailQuest" value="<icon texture='GUI/Bullet'/>使%1%<nbsp/>%2%失败%3%%4%"/>
+	<entry name="StartQuest" value="<icon texture='GUI/Bullet'/>开始%1%<nbsp/>%2%%3%%4%"/>
 	
 </language>

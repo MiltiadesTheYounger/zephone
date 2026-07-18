@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="Scroll-Geschwindigkeit"/>
 	<entry name="General/ScrollSpeedHint" value="Kamera-Scroll-Geschwindigkeit."/>
 	<entry name="General/ScrollToAction" value="Autom. Scrollen zur Aktion"/>
+	<entry name="General/ScrollToAction0" value="Keine"/>
+	<entry name="General/ScrollToAction1" value="Alle"/>
+	<entry name="General/ScrollToAction2" value="Feinde"/>
 	<entry name="General/ScrollToActionHint" value="Kamera automatisch zu jeder Aktion scrollen, die während des KI-Zuges stattfindet."/>
 	<entry name="General/ShowAttackArea" value="Angriffsbereich anzeigen"/>
 	<entry name="General/ShowAttackAreaHint" value="Zeigt immer den Angriffsbereich der Einheit an. Wenn er ausgeschaltet ist, kann er trotzdem angezeigt werden, indem du die Umschalttaste gedrückt hältst."/>

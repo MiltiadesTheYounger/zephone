@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="Scroll Speed"/>
 	<entry name="General/ScrollSpeedHint" value="Camera scroll speed."/>
 	<entry name="General/ScrollToAction" value="Auto-Scroll to Action"/>
+	<entry name="General/ScrollToAction0" value="None"/>
+	<entry name="General/ScrollToAction1" value="All"/>
+	<entry name="General/ScrollToAction2" value="Enemies"/>
 	<entry name="General/ScrollToActionHint" value="Automatically scroll the camera to activity during the AI turn."/>
 	<entry name="General/ShowAttackArea" value="Show Attack Area"/>
 	<entry name="General/ShowAttackAreaHint" value="Always show the unit's attack area. When off, it can still be shown by holding Shift."/>

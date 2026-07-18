@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="Velocidad de desplazamiento"/>
 	<entry name="General/ScrollSpeedHint" value="Velocidad de desplazamiento de la cámara."/>
 	<entry name="General/ScrollToAction" value="Desplazar automáticamente a la acción"/>
+	<entry name="General/ScrollToAction0" value="Ninguno"/>
+	<entry name="General/ScrollToAction1" value="Todos"/>
+	<entry name="General/ScrollToAction2" value="Enemigos"/>
 	<entry name="General/ScrollToActionHint" value="Desplaza la cámara automáticamente a cualquier actividad durante el turno de la IA."/>
 	<entry name="General/ShowAttackArea" value="Mostrar área de ataque"/>
 	<entry name="General/ShowAttackAreaHint" value="Muestra siempre el área de ataque de la unidad. Si se desactiva, aún podrá verse manteniendo pulsado Mayúsculas."/>

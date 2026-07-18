@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="Vitesse de défilement"/>
 	<entry name="General/ScrollSpeedHint" value="Vitesse de défilement caméra."/>
 	<entry name="General/ScrollToAction" value="Centrage auto vers l'action"/>
+	<entry name="General/ScrollToAction0" value="Aucun"/>
+	<entry name="General/ScrollToAction1" value="Tous"/>
+	<entry name="General/ScrollToAction2" value="Ennemis"/>
 	<entry name="General/ScrollToActionHint" value="Centrer automatiquement la caméra sur l'activité pendant le tour de l'IA."/>
 	<entry name="General/ShowAttackArea" value="Afficher la zone d'attaque"/>
 	<entry name="General/ShowAttackAreaHint" value="Toujours afficher la zone d'attaque de l'unité. Lorsqu'elle est désactivée, elle peut toujours être affichée en maintenant la touche Maj."/>

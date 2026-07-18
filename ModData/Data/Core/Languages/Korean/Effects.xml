@@ -46,5 +46,7 @@
 	<!-- %1% turns -->
 	<entry name="DelayTitanBattle+" value="<icon texture='GUI/Bullet'/>긴장 고조를 %1%턴 지연시킵니다"/>
 	<entry name="DelayTitanBattle-" value="<icon texture='GUI/Bullet'/>긴장 고조를 %1%턴 앞당깁니다"/>
+	<entry name="FailQuest" value="<icon texture='GUI/Bullet'/>%1%<nbsp/>%2%을(를) 실패시킵니다.%3%%4%"/>
+	<entry name="StartQuest" value="<icon texture='GUI/Bullet'/>%1%<nbsp/>%2%을(를) 시작합니다.%3%%4%"/>
 	
 </language>

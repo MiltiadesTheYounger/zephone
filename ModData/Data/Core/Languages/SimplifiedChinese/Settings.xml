@@ -175,6 +175,9 @@
 	<entry name="General/ScrollSpeed" value="滚动速度"/>
 	<entry name="General/ScrollSpeedHint" value="镜头滚动速度。"/>
 	<entry name="General/ScrollToAction" value="自动滚动至动作"/>
+	<entry name="General/ScrollToAction0" value="无"/>
+	<entry name="General/ScrollToAction1" value="全部"/>
+	<entry name="General/ScrollToAction2" value="敌人"/>
 	<entry name="General/ScrollToActionHint" value="在AI回合期间，镜头将自动跟随其活动。"/>
 	<entry name="General/ShowAttackArea" value="显示攻击范围"/>
 	<entry name="General/ShowAttackAreaHint" value="永远显示单位的攻击范围。如果关闭，你可以在选择单位后长按Shift显示攻击范围。"/>
