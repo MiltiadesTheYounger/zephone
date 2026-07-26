@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" à portée 1"/>
 	<entry name="AtRange2OrHigher" value=" à portée 2 ou plus"/>
 	<entry name="OfInvadingDreameater" value=" de l'Onirophage envahissant"/>
-	<entry name="AntimatterUpgrade" value=" en terrain circuit et désertique"/>
+	<entry name="AntimatterUpgrade" value=" en terrain circuit et désertique ou sur <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="ArchaiConstruct" value=" sauf guérison par <string name='Actions/ParticleRepair'/>"/>
 	<entry name="Assassinate" value=" aux unités ennemies dans la zone si la cible meurt"/>
 	<entry name="AtMostPerAttack" value=" au plus par attaque"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" de l'abkluth ennemi cible"/>
 	<entry name="OnAdjacentTilesToTarget" value=" sur les cases adjacentes à la cible"/>
 	<entry name="OnAttack" value=" à l'attaque"/>
-	<entry name="OnBleed" value=" sur le Bleed"/>
+	<entry name="OnBleed" value=" sur le Bleed ou <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="OnCliffs" value=" sur les falaises"/>
 	<entry name="OnCoast" value=" sur la côte"/>
 	<entry name="OnDeath" value=" à la mort"/>

@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" auf Reichweite 1"/>
 	<entry name="AtRange2OrHigher" value=" auf Reichweite 2 oder höher"/>
 	<entry name="OfInvadingDreameater" value=" des eindringenden Traumschlingers"/>
-	<entry name="AntimatterUpgrade" value=" in Konstrukt- und Wüstengelände"/>
+	<entry name="AntimatterUpgrade" value=" in Konstrukt- und Wüstengelände oder auf <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="ArchaiConstruct" value=" außer bei Heilung von <string name='Actions/ParticleRepair'/>"/>
 	<entry name="Assassinate" value=" gegen feindliche Einheiten im Bereich, wenn das Ziel stirbt"/>
 	<entry name="AtMostPerAttack" value=" höchstens pro Angriff"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" des Zielfeinds Abkluth"/>
 	<entry name="OnAdjacentTilesToTarget" value=" auf Feldern, die am Ziel angrenzen"/>
 	<entry name="OnAttack" value=" bei Angriff"/>
-	<entry name="OnBleed" value=" bei Blutung"/>
+	<entry name="OnBleed" value=" bei Blutung oder <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="OnCliffs" value=" bei Klippen"/>
 	<entry name="OnCoast" value=" an der Küste"/>
 	<entry name="OnDeath" value=" beim Tod"/>

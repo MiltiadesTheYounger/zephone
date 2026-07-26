@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" 사거리 1에서"/>
 	<entry name="AtRange2OrHigher" value=" 사거리 2 이상에서"/>
 	<entry name="OfInvadingDreameater" value=" 침입하는 꿈 포식자"/>
-	<entry name="AntimatterUpgrade" value=" 건물 및 사막 지형에서"/>
+	<entry name="AntimatterUpgrade" value=" 건물 및 사막 지형 또는 <string name='Features/FragmentOfTheFulcrumResource'/>에서"/>
 	<entry name="ArchaiConstruct" value=" <string name='Actions/ParticleRepair'/>에 의해 치유되지 않는 한"/>
 	<entry name="Assassinate" value=" 대상 사망 시 해당 지역 적 유닛에 대해"/>
 	<entry name="AtMostPerAttack" value=" 공격 당 최대"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" 대상 적 아브클루스의"/>
 	<entry name="OnAdjacentTilesToTarget" value=" 대상과 인접한 타일에"/>
 	<entry name="OnAttack" value=" 공격 시"/>
-	<entry name="OnBleed" value=" 혈사초에서"/>
+	<entry name="OnBleed" value=" 혈사초 또는 <string name='Features/FragmentOfTheFulcrumResource'/>에서"/>
 	<entry name="OnCliffs" value=" 절벽에서"/>
 	<entry name="OnCoast" value=" 해안에서"/>
 	<entry name="OnDeath" value=" 사망 시"/>

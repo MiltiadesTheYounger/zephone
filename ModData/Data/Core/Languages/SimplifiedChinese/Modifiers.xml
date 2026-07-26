@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" 在1格射程"/>
 	<entry name="AtRange2OrHigher" value=" 在2格或更高射程"/>
 	<entry name="OfInvadingDreameater" value=" 对入侵噬梦兽"/>
-	<entry name="AntimatterUpgrade" value=" （建筑群与沙漠地形）"/>
+	<entry name="AntimatterUpgrade" value=" （建筑群与沙漠地形或<string name='Features/FragmentOfTheFulcrumResource'/>）"/>
 	<entry name="ArchaiConstruct" value=" ，<string name='Actions/ParticleRepair'/>提供的治疗除外"/>
 	<entry name="Assassinate" value=" 对区域中的敌方单位（如果目标死亡）"/>
 	<entry name="AtMostPerAttack" value=" 每次攻击最多"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" （目标敌方阿布卡鲁斯）"/>
 	<entry name="OnAdjacentTilesToTarget" value=" （目标相邻地块）"/>
 	<entry name="OnAttack" value=" 攻击时"/>
-	<entry name="OnBleed" value=" （异血）"/>
+	<entry name="OnBleed" value=" （异血或<string name='Features/FragmentOfTheFulcrumResource'/>）"/>
 	<entry name="OnCliffs" value=" （悬崖）"/>
 	<entry name="OnCoast" value=" （海岸）"/>
 	<entry name="OnDeath" value=" 死亡时"/>

@@ -21,7 +21,7 @@
 <entry name="AgainstUnitsAtRange1Or2" value=" проти юнітів на дальності 1 або 2"/>
 <entry name="AgainstUnitsBelow50%Hitpoints" value=" проти юнітів із менш ніж 50% од. здоров'я"/>
 <entry name="AlgaeUpgrade" value=" за кожну будівлю «Теплиці» в місті"/>
-<entry name="AntimatterUpgrade" value=" у типах місцевості пустеля та схеми"/>
+<entry name="AntimatterUpgrade" value=" у типах місцевості пустеля та схеми або на ресурсі &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 <entry name="ArchaiConstruct" value=" не від здібності «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
 <entry name="Assassinate" value=" ворожим юнітам у області, якщо ціль гине"/>
 <entry name="AtMostPerAttack" value=" (макс.) за атаку"/>
@@ -98,7 +98,7 @@
 <entry name="OfTargetEnemyAbkluth" value=" вказаного ворожого юніта абклюта"/>
 <entry name="OnAdjacentTilesToTarget" value=" на суміжних із ціллю клітинках"/>
 <entry name="OnAttack" value=" під час атаки"/>
-<entry name="OnBleed" value=" на Течі"/>
+<entry name="OnBleed" value=" на Течі або на ресурсі &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 <entry name="OnCliffs" value=" на урвищах"/>
 <entry name="OnCoast" value=" на узбережжі"/>
 <entry name="OnDeath" value=" під час загибелі"/>

@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" на дальности 1"/>
 	<entry name="AtRange2OrHigher" value=" на дальности 2 или выше"/>
 	<entry name="OfInvadingDreameater" value=" вторгающегося сноедца"/>
-	<entry name="AntimatterUpgrade" value=" в типах местности пустыня и схемы"/>
+	<entry name="AntimatterUpgrade" value=" в типах местности пустыня и схемы или на &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 	<entry name="ArchaiConstruct" value=" не от способности «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
 	<entry name="Assassinate" value=" вражеским юнитам в области, если цель погибает"/>
 	<entry name="AtMostPerAttack" value=" (макс.) за атаку"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" указанного вражеского юнита абклютов"/>
 	<entry name="OnAdjacentTilesToTarget" value=" на смежных с целью клетках"/>
 	<entry name="OnAttack" value=" при атаке"/>
-	<entry name="OnBleed" value=" на Течи"/>
+	<entry name="OnBleed" value=" на Течи или &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 	<entry name="OnCliffs" value=" на утёсах"/>
 	<entry name="OnCoast" value=" на берегу"/>
 	<entry name="OnDeath" value=" при гибели"/>

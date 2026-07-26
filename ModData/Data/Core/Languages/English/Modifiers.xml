@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" at range 1"/>
 	<entry name="AtRange2OrHigher" value=" at range 2 or higher"/>
 	<entry name="OfInvadingDreameater" value=" of invading Dreameater"/>
-	<entry name="AntimatterUpgrade" value=" in construct and desert terrain"/>
+	<entry name="AntimatterUpgrade" value=" in construct and desert terrain or on <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="ArchaiConstruct" value=" unless healed by <string name='Actions/ParticleRepair'/>"/>
 	<entry name="Assassinate" value=" to enemy units in the area if target dies"/>
 	<entry name="AtMostPerAttack" value=" at most per attack"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" of target enemy Abkluth"/>
 	<entry name="OnAdjacentTilesToTarget" value=" on adjacent tiles to target"/>
 	<entry name="OnAttack" value=" on attack"/>
-	<entry name="OnBleed" value=" on Bleed"/>
+	<entry name="OnBleed" value=" on Bleed or <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="OnCliffs" value=" on cliffs"/>
 	<entry name="OnCoast" value=" on the coast"/>
 	<entry name="OnDeath" value=" on death"/>

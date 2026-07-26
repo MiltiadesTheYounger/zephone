@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" w zasięgu 1"/>
 	<entry name="AtRange2OrHigher" value=" w zasięgu 2 lub wyższym"/>
 	<entry name="OfInvadingDreameater" value=" najeżdżającego pożeracza umysłów"/>
-	<entry name="AntimatterUpgrade" value=" na terenie pokrytym konstruktem lub pustynią"/>
+	<entry name="AntimatterUpgrade" value=" na terenie pokrytym konstruktem lub pustynią albo na <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="ArchaiConstruct" value=" dopóki jednostka nie zostanie uleczona za pomocą akcji <string name='Actions/ParticleRepair'/>"/>
 	<entry name="Assassinate" value=" na wrogie jednostki na danym obszarze, gdy cel ginie"/>
 	<entry name="AtMostPerAttack" value=" maksymalnie na atak"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" docelowego wrogiego abkluta"/>
 	<entry name="OnAdjacentTilesToTarget" value=" na polach sąsiadujących z<nbsp/>celem"/>
 	<entry name="OnAttack" value=" w trakcie ataku"/>
-	<entry name="OnBleed" value=" na krwawych pnączach"/>
+	<entry name="OnBleed" value=" na krwawych pnączach lub <string name='Features/FragmentOfTheFulcrumResource'/>"/>
 	<entry name="OnCliffs" value=" na klifach"/>
 	<entry name="OnCoast" value=" na wybrzeżu"/>
 	<entry name="OnDeath" value=" w<nbsp/>momencie śmierci"/>
