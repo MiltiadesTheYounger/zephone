@@ -131,6 +131,8 @@
 	<entry name="Events" value="Events"/>
 	<entry name="ExecuteQueuedOrder" value="Execute Order (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Execute order queued in the previous turn [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] to execute all queued orders.<br/>[<control name='SelectNext'/>] to select next unit.<br/>[<control name='SelectPrevious'/>] to select previous unit."/>
+	<entry name="Export" value="Export"/>
+	<entry name="ExportHint" value="Export stats to “%1%”."/>
 	<entry name="Extra" value="Extra"/>
 	<entry name="ExitCity" value="Exit City"/>
 	<entry name="ExitCityHint" value="Exit the city screen [<control name='NextTask'/>]."/>

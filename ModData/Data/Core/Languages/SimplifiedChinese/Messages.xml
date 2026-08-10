@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="保存屏幕截图时出错"/>
 	<entry name="ServerUnreachable" value="无法连接至服务器。<br/><br/>为改善连接稳定性，请确保你已经禁用防火墙，并且已经在自己的路由器或者是转发TCP端口%1%启用指向你的本地设备的UPnP网络协议。"/>
 	<entry name="SelectTarget" value="选择目标"/>
+	<entry name="StatsExportError" value="导出数据时出错"/>
+	<entry name="StatsExported" value="数据已导出"/>
 	<entry name="TerminatedWithDisableMods" value="因为发生了崩溃，现已禁用模组。如需要重新启用模组，请前往模组界面。"/>
 	<entry name="TermsAndConditions" value="条款。"/>
 	<entry name="TurnTimerPaused" value="%1%触发了暂停。"/>

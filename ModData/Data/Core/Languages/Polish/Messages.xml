@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="Zapisywanie zrzutu ekranu nie powiodło się."/>
 	<entry name="ServerUnreachable" value="Nie można połączyć się z<nbsp/>serwerem.<br/><br/>Aby poprawić łączność, upewnij się, że zapora sieciowa jest wyłączona, a<nbsp/>na twoim ruterze włączony jest protokół UPnP lub że port TCP %1% jest przekierowany do twojego lokalnego komputera."/>
 	<entry name="SelectTarget" value="Wybierz cel"/>
+	<entry name="StatsExportError" value="Błąd eksportu statystyk"/>
+	<entry name="StatsExported" value="Wyeksportowano statystyki"/>
 	<entry name="TerminatedWithDisableMods" value="Modyfikacje zostały wyłączone z<nbsp/>powodu awarii gry. Możesz je ponownie włączyć z<nbsp/>poziomu ekranu z<nbsp/>modyfikacjami."/>
 	<entry name="TermsAndConditions" value="Obowiązujące warunki"/>
 	<entry name="TurnTimerPaused" value="%1% zatrzymuje czas."/>

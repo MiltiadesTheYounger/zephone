@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="Fehler beim Speichern des Bildschirmfotos"/>
 	<entry name="ServerUnreachable" value="Die Verbindung zum Server konnte nicht hergestellt werden.<br/><br/>Um die Verbindung zu verbessern, stelle sicher, dass du deine Firewalls deaktiviert und UPnP auf deinem Router aktiviert hast oder den TCP-Port %1% auf dein lokales System weitergeleitet hast."/>
 	<entry name="SelectTarget" value="Ziel auswählen"/>
+	<entry name="StatsExportError" value="Fehler beim Exportieren der Statistiken"/>
+	<entry name="StatsExported" value="Statistiken exportiert"/>
 	<entry name="TerminatedWithDisableMods" value="Die Mods wurden wegen eines Absturzes deaktiviert. Besuche den Mods-Bildschirm, um sie wieder zu aktivieren."/>
 	<entry name="TermsAndConditions" value="Geschäftsbedingungen"/>
 	<entry name="TurnTimerPaused" value="%1% pausierter Timer."/>

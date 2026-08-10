@@ -131,6 +131,8 @@
 	<entry name="Events" value="事件"/>
 	<entry name="ExecuteQueuedOrder" value="执行指令 (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="执行上一个回合中下达的待定指令[<control name='NextTask'/>]。<br/>[<string name='Controls/MouseRight'/>]执行所有待定指令。<br/>[<control name='SelectNext'/>]选择下一个单位。<br/>[<control name='SelectPrevious'/>]选择上一个单位。"/>
+	<entry name="Export" value="导出"/>
+	<entry name="ExportHint" value="将数据导出至“%1%”。"/>
 	<entry name="Extra" value="额外"/>
 	<entry name="ExitCity" value="离开城市"/>
 	<entry name="ExitCityHint" value="退出城市界面[<control name='NextTask'/>]。"/>

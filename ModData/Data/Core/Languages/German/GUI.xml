@@ -131,6 +131,8 @@
 	<entry name="Events" value="Events"/>
 	<entry name="ExecuteQueuedOrder" value="Befehl ausführen (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Führe den Befehl aus dem vorherigen Zug aus [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>], um alle Befehle in der Warteschlange auszuführen.<br/>[<control name='SelectNext'/>], um die nächste Einheit auszuwählen.<br/>[<control name='SelectPrevious'/>], um die vorige Einheit auszuwählen."/>
+	<entry name="Export" value="Exportieren"/>
+	<entry name="ExportHint" value="Statistiken nach „%1%“ exportieren."/>
 	<entry name="Extra" value="Extra"/>
 	<entry name="ExitCity" value="Stadt verlassen"/>
 	<entry name="ExitCityHint" value="Verlasse den Stadtbildschirm [<control name='NextTask'/>]."/>

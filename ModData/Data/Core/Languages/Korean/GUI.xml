@@ -131,6 +131,8 @@
 	<entry name="Events" value="이벤트"/>
 	<entry name="ExecuteQueuedOrder" value="명령 실행 (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="이전 턴에 대기 중인 명령을 실행합니다 [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>](으)로 모든 대기 중인 명령을 실행합니다.<br/>[<control name='SelectNext'/>](으)로 다음 유닛을 선택합니다.<br/>[<control name='SelectPrevious'/>](으)로 이전 유닛을 선택합니다."/>
+	<entry name="Export" value="내보내기"/>
+	<entry name="ExportHint" value="통계를 “%1%”(으)로 내보냅니다."/>
 	<entry name="Extra" value="추가"/>
 	<entry name="ExitCity" value="도시 나가기"/>
 	<entry name="ExitCityHint" value="도시 화면에서 나갑니다 [<control name='NextTask'/>]."/>

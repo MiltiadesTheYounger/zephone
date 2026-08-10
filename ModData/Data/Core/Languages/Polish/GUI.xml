@@ -131,6 +131,8 @@
 	<entry name="Events" value="Zdarzenia"/>
 	<entry name="ExecuteQueuedOrder" value="Wykonaj rozkaz (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Wykonaj rozkaz zakolejkowany w<nbsp/>poprzedniej turze [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>], aby wykonać wszystkie zakolejkowane rozkazy.<br/>[<control name='SelectNext'/>], aby wybrać następną jednostkę.<br/>[<control name='SelectPrevious'/>], aby wybrać poprzednią jednostkę."/>
+	<entry name="Export" value="Eksportuj"/>
+	<entry name="ExportHint" value="Eksportuj statystyki do „%1%“."/>
 	<entry name="Extra" value="Dodatki"/>
 	<entry name="ExitCity" value="Zamknij miasto"/>
 	<entry name="ExitCityHint" value="Zamknij ekran miasta [<control name='NextTask'/>]."/>

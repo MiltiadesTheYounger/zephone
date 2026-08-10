@@ -52,6 +52,8 @@
 	<entry name="ScreenShotSaveError" value="Error saving screen shot"/>
 	<entry name="ServerUnreachable" value="Could not connect to server.<br/><br/>To improve connectivity, ensure you have disabled your firewalls and enabled UPnP on your router or forwarded TCP port %1% to your local machine."/>
 	<entry name="SelectTarget" value="Select target"/>
+	<entry name="StatsExportError" value="Error exporting stats"/>
+	<entry name="StatsExported" value="Stats exported"/>
 	<entry name="TerminatedWithDisableMods" value="Mods have been disabled because of a crash. Visit the mods screen to re-enable them."/>
 	<entry name="TermsAndConditions" value="Terms and Conditions"/>
 	<entry name="TurnTimerPaused" value="%1% paused timer."/>

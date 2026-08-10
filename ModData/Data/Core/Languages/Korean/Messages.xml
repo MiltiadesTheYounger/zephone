@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="스크린샷 저장 중에 오류가 발생했습니다."/>
 	<entry name="ServerUnreachable" value="서버에 연결할 수 없습니다.<br/><br/>연결 상태를 개선하려면 방화벽을 비활성화하고 라우터에서 UPnP를 활성화하거나 로컬 컴퓨터에 %1%번 TCP 포트를 포워딩했는지 확인하세요."/>
 	<entry name="SelectTarget" value="대상 선택"/>
+	<entry name="StatsExportError" value="통계 내보내기 오류"/>
+	<entry name="StatsExported" value="통계 내보내기 완료"/>
 	<entry name="TerminatedWithDisableMods" value="충돌로 인해 모드가 비활성화되었습니다. 다시 활성화하려면 모드 화면으로 이동하세요."/>
 	<entry name="TermsAndConditions" value="이용약관"/>
 	<entry name="TurnTimerPaused" value="%1%이(가) 타이머를 일시 정지했습니다."/>

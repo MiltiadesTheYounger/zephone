@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="Error al guardar la captura de pantalla"/>
 	<entry name="ServerUnreachable" value="No se ha podido conectar con el servidor.<br/><br/>Para mejorar la conectividad, asegúrate de que has desactivado los cortafuegos y activado UPnP en tu rúter o reenviado el puerto TCP %1% a tu máquina local."/>
 	<entry name="SelectTarget" value="Seleccionar objetivo"/>
+	<entry name="StatsExportError" value="Error al exportar las estadísticas"/>
+	<entry name="StatsExported" value="Estadísticas exportadas"/>
 	<entry name="TerminatedWithDisableMods" value="Los mods se han desactivado debido a un fallo. Consulta la pantalla de mods para volver a activarlos."/>
 	<entry name="TermsAndConditions" value="Términos y condiciones"/>
 	<entry name="TurnTimerPaused" value="%1% ha pausado el temporizador."/>

@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="Erreur d'enregistrement de la capture d'écran"/>
 	<entry name="ServerUnreachable" value="Impossible de se connecter au serveur.<br/><br/>Pour améliorer la connectivité, assurez-vous d'avoir désactivé vos pare-feu et activé UPnP sur votre routeur ou transféré le port TCP %1% vers votre machine locale."/>
 	<entry name="SelectTarget" value="Sélectionner la cible"/>
+	<entry name="StatsExportError" value="Erreur d'exportation des stats"/>
+	<entry name="StatsExported" value="Stats exportées"/>
 	<entry name="TerminatedWithDisableMods" value="Les mods ont été désactivés à cause d'un crash. Consultez l'écran des mods pour les réactiver."/>
 	<entry name="TermsAndConditions" value="Conditions d'utilisation"/>
 	<entry name="TurnTimerPaused" value="%1% a suspendu le chrono."/>

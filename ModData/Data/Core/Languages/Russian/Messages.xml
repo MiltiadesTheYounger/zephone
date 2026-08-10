@@ -49,6 +49,8 @@
 	<entry name="ScreenShotSaveError" value="Ошибка при сохранении скриншота"/>
 	<entry name="ServerUnreachable" value="Не удалось подключиться к серверу.&lt;br/&gt;&lt;br/&gt;Чтобы улучшить подключение, убедитесь, что вы отключили брандмауэры и включили UPnP на своём маршрутизаторе или перенаправили TCP-порт %1% к своему локальному устройству."/>
 	<entry name="SelectTarget" value="Укажите цель"/>
+	<entry name="StatsExportError" value="Ошибка при экспорте статистики"/>
+	<entry name="StatsExported" value="Статистика экспортирована"/>
 	<entry name="TerminatedWithDisableMods" value="Моды были отключены из-за сбоя. Посетите экран модов, чтобы снова их включить."/>
 	<entry name="TermsAndConditions" value="Условия и положения"/>
 	<entry name="TurnTimerPaused" value="%1% ставит таймер на паузу."/>

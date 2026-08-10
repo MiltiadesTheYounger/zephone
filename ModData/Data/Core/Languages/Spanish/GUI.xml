@@ -131,6 +131,8 @@
 	<entry name="Events" value="Eventos"/>
 	<entry name="ExecuteQueuedOrder" value="Ejecutar orden (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Ejecuta la orden en cola en el turno anterior [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] para ejecutar todas las órdenes en cola.<br/>[<control name='SelectNext'/>] para seleccionar la unidad siguiente.<br/>[<control name='SelectPrevious'/>] para seleccionar la unidad anterior."/>
+	<entry name="Export" value="Exportar"/>
+	<entry name="ExportHint" value="Exportar estadísticas a «%1%»."/>
 	<entry name="Extra" value="Extra"/>
 	<entry name="ExitCity" value="Salir de la ciudad"/>
 	<entry name="ExitCityHint" value="Salir de la pantalla de ciudad [<control name='NextTask'/>]."/>

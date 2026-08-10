@@ -131,6 +131,8 @@
 	<entry name="Events" value="Événements"/>
 	<entry name="ExecuteQueuedOrder" value="Exécuter l'ordre (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Exécuter l'ordre mis en file d'attente au tour précédent [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] pour exécuter tous les ordres en attente.<br/>[<control name='SelectNext'/>] pour sélectionner l'unité suivante.<br/>[<control name='SelectPrevious'/>] pour sélectionner l'unité précédente."/>
+	<entry name="Export" value="Exporter"/>
+	<entry name="ExportHint" value="Exporter les stats vers « %1% »."/>
 	<entry name="Extra" value="Bonus"/>
 	<entry name="ExitCity" value="Quitter la ville"/>
 	<entry name="ExitCityHint" value="Quitter l'écran de la ville [<control name='NextTask'/>]."/>

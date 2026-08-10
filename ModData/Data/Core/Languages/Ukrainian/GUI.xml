@@ -457,4 +457,6 @@
 	<entry name="StatsHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Stats'/&gt; [&lt;control name='ToggleStatsScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Переглядайте рахунок, економіку, військову міць та інші показники кожного гравця."/>
 	<entry name="ToggleYieldOverlayHint" value="&lt;style name='Title'/&gt;&lt;string name='Settings/Controls/ToggleYieldOverlay'/&gt; [&lt;control name='ToggleYieldOverlay'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Показати або сховати прибутки та інші відомості про клітинки на карті світу."/>
 	<entry name="WorldHUDExtraButtonsHint" value="Перемкнути додаткові кнопки світового HUD."/>
+	<entry name="Export" value="Експортувати"/>
+	<entry name="ExportHint" value="Експортувати статистику до «%1%»."/>
 </language>
