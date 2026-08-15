@@ -19,7 +19,7 @@
 <entry name="AgainstZephonTitanUnits" value=" проти титанів ЗЕФОНА"/>
 <entry name="AgainstUnitsAtRange1" value=" проти юнітів на дальності 1"/>
 <entry name="AgainstUnitsAtRange1Or2" value=" проти юнітів на дальності 1 або 2"/>
-<entry name="AgainstUnitsBelow50%Hitpoints" value=" проти юнітів із менш ніж 50% од. здоров'я"/>
+<entry name="AgainstUnitsBelow50%Hitpoints" value=" проти юнітів із менш ніж 50% од. здоров’я"/>
 <entry name="AlgaeUpgrade" value=" за кожну будівлю «Теплиці» в місті"/>
 <entry name="AntimatterUpgrade" value=" у типах місцевості пустеля та схеми або на ресурсі &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 <entry name="ArchaiConstruct" value=" не від здібності «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
@@ -94,7 +94,7 @@
 <entry name="LoyaltyUpgrade" value=" кожен хід за кожну будівлю «&lt;string name='Buildings/Loyalty'/&gt;» у місті"/>
 <entry name="OfFlagshipProductOnDeath" value="&lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
 <entry name="OfTargetAlliedUnit" value=" вказаного союзного юніта"/>
-<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. здоров'я"/>
+<entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. здоров’я"/>
 <entry name="OfTargetEnemyAbkluth" value=" вказаного ворожого юніта абклюта"/>
 <entry name="OnAdjacentTilesToTarget" value=" на суміжних із ціллю клітинках"/>
 <entry name="OnAttack" value=" під час атаки"/>
@@ -136,7 +136,7 @@
 <entry name="ToAdjacentEnemyLargeMechanicalUnits" value=" суміжним ворожим великим механічним юнітам"/>
 <entry name="ToAdjacentEnemyLargeMechanicalNonTitanUnits" value=" суміжним ворожим великим механічним юнітам НЕ-титанам"/>
 <entry name="ToAdjacentUnits" value=" суміжним юнітам"/>
-<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" суміжним юнітам при кількості од. здоров'я менш ніж 75%"/>
+<entry name="ToAdjacentUnitsWhileBelow75PercentHitpoints" value=" суміжним юнітам при кількості од. здоров’я менш ніж 75%"/>
 <entry name="ToAlliedBiologicalUnitsEachTurn" value=" союзним біологічним юнітам кожен хід"/>
 <entry name="ToAlliedMechanicalUnitsInTheArea" value=" союзним механічним юнітам у області"/>
 <entry name="ToAlliedNonLargeUnitsInTheArea" value=" союзним НЕ-великим юнітам у області"/>
@@ -144,7 +144,7 @@
 <entry name="ToAlliedUnitsEachTurn" value=" союзним юнітам кожен хід"/>
 <entry name="ToAlliedUnitsInTheArea" value=" союзним юнітам у області"/>
 <entry name="ToAlliedUnitsOnTargetAndAdjacentTiles" value=" союзним юнітам на вказаній і суміжних клітинках"/>
-<entry name="ToAnchorite" value=" Пустельниці"/>
+<entry name="ToAnchorite" value=" Анахорету"/>
 <entry name="ToAttackedEnemy" value=" атакованому ворогу"/>
 <entry name="ToAttacker" value=" атакуючому"/>
 <entry name="ToBiologicalEnemy" value=" біологічному ворогу"/>
@@ -152,7 +152,7 @@
 <entry name="ToBiologicalUnits" value=" біологічним юнітам"/>
 <entry name="ToBuildingsOnTargetAlliedCityTile" value=" будівлі на клітинці вашого союзного міста"/>
 <entry name="ToChieftess" value=" Вождині"/>
-<entry name="ToChieftessAnchoriteZephon" value=" Вождині, Пустельниці і ЗЕФОНу"/>
+<entry name="ToChieftessAnchoriteZephon" value=" Вождині, Анахорету і ЗЕФОНу"/>
 <entry name="ToCity" value=" місту"/>
 <entry name="ToEnemy" value=" ворогу"/>
 <entry name="ToEnemyCity" value=" ворожому місту"/>
@@ -217,7 +217,7 @@
 <entry name="WhileAbove2Loyalty" value=" при лояльності понад 2"/>
 <entry name="WhileAbove8Loyalty" value=" при лояльності понад 8"/>
 <entry name="WhileAdjacentToAlliedUnits" value=" при сусідстві з союзними юнітами"/>
-<entry name="WhileBelow50%Hitpoints" value=" при кількості од. здоров'я менш ніж 50%"/>
+<entry name="WhileBelow50%Hitpoints" value=" при кількості од. здоров’я менш ніж 50%"/>
 <entry name="WhileAlliedNonFlyingUnitOnTile" value=" при перебуванні на клітинці союзного НЕ-літаючого юніта"/>
 	<entry name="WhileInsideCity" value=" в межах міста"/>
 <entry name="WithMeleeWeapons" value=" зі зброєю ближнього бою"/>
