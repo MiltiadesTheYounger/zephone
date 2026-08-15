@@ -25,7 +25,7 @@
 	<entry name="AtRange1" value=" на дальности 1"/>
 	<entry name="AtRange2OrHigher" value=" на дальности 2 или выше"/>
 	<entry name="OfInvadingDreameater" value=" вторгающегося сноедца"/>
-	<entry name="AntimatterUpgrade" value=" в типах местности пустыня и схемы или на &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
+	<entry name="AntimatterUpgrade" value=" на местности пустыня и схемы или на особенности &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 	<entry name="ArchaiConstruct" value=" не от способности «&lt;string name='Actions/ParticleRepair'/&gt;»"/>
 	<entry name="Assassinate" value=" вражеским юнитам в области, если цель погибает"/>
 	<entry name="AtMostPerAttack" value=" (макс.) за атаку"/>
@@ -44,7 +44,7 @@
 	<entry name="EachTurnResourceNetwork" value=" каждый ход (&lt;icon texture='Icons/Traits/ResourceNetwork' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/ResourceNetwork'/&gt;)"/>
 	<entry name="EachTurnWhileInsideCity" value=" каждый ход внутри города"/>
 	<entry name="Encircle" value=" при атаке вражеского юнита, смежного с хотя бы двумя союзными юнитами, у которых есть «&lt;string name='Traits/Encircle'/&gt;»"/>
-	<entry name="EnergyUpgrade" value=" в типах местности арктика и болото"/>
+	<entry name="EnergyUpgrade" value=" на местности арктика и болото"/>
 	<entry name="Every5Turns" value=" каждые 5 ходов"/>
 	<entry name="Every10Turns" value=" каждые 10 ходов"/>
 	<entry name="ForActions" value=" от действий"/>
@@ -104,7 +104,7 @@
 	<entry name="OfTargetEnemyAbkluth" value=" указанного вражеского юнита абклютов"/>
 	<entry name="OnAdjacentTilesToTarget" value=" на смежных с целью клетках"/>
 	<entry name="OnAttack" value=" при атаке"/>
-	<entry name="OnBleed" value=" на Течи или &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
+	<entry name="OnBleed" value=" на Течи или на особенности &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 	<entry name="OnCliffs" value=" на утёсах"/>
 	<entry name="OnCoast" value=" на берегу"/>
 	<entry name="OnDeath" value=" при гибели"/>

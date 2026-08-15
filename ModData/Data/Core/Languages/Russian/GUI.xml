@@ -131,8 +131,8 @@
 	<entry name="Events" value="События"/>
 	<entry name="ExecuteQueuedOrder" value="Исполнить приказ (1/%1%)"/>
 	<entry name="ExecuteQueuedOrderHint" value="Исполнить приказы, поставленные в очередь в предыдущий ход [&lt;control name='NextTask'/&gt;].&lt;br/&gt;[&lt;string name='Controls/MouseRight'/&gt;] — исполнить все приказы в очереди.&lt;br/&gt;[&lt;control name='SelectNext'/&gt;] — выбрать следующий юнит.&lt;br/&gt;[&lt;control name='SelectPrevious'/&gt;] — выбрать предыдущий юнит."/>
-	<entry name="Export" value="Экспортировать"/>
-	<entry name="ExportHint" value="Экспортировать статистику в «%1%»."/>
+	<entry name="Export" value="Выгрузить"/>
+	<entry name="ExportHint" value="Выгрузить статистику — %1%"/>
 	<entry name="Extra" value="Особое"/>
 	<entry name="ExitCity" value="Выйти из города"/>
 	<entry name="ExitCityHint" value="Закрыть экран города [&lt;control name='NextTask'/&gt;]."/>
