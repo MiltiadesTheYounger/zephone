@@ -483,7 +483,9 @@
 	<entry name="StormOfStorms/AssaultStormhearthSuccess/TakeOverFacility" value="<style name='Bold'/>夺取设施：<style name='Paragraph'/>阿波琳想要终结战争。但在这么做的过程中，她反而是为你找到了最完美的武器。"/>
 	<entry name="StormOfStorms/AssaultStormhearthSuccess/DestroyFacility" value="<style name='Bold'/>摧毁设施：<style name='Paragraph'/>没有人可以控制这种毁天灭地的力量。这一切到此结束。"/>
 	<entry name="StormOfStorms/AssaultStormhearthFailure" value="远方的爆炸标志着风暴熔炉设施的毁灭，完美风暴也随即消散了。但所有人仍然保持着提心吊胆的状态。并不是你的人制造了那场爆炸，所以你并不确定那些环境改造科技出了什么事。希望那些东西确实是被摧毁了。但如果爆炸只是阿波琳的障眼法，她打算将来故技重施？"/>
-	<entry name="StormOfStorms/TakeOverFacility" value="这样的能量是否过于巨大？也许任何人都不该拥有像这样操纵自然的能力？<br/><br/>“对”，你的工程师回答得很干脆。当然了，她指的是设施的能源消耗需求，而不是将自然风暴当成武器使用的道德和伦理考量。你将需要数量令人发指的能源来维系设备的运作。<br/><br/>她并没有时间去考虑那些问题。女人只是想要努力活下来。但你现在手上就有一样现成的武器能够保障人民的安全。<br/><br/>好好利用风暴的力量吧。"/>
+	<entry name="StormOfStorms/TakeOverFacility" value="<string name='Quests/StormOfStorms/TakeOverFacility1'/><br/><br/><string name='Quests/StormOfStorms/TakeOverFacility2'/>"/>
+	<entry name="StormOfStorms/TakeOverFacility1" value="这样的能量是否过于巨大？也许任何人都不该拥有像这样操纵自然的能力？“对”，你的工程师回答得很干脆。当然了，她指的是设施的能源消耗需求，而不是将自然风暴当成武器使用的道德和伦理考量。"/>
+	<entry name="StormOfStorms/TakeOverFacility2" value="你将需要数量令人发指的能源来维系设备的运作。<br/><br/>她并没有时间去考虑那些问题。女人只是想要努力活下来。但你现在手上就有一样现成的武器能够保障人民的安全。<br/><br/>好好利用风暴的力量吧。"/>
 	<entry name="StormOfStorms/DestroyFacility" value="阿波琳的风暴武器已经被摧毁。你通过监控画面看见完美风暴逐渐停息，原本汹涌的天空重新回到了阳光明媚的晴朗状态。你的城市就屹立在远处，那里的人民不用再担心会被可怕的大自然淹没、冰冻或碾碎。<br/><br/>区区一艘从轨道层坠毁的厄金人飞船以及其中残存的科技就蕴含着能够摧毁无数城市的力量。那个一直高悬在头顶的舰队坟场中到底还徘徊着多少无法想象的恐怖？<br/><br/>现在你唯一能做的就是走一步看一步。眼前的这场战斗已经结束，你可以将精力重新放在战争之上了。"/>
 	<entry name="StormOfStorms/BegAndBargain" value="一开始阿波琳说什么也不肯退让。无论是金钱、补给还是武器她统统不想要。她告诉你说，他们宁愿在沙漠中活活饿死，也不愿意接受贿赂好让你的战争机器继续运转。“如果我们就此放弃，等你们喘过气来之后肯定不会放过我们的，“她斩钉截铁地说道。<br/><br/>你只能用祭出最后一招大杀器：核威慑。<br/><br/>你从平板里调出了一个监控摄像头的画面，里面是一个装满了核废料桶的集装箱。只要将这个东西摆在完美风暴的必经之路上，两者将结合成为毁灭性的脏弹，届时散播出去的污染物将毒害整颗星球数百年。<br/><br/>谈判室里面鸦雀无声。就连你自己的手下都已经准备好上前阻止你。不过阿波琳脸上的表情已经告诉了你，她并没有自己想象的那样冷酷无情。<br/><br/><string name='Quests/StormOfStorms/BegAndBargain2'/>"/>
 	<entry name="StormOfStorms/BegAndBargain2" value="双方最终达成了协议。你将支持阿波琳在废土上继续进行人道主义工作，而她则答应会将风暴熔炉设施藏起来。哪怕是在这样的末世，同归于尽仍然是一种最有效的威慑手段。"/>
