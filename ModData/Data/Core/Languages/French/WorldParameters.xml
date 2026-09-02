@@ -462,6 +462,10 @@
 	<entry name="SwampRegionDensity3" value="Intermédiaire"/>
 	<entry name="SwampRegionDensity4" value="Élevée"/>
 	<entry name="SwampRegionDensity5" value="Très élevée"/>	
+	<entry name="SymmetricMap" value="Carte symétrique (expérimental)"/>
+	<entry name="SymmetricMapHint" value="Génère un terrain symétrique et des positions de départ appariées pour des parties compétitives plus équitables."/>
+	<entry name="TeamStarts" value="Départs d'équipe (expérimental)"/>
+	<entry name="TeamStartsHint" value="Place les joueurs de la même équipe les uns près des autres, à environ 8<nbsp/>cases de distance."/>
 	<entry name="TempleOfCrlaDensity" value="Densité des temples de Crla"/>
 	<entry name="TempleOfCrlaDensity0" value="Aucune"/>
 	<entry name="TempleOfCrlaDensity1" value="Très faible"/>

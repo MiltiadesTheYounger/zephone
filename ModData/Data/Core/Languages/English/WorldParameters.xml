@@ -462,6 +462,10 @@
 	<entry name="SwampRegionDensity3" value="Medium"/>
 	<entry name="SwampRegionDensity4" value="High"/>
 	<entry name="SwampRegionDensity5" value="Very High"/>	
+	<entry name="SymmetricMap" value="Symmetric Map (Experimental)"/>
+	<entry name="SymmetricMapHint" value="Generates symmetric terrain and paired starting positions for fairer competitive games."/>
+	<entry name="TeamStarts" value="Team Starts (Experimental)"/>
+	<entry name="TeamStartsHint" value="Places players on the same team near each other, approximately 8 tiles apart."/>
 	<entry name="TempleOfCrlaDensity" value="Temple of Crla Density"/>
 	<entry name="TempleOfCrlaDensity0" value="None"/>
 	<entry name="TempleOfCrlaDensity1" value="Very Low"/>

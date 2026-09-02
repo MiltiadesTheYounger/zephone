@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="首先选择英雄，然后再选择收取物品，或者在<icon height='20' texture='Icons/Shop'/><nbsp/>协调者<nbsp/>那里出售物品。"/>
 	<entry name="ClearNotifications" value="清空提醒"/>
 	<entry name="ClearNotificationsHint" value="清空所有提醒[<control name='NextTask'/>]。"/>
+	<entry name="ClearSearchHint" value="清空搜索。"/>
 	<entry name="Close" value="关闭"/>
 	<entry name="CloseHint" value="<style name='Title'/>关闭[<control name='Cancel'/>]"/>
 	<entry name="Communications" value="通讯"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="社区"/>
 	<entry name="Compendium" value="百科"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>查看游戏概念、单位、建筑、科技以及已发现的传承。"/>
+	<entry name="CompendiumSearchHint" value="搜索所有百科条目名称。"/>
 	<entry name="Connect" value="连接"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> 消耗动作点"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> 消耗移动点"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="移动点耗尽。"/>
 	<entry name="NoResearchSelected" value="未选择科研"/>
 	<entry name="NoPointsRemaining" value="点数耗尽。"/>
+	<entry name="NoSearchResults" value="无搜索结果。"/>
 	<entry name="NoValidTargets" value="缺少有效目标。"/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>Demo中不可用。"/>
 	<entry name="NotEnoughResources" value="缺少资源。"/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="科研"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>选择新科技并查看科技树。"/>
 	<entry name="ResearchCost" value="科研费用"/>
+	<entry name="ResearchSearchHint" value="搜索所显示分支中的科技详情。"/>
 	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>研究上一阶段的%1%科技以解锁。"/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%]滚动至此阶级。"/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="自己"/>
 	<entry name="Scenarios" value="场景"/>
 	<entry name="Scores" value="得分"/>
+	<entry name="Search" value="搜索"/>
 	<entry name="SelectCityHint" value="选择城市。"/>
 	<entry name="SelectColorHint" value="选择颜色。"/>
 	<entry name="SelectDifficultyHint" value="选择难度。"/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="版本"/>
 	<entry name="VersionRevisionsDiffer" value="版本存在差异（本地=%1%，服务器=%2%）。"/>
 	<entry name="Victorious" value="胜利"/>
+	<entry name="ViewOnSteam" value="在Steam上查看"/>
 	<entry name="Voice" value="秘音"/>
 	<entry name="Weapon" value="武器"/>
 	<entry name="Weapons" value="武器"/>

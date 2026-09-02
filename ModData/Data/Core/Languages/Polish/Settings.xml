@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Automatyczne przejście (jednostka)"/>
 	<entry name="General/AutoCycleUnitsHint" value="Automatyczne przejście do następnej bezczynnej jednostki."/>
+	<entry name="General/AutoSave" value="Automatyczny zapis"/>
+	<entry name="General/AutoSave0" value="Brak"/>
+	<entry name="General/AutoSave1" value="Co<nbsp/>turę"/>
+	<entry name="General/AutoSaveHint" value="Określa, jak często gra jest zapisywana automatycznie."/>
+	<entry name="General/AutoSaveTurns" value="Co<nbsp/>%1% tur(y)"/>
 	<entry name="General/AutoSendReports" value="Wysyłaj statystyki użytkowania i<nbsp/>raporty o<nbsp/>awariach"/>
 	<entry name="General/AutoSendReportsHint" value="Automatyczne wysyłanie statystyk użytkowania i<nbsp/>raportów o<nbsp/>awariach do Proxy Studios, aby pomóc w<nbsp/>usprawnieniu funkcji gry, jej stabilności oraz działania.<br/><br/><style color='GUI/Yellow'/>Prywatność jest dla nas bardzo ważna. Chcemy zbierać tylko dane niezbędne do usprawniania gry dla wszystkich użytkowników. Gromadzone informacje obejmują zanonimizowane interakcje z<nbsp/>grą (na przykład liczbę prób połączeń z<nbsp/>grą wieloosobową, także nieudanych, rodzajów rozpoczętych rozgrywek, użytych funkcji, klikanych przycisków oraz czasu gry), a<nbsp/>także zanonimizowane informacje techniczne (na przykład o<nbsp/>wersji i<nbsp/>języku gry, systemie operacyjnym, konfiguracji sprzętowej, a<nbsp/>także podstawowe informacje o<nbsp/>błędach i<nbsp/>awariach). Dane te są przetwarzane w<nbsp/>celu dostarczenia użytkownikom niezawodnego produktu wysokiej jakości. Przechowuje się je nie dłużej niż rok i<nbsp/>nie są one udostępniane osobom trzecim."/>
 	<entry name="General/EdgeScroll" value="Przesuwanie na krawędziach"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>Zmiana tego ustawienia zostanie wprowadzona po ponownym uruchomieniu gry."/>
 	<entry name="Video/DisplayMode" value="Tryb wyświetlania"/>
 	<entry name="Video/DisplayMode0" value="Pełny ekran"/>
-	<entry name="Video/DisplayMode1" value="Okno"/>
-	<entry name="Video/DisplayMode2" value="Bez obramowania"/>
+	<entry name="Video/DisplayMode1" value="Pełny ekran bez obramowania"/>
+	<entry name="Video/DisplayMode2" value="Okno"/>
+	<entry name="Video/DisplayMode3" value="Okno bez dekoracji"/>
 	<entry name="Video/DisplayModeHint" value="Umożliwia zmianę trybu wyświetlania gry. Tryby okien mogą spowodować spadek płynności.<br/><br/><style color='GUI/Yellow'/>Tryb okna może działać najlepiej w<nbsp/>czasie nagrywania w<nbsp/>rozdzielczości systemowej."/>
 	<entry name="Video/Exposure" value="Ekspozycja"/>
 	<entry name="Video/ExposureHint" value="Rozjaśnia lub zaciemnia scenę, nie wpływając na graficzny interfejs użytkownika."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="Monitor pełnoekranowy"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Rendering wielowątkowy"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Wykorzystuje do renderingu wiele rdzeni procesora, co może zwiększyć płynność. Wyłączenie tego ustawienia może usunąć ewentualne artefakty wizualne."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Wykorzystuje do renderingu wiele rdzeni procesora, co może zwiększyć płynność.<br/><br/><style color='GUI/Yellow'/>Włączenie tego ustawienia może powodować awarie na niektórych systemach."/>
 	<entry name="Video/Resolution" value="Rozdzielczość"/>
 	<entry name="Video/ResolutionHint" value="Pozwala zmienić rozdzielczość, w<nbsp/>jakiej wyświetlana jest gra. Wyższe rozdzielczości dają lepszy obraz, ale mocno wpływają na płynność działania."/>
 	<entry name="Video/ShadowQuality" value="Jakość cieni"/>
 	<entry name="Video/ShadowQuality0" value="Niska"/>
 	<entry name="Video/ShadowQuality1" value="Średnia"/>
 	<entry name="Video/ShadowQuality2" value="Wysoka"/>
-	<entry name="Video/ShadowQualityHint" value="Określa wielkość mapy cieni używanej w<nbsp/>renderingu cieni. Wyższa jakość cieni sprawia, że są one bardziej szczegółowe, ale wymaga wydajniejszej karty graficznej."/>
+	<entry name="Video/ShadowQualityHint" value="Określa rozdzielczość mapy cieni używanej w<nbsp/>renderingu cieni. Wyższa jakość daje ostrzejsze, bardziej szczegółowe cienie, ale zwiększa obciążenie GPU i<nbsp/>zużycie VRAM oraz może zmniejszyć wydajność."/>
+	<entry name="Video/SSAOQuality" value="Jakość SSAO"/>
+	<entry name="Video/SSAOQuality0" value="Niska"/>
+	<entry name="Video/SSAOQuality1" value="Średnia"/>
+	<entry name="Video/SSAOQuality2" value="Wysoka"/>
+	<entry name="Video/SSAOQualityHint" value="Określa rozdzielczość używaną w<nbsp/>renderingu ekranowej okluzji otoczenia. Wyższa jakość daje bardziej szczegółową okluzję otoczenia, ale może znacząco obniżyć płynność działania przy wysokich rozdzielczościach wyświetlania, zwłaszcza 4K i<nbsp/>8K."/>
 	<entry name="Video/TextureQuality" value="Jakość tekstur"/>
 	<entry name="Video/TextureQuality0" value="Niska"/>
 	<entry name="Video/TextureQuality1" value="Średnia"/>
 	<entry name="Video/TextureQuality2" value="Wysoka"/>
-	<entry name="Video/TextureQualityHint" value="Określa wielkość tekstur używanych w<nbsp/>grze. Wyższa jakość tekstur poprawia wygląd terenu i<nbsp/>jednostek, ale wymaga większej pamięci graficznej (VRAM)."/>
+	<entry name="Video/TextureQualityHint" value="Określa maksymalną rozdzielczość tekstur używanych w<nbsp/>grze. Wyższa jakość daje bardziej szczegółowy teren i<nbsp/>jednostki, ale zużywa znacznie więcej VRAM i<nbsp/>może zmniejszyć wydajność na kartach graficznych z<nbsp/>ograniczoną pamięcią."/>
 	<entry name="Video/VerticalSynchronization" value="Synchronizacja pionowa"/>
 	<entry name="Video/VerticalSynchronization-1" value="Adaptacyjna"/>
 	<entry name="Video/VerticalSynchronization0" value="Brak"/>

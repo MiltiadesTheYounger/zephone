@@ -4,8 +4,8 @@
 	<entry name="BetaStartTitle" value="Bienvenido a la beta del juego"/>
 	<entry name="CallDeclined" value="Llamada rechazada"/>
 	<entry name="ConfirmDelete" value="¿Seguro que quieres borrar «%1%»?"/>
-	<entry name="ConfirmDisband" value="¿Seguro que quieres disolver «%1%»?"/>
-	<entry name="ConfirmDismantle" value="¿Seguro que quieres desmantelar «%1%»?"/>
+	<entry name="ConfirmDisband" value="¿Seguro que quieres disolver «%1%»? Su coste de producción no se reembolsará."/>
+	<entry name="ConfirmDismantle" value="¿Seguro que quieres desmantelar «%1%»? Su coste de construcción no se reembolsará."/>
 	<entry name="ConfirmOverwrite" value="¿Seguro que quieres sobrescribir «%1%»?"/>
 	<entry name="ConfirmRemoveItem" value="¿Seguro que quieres destruir «%1%»?"/>
 	<entry name="ConfirmRestoreDefaults" value="¿Seguro que quieres restaurar la configuración de %1% por defecto?"/>

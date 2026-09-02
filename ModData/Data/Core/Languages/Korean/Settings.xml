@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="유닛 자동 순환"/>
 	<entry name="General/AutoCycleUnitsHint" value="자동으로 다음 유휴 유닛으로 넘어갑니다."/>
+	<entry name="General/AutoSave" value="자동 저장"/>
+	<entry name="General/AutoSave0" value="없음"/>
+	<entry name="General/AutoSave1" value="매 턴"/>
+	<entry name="General/AutoSaveHint" value="게임이 자동으로 저장되는 빈도를 결정합니다."/>
+	<entry name="General/AutoSaveTurns" value="%1%턴마다"/>
 	<entry name="General/AutoSendReports" value="사용 통계 및 충돌 보고서 전송"/>
 	<entry name="General/AutoSendReportsHint" value="게임의 기능, 안정성 및 성능을 개선하기 위해 사용 통계 및 충돌 보고서를 Proxy Studios에 자동으로 전송합니다.<br/><br/><style color='GUI/Yellow'/>당사는 개인 정보 보호를 중요하게 여깁니다. 당사는 모두를 위한 게임 개선에 필요한 정보만 수집하고자 노력합니다. 수집하는 데이터에는 게임과의 익명화된 상호작용(멀티플레이어 연결 시도 및 실패 횟수, 시작된 게임 유형, 사용된 기능, 클릭한 버튼, 플레이 시간 등)과 익명화된 기술적 정보(게임 버전 및 언어, 운영 체제 및 하드웨어 구성, 충돌 및 오류에 대한 기본 정보 등)가 포함됩니다. 이 데이터는 고품질의 신뢰할 수 있는 제품 제공이라는 합리적인 목적을 바탕으로 처리됩니다. 데이터는 최대 1년 동안 저장되며 제3자와 공유하지 않습니다."/>
 	<entry name="General/EdgeScroll" value="가장자리 스크롤"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>이 설정을 변경을 적용하려면 게임을 다시 시작해야 합니다."/>
 	<entry name="Video/DisplayMode" value="디스플레이 모드"/>
 	<entry name="Video/DisplayMode0" value="전체 화면"/>
-	<entry name="Video/DisplayMode1" value="창 모드"/>
-	<entry name="Video/DisplayMode2" value="테두리 없음"/>
+	<entry name="Video/DisplayMode1" value="테두리 없는 전체 화면"/>
+	<entry name="Video/DisplayMode2" value="창 모드"/>
+	<entry name="Video/DisplayMode3" value="장식 없는 창 모드"/>
 	<entry name="Video/DisplayModeHint" value="게임의 디스플레이 모드를 변경할 수 있습니다. 창 모드를 사용하면 성능이 저하될 수 있습니다.<br/><br/><style color='GUI/Yellow'/>창 모드는 기본 해상도로 녹화할 때 가장 효과적일 수 있습니다."/>
 	<entry name="Video/Exposure" value="노출"/>
 	<entry name="Video/ExposureHint" value="그래픽 사용자 인터페이스에 영향을 주지 않고 장면을 밝거나 어둡게 합니다."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="전체 화면 모니터"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="멀티 스레드 렌더링"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="렌더링에 여러 개의 CPU 코어를 사용합니다. 성능이 향상됩니다. 이 설정을 비활성화하면 잠재적인 시각적 아티팩트가 제거될 수 있습니다."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="렌더링에 여러 개의 CPU 코어를 사용합니다. 성능이 향상됩니다.<br/><br/><style color='GUI/Yellow'/>이 설정을 활성화하면 일부 시스템에서 충돌이 발생할 수 있습니다."/>
 	<entry name="Video/Resolution" value="해상도"/>
 	<entry name="Video/ResolutionHint" value="게임의 디스플레이 해상도를 변경합니다. 해상도가 높을수록 선명도가 향상되지만 성능에 큰 영향을 미칩니다."/>
 	<entry name="Video/ShadowQuality" value="그림자 품질"/>
 	<entry name="Video/ShadowQuality0" value="낮음"/>
 	<entry name="Video/ShadowQuality1" value="보통"/>
 	<entry name="Video/ShadowQuality2" value="높음"/>
-	<entry name="Video/ShadowQualityHint" value="그림자 렌더링에 사용되는 섀도 맵의 크기를 결정합니다. 그림자 품질이 높을수록 그림자가 더 세밀해지지만, 더 강력한 그래픽 카드가 필요합니다."/>
+	<entry name="Video/ShadowQualityHint" value="그림자 렌더링에 사용되는 섀도 맵의 해상도를 결정합니다. 그림자 품질이 높을수록 그림자가 더 선명하고 세밀해지지만, GPU 부하와 VRAM 사용량이 증가하며 성능이 저하될 수 있습니다."/>
+	<entry name="Video/SSAOQuality" value="SSAO 품질"/>
+	<entry name="Video/SSAOQuality0" value="낮음"/>
+	<entry name="Video/SSAOQuality1" value="보통"/>
+	<entry name="Video/SSAOQuality2" value="높음"/>
+	<entry name="Video/SSAOQualityHint" value="스크린 공간 앰비언트 오클루전 렌더링에 사용되는 해상도를 결정합니다. 품질이 높을수록 앰비언트 오클루전이 더 세밀해지지만, 높은 디스플레이 해상도, 특히 4K와 8K에서는 성능이 크게 저하될 수 있습니다."/>
 	<entry name="Video/TextureQuality" value="텍스처 품질"/>
 	<entry name="Video/TextureQuality0" value="낮음"/>
 	<entry name="Video/TextureQuality1" value="보통"/>
 	<entry name="Video/TextureQuality2" value="높음"/>
-	<entry name="Video/TextureQualityHint" value="게임 전체에서 사용되는 텍스처의 크기를 결정합니다. 텍스처 품질이 높을수록 지형과 유닛이 더 세밀해지지만, 더 많은 비디오 메모리(VRAM)가 필요합니다."/>
+	<entry name="Video/TextureQualityHint" value="게임 전체에서 사용되는 텍스처의 최대 해상도를 결정합니다. 텍스처 품질이 높을수록 지형과 유닛이 더 세밀해지지만, 훨씬 더 많은 VRAM을 사용하며 메모리가 제한된 그래픽 카드에서는 성능이 저하될 수 있습니다."/>
 	<entry name="Video/VerticalSynchronization" value="수직 동기화"/>
 	<entry name="Video/VerticalSynchronization-1" value="적응형"/>
 	<entry name="Video/VerticalSynchronization0" value="없음"/>

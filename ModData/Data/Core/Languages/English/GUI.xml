@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Select hero before claiming item or sell at <icon height='20' texture='Icons/Shop'/><nbsp/>The<nbsp/>Concordat."/>
 	<entry name="ClearNotifications" value="Clear Notifications"/>
 	<entry name="ClearNotificationsHint" value="Clear all notifications [<control name='NextTask'/>]."/>
+	<entry name="ClearSearchHint" value="Clear search."/>
 	<entry name="Close" value="Close"/>
 	<entry name="CloseHint" value="<style name='Title'/>Close [<control name='Cancel'/>]"/>
 	<entry name="Communications" value="Communications"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="Community"/>
 	<entry name="Compendium" value="Compendium"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>Review game concepts, units, buildings, technologies and discovered lore."/>
+	<entry name="CompendiumSearchHint" value="Search all Compendium entry names."/>
 	<entry name="Connect" value="Connect"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Consumes action"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Consumes movement"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="No movement remaining."/>
 	<entry name="NoResearchSelected" value="No Research Selected"/>
 	<entry name="NoPointsRemaining" value="No points remaining."/>
+	<entry name="NoSearchResults" value="No search results."/>
 	<entry name="NoValidTargets" value="No valid targets."/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>Not available in demo."/>
 	<entry name="NotEnoughResources" value="Not enough resources."/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="Research"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>Choose new technologies and inspect the research tree."/>
 	<entry name="ResearchCost" value="Research Cost"/>
+	<entry name="ResearchSearchHint" value="Search technology details in the shown branches."/>
 	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Research %1% technologies from the previous tier to unlock."/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%] to scroll to this tier."/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="Self"/>
 	<entry name="Scenarios" value="Scenarios"/>
 	<entry name="Scores" value="Scores"/>
+	<entry name="Search" value="Search"/>
 	<entry name="SelectCityHint" value="Select city."/>
 	<entry name="SelectColorHint" value="Select color."/>
 	<entry name="SelectDifficultyHint" value="Select difficulty."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="Version"/>
 	<entry name="VersionRevisionsDiffer" value="Version revisions differ (local = %1%, server = %2%)."/>
 	<entry name="Victorious" value="Victorious"/>
+	<entry name="ViewOnSteam" value="View on Steam"/>
 	<entry name="Voice" value="Voice"/>
 	<entry name="Weapon" value="Weapon"/>
 	<entry name="Weapons" value="Weapons"/>

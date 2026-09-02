@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Selecciona al héroe antes de reclamar el objeto o vende en <icon height='20' texture='Icons/Shop'/><nbsp/>el<nbsp/>Concordato."/>
 	<entry name="ClearNotifications" value="Borrar notificaciones"/>
 	<entry name="ClearNotificationsHint" value="Borrar todas las notificaciones [<control name='NextTask'/>]."/>
+	<entry name="ClearSearchHint" value="Borrar búsqueda."/>
 	<entry name="Close" value="Cerrar"/>
 	<entry name="CloseHint" value="<style name='Title'/>Cerrar [<control name='Cancel'/>]"/>
 	<entry name="Communications" value="Comunicaciones"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="Comunidad"/>
 	<entry name="Compendium" value="Compendio"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>Consulta conceptos del juego, unidades, construcciones, tecnologías y lore descubierto."/>
+	<entry name="CompendiumSearchHint" value="Busca todos los nombres de entradas del Compendio."/>
 	<entry name="Connect" value="Conectar"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Consume acción"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Consume movimiento"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="No quedan movimientos."/>
 	<entry name="NoResearchSelected" value="No se ha seleccionado investigación"/>
 	<entry name="NoPointsRemaining" value="No quedan puntos."/>
+	<entry name="NoSearchResults" value="No hay resultados de búsqueda."/>
 	<entry name="NoValidTargets" value="No hay objetivos válidos."/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>No disponible en la demo."/>
 	<entry name="NotEnoughResources" value="Recursos insuficientes."/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="Investigación"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>Elige nuevas tecnologías e inspecciona el árbol de investigación."/>
 	<entry name="ResearchCost" value="Coste de investigación"/>
+	<entry name="ResearchSearchHint" value="Busca detalles de tecnologías en las ramas mostradas."/>
 	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Investiga tecnologías de tipo %1% del grado anterior para desbloquearlas."/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%] para desplazarse a este grado."/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="Propio"/>
 	<entry name="Scenarios" value="Situaciones"/>
 	<entry name="Scores" value="Puntuaciones"/>
+	<entry name="Search" value="Buscar"/>
 	<entry name="SelectCityHint" value="Selecciona la ciudad."/>
 	<entry name="SelectColorHint" value="Selecciona el color."/>
 	<entry name="SelectDifficultyHint" value="Selecciona la dificultad."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="Versión"/>
 	<entry name="VersionRevisionsDiffer" value="Las revisiones de la versión difieren (local = %1%, servidor = %2%)."/>
 	<entry name="Victorious" value="Victoria"/>
+	<entry name="ViewOnSteam" value="Ver en Steam"/>
 	<entry name="Voice" value="Voz"/>
 	<entry name="Weapon" value="Arma"/>
 	<entry name="Weapons" value="Armas"/>

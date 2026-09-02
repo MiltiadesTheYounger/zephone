@@ -538,4 +538,8 @@
 	<entry name="WatchtowerDensity3" value="Середня"/>
 	<entry name="WatchtowerDensity4" value="Висока"/>
 	<entry name="WatchtowerDensity5" value="Дуже висока"/>
+<entry name="SymmetricMap" value="Симетрична карта (експериментально)"/>
+<entry name="SymmetricMapHint" value="Створює симетричний рельєф і парні стартові позиції для чеснішої змагальної гри."/>
+<entry name="TeamStarts" value="Командний старт (експериментально)"/>
+<entry name="TeamStartsHint" value="Розміщує гравців однієї команди поруч, приблизно за 8 клітинок одне від одного."/>
 </language>

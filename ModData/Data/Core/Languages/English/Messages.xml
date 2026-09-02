@@ -4,8 +4,8 @@
 	<entry name="BetaStartTitle" value="Welcome to the Beta"/>
 	<entry name="CallDeclined" value="Call Declined"/>
 	<entry name="ConfirmDelete" value="Are you sure you want to delete “%1%”?"/>
-	<entry name="ConfirmDisband" value="Are you sure you want to disband “%1%”?"/>
-	<entry name="ConfirmDismantle" value="Are you sure you want to dismantle “%1%”?"/>
+	<entry name="ConfirmDisband" value="Are you sure you want to disband “%1%”? Its production cost will not be refunded."/>
+	<entry name="ConfirmDismantle" value="Are you sure you want to dismantle “%1%”? Its construction cost will not be refunded."/>
 	<entry name="ConfirmOverwrite" value="Are you sure you want to overwrite “%1%”?"/>
 	<entry name="ConfirmRemoveItem" value="Are you sure you want to destroy “%1%”?"/>
 	<entry name="ConfirmRestoreDefaults" value="Are you sure you want to restore the default %1% settings?"/>

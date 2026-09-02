@@ -462,6 +462,10 @@
 	<entry name="SwampRegionDensity3" value="Средняя"/>
 	<entry name="SwampRegionDensity4" value="Высокая"/>
 	<entry name="SwampRegionDensity5" value="Очень высокая"/>	
+	<entry name="SymmetricMap" value="Симметричная карта (экспериментально)"/>
+	<entry name="SymmetricMapHint" value="Генерирует симметричную местность и парные стартовые позиции для более честных соревновательных игр."/>
+	<entry name="TeamStarts" value="Командные старты (экспериментально)"/>
+	<entry name="TeamStartsHint" value="Размещает игроков одной команды рядом друг с другом, примерно на расстоянии 8 клеток друг от друга."/>
 	<entry name="TempleOfCrlaDensity" value="Плотность: капища Кр'ла"/>
 	<entry name="TempleOfCrlaDensity0" value="Нет"/>
 	<entry name="TempleOfCrlaDensity1" value="Очень низкая"/>

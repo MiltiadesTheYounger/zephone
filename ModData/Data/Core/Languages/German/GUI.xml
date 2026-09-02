@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Wähle einen Helden aus, bevor du den Gegenstand beanspruchst, oder verkaufe ihn über <icon height='20' texture='Icons/Shop'/><nbsp/>Das<nbsp/>Konkordat."/>
 	<entry name="ClearNotifications" value="Benachrichtigungen löschen"/>
 	<entry name="ClearNotificationsHint" value="Alle Benachrichtigungen löschen [<control name='NextTask'/>]."/>
+	<entry name="ClearSearchHint" value="Suche löschen."/>
 	<entry name="Close" value="Schließen"/>
 	<entry name="CloseHint" value="<style name='Title'/>Schließen [<control name='Cancel'/>]"/>
 	<entry name="Communications" value="Kommunikation"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="Community"/>
 	<entry name="Compendium" value="Kompendium"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>Überprüfe Spielkonzepte, Einheiten, Gebäude, Technologien und entdeckte Überlieferungen."/>
+	<entry name="CompendiumSearchHint" value="Suche nach den Namen aller Kompendium-Einträge."/>
 	<entry name="Connect" value="Verbinden"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Verbraucht Aktion"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Verbraucht Bewegung"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="Keine Bewegung verbleibend."/>
 	<entry name="NoResearchSelected" value="Keine Forschung ausgewählt"/>
 	<entry name="NoPointsRemaining" value="Keine Punkte verbleibend."/>
+	<entry name="NoSearchResults" value="Keine Suchergebnisse."/>
 	<entry name="NoValidTargets" value="Keine gültigen Ziele."/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>In der Demo nicht verfügbar."/>
 	<entry name="NotEnoughResources" value="Nicht genügend Ressourcen."/>
@@ -303,7 +306,8 @@
 	<entry name="Research" value="Forschung"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>Wähle neue Technologien und überprüfe den Forschungsbaum."/>
 	<entry name="ResearchCost" value="Forschungskosten"/>
-	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Erforsche zur Freischaltung %1% der Technologien aus der vorherigen Stufe."/>
+	<entry name="ResearchSearchHint" value="Suche nach Technologiedetails in den angezeigten Zweigen."/>
+	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Erforsche %1% Technologien der vorherigen Stufe, um sie freizuschalten."/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%], um zu dieser Stufe zu scrollen."/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% gesammelt"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="Selbst"/>
 	<entry name="Scenarios" value="Szenarien"/>
 	<entry name="Scores" value="Punkte"/>
+	<entry name="Search" value="Suche"/>
 	<entry name="SelectCityHint" value="Wähle eine Stadt."/>
 	<entry name="SelectColorHint" value="Wähle eine Farbe."/>
 	<entry name="SelectDifficultyHint" value="Wähle die Schwierigkeit."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="Version"/>
 	<entry name="VersionRevisionsDiffer" value="Die Versionen unterscheiden sich (lokal = %1%, Server = %2%)."/>
 	<entry name="Victorious" value="Siegreich"/>
+	<entry name="ViewOnSteam" value="Auf Steam ansehen"/>
 	<entry name="Voice" value="Stimme"/>
 	<entry name="Weapon" value="Waffe"/>
 	<entry name="Weapons" value="Waffen"/>

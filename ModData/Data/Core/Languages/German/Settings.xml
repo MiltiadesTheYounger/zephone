@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Einheiten autom. durchschalten"/>
 	<entry name="General/AutoCycleUnitsHint" value="Schaltet automatisch zur nächsten inaktiven Einheit weiter."/>
+	<entry name="General/AutoSave" value="Automatisch speichern"/>
+	<entry name="General/AutoSave0" value="Keine"/>
+	<entry name="General/AutoSave1" value="Jeden Zug"/>
+	<entry name="General/AutoSaveHint" value="Bestimmt, wie oft das Spiel automatisch gespeichert wird."/>
+	<entry name="General/AutoSaveTurns" value="Alle %1% Züge"/>
 	<entry name="General/AutoSendReports" value="Nutzungsstatistiken und Absturzberichte senden"/>
 	<entry name="General/AutoSendReportsHint" value="Sende automatisch Nutzungsstatistiken und Absturzberichte an Proxy Studios, um die Funktionen, die Stabilität und die Leistung des Spiels zu verbessern.<br/><br/><style color='GUI/Yellow'/>Datenschutz ist uns wichtig. Wir bemühen uns, nur das zu sammeln, was wir brauchen, um das Spiel für alle zu verbessern. Zu den gesammelten Daten gehören anonymisierte Interaktionen mit dem Spiel (z. B. die Anzahl der Mehrspieler-Verbindungsversuche und -Fehler, die Art der gestarteten Spiele, die verwendeten Funktionen, die angeklickten Schaltflächen und die Spielzeit) sowie anonymisierte technische Informationen (z. B. Spielversion und Sprache, Betriebssystem und Hardwarekonfiguration sowie grundlegende Informationen über Abstürze und Fehler). Diese Daten werden in Übereinstimmung mit dem legitimen Interesse an der Bereitstellung eines hochwertigen, zuverlässigen Produkts verarbeitet; sie werden bis zu einem Jahr gespeichert und niemals an Dritte weitergegeben."/>
 	<entry name="General/EdgeScroll" value="Kantenscrollen"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>Die Änderung dieser Einstellung erfordert einen Neustart des Spiels, um wirksam zu werden."/>
 	<entry name="Video/DisplayMode" value="Anzeigemodus"/>
 	<entry name="Video/DisplayMode0" value="Vollbild"/>
-	<entry name="Video/DisplayMode1" value="Fenster"/>
-	<entry name="Video/DisplayMode2" value="Rahmenlos"/>
+	<entry name="Video/DisplayMode1" value="Randloses Vollbild"/>
+	<entry name="Video/DisplayMode2" value="Fenster"/>
+	<entry name="Video/DisplayMode3" value="Undekoriertes Fenster"/>
 	<entry name="Video/DisplayModeHint" value="Ermöglicht es dir, den Anzeigemodus des Spiels zu ändern. Der Fenstermodus kann zu Leistungseinbußen führen.<br/><br/><style color='GUI/Yellow'/>Der Fenstermodus eignet sich am besten für Aufnahmen in der nativen Auflösung."/>
 	<entry name="Video/Exposure" value="Belichtung"/>
 	<entry name="Video/ExposureHint" value="Hellt die Szene auf oder verdunkelt sie, ohne die grafische Benutzeroberfläche zu beeinflussen."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="Vollbildmonitor"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Multi-Threaded Rendering"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Verwendet mehrere CPU-Kerne für das Rendering, was die Leistung erhöhen kann. Die Deaktivierung dieser Einstellung kann mögliche visuelle Artefakte beseitigen."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Verwendet mehrere CPU-Kerne für das Rendering, was die Leistung erhöhen kann.<br/><br/><style color='GUI/Yellow'/>Die Aktivierung dieser Einstellung kann auf manchen Systemen zu Abstürzen führen."/>
 	<entry name="Video/Resolution" value="Auflösung"/>
 	<entry name="Video/ResolutionHint" value="Ermöglicht es dir, die Bildschirmauflösung des Spiels zu ändern. Höhere Auflösungen führen zu einer klareren Darstellung, beeinträchtigen jedoch die Leistung stark."/>
 	<entry name="Video/ShadowQuality" value="Schattenqualität"/>
 	<entry name="Video/ShadowQuality0" value="Niedrig"/>
 	<entry name="Video/ShadowQuality1" value="Mittel"/>
 	<entry name="Video/ShadowQuality2" value="Hoch"/>
-	<entry name="Video/ShadowQualityHint" value="Legt die Größe der Shadow Map fest, die zum Rendern der Schatten verwendet wird. Eine höhere Schattenqualität führt zu detaillierteren Schatten, erfordert aber eine leistungsfähigere Grafikkarte."/>
+	<entry name="Video/ShadowQualityHint" value="Bestimmt die Auflösung der Shadow Map, die zum Rendern der Schatten verwendet wird. Eine höhere Qualität führt zu schärferen, detaillierteren Schatten, erhöht aber die GPU-Last und den VRAM-Verbrauch und kann die Leistung verringern."/>
+	<entry name="Video/SSAOQuality" value="SSAO-Qualität"/>
+	<entry name="Video/SSAOQuality0" value="Niedrig"/>
+	<entry name="Video/SSAOQuality1" value="Mittel"/>
+	<entry name="Video/SSAOQuality2" value="Hoch"/>
+	<entry name="Video/SSAOQualityHint" value="Bestimmt die Auflösung, die zum Rendern der bildschirmbasierten Umgebungsverdeckung verwendet wird. Eine höhere Qualität führt zu detaillierterer Umgebungsverdeckung, kann aber die Leistung bei hohen Bildschirmauflösungen, insbesondere 4K und 8K, erheblich verringern."/>
 	<entry name="Video/TextureQuality" value="Texturqualität"/>
 	<entry name="Video/TextureQuality0" value="Niedrig"/>
 	<entry name="Video/TextureQuality1" value="Mittel"/>
 	<entry name="Video/TextureQuality2" value="Hoch"/>
-	<entry name="Video/TextureQualityHint" value="Bestimmt die Größe der im Spiel verwendeten Texturen. Eine höhere Texturqualität führt zu detaillierterem Gelände und Einheiten, erfordert aber auch mehr Videospeicher (VRAM)."/>
+	<entry name="Video/TextureQualityHint" value="Bestimmt die maximale Auflösung der im Spiel verwendeten Texturen. Eine höhere Qualität führt zu detaillierterem Gelände und Einheiten, verbraucht aber deutlich mehr VRAM und kann die Leistung auf Grafikkarten mit begrenztem Speicher verringern."/>
 	<entry name="Video/VerticalSynchronization" value="Vertikale Synchronisation"/>
 	<entry name="Video/VerticalSynchronization-1" value="Adaptiv"/>
 	<entry name="Video/VerticalSynchronization0" value="Keine"/>

@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Défilement auto unités"/>
 	<entry name="General/AutoCycleUnitsHint" value="Passer automatiquement à l'unité inactive suivante."/>
+	<entry name="General/AutoSave" value="Sauvegarde automatique"/>
+	<entry name="General/AutoSave0" value="Aucune"/>
+	<entry name="General/AutoSave1" value="Chaque tour"/>
+	<entry name="General/AutoSaveHint" value="Détermine la fréquence à laquelle le jeu est sauvegardé automatiquement."/>
+	<entry name="General/AutoSaveTurns" value="Tous les %1%<nbsp/>tours"/>
 	<entry name="General/AutoSendReports" value="Envoyer des statistiques d'utilisation et des rapports de crash"/>
 	<entry name="General/AutoSendReportsHint" value="Envoyer automatiquement des statistiques d'utilisation et des rapports de crash à Proxy Studios pour contribuer à améliorer les fonctionnalités, la stabilité et les performances du jeu.<br/><br/><style color='GUI/Yellow'/>Nous attachons beaucoup d'importance à la protection de la vie privée. Nous nous efforçons ainsi de ne collecter que ce dont nous avons besoin afin d'améliorer le jeu pour tout le monde. Les données collectées comprennent des interactions anonymes avec le jeu (telles que le nombre de tentatives de connexion multijoueur et d'échecs, les types de parties lancés, les fonctionnalités utilisées, les boutons cliqués et le temps de jeu) ainsi que des informations techniques anonymes (telles que la version et la langue du jeu, le système d'exploitation et la configuration matérielle, ainsi que des informations de base sur les plantages et les erreurs). Ces données sont traitées conformément à l'intérêt légitime de fournir un produit fiable et de haute qualité<nbsp/>; elles sont stockées pendant 1<nbsp/>an maximum et ne sont jamais partagées avec des tiers."/>
 	<entry name="General/EdgeScroll" value="Défilement aux bordures"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>La modification de ce paramètre nécessite un redémarrage du jeu pour prendre effet."/>
 	<entry name="Video/DisplayMode" value="Mode d'affichage"/>
 	<entry name="Video/DisplayMode0" value="Plein écran"/>
-	<entry name="Video/DisplayMode1" value="Fenêtré"/>
-	<entry name="Video/DisplayMode2" value="Sans bordure"/>
+	<entry name="Video/DisplayMode1" value="Plein écran sans bordure"/>
+	<entry name="Video/DisplayMode2" value="Fenêtré"/>
+	<entry name="Video/DisplayMode3" value="Fenêtré sans décoration"/>
 	<entry name="Video/DisplayModeHint" value="Permet de modifier le mode d'affichage du jeu. Les modes fenêtrés peuvent entraîner une baisse des performances.<br/><br/><style color='GUI/Yellow'/>Le mode fenêtré peut s'avérer plus efficace pour enregistrer dans la résolution native."/>
 	<entry name="Video/Exposure" value="Exposition"/>
 	<entry name="Video/ExposureHint" value="Éclaircit ou assombrit la scène sans affecter l'interface graphique."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="Moniteur plein écran"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Rendu multithread"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Utilise plusieurs cœurs de processeur pour le rendu, ce qui peut augmenter les performances. La désactivation de ce paramètre peut supprimer d'éventuels artefacts visuels."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Utilise plusieurs cœurs de processeur pour le rendu, ce qui peut augmenter les performances.<br/><br/><style color='GUI/Yellow'/>L'activation de ce paramètre peut provoquer des crashs sur certains systèmes."/>
 	<entry name="Video/Resolution" value="Résolution"/>
 	<entry name="Video/ResolutionHint" value="Permet de modifier la résolution d'affichage du jeu. Une résolution plus élevée se traduira par une clarté accrue, mais affectera grandement les performances."/>
 	<entry name="Video/ShadowQuality" value="Qualité des ombres"/>
 	<entry name="Video/ShadowQuality0" value="Faible"/>
 	<entry name="Video/ShadowQuality1" value="Intermédiaire"/>
 	<entry name="Video/ShadowQuality2" value="Élevée"/>
-	<entry name="Video/ShadowQualityHint" value="Détermine la taille de la shadow map utilisée pour le rendu des ombres. Une qualité d'ombre plus élevée permet d'obtenir des ombres plus détaillées, mais nécessite une carte graphique plus puissante."/>
+	<entry name="Video/ShadowQualityHint" value="Détermine la résolution de la shadow map utilisée pour le rendu des ombres. Une qualité plus élevée produit des ombres plus nettes et plus détaillées, mais augmente la charge GPU et l'utilisation de VRAM et peut réduire les performances."/>
+	<entry name="Video/SSAOQuality" value="Qualité SSAO"/>
+	<entry name="Video/SSAOQuality0" value="Faible"/>
+	<entry name="Video/SSAOQuality1" value="Intermédiaire"/>
+	<entry name="Video/SSAOQuality2" value="Élevée"/>
+	<entry name="Video/SSAOQualityHint" value="Détermine la résolution utilisée pour le rendu de l'occlusion ambiante en espace écran. Une qualité plus élevée produit une occlusion ambiante plus détaillée, mais peut considérablement réduire les performances aux hautes résolutions d'affichage, notamment 4K et 8K."/>
 	<entry name="Video/TextureQuality" value="Qualité des textures"/>
 	<entry name="Video/TextureQuality0" value="Faible"/>
 	<entry name="Video/TextureQuality1" value="Intermédiaire"/>
 	<entry name="Video/TextureQuality2" value="Élevée"/>
-	<entry name="Video/TextureQualityHint" value="Détermine la taille des textures utilisées dans le jeu. Une qualité de textures plus élevée permet d'obtenir un terrain et des unités plus détaillés, mais nécessite plus de mémoire vidéo (VRAM)."/>
+	<entry name="Video/TextureQualityHint" value="Détermine la résolution maximale des textures utilisées dans le jeu. Une qualité plus élevée produit un terrain et des unités plus détaillés, mais utilise nettement plus de VRAM et peut réduire les performances sur les cartes graphiques à mémoire limitée."/>
 	<entry name="Video/VerticalSynchronization" value="Synchronisation verticale"/>
 	<entry name="Video/VerticalSynchronization-1" value="Adaptative"/>
 	<entry name="Video/VerticalSynchronization0" value="Aucune"/>

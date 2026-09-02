@@ -216,8 +216,8 @@
 <entry name="Video/DeviceHint" value="&lt;style color='GUI/Red'/&gt;Щоб змінити цю налаштування, потрібно перезапустити гру."/>
 <entry name="Video/DisplayMode" value="Режим екрана"/>
 <entry name="Video/DisplayMode0" value="Повноекранний"/>
-<entry name="Video/DisplayMode1" value="Віконний"/>
-<entry name="Video/DisplayMode2" value="Без рамки"/>
+<entry name="Video/DisplayMode1" value="Повноекранний без рамки"/>
+<entry name="Video/DisplayMode2" value="Віконний"/>
 <entry name="Video/DisplayModeHint" value="Дозволяє змінювати режим відображення гри. Віконні режими можуть знижувати продуктивність.&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Віконний режим може бути найкращим для запису у рідній роздільній здатності."/>
 <entry name="Video/Exposure" value="Експозиція"/>
 <entry name="Video/ExposureHint" value="Робить зображення світлішим або темнішим, не впливаючи на інтерфейс користувача."/>
@@ -242,20 +242,20 @@
 <entry name="Video/Monitor" value="Повноекранний монітор"/>
 <entry name="Video/MonitorHint" value=""/>
 <entry name="Video/MultiThreadedRendering" value="Багатопотоковий рендеринг"/>
-<entry name="Video/MultiThreadedRenderingHint" value="Використовує кілька ядер процесора для рендерингу, що може підвищити продуктивність. Вимкнення може усунути потенційні артефакти відображення."/>
+<entry name="Video/MultiThreadedRenderingHint" value="Використовує кілька ядер процесора для рендерингу, що може підвищити продуктивність.&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Увімкнення цього параметра може спричиняти збої на деяких системах."/>
 <entry name="Video/Resolution" value="Роздільна здатність"/>
 <entry name="Video/ResolutionHint" value="Дозволяє змінити роздільну здатність екрана гри. Вища роздільна здатність покращує чіткість зображення, але може суттєво вплинути на продуктивність."/>
 <entry name="Video/ShadowQuality" value="Якість тіней"/>
 <entry name="Video/ShadowQuality0" value="Низька"/>
 <entry name="Video/ShadowQuality1" value="Середня"/>
 <entry name="Video/ShadowQuality2" value="Висока"/>
-<entry name="Video/ShadowQualityHint" value="Визначає розмір карти тіней, яка використовується для рендерингу. Вища якість тіней дає більше деталізації, але потребує потужнішої відеокарти."/>
+<entry name="Video/ShadowQualityHint" value="Визначає роздільну здатність карти тіней, яка використовується для рендерингу. Вища якість дає чіткіші та детальніші тіні, але збільшує навантаження на відеокарту й витрату відеопам’яті та може знизити продуктивність."/>
 
 <entry name="Video/TextureQuality" value="Якість текстур"/>
 <entry name="Video/TextureQuality0" value="Низька"/>
 <entry name="Video/TextureQuality1" value="Середня"/>
 <entry name="Video/TextureQuality2" value="Висока"/>
-<entry name="Video/TextureQualityHint" value="Визначає розмір текстур у грі. Висока якість текстур забезпечує детальніше промальовування рельєфу та підрозділів, але потребує більше відеопам’яті."/>
+<entry name="Video/TextureQualityHint" value="Визначає максимальну роздільну здатність текстур у грі. Вища якість забезпечує детальніше промальовування рельєфу та підрозділів, але значно більше витрачає відеопам’ять і може знизити продуктивність на відеокартах з малим обсягом пам’яті."/>
 
 <entry name="Video/VerticalSynchronization" value="Вертикальна синхронізація"/>
 <entry name="Video/VerticalSynchronization-1" value="Адаптивна"/>
@@ -277,4 +277,15 @@
 <entry name="General/ScrollToAction0" value="Немає"/>
 <entry name="General/ScrollToAction1" value="Усі"/>
 <entry name="General/ScrollToAction2" value="Вороги"/>
+<entry name="General/AutoSave" value="Автозбереження"/>
+<entry name="General/AutoSave0" value="Немає"/>
+<entry name="General/AutoSave1" value="Кожного ходу"/>
+<entry name="General/AutoSaveHint" value="Визначає, як часто гра зберігається автоматично."/>
+<entry name="General/AutoSaveTurns" value="Кожні %1% ходів"/>
+<entry name="Video/DisplayMode3" value="Віконний без обрамлення"/>
+<entry name="Video/SSAOQuality" value="Якість SSAO"/>
+<entry name="Video/SSAOQuality0" value="Низька"/>
+<entry name="Video/SSAOQuality1" value="Середня"/>
+<entry name="Video/SSAOQuality2" value="Висока"/>
+<entry name="Video/SSAOQualityHint" value="Визначає роздільну здатність, з якою прораховується екранне затінення (SSAO). Вища якість дає детальніше затінення, але може суттєво знизити продуктивність на високих роздільних здатностях, особливо 4K та 8K."/>
 </language>

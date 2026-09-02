@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Zanim odbierzesz ten przedmiot, musisz mieć wybranego bohatera. Możesz też sprzedać tę rzecz w<nbsp/><icon height='20' texture='Icons/Shop'/><nbsp/>Konkordacie."/>
 	<entry name="ClearNotifications" value="Wyczyść powiadomienia"/>
 	<entry name="ClearNotificationsHint" value="Wyczyść wszystkie powiadomienia [<control name='NextTask'/>]."/>
+	<entry name="ClearSearchHint" value="Wyczyść wyszukiwanie."/>
 	<entry name="Close" value="Zamknij"/>
 	<entry name="CloseHint" value="<style name='Title'/>Zamknij [<control name='Cancel'/>]"/>
 	<entry name="Communications" value="Wiadomości"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="Społeczność"/>
 	<entry name="Compendium" value="Kompendium"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>Przeglądaj koncepcje gry, jednostki, budowle, technologie i<nbsp/>odkryte zapiski."/>
+	<entry name="CompendiumSearchHint" value="Wyszukaj nazwy wszystkich wpisów Kompendium."/>
 	<entry name="Connect" value="Połącz się"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Zużywa punkty akcji"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Zużywa punkty ruchu"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="Nie masz więcej punktów ruchu."/>
 	<entry name="NoResearchSelected" value="Nie wybrano badań"/>
 	<entry name="NoPointsRemaining" value="Nie masz więcej punktów."/>
+	<entry name="NoSearchResults" value="Brak wyników wyszukiwania."/>
 	<entry name="NoValidTargets" value="Brak właściwych celów."/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>Niedostępne w<nbsp/>wersji demonstracyjnej."/>
 	<entry name="NotEnoughResources" value="Masz za mało zasobów."/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="Badania"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>Wybierz nowe technologie i<nbsp/>sprawdzaj drzewo badań."/>
 	<entry name="ResearchCost" value="Koszt w<nbsp/>punktach rozwoju"/>
+	<entry name="ResearchSearchHint" value="Wyszukaj szczegóły technologii w<nbsp/>wyświetlanych gałęziach."/>
 	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Aby odblokować, zbadaj technologie z<nbsp/>poprzedniego poziomu w<nbsp/>liczbie %1%."/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%], aby przewinąć do tego poziomu."/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="Na siebie"/>
 	<entry name="Scenarios" value="Scenariusze"/>
 	<entry name="Scores" value="Wyniki"/>
+	<entry name="Search" value="Szukaj"/>
 	<entry name="SelectCityHint" value="Wybierz miasto."/>
 	<entry name="SelectColorHint" value="Wybierz kolor."/>
 	<entry name="SelectDifficultyHint" value="Wybierz trudność."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="Wersja"/>
 	<entry name="VersionRevisionsDiffer" value="Wystąpiła różnica w<nbsp/>numerze rewizji (lokalna = %1%, na serwerze = %2%)."/>
 	<entry name="Victorious" value="Zwycięstwo"/>
+	<entry name="ViewOnSteam" value="Zobacz na<nbsp/>Steam"/>
 	<entry name="Voice" value="Głos"/>
 	<entry name="Weapon" value="Broń"/>
 	<entry name="Weapons" value="Bronie"/>

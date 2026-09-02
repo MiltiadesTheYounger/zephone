@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="아이템을 받거나 <icon height='20' texture='Icons/Shop'/><nbsp/>맹약단<nbsp/>에게 판매하기 전에 영웅을 선택하세요."/>
 	<entry name="ClearNotifications" value="알림 지우기"/>
 	<entry name="ClearNotificationsHint" value="모든 알림을 지웁니다 [<control name='NextTask'/>]."/>
+	<entry name="ClearSearchHint" value="검색을 지웁니다."/>
 	<entry name="Close" value="닫기"/>
 	<entry name="CloseHint" value="<style name='Title'/>닫기 [<control name='Cancel'/>]"/>
 	<entry name="Communications" value="커뮤니케이션"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="커뮤니티"/>
 	<entry name="Compendium" value="개요"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>게임 개념, 유닛, 건물, 기술 및 발견한 설정을 검토합니다."/>
+	<entry name="CompendiumSearchHint" value="모든 개요 항목 이름을 검색합니다."/>
 	<entry name="Connect" value="연결"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> 행동력 소모"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> 이동력 소모"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="남은 이동력이 없습니다."/>
 	<entry name="NoResearchSelected" value="선택된 연구 없음"/>
 	<entry name="NoPointsRemaining" value="남은 포인트가 없습니다."/>
+	<entry name="NoSearchResults" value="검색 결과가 없습니다."/>
 	<entry name="NoValidTargets" value="유효한 대상이 없습니다."/>
 	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>체험판에서는 사용할 수 없습니다."/>
 	<entry name="NotEnoughResources" value="자원이 부족합니다."/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="연구"/>
 	<entry name="ResearchHint" value="<style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/><style name='Default'/>새 기술을 선택하고 연구 트리를 확인합니다."/>
 	<entry name="ResearchCost" value="연구 비용"/>
+	<entry name="ResearchSearchHint" value="표시된 연구 트리의 기술 세부 정보를 검색합니다."/>
 	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>이전 단계의 %1% 기술을 연구하여 잠금 해제합니다."/>
 	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%]을 사용하여 이 단계로 스크롤합니다."/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="자신"/>
 	<entry name="Scenarios" value="시나리오"/>
 	<entry name="Scores" value="점수"/>
+	<entry name="Search" value="검색"/>
 	<entry name="SelectCityHint" value="도시를 선택합니다."/>
 	<entry name="SelectColorHint" value="색상을 선택합니다."/>
 	<entry name="SelectDifficultyHint" value="난이도를 선택합니다."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="버전"/>
 	<entry name="VersionRevisionsDiffer" value="버전 리비전이 다릅니다(로컬 = %1%, 서버 = %2%)."/>
 	<entry name="Victorious" value="승리"/>
+	<entry name="ViewOnSteam" value="Steam에서 보기"/>
 	<entry name="Voice" value="목소리"/>
 	<entry name="Weapon" value="무기"/>
 	<entry name="Weapons" value="무기"/>

@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Автопереключение юнитов"/>
 	<entry name="General/AutoCycleUnitsHint" value="Автоматически переходить к следующему бездействующему юниту."/>
+	<entry name="General/AutoSave" value="Автосохранение"/>
+	<entry name="General/AutoSave0" value="Нет"/>
+	<entry name="General/AutoSave1" value="Каждый ход"/>
+	<entry name="General/AutoSaveHint" value="Определяет, как часто игра сохраняется автоматически."/>
+	<entry name="General/AutoSaveTurns" value="Каждые %1% ходов"/>
 	<entry name="General/AutoSendReports" value="Отправлять статистику использования и отчёты"/>
 	<entry name="General/AutoSendReportsHint" value="Автоматически отправлять статистику использования и отчёты о сбоях в Proxy Studios, чтобы помочь улучшить функциональность игры, стабильность и производительность.&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Мы высоко ценим конфиденциальность. Мы стараемся собирать только те данные, которые помогают улучшить игру для всех. Собираемые данные включают анонимные данные взаимодействия игрока с игрой (например, количество попыток и сбоев сетевого подключения, типы запущенных игр, используемые функции, нажатые кнопки и время игры), а также обезличенную техническую информацию (например, версию и язык игры, конфигурацию операционной системы и аппаратного обеспечения, а также основные сведения о сбоях и ошибках). Данные обрабатываются с искренним стремлением предоставить всем качественный, надёжный продукт. Данные хранятся до 1 года и никогда не передаются третьим лицам."/>
 	<entry name="General/EdgeScroll" value="Прокрутка у края"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="&lt;style color='GUI/Red'/&gt;Для изменения этой настройки требуется перезапуск игры."/>
 	<entry name="Video/DisplayMode" value="Режим экрана"/>
 	<entry name="Video/DisplayMode0" value="Полноэкранный"/>
-	<entry name="Video/DisplayMode1" value="Оконный"/>
-	<entry name="Video/DisplayMode2" value="Без рамки"/>
+	<entry name="Video/DisplayMode1" value="Полноэкранный без рамки"/>
+	<entry name="Video/DisplayMode2" value="Оконный"/>
+	<entry name="Video/DisplayMode3" value="Оконный без оформления"/>
 	<entry name="Video/DisplayModeHint" value="Позволяет изменять режим отображения игры. Оконные режимы могут привести к падению производительности.&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Оконный режим может быть наилучшим для записи в родном разрешении."/>
 	<entry name="Video/Exposure" value="Выдержка"/>
 	<entry name="Video/ExposureHint" value="Делает изображение более светлым или тёмным, не влияя на пользовательский интерфейс."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="Полноэкранный монитор"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Многопоточный рендеринг"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Использует несколько ядер процессора для рендеринга, что может повысить производительность. Отключение может убрать потенциальные артефакты отображения."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Использует несколько ядер процессора для рендеринга, что может повысить производительность.<br/><br/><style color='GUI/Yellow'/>Включение этой настройки может вызвать сбои на некоторых системах."/>
 	<entry name="Video/Resolution" value="Разрешение"/>
 	<entry name="Video/ResolutionHint" value="Позволяет изменить разрешение экрана игры. Более высокое разрешение улучшит чёткость изображения, но существенно повлияет на производительность."/>
 	<entry name="Video/ShadowQuality" value="Качество теней"/>
 	<entry name="Video/ShadowQuality0" value="Низкое"/>
 	<entry name="Video/ShadowQuality1" value="Среднее"/>
 	<entry name="Video/ShadowQuality2" value="Высокое"/>
-	<entry name="Video/ShadowQualityHint" value="Определяет размер карты теней, которая используется для рендеринга теней. Более высокое качество теней приведёт к повышению детализации теней, но потребует более мощной видеокарты."/>
+	<entry name="Video/ShadowQualityHint" value="Определяет разрешение карты теней, которая используется для рендеринга теней. Более высокое качество даёт более чёткие и детализированные тени, но увеличивает нагрузку на GPU и использование VRAM и может снизить производительность."/>
+	<entry name="Video/SSAOQuality" value="Качество SSAO"/>
+	<entry name="Video/SSAOQuality0" value="Низкое"/>
+	<entry name="Video/SSAOQuality1" value="Среднее"/>
+	<entry name="Video/SSAOQuality2" value="Высокое"/>
+	<entry name="Video/SSAOQualityHint" value="Определяет разрешение, используемое для рендеринга затенения окружающей среды в экранном пространстве (SSAO). Более высокое качество даёт более детализированное затенение окружающей среды, но может значительно снизить производительность при высоких разрешениях экрана, особенно 4K и 8K."/>
 	<entry name="Video/TextureQuality" value="Качество текстур"/>
 	<entry name="Video/TextureQuality0" value="Низкое"/>
 	<entry name="Video/TextureQuality1" value="Среднее"/>
 	<entry name="Video/TextureQuality2" value="Высокое"/>
-	<entry name="Video/TextureQualityHint" value="Определяет размер текстур в игре. Высокое качество текстур приведёт к более детальной прорисовке рельефа и подразделений, но потребует больше видеопамяти."/>
+	<entry name="Video/TextureQualityHint" value="Определяет максимальное разрешение текстур в игре. Более высокое качество даёт более детальную прорисовку рельефа и подразделений, но использует значительно больше видеопамяти (VRAM) и может снизить производительность на видеокартах с ограниченным объёмом памяти."/>
 	<entry name="Video/VerticalSynchronization" value="Верт. синхронизация"/>
 	<entry name="Video/VerticalSynchronization-1" value="Адаптивная"/>
 	<entry name="Video/VerticalSynchronization0" value="Нет"/>

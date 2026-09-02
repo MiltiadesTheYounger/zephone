@@ -156,6 +156,11 @@
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Auto-Cycle Units"/>
 	<entry name="General/AutoCycleUnitsHint" value="Automatically cycle to the next idle unit."/>
+	<entry name="General/AutoSave" value="Auto-Save"/>
+	<entry name="General/AutoSave0" value="None"/>
+	<entry name="General/AutoSave1" value="Every Turn"/>
+	<entry name="General/AutoSaveHint" value="Determines how often the game is saved automatically."/>
+	<entry name="General/AutoSaveTurns" value="Every %1% Turns"/>
 	<entry name="General/AutoSendReports" value="Send Usage Statistics and Crash Reports"/>
 	<entry name="General/AutoSendReportsHint" value="Automatically send usage statistics and crash reports to Proxy Studios to help improve the game's features, stability and performance.<br/><br/><style color='GUI/Yellow'/>Privacy is important to us. We strive to collect only what we need to improve the game for everyone. The data collected includes anonymized interactions with the game (such as the number of multiplayer connection attempts and failures, types of games started, features used, buttons clicked, and playtime) as well as anonymized technical information (such as game version and language, operating system and hardware configuration, and basic information about crashes and errors). This data is processed in accordance with the legitimate interest of providing a high-quality, reliable product; it is stored for up to 1 year and never shared with any third-parties."/>
 	<entry name="General/EdgeScroll" value="Edge Scroll"/>
@@ -221,8 +226,9 @@
 	<entry name="Video/DeviceHint" value="<style color='GUI/Red'/>Changing this setting requires a game restart to take effect."/>
 	<entry name="Video/DisplayMode" value="Display Mode"/>
 	<entry name="Video/DisplayMode0" value="Fullscreen"/>
-	<entry name="Video/DisplayMode1" value="Windowed"/>
-	<entry name="Video/DisplayMode2" value="Borderless"/>
+	<entry name="Video/DisplayMode1" value="Fullscreen Borderless"/>
+	<entry name="Video/DisplayMode2" value="Windowed"/>
+	<entry name="Video/DisplayMode3" value="Windowed Undecorated"/>
 	<entry name="Video/DisplayModeHint" value="Allows you to change the game's display mode. Windowed modes may cause a drop in performance.<br/><br/><style color='GUI/Yellow'/>Windowed mode may work best for recording in the native resolution."/>
 	<entry name="Video/Exposure" value="Exposure"/>
 	<entry name="Video/ExposureHint" value="Lightens or darkens the scene without affecting the graphical user interface."/>
@@ -246,19 +252,24 @@
 	<entry name="Video/Monitor" value="Fullscreen Monitor"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Multi-Threaded Rendering"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Uses multiple CPU cores for rendering, which can increase performance. Disabling this setting might remove potential visual artifacts."/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Uses multiple CPU cores for rendering, which can increase performance.<br/><br/><style color='GUI/Yellow'/>Enabling this setting may cause crashes on some systems."/>
 	<entry name="Video/Resolution" value="Resolution"/>
 	<entry name="Video/ResolutionHint" value="Allows you to change the game's display resolution. Higher resolutions will result in increased clarity, but greatly affect performance."/>
 	<entry name="Video/ShadowQuality" value="Shadow Quality"/>
 	<entry name="Video/ShadowQuality0" value="Low"/>
 	<entry name="Video/ShadowQuality1" value="Medium"/>
 	<entry name="Video/ShadowQuality2" value="High"/>
-	<entry name="Video/ShadowQualityHint" value="Determines the size of the shadow map used for rendering shadows. A higher shadow quality will result in more detailed shadows, but requires a more powerful graphics card."/>
+	<entry name="Video/ShadowQualityHint" value="Determines the resolution of the shadow map used to render shadows. Higher quality produces sharper, more detailed shadows, but increases GPU load and VRAM usage and may reduce performance."/>
+	<entry name="Video/SSAOQuality" value="SSAO Quality"/>
+	<entry name="Video/SSAOQuality0" value="Low"/>
+	<entry name="Video/SSAOQuality1" value="Medium"/>
+	<entry name="Video/SSAOQuality2" value="High"/>
+	<entry name="Video/SSAOQualityHint" value="Determines the resolution used to render screen-space ambient occlusion. Higher quality produces more detailed ambient occlusion, but may significantly reduce performance at high display resolutions, especially 4K and 8K."/>
 	<entry name="Video/TextureQuality" value="Texture Quality"/>
 	<entry name="Video/TextureQuality0" value="Low"/>
 	<entry name="Video/TextureQuality1" value="Medium"/>
 	<entry name="Video/TextureQuality2" value="High"/>
-	<entry name="Video/TextureQualityHint" value="Determines the size of textures used throughout the game. Higher texture quality will result in more detailed terrain and units, but requires more video memory (VRAM)."/>
+	<entry name="Video/TextureQualityHint" value="Determines the maximum resolution of textures used throughout the game. Higher quality produces more detailed terrain and units, but uses substantially more VRAM and may reduce performance on graphics cards with limited memory."/>
 	<entry name="Video/VerticalSynchronization" value="Vertical Synchronization"/>
 	<entry name="Video/VerticalSynchronization-1" value="Adaptive"/>
 	<entry name="Video/VerticalSynchronization0" value="None"/>

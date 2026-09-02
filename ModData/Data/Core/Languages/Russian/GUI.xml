@@ -66,6 +66,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Выберите героя перед тем, как забрать предмет, или продайте &lt;icon height='20' texture='Icons/Shop'/&gt;&lt;nbsp/&gt;Конкордату."/>
 	<entry name="ClearNotifications" value="Убрать уведомления"/>
 	<entry name="ClearNotificationsHint" value="Убрать все уведомления [&lt;control name='NextTask'/&gt;]."/>
+	<entry name="ClearSearchHint" value="Очистить поиск."/>
 	<entry name="Close" value="Закрыть"/>
 	<entry name="CloseHint" value="&lt;style name='Title'/&gt;Закрыть [&lt;control name='Cancel'/&gt;]"/>
 	<entry name="Communications" value="Переговоры"/>
@@ -73,6 +74,7 @@
 	<entry name="Community" value="Сообщество"/>
 	<entry name="Compendium" value="Справочник"/>
 	<entry name="CompendiumHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Compendium'/&gt; [&lt;control name='OpenCompendiumScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Просмотреть информацию об игровых механиках, юнитах, зданиях, технологиях и мире."/>
+	<entry name="CompendiumSearchHint" value="Искать по названиям всех записей Справочника."/>
 	<entry name="Connect" value="Соединиться"/>
 	<entry name="ConsumesAction" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt; Тратит действие"/>
 	<entry name="ConsumesMovement" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt; Тратит движение"/>
@@ -225,6 +227,7 @@
 	<entry name="NoMovementRemaining" value="Движения не осталось."/>
 	<entry name="NoResearchSelected" value="Исследование не выбрано"/>
 	<entry name="NoPointsRemaining" value="Очков не осталось."/>
+	<entry name="NoSearchResults" value="Нет результатов поиска."/>
 	<entry name="NoValidTargets" value="Нет доступных целей."/>
 	<entry name="NotAvailableInDemo" value="&lt;style color='GUI/Red'/&gt;Недоступно в демоверсии."/>
 	<entry name="NotEnoughResources" value="Недостаточно ресурсов."/>
@@ -303,6 +306,7 @@
 	<entry name="Research" value="Исследование"/>
 	<entry name="ResearchHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Research'/&gt; [&lt;control name='OpenResearchScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Выбрать новые технологии и просмотреть дерево исследований."/>
 	<entry name="ResearchCost" value="Цена исследования"/>
+	<entry name="ResearchSearchHint" value="Искать подробности технологий в отображаемых ветвях."/>
 	<entry name="ResearchTierLockedHint" value="&lt;style color='GUI/Red'/&gt;Чтобы разблокировать, исследуйте технологий предыдущего ранга: %1%"/>
 	<entry name="ResearchTierScrollTo" value="&lt;style name='Small'/&gt;[%1%] — прокрутить до этого ранга."/>
 	<entry name="Resource" value="&lt;icon texture='GUI/Bullet'/&gt;%1%"/>
@@ -345,6 +349,7 @@
 	<entry name="Self" value="На себя"/>
 	<entry name="Scenarios" value="Сценарии"/>
 	<entry name="Scores" value="Счет"/>
+	<entry name="Search" value="Поиск"/>
 	<entry name="SelectCityHint" value="Выбрать город."/>
 	<entry name="SelectColorHint" value="Выбрать цвет."/>
 	<entry name="SelectDifficultyHint" value="Выбрать уровень сложности."/>
@@ -437,6 +442,7 @@
 	<entry name="Version" value="Версия"/>
 	<entry name="VersionRevisionsDiffer" value="Версии игры отличаются (локальная = %1%, сервер = %2%)."/>
 	<entry name="Victorious" value="Победа"/>
+	<entry name="ViewOnSteam" value="Посмотреть в Steam"/>
 	<entry name="Voice" value="Голос"/>
 	<entry name="Weapon" value="Оружие"/>
 	<entry name="Weapons" value="Оружие"/>

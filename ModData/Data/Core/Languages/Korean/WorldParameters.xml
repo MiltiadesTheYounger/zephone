@@ -461,7 +461,11 @@
 	<entry name="SwampRegionDensity2" value="낮음"/>
 	<entry name="SwampRegionDensity3" value="보통"/>
 	<entry name="SwampRegionDensity4" value="높음"/>
-	<entry name="SwampRegionDensity5" value="매우 높음"/>	
+	<entry name="SwampRegionDensity5" value="매우 높음"/>
+	<entry name="SymmetricMap" value="대칭 지도 (실험적)"/>
+	<entry name="SymmetricMapHint" value="대칭 지형과 짝을 이룬 시작 위치를 생성하여 더 공정한 경쟁 게임을 만듭니다."/>
+	<entry name="TeamStarts" value="팀 시작 (실험적)"/>
+	<entry name="TeamStartsHint" value="같은 팀에 속한 플레이어를 서로 가까이, 약 8칸 간격으로 배치합니다."/>
 	<entry name="TempleOfCrlaDensity" value="크를라의 신전 밀도"/>
 	<entry name="TempleOfCrlaDensity0" value="없음"/>
 	<entry name="TempleOfCrlaDensity1" value="매우 낮음"/>
