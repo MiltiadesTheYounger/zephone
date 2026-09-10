@@ -212,6 +212,8 @@
 	<entry name="Video" value="Vidéo"/>
 	<entry name="Video/AnisotropicFiltering" value="Filtrage anisotropique"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="Anticrénelage"/>
+	<entry name="Video/AntiAliasingHint" value="Réduit le crénelage à l'aide de FXAA ou du SMAA de meilleure qualité. Un anticrénelage de meilleure qualité peut réduire les performances."/>
 	<entry name="Video/Brightness" value="Luminosité"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Ombres des nuages"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Heure fixe de la journée à"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Anticrénelage"/>
-	<entry name="Video/FXAAHint" value="Réduit le crénelage en lissant les bords avec FXAA, mais peut réduire les performances. Dépend de la puissance de calcul de votre carte graphique."/>
 	<entry name="Video/Gamma" value="Gamma"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Échelle de l'interface"/>

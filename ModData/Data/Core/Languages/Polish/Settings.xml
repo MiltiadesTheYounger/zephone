@@ -212,6 +212,8 @@
 	<entry name="Video" value="Grafika"/>
 	<entry name="Video/AnisotropicFiltering" value="Filtrowanie anizotropowe"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="Antyaliasing"/>
+	<entry name="Video/AntiAliasingHint" value="Zmniejsza poszarpane krawędzie za pomocą FXAA lub SMAA wyższej jakości. Antyaliasing wyższej jakości może zmniejszyć wydajność."/>
 	<entry name="Video/Brightness" value="Jasność"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Cienie chmur"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Stała pora dnia przez"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Antyaliasing"/>
-	<entry name="Video/FXAAHint" value="Zmniejsza aliasing poprzez wygładzanie krawędzi za pomocą FXAA, ale może zmniejszyć wydajność. Korzysta z<nbsp/>mocy obliczeniowej twojej karty graficznej."/>
 	<entry name="Video/Gamma" value="Gamma"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Skala graficznego interfejsu użytkownika"/>

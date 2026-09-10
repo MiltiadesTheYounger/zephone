@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="Mélangeur"/>
 	<entry name="ModDetailsHint" value="Ouvrir les détails du mod sur Steam Workshop."/>
+	<entry name="ModdingGuide" value="Guide de modding"/>
 	<entry name="ModFolderHint" value="Ouvrir le dossier mod."/>
 	<entry name="Modifier" value="Modificateur"/>
 	<entry name="Mods" value="Mods"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Objectifs"/>
 	<entry name="ObjectivesCompleted" value="Objectifs atteints"/>
-	<entry name="Off" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
+	<entry name="Off" value="Off"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
 	<entry name="Okay" value="OK"/>
-	<entry name="On" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
+	<entry name="On" value="On"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Il n'est possible de changer ce paramètre qu'au menu principal."/>
 	<entry name="OnThisSide" value="Dans ce camp<nbsp/>:"/>
 	<entry name="OnCooldown" value="Délai de recharge."/>

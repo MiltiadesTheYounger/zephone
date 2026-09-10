@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="Dein Grafiktreiber ist veraltet.<br/><br/>Um Stabilität und Leistung zu verbessern, aktualisiere bitte deinen Grafiktreiber. Besuche dazu die Support-Website deines Grafikkartenherstellers."/>
 	<entry name="IncompatibleVersion" value="Inkompatible Spielversion."/>
 	<entry name="Info" value="Info"/>
+	<entry name="IntelCPUPossiblyDegraded" value="Dein System verwendet bereits den von Intel empfohlenen Mikrocode, aber Desktop-Prozessoren der 13. und 14. Generation, die bereits beschädigt waren, können trotzdem abstürzen oder einfrieren.<br/><br/>Wenn du unerklärliche Abstürze feststellst, versuche, den P-core-Multiplikator zu senken. Wenn das die Abstürze beendet, wende dich wegen eines Garantieaustauschs an Intel, deinen Computerhersteller oder den Händler."/>
+	<entry name="IntelCPUStability" value="Einige Intel-Desktop-Prozessoren der 13. und 14. Generation können unerklärliche Abstürze oder Einfrieren verursachen.<br/><br/>Wenn du dies feststellst, aktualisiere das BIOS deines Motherboards auf die neueste Version, lade falls verfügbar die Intel Default Settings und entferne jegliches CPU-Overclocking oder Undervolting. Intel hat die Garantieabdeckung für berechtigte Prozessoren verlängert."/>
 	<entry name="Kicked" value="Du wurdest vom Server gekickt."/>
 	<entry name="MasterServerUnreachable" value="Verbindung zum Master-Server konnte nicht hergestellt werden."/>
 	<entry name="MissingDLC" value="Fehlender DLC."/>

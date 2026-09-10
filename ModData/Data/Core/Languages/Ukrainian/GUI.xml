@@ -226,11 +226,11 @@
 	<entry name="NotUsable" value="Не можна використати"/>
 	<entry name="Objectives" value="Завдання"/>
 	<entry name="ObjectivesCompleted" value="Завдання виконано"/>
-	<entry name="Off" value="&lt;style color='GUI/Red'/&gt;Вимк.&lt;style color='Default'/&gt;"/>
+	<entry name="Off" value="Вимк."/>
 	<entry name="OK" value="OK"/>
 	<entry name="OKHint" value="&lt;style name='Title'/&gt;OK [&lt;control name='OK'/&gt;]"/>
 	<entry name="Okay" value="OK"/>
-	<entry name="On" value="&lt;style color='GUI/Green'/&gt;Увімк.&lt;style color='Default'/&gt;"/>
+	<entry name="On" value="Увімк."/>
 	<entry name="OnlyInMainMenu" value="&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Цей параметр можна змінити лише в головному меню."/>
 	<entry name="OnThisSide" value="На цій стороні:"/>
 	<entry name="OnCooldown" value="Перезаряджається."/>
@@ -465,4 +465,7 @@
 <entry name="ResearchSearchHint" value="Пошук за описами технологій у показаних гілках."/>
 <entry name="Search" value="Пошук"/>
 <entry name="ViewOnSteam" value="Переглянути у Steam"/>
+	<entry name="ModdingGuide" value="Посібник зі створення модів"/>
+	<entry name="OffColored" value="&lt;style color='GUI/Red'/&gt;Вимк.&lt;style color='Default'/&gt;"/>
+	<entry name="OnColored" value="&lt;style color='GUI/Green'/&gt;Увімк.&lt;style color='Default'/&gt;"/>
 </language>

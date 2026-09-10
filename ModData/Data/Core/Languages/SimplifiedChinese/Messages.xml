@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="你的显卡驱动版本过低。<br/><br/>为提升稳定性与性能表现，请前往显卡制造商的支持网站更新驱动。"/>
 	<entry name="IncompatibleVersion" value="不兼容的游戏版本。"/>
 	<entry name="Info" value="信息"/>
+	<entry name="IntelCPUPossiblyDegraded" value="你的系统已在使用Intel推荐的微码，但业已受损的第13代和第14代桌面处理器仍可能崩溃或冻结。<br/><br/>如果遇到无法解释的崩溃，请尝试降低P-core倍频。若此举能停止崩溃，请联系Intel、你的计算机制造商或零售商了解保修更换事宜。"/>
+	<entry name="IntelCPUStability" value="部分Intel第13代和第14代桌面处理器可能导致无法解释的崩溃或冻结。<br/><br/>如果遇到此情况，请将主板BIOS更新至最新版本，若有可用选项请加载“Intel Default Settings”，并取消任何CPU超频或降压。Intel已为符合条件的处理器延长了保修覆盖。"/>
 	<entry name="Kicked" value="你已经被踢出服务器。"/>
 	<entry name="MasterServerUnreachable" value="无法连接至主服务器。"/>
 	<entry name="MissingDLC" value="缺少DLC。"/>

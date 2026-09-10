@@ -209,6 +209,7 @@
 	<entry name="Missing" value="¿?"/>
 	<entry name="Mixer" value="Mezclador"/>
 	<entry name="ModDetailsHint" value="Abre los detalles del mod en el Workshop de Steam."/>
+	<entry name="ModdingGuide" value="Guía de modding"/>
 	<entry name="ModFolderHint" value="Abre la carpeta del mod."/>
 	<entry name="Modifier" value="Modificador"/>
 	<entry name="Mods" value="Mods"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>Aceptar [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Objetivos"/>
 	<entry name="ObjectivesCompleted" value="Objetivos cumplidos"/>
-	<entry name="Off" value="<style color='GUI/Red'/>No<style color='Default'/>"/>
+	<entry name="Off" value="No"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>No<style color='Default'/>"/>
 	<entry name="Okay" value="Aceptar"/>
-	<entry name="On" value="<style color='GUI/Green'/>Sí<style color='Default'/>"/>
+	<entry name="On" value="Sí"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>Sí<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Estos ajustes solo pueden cambiarse en el menú principal."/>
 	<entry name="OnThisSide" value="En este bando:"/>
 	<entry name="OnCooldown" value="Recargándose."/>

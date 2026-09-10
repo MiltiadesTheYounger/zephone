@@ -27,6 +27,8 @@
 	<entry name="GraphicsDriverOutdated" value="Your graphics driver is outdated.<br/><br/>To improve stability and performance, please update your graphics driver by visiting your graphics card manufacturer's support website."/>
 	<entry name="IncompatibleVersion" value="Incompatible game version."/>
 	<entry name="Info" value="Info"/>
+	<entry name="IntelCPUPossiblyDegraded" value="Your system is already using Intel's recommended microcode, but 13th and 14th-generation desktop processors that were already damaged can still crash or freeze.<br/><br/>If you experience unexplained crashes, try lowering the P-core multiplier. If that stops the crashes, contact Intel, your computer manufacturer, or the retailer about a warranty replacement."/>
+	<entry name="IntelCPUStability" value="Some Intel 13th and 14th-generation desktop processors may cause unexplained crashes or freezes.<br/><br/>If you experience this, update your motherboard BIOS to the latest version, load Intel Default Settings if available, and remove any CPU overclocking or undervolting. Intel has extended warranty coverage for eligible processors."/>
 	<entry name="Kicked" value="You have been kicked from the server."/>
 	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
 	<entry name="MissingDLC" value="Missing DLC."/>

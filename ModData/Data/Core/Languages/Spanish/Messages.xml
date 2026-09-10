@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="Tu controlador gráfico no está actualizado.<br/><br/>Para mejorar la estabilidad y el rendimiento, actualiza el controlador gráfico en el sitio web de soporte del fabricante de tu tarjeta gráfica."/>
 	<entry name="IncompatibleVersion" value="Versión del juego incompatible."/>
 	<entry name="Info" value="Información"/>
+	<entry name="IntelCPUPossiblyDegraded" value="Tu sistema ya usa el microcódigo recomendado por Intel, pero los procesadores de sobremesa de 13.ª y 14.ª generación que ya estaban dañados pueden seguir provocando cuelgues o congelaciones.<br/><br/>Si experimentas cuelgues inexplicables, prueba a bajar el multiplicador de P-core. Si eso detiene los cuelgues, contacta con Intel, el fabricante de tu ordenador o el vendedor acerca de un reemplazo en garantía."/>
+	<entry name="IntelCPUStability" value="Algunos procesadores de sobremesa Intel de 13.ª y 14.ª generación pueden provocar cuelgues o congelaciones inexplicables.<br/><br/>Si te ocurre esto, actualiza el BIOS de tu placa base a la última versión, carga Intel Default Settings si están disponibles y elimina cualquier overclocking o undervolting de la CPU. Intel ha ampliado la cobertura de garantía para los procesadores elegibles."/>
 	<entry name="Kicked" value="Te han expulsado del servidor."/>
 	<entry name="MasterServerUnreachable" value="No se ha podido conectar con el servidor maestro."/>
 	<entry name="MissingDLC" value="Falta contenido descargable."/>

@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="믹서"/>
 	<entry name="ModDetailsHint" value="Steam 창작마당에서 모드 세부 정보를 엽니다."/>
+	<entry name="ModdingGuide" value="모딩 가이드"/>
 	<entry name="ModFolderHint" value="모드 폴더를 엽니다."/>
 	<entry name="Modifier" value="수정자"/>
 	<entry name="Mods" value="모드"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>확인 [<control name='OK'/>]"/>
 	<entry name="Objectives" value="목표"/>
 	<entry name="ObjectivesCompleted" value="완료된 목표"/>
-	<entry name="Off" value="<style color='GUI/Red'/>꺼짐<style color='Default'/>"/>
+	<entry name="Off" value="꺼짐"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>꺼짐<style color='Default'/>"/>
 	<entry name="Okay" value="좋아요"/>
-	<entry name="On" value="<style color='GUI/Green'/>켜짐<style color='Default'/>"/>
+	<entry name="On" value="켜짐"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>켜짐<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>이 설정은 메인 메뉴에서만 변경할 수 있습니다."/>
 	<entry name="OnThisSide" value="같은 편:"/>
 	<entry name="OnCooldown" value="재사용 대기 중입니다."/>

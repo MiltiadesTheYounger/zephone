@@ -212,6 +212,8 @@
 	<entry name="Video" value="Video"/>
 	<entry name="Video/AnisotropicFiltering" value="Anisotropic Filtering"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="Anti-Aliasing"/>
+	<entry name="Video/AntiAliasingHint" value="Reduces jagged edges using FXAA or higher-quality SMAA. Higher-quality anti-aliasing may reduce performance."/>
 	<entry name="Video/Brightness" value="Brightness"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Cloud Shadows"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Fixed Time of Day at"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Anti-Aliasing"/>
-	<entry name="Video/FXAAHint" value="Reduces aliasing by smoothing edges with FXAA, but may reduce performance. Relies on your graphics card's computing power."/>
 	<entry name="Video/Gamma" value="Gamma"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="GUI Scale"/>

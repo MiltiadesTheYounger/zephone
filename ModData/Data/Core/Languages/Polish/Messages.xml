@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="Sterownik twojej karty graficznej jest nieaktualny.<br/><br/>Aby polepszyć stabilność i<nbsp/>wydajność gry, zaktualizuj ten sterownik poprzez wizytę na stronie pomocy producenta twojej karty."/>
 	<entry name="IncompatibleVersion" value="Niekompatybilna wersja gry."/>
 	<entry name="Info" value="Informacja"/>
+	<entry name="IntelCPUPossiblyDegraded" value="Twój system już korzysta z<nbsp/>zalecanego mikrokodu Intela, ale procesory desktopowe 13. i<nbsp/>14. generacji, które zostały już uszkodzone, mogą nadal ulegać awariom lub zawieszeniom.<br/><br/>Jeśli doświadczasz niewyjaśnionych awarii, spróbuj obniżyć mnożnik P-core. Jeśli to zatrzyma awarie, skontaktuj się z<nbsp/>Intelem, producentem komputera lub sprzedawcą w<nbsp/>sprawie wymiany gwarancyjnej."/>
+	<entry name="IntelCPUStability" value="Niektóre procesory desktopowe Intela 13. i<nbsp/>14. generacji mogą powodować niewyjaśnione awarie lub zawieszenia.<br/><br/>Jeśli tego doświadczasz, zaktualizuj BIOS płyty głównej do najnowszej wersji, wczytaj Intel Default Settings, jeśli są dostępne, i<nbsp/>usuń wszelkie podkręcanie lub undervolting procesora. Intel przedłużył ochronę gwarancyjną dla kwalifikujących się procesorów."/>
 	<entry name="Kicked" value="Wyrzucono cię z<nbsp/>serwera."/>
 	<entry name="MasterServerUnreachable" value="Nie można się połączyć z<nbsp/>serwerem głównym."/>
 	<entry name="MissingDLC" value="Brak DLC."/>

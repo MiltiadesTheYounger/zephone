@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="그래픽 드라이버가 오래되었습니다.<br/><br/>안정성과 성능을 향상하려면 그래픽 카드 제조업체의 지원 웹사이트를 방문하여 그래픽 드라이버를 업데이트하세요."/>
 	<entry name="IncompatibleVersion" value="호환되지 않는 게임 버전입니다."/>
 	<entry name="Info" value="정보"/>
+	<entry name="IntelCPUPossiblyDegraded" value="시스템이 이미 Intel이 권장하는 마이크로코드를 사용하고 있지만, 이미 손상된 13세대 및 14세대 데스크톱 프로세서는 여전히 충돌하거나 멈출 수 있습니다.<br/><br/>원인을 알 수 없는 충돌이 발생하면 P-core 배수를 낮춰 보세요. 그로 인해 충돌이 멈추면 보증 교체에 대해 Intel, 컴퓨터 제조업체 또는 판매처에 문의하세요."/>
+	<entry name="IntelCPUStability" value="일부 Intel 13세대 및 14세대 데스크톱 프로세서는 원인을 알 수 없는 충돌이나 멈춤을 유발할 수 있습니다.<br/><br/>이러한 문제가 발생하면 메인보드 BIOS를 최신 버전으로 업데이트하고, 가능한 경우 Intel Default Settings를 불러온 뒤, CPU 오버클럭 또는 언더볼팅을 제거하세요. Intel은 해당되는 프로세서에 대해 보증 기간을 연장했습니다."/>
 	<entry name="Kicked" value="서버에서 추방되었습니다."/>
 	<entry name="MasterServerUnreachable" value="마스터 서버에 연결할 수 없습니다."/>
 	<entry name="MissingDLC" value="DLC가 없습니다."/>

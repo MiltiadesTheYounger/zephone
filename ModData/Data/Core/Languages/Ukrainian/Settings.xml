@@ -225,8 +225,6 @@
 <entry name="Video/FixedTimeOfDayHint" value=""/>
 <entry name="Video/FixedTimeOfDayAt" value="Фіксувати час доби на"/>
 <entry name="Video/FixedTimeOfDayAtHint" value=""/>
-<entry name="Video/FXAA" value="Згладжування"/>
-<entry name="Video/FXAAHint" value="Згладжує краї зображень за допомогою FXAA, що може знизити продуктивність. Залежить від обчислювальної потужності вашої відеокарти."/>
 
 <entry name="Video/Gamma" value="Гама"/>
 <entry name="Video/GammaHint" value=""/>
@@ -288,4 +286,6 @@
 <entry name="Video/SSAOQuality1" value="Середня"/>
 <entry name="Video/SSAOQuality2" value="Висока"/>
 <entry name="Video/SSAOQualityHint" value="Визначає роздільну здатність, з якою прораховується екранне затінення (SSAO). Вища якість дає детальніше затінення, але може суттєво знизити продуктивність на високих роздільних здатностях, особливо 4K та 8K."/>
+<entry name="Video/AntiAliasing" value="Згладжування"/>
+<entry name="Video/AntiAliasingHint" value="Зменшує зубчастість країв за допомогою FXAA або якіснішого SMAA. Якісніше згладжування може знизити продуктивність."/>
 </language>

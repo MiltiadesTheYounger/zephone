@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="混音器"/>
 	<entry name="ModDetailsHint" value="在Steam工坊中打开模组详情页面。"/>
+	<entry name="ModdingGuide" value="模组指南"/>
 	<entry name="ModFolderHint" value="开启模组文件夹。"/>
 	<entry name="Modifier" value="修正条件"/>
 	<entry name="Mods" value="模组"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>好[<control name='OK'/>]"/>
 	<entry name="Objectives" value="目标"/>
 	<entry name="ObjectivesCompleted" value="目标完成"/>
-	<entry name="Off" value="<style color='GUI/Red'/>关<style color='Default'/>"/>
+	<entry name="Off" value="关"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>关<style color='Default'/>"/>
 	<entry name="Okay" value="好"/>
-	<entry name="On" value="<style color='GUI/Green'/>开<style color='Default'/>"/>
+	<entry name="On" value="开"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>开<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>只可以在主菜单中调整此选项。"/>
 	<entry name="OnThisSide" value="在这一侧："/>
 	<entry name="OnCooldown" value="冷却中。"/>

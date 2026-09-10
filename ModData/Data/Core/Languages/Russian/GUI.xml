@@ -74,7 +74,7 @@
 	<entry name="Community" value="Сообщество"/>
 	<entry name="Compendium" value="Справочник"/>
 	<entry name="CompendiumHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Compendium'/&gt; [&lt;control name='OpenCompendiumScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Просмотреть информацию об игровых механиках, юнитах, зданиях, технологиях и мире."/>
-	<entry name="CompendiumSearchHint" value="Искать по названиям всех записей Справочника."/>
+	<entry name="CompendiumSearchHint" value="Искать все совпадения в справочнике."/>
 	<entry name="Connect" value="Соединиться"/>
 	<entry name="ConsumesAction" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt; Тратит действие"/>
 	<entry name="ConsumesMovement" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt; Тратит движение"/>
@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="Микшер"/>
 	<entry name="ModDetailsHint" value="Открыть подробности мода в мастерской Steam."/>
+	<entry name="ModdingGuide" value="Руководство по моддингу"/>
 	<entry name="ModFolderHint" value="Открыть папку мода."/>
 	<entry name="Modifier" value="Модификация"/>
 	<entry name="Mods" value="Моды"/>
@@ -227,7 +228,7 @@
 	<entry name="NoMovementRemaining" value="Движения не осталось."/>
 	<entry name="NoResearchSelected" value="Исследование не выбрано"/>
 	<entry name="NoPointsRemaining" value="Очков не осталось."/>
-	<entry name="NoSearchResults" value="Нет результатов поиска."/>
+	<entry name="NoSearchResults" value="Поиск не дал результатов."/>
 	<entry name="NoValidTargets" value="Нет доступных целей."/>
 	<entry name="NotAvailableInDemo" value="&lt;style color='GUI/Red'/&gt;Недоступно в демоверсии."/>
 	<entry name="NotEnoughResources" value="Недостаточно ресурсов."/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="&lt;style name='Title'/&gt;OK [&lt;control name='OK'/&gt;]"/>
 	<entry name="Objectives" value="Задачи"/>
 	<entry name="ObjectivesCompleted" value="Задачи выполнены"/>
-	<entry name="Off" value="&lt;style color='GUI/Red'/&gt;Выкл.&lt;style color='Default'/&gt;"/>
+	<entry name="Off" value="Выкл."/>
+	<entry name="OffColored" value="&lt;style color='GUI/Red'/&gt;Выкл.&lt;style color='Default'/&gt;"/>
 	<entry name="Okay" value="OK"/>
-	<entry name="On" value="&lt;style color='GUI/Green'/&gt;Вкл.&lt;style color='Default'/&gt;"/>
+	<entry name="On" value="Вкл."/>
+	<entry name="OnColored" value="&lt;style color='GUI/Green'/&gt;Вкл.&lt;style color='Default'/&gt;"/>
 	<entry name="OnlyInMainMenu" value="&lt;br/&gt;&lt;br/&gt;&lt;style color='GUI/Yellow'/&gt;Этот параметр можно изменить только в главном меню."/>
 	<entry name="OnThisSide" value="На этой стороне:"/>
 	<entry name="OnCooldown" value="Перезаряжается."/>
@@ -306,7 +309,7 @@
 	<entry name="Research" value="Исследование"/>
 	<entry name="ResearchHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Research'/&gt; [&lt;control name='OpenResearchScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Выбрать новые технологии и просмотреть дерево исследований."/>
 	<entry name="ResearchCost" value="Цена исследования"/>
-	<entry name="ResearchSearchHint" value="Искать подробности технологий в отображаемых ветвях."/>
+	<entry name="ResearchSearchHint" value="Искать подробности технологии в показанных ветвях."/>
 	<entry name="ResearchTierLockedHint" value="&lt;style color='GUI/Red'/&gt;Чтобы разблокировать, исследуйте технологий предыдущего ранга: %1%"/>
 	<entry name="ResearchTierScrollTo" value="&lt;style name='Small'/&gt;[%1%] — прокрутить до этого ранга."/>
 	<entry name="Resource" value="&lt;icon texture='GUI/Bullet'/&gt;%1%"/>
@@ -442,7 +445,7 @@
 	<entry name="Version" value="Версия"/>
 	<entry name="VersionRevisionsDiffer" value="Версии игры отличаются (локальная = %1%, сервер = %2%)."/>
 	<entry name="Victorious" value="Победа"/>
-	<entry name="ViewOnSteam" value="Посмотреть в Steam"/>
+	<entry name="ViewOnSteam" value="Просмотреть в Steam"/>
 	<entry name="Voice" value="Голос"/>
 	<entry name="Weapon" value="Оружие"/>
 	<entry name="Weapons" value="Оружие"/>

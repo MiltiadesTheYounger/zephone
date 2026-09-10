@@ -212,6 +212,8 @@
 	<entry name="Video" value="画面"/>
 	<entry name="Video/AnisotropicFiltering" value="各向异性过滤"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="抗锯齿"/>
+	<entry name="Video/AntiAliasingHint" value="通过FXAA或更高品质的SMAA减少锯齿状边缘。更高品质的抗锯齿有可能会导致性能下降。"/>
 	<entry name="Video/Brightness" value="亮度"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="云雾阴影"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="固定时刻（游戏世界）："/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="抗锯齿"/>
-	<entry name="Video/FXAAHint" value="通过FXAA平滑渲染物体的锯齿状边缘，有可能会导致性能下降。请依据设备显卡算力自行合理调整。"/>
 	<entry name="Video/Gamma" value="伽马值"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="GUI缩放比率"/>

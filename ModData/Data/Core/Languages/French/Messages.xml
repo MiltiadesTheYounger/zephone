@@ -24,6 +24,8 @@
 	<entry name="GraphicsDriverOutdated" value="Votre pilote graphique est obsolète.<br/><br/>Pour améliorer la stabilité et les performances, mettez-le à jour en visitant le site Web d'assistance du fabricant de votre carte graphique."/>
 	<entry name="IncompatibleVersion" value="Version du jeu incompatible."/>
 	<entry name="Info" value="Infos"/>
+	<entry name="IntelCPUPossiblyDegraded" value="Votre système utilise déjà le microcode recommandé par Intel, mais les processeurs de bureau de 13e et 14e génération déjà endommagés peuvent toujours provoquer des crashs ou des gels.<br/><br/>Si vous constatez des crashs inexpliqués, essayez de baisser le multiplicateur des P-cores. Si cela met fin aux crashs, contactez Intel, le fabricant de votre ordinateur ou le revendeur au sujet d'un remplacement sous garantie."/>
+	<entry name="IntelCPUStability" value="Certains processeurs de bureau Intel de 13e et 14e génération peuvent provoquer des crashs ou des gels inexpliqués.<br/><br/>Si cela vous arrive, mettez à jour le BIOS de votre carte mère vers la dernière version, chargez les «<nbsp/>Intel Default Settings<nbsp/>» s'ils sont disponibles, et désactivez tout overclocking ou undervolting du processeur. Intel a prolongé la couverture de garantie pour les processeurs éligibles."/>
 	<entry name="Kicked" value="Vous vous êtes fait expulser du serveur."/>
 	<entry name="MasterServerUnreachable" value="Impossible de se connecter au serveur principal."/>
 	<entry name="MissingDLC" value="DLC manquant."/>

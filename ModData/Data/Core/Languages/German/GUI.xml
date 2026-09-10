@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="Mixer"/>
 	<entry name="ModDetailsHint" value="Öffne die Mod-Details im Steam Workshop."/>
+	<entry name="ModdingGuide" value="Modding-Leitfaden"/>
 	<entry name="ModFolderHint" value="Öffne den Mod-Ordner."/>
 	<entry name="Modifier" value="Modifikator"/>
 	<entry name="Mods" value="Mods"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>Okay [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Ziele"/>
 	<entry name="ObjectivesCompleted" value="Erfüllte Ziele"/>
-	<entry name="Off" value="<style color='GUI/Red'/>Aus<style color='Default'/>"/>
+	<entry name="Off" value="Aus"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>Aus<style color='Default'/>"/>
 	<entry name="Okay" value="Okay"/>
-	<entry name="On" value="<style color='GUI/Green'/>An<style color='Default'/>"/>
+	<entry name="On" value="An"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>An<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Diese Einstellungen können nur aus dem Hauptmenü geändert werden."/>
 	<entry name="OnThisSide" value="Auf dieser Seite:"/>
 	<entry name="OnCooldown" value="In Abklingzeit."/>

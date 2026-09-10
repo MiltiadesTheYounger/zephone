@@ -212,6 +212,8 @@
 	<entry name="Video" value="Video"/>
 	<entry name="Video/AnisotropicFiltering" value="Anisotrope Filterung"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="Anti-Aliasing"/>
+	<entry name="Video/AntiAliasingHint" value="Reduziert den Treppeneffekt durch Kantenglättung mit FXAA oder dem höherwertigen SMAA. Höherwertige Kantenglättung kann die Leistung verringern."/>
 	<entry name="Video/Brightness" value="Helligkeit"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Wolkenschatten"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Feste Tageszeit um"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Anti-Aliasing"/>
-	<entry name="Video/FXAAHint" value="Reduziert den Treppeneffekt durch Kantenglättung mit FXAA, kann aber die Leistung verringern. Das hängt von der Rechenleistung deiner Grafikkarte ab."/>
 	<entry name="Video/Gamma" value="Gamma"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="GUI-Skalierung"/>

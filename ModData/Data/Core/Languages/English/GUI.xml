@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="Mixer"/>
 	<entry name="ModDetailsHint" value="Open mod details on the Steam Workshop."/>
+	<entry name="ModdingGuide" value="Modding Guide"/>
 	<entry name="ModFolderHint" value="Open mod folder."/>
 	<entry name="Modifier" value="Modifier"/>
 	<entry name="Mods" value="Mods"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Objectives"/>
 	<entry name="ObjectivesCompleted" value="Objectives Completed"/>
-	<entry name="Off" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
+	<entry name="Off" value="Off"/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
 	<entry name="Okay" value="Okay"/>
-	<entry name="On" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
+	<entry name="On" value="On"/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Changing this settings can only be done in the main menu."/>
 	<entry name="OnThisSide" value="On this side:"/>
 	<entry name="OnCooldown" value="On cooldown."/>

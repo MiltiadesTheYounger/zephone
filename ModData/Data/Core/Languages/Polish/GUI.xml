@@ -209,6 +209,7 @@
 	<entry name="Missing" value="?"/>
 	<entry name="Mixer" value="Mikser"/>
 	<entry name="ModDetailsHint" value="Pokaż szczegóły modyfikacji w<nbsp/>Warsztacie Steam."/>
+	<entry name="ModdingGuide" value="Przewodnik po modyfikacjach"/>
 	<entry name="ModFolderHint" value="Otwórz folder z<nbsp/>modyfikacją."/>
 	<entry name="Modifier" value="Modyfikator"/>
 	<entry name="Mods" value="Modyfikacje"/>
@@ -238,9 +239,11 @@
 	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
 	<entry name="Objectives" value="Cele"/>
 	<entry name="ObjectivesCompleted" value="Cele wykonane"/>
-	<entry name="Off" value="<style color='GUI/Red'/>Wył.<style color='Default'/>"/>
+	<entry name="Off" value="Wył."/>
+	<entry name="OffColored" value="<style color='GUI/Red'/>Wył.<style color='Default'/>"/>
 	<entry name="Okay" value="Zgoda"/>
-	<entry name="On" value="<style color='GUI/Green'/>Wł.<style color='Default'/>"/>
+	<entry name="On" value="Wł."/>
+	<entry name="OnColored" value="<style color='GUI/Green'/>Wł.<style color='Default'/>"/>
 	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Zmiana tych ustawień jest możliwa jedynie w<nbsp/>menu głównym."/>
 	<entry name="OnThisSide" value="Po tej stronie:"/>
 	<entry name="OnCooldown" value="W trakcie odnowienia."/>

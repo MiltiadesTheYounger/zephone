@@ -212,6 +212,8 @@
 	<entry name="Video" value="Vídeo"/>
 	<entry name="Video/AnisotropicFiltering" value="Filtrado anisotrópico"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="Suavizado de bordes"/>
+	<entry name="Video/AntiAliasingHint" value="Reduce los dientes de sierra usando FXAA o SMAA de mayor calidad. Un suavizado de bordes de mayor calidad puede reducir el rendimiento."/>
 	<entry name="Video/Brightness" value="Brillo"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Sombras de las nubes"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Fijar la hora del día en"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Suavizado de bordes"/>
-	<entry name="Video/FXAAHint" value="Reduce los dientes de sierra suavizando los bordes con tecnología FXAA, pero puede reducir el rendimiento. Utiliza la capacidad de procesamiento de tu tarjeta gráfica."/>
 	<entry name="Video/Gamma" value="Gamma"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Escala de interfaz gráfica"/>

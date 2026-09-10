@@ -212,6 +212,8 @@
 	<entry name="Video" value="비디오"/>
 	<entry name="Video/AnisotropicFiltering" value="비등방성 필터링"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/AntiAliasing" value="안티 앨리어싱"/>
+	<entry name="Video/AntiAliasingHint" value="FXAA 또는 더 높은 품질의 SMAA로 가장자리를 부드럽게 처리하여 앨리어싱 현상을 줄입니다. 더 높은 품질의 안티 앨리어싱은 성능이 저하될 수 있습니다."/>
 	<entry name="Video/Brightness" value="밝기"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="구름 그림자"/>
@@ -236,8 +238,6 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="다음 시간대로 고정:"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="안티 앨리어싱"/>
-	<entry name="Video/FXAAHint" value="FXAA로 가장자리를 부드럽게 처리하여 앨리어싱 현상이 감소하지만, 성능이 저하될 수 있습니다. 그래픽 카드의 연산 성능에 따라 달라집니다."/>
 	<entry name="Video/Gamma" value="감마"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="GUI 크기"/>
