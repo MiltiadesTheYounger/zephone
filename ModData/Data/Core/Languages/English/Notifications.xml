@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="Diplomacy1Summary" value="%1% declared war on %2%."/>
-	<entry name="Diplomacy2Summary" value="%1% signed peace treaty with %2%."/>
-	<entry name="Diplomacy3Summary" value="%1% signed trade agreement with %2%."/>
-	<entry name="Diplomacy4Summary" value="%1% entered alliance with %2%."/>
+	<entry name="CityFounded" value="City Founded"/>
 	<entry name="CityFoundedSummary" value="%1% founded."/>
+	<entry name="CityGrown" value="City Growth"/>
 	<entry name="CityGrownSummary" value="%1% grown to %2% population."/>
+	<entry name="Diplomacy1" value="War Declared"/>
+	<entry name="Diplomacy1Summary" value="%1% declared war on %2%."/>
+	<entry name="Diplomacy2" value="Peace Treaty"/>
+	<entry name="Diplomacy2Summary" value="%1% signed peace treaty with %2%."/>
+	<entry name="Diplomacy3" value="Trade Agreement"/>
+	<entry name="Diplomacy3Summary" value="%1% signed trade agreement with %2%."/>
+	<entry name="Diplomacy4" value="Alliance"/>
+	<entry name="Diplomacy4Summary" value="%1% entered alliance with %2%."/>
 	<entry name="FactionDefeated" value="Faction Defeated"/>
 	<entry name="FactionDiscovered" value="Faction Discovered"/>
 	<entry name="FactionDiscoveredSummary" value="%1% discovered."/>
+	<entry name="FeatureTypeDiscovered" value="Feature Discovered"/>
 	<entry name="FeatureTypeDiscoveredSummary" value="%1% discovered."/>
 	<entry name="Foundations" value="Shallow Foundations"/>
 	<entry name="FoundationsWithMutator" value="Altered Foundations"/>
@@ -17,30 +24,55 @@
 	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
 	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
 	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattle" value="Escalation Advanced"/>
 	<entry name="PlayerAdvancedTitanBattleSummary" value="%1% advanced escalation by %2% turns."/>
+	<entry name="PlayerCondemned" value="Condemnation"/>
 	<entry name="PlayerCondemnedSummary" value="%1% condemned %2%."/>
+	<entry name="PlayerDelayedTitanBattle" value="Escalation Delayed"/>
 	<entry name="PlayerDelayedTitanBattleSummary" value="%1% delayed escalation by %2% turns."/>
 	<entry name="PlayerLost" value="Defeat!"/>
 	<entry name="PlayerLostSummary" value="%1% defeated!"/>
+	<entry name="PlayerPraised" value="Praise"/>
 	<entry name="PlayerPraisedSummary" value="%1% praised %2%."/>
+	<entry name="PlayerRegrouped" value="Regrouped"/>
 	<entry name="PlayerRegroupedSummary" value="%1% regrouped."/>
+	<entry name="PlayerUsedActionOn" value="Ability Used"/>
 	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
 	<entry name="PlayerWon" value="Victory!"/>
 	<entry name="PlayerWonSummary" value="%1% victorious!"/>
+	<entry name="ProductionCompleted" value="Production Completed"/>
 	<entry name="ProductionCompletedSummary" value="%1% produced %2%."/>
+	<entry name="QuestAdded" value="Quest Added"/>
+	<entry name="QuestAddedSummary" value="Quest received: %1%."/>
+	<entry name="QuestCompleted" value="Quest Completed"/>
+	<entry name="QuestCompletedSummary" value="Quest completed: %1%."/>
+	<entry name="QuestUpdated" value="Quest Updated"/>
+	<entry name="QuestUpdatedSummary" value="Quest updated: %1%."/>
+	<entry name="RegionDiscovered" value="Region Discovered"/>
 	<entry name="RegionDiscoveredSummary" value="%1% discovered."/>
 	<entry name="ResearchCompleted" value="Research Completed"/>
 	<entry name="ResearchCompletedSummary" value="%1% researched."/>
+	<entry name="RewardGained" value="Reward Gained"/>
 	<entry name="RewardGainedSummary" value="Gained %2%."/>
+	<entry name="TileAcquired" value="Tile Acquired"/>
 	<entry name="TileAcquiredSummary" value="%1% acquired tile."/>
+	<entry name="TileCaptured" value="Tile Captured"/>
 	<entry name="TileCapturedSummary" value="%1% captured %2%."/>
+	<entry name="TileCleared" value="Tile Cleared"/>
 	<entry name="TileClearedSummary" value="%1% cleared %2%."/>
+	<entry name="UnitAttacked" value="Unit Attacked"/>
 	<entry name="UnitAttackedSummary" value="%1% attacked %2%."/>
+	<entry name="UnitCaptured" value="Unit Captured"/>
 	<entry name="UnitCapturedSummary" value="%1% captured %2%."/>
+	<entry name="UnitDamaged" value="Unit Damaged"/>
 	<entry name="UnitDamagedSummary" value="%1% damaged %2%."/>
-	<entry name="UnitKilledSummary" value="%1% killed %2%."/>
 	<entry name="UnitGainedTraitSummary" value="%1% gained %2%."/>
+	<entry name="UnitKilled" value="Unit Killed"/>
+	<entry name="UnitKilledSummary" value="%1% killed %2%."/>
+	<entry name="UnitTransformed" value="Unit Transformed"/>
 	<entry name="UnitTransformedSummary" value="%1% transformed into %2%."/>
+	<entry name="UnitTypeDiscovered" value="Unit Type Discovered"/>
 	<entry name="UnitTypeDiscoveredSummary" value="%1% discovered."/>
+	<entry name="UnitUsedActionOn" value="Ability Used"/>
 	<entry name="UnitUsedActionOnSummary" value="%1% used %2% on %3%."/>
 </language>

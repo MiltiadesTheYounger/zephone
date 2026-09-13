@@ -72,6 +72,7 @@
 	<entry name="Communications" value="Communications"/>
 	<entry name="CommunicationsHint" value="<style name='Title'/><string name='GUI/Communications'/> [<control name='OpenCommunicationsScreen'/>]<br/><style name='Default'/>Appeler d'autres joueurs pour gérer la diplomatie, échanger des ressources et coordonner des pactes."/>
 	<entry name="Community" value="Communauté"/>
+	<entry name="CommunityHint" value="Visiter les forums de la communauté pour discuter du jeu et partager des idées."/>
 	<entry name="Compendium" value="Compendium"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>Consulter les concepts du jeu, unités, bâtiments, technologies et textes de lore découverts."/>
 	<entry name="CompendiumSearchHint" value="Rechercher tous les noms d'entrées du Compendium."/>
@@ -79,6 +80,7 @@
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Consomme de l'action"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Consomme du déplacement"/>
 	<entry name="Continue" value="Continuer"/>
+	<entry name="ContinueHint" value="Reprendre là où vous en étiez dans votre dernière partie sauvegardée."/>
 	<entry name="ControllerDifficultyWarningHint" value="Désactive de nombreux succès de victoire."/>
 	<entry name="Cooldown" value="Délai"/>
 	<entry name="Copy" value="Copier"/>
@@ -87,6 +89,7 @@
 	<entry name="Cost" value="Coût"/>
 	<entry name="Create" value="Créer"/>
 	<entry name="Credits" value="Crédits"/>
+	<entry name="CreditsHint" value="Rencontrer les personnes qui ont donné vie à ZEPHON."/>
 	<entry name="Cyber" value="Cyber"/>
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCHint" value="<style name='Title'/><string name='GUI/DLC'/> [<control name='LobbyDLC'/>]"/>
@@ -99,12 +102,17 @@
 	<entry name="Decline" value="Refuser"/>
 	<entry name="DeclineCalls" value="Refuser les appels"/>
 	<entry name="DeclineCallsHint" value="Refuser tous les appels entrants [<control name='NextTask'/>]."/>
+	<entry name="DeepArchiveEnding" value="Fin"/>
+	<entry name="DeepArchiveFinalMentorMessage" value="Message final du mentor"/>
+	<entry name="DeepArchiveHint" value="Revoir les conversations débloquées dans Les Profondeurs."/>
+	<entry name="DeepArchiveLockedHint" value="Débloquer une conversation dans Les Profondeurs pour la lire ici."/>
 	<entry name="Default" value="Défaut"/>
 	<entry name="Defeated" value="Défaite"/>
 	<entry name="Delete" value="Supprimer"/>
 	<entry name="DensityParametersHint" value="<style name='Title'/>Paramètres de densité [<control name='LobbyDensityParameters'/>]"/>
 	<entry name="Details" value="Détails"/>
 	<entry name="DigitalArtbook&Wallpapers" value="Artbook numérique et fonds d'écran"/>
+	<entry name="DigitalArtbook&WallpapersHint" value="Explorer l'art de ZEPHON et parcourir ses fonds d'écran."/>
 	<entry name="Diplomacy" value="Diplomatie"/>
 	<entry name="DirectConnect" value="Connexion directe"/>
 	<entry name="Directory" value="Répertoire"/>
@@ -112,6 +120,7 @@
 	<entry name="DisableSimultaneousTurns" value="Désactiver les tours simultanés"/>
 	<entry name="DisableTips" value="Désactiver les conseils"/>
 	<entry name="DisableTipsHint" value="Ne plus afficher les conseils en pop-up. Vous pouvez les réactiver dans les paramètres."/>
+	<entry name="DisembarkBeforeFoundingCity" value="Débarquer toutes les unités avant de fonder une ville."/>
 	<entry name="DismantleBuildingHint" value="Démonter le bâtiment de ce type avec le plus faible rendement.<br/><br/>Pour démonter un bâtiment donné, interagissez avec les emplacements de bâtiments sur la carte."/>
 	<entry name="DismantleOperationHint" value="Clic droit pour démanteler 1."/>
 	<entry name="Disconnected" value="Déconnexion"/>
@@ -136,6 +145,7 @@
 	<entry name="Export" value="Exporter"/>
 	<entry name="ExportHint" value="Exporter les stats vers « %1% »."/>
 	<entry name="Extra" value="Bonus"/>
+	<entry name="ExtraHint" value="Explorer les dialogues débloqués, les mods, les illustrations et plus encore."/>
 	<entry name="ExitCity" value="Quitter la ville"/>
 	<entry name="ExitCityHint" value="Quitter l'écran de la ville [<control name='NextTask'/>]."/>
 	<entry name="ExitToMainMenu" value="Retour au menu principal"/>
@@ -159,6 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>Coût<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="PV au maximum."/>
+	<entry name="NotificationLog" value="Journal des notifications"/>
+	<entry name="NotificationLogAll" value="Toutes les notifications"/>
+	<entry name="NotificationLogCities" value="Villes et production"/>
+	<entry name="NotificationLogCombat" value="Combat"/>
+	<entry name="NotificationLogDiplomacy" value="Diplomatie"/>
+	<entry name="NotificationLogEmpty" value="Aucune notification correspondante."/>
+	<entry name="NotificationLogExploration" value="Exploration"/>
+	<entry name="NotificationLogGoTo" value="Aller à l'emplacement."/>
+	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>Parcourir les notifications passées."/>
+	<entry name="NotificationLogResearch" value="Recherches"/>
+	<entry name="NotificationLogStory" value="Quêtes et histoire"/>
+	<entry name="NotificationLogTurn" value="Tour %1%"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Maintenez Ctrl pour un maximum de dégâts."/>
 	<entry name="HoldKeyToKeepVisible" value="Maintenez Maj pour rester visible."/>
@@ -186,6 +208,7 @@
 	<entry name="Items" value="Objets"/>
 	<entry name="Join" value="Rejoindre"/>
 	<entry name="JoinGame" value="Rejoindre la partie"/>
+	<entry name="JoinGameHint" value="Trouver et rejoindre une partie multijoueur."/>
 	<entry name="JustOneMoreTurn" value="Non<nbsp/>! Juste... un... tour... de plus..."/>
 	<entry name="KickPlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>] pour expulser un joueur."/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% niveau<br/><icon texture='GUI/Bullet'/>%3%/%4% expérience<br/><icon texture='GUI/Bullet'/>%5% valeur d'expérience de la mort"/>
@@ -195,6 +218,7 @@
 	<entry name="Load" value="Charger"/>
 	<entry name="LoadGame" value="Charger la partie"/>
 	<entry name="LoadGameHelp" value="Aucune sauvegarde à charger."/>
+	<entry name="LoadGameHint" value="Choisir une partie sauvegardée à reprendre."/>
 	<entry name="Locked" value="Verrouillé."/>
 	<entry name="MainMenu" value="Menu principal"/>
 	<entry name="Map" value="Carte"/>
@@ -202,6 +226,7 @@
 	<entry name="Max" value="max"/>
 	<entry name="Melee" value="Mêlée"/>
 	<entry name="Menu" value="Menu"/>
+	<entry name="MenuBackHint" value="Retourner au menu principal."/>
 	<entry name="MenuHint" value="<style name='Title'/><string name='GUI/Menu'/> [<control name='Cancel'/>]<br/><style name='Default'/>Ouvrir le menu pour sauvegarder, charger, modifier les paramètres ou quitter le jeu."/>
 	<entry name="Military" value="Militaire"/>
 	<entry name="Min" value="min"/>
@@ -213,6 +238,7 @@
 	<entry name="ModFolderHint" value="Ouvrir le dossier mod."/>
 	<entry name="Modifier" value="Modificateur"/>
 	<entry name="Mods" value="Mods"/>
+	<entry name="ModsHint" value="Gérer vos mods et choisir leur priorité de chargement."/>
 	<entry name="More" value="Plus"/>
 	<entry name="Multiplayer" value="Multijoueur"/>
 	<entry name="Mutators" value="Mutateurs"/>
@@ -271,6 +297,7 @@
 	<entry name="PasteInviteCodeHint" value="Rejoindre le jeu à partir du code d'invitation dans votre presse-papiers."/>
 	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Code d'invitation non valide.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="Notes de patch"/>
+	<entry name="PatchNotesHint" value="Lire les nouveautés et les changements de chaque mise à jour."/>
 	<entry name="Ping" value="Ping"/>
 	<entry name="Play" value="Jouer"/>
 	<entry name="Player" value="Joueur"/>
@@ -283,6 +310,8 @@
 	<entry name="Port" value="Port"/>
 	<entry name="PoweredBuildingsHint" value="Quantité de bâtiments alimentés de ce type. [<control name='ToggleBuildingPower'/>] sur l'icône du bâtiment sur la carte pour alimenter / couper l'alimentation d'un bâtiment spécifique."/>
 	<entry name="Properties" value="Propriétés"/>
+	<entry name="ProxyStudiosGames" value="Jeux Proxy Studios"/>
+	<entry name="ProxyStudiosGamesHint" value="Découvrir d'autres jeux de Proxy Studios sur Steam."/>
 	<entry name="Quests" value="Quêtes"/>
 	<entry name="QuestOptionHint" value="<style color='GUI/Red'/>%4%<style name='Default'/>%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="Coût<nbsp/>: %1%"/>
@@ -344,6 +373,7 @@
 	<entry name="QuestCycleBetweenHighlightedTilesHint" value="Cliquez pour faire défiler les tuiles en surbrillance."/>
 	<entry name="QuickSelectLeaderHint" value="Sélectionner rapidement le chef."/>
 	<entry name="Quit" value="Quitter"/>
+	<entry name="QuitHint" value="Fermer ZEPHON et revenir au bureau."/>
 	<entry name="Save" value="Sauvegarder"/>
 	<entry name="SaveAndExitToMainMenu" value="Sauvegarder et revenir au menu principal"/>
 	<entry name="SaveAndExitToDesktop" value="Sauvegarder et revenir au bureau"/>
@@ -368,6 +398,7 @@
 	<entry name="Sell" value="Vendre"/>
 	<entry name="SellBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Sell'/>"/>
 	<entry name="Settings" value="Paramètres"/>
+	<entry name="SettingsHint" value="Ajuster les graphismes, le son, les contrôles et d'autres préférences."/>
 	<entry name="Shop" value="Le Concordat"/>
 	<entry name="ShopHint" value="<style name='Title'/>Le Concordat [<control name='OpenShopScreen'/>]<br/><style name='Default'/>Échange de ressources et d'objets de héros.<br/><br/><style name='Italic'/>Tout le monde connaissait le Concordat, mais personne ne savait qui ils étaient. Peut-être des survivants à la surface, peut-être une branche de ZEPHON, peut-être une vieille corpo sortie de la tombe du XXe siècle. Ils alimentaient les rumeurs, cachant leur vérité sous les bruits de comptoir. Tout ce qu'on savait, c'est qu'ils vendaient tout à tout le monde et qu'ils ne perdaient jamais rien."/>
 	<entry name="ShowInCompendium" value="[<control name='ShowInCompendium'/>] pour afficher dans le Compendium."/>
@@ -378,6 +409,7 @@
 	<entry name="SkipUnit" value="Sauter l'unité (1/%1%)"/>
 	<entry name="SkipUnitHint" value="Sauter cette unité [<control name='NextTask'/>].<br/>[<control name='SelectNext'/>] pour sélectionner l'unité suivante.<br/>[<control name='SelectPrevious'/>] pour sélectionner l'unité précédente."/>
 	<entry name="Social" value="Social"/>
+	<entry name="SocialHint" value="Suivre Proxy Studios sur X pour les actualités et mises à jour."/>
 	<entry name="Spectating" value="Spectateur"/>
 	<entry name="Start" value="Démarrer"/>
 	<entry name="Stats" value="Stats"/>
@@ -441,6 +473,7 @@
 	<entry name="Upkeep" value="Entretien"/>
 	<entry name="UploadModHint" value="Publier le mode sur Steam Workshop."/>
 	<entry name="UserData" value="Données d'utilisateur"/>
+	<entry name="UserDataHint" value="Ouvrir le dossier contenant vos sauvegardes, paramètres et mods locaux."/>
 	<entry name="VS" value="VS"/>
 	<entry name="Version" value="Version"/>
 	<entry name="VersionRevisionsDiffer" value="Les révisions de version diffèrent (local = %1%, serveur = %2%)."/>

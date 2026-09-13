@@ -72,6 +72,7 @@
 	<entry name="Communications" value="通讯"/>
 	<entry name="CommunicationsHint" value="<style name='Title'/><string name='GUI/Communications'/> [<control name='OpenCommunicationsScreen'/>]<br/><style name='Default'/>与其他玩家进行外交沟通、资源交易与协议签订。"/>
 	<entry name="Community" value="社区"/>
+	<entry name="CommunityHint" value="访问社区论坛讨论游戏并分享想法。"/>
 	<entry name="Compendium" value="百科"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>查看游戏概念、单位、建筑、科技以及已发现的传承。"/>
 	<entry name="CompendiumSearchHint" value="搜索所有百科条目名称。"/>
@@ -79,6 +80,7 @@
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> 消耗动作点"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> 消耗移动点"/>
 	<entry name="Continue" value="继续"/>
+	<entry name="ContinueHint" value="从上次保存的游戏继续。"/>
 	<entry name="ControllerDifficultyWarningHint" value="将禁用许多胜利成就。"/>
 	<entry name="Cooldown" value="冷却"/>
 	<entry name="Copy" value="复制"/>
@@ -87,6 +89,7 @@
 	<entry name="Cost" value="费用"/>
 	<entry name="Create" value="创建"/>
 	<entry name="Credits" value="致谢名单"/>
+	<entry name="CreditsHint" value="了解让ZEPHON问世的幕后人员。"/>
 	<entry name="Cyber" value="赛博"/>
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCHint" value="<style name='Title'/><string name='GUI/DLC'/> [<control name='LobbyDLC'/>]"/>
@@ -99,12 +102,17 @@
 	<entry name="Decline" value="拒绝"/>
 	<entry name="DeclineCalls" value="拒绝呼叫"/>
 	<entry name="DeclineCallsHint" value="拒绝所有呼叫[<control name='NextTask'/>]。"/>
+	<entry name="DeepArchiveEnding" value="终章"/>
+	<entry name="DeepArchiveFinalMentorMessage" value="最终导师讯息"/>
+	<entry name="DeepArchiveHint" value="重温你在穹渊中已解锁的对话。"/>
+	<entry name="DeepArchiveLockedHint" value="在穹渊中解锁一段对话后即可在此阅读。"/>
 	<entry name="Default" value="默认"/>
 	<entry name="Defeated" value="战败"/>
 	<entry name="Delete" value="删除"/>
 	<entry name="DensityParametersHint" value="<style name='Title'/>密度参数 [<control name='LobbyDensityParameters'/>]"/>
 	<entry name="Details" value="详情"/>
 	<entry name="DigitalArtbook&Wallpapers" value="数字艺术册&壁纸"/>
+	<entry name="DigitalArtbook&WallpapersHint" value="探索ZEPHON的艺术并浏览壁纸。"/>
 	<entry name="Diplomacy" value="外交"/>
 	<entry name="DirectConnect" value="IP直连"/>
 	<entry name="Directory" value="目录"/>
@@ -112,6 +120,7 @@
 	<entry name="DisableSimultaneousTurns" value="禁用同步回合"/>
 	<entry name="DisableTips" value="禁用提示"/>
 	<entry name="DisableTipsHint" value="不再显示弹窗提示。之后你可以在设置中重新启用弹窗提示。"/>
+	<entry name="DisembarkBeforeFoundingCity" value="建立城市前请让所有单位离开载具。"/>
 	<entry name="DismantleBuildingHint" value="拆除此类型中潜在产量最低的建筑。<br/><br/>如果需要拆除特定建筑，请通过地图上显示的建筑槽位进行操作。"/>
 	<entry name="DismantleOperationHint" value="右键点击以拆除1个。"/>
 	<entry name="Disconnected" value="已断开连接"/>
@@ -136,6 +145,7 @@
 	<entry name="Export" value="导出"/>
 	<entry name="ExportHint" value="将数据导出至“%1%”。"/>
 	<entry name="Extra" value="额外"/>
+	<entry name="ExtraHint" value="探索已解锁的对话、模组、艺术作品等内容。"/>
 	<entry name="ExitCity" value="离开城市"/>
 	<entry name="ExitCityHint" value="退出城市界面[<control name='NextTask'/>]。"/>
 	<entry name="ExitToMainMenu" value="退出至主菜单"/>
@@ -159,6 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>费用<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="生命值全满。"/>
+	<entry name="NotificationLog" value="提醒日志"/>
+	<entry name="NotificationLogAll" value="全部提醒"/>
+	<entry name="NotificationLogCities" value="城市与生产"/>
+	<entry name="NotificationLogCombat" value="战斗"/>
+	<entry name="NotificationLogDiplomacy" value="外交"/>
+	<entry name="NotificationLogEmpty" value="无匹配提醒。"/>
+	<entry name="NotificationLogExploration" value="探索"/>
+	<entry name="NotificationLogGoTo" value="前往位置。"/>
+	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>浏览过往提醒。"/>
+	<entry name="NotificationLogResearch" value="科研"/>
+	<entry name="NotificationLogStory" value="任务与剧情"/>
+	<entry name="NotificationLogTurn" value="第%1%回合"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="长按CTRL造成最大伤害。"/>
 	<entry name="HoldKeyToKeepVisible" value="长按Shift固定面板。"/>
@@ -186,6 +208,7 @@
 	<entry name="Items" value="物品"/>
 	<entry name="Join" value="加入"/>
 	<entry name="JoinGame" value="加入游戏"/>
+	<entry name="JoinGameHint" value="查找并加入多人游戏。"/>
 	<entry name="JustOneMoreTurn" value="等等！再……来……一回合……"/>
 	<entry name="KickPlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>]踢出玩家。"/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% 等级<br/><icon texture='GUI/Bullet'/>%3%/%4% 经验值<br/><icon texture='GUI/Bullet'/>%5% 死亡经验值"/>
@@ -195,6 +218,7 @@
 	<entry name="Load" value="加载"/>
 	<entry name="LoadGame" value="加载游戏"/>
 	<entry name="LoadGameHelp" value="没有可加载的存档。"/>
+	<entry name="LoadGameHint" value="选择存档以继续游戏。"/>
 	<entry name="Locked" value="锁定。"/>
 	<entry name="MainMenu" value="主菜单"/>
 	<entry name="Map" value="地图"/>
@@ -202,6 +226,7 @@
 	<entry name="Max" value="最大"/>
 	<entry name="Melee" value="近战"/>
 	<entry name="Menu" value="菜单"/>
+	<entry name="MenuBackHint" value="返回主菜单。"/>
 	<entry name="MenuHint" value="<style name='Title'/><string name='GUI/Menu'/> [<control name='Cancel'/>]<br/><style name='Default'/>打开菜单以保存、读取、修改设置或退出游戏。"/>
 	<entry name="Military" value="军事"/>
 	<entry name="Min" value="分钟"/>
@@ -213,6 +238,7 @@
 	<entry name="ModFolderHint" value="开启模组文件夹。"/>
 	<entry name="Modifier" value="修正条件"/>
 	<entry name="Mods" value="模组"/>
+	<entry name="ModsHint" value="管理你的模组并选择加载顺序。"/>
 	<entry name="More" value="更多"/>
 	<entry name="Multiplayer" value="多人游戏"/>
 	<entry name="Mutators" value="突变因子"/>
@@ -271,6 +297,7 @@
 	<entry name="PasteInviteCodeHint" value="使用剪贴板中的邀请码加入游戏。"/>
 	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>无效邀请码。<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="补丁公告"/>
+	<entry name="PatchNotesHint" value="查看每次更新的新增内容与改动。"/>
 	<entry name="Ping" value="Ping"/>
 	<entry name="Play" value="游玩"/>
 	<entry name="Player" value="玩家"/>
@@ -283,6 +310,8 @@
 	<entry name="Port" value="端口"/>
 	<entry name="PoweredBuildingsHint" value="目前启用的该类型建筑数量。[<control name='ToggleBuildingPower'/>]地图上的建筑图标以禁用&启用指定建筑。"/>
 	<entry name="Properties" value="属性"/>
+	<entry name="ProxyStudiosGames" value="Proxy Studios游戏"/>
+	<entry name="ProxyStudiosGamesHint" value="在Steam上发现更多Proxy Studios的游戏。"/>
 	<entry name="Quests" value="任务"/>
 	<entry name="QuestOptionHint" value="<style color='GUI/Red'/>%4%<style name='Default'/>%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="费用：%1%"/>
@@ -344,6 +373,7 @@
 	<entry name="QuestCycleBetweenHighlightedTilesHint" value="点击以在高亮显示的地块之间循环。"/>
 	<entry name="QuickSelectLeaderHint" value="快速选择领袖。"/>
 	<entry name="Quit" value="退出"/>
+	<entry name="QuitHint" value="关闭ZEPHON并返回桌面。"/>
 	<entry name="Save" value="保存"/>
 	<entry name="SaveAndExitToMainMenu" value="保存&退出至主菜单"/>
 	<entry name="SaveAndExitToDesktop" value="保存&退出至桌面"/>
@@ -368,6 +398,7 @@
 	<entry name="Sell" value="出售"/>
 	<entry name="SellBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Sell'/>"/>
 	<entry name="Settings" value="设置"/>
+	<entry name="SettingsHint" value="调整画面、音频、控制及其他偏好。"/>
 	<entry name="Shop" value="协调者"/>
 	<entry name="ShopHint" value="<style name='Title'/>协调者[<control name='OpenShopScreen'/>]<br/><style name='Default'/>会交易资源与英雄物品。<br/><br/><style name='Italic'/>协调者的名字可以说无人不知。但吊诡的是，没有人知道这个神秘组织的真面目。也许他们是原本留在地表的幸存者，也许他们是泽芬的某个分支，甚至有人认为他们是来自20世纪的旧世界财阀集团。无论真相如何，关于协调者的流言蜚语漫天飞舞，模棱两可的不确定性就是他们最完美的伪装。我们唯一能够确定的，就是协调者会与所有人进行交易，在他们眼中一切都是商品，而且协调者永远不做亏本的买卖。"/>
 	<entry name="ShowInCompendium" value="[<control name='ShowInCompendium'/>]打开百科页面。"/>
@@ -378,6 +409,7 @@
 	<entry name="SkipUnit" value="跳过单位（1/%1%）"/>
 	<entry name="SkipUnitHint" value="跳过这个单位[<control name='NextTask'/>]。<br/>[<control name='SelectNext'/>]：选择下一个单位。<br/>[<control name='SelectPrevious'/>]：选择上一个单位。"/>
 	<entry name="Social" value="社交"/>
+	<entry name="SocialHint" value="在X上关注Proxy Studios以获取新闻与更新。"/>
 	<entry name="Spectating" value="观战"/>
 	<entry name="Start" value="开始"/>
 	<entry name="Stats" value="数据"/>
@@ -441,6 +473,7 @@
 	<entry name="Upkeep" value="维护费用"/>
 	<entry name="UploadModHint" value="将模组上传至Steam工坊。"/>
 	<entry name="UserData" value="用户数据"/>
+	<entry name="UserDataHint" value="打开包含存档、设置和本地模组的文件夹。"/>
 	<entry name="VS" value="VS"/>
 	<entry name="Version" value="版本"/>
 	<entry name="VersionRevisionsDiffer" value="版本存在差异（本地=%1%，服务器=%2%）。"/>

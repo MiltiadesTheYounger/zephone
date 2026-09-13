@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="Diplomacy1Summary" value="%1%已经向%2%宣战。"/>
-	<entry name="Diplomacy2Summary" value="%1%已经与%2%签订和平协定。"/>
-	<entry name="Diplomacy3Summary" value="%1%已经与%2%签订贸易协定。"/>
-	<entry name="Diplomacy4Summary" value="%1%已经与%2%达成联盟。"/>
+	<entry name="CityFounded" value="城市已建立"/>
 	<entry name="CityFoundedSummary" value="已建立%1%。"/>
+	<entry name="CityGrown" value="城市成长"/>
 	<entry name="CityGrownSummary" value="%1%已成长至%2%人口。"/>
+	<entry name="Diplomacy1" value="宣战"/>
+	<entry name="Diplomacy1Summary" value="%1%已经向%2%宣战。"/>
+	<entry name="Diplomacy2" value="和平协定"/>
+	<entry name="Diplomacy2Summary" value="%1%已经与%2%签订和平协定。"/>
+	<entry name="Diplomacy3" value="贸易协定"/>
+	<entry name="Diplomacy3Summary" value="%1%已经与%2%签订贸易协定。"/>
+	<entry name="Diplomacy4" value="联盟"/>
+	<entry name="Diplomacy4Summary" value="%1%已经与%2%达成联盟。"/>
 	<entry name="FactionDefeated" value="派系已战败"/>
 	<entry name="FactionDiscovered" value="已发现派系"/>
 	<entry name="FactionDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="FeatureTypeDiscovered" value="已发现特色"/>
 	<entry name="FeatureTypeDiscoveredSummary" value="已发现%1%。"/>
 	<entry name="Foundations" value="浅显的根基"/>
 	<entry name="FoundationsWithMutator" value="异化的根基"/>
@@ -17,30 +24,55 @@
 	<entry name="Interlude0Info" value="<string name='Quests/AScintillaOfHope/Intro'/>"/>
 	<entry name="Interlude1" value="<string name='Quests/PortentsOfDespair'/>"/>
 	<entry name="Interlude1Info" value="<string name='Quests/PortentsOfDespair/Intro'/>"/>
+	<entry name="PlayerAdvancedTitanBattle" value="激化提前"/>
 	<entry name="PlayerAdvancedTitanBattleSummary" value="%1%将激化提前了%2%回合。"/>
+	<entry name="PlayerCondemned" value="谴责"/>
 	<entry name="PlayerCondemnedSummary" value="%1%谴责了%2%。"/>
+	<entry name="PlayerDelayedTitanBattle" value="激化延迟"/>
 	<entry name="PlayerDelayedTitanBattleSummary" value="%1%将激化延迟了%2%回合。"/>
 	<entry name="PlayerLost" value="战败！"/>
 	<entry name="PlayerLostSummary" value="%1%已战败！"/>
+	<entry name="PlayerPraised" value="表扬"/>
 	<entry name="PlayerPraisedSummary" value="%1%表扬了%2%。"/>
+	<entry name="PlayerRegrouped" value="已重新编队"/>
 	<entry name="PlayerRegroupedSummary" value="%1%已重新编队。"/>
+	<entry name="PlayerUsedActionOn" value="已使用技能"/>
 	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
 	<entry name="PlayerWon" value="胜利！"/>
 	<entry name="PlayerWonSummary" value="%1%已胜利！"/>
+	<entry name="ProductionCompleted" value="生产完成"/>
 	<entry name="ProductionCompletedSummary" value="%1%已生产%2%。"/>
+	<entry name="QuestAdded" value="已添加任务"/>
+	<entry name="QuestAddedSummary" value="已接到任务：%1%。"/>
+	<entry name="QuestCompleted" value="任务完成"/>
+	<entry name="QuestCompletedSummary" value="任务完成：%1%。"/>
+	<entry name="QuestUpdated" value="任务已更新"/>
+	<entry name="QuestUpdatedSummary" value="任务已更新：%1%。"/>
+	<entry name="RegionDiscovered" value="已发现区域"/>
 	<entry name="RegionDiscoveredSummary" value="已发现%1%。"/>
 	<entry name="ResearchCompleted" value="研究完成。"/>
 	<entry name="ResearchCompletedSummary" value="已研究%1%。"/>
+	<entry name="RewardGained" value="已获得奖励"/>
 	<entry name="RewardGainedSummary" value="已获得%2%。"/>
+	<entry name="TileAcquired" value="已获取地块"/>
 	<entry name="TileAcquiredSummary" value="%1%已获取地块。"/>
+	<entry name="TileCaptured" value="已占领地块"/>
 	<entry name="TileCapturedSummary" value="%1%已占领%2%。"/>
+	<entry name="TileCleared" value="已清理地块"/>
 	<entry name="TileClearedSummary" value="%1%已清理%2%。"/>
+	<entry name="UnitAttacked" value="单位攻击"/>
 	<entry name="UnitAttackedSummary" value="%1%攻击了%2%。"/>
+	<entry name="UnitCaptured" value="单位已捕获"/>
 	<entry name="UnitCapturedSummary" value="%1%已捕获%2%。"/>
+	<entry name="UnitDamaged" value="单位受损"/>
 	<entry name="UnitDamagedSummary" value="%1%已伤害%2%。"/>
-	<entry name="UnitKilledSummary" value="%1%杀死了%2%。"/>
 	<entry name="UnitGainedTraitSummary" value="%1%获得了%2%。"/>
+	<entry name="UnitKilled" value="单位击杀"/>
+	<entry name="UnitKilledSummary" value="%1%杀死了%2%。"/>
+	<entry name="UnitTransformed" value="单位已转变"/>
 	<entry name="UnitTransformedSummary" value="%1%已转变为%2%。"/>
+	<entry name="UnitTypeDiscovered" value="已发现单位类型"/>
 	<entry name="UnitTypeDiscoveredSummary" value="已发现%1%。"/>
+	<entry name="UnitUsedActionOn" value="已使用技能"/>
 	<entry name="UnitUsedActionOnSummary" value="%1%对%3%使用了%2%。"/>
 </language>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 
+	<!-- Binding state. -->
+	<entry name="Unbound" value="Nicht belegt"/>
+
 	<!-- Keyboard keys. -->
 	<entry name="Space" value="Leertaste"/>
 	<entry name="World1" value="Welt 1"/>

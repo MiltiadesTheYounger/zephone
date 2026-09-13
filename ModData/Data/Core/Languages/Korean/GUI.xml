@@ -72,6 +72,7 @@
 	<entry name="Communications" value="커뮤니케이션"/>
 	<entry name="CommunicationsHint" value="<style name='Title'/><string name='GUI/Communications'/> [<control name='OpenCommunicationsScreen'/>]<br/><style name='Default'/>외교, 자원 거래 및 협약 조율을 위해 다른 플레이어에게 연락합니다."/>
 	<entry name="Community" value="커뮤니티"/>
+	<entry name="CommunityHint" value="커뮤니티 포럼을 방문하여 게임에 대해 이야기하고 아이디어를 공유합니다."/>
 	<entry name="Compendium" value="개요"/>
 	<entry name="CompendiumHint" value="<style name='Title'/><string name='GUI/Compendium'/> [<control name='OpenCompendiumScreen'/>]<br/><style name='Default'/>게임 개념, 유닛, 건물, 기술 및 발견한 설정을 검토합니다."/>
 	<entry name="CompendiumSearchHint" value="모든 개요 항목 이름을 검색합니다."/>
@@ -79,6 +80,7 @@
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> 행동력 소모"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> 이동력 소모"/>
 	<entry name="Continue" value="계속하기"/>
+	<entry name="ContinueHint" value="마지막으로 저장된 게임에서 이어서 플레이합니다."/>
 	<entry name="ControllerDifficultyWarningHint" value="많은 승리 업적을 비활성화합니다."/>
 	<entry name="Cooldown" value="재사용 대기 시간"/>
 	<entry name="Copy" value="복사"/>
@@ -87,6 +89,7 @@
 	<entry name="Cost" value="비용"/>
 	<entry name="Create" value="만들기"/>
 	<entry name="Credits" value="크레딧"/>
+	<entry name="CreditsHint" value="ZEPHON을 만든 사람들을 만나봅니다."/>
 	<entry name="Cyber" value="사이버"/>
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCHint" value="<style name='Title'/><string name='GUI/DLC'/> [<control name='LobbyDLC'/>]"/>
@@ -99,12 +102,17 @@
 	<entry name="Decline" value="거부"/>
 	<entry name="DeclineCalls" value="통화 거부"/>
 	<entry name="DeclineCallsHint" value="모든 통화 수신을 거부합니다 [<control name='NextTask'/>]."/>
+	<entry name="DeepArchiveEnding" value="끝"/>
+	<entry name="DeepArchiveFinalMentorMessage" value="마지막 멘토 메시지"/>
+	<entry name="DeepArchiveHint" value="심연에서 잠금 해제한 대화를 다시 확인합니다."/>
+	<entry name="DeepArchiveLockedHint" value="심연에서 대화를 잠금 해제하면 여기에서 읽을 수 있습니다."/>
 	<entry name="Default" value="기본값"/>
 	<entry name="Defeated" value="패배"/>
 	<entry name="Delete" value="Delete"/>
 	<entry name="DensityParametersHint" value="<style name='Title'/>밀도 매개변수 [<control name='LobbyDensityParameters'/>]"/>
 	<entry name="Details" value="세부 정보"/>
 	<entry name="DigitalArtbook&Wallpapers" value="디지털 아트북 및 월페이퍼"/>
+	<entry name="DigitalArtbook&WallpapersHint" value="ZEPHON의 디지털 아트북 및 월페이퍼를 살펴봅니다."/>
 	<entry name="Diplomacy" value="외교"/>
 	<entry name="DirectConnect" value="직접 연결"/>
 	<entry name="Directory" value="디렉터리"/>
@@ -112,6 +120,7 @@
 	<entry name="DisableSimultaneousTurns" value="동시 턴 비활성화"/>
 	<entry name="DisableTips" value="팁 비활성화"/>
 	<entry name="DisableTipsHint" value="팝업 팁 표시를 중단합니다. 설정에서 다시 활성화할 수 있습니다."/>
+	<entry name="DisembarkBeforeFoundingCity" value="도시 설립 전에 모든 유닛을 하선하세요."/>
 	<entry name="DismantleBuildingHint" value="이 유형의 건물 중 최대 생산량이 가장 낮은 건물을 해체합니다.<br/><br/>특정 건물을 해체하려면 지도에서 건물 슬롯과 상호작용하세요."/>
 	<entry name="DismantleOperationHint" value="우클릭으로 1개를 해체합니다."/>
 	<entry name="Disconnected" value="연결 끊김"/>
@@ -136,6 +145,7 @@
 	<entry name="Export" value="내보내기"/>
 	<entry name="ExportHint" value="통계를 “%1%”(으)로 내보냅니다."/>
 	<entry name="Extra" value="추가"/>
+	<entry name="ExtraHint" value="잠금 해제한 대화, 모드, 아트북 등을 살펴봅니다."/>
 	<entry name="ExitCity" value="도시 나가기"/>
 	<entry name="ExitCityHint" value="도시 화면에서 나갑니다 [<control name='NextTask'/>]."/>
 	<entry name="ExitToMainMenu" value="메인 메뉴로 나가기"/>
@@ -159,6 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>비용<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="체력이 최대입니다."/>
+	<entry name="NotificationLog" value="알림 기록"/>
+	<entry name="NotificationLogAll" value="모든 알림"/>
+	<entry name="NotificationLogCities" value="도시와 생산"/>
+	<entry name="NotificationLogCombat" value="전투"/>
+	<entry name="NotificationLogDiplomacy" value="외교"/>
+	<entry name="NotificationLogEmpty" value="일치하는 알림이 없습니다."/>
+	<entry name="NotificationLogExploration" value="탐사"/>
+	<entry name="NotificationLogGoTo" value="해당 위치로 이동합니다."/>
+	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>지난 알림을 살펴봅니다."/>
+	<entry name="NotificationLogResearch" value="연구"/>
+	<entry name="NotificationLogStory" value="퀘스트와 스토리"/>
+	<entry name="NotificationLogTurn" value="%1%턴"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Ctrl 키를 길게 누르면 최대 피해를 줍니다."/>
 	<entry name="HoldKeyToKeepVisible" value="Shift 키를 길게 누르면 계속 표시합니다."/>
@@ -186,6 +208,7 @@
 	<entry name="Items" value="아이템"/>
 	<entry name="Join" value="참여"/>
 	<entry name="JoinGame" value="게임 참여"/>
+	<entry name="JoinGameHint" value="멀티플레이어 게임을 찾아 참여합니다."/>
 	<entry name="JustOneMoreTurn" value="잠깐! 한 턴... 한 턴만 더..."/>
 	<entry name="KickPlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>]을 클릭하여 플레이어를 추방합니다."/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% 레벨<br/><icon texture='GUI/Bullet'/>%3%/%4% 경험치<br/><icon texture='GUI/Bullet'/>%5% 사망 경험치"/>
@@ -195,6 +218,7 @@
 	<entry name="Load" value="불러오기"/>
 	<entry name="LoadGame" value="게임 불러오기"/>
 	<entry name="LoadGameHelp" value="불러올 수 있는 저장된 게임이 없습니다."/>
+	<entry name="LoadGameHint" value="이어서 할 저장된 게임을 선택합니다."/>
 	<entry name="Locked" value="잠겨 있습니다."/>
 	<entry name="MainMenu" value="메인 메뉴"/>
 	<entry name="Map" value="지도"/>
@@ -202,6 +226,7 @@
 	<entry name="Max" value="최대"/>
 	<entry name="Melee" value="근접"/>
 	<entry name="Menu" value="메뉴"/>
+	<entry name="MenuBackHint" value="메인 메뉴로 돌아갑니다."/>
 	<entry name="MenuHint" value="<style name='Title'/><string name='GUI/Menu'/> [<control name='Cancel'/>]<br/><style name='Default'/>메뉴를 열어 저장, 불러오기, 설정 변경 또는 게임을 종료합니다."/>
 	<entry name="Military" value="군대"/>
 	<entry name="Min" value="분"/>
@@ -213,6 +238,7 @@
 	<entry name="ModFolderHint" value="모드 폴더를 엽니다."/>
 	<entry name="Modifier" value="수정자"/>
 	<entry name="Mods" value="모드"/>
+	<entry name="ModsHint" value="모드를 관리하고 적재 우선순위를 선택합니다."/>
 	<entry name="More" value="더 보기"/>
 	<entry name="Multiplayer" value="멀티플레이어"/>
 	<entry name="Mutators" value="변이 인자"/>
@@ -271,6 +297,7 @@
 	<entry name="PasteInviteCodeHint" value="클립보드에 있는 초대 코드로 게임에 참여합니다."/>
 	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>잘못된 초대 코드입니다.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="패치 노트"/>
+	<entry name="PatchNotesHint" value="각 업데이트의 신규 내용과 변경 사항을 확인합니다."/>
 	<entry name="Ping" value="핑"/>
 	<entry name="Play" value="플레이"/>
 	<entry name="Player" value="플레이어"/>
@@ -283,6 +310,8 @@
 	<entry name="Port" value="포트"/>
 	<entry name="PoweredBuildingsHint" value="전원이 켜진 이 유형의 건물 수입니다. 지도의 건물 아이콘에 [<control name='ToggleBuildingPower'/>]를 눌러 특정 건물의 전원을 켜거나 끌 수 있습니다."/>
 	<entry name="Properties" value="속성"/>
+	<entry name="ProxyStudiosGames" value="Proxy Studios 게임"/>
+	<entry name="ProxyStudiosGamesHint" value="Steam에서 Proxy Studios의 다른 게임을 살펴봅니다."/>
 	<entry name="Quests" value="퀘스트"/>
 	<entry name="QuestOptionHint" value="<style color='GUI/Red'/>%4%<style name='Default'/>%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="비용: %1%"/>
@@ -344,6 +373,7 @@
 	<entry name="QuestCycleBetweenHighlightedTilesHint" value="강조 표시된 타일 사이를 순환하려면 클릭합니다."/>
 	<entry name="QuickSelectLeaderHint" value="지도자를 빠르게 선택합니다."/>
 	<entry name="Quit" value="종료"/>
+	<entry name="QuitHint" value="ZEPHON을 종료하고 데스크톱으로 돌아갑니다."/>
 	<entry name="Save" value="저장"/>
 	<entry name="SaveAndExitToMainMenu" value="저장 후 메인 메뉴로 나가기"/>
 	<entry name="SaveAndExitToDesktop" value="저장 후 데스크톱으로 나가기"/>
@@ -368,6 +398,7 @@
 	<entry name="Sell" value="판매"/>
 	<entry name="SellBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Sell'/>"/>
 	<entry name="Settings" value="설정"/>
+	<entry name="SettingsHint" value="그래픽, 사운드, 컨트롤 및 기타 설정을 조정합니다."/>
 	<entry name="Shop" value="맹약단"/>
 	<entry name="ShopHint" value="<style name='Title'/>맹약단 [<control name='OpenShopScreen'/>]<br/><style name='Default'/>자원과 영웅 아이템을 거래합니다.<br/><br/><style name='Italic'/>모두가 맹약단을 압니다. 하지만 그들이 누구인지는 아무도 모릅니다. 지상에서 살아남은 생존자일 수도 있고, 제폰의 수하일 수도 있고, 20세기의 무덤에서 튀어나온 옛 기업일 수도 있습니다. 그들은 잡담 속에 진실을 숨긴 채 소문을 퍼뜨립니다. 우리가 아는 것은 그들은 모두와 모든 것을 거래하며, 절대 손해를 보지 않는다는 사실뿐입니다."/>
 	<entry name="ShowInCompendium" value="[<control name='ShowInCompendium'/>]를 사용하여 개요에 표시합니다."/>
@@ -378,6 +409,7 @@
 	<entry name="SkipUnit" value="유닛 건너뛰기(1/%1%)"/>
 	<entry name="SkipUnitHint" value="이 유닛을 건너뜁니다 [<control name='NextTask'/>].<br/>[<control name='SelectNext'/>]을 사용하여 다음 유닛을 선택합니다.<br/>[<control name='SelectPrevious'/>]을 사용하여 이전 유닛을 선택합니다."/>
 	<entry name="Social" value="소셜"/>
+	<entry name="SocialHint" value="X에서 Proxy Studios를 팔로우하여 소식과 업데이트를 확인합니다."/>
 	<entry name="Spectating" value="관전"/>
 	<entry name="Start" value="시작"/>
 	<entry name="Stats" value="통계"/>
@@ -441,6 +473,7 @@
 	<entry name="Upkeep" value="유지비"/>
 	<entry name="UploadModHint" value="Steam 창작마당에 모드를 업로드합니다."/>
 	<entry name="UserData" value="사용자 데이터"/>
+	<entry name="UserDataHint" value="저장된 게임, 설정 및 로컬 모드가 들어 있는 폴더를 엽니다."/>
 	<entry name="VS" value="VS"/>
 	<entry name="Version" value="버전"/>
 	<entry name="VersionRevisionsDiffer" value="버전 리비전이 다릅니다(로컬 = %1%, 서버 = %2%)."/>

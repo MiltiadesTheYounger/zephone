@@ -72,6 +72,7 @@
 	<entry name="Communications" value="Переговоры"/>
 	<entry name="CommunicationsHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Communications'/&gt; [&lt;control name='OpenCommunicationsScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Вызвать других игроков, чтобы заниматься дипломатией, обмениваться ресурсами и регулировать соглашения."/>
 	<entry name="Community" value="Сообщество"/>
+	<entry name="CommunityHint" value="Посетить форумы сообщества, чтобы обсудить игру и поделиться идеями."/>
 	<entry name="Compendium" value="Справочник"/>
 	<entry name="CompendiumHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Compendium'/&gt; [&lt;control name='OpenCompendiumScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Просмотреть информацию об игровых механиках, юнитах, зданиях, технологиях и мире."/>
 	<entry name="CompendiumSearchHint" value="Искать все совпадения в справочнике."/>
@@ -79,6 +80,7 @@
 	<entry name="ConsumesAction" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt; Тратит действие"/>
 	<entry name="ConsumesMovement" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt; Тратит движение"/>
 	<entry name="Continue" value="Продолжить"/>
+	<entry name="ContinueHint" value="Продолжить последнюю сохранённую игру."/>
 	<entry name="ControllerDifficultyWarningHint" value="Отключает многие достижения за победу."/>
 	<entry name="Cooldown" value="Перезарядка"/>
 	<entry name="Copy" value="Копировать"/>
@@ -87,6 +89,7 @@
 	<entry name="Cost" value="Цена"/>
 	<entry name="Create" value="Создать"/>
 	<entry name="Credits" value="О создателях"/>
+	<entry name="CreditsHint" value="Познакомиться с теми, кто создал ZEPHON."/>
 	<entry name="Cyber" value="Киберы"/>
 	<entry name="DLC" value="Дополнение"/>
 	<entry name="DLCHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/DLC'/&gt; [&lt;control name='LobbyDLC'/&gt;]"/>
@@ -99,12 +102,17 @@
 	<entry name="Decline" value="Отклонить"/>
 	<entry name="DeclineCalls" value="Отклонять вызовы"/>
 	<entry name="DeclineCallsHint" value="Отклонять все входящие вызовы [&lt;control name='NextTask'/&gt;]."/>
+	<entry name="DeepArchiveEnding" value="Конец"/>
+	<entry name="DeepArchiveFinalMentorMessage" value="Последнее сообщение наставника"/>
+	<entry name="DeepArchiveHint" value="Перечитать разговоры, открытые в Глубине."/>
+	<entry name="DeepArchiveLockedHint" value="Открыть разговор в Глубине, чтобы прочитать его здесь."/>
 	<entry name="Default" value="По умолчанию"/>
 	<entry name="Defeated" value="Поражение"/>
 	<entry name="Delete" value="Удалить"/>
 	<entry name="DensityParametersHint" value="&lt;style name='Title'/&gt;Настройки плотности [&lt;control name='LobbyDensityParameters'/&gt;]"/>
 	<entry name="Details" value="Подробности"/>
 	<entry name="DigitalArtbook&Wallpapers" value="Цифровой артбук и обои"/>
+	<entry name="DigitalArtbook&WallpapersHint" value="Изучить искусство ZEPHON и просмотреть обои."/>
 	<entry name="Diplomacy" value="Дипломатия"/>
 	<entry name="DirectConnect" value="Прямое соединение"/>
 	<entry name="Directory" value="Директория"/>
@@ -112,6 +120,7 @@
 	<entry name="DisableSimultaneousTurns" value="Отключить одновременные ходы"/>
 	<entry name="DisableTips" value="Отключить советы"/>
 	<entry name="DisableTipsHint" value="Не показывать всплывающие советы. Их можно повторно включить в настройках."/>
+	<entry name="DisembarkBeforeFoundingCity" value="Выгрузить всех юнитов перед основанием города."/>
 	<entry name="DismantleBuildingHint" value="Снести наименее производительное здание этого типа.&lt;br/&gt;&lt;br/&gt;Чтобы снести определённое здание, взаимодействуйте со слотами для зданий на карте."/>
 	<entry name="DismantleOperationHint" value="ПКМ — снести 1."/>
 	<entry name="Disconnected" value="Отсоединён"/>
@@ -136,6 +145,7 @@
 	<entry name="Export" value="Выгрузить"/>
 	<entry name="ExportHint" value="Выгрузить статистику — %1%"/>
 	<entry name="Extra" value="Особое"/>
+	<entry name="ExtraHint" value="Изучить открытые диалоги, моды, иллюстрации и другое."/>
 	<entry name="ExitCity" value="Выйти из города"/>
 	<entry name="ExitCityHint" value="Закрыть экран города [&lt;control name='NextTask'/&gt;]."/>
 	<entry name="ExitToMainMenu" value="В главное меню"/>
@@ -159,6 +169,18 @@
 	<entry name="Hint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%9%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
 	<entry name="HintCost" value="&lt;style name='Heading'/&gt;Цена&lt;style name='Default'/&gt;&lt;br/&gt;%1%&lt;br/&gt;&lt;br/&gt;"/>
 	<entry name="HitpointsFull" value="Единицы жизни на максимуме."/>
+	<entry name="NotificationLog" value="Журнал уведомлений"/>
+	<entry name="NotificationLogAll" value="Все уведомления"/>
+	<entry name="NotificationLogCities" value="Города и производство"/>
+	<entry name="NotificationLogCombat" value="Бой"/>
+	<entry name="NotificationLogDiplomacy" value="Дипломатия"/>
+	<entry name="NotificationLogEmpty" value="Нет подходящих уведомлений."/>
+	<entry name="NotificationLogExploration" value="Разведка"/>
+	<entry name="NotificationLogGoTo" value="Перейти к местоположению."/>
+	<entry name="NotificationLogHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/NotificationLog'/&gt; [&lt;control name='OpenNotificationLogScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Просмотреть прошлые уведомления."/>
+	<entry name="NotificationLogResearch" value="Исследование"/>
+	<entry name="NotificationLogStory" value="Задания и сюжет"/>
+	<entry name="NotificationLogTurn" value="Ход %1%"/>
 	<entry name="TechnologyHint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;%4%%6%%5%%7%%8%%9%%10%&lt;style name='Small'/&gt;%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Удерж. Ctrl — максимальный урон."/>
 	<entry name="HoldKeyToKeepVisible" value="Удерж. Shift — оставить видимым."/>
@@ -186,6 +208,7 @@
 	<entry name="Items" value="Предметы"/>
 	<entry name="Join" value="Присоединиться"/>
 	<entry name="JoinGame" value="Поиск игр"/>
+	<entry name="JoinGameHint" value="Найти и присоединиться к сетевой игре."/>
 	<entry name="JustOneMoreTurn" value="Подождите! Ещё... один... ход..."/>
 	<entry name="KickPlayerHint" value="&lt;style name='Small'/&gt;[&lt;string name='Controls/MouseRight'/&gt;] — выбросить игрока."/>
 	<entry name="LevelHint" value="&lt;icon texture='GUI/Bullet'/&gt;%1%/%2% уровень&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%3%/%4% опыт&lt;br/&gt;&lt;icon texture='GUI/Bullet'/&gt;%5% ценность опыта при гибели"/>
@@ -195,6 +218,7 @@
 	<entry name="Load" value="Загрузить"/>
 	<entry name="LoadGame" value="Загрузить игру"/>
 	<entry name="LoadGameHelp" value="Нет доступных для загрузки сохранённых игр."/>
+	<entry name="LoadGameHint" value="Выбрать сохранённую игру, чтобы продолжить."/>
 	<entry name="Locked" value="Не открыто."/>
 	<entry name="MainMenu" value="Главное меню"/>
 	<entry name="Map" value="Карта"/>
@@ -202,6 +226,7 @@
 	<entry name="Max" value="макс."/>
 	<entry name="Melee" value="Ближний бой"/>
 	<entry name="Menu" value="Меню"/>
+	<entry name="MenuBackHint" value="Вернуться в главное меню."/>
 	<entry name="MenuHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Menu'/&gt; [&lt;control name='Cancel'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Открыть меню, чтобы сохранить, загрузить игру, изменить настройки или выйти."/>
 	<entry name="Military" value="Военная мощь"/>
 	<entry name="Min" value="мин."/>
@@ -213,6 +238,7 @@
 	<entry name="ModFolderHint" value="Открыть папку мода."/>
 	<entry name="Modifier" value="Модификация"/>
 	<entry name="Mods" value="Моды"/>
+	<entry name="ModsHint" value="Управлять модами и выбирать порядок их загрузки."/>
 	<entry name="More" value="Ещё"/>
 	<entry name="Multiplayer" value="Мультиплеер"/>
 	<entry name="Mutators" value="Мутаторы"/>
@@ -271,6 +297,7 @@
 	<entry name="PasteInviteCodeHint" value="Присоединиться к игре, используя код приглашения в вашем буфере обмена."/>
 	<entry name="PasteInviteCodeInvalidHint" value="&lt;style color='GUI/Red'/&gt;Неверный код приглашения.&lt;style color='Default'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='GUI/PasteInviteCodeHint'/&gt;"/>
 	<entry name="PatchNotes" value="Список изменений"/>
+	<entry name="PatchNotesHint" value="Прочитать, что нового и что изменилось в каждом обновлении."/>
 	<entry name="Ping" value="Пинг"/>
 	<entry name="Play" value="Играть"/>
 	<entry name="Player" value="Игрок"/>
@@ -283,6 +310,8 @@
 	<entry name="Port" value="Порт"/>
 	<entry name="PoweredBuildingsHint" value="Количество включенных зданий этого типа. [&lt;control name='ToggleBuildingPower'/&gt;] по значку здания на карте — вкл./выкл. питание определённого здания."/>
 	<entry name="Properties" value="Качества"/>
+	<entry name="ProxyStudiosGames" value="Proxy Studios Games"/>
+	<entry name="ProxyStudiosGamesHint" value="Открыть другие игры Proxy Studios в Steam."/>
 	<entry name="Quests" value="Задания"/>
 	<entry name="QuestOptionHint" value="&lt;style color='GUI/Red'/&gt;%4%&lt;style name='Default'/&gt;%7%%8%"/>
 	<entry name="QuestOptionHintCost" value="Цена: %1%"/>
@@ -344,6 +373,7 @@
 	<entry name="QuestCycleBetweenHighlightedTilesHint" value="ЛКМ — переход между подсвеченными клетками."/>
 	<entry name="QuickSelectLeaderHint" value="Быстрый выбор лидера."/>
 	<entry name="Quit" value="Выход"/>
+	<entry name="QuitHint" value="Закрыть ZEPHON и вернуться на рабочий стол."/>
 	<entry name="Save" value="Сохранить"/>
 	<entry name="SaveAndExitToMainMenu" value="Сохранить и выйти в главное меню"/>
 	<entry name="SaveAndExitToDesktop" value="Сохранить и выйти на рабочий стол"/>
@@ -368,6 +398,7 @@
 	<entry name="Sell" value="Продать"/>
 	<entry name="SellBackground" value="&lt;icon texture='GUI/LeftArrow'/&gt;&lt;nbsp/&gt;&lt;string name='GUI/Sell'/&gt;"/>
 	<entry name="Settings" value="Настройки"/>
+	<entry name="SettingsHint" value="Настроить графику, звук, управление и другие параметры."/>
 	<entry name="Shop" value="Конкордат"/>
 	<entry name="ShopHint" value="&lt;style name='Title'/&gt;Конкордат [&lt;control name='OpenShopScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Торговля ресурсами и предметами для героев.&lt;br/&gt;&lt;br/&gt;&lt;style name='Italic'/&gt;Все знали о Конкордате. Но никто не знал, кто это такие. Может, выжившие на поверхности, может, ответвление ЗЕФОНа, может, старая корпорация, тянущаяся из могилы XX века. Они распускали слухи, скрывая правду о себе за досужими вымыслами. Мы лишь знали, что они торговали чем угодно и с кем угодно, и что они не работали в убыток."/>
 	<entry name="ShowInCompendium" value="[&lt;control name='ShowInCompendium'/&gt;] — показать в справочнике."/>
@@ -378,6 +409,7 @@
 	<entry name="SkipUnit" value="Пропустить юнит (1/%1%)"/>
 	<entry name="SkipUnitHint" value="Пропустить этот юнит [&lt;control name='NextTask'/&gt;].&lt;br/&gt;[&lt;control name='SelectNext'/&gt;] — выбрать следующий юнит.&lt;br/&gt;[&lt;control name='SelectPrevious'/&gt;] — выбрать предыдущий юнит."/>
 	<entry name="Social" value="Соцсети"/>
+	<entry name="SocialHint" value="Следить за новостями и обновлениями Proxy Studios в X."/>
 	<entry name="Spectating" value="Наблюдатель"/>
 	<entry name="Start" value="Начать"/>
 	<entry name="Stats" value="Статистика"/>
@@ -441,6 +473,7 @@
 	<entry name="Upkeep" value="Траты на содержание"/>
 	<entry name="UploadModHint" value="Передать мод в мастерскую Steam."/>
 	<entry name="UserData" value="Данные пользователя"/>
+	<entry name="UserDataHint" value="Открыть папку с сохранениями, настройками и локальными модами."/>
 	<entry name="VS" value="—"/>
 	<entry name="Version" value="Версия"/>
 	<entry name="VersionRevisionsDiffer" value="Версии игры отличаются (локальная = %1%, сервер = %2%)."/>
