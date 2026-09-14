@@ -1,0 +1,350 @@
+# B24: 28 entries from Factions.xml
+
+## Factions.xml|FurtiveTribunalFoundationsFlavor
+EN: One set of eyes watches the builders, setting up your first city. Your past-facing eyes look to the outside, to the machines, aliens, horrors… and the third looks to the future, to the stars.<br/>
+    <br/>
+    You, three-in-one, KNOW that there are more like you out there. KNOW that the Voice you heard prophesying in your isolation is a shared mind.<br/>
+    <br/>
+    You realise the gate guards are waiting for your signal. You shake yourselves. Focus all your eyes on the present. On bringing humanity to the end of time.
+UK: Одна пара очей стежить за будівничими, що зводять перше місто. Звернені в минуле очі дивляться назовні — на машини, на прибульців, на чудовиськ... А треті спрямовані в майбутнє, до зірок.<br/>
+    <br/>
+    Ти, Триєдина, ЗНАЄШ, що десь є подібні до тебе. ЗНАЄШ, що Голос, чиї пророцтва ти чула під час ув’язнення, пов’язаний із безліччю умів.<br/>
+    <br/>
+    Ти розумієш, що охоронці біля воріт чекають на твій сигнал. Ти приводиш усіх себе до тями. Фокусуєш усі очі на теперішньому. На тому, щоб довести людство до кінця часів.
+
+## Factions.xml|FurtiveTribunalFoundationsWithMutatorFlavor
+EN: <string name='Factions/FurtiveTribunalFoundationsFlavor'/><br/>
+    <br/>
+    This is all transient. Sharing, belonging, oneness is coming. You will never cross that transcendental barrier, but some form of you will. Together.
+UK: <string name='Factions/FurtiveTribunalFoundationsFlavor'/><br/>
+    <br/>
+    Усе це минуще. Насувається спільність, цілісність, єдність. Тобі не перейти цього трансцендентального бар’єра, але це вдасться певній формі тебе. Згуртованій.
+
+## Factions.xml|FurtiveTribunalLostFlavor
+EN: In the beginning, Three emerged from the vaults below the Earth to speak as One. Now the Three are staked on a pyre, doomed for a burning befitting the answers.<br/>
+    <br/>
+    The Three are still One but as the flames crawl up the wood, each speaks a different curse. “Damn the cowards who cut down the Three!” the first shrieks.<br/>
+    <br/>
+    “The stars will go black and your dreams will be filled with ash,” the second one giggles.<br/>
+    <br/>
+    Eventually, even a silent sister speaks. “New invaders will come,” she says calmly. “And you will lament killing the ones who could have stopped them.”<br/>
+    <br/>
+    The fire rises. The Three Who Are One Who Are Three burn hotter than the sun. The Three know that their time is not over. That another time begins.<br/>
+    <br/>
+    But pain from fire will follow you from one life to the next.
+UK: Спочатку Трійця вийшла з казематів у глибині Землі, щоб говорити як Одна. Тепер Трійця стоїть на вогнищі, засуджена до спалення за свої відповіді.<br/>
+    <br/>
+    Трійця все ще Єдина, але тепер, коли полум’я охоплює деревину, кожна вигукує різне прокляття. «Будьте прокляті боягузи, що вбивають Трійцю!» — вигукує перша.<br/>
+    <br/>
+    «Зірки почорніють, а ваші сни заповнить попіл», — насмішкувато продовжує інша.<br/>
+    <br/>
+    Навіть мовчазна сестра зрештою перериває мовчання. «Прийдуть нові загарбники», — тихо запевняє вона. — «І ви гірко пошкодуєте, що вбили тих, хто міг їм дати відсіч».<br/>
+    <br/>
+    Вогонь здіймається до небес. Триєдині горять яскравіше за сонце. Але Трійця знає, що їхній час ще не сплив. Що починається нова доба.<br/>
+    <br/>
+    Та біль від вогню переслідуватиме тебе з одного життя в наступне.
+
+## Factions.xml|FurtiveTribunalProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Voice Affinity:<style name='Default'/> The Three became bound as One by singing together the melody of the Voice. Start with %1% and gain earlier and cheaper access to Voice technologies, including exclusive access to the highest tier of Voice research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Dark Omen:<style name='Default'/> Their connection with the Voice allows them to see past what normal mortals see. Enemy units near the Furtive Tribunal’s cities are revealed even when out of regular sight range.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Whispers of the Voice:<style name='Default'/> The Voice’s murmurings inspire impossible wisdom and capture whispers of the future. Spend influence to accelerate research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Mysticism:<style name='Default'/> The Three believe that spiritual apprehension precedes intellect. Research Laboratories have decreased output.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>The Outsider (Elite):<style name='Default'/> As the Tribunal give themselves over to the Voice, it graces them with an Avatar of its love—and its wrath. Spend influence to summon a terrifying Voice unit from beyond this world.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до Голосу:<style name='Default'/> Трійця стала Єдиною, наспівуючи в унісон мелодію Голосу. Від самого початку є %1%, раніше отримує доступ до технологій Голосу.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Темне знамення:<style name='Default'/> Їхній зв’язок із Голосом дозволяє бачити більше, ніж відкрито простим смертним. Ворожі юніти біля міст Незримого Трибуналу завжди розкриваються, навіть якщо вони поза межами видимості.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Нашіптування Голосу:<style name='Default'/> Голос нашіптує, надихаючи на неможливу мудрість і приносячи відгомони майбутнього. Витратьте вплив, щоб пришвидшити дослідження.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Містицизм:<style name='Default'/> Трійця вірить, що духовний розвиток важливіший за інтелектуальний. Виробництво наукових лабораторій знижено.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Потойбічний (Еліта):<style name='Default'/> Віддаючись Голосу, Трибунал отримує взамін Аватар його любові — і його гніву. Витратьте вплив, щоб призвати моторошний юніт Голосу з-за меж цього світу.
+
+## Factions.xml|FurtiveTribunalQuote
+EN: <style name='Italic'/>“Bright stars shine so sweet—but bright stars die first. In the long tomb, blinded, we felt the aria of the dark stars, who live forever. Now our only taste is for their harmonies.”<style name='Default'/>
+UK: <style name='Italic'/>«Яскраві зорі так прекрасно сяють — але яскраві зорі гинуть першими. Ув’язнені у довгій могилі, засліплені, ми вловили арію темних зір, що живуть вічно. Тепер ми насолоджуємося лише їхніми піснеспівами»<style name='Default'/>
+
+## Factions.xml|FurtiveTribunalWonFlavor
+EN: No more foolishness. Your people have waged bloody war and all who opposed the Triumvirate have fallen.<br/>
+    <br/>
+    It is time to finish the ritual that you once began. Time to complete that ancient plan. Gods once walked the road you trod, but none could journey so far or so long.<br/>
+    <br/>
+    A VOICE reaches out across space and time. It interrupts this rotten rhyme. It's a Voice you heard at the Earth's end—
+UK: З неуцтвом покінчено. Твій народ вів криваву війну, і всі, хто протистояв Тріумвірату, полягли.<br/>
+    <br/>
+    Ритуал, що був розпочатий, має бути завершений. Давній план має бути втілений. Тим самим шляхом, що й ти, колись ішли боги, але ніхто не витримає такої довгої дороги.<br/>
+    <br/>
+    КРІЗЬ час і простір до тебе добирається ГОЛОС. Він перериває огидний спів. Це той самий Голос, що говорив із тобою в мить загибелі Землі...
+
+## Factions.xml|HeartlessArtificer
+EN: Heartless Artificer
+UK: Безсердечна Майстриня
+
+## Factions.xml|HeartlessArtificerFlavor
+EN: Everyone was changed by survival. Some found themselves changed in their beliefs, others re-affirmed.<br/>
+    <br/>
+    This one entered as an architect—and exited the same. But in the process, other things were stripped away—nation, family, love.<br/>
+    <br/>
+    A bright and burning certainty emerged for the Artificer—that we lived to create, to create clean beautiful things. That the best thing about humanity was an engineer’s precision. That in the movement from variability to cohesion, from unevenness to proportion, from variation to union—in that movement, is the nearest man finds to god.<br/>
+    <br/>
+    She found others of a similar mindset—and where there was dissonance in their new nation’s elements, it was rapidly polished or stripped away.<br/>
+    <br/>
+    Like many things in the Artificer’s mind, the messy elements of this polishing and stripping—the misery, the screams, the bodies—simply didn’t exist. Her eyes were always on the horizon, even as she waded through the mire.
+UK: Виживання змінило кожного. Хтось засумнівався у своїх переконаннях, а хтось утвердився.<br/>
+    <br/>
+    Ця жінка була архітекторкою — і нею ж і лишилася. Та зникло все інше — походження, родина, прив’язаності.<br/>
+    <br/>
+    Майстриня набула ясної й палкої певності — у тому, що ми живемо, аби творити. Творити речі незаплямованої краси. У тому, що найкращою рисою людства була інженерна точність. І в тому, що саме в русі від мінливості до злагодженості, від неоднорідності до співмірності, від різноликості до єдності — у цій еволюції людина стає найближчою до бога.<br/>
+    <br/>
+    Вона знайшла людей зі схожими ідеалами — і якщо в їхній новій нації ще й лишалися розбіжності, то вони швидко стерлися або були стерті.<br/>
+    <br/>
+    Як і багато чого іншого в уявленні Майстрині, неприємні елементи цього стирання — муки, крики, тіла — наче зовсім не існували. Її погляд завжди вабив обрій, навіть коли доводилося пробиратися крізь трясовину.
+
+## Factions.xml|HeartlessArtificerFoundationsFlavor
+EN: Fallible though flesh is, you feel something swell inside you as your city rises from the soil. Not compassion for the dead billions—you lost that in the bunker. Not pride, either.<br/>
+    <br/>
+    Is it… hope? That from this mess of humanity and machine, perfection can arise. That we can be better than yesterday?<br/>
+    <br/>
+    Soon, a comet will pass across the sky. Your people acclaim it as an omen. You know it is just a ball of ice and dust. But if it motivates them to work harder, towards perfection…? What harm in the lie?
+UK: Хай плоть і слабка, та в міру зведення твого міста в тобі зростає якесь відчуття. Це не жалість до мільярдів жертв — після бункера її в тебе не лишилося. І не гордість.<br/>
+    <br/>
+    Надія? Надія на те, що серед хаосу людства й машин народиться досконалість? Що ми можемо стати кращими, ніж учора?<br/>
+    <br/>
+    Скоро небом пролетить комета. Люди вважають це знаменням. Ти ж знаєш, що це просто куля з пилу й льоду. Але якщо це спонукає їх старанніше працювати заради переваги?.. То що поганого в брехні?
+
+## Factions.xml|HeartlessArtificerFoundationsWithMutatorFlavor
+EN: <string name='Factions/HeartlessArtificerFoundationsFlavor'/><br/>
+    <br/>
+    Ah, but now your triumph with Hwedo leaves a sour taste in your mouth. You will strive for perfection again, all the same. To reach the Deep again and prove the rightness of your way!
+UK: <string name='Factions/HeartlessArtificerFoundationsFlavor'/><br/>
+    <br/>
+    Хм, але тепер твій тріумф із Хведо лишає гіркий присмак. Байдуже, ти знову пориватимешся до ідеалу. Щоб знову сягнути Глибини й довести правильність твого шляху!
+
+## Factions.xml|HeartlessArtificerLostFlavor
+EN: “Guilty.” The tribunal's words mean nothing. The verdict was inevitable. You proudly admitted all the crimes that they tried you for.<br/>
+    <br/>
+    You look up at the group—an assemblage of delegates from each of the factions that defeated your army. In the stands are the witnesses who testified to your crimes. All of them think they will see justice today. All they will get is death.<br/>
+    <br/>
+    You bite down hard on your tongue. The blood triggers a chemical reaction with a compound sealed in your tooth, and in the blink of an eye, acid begins to melt your jaw and drip to the floor.<br/>
+    <br/>
+    Screams break out. The acid spreads—special nanites buried in the compound allow the substance to not just burn, but consume. Toxic fumes pouring from the substance begin to choke the tribunal. Fat, blood, and other substances drip from your flesh as you rise to your feet, laughing at the fools who thought they would decide how you die.<br/>
+    <br/>
+    You don't need this body anymore. Your next one will be much, much better.
+UK: «Винна!» О, слова суддів нічого не важили. Вирок і так був неминучий. Ти з гордістю зізналася в усіх злочинах, за які тебе судили.<br/>
+    <br/>
+    Ти окидаєш поглядом присутніх — зібрання представників усіх фракцій, що розгромили твою армію. Свідків, які підтвердили твої злочини. Усі вони думають, що сьогодні побачать правосуддя. Але побачать вони лише власну смерть.<br/>
+    <br/>
+    Ти міцно прикушуєш язик. Кров запускає хімічну реакцію зі сполукою у твоєму зубі, і вмить кислота починає роз’їдати твою щелепу й капати на підлогу.<br/>
+    <br/>
+    Лунають крики. Кислоти дедалі більше — особливі наніти в цій сполуці дозволяють речовині не просто роз’їдати, а поглинати. Від отруйних випарів судді починають задихатися. Жир, кров і інші рідини спливають із твоєї плоті, коли ти підіймаєшся, сміючись із дурнів, певних, що це їм вирішувати, як тобі помирати.<br/>
+    <br/>
+    Це тіло тобі більше не знадобиться. Нове буде значно, значно ліпшим.
+
+## Factions.xml|HeartlessArtificerProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Cyber Affinity:<style name='Default'/> ZEPHON's emergence was the technological breakthrough the Artificer needed to build new life. Start with %1% and gain earlier and cheaper access to Cyber technologies, including exclusive access to the highest tier of Cyber research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Engineer Life:<style name='Default'/> The Artificer has no fear of abhorrent science if it helps the expansion of her people. Population growth rate is increased.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Foundation of Blood:<style name='Default'/> Low productivity invokes the Artificer’s ire. Sacrifice population to increase production.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Immoral:<style name='Default'/> The bright-burning vision of the future espoused by The Artificer is inhumanly demanding. To keep her population’s ever-decreasing loyalty up, it must be reset using influence.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Artificer's Precision (Elite):<style name='Default'/> She sees what others do not, beyond good and evil. Spend influence to temporarily increase the accuracy of all units.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до кіберів:<style name='Default'/> Світанок ЗЕФОН став тим технологічним проривом, якого Майстриня потребувала для створення нового життя. Від самого початку є %1%, раніше отримує доступ до технологій кіберів.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Інженерна рутина:<style name='Default'/> Майстриня не лякається огидних досягнень науки, якщо вони сприяють експансії її народу. Швидкість зростання населення підвищена.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Збудовано на крові:<style name='Default'/> Низька продуктивність дратує Майстриню. Принесіть у жертву населення, щоб підвищити виробництво.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Нелюдська:<style name='Default'/> Чітке бачення майбутнього, якого прагне Майстриня, вимагає нелюдських зусиль. Постійно спадну лояльність слід регулярно скидати, витрачаючи вплив.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Точність Майстрині (Еліта):<style name='Default'/> Вона бачить те, що недоступне іншим, за межею добра і зла. Витратьте вплив, щоб тимчасово підвищити точність усіх юнітів.
+
+## Factions.xml|HeartlessArtificerQuote
+EN: <style name='Italic'/>“Man can be more again. Become more by becoming less.”<style name='Default'/>
+UK: <style name='Italic'/>«Людина може знову стати великою. Стати чимось більшим, пожертвувавши чимось меншим»<style name='Default'/>
+
+## Factions.xml|HeartlessArtificerWonFlavor
+EN: Peace. At last. You can finally hear yourself think. You celebrated this moment by ordering the execution of an advisor who dared sympathize with all those ground up by the turning cogs of conflict.<br/>
+    <br/>
+    What a fool. Sympathy is for the weak. The weak who now lie dead in your lab, waiting for you to experiment on them.<br/>
+    <br/>
+    One corpse draws your eye—its eyes are wide open, but black as night. You drag a scalpel across one —and it reaches up, grabbing you by the collar. It whispers in a language you can't understand. You try to pull away and then—you realize. You've known these words the whole time.<br/>
+    <br/>
+    The Voice is speaking to you.
+UK: Мир. Довгоочікуваний мир. Ти можеш нарешті почути власні думки. Ти віддала належне цій миті, наказавши стратити радника, який наважився поспівчувати всім тим, кого перемололи жорна конфлікту.<br/>
+    <br/>
+    Що за дурень. Співчуття — для слабких. Для тих, хто зараз мертвий і чекає у твоїй лабораторії на нові експерименти.<br/>
+    <br/>
+    Один труп привертає твою увагу — очі широко розплющені, але чорні, як ніч. Ти проводиш по одному з них скальпелем — і труп підіймається, хапаючи тебе за комір. Він шепоче мовою, якої ти не розумієш. Ти намагаєшся відсторонитися і... раптом розумієш. Ти завжди знала ці слова.<br/>
+    <br/>
+    З тобою говорить Голос.
+
+## Factions.xml|HollowWarlord
+EN: Hollow Warlord
+UK: Воєвода Порожнечі
+
+## Factions.xml|HollowWarlordFlavor
+EN: To the Warlord, the end of the world was a rebirth. In his previous life… well, he wasn’t exactly an alpha. Or even a sigma. Telesales lines, bin trucks, burger flipper, AI wrangler—he’d been fired from them all. His only respite from tedious, grinding work was exercise. Lifting, running, wrestling, sweating away his drawn-out days.<br/>
+    <br/>
+    When the Fulcrum called, pulling humanity skyward to a rapturous rupture, nearly everyone else gave into the joy, not knowing the pain to come. But the Warlord felt that he’d hadn’t even lived yet, let alone earned redemption. So he fought, clung on to a chunk of rebar, shook off the false euphoria that carried Earth’s billions to the heavens—and in that moment, as colleagues burst and fell about him, he felt alive for the first time. Gore-spattered, exhausted, he roared with exhilaration.<br/>
+    <br/>
+    After that, he didn’t hide from the horror. He staked his claim on the surface, gathered other survivors, fought the aliens and monsters, built an army, an empire, and then walked away from it. He’s learned to love the chase, racing away from moments of reflection and terrifying introspection.<br/>
+    <br/>
+    With a small core of his followers, he’s survived for years on the surface and is ready to conquer the world again—to find what it has to offer and taste every part of it, take every part of it. He doesn’t know, yet, that his is a hollowness that can never be filled.
+UK: Для Воєводи Порожнечі кінець світу став переродженням. У минулому житті... скажімо так, він не був альфою. Ані навіть сигмою. Телефонні продажі, вивезення сміття, громадське харчування, робота з нейромережами — його звільняли звідусіль. Єдиною віддушиною після одноманітної, виснажливої роботи були фізичні вправи. Штанга, біг, боротьба й будь-які інші виснажливі тренування скрашували його щоденну рутину.<br/>
+    <br/>
+    Коли пролунав поклик Твердині, що тягнув людство до руйнівного возвеличення, майже всі навколо піддалися цій радості, не підозрюючи про прийдешній біль. Але Воєводі Порожнечі здавалося, що він ще навіть не жив, не кажучи вже про спокуту. Тож він боровся, вхопившись за шматок арматури, з фальшивою ейфорією, яка зносила мільярди землян до небес — і в ту мить, коли колишні колеги лопалися й падали навколо нього, він уперше відчув себе живим. Забризканий кров’ю, виснажений, він ревів від захвату.<br/>
+    <br/>
+    Відтоді він не ховався від жахів. Боровся на поверхні, збирав інших уцілілих, воював із прибульцями та чудовиськами, створив цілу армію, імперію, а потім пішов. Він навчився любити відчуття погоні, тікати від роздумів і руйнівного самоаналізу.<br/>
+    <br/>
+    Він багато років виживав на поверхні з невеликою групою вірних людей і готовий завоювати світ знову — дізнатися, що той може запропонувати, відчути кожну його частину, заволодіти кожною його частиною. Він ще не знає, що цю порожнечу йому не заповнити ніколи.
+
+## Factions.xml|HollowWarlordFoundationsFlavor
+EN: “IS THERE ANYTHING,” you bellow over the thrum of engines. “AS BLISSFUL AS THAT SOUND? THAT SMELL?” Your citizens cheer, whilst your soldiers growl happily, itching for war and glory.<br/>
+    <br/>
+    Arms outstretched, you soak in the adulation. To most, the world ended two decades ago. To you and yours though, it’s an opportunity. Free of the divides of class, race, wealth, and education, you make your own way.<br/>
+    <br/>
+    You’ve already won and given up a kingdom, but you regret nothing. Before your warriors head out, you advise them. To enjoy every moment, to thrill in every kill, to seize today because tomorrow never comes.<br/>
+    <br/>
+    Whether you conquer the world or die trying, you will revel in the trip.
+UK: «Є ЩОСЬ», — перекрикуєш ти рев двигунів. — «ТАКЕ Ж РАДІСНЕ, ЯК ЦЕЙ ЗВУК? ЦЕЙ ЗАПАХ?» Твої містяни радіють, а солдати, спраглі війни й слави, відповідають задоволеним риком.<br/>
+    <br/>
+    Розкинувши руки, ти насолоджуєшся звеличенням. Для всіх світ загинув кілька десятиліть тому. Для тебе й твоїх людей він приніс можливість. Звільнившись від меж, накладених класом, расою, багатством і освітою, ви самі прокладаєте собі шлях.<br/>
+    <br/>
+    Якось ти вже переміг і попрощався з царством, та ні про що не шкодуєш. Ти наставляєш воїнів, що вирушають у похід. Насолоджуватися кожною миттю, упиватися кожним убивством, проживати кожен день так, наче завтра не настане.<br/>
+    <br/>
+    Чи вдасться завоювати світ, чи спроба принесе смерть, важливим є лише шлях.
+
+## Factions.xml|HollowWarlordFoundationsWithMutatorFlavor
+EN: You aren’t surprised that the Deep valued your wanderlust. After all, it itself is a mind forever voyaging, rich with self-knowledge, unable to ever know the end it is heading towards. And you do so love the journey.<br/>
+    <br/>
+    <string name='Factions/HollowWarlordFoundationsFlavor'/>
+UK: Тебе не дивує, що Глибина цінує твою жагу до пригод. Зрештою, Вона й сама — мандрівний розум, що прагне самопізнання, та не знає своєї мети. І тобі й справді до вподоби подорожі.<br/>
+    <br/>
+    <string name='Factions/HollowWarlordFoundationsFlavor'/>
+
+## Factions.xml|HollowWarlordLostFlavor
+EN: Now this is new. Rubble is lying across your body, with the collapsed garage roof slantwise on top, pinning you in place. Above the grumble of the enemy’s approaching vehicles, you can hear groaning and whimpering. Only some of it is coming from you.<br/>
+    <br/>
+    Another new experience. You have lost!<br/>
+    <br/>
+    Or have you? Miraculously, your bike is sitting clear of the collapsed buildings, dusty and scratched, but almost certainly still working. Reach it and you could escape, start again. A third coming, a third kingdom to build…<br/>
+    <br/>
+    If you can just get the rocks off you… you shift, and the massive concrete roof slides an inch towards your head. If it slides completely, you’ll be decapitated. But you think you can just wriggle out-<br/>
+    <br/>
+    -darkness, soft velvet. In the silence left by the vanished whimpering a voice speaks. “Infinite empires are yours.” it says, pausing eternally. “But first-”
+UK: Ого, щось новеньке. Тебе завалило уламками, а зверху придавила обвалена стеля гаража. Крізь гуркіт ворожих машин, що наближаються, ти чуєш стогін і схлипування. І лише частина з них походить від тебе.<br/>
+    <br/>
+    Ще одне нове відчуття! Ти заблукав!<br/>
+    <br/>
+    Або й ні? Якимось дивом твій байк не потрапив під руйнування, він укритий пилом і подряпинами, але майже напевно ще працює. Якщо тільки дотягнутися до нього, ти зможеш вибратися, спробувати знову. Розпочати третє пришестя, звести третє царство...<br/>
+    <br/>
+    Якщо тільки скинути цю купу каміння... Від твого руху бетонна плита зсувається ще на кілька сантиметрів до твоєї шиї. Варто їй зісковзнути — і ти залишишся без голови. Але, мабуть, усе буде гаразд...<br/>
+    <br/>
+    ...Темрява огортає тебе м’якою пеленою. У тиші, що настала після припинення стогонів, хтось звертається до тебе: «Безліч імперій стануть твоїми». Деякий час триває мовчання. «Але спершу...»
+
+## Factions.xml|HollowWarlordProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Human Affinity:<style name='Default'/> The Warlord is a simple man, interested in conquest, not cursed magic or alien technology. Start with %1% and gain earlier and cheaper access to Human technologies, including exclusive access to the highest tier of Human research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>We Who Are About To Die:<style name='Default'/> The adventures of the Warlord and his soldiers are told and retold in the city streets—as long as the blood keeps flowing. Every turn that your units kill or die, your cities’ loyalty increases, but otherwise decreases.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Tales of the Hunt:<style name='Default'/> The tales of the Warlord’s endless campaign spread far and wide. Attacking gives influence.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Restless:<style name='Default'/> The sharp-toothed townsfolk will not stand for idle warriors—and will not feed them either. Units in cities and outposts have increased upkeep. Gain less from trading pacts.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Horde Mandate (Elite):<style name='Default'/> When the Warlord masses his forces for war they attack with vigor, eager to prove themselves to him. Spend influence to grant troops in a large area a bonus to attacks and movement.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до людей:<style name='Default'/> Воєвода Порожнечі — проста людина, якого цікавлять завоювання, а не кляте чаклунство чи інопланетні технології. Від самого початку є %1%, раніше отримує доступ до технологій людей.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Ті, що йдуть на смерть:<style name='Default'/> Поки кров ллється рікою, на вулицях розповідатимуть і переповідатимуть пригоди Воєводи Порожнечі та його солдатів. Лояльність у ваших містах зростає щоходу, коли ви знищуєте або втрачаєте юніт, інакше вона знижується.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Мисливські історії:<style name='Default'/> Про нескінченні завоювання Воєводи Порожнечі говорять усюди. Атаки приносять вплив.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Не знаючи спочинку:<style name='Default'/> Схильні до швидкої розправи містяни не терпітимуть бездіяльних воїнів — і тим паче не годуватимуть їх. Витрати на утримання юнітів у містах і заставах підвищені. Торгові угоди приносять менше прибутку.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Директива орди (Еліта):<style name='Default'/> Коли Воєвода Порожнечі збирає своїх людей на війну, вони мчать в атаку, бажаючи довести йому свою вірність. Витратьте вплив, щоб наділити війська у великій області бонусом до атак і руху.
+
+## Factions.xml|HollowWarlordQuote
+EN: <style name='Italic'/>“I came, I conquered, I will again.”<style name='Default'/>
+UK: <style name='Italic'/>«Прийшов, переміг, повторив»<style name='Default'/>
+
+## Factions.xml|HollowWarlordWonFlavor
+EN: Now this is a celebration. Hallooed songs, staggering drunks, crazy stunts, bare-chested fistfights, the smoke of a hundred fires darkening the air… you sidestep a drunken pair of kissing generals and keep walking. Cheers and backslaps everywhere you go.<br/>
+    <br/>
+    Another victory. Another empire built. But already you sense the growing tremors that will collapse it. The ambitious advisers, generals susceptible to flattery, the corruption creeping into your pure engine of conquest.<br/>
+    <br/>
+    Outside of the place where it all started, all is silent. Black Bess is still sitting there, where you left her. You turn the key in her ignition and fire sparks in her belly. She growls with desire for the road.<br/>
+    <br/>
+    You look back for a moment, wondering if you missed something, if you are missed. But the world goes on and your next journey is calling.<br/>
+    <br/>
+    Rather a Voice is calling. “Journey neverending…” You fight it off for a second, like you did the Fulcrum, rev Bess into the air and—<br/>
+    <br/>
+    —and you are gone.
+UK: Оце так святкування! Люди горлають пісні, хитаються п’яними, ганяють наввипередки, напівголі б’ються на кулаках. Дим сотень розведених вогнищ затягує небо... Ти обходиш парочку п’яних цілувальників-генералів і йдеш далі. Люди радіють і плескають тебе по спині, куди б ти не прямував.<br/>
+    <br/>
+    Ще одна перемога. Ще одна збудована імперія. Але ти вже відчуваєш тріщини, що зростають і приведуть до її занепаду. Амбітні радники, ласі на лестощі генерали, корупція, що проникає в бездоганну машину завоювань.<br/>
+    <br/>
+    Зовні все тихо. «Чорна Бесс» стоїть там, де ти її залишив. Ти повертаєш ключ запалювання, і в її нутрі спалахує іскра. Вона гарчить, бажаючи вирватися на дорогу.<br/>
+    <br/>
+    Ти на мить озираєшся, думаючи, чи не забув чогось, чи не забудуть тебе. Але світ продовжує крутитися, і тебе вже кличе наступна пригода.<br/>
+    <br/>
+    Точніше, тебе кличе Голос: «Нескінченна подорож...» Мить ти відмахуєшся від нього, як колись від Твердині, а потім «Бесс» набирає швидкість, і...<br/>
+    <br/>
+    ...і тебе немає.
+
+## Factions.xml|HonorableAristocrat
+EN: Honorable Aristocrat
+UK: НеоГерцог
+
+## Factions.xml|HonorableAristocratFlavor
+EN: The Aristocrat was young when the sky fell—but his parents were connected globally and he was taken into a government bunker with them at the first sign. He sat out the rapture, the war, the fallout, the starvation. His only complaint was that the preserved food was appalling and that no-one had thought to bring herbs or spices.<br/>
+    <br/>
+    On the surface, billions died.<br/>
+    <br/>
+    In that bunker, he followed in his parents’ footsteps, out of a sense of duty. He found that he was good—very good—at administration. And eventually, after unfortunate deaths, he found himself in charge.<br/>
+    <br/>
+    Now his people are out, he runs the city like a patronage system, building up favours from traders and the markets before calling them in at times of emergency—or when he hears word of a new delicacy in town.
+UK: Аристократ був іще дитиною, коли впало небо. Але його батьки мали зв’язки у вищих колах, тож він вирушив разом із ними до бункера при перших ознаках катастрофи. Він перечекав вознесіння, війну, радіоактивні опади, голод. Скаржився лише на те, що консерви були несмачними, а ніхто не здогадався взяти трави та спеції.<br/>
+    <br/>
+    На поверхні гинули мільярди.<br/>
+    <br/>
+    У бункері він ішов слідами батьків із почуття обов’язку. Він виявив, що з нього виходить добрий — навіть чудовий — керівник. І з часом, після кількох смертей, він опинився при владі.<br/>
+    <br/>
+    Тепер його люди вийшли на поверхню, і він керує містом, призначаючи на високі посади «своїх», заручаючись підтримкою торговців і ринків — допоки обставини не вимагатимуть зворотної послуги... або допоки до нього не дійдуть чутки про новий делікатес.
+
+## Factions.xml|HonorableAristocratFoundationsFlavor
+EN: Ah, but it is magnificent! This new city is a true beginning for humanity. A start as fresh as the boutonniere in the lapel of your fine suit.<br/>
+    <br/>
+    Congratulations flood in from the surviving peers of the wasteland on the foundation of your new polis. The ArchPope, the Communitard… the NeoDuke? Pah, they just want to be invited to the feast.<br/>
+    <br/>
+    Your city is barely built and already your network grows. Now is your time—to go out and reclaim Earth for your people.
+UK: О, яке ж це величчя! Це нове місто — справжня надія людства. Початок, таке ж свіже, як бутоньєрка на лацкані твого вишуканого костюма.<br/>
+    <br/>
+    Інші правителі пустки надсилають вітання з нагоди заснування твого нового полісу. АрхиПапа, Комунітард... НеоГерцог? Пха, цьому лише подавай запрошення на бенкет.<br/>
+    <br/>
+    Місто ледь збудоване, а твої зв’язки вже розширюються. Настав твій час — пора вийти назовні й відвоювати Землю для свого народу.
+
+## Factions.xml|HonorableAristocratFoundationsWithMutatorFlavor
+EN: You remember tasting this moment, as through a mirror darkly. So proud you were. Now, facing the immediacy of the flesh, the Deep is fading. Perhaps it was just a bad dream, after bad cheese…?<br/>
+    <br/>
+    <string name='Factions/HonorableAristocratFoundationsFlavor'/>
+UK: Ти пригадуєш цю мить, наче в каламутному дзеркалі. Усю свою гордість. Зіткнувшись із минущістю плоті, спогади про Глибину згасають. Можливо, це був лише поганий сон після зіпсованого сиру?..<br/>
+    <br/>
+    <string name='Factions/HonorableAristocratFoundationsFlavor'/>
+
+## Factions.xml|HonorableAristocratLostFlavor
+EN: You planned out your death a long time ago. You'd intended to pass away under the cover of silken sheets following a most glorious feast where each of your close friends and family would have a chance to say goodbye.<br/>
+    <br/>
+    Some part of you wonders if the sheets can still be arranged for. Unlikely. The explosion that rattled your headquarters drove a piece of metal right through your chest. You think it also tore off one of your legs.<br/>
+    <br/>
+    A bodyguard crawls up to you, equally wounded. He's pulled a stabilizer out of a medkit—still trying to save your life.<br/>
+    <br/>
+    His hand shakes too much. The stabilizer drops to the floor. “Take it,” he gasps. “Use it, for God's sake.”<br/>
+    <br/>
+    You have enough strength to pick up the stabilizer. You use the last of it to jab the needle in his neck—hear the telltale “hiss” as the healing particles mend his injuries. He protests as you eke out your last words: “honor compels me.”<br/>
+    <br/>
+    But they're only your last words for this life. Who knows what the next one will hold?
+UK: Ти вже давно спланував свою смерть. Задум був у тому, що ти попрощаєшся з життям, лежачи серед шовків після найвеличнішого бенкету, під час якого кожному з близьких і рідних випаде нагода сказати останнє слово.<br/>
+    <br/>
+    Частина тебе й досі міркує, чи не вдасться влаштувати хоча б шовки. Але навряд. Через вибух, що розніс твій штаб, твою грудну клітку проштрикнуло шматком арматури. Здається, ще й ногу відірвало.<br/>
+    <br/>
+    До тебе повзе тілоохоронець, якому дісталося не менше. Він витягнув із аптечки стабілізатор — усе ще намагається врятувати твоє життя.<br/>
+    <br/>
+    Його рука надто сильно тремтить. Стабілізатор падає. «Візьміть», — хрипить він. — «Ну ж бо, швидше, заради всього святого».<br/>
+    <br/>
+    Тобі вистачає сил підняти стабілізатор і прикласти його до шиї тілоохоронця. Цілющі частинки зі шипінням беруться відновлювати його рани. Він намагається заперечити, але ти промовляєш останні слова: «Честь зобов’язує мене».<br/>
+    <br/>
+    Втім, вони останні лише в цьому житті. Хто знає, що тобі приготувало наступне?
+
+## Factions.xml|HonorableAristocratProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Human Affinity:<style name='Default'/> Art, music, and other luxuries of humanity are what made the Aristocrat fall in love with life. Start with %1% and gain earlier and cheaper access to Human technologies, including exclusive access to the highest tier of Human research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Honor-bound:<style name='Default'/> The Honorable Aristocrat’s talents ensure the best deals for all. Trade agreements and alliances generate additional influence for both parties.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Hired Hands:<style name='Default'/> Hard work is not one of the Aristocrat's personal virtues, preferring to buy in help. Spend influence to rush production.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Gluttony:<style name='Default'/> To the Aristocrat and his people, a refined palate is a basic survival need. Population has increased food upkeep.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Quid Pro Quo (Elite):<style name='Default'/> The world's densest system of barter rested at the Aristocrat's fingertips. Spend influence to purchase vital resources.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до людей:<style name='Default'/> Саме мистецтво, музика та інші надмірності людства змусили Аристократа полюбити життя. Від самого початку є %1%, раніше отримує доступ до технологій людей.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Мережа зобов’язань:<style name='Default'/> Таланти Шляхетного Аристократа гарантують усім найвигідніші угоди. Торгові угоди та союзи приносять додатковий вплив для обох сторін.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Наймана сила:<style name='Default'/> Аристократа не назвеш винятково працелюбним, він воліє платити за чужу працю. Витратьте вплив, щоб пришвидшити виробництво.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Черевоугодництво:<style name='Default'/> Для Аристократа та його людей гастрономічні надмірності — частина базових потреб. Витрати їжі на утримання населення підвищені.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Послуга за послугу (Еліта):<style name='Default'/> Аристократ будь-якої миті може звернутися до найрозвиненішої у світі системи обміну товарами. Витратьте вплив, щоб придбати життєво важливі ресурси.
+

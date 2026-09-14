@@ -1,0 +1,74 @@
+# Ledger pass1
+
+[ ] not scanned, [~] scanned and waiting for triage, [x] triaged and closed
+
+- [x] B01 | AI.xml | 250 entries | 4,145 chars
+- [x] B02 | AI.xml, Actions.xml | 250 entries | 7,925 chars
+- [x] B03 | Actions.xml | 249 entries | 34,267 chars
+- [x] B04 | Actions.xml | 56 entries | 34,081 chars
+- [x] B05 | Actions.xml | 57 entries | 34,137 chars
+- [x] B06 | Actions.xml, Attributes.xml, Branches.xml | 250 entries | 27,167 chars
+- [x] B07 | Branches.xml, Buildings.xml, Cities.xml | 250 entries | 31,262 chars
+- [x] B08 | Cities.xml | 250 entries | 4,692 chars
+- [x] B09 | Cities.xml, Colors.xml, Controls.xml, Credits.xml, Diplomacy.xml | 250 entries | 10,693 chars
+- [ ] B10 | Diplomacy.xml | 250 entries | 38,552 chars
+- [ ] B11 | Diplomacy.xml | 215 entries | 39,730 chars
+- [ ] B12 | Diplomacy.xml | 172 entries | 39,891 chars
+- [ ] B13 | Diplomacy.xml | 185 entries | 39,970 chars
+- [ ] B14 | Diplomacy.xml | 171 entries | 37,866 chars
+- [ ] B15 | Diplomacy.xml | 229 entries | 39,951 chars
+- [ ] B16 | Diplomacy.xml | 197 entries | 39,409 chars
+- [ ] B17 | Diplomacy.xml | 202 entries | 39,874 chars
+- [ ] B18 | Diplomacy.xml | 182 entries | 39,889 chars
+- [ ] B19 | Diplomacy.xml | 185 entries | 35,022 chars
+- [ ] B20 | Diplomacy.xml | 199 entries | 39,992 chars
+- [ ] B21 | Diplomacy.xml | 193 entries | 39,851 chars
+- [ ] B22 | Diplomacy.xml | 179 entries | 39,424 chars
+- [ ] B23 | Effects.xml, Factions.xml | 59 entries | 34,204 chars
+- [ ] B24 | Factions.xml | 28 entries | 35,048 chars
+- [ ] B25 | Factions.xml | 27 entries | 34,284 chars
+- [ ] B26 | Factions.xml | 33 entries | 35,183 chars
+- [ ] B27 | Factions.xml, Features.xml | 100 entries | 34,159 chars
+- [ ] B28 | Features.xml, GUI.xml | 239 entries | 34,008 chars
+- [ ] B29 | GUI.xml | 250 entries | 16,829 chars
+- [ ] B30 | GUI.xml, Items.xml, Messages.xml | 143 entries | 34,746 chars
+- [ ] B31 | Messages.xml, Modifiers.xml | 250 entries | 16,830 chars
+- [ ] B32 | Modifiers.xml, Notifications.xml, Objectives.xml, Overlay.xml, Quests.xml | 245 entries | 37,854 chars
+- [ ] B33 | Quests.xml | 54 entries | 39,845 chars
+- [ ] B34 | Quests.xml | 47 entries | 37,249 chars
+- [ ] B35 | Quests.xml | 46 entries | 36,646 chars
+- [ ] B36 | Quests.xml | 50 entries | 39,925 chars
+- [ ] B37 | Quests.xml | 51 entries | 39,873 chars
+- [ ] B38 | Quests.xml | 56 entries | 39,199 chars
+- [ ] B39 | Quests.xml | 67 entries | 39,555 chars
+- [ ] B40 | Quests.xml | 56 entries | 39,779 chars
+- [ ] B41 | Quests.xml | 70 entries | 39,892 chars
+- [ ] B42 | Quests.xml | 44 entries | 39,222 chars
+- [ ] B43 | Quests.xml | 48 entries | 39,631 chars
+- [ ] B44 | Quests.xml | 44 entries | 34,663 chars
+- [ ] B45 | Quests.xml | 39 entries | 34,247 chars
+- [ ] B46 | Quests.xml | 56 entries | 38,892 chars
+- [ ] B47 | Quests.xml | 48 entries | 39,930 chars
+- [ ] B48 | Quests.xml | 45 entries | 39,628 chars
+- [ ] B49 | Quests.xml | 53 entries | 39,127 chars
+- [ ] B50 | Quests.xml | 41 entries | 38,625 chars
+- [ ] B51 | Quests.xml, Regions.xml, Settings.xml | 250 entries | 22,901 chars
+- [ ] B52 | Settings.xml | 250 entries | 15,113 chars
+- [ ] B53 | Settings.xml, Tips.xml | 137 entries | 37,558 chars
+- [ ] B54 | Titles.xml, Traits.xml | 250 entries | 13,962 chars
+- [ ] B55 | Traits.xml | 250 entries | 30,145 chars
+- [ ] B56 | Traits.xml | 64 entries | 34,104 chars
+- [ ] B57 | Traits.xml | 59 entries | 34,148 chars
+- [ ] B58 | Traits.xml | 60 entries | 34,271 chars
+- [ ] B59 | Traits.xml, Units.xml | 167 entries | 34,038 chars
+- [ ] B60 | Units.xml | 144 entries | 34,203 chars
+- [ ] B61 | Units.xml, Upgrades.xml | 176 entries | 34,006 chars
+- [ ] B62 | Upgrades.xml | 68 entries | 34,631 chars
+- [ ] B63 | Upgrades.xml | 59 entries | 34,431 chars
+- [ ] B64 | Upgrades.xml, Weapons.xml | 185 entries | 34,100 chars
+- [ ] B65 | Weapons.xml | 62 entries | 34,266 chars
+- [ ] B66 | Weapons.xml, WorldParameters.xml | 250 entries | 22,491 chars
+- [ ] B67 | WorldParameters.xml | 245 entries | 9,949 chars
+- [x] R01 | Actions.xml | 58 entries | 34,615 chars
+- [x] R02 | Actions.xml | 57 entries | 34,266 chars
+- [x] R03 | Actions.xml, Attributes.xml | 49 entries | 28,278 chars

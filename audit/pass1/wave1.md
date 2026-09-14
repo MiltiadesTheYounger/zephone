@@ -1,0 +1,586 @@
+# wave1: 288 fixes
+
+## high (27)
+
+- `Actions.xml|AtramentousAura` (meaning): Atramentous means ink-black, not «чудесна» (wonderful).
+  - «Чудесна» → «Чорнильна»
+- `Actions.xml|CarrionGlutProperties` (meaning): UK adds the condition «в області» (in the area), which the EN does not state.
+  - «будь-якого юніта в області» → «будь-якого юніта»
+- `Actions.xml|CryOfContritionFlavor` (meaning): Reversed: UK asks whether the Voice worried those who spoke to it, EN asks whether it cared about them.
+  - «Хвилював Голос тих, хто до нього звертався?» → «Чи піклувався Голос про тих, хто до нього звертався?»
+- `Actions.xml|EnrichedAlloysFlavor` (gender): The monster is the uncle, but feminine «потвора… думала… Їй» right after the aunt makes it read as the aunt.
+  - «Ця потвора навіть не думала про те, як доглянута зброя з якісних матеріалів може пробивати м’ясо й кістки. Їй» → «Цей монстр навіть не думав про те, як доглянута зброя з якісних матеріалів може пробивати м’ясо й кістки. Йому»
+- `Actions.xml|EvadeFunctionFlavor` (meaning): «поганську» means 'pagan'; EN says nasty flesh.
+  - «поганську плоть» → «мерзенну плоть»
+- `Actions.xml|ExtirpateProperties` (omission): The condition that the adjacent tiles must be free is dropped.
+  - «найближчих до нього суміжних клітинок» → «найближчих до нього вільних суміжних клітинок»
+- `Actions.xml|HymnOfDecayFlavor` (meaning): Invented final sentence (the thought chilled me to the bone) has no EN source.
+  - «місії. Від цієї думки мене пройняло до кісток.» → «місії.»
+- `Actions.xml|InfiniteFlavor` (gender): The rookie is female in EN (her arm, her friends) but male throughout the Ukrainian.
+  - «продовжував бурмотіти бідний новобранець, поки я рятував його руку. Він так пишався своїм першим убитим ворогом, а потім сквернавці піднялися й перебили його друзів. Я знав, що мова не просто про якісь «запасні органи». Але його б» → «продовжувала бурмотіти бідна новобранка, поки я рятував її руку. Вона так пишалася своїм першим убитим ворогом, а потім сквернавці піднялися й перебили її друзів. Я знав, що мова не просто про якісь «запасні органи». Але її б»
+- `Actions.xml|IonDischargeFlavor` (meaning): «ДРЯПАЙ» means 'scratch'; EN shouts MOVE!
+  - «ДРЯПАЙ» → «ВОРУШИСЬ»
+- `Actions.xml|JustShipItUpgrade2Flavor` (meaning): 'Factory deficiencies' are defects, not a production shortage («дефіцит»), and «стратегія по боротьбі» is a Russian-style construction.
+  - «стратегія по боротьбі з дефіцитом виробництва» → «стратегія боротьби з виробничими дефектами»
+- `Actions.xml|OverwatchDescription` (omission): EN says overwatch uses an action; that cost is dropped.
+  - «Атакує ворожі юніти, які» → «Використовує дію, щоб атакувати ворожі юніти, які»
+- `Actions.xml|SystemOverloadFlavor` (meaning): EN says Voice weapons choke on their own power, not Voice monsters.
+  - «потвори Голосу подавитися» → «зброю Голосу захлинутися»
+- `Actions.xml|SystemicResetFlavor` (meaning): EN has them huddled in the back of a fleeing Marauder (a ship), not jumping into a truck of a rescue Marauder.
+  - «застрибнули у вантажівку рятівного «Мародера»» → «тулилися у вантажному відсіку «Мародера», що тікав»
+- `Actions.xml|TimeShiftFlavor` (meaning): «крізь землю» means through the ground, but EN says the machine burst across the land.
+  - «проносилася крізь землю» → «проносилася землею»
+- `Actions.xml|TransubstantiationFlavor` (meaning): EN says her eyes shone the colour of my blood, not that they caught its colour.
+  - «її очі вловили колір моєї крові» → «її очі засяяли кольором моєї крові»
+- `Actions.xml|VerticalThrustersFlavor` (meaning): The Ukrainian is a different, outdated text about diving attacks and does not match the current EN; check the Jaeger unit name against the mod.
+  - «Одна з технічних хитрощів, які використовували їхні офіцери під час війни, передбачала атаку прямо згори за допомогою реактивних прискорювачів. Сила, з якою вони падали, була достатньою, щоб пробити танки, а в решті проблем допомагали розібратися їхні розривні снаряди.» → ««Годі вже, бляха, бавитися!» Командирка аж кипіла. Вона сварилася з пілотом «Єгеря», який вмикав прискорювачі, щойно ті встигали охолонути. Байдуже, чи це їхня перша машина, чи перший бойовий костюм військового класу. Усе, чого вони хочуть, — це ковток швидкості й свободи.»
+- `Actions.xml|VorodaisBargainFlavor` (meaning): The Ukrainian is a different, outdated text about Leviathans trading power for flesh and does not match the current EN at all.
+  - «Левіафани обмінювали частинку своєї темної сили на порцію плоті. Вони поглинали наших бійців і отримували за це можливість... прискорення, якщо вірити нашим техом. Клянусь, я бачив, як одна з цих потвор поглинула офіцера, а потім промчалася через руїни, як чортова блискавка.» → «Блювота. Крики. Звук, з яким розчавлювало нутрощі чоловіка, наче ті опинилися на глибині десяти тисяч льє під водою. Ми пройшли повз нього, навіть не озирнувшись. Його обрали на поживу Вородаю, а нас пощадили. Зчини ми хоч якийсь шум — і стали б наступними.»
+- `Actions.xml|WhispersOfHarmonyFlavor` (meaning): 'Could make the most of them' (use the secrets well) became 'could understand most of it', and an extra 'even more creatures' was invented.
+  - «могли зрозуміти більшу його частину і ще легше підкоряти його впливу ще більше розумних істот» → «могли якнайкраще ними скористатися й легше підкоряти його впливу розумних істот»
+- `Attributes.xml|IgnoreZoneOfControl` (omission): The clause 'and their zone of control' is dropped.
+  - «крізь юніти ворога» → «крізь юніти ворога та їхні зони контролю»
+- `Attributes.xml|PopulationDescription` (omission): The condition 'enabled' is dropped, so it wrongly says every building needs population.
+  - «Для кожної будівлі» → «Для кожної увімкненої будівлі»
+- `Attributes.xml|RangedDamageReduction` (meaning): Says 'reduction of damage range' instead of 'reduction of ranged damage'.
+  - «Зменшення дальности шкоди» → «Зменшення шкоди від дальніх атак»
+- `Objectives.xml|KillEradicators` (untranslated): Eradicator left in Latin (canon Винищувач)
+  - «обидва збунтовані Eradicator» → «обох збунтованих Винищувачів»
+- `Regions.xml|Climate2Name10` (typo): Вогоючого is not a word (EN Windscream)
+  - «Вогоючого» → «Ревучого»
+- `Tips.xml|Loading/Count` (omission): Tip count 68 but there are 69 tips, so the last one never shows
+  - «68» → «69»
+- `Tips.xml|ReconDescription` (omission): Old tip text: Sharpshooters and the 3-tile radius are missing
+  - ««Колісниці» можуть розкривати навколишню місцевість за допомогою здібності » → «<icon height='20' texture='Icons/Units/Outrider'/><nbsp/>«Колісниці» та <icon height='20' texture='Icons/Units/Sharpshooter'/><nbsp/>Снайпери можуть розкривати все в радіусі <icon height='20' texture='Icons/Attributes/Radius'/><nbsp/>3 клітинок за допомогою здібності »
+- `Traits.xml|InvulnerableProperties` (meaning): Cut off mid-word and wrong: EN says invulnerable to all damage
+  - «Невразливість на певний проміг» → «Невразливий до будь-якої шкоди.»
+- `Traits.xml|VoiceVehiclesUpgradeProperties` (untranslated): Whole entry left in English
+  - «Canticles of Dusk gain production for biological units dying within 6 tiles of the city's headquarters.» → «Будівлі «Гімн заходу» отримують виробництво, коли в радіусі 6 клітинок від штабу міста гинуть біологічні юніти.»
+
+## med (173)
+
+- `AI.xml|EmulatedMind12` (typo): A final -ІА is not Ukrainian spelling; names ending in -ia take -ія (Отілія).
+  - «ОТІЛІА» → «ОТІЛІЯ»
+- `AI.xml|EmulatedMind15` (typo): A final -ІА is not Ukrainian spelling; the Polish name Basia is Бася in Ukrainian (or БАСІЯ if kept literal).
+  - «БАСІА» → «БАСЯ»
+- `AI.xml|FurtiveTribunal16` (russianism): Настасья is the Russian spelling, while every other name here uses the Ukrainian form; the Ukrainian form is Настасія.
+  - «Настасья» → «Настасія»
+- `AI.xml|HeartlessArtificer18` (russianism): Руфь is the Russian form of Ruth
+  - «Руфь» → «Рут»
+- `AI.xml|HeartlessArtificer27` (typo): A letter is missing: Asantewaa should be Асантева.
+  - «Асантва» → «Асантева»
+- `AI.xml|InfiniteCount0` (term): Huygens has the established Ukrainian form Гюйгенс; Гайгенс follows the English pronunciation.
+  - «Гайгенс» → «Гюйгенс»
+- `AI.xml|SyncreticDeva17` (typo): Meslier (Jean Meslier) is Мельє in Ukrainian; «Меньє» is a mistransliteration.
+  - «Меньє» → «Мельє»
+- `AI.xml|TwistedMother21` (russianism): «Упадок духу» calques Russian «упадок духа»; standard Ukrainian is «занепад духу».
+  - «Упадок» → «Занепад»
+- `AI.xml|TwistedMother4` (russianism): «Страдання» is a Russianism; the standard Ukrainian word is «страждання».
+  - «Страдання» → «Страждання»
+- `AI.xml|UntoldProphet12` (typo): Spanish Tomas is Томас; the final «с» is missing.
+  - «Тома» → «Томас»
+- `Actions.xml|AngelFlightFlavor` (russianism): «пушки» is a Russian word for cannons; EN says weapons become laser cannons.
+  - «гармати на лазерні пушки» → «зброю на лазерні гармати»
+- `Actions.xml|ApotheosisFlavor` (russianism): «вірна ознака» is a calque and «Смердючий сморід» a pleonasm; EN says the stench was the first warning.
+  - «Смердючий сморід був вірною ознакою» → «Сморід був першим попередженням»
+- `Actions.xml|ArtificersPrecisionFlavor` (meaning): EN lists three areas (craft, programming, warfare); UK turns programming into an apposition for craft.
+  - «У своєму ремеслі — програмуванні — і на війні» → «У своєму ремеслі, у програмуванні й на війні»
+- `Actions.xml|Assassinate` (meaning): «Жорстоке вбивство» (brutal murder) invents brutality and loses the targeted-killing sense of Assassinate.
+  - «Жорстоке вбивство» → «Ліквідація»
+- `Actions.xml|AtramentousAuraFlavor` (russianism): Russian-style active participle «переливаюча».
+  - «переливаюча хвиля» → «переливчаста хвиля»
+- `Actions.xml|AtramentousAuraFlavor` (grammar): Possessive adjective must agree with feminine accusative «оборону».
+  - «чортів оборону» → «чортову оборону»
+- `Actions.xml|BionicImplantFlavor` (grammar): «щеплення» is neuter, so the adjective must be neuter.
+  - «високотехнологічну щеплення» → «високотехнологічне щеплення»
+- `Actions.xml|BlackHoleFlavor` (meaning): «колись були» (once were) is invented; EN says black holes may be the darkest spots.
+  - «можливо, колись були» → «можливо, і є»
+- `Actions.xml|CherubicHallowingFlavor` (russianism): «крошили» is Russian; Ukrainian is «кришили».
+  - «крошили» → «кришили»
+- `Actions.xml|ChoralCelerityFlavor` (russianism): «нанесли удар» is a calque; Ukrainian uses «завдали удару».
+  - «нанесли удар по їхній базі» → «завдали удару по їхній базі»
+- `Actions.xml|CloneWaveFlavor` (grammar): The relative pronoun is missing, so the clause does not attach to «процес».
+  - «клонування, до війни» → «клонування, який до війни»
+- `Actions.xml|ConjureBleedFlavor` (grammar): «повітря» is neuter; pronoun, verb and adjective are masculine.
+  - «Сам повітря був схожий» → «Саме повітря було схоже»
+- `Actions.xml|DanceOfTheErelim` (typo): Erelim is misspelled; the flavor entry uses «ереліми».
+  - «еремім» → «ерелімів»
+- `Actions.xml|DanceOfTheErelimFlavor` (typo): «скліли» is not a word; the verb is «скляніти».
+  - «очі скліли» → «очі скляніли»
+- `Actions.xml|DarkPactFlavor` (russianism): Dreameater with the Russian root ед; the corpus uses сноїдець / Сноїд
+  - «сноед» → «сноїд»
+- `Actions.xml|DataHackFlavor` (grammar): «простягнути» takes the accusative, not the instrumental.
+  - «простягнути своїм розумом» → «простягнути свій розум»
+- `Actions.xml|DirectControlFlavor` (term): In-game genitive is «ЗЕФОНа», not «ЗЕФОНу».
+  - «машин ЗЕФОНу» → «машин ЗЕФОНа»
+- `Actions.xml|DreamPrisonFlavor` (russianism): Dreameater with the Russian root ед; the corpus uses сноїдець / Сноїд
+  - «сноед» → «сноїд»
+- `Actions.xml|EchoesFromBeyond` (grammar): «луна» is feminine, so the adjective must be feminine.
+  - «Потойбічне луна» → «Потойбічна луна»
+- `Actions.xml|EndbringersReversalFlavor` (term): Furtive Tribunal is «Незримий Трибунал» in the canon.
+  - «Невидимий Трибунал» → «Незримий Трибунал»
+- `Actions.xml|EradicateBleedFlavor` (grammar): «позбутися» takes a bare genitive, not «від».
+  - «від зараження Течею все ж можна було позбутися» → «зараження Течею все ж можна було позбутися»
+- `Actions.xml|EvadeFunctionFlavor` (russianism): «обломків» is Russian; Ukrainian uses «уламків».
+  - «обломків» → «уламків»
+- `Actions.xml|Extirpate` (typo): Wrong case for a name (Weapons.xml has Виривання)
+  - «Вириванні» → «Виривання»
+- `Actions.xml|ExtirpateFlavor` (typo): Typo: ось-ост should be ось-ось.
+  - «ось-ост» → «ось-ось»
+- `Actions.xml|FailedTransfigurationsFlavor` (term): Unit name left in Latin; Units.xml has Каведіум Одай
+  - «Cavaediem Odai» → «Каведіум Одай»
+- `Actions.xml|FoundCityProperties` (grammar): «один від одного» must agree with neuter «міста».
+  - «один від одного» → «одне від одного»
+- `Actions.xml|GhostWalkFlavor` (meaning): the earth here is the ground underfoot, not planet Earth; capital З changes the meaning.
+  - «виглядала Земля» → «виглядала земля»
+- `Actions.xml|GravitonJammerFlavor` (russianism): Russian-style active participle.
+  - «дезорієнтуючого» → «дезорієнтувального»
+- `Actions.xml|Hijack` (russianism): «Угон» is a Russian word.
+  - «Угон» → «Захоплення»
+- `Actions.xml|HijackFlavor` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Actions.xml|HijackFlavor` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошники» → «Спустошувачі»
+- `Actions.xml|HiredHands` (typo): Double н; Traits.xml has Наймана сила
+  - «Найманна» → «Наймана»
+- `Actions.xml|HolyInfernoFlavor` (grammar): Broken syntax: мелодія gets two predicates (була, змінювала); EN says the clue was that the melody shifted.
+  - «Єдиною зачіпкою була мелодія» → «Єдиною зачіпкою було те, що мелодія»
+- `Actions.xml|HordeMandateFlavor` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Actions.xml|HordeMandateFlavor` (grammar): A singular neuter verb with plural «сантиметри».
+  - «залишилося сантиметри» → «залишилися сантиметри»
+- `Actions.xml|HordeMandateFlavor` (typo): EN has one roar, so «Реви» should be «Рев».
+  - «Реви мотоциклетного» → «Рев мотоциклетного»
+- `Actions.xml|InevitableEndFlavor` (typo): Typo: меню (menu) should be мені.
+  - «меню» → «мені»
+- `Actions.xml|InevitableEndFlavor` (russianism): прожужжав is from Russian прожужжать; the Ukrainian idiom is протуркотіти всі вуха.
+  - «прожужжав» → «протуркотів»
+- `Actions.xml|InevitableEndFlavor` (typo): Typo: ниття (whining) instead of нитки (threads); the entry later says ці нитки.
+  - ««ниття життя»» → ««нитки життя»»
+- `Actions.xml|InevitableEndFlavor` (grammar): позбавити takes the genitive without від (calque of избавить от).
+  - «позбавити нас від усіх проблем» → «позбавити нас усіх проблем»
+- `Actions.xml|IonDischargeFlavor` (russianism): «стряхнув» is Russian; Ukrainian uses «струсив».
+  - «стряхнув з себе» → «струсив із себе»
+- `Actions.xml|MarkTargetFlavor` (grammar): A participle and a relative clause are joined by й, which is ungrammatical.
+  - «розташованого на якійсь скелі й який вказує цілі» → «який засів на якійсь скелі й вказує цілі»
+- `Actions.xml|MinelayerFlavor` (grammar): Wrong preposition: позиції take на, not у.
+  - «у вдалих позиціях» → «на вдалих позиціях»
+- `Actions.xml|MothersFavorFlavor` (grammar): Singular «твоїй» does not agree with plural «щоках»; EN has one cheek.
+  - «по твоїй щоках» → «по твоїй щоці»
+- `Actions.xml|MothersScornFlavor` (gender): Gender-neutral 'parent' became «батько» (father), which then clashes with «любов Матері».
+  - «любов батька — любов Матері» → «батьківська любов — любов Матері»
+- `Actions.xml|NeverSurrenderFlavor` (russianism): вірний in the sense of right is a calque of верный and reads as loyal leader.
+  - «вірний лідер у вірному місці» → «потрібний лідер у потрібному місці»
+- `Actions.xml|NitroBoostFlavor` (grammar): The possessor is the subject of the clause, so the reflexive «своєї» is required.
+  - «каністру її так званої» → «каністру своєї так званої»
+- `Actions.xml|NomadicLifeFlavor` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошники» → «Спустошувачі»
+- `Actions.xml|ParamedicFlavor` (russianism): Russian-style active participle.
+  - «від регенеруючої плоті» → «від регенерації плоті»
+- `Actions.xml|ParamedicFlavor` (russianism): по + dative for judging by is a calque; Ukrainian uses з + genitive.
+  - «по її хихиканню» → «з її хихикання»
+- `Actions.xml|ParamedicFlavor` (grammar): собака is masculine in Ukrainian.
+  - «кожна собака» → «кожен собака»
+- `Actions.xml|ParticleBarrierFlavor` (russianism): Russian-style participle, also misspelled.
+  - «наближаючіся снаряди» → «снаряди, що наближалися»
+- `Actions.xml|PathfinderDroneFlavor` (typo): «чортавого» is a typo for «чортового».
+  - «чортавого» → «чортового»
+- `Actions.xml|PathfinderDroneFlavor` (grammar): «менше» plus a bare genitive is a Russian comparative pattern; Ukrainian needs «менший, ніж» or «менший за».
+  - «розміром менше бойового мелісая» → «розміром менший, ніж бойовий мелісай»
+- `Actions.xml|PerfectForeverFlavor` (russianism): «часососуще» uses a Russian-style present participle.
+  - «чергове часососуще чудовисько» → «чергове чудовисько, що висмоктує час»
+- `Actions.xml|PersonalVisitFlavor` (typo): Бос declines as боса; the double s is the Russian spelling.
+  - «босса» → «боса»
+- `Actions.xml|PestilenceFlavor` (grammar): Мор and вершник are masculine; the verb must agree.
+  - «була Мор» → «був Мор»
+- `Actions.xml|PlatinumScionAffinityUpgrade2Flavor` (typo): «пустощах» means 'pranks'; the wasteland is «пустищах».
+  - «у пустощах» → «у пустищах»
+- `Actions.xml|PsychicSpoorFlavor` (russianism): «гнусний» is Russian; Ukrainian uses «мерзенний».
+  - «Гнусними» → «Мерзенними»
+- `Actions.xml|PsychicSpoorFlavor` (russianism): «дурь» is a Russian word and spelling, and «ваших» breaks the «ти» address where EN says 'your boys smoke'.
+  - «та дурь, що у ваших самокрутках» → «та трава, яку курять твої хлопці»
+- `Actions.xml|QuidProQuoEnergyFlavor` (typo): Current orthography spells проєкт.
+  - «проектів» → «проєктів»
+- `Actions.xml|ReconstructFlavor` (term): Canon genitive of ЗЕФОН is ЗЕФОНа.
+  - «ЗЕФОНу» → «ЗЕФОНа»
+- `Actions.xml|RemoveRoadFlavor` (typo): втрягали is not a word; meant застрягали (got stuck).
+  - «втрягали» → «застрягали»
+- `Actions.xml|SeedOfExtinctionFlavor` (grammar): Collective насіння needs singular verb, вибухівчатим is not a word, gender agreement with речовиною is broken, and тікати з поля бою means deserting rather than running from it on the battlefield.
+  - «насіння кродеуса були просто ще одним вибухівчатим речовиною, від якого потрібно було тікати з поля бою» → «насіння кродеуса було просто ще однією вибухівкою, від якої потрібно було тікати на полі бою»
+- `Actions.xml|SeedOfExtinctionFlavor` (grammar): Collective насіння takes a singular verb.
+  - «насіння прийшли» → «насіння прийшло»
+- `Actions.xml|SereneLesionFlavor` (russianism): членошкодження calques членовредительство; Ukrainian uses самоушкодження or самокалічення.
+  - «членошкодження» → «самоушкодження»
+- `Actions.xml|SereneLesionFlavor` (omission): Dropped the detail of their ichor trailing into the void.
+  - «забирає їх у порожнечу» → «забирає їх у порожнечу, а за ними тягнеться слід іхору»
+- `Actions.xml|SmokeLauncherFlavor` (meaning): EN contrasts idiots with the smart ones; smarter fools changes the meaning and reads awkwardly.
+  - «Дурні розумніші розуміли» → «Розумні знали»
+- `Actions.xml|SoundquakeFlavor` (russianism): мать is Russian; the same entry later uses Ukrainian мати.
+  - «Твою мать!» → «Твою ж матір!»
+- `Actions.xml|StickyFoamFlavor` (russianism): дрянь is a Russian word.
+  - «дрянь» → «погань»
+- `Actions.xml|SupplicationFlavor` (russianism): «дерьмовий» is a Russian word and spelling; Ukrainian uses «лайняний».
+  - «дерьмового елю» → «лайняного елю»
+- `Actions.xml|SystemicReset` (grammar): «скидання» is neuter, so the adjective must be neuter.
+  - «Системний» → «Системне»
+- `Actions.xml|SystemicResetFlavor` (typo): «сигналізация» has a Russian ending; Ukrainian is «сигналізація».
+  - «сигналізация» → «сигналізація»
+- `Actions.xml|TacticalNuclearMissileFlavor` (russianism): «скоріше» for 'rather' is a Russianism, and the present tense clashes with the past narrative, so a conditional is needed.
+  - «скоріше помруть, ніж натиснуть» → «радше померли б, ніж натиснули б»
+- `Actions.xml|TacticalNuclearMissileFlavor` (grammar): «пропозицією» is feminine, so the adjectives must agree.
+  - «таким поганим пропозицією» → «такою поганою пропозицією»
+- `Actions.xml|TakeCoverFlavor` (grammar): «стільки» must be declined in the locative.
+  - «на стільки полях» → «на стількох полях»
+- `Actions.xml|TameAbkluthFlavor` (typo): «твар» is not a Ukrainian word form; the genitive plural should be «тварюк».
+  - «цих твар» → «цих тварюк»
+- `Actions.xml|TheDeepWaysFlavor` (russianism): «мучительну» is Russian; Ukrainian uses «болісну».
+  - «мучительну» → «болісну»
+- `Actions.xml|TheFogFlavor` (grammar): «повітря» is neuter, so the adjective and the verb must be neuter.
+  - «цвілий повітря, від якого вони самі сяяли силою, змушував» → «цвіле повітря, від якого вони самі сяяли силою, змушувало»
+- `Actions.xml|TheFogFlavor` (russianism): «захльостуватися» means to be lashed or overflow (from Russian захлёстываться); 'choke on' is «захлинатися».
+  - «захльостуватися» → «захлинатися»
+- `Actions.xml|TheSureThingLongFlavor` (grammar): «цуценя» is neuter, so it must be «це цуценя».
+  - «цей цуценя» → «це цуценя»
+- `Actions.xml|TheSureThingShortFlavor` (meaning): The acronym letters «В, В і П» do not match the expansion «Повернення з відсотками», so the ROI joke breaks.
+  - «В, В і П» → «П, З і В»
+- `Actions.xml|ThrashEmFlavor` (russianism): «болтаючимся» is a Russian verb with a Russian-style participle.
+  - «з болтаючимся на ній ковшем» → «з ковшем, що теліпався на ній,»
+- `Actions.xml|ThrashEmFlavor` (russianism): «затеєю» is the Russian form; the Ukrainian instrumental is «затією».
+  - «небезпечною затеєю» → «небезпечною затією»
+- `Actions.xml|ThrashEmFlavor` (term): EN says Reavers, which are Спустошувачі in Units.xml; Пустошник is drift
+  - «Пустошникам» → «Спустошувачам»
+- `Actions.xml|TimeOutOfJointFlavor` (grammar): The imperative «йди» does not fit a third-person subject, and «білиберда» is a Russianism.
+  - «Та йди в дупу ця часова білиберда» → «Та пішла в дупу ця часова маячня»
+- `Actions.xml|TimeShiftFlavor` (grammar): 'Time itself' is «сам час»; «самий час» means 'just the right time'.
+  - «викривлювала самий час» → «викривлювала сам час»
+- `Actions.xml|TransubstantiationFlavor` (grammar): The genitive of «Голос» is «Голосу».
+  - «у ролі Голоса» → «у ролі Голосу»
+- `Actions.xml|UnearthlyPassageFlavor` (grammar): The genitive of «Голос» is «Голосу», as elsewhere in the batch.
+  - «Культисти Голоса» → «Культисти Голосу»
+- `Actions.xml|UnearthlyPassageFlavor` (russianism): «приторний» is Russian and means cloying, while EN says a sour stink.
+  - «приторний запах» → «кислий сморід»
+- `Actions.xml|UnearthlyPassageFlavor` (grammar): «плоть» is feminine, so «гниючого» is wrong; «гнилої» also avoids the Russian-style participle.
+  - «гниючого плоті» → «гнилої плоті»
+- `Actions.xml|UnearthlyPassageFlavor` (grammar): «повітря» is neuter, so it must be «саме повітря».
+  - «сам повітря» → «саме повітря»
+- `Actions.xml|UnearthlyPassageFlavor` (typo): «здерше» is a typo for «здере».
+  - «здерше» → «здере»
+- `Actions.xml|UnholyHaste` (grammar): «поспіх» is masculine, so the adjective must be masculine.
+  - «Нечестива» → «Нечестивий»
+- `Actions.xml|VorodaisGiftFlavor` (grammar): The genitive of «Голос» is «Голосу».
+  - «втілення Голоса» → «втілення Голосу»
+- `Actions.xml|WordsOfTheProphetFlavor` (russianism): «прихожан» is Russian; Ukrainian uses «парафіян».
+  - «прихожан» → «парафіян»
+- `Attributes.xml|AdditionalMembersHit` (grammar): With a plural noun по takes the locative (по членах), not the Russian-style dative по членам.
+  - «по членам групи» → «по членах групи»
+- `Attributes.xml|BlockSight` (term): Canon term for tile is клітинка, not клітина.
+  - «клітин» → «клітинок»
+- `Attributes.xml|CanEnemyOverwatch` (grammar): The prefix fragment Запобігає takes the dative: запобігає атакам.
+  - «атаки» → «атакам»
+- `Attributes.xml|CanEnemyOverwatch` (term): Canon term for Overwatch is Дозор; «з черги» reads as 'from the queue'.
+  - «з черги» → «з дозору»
+- `Attributes.xml|CanEnemyOverwatch` (term): Canon term for unit is юніт, not підрозділ.
+  - «підрозділу» → «юніту»
+- `Attributes.xml|CanOverwatch` (term): Overwatch is Дозор, not a queue
+  - «входити в чергу» → «ставати в дозор»
+- `Attributes.xml|ConsumedActionPoints` (russianism): Витрачаємі is a Russian-style participle that does not exist in Ukrainian.
+  - «Витрачаємі» → «Витрачені»
+- `Attributes.xml|ConsumedMovement` (russianism): Витрачаєме is a Russian-style participle that does not exist in Ukrainian.
+  - «Витрачаєме» → «Витрачене»
+- `Attributes.xml|InfluenceDescription` (term): Canon term for tile is клітинка, not клітина.
+  - «клітин міста» → «клітинок міста»
+- `Attributes.xml|LevelDescription/Death` (term): Canon term for tile is клітинка, not клітина.
+  - «3 клітин» → «3 клітинок»
+- `Attributes.xml|LevelDescription/DeathNoAttacker` (term): Canon term for tile is клітинка, not клітина.
+  - «3 клітин» → «3 клітинок»
+- `Attributes.xml|MoraleDescription/Death` (term): Canon term for tile is клітинка, not клітина.
+  - «3 клітин» → «3 клітинок»
+- `Attributes.xml|MoraleDescription/Death` (russianism): «той же» is a Russian calque; Ukrainian uses «той самий».
+  - «у тій же області» → «у тій самій області»
+- `Attributes.xml|MovementDescription` (term): Canon term for tile is клітинка, not клітина.
+  - «Скільки клітин» → «Скільки клітинок»
+- `Attributes.xml|MovementDescription` (term): Canon term for tile is клітинка, not клітина.
+  - «в клітину» → «в клітинку»
+- `Attributes.xml|PerHeroCost` (russianism): існуючий is a Russian-style participle; Ukrainian uses наявний.
+  - «існуючого» → «наявного»
+- `Attributes.xml|RangedAccuracy` (typo): «Дальність.» is the noun 'range' with a stray period, so the label reads 'Range. accuracy'.
+  - «Дальність. точність» → «Точність дальніх атак»
+- `Attributes.xml|RequiredMovement` (term): Movement is Переміщення in the other movement attributes of this batch.
+  - «Необхідний рух» → «Необхідне переміщення»
+- `Buildings.xml|ReaverConstruction` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Buildings.xml|ReaverInfantry` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Buildings.xml|ReaverInfantryProperties` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Cities.xml|Zephon7` (typo): EN number is 4242
+  - «4241» → «4242»
+- `Diplomacy.xml|Chieftess/CondemnTradeAgreement` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Спустошників» → «Спустошувачів»
+- `Diplomacy.xml|Chieftess/OfferPeace/RogueOperative` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Спустошники» → «Спустошувачі»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/Chieftess` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Спустошників» → «Спустошувачів»
+- `Diplomacy.xml|PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty` (style): Repeated бізнесу reads as a typo
+  - «від справжнього бізнесу бізнесу.» → «від справжньої справи — бізнесу.»
+- `Diplomacy.xml|Zephon/OfferPeace/UntoldProphet` (meaning): EN is a question, and for a time means temporarily, not at present
+  - «Ти віриш у те, що в даний час ми прагнемо миру.» → «Чи віриш ти, що ми прагнемо миру — хоча б на якийсь час?»
+- `GUI.xml|BuildingReaver` (typo): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift; also Буділя is a typo
+  - «Буділя Пустошників» → «Будівля Спустошувачів»
+- `GUI.xml|UnitReaver` (term): Reavers are Спустошувачі (Units.xml); Пустошники and Спустошники are drift
+  - «Пустошників» → «Спустошувачів»
+- `Modifiers.xml|ToZeroOrOneBeforeDistressSignalMimicked` (term): ZERO/ONE left in Latin (canon НУЛЬ/ОДИН)
+  - «на ZERO чи ONE» → «на НУЛЬ чи ОДИН»
+- `Objectives.xml|MimicDistressSignal` (term): ZERO/ONE left in Latin (canon НУЛЬ/ОДИН)
+  - «на ZERO та ONE» → «на НУЛЬ та ОДИН»
+- `Quests.xml|CriesForHelp/HelpSuccess` (russianism): у самий останній момент is a calque
+  - «у самий останній момент» → «в останню мить»
+- `Quests.xml|TheDeep/AcrinVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/EmulatedMindVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/FallenSoldierVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/FurtiveTribunalVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/HeartlessArtificerVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/HollowWarlordVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/HonorableAristocratVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/HumanVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/OpenQuestion1` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/OpenQuestion1` (typo): ЦЕТИЙ is not a word
+  - «ЦЕТИЙ» → «ЦЕЙ»
+- `Quests.xml|TheDeep/OpenQuestion2` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/OpenQuestion2` (typo): ЦЕТИЙ is not a word
+  - «ЦЕТИЙ» → «ЦЕЙ»
+- `Quests.xml|TheDeep/OpenQuestion3` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/OpenQuestion3` (typo): ЦЕТИЙ is not a word
+  - «ЦЕТИЙ» → «ЦЕЙ»
+- `Quests.xml|TheDeep/OpenQuestion4` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/OpenQuestion4` (typo): ЦЕТИЙ is not a word
+  - «ЦЕТИЙ» → «ЦЕЙ»
+- `Quests.xml|TheDeep/OpenQuestion7` (untranslated): {GIFT} left in English; the other questions use {ДАР}
+  - «{GIFT}» → «{ДАР}»
+- `Quests.xml|TheDeep/OpenQuestion8` (untranslated): {GIFT} left in English; the other questions use {ДАР}
+  - «{GIFT}» → «{ДАР}»
+- `Quests.xml|TheDeep/PlatinumScionVictoryQuestion` (typo): Russian spelling of соліпсизм
+  - «солипсизм» → «соліпсизм»
+- `Quests.xml|TheDeep/PracticalRomanticVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/RogueOperativeVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/TwistedMotherVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/UntoldProphetVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Quests.xml|TheDeep/ZephonVictoryQuestion` (typo): Russian spelling агонизуюче; EN says relief-agony
+  - «агонизуюче полегшення» → «полегшення-агонія»
+- `Settings.xml|Achievements/TheEmpathsDefense` (term): The quest title is Оборона емпатки
+  - «Захист емпата» → «Оборона емпатки»
+- `Settings.xml|Controls/OrderAreaUnits` (omission): Radius 3 dropped
+  - «Наказ юнітам у зоні» → «Наказ юнітам у радіусі 3»
+- `Tips.xml|Loading/52` (meaning): Old tip text; the game now says splash weapons make extra attacks on multi-member squads
+  - «Атаки з розкидом вражають до 2 додаткових членів загону, завдаючи втричі більше шкоди порівняно з одним.» → «Зброя з розкидом здійснює додаткові атаки по цілях із кількома членами загону.»
+- `Tips.xml|MassOrderUnitsDescription` (typo): бездіючим is a calque (GUI uses бездіяльним) and перемістітся is misspelled
+  - «бездіючим юнітам перемістітся» → «бездіяльним юнітам переміститися»
+- `Tips.xml|ResearchLaboratory` (term): The building is Наукова лабораторія
+  - «Дослідна лабораторія» → «Наукова лабораторія»
+- `Traits.xml|LifeSteal` (term): Attributes.xml calls it Крадіжка здоров’я
+  - «Крадіжка життя» → «Крадіжка здоров’я»
+- `Traits.xml|PhantasmFlavor` (russianism): Dreameater with the Russian root ед; the corpus uses сноїдець / Сноїд
+  - «Сноед» → «Сноїд»
+- `Traits.xml|Shaken` (term): Everywhere else the status is приголомшений
+  - «Потрясений» → «Приголомшений»
+- `Traits.xml|SummonFlavor` (grammar): тикати means to poke or to use ти; a clock цокає
+  - «тикаючий годинник» → «цокаючий годинник»
+- `Units.xml|WastelanderFlavor` (typo): Russian spelling
+  - «шестицилиндрового» → «шестициліндрового»
+- `Upgrades.xml|IcarusSatelliteUpgradeFlavor` (meaning): The ScreamTroopers 5 line was replaced with invented Warhammer jokes
+  - ««Це ж майже екстермінатус! Помщуся за Кадію!!!»» → ««Як у ScreamTroopers 5. Обожнювала ту гру. Я ОБОЖНЮВАЛА. Ту гру».»
+
+## low (88)
+
+- `AI.xml|HeartlessArtificer20` (term): EmulatedMind27 renders Leah as Лія
+  - «Лея» → «Лія»
+- `AI.xml|TwistedMother14` (term): Blues and Longing (TwistedMother28) both became «Туга», so the name list has a duplicate.
+  - «Туга» → «Журба»
+- `Actions.xml|BombardmentFlavor` (typo): Euphony: «із» before a word starting with з.
+  - «з зони ураження» → «із зони ураження»
+- `Actions.xml|CataphoraFlavor` (style): The English idiom 'no skin off your back' (at no cost to you) is rendered literally and reads oddly.
+  - «не втративши шкіри на спині» → «без жодного ризику для себе»
+- `Actions.xml|DreadShadowFlavor` (typo): Euphony: «із» before с followed by a vowel.
+  - «зі самим світлом» → «із самим світлом»
+- `Actions.xml|ExtirpateFlavor` (style): вії means eyelashes; odd word for the beast's tendrils.
+  - «Невидимі вії» → «Невидимі відростки»
+- `Actions.xml|HolyBondFlavor` (style): ТОМУ, ЩО reads as because; the One Above is a being (хто), and наверху is a russianism for нагорі.
+  - «ТОМУ, ЩО НАВЕРХУ» → «ТОМУ, ХТО НАГОРІ»
+- `Actions.xml|HordeMandateFlavor` (typo): An unneeded combining stress mark in «ЧЕКА́ТИ», which the game font may not render.
+  - «ЧЕКА́ТИ» → «ЧЕКАТИ»
+- `Actions.xml|InevitableEndFlavor` (style): з дурнів is not an idiomatic Ukrainian expression.
+  - «Я з дурнів запитав» → «Я здуру запитав»
+- `Actions.xml|InterferenceProtocolsFlavor` (punctuation): A dash is required before це between noun subject and noun predicate.
+  - «верх це низ, друг це ворог, а світло це темрява» → «верх — це низ, друг — це ворог, а світло — це темрява»
+- `Actions.xml|SereneLesionFlavor` (style): розкривають себе reads as reveal themselves, not cut themselves open.
+  - «розкривають себе» → «розпорюють собі тіла»
+- `Actions.xml|SwallowFlavor` (style): «зірвався над нашою позицією» is unnatural for 'soared over our position'.
+  - «зірвався над нашою позицією» → «злетів над нашою позицією»
+- `Actions.xml|SystemOverloadFlavor` (style): «працював на зброї» reads as 'worked at/for weapons'; it means it acted on weapons.
+  - «Він працював на зброї» → «Він діяв на зброю»
+- `Actions.xml|ThePlague` (term): The quest is Чума
+  - «Епідемія» → «Чума»
+- `Actions.xml|VorodaisGift` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Actions.xml|VorodaisGiftFlavor` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Attributes.xml|AdditionalMembersHit` (style): Attribute labels start with a capital letter
+  - «влучання» → «Влучання»
+- `Attributes.xml|BlockMovement` (punctuation): Leading space the English does not have
+  - « рух НЕ-літаючих юнітів» → «рух НЕ-літаючих юнітів»
+- `Attributes.xml|CanPickUpCaches` (punctuation): Leading space the English does not have
+  - « збирати схрони» → «збирати схрони»
+- `Attributes.xml|CanZoneOfControl` (punctuation): Leading space the English does not have
+  - « контролювати область» → «контролювати область»
+- `Attributes.xml|GrowthDescription/Increase` (punctuation): Without a comma «росту населення» reads as one phrase and збільшується loses its subject.
+  - «накопиченні росту населення» → «накопиченні росту, населення»
+- `Attributes.xml|IgnoreLineOfSight` (punctuation): Fragment ends with a period the English does not have
+  - «пряму видимість.» → «пряму видимість»
+- `Buildings.xml|PopulationLimitFlavor` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Cities.xml|Zephon6` (meaning): Wallbreak is a breach, not a ditch
+  - «РІВ-СТІНИ-19» → «ПРОЛОМ-СТІНИ-19»
+- `Diplomacy.xml|HeartlessArtificer/OfferAlliance` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift/OfferHighAmount` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Diplomacy.xml|PracticalRomantic/DeclareWar/InfiniteCount` (punctuation): Closing » without an opening «
+  - «Бачити Світ у Зернині Піску» → ««Бачити Світ у Зернині Піску»
+- `Diplomacy.xml|PracticalRomantic/DeclareWar/PlatinumScion` (punctuation): Closing » without an opening «
+  - «Блискавкою, що руйнує» → ««Блискавкою, що руйнує»
+- `Factions.xml|SyncreticDevaQuote` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Factions.xml|SyncreticDevaQuote` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `GUI.xml|Communications` (term): Tips and the Settings hotkey both say переговори
+  - «Перемовини» → «Переговори»
+- `GUI.xml|Invulnerable` (term): Traits.xml and the rest of the corpus use Невразливість
+  - «Неуразливість» → «Невразливість»
+- `Items.xml|RallyingHolobeaconFlavor` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Items.xml|VorodaiProselyte` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Items.xml|VorodaiProselyteFlavor` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Modifiers.xml|OfFlagshipProductOnDeath` (punctuation): Missing leading space, so it glues to the previous word
+  - «<string name='Actions/PlatinumScionAffinityUpgrade2'/>» → « <string name='Actions/PlatinumScionAffinityUpgrade2'/>»
+- `Quests.xml|CircusCambion/AbkluthJousting` (style): шаленіючих is not natural
+  - «шаленіючих глядачів» → «розбурханих глядачів»
+- `Quests.xml|CityInTheClouds/SupportRulersFailure` (punctuation): Quote inside a quote is missing its opening mark
+  - ««Небесний кит» ніколи не буде твоїм»» → ««„Небесний кит“ ніколи не буде твоїм»»
+- `Quests.xml|MeetYourMaker/ZephonFacilitySuccess` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|PerfectionFromBeyondTheStars/HwedoFeedSuccess` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|PhilosophersStone/TreasureFound` (russianism): слідувати in the sense of follow is a calque
+  - «Слідуючи карті» → «Керуючись картою»
+- `Quests.xml|TheDeep/ImperiousExonautMutatorVictory` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/ImperiousExonautMutatorVictory` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheDeep/ImperiousExonautVictoryQuestion` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/ImperiousExonautVictoryQuestion` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheDeep/ImperiousExonautVictoryQuestion` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘інших’» → «„інших“»
+- `Quests.xml|TheDeep/ImperiousExonautVictoryQuestion` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘чистоти’» → «„чистоти“»
+- `Quests.xml|TheDeep/OpenQuestion7` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/OpenQuestion7` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheDeep/OpenQuestion7` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘ти’» → «„ти“»
+- `Quests.xml|TheDeep/OpenQuestion8` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/OpenQuestion8` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheDeep/OpenQuestion8` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘СПРАВЖНІМ’» → ««СПРАВЖНІМ»»
+- `Quests.xml|TheDeep/OpenQuestion8` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘Є’» → ««Є»»
+- `Quests.xml|TheDeep/SyncreticDevaMutatorVictory` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/SyncreticDevaMutatorVictory` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheDeep/SyncreticDevaMutatorVictory` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘ІСТИНИ’» → ««ІСТИНИ»»
+- `Quests.xml|TheDeep/SyncreticDevaVictoryQuestion` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheDeep/SyncreticDevaVictoryQuestion` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/Intro` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/Intro` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/Intro` (punctuation): English single quotes; Ukrainian uses „…“ inside «…» and «…» otherwise
+  - «‘верху’» → ««верху»»
+- `Quests.xml|TheEmpathsDefense/PlayYourGameFailure` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/PlayYourGameFailure` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/PlayYourGameSuccess` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/PlayYourGameSuccess` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/ResetTheBoard` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/ResetTheBoard` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/TwoKnightDefenseFailure` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/TwoKnightDefenseFailure` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheEmpathsDefense/TwoKnightDefenseSuccess` (punctuation): English quotes instead of «»
+  - «“» → ««»
+- `Quests.xml|TheEmpathsDefense/TwoKnightDefenseSuccess` (punctuation): English quotes instead of «»
+  - «”» → «»»
+- `Quests.xml|TheSpaceEngine/GatherResourcesSuccess/IgnoreAfterGatherResources` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|TheSpaceEngine/Ignore` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|TheSpaceEngine/LockHerUpFailure` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|TheSpaceEngine/LockHerUpSuccess` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Quests.xml|TheSummoning/Combat` (russianism): даний = цей is a calque
+  - «на даному етапі» → «на цьому етапі»
+- `Quests.xml|UnderObservation/AcquireShardsSuccess2` (punctuation): Modifier-letter apostrophe instead of ’
+  - «зʼєднує» → «з’єднує»
+- `Quests.xml|UnderObservation/RecoverShardsSuccess` (punctuation): Modifier-letter apostrophe instead of ’
+  - «убʼє» → «уб’є»
+- `Quests.xml|UnderObservation/RepairShardSuccess` (typo): Old spelling проект; the corpus mostly uses the current проєкт
+  - «проект» → «проєкт»
+- `Traits.xml|BunkerExtensionProperties` (style): Stray 1х the English does not have
+  - «додатковий 1х» → «додатковий »
+- `Traits.xml|EssenceSyphonFlavor` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Traits.xml|River` (term): Features.xml calls it Ріка
+  - «Річка» → «Ріка»
+- `Units.xml|AtlasTankFlavor` (style): землю-трясаючу is not natural Ukrainian
+  - «землю-трясаючу» → «землетрусну»
+- `Units.xml|VorodaisLeviathan` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»
+- `Upgrades.xml|AnchoriteStandingFlavor` (style): Найвражаюче is not a valid form
+  - «Найвражаюче» → «Найдивовижніше»
+- `Upgrades.xml|IcarusSatelliteUpgradeFlavor` (style): злетіла з котушок is a calque; EN says the woman was feral
+  - «Клянусь, вона наче злетіла з котушок.» → «Клянуся, та жінка була скажена.»
+- `Upgrades.xml|VorodaisBargainUpgradeFlavor` (term): Vorodai is spelled both Вародай and Вородай; unify on Вородай to match the English
+  - «Варода» → «Ворода»

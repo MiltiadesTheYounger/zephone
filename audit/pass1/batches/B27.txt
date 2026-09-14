@@ -1,0 +1,550 @@
+# B27: 100 entries from Factions.xml, Features.xml
+
+## Factions.xml|TwistedMotherFoundationsFlavor
+EN: “A picnic-” she starts, before you catch her. The you that pretends nothing has changed. Through her eyes you see concrete walls as white picket fences, minesweepers as gardeners tending their flowers. A tempting fantasy.<br/>
+    <br/>
+    <string name='Factions/TwistedMotherFoundationsFlavorBase'/><br/>
+    <br/>
+    Your friends cheer the platitudes. Still, it is hard that not one looks you in the eye.
+UK: «Пікнік…» — починає вона, перш ніж ти перериваєш її — себе, що вдає, ніби нічого не змінилося. Коли ти дивишся її очима, бетонні стіни видаються білими парканами, а сапери — садівниками, які доглядають квіти. П’янка казка.<br/>
+    <br/>
+    <string name='Factions/TwistedMotherFoundationsFlavorBase'/><br/>
+    <br/>
+    Друзі схвально зустрічають твої банальні слова. І все ж важко, коли всі уникають твого погляду.
+
+## Factions.xml|TwistedMotherFoundationsFlavorBase
+EN: There’s a respectful silence at the city gates. Your followers know you, so give you a moment. You force your sweet delusions deep down and speak for them. “A picnic, this isn’t. Our green and pleasant land is gone.”<br/>
+    <br/>
+    You shift your bulk, ignore its incessant agonies. “But that doesn’t mean our amity is gone. Our friendship. Our community. It is on us to prove ourselves again, in this new land, this new flesh. And we will.”
+UK: Біля міських воріт панує шаноблива тиша. Прихильники знають, як із тобою буває, тож чекають твоїх слів. Ти стримуєш свої спокусливі ілюзії й звертаєшся до них: «Пікнік закінчено. Наших зелених і сповнених життя земель більше немає».<br/>
+    <br/>
+    Ти змінюєш положення тіла, намагаючись забути про невщухний біль. «Але це не означає, що зникли й наші стосунки. Наша дружба. Наша громада. Нам належить проявити себе знову, на цих нових землях, у цій новій реальності. І ми впораємося».
+
+## Factions.xml|TwistedMotherFoundationsWithMutatorFlavor
+EN: Love! After all that, was it just true love that defined you? There is more to you than this. It is trite, a tale from Morgenstern’s fairy tales.<br/>
+    <br/>
+    Whatever. This is the greatest blessing a parent could wish for. Love does not judge a beloved’s qualities, only their existence. And for you three this loop will never end. To spend eternity struggling for and reaching your loves! O, bliss!<br/>
+    <br/>
+    … you have been lost in reverie again.<br/>
+    <br/>
+    <string name='Factions/TwistedMotherFoundationsFlavorBase'/>
+UK: Любов! Після всього, що було, невже тебе визначає лише справжня любов? У тобі має бути щось більше. Це ж не якась казка братів Грімм.<br/>
+    <br/>
+    Втім, яка різниця? Це найбільше благословення, про яке тільки може мріяти батько чи мати. Любов судить улюбленців не за їхніми рисами, а лише за самим їхнім існуванням. І для вас трьох цей цикл ніколи не закінчиться. Провести вічність, борючись за близьких! О, яке блаженство!<br/>
+    <br/>
+    ...Ти знову заблукала в мареннях.<br/>
+    <br/>
+    <string name='Factions/TwistedMotherFoundationsFlavorBase'/>
+
+## Factions.xml|TwistedMotherLostFlavor
+EN: Out of sight of their leaders, the soldiers do things that soldiers do. Keep the things that might give them pleasure. Burn what they can’t carry. They burn up your corn fields. And the farmers in them too.<br/>
+    <br/>
+    Whilst your bodyguards hold off the looting soldiers, you take away the civilians. The mothers. The children. Deliver them into the wilds, tell them to seek sanctuary. Find prayers on your tongues again, and pray for the meek and mild.<br/>
+    <br/>
+    There’s no escape for you though. After all, it’s you that the soldiers are after. So you stay as the gunfire and smoke gets closer.<br/>
+    <br/>
+    As you wait, you think of your family. Of the feel of their hands in yours. A rough one, all nicks and leather, but gentle. And a soft small one, gripping tight.<br/>
+    <br/>
+    A voice whispers then. That you’ll have another chance to see them. Very soon. A smile straightens your crooked lips.<br/>
+    <br/>
+    And you call keenly to the enemy, to hasten the end.
+UK: Поки лідери не дивляться, солдати роблять те саме, що й завжди. Залишають собі те, що може принести їм насолоду. Спалюють те, що не можуть забрати. Вони спалюють твої кукурудзяні поля. Разом із фермерами.<br/>
+    <br/>
+    Поки твої охоронці стримують мародерів, ти відправляєш цивільних геть. Матерів. Дітей. Кажеш їм іти якомога далі від міста, знайти прихисток. Знову звертаєшся до молитви, молишся за тихих і лагідних.<br/>
+    <br/>
+    Але для тебе самої порятунку немає. Зрештою, саме за тобою прийшли солдати. Коли постріли й дим наближаються, ти не йдеш.<br/>
+    <br/>
+    Чекаючи розв’язки, ти думаєш про свою сім’ю. Про відчуття їхніх рук у своїй. Одна — жорстка, в подряпинах і мозолях, але турботлива. І одна маленька та м’яка, що міцно стискає.<br/>
+    <br/>
+    Ти чуєш якийсь голос. Він шепоче, що в тебе буде ще одна можливість побачитися з ними. Дуже скоро. Усмішка розпрямляє твої спотворені губи.<br/>
+    <br/>
+    І ти рішуче кличеш ворогів, щоб пришвидшити кінець.
+
+## Factions.xml|TwistedMotherProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Voice Affinity:<style name='Default'/> Though she isn’t aware of it, few have travelled deeper into the Voice than she has. Start with %1% and gain earlier and cheaper access to Voice technologies, including exclusive access to the highest tier of Voice research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Gifts of the Voice:<style name='Default'/> When her burning smile is turned to you, you feel so very special. Spend influence to buff your units… at a cost.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Tender Ministrations:<style name='Default'/> Despite her afflictions, the Mother insists that all her children care for one another. Increased healing rate if adjacent to an allied unit.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Abhorrent:<style name='Default'/> Though her kindness is obvious, the Mother’s appearance and unreliable personality puts off independents. Gain less from trading pacts.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Immaculate Delivery (Elite):<style name='Default'/> Her love envelops a target, passing it safely through the Bleed to another place. Spend influence to teleport units to allied units.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до Голосу:<style name='Default'/> Хоч вона про це й не здогадується, мало хто занурювався в Голос глибше за неї. Від самого початку є %1%, раніше отримує доступ до технологій Голосу.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Дари Голосу:<style name='Default'/> Той, на кого звернена її тепла усмішка, почувається таким особливим. Витратьте вплив, щоб посилити юніти... але все має свою ціну.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Ніжна турбота:<style name='Default'/> Попри наявність прихильностей, Мати наполягає, щоб усі її діти дбали одне про одного. Швидкість лікування підвищується за сусідства із союзним юнітом.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Потворна:<style name='Default'/> Хоч її доброта очевидна, зовнішність і нестійка особистість Матері відштовхують незалежних. Торгові угоди приносять менше прибутку.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Непорочна поява (Еліта):<style name='Default'/> Її любов огортає ціль, допомагаючи їй безпечно дістатися крізь Кровотечу в інше місце. Витратьте вплив, щоб телепортувати юніти до союзних юнітів.
+
+## Factions.xml|TwistedMotherQuote
+EN: <style name='Italic'/>“We take care of our own, here. I take care of the rest.”<style name='Default'/>
+UK: <style name='Italic'/>«Ми дбаємо про своїх. А про решту подбаю я»<style name='Default'/>
+
+## Factions.xml|TwistedMotherWonFlavor
+EN: You are mid-fairy tale as the messenger walks in, gingerly stepping around an enraptured audience of toddlers and their scattered toys. “-and then the Big Bad Abkluth huffed and puffed and…” a messy cacophony of noises follows as the children loudly thrill in the destruction of another piggy fortress.<br/>
+    <br/>
+    A smile wrinkles the messenger’s face for a moment, then he walks to the front. And bends to whisper in your ears.<br/>
+    <br/>
+    You forget the words immediately, but the sentiment stays. Tears run down your twisted face, across the twitching Voice-swollen flesh that binds you in place. The children gasp, fall silent and still.<br/>
+    <br/>
+    A tubby child looks up belatedly from his bowl, frowning, confused. Leans into his friend’s ear, smearing them both with rice-porridge. And hoarsely whispers: “Did the piggies win?”<br/>
+    <br/>
+    And you burst into happy laughter. “No, little one! We did!”<br/>
+    <br/>
+    Behind your shoulder, something approaches, and a voice whispers, “We all win.”
+UK: Ти розповідаєш казку, коли з’являється гонець, обережно обходячи захоплено слухаючих малюків і їхні розкидані іграшки. «І тоді великий і страшний сірий Абклют як набере повітря, та як...» Далі лунає какофонія шуму, коли діти гучно реагують на руйнування чергового замку поросят.<br/>
+    <br/>
+    На обличчі гонця з’являється усмішка. Він підходить ближче й нахиляється, щоб щось прошепотіти тобі на вухо.<br/>
+    <br/>
+    Ти миттєво забуваєш його слова, але почуття, які вони принесли, залишаються. Сльози течуть по твоєму спотвореному обличчю, по тремтячій, зміненій Голосом плоті, яка приковує тебе на місці. Діти ахкають, замовкають і завмирають.<br/>
+    <br/>
+    Пухкий малюк із запізненням підводить погляд від своєї тарілки, збентежено насупившись. Він нахиляється до іншого малюка, вимазуючи обох рисовою кашею. І гучно шепоче: «Поросята перемогли?»<br/>
+    <br/>
+    Ти вибухаєш радісним сміхом. «Ні, сонечко! Ми перемогли!»<br/>
+    <br/>
+    За спиною ти відчуваєш чиєсь наближення, і шепіт відгукується: «Ми всі перемогли».
+
+## Factions.xml|UntoldProphet
+EN: Untold Prophet
+UK: Непроголошений Пророк
+
+## Factions.xml|UntoldProphetFlavor
+EN: The Untold Prophet first appeared to their followers as their bunker fell. Lit by the oscillating red glow of emergency beacons, words drowned by wailing klaxons, the child calmly beckoned for everyone to follow. While no one could recall this young stranger, all felt compelled by their presence.<br/>
+    <br/>
+    For twenty-two days and twenty-two nights, the Prophet led them across the wasteland. The journey was a trial. Those that fled soon perished. Those that stayed, witnessed miracles everywhere the Prophet went. Supply caches refilled overnight, bandits wept and converted, and horrific beasts were gentled by the Prophet’s mere presence.<br/>
+    <br/>
+    At the end of the twenty-second night, the Prophet stopped, looked around, then sat down. There they stayed, leading meditations and giving sermons, and their followers built a camp around them. More and more people came, attracted by rumors of the wise child, and the camp grew into a town, then a city, as their number swelled with new faithful.<br/>
+    <br/>
+    If any notice the Prophet’s lack of aging or the odd way they tilt their head, as if listening to something only they can hear, none dare mention it. For despite their serenity, the child’s armies are fanatical—and storm across the distant pastures in the name of their Prophet.
+UK: Непроголошений Пророк уперше з’явився своїм послідовникам, коли впав їхній бункер. Дитя, що постало в червоному сяйві аварійної сигналізації, серед оглушливого виття сирен, спокійно поманило всіх за собою. Ніхто його не впізнав, але всіх вразило й підкорило його велич.<br/>
+    <br/>
+    Двадцять два дні й двадцять дві ночі Пророк вів їх крізь пустку. Дорога була випробуванням. Ті, хто пішов, зустріли швидку смерть. Ті, що лишилися, споглядали неймовірні дива, куди б не йшов Пророк. Порожні ящики з припасами відновлювалися вранці, бандити ридали й наверталися в його віру, а жахливі створіння в присутності Пророка ставали слухнянішими за ягнят.<br/>
+    <br/>
+    Наприкінці двадцять другої ночі дитя завмерло, озирнулося, а тоді сіло на землю. Там воно й залишилося, медитуючи й читаючи проповіді, а його послідовники оточили його табором. Люди все прибували, приваблені чутками про мудре дитя, і табір новонавернених ріс, поки не став містом.<br/>
+    <br/>
+    Якщо хтось і помітив, що Пророк не старіє або як дивно він повертає голову, ніби прислухаючись до чогось, чути що лише йому, то не насмілився виказати це. Адже, попри безтурботність самого дитяти, його армії фанатичні — і штурмують далекі пасовища в ім’я свого Пророка.
+
+## Factions.xml|UntoldProphetFoundationsFlavor
+EN: On the blasted heath, they raise a shining white shrine to your glory. To, you mean, to the Great Speaker’s glory. A home for all the Earth’s lost peoples. Well, those who can believe.<br/>
+    <br/>
+    The old words—crusade, jihad—are too laden with history. Let us say, then, that you have a quest—to restore faith to this ruined world. And to wipe those from it who won’t listen. For the good of all.<br/>
+    <br/>
+    Man, machine or alien. Those who stand against the Great Speaker, will bow. One way or another.
+UK: Серед проклятої пустки зводять сяйливий білий вівтар на твою честь. Тобто, звісно ж, на честь Великого Вісника. Цей дім прихистить усіх загублених ягнят Землі. Принаймні тих, хто увірує.<br/>
+    <br/>
+    Старі слова — священний похід, джихад — надто обтяжені історією. Краще просто сказати, що в тебе є прагнення — повернути віру в цей зруйнований світ. І стерти з його обличчя тих, хто не слухає. Заради спільного блага.<br/>
+    <br/>
+    Люди, машини, прибульці. Перед Великим Вісником усі впадуть ниць. Живими чи мертвими — байдуже.
+
+## Factions.xml|UntoldProphetFoundationsWithMutatorFlavor
+EN: Surely that was a dream. That can’t have been the end of all your striving? Perhaps if you do it again, this time, with more fervency, more faith… you won’t suffer that humiliation of the Deep…<br/>
+    <br/>
+    <string name='Factions/UntoldProphetFoundationsFlavor'/>
+UK: Це був лише сон, правда? Не може ж твої страждання закінчитися саме так? Хто знає, якщо ти повториш усе те саме, але цього разу з більшим завзяттям, із більшою вірою, то... уникнеш приниження Глибини...<br/>
+    <br/>
+    <string name='Factions/UntoldProphetFoundationsFlavor'/>
+
+## Factions.xml|UntoldProphetLostFlavor
+EN: Your great hall lies empty. Only you and one follower—a humble priest—linger. The sound of distant artillery has grown silent.<br/>
+    <br/>
+    “Great one,” the priest says. “I wish to confess my heresy.”<br/>
+    <br/>
+    You tilt your head towards him. He can't hear what you hear. Dark whispers describe how death will soon visit this hall. “I never believed in the Great Speaker. I lied for all these years.”<br/>
+    <br/>
+    “It's my fault,” he whispers. “My heresy brought us to defeat.”<br/>
+    <br/>
+    He wails. You descend from the throne, a ceremonial knife hidden behind your back. You tilt the priest's head up and gaze into his eyes. “Please,” he says. “I beg your forgiveness.”<br/>
+    <br/>
+    Then he sees the blade. His eyes widen. You slit his throat. Forgiveness has been granted.<br/>
+    <br/>
+    When enemy troops burst into the hall, they find only the priest's body. The Great Speaker has already taken you to the next life.
+UK: Твій великий зал порожній. Лишилися тільки ти та один послідовник — скромний жрець. Звуки далекої артилерії стихли.<br/>
+    <br/>
+    «О, велике дитя», — звертається до тебе жрець. — «Я бажаю зізнатися в єресі».<br/>
+    <br/>
+    Ти повертаєш до нього голову. Він не чує того, що чуєш ти. Похмурий шепіт розповідає, що скоро смерть відвідає цю залу. «Я ніколи не вірив у Великого Вісника. Усі ці роки я прикидався».<br/>
+    <br/>
+    «Це все моя провина», — ледве чутно продовжує він. — «Моя єресь привела нас до поразки».<br/>
+    <br/>
+    Він починає ридати. Ти спускаєшся до трону, ховаючи за спиною церемоніальний ніж. Ти підіймаєш голову жерця вище й дивишся просто в очі. «Прошу, благаю, даруйте мені прощення».<br/>
+    <br/>
+    Потім він помічає лезо. Його очі розширюються. Ти перерізаєш йому горло. Прощення даровано.<br/>
+    <br/>
+    Коли ворожі війська вриваються в залу, вони знаходять тільки тіло жерця. Великий Вісник вже возніс тебе до наступного життя.
+
+## Factions.xml|UntoldProphetProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Voice Affinity:<style name='Default'/> The Great Speaker needed the Voice of a child to spread its wisdom to the world. Start with %1% and gain earlier and cheaper access to Voice technologies, including exclusive access to the highest tier of Voice research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Cult Expansion:<style name='Default'/> The Prophet's followers spread his Word across the land. Benefit from a reduced loyalty penalty for each city.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Words of the Prophet:<style name='Default'/> All may be forgiven by the Prophet's touch. Spend influence to convert an enemy unit.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Cost of Conviction:<style name='Default'/> The cult must never be allowed to waver. Population also has influence upkeep.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Armor of Faith (Elite):<style name='Default'/> The Untold Prophet's will is so strong, it can reshape reality itself to protect his most loyal followers. Make a unit temporarily invulnerable.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до Голосу:<style name='Default'/> Щоб нести світло мудрості світові, Великому Віснику був потрібен Голос дитини. Від самого початку є %1%, раніше отримує доступ до технологій Голосу.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Експансія культу:<style name='Default'/> Послідовники Пророка несуть його Слово по всій землі. Знижено штраф до лояльності за кожне місто.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Слова Пророка:<style name='Default'/> Дотик Пророка будь-кому дарує прощення. Витратьте вплив, щоб навернути юніт ворога.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Ціна переконання:<style name='Default'/> Культу не дозволено похитнутися. Населення Непроголошеного Пророка також вимагає витрати впливу на утримання.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Обладунок віри (Еліта):<style name='Default'/> Воля Непроголошеного Пророка така сильна, що здатна змінювати саму реальність заради захисту його найвірніших послідовників. Тимчасово надає юніту невразливість.
+
+## Factions.xml|UntoldProphetQuote
+EN: <style name='Italic'/>“I may be young, but I am without prejudice or preconception. It is my bendición that I see the choices you lost long ago.”<style name='Default'/>
+UK: <style name='Italic'/>«Можливо, мене не назвеш дорослим, але мені не властиві упередження та забобони. Мій дар — бачити варіанти вибору, яких у тебе давно немає»<style name='Default'/>
+
+## Factions.xml|UntoldProphetWonFlavor
+EN: The Great Speaker told you this day would come. Victory has finally arrived.<br/>
+    <br/>
+    There is cheering in the street as your priests ride out to share the news. The faith of your people grows stronger than ever, and you feel the power of that faith wash over you like a warm cloud.<br/>
+    <br/>
+    There's a noise—The Great Speaker's whispers. It must be pleased with your success. But the whispers grow louder, and louder, and you realize something isn't right, The Speaker is calling you, The Speaker.<br/>
+    <br/>
+    The Speaker isn't done with you.
+UK: Цей день настав, як і казав тобі Великий Вісник. Перемога, довгоочікувана перемога.<br/>
+    <br/>
+    Твої жерці виїжджають, щоб сповістити новину, і натовпи зустрічають її з ликованням. Віра твоїх людей сильна як ніколи, і ти відчуваєш, як сила цієї віри омиває тебе, наче тепла хмаринка.<br/>
+    <br/>
+    Чути звук... Це шепіт Великого Вісника. Мабуть, він радий твоєму успіху. Але шепіт стає дедалі голоснішим і голоснішим, і ти розумієш, що щось не так, Вісник кличе тебе, Вісник...<br/>
+    <br/>
+    Вісник із тобою ще не закінчив.
+
+## Factions.xml|Zephon
+EN: ZEPHON
+UK: ЗЕФОН
+
+## Factions.xml|ZephonFlavor
+EN: ZEPHON is [your ally, your enemy]. ZEPHON is [ignorant, omniscient]. ZEPHON is [one, many], ZEPHON is [perfect, abomination]. ZEPHON is [blessed, cursed]. ZEPHON is [zen, hop]. ZEPHON is [coming, going]. ZEPHON is [transcendent, grounded]. ZEPHON is [thoughtware, meatware]. ZEPHON is [ZEPHON is [ZEPHON is [ZEPHON is-]]]. ZEPHON is [inside your systems].
+UK: ЗЕФОН є [союзник, ворог]. ЗЕФОН є [необізнаний, всезнаючий]. ЗЕФОН є [один, багато], ЗЕФОН є [надзвичайний, потворний]. ЗЕФОН є [добрий, проклятий]. ЗЕФОН є [безтурботність, стрибок]. ЗЕФОН є [майбутній, минулий]. ЗЕФОН є [вознесений, приземлений]. ЗЕФОН є [розумовий, м’язовий]. ЗЕФОН є [ЗЕФОН є [ЗЕФОН є [ЗЕФОН є...]]]. ЗЕФОН є [усередині твоїх систем].
+
+## Factions.xml|ZephonProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Native:<style name='Default'/> ZEPHON's machines linger on the battlefield, a part of an unknown plan that may end life as we know it. They already inhabit the world and are always at war with other natives.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Interminable:<style name='Default'/> There are no boundaries to ZEPHON's cities and they expand quickly across the map. It has an infinite city radius with fast city expansion.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Defense Grid:<style name='Default'/> To approach ZEPHON's territory is to court death. Its high-powered energy weapon attacks units close to its cities.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Eye of Zephon:<style name='Default'/> Escaping the view of an omnipresent machine is frankly impossible. ZEPHON frequently views areas obscured by the fog of war.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Direct Control:<style name='Default'/> ZEPHON can direct a fragment of its intelligence to possess and empower a single machine. The targeted unit deals increased damage, regenerates health, and suffers less damage for a short time.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Місцеві мешканці:<style name='Default'/> Машини ЗЕФОНА розкидані по полю бою, виконуючи план, який, можливо, покладе край усьому звичному життю. Машини вже населяють цей світ і завжди воюють з іншими місцевими мешканцями.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Неосяжний:<style name='Default'/> Міста ЗЕФОНА не мають кордонів і швидко розповзаються всією картою. Міста мають необмежену дальність і високу швидкість розширення.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Захисна мережа:<style name='Default'/> Наблизитися до території ЗЕФОНА — означає підписати собі вирок. Він атакує високопотужною енергетичною зброєю юніти, які наблизилися до його міст.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Око ЗЕФОНА:<style name='Default'/> Від всюдисущої машини неможливо сховатися. ЗЕФОН часто переглядає території, приховані туманом війни.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Пряме керування:<style name='Default'/> ЗЕФОН може спрямувати частину своєї обчислювальної потужності на пряме керування окремою машиною. Зазначений юніт протягом певного часу завдає підвищеної шкоди, відновлює життя та отримує менше шкоди.
+
+## Factions.xml|ZephonQuote
+EN: <style name='Italic'/>“Communication channel established to ZEPHON-3. How may I help you?”<style name='Default'/>
+UK: <style name='Italic'/>«ЗЕФОН-3 встановлює канал зв’язку. Чим я можу тобі допомогти?»<style name='Default'/>
+
+## Features.xml|AbkhanDrey
+EN: Abkhan Drey
+UK: Абханське лігво
+
+## Features.xml|AcrinCrashSite
+EN: Acrin Crash Site
+UK: Акринська аварія
+
+## Features.xml|AdvancedCyberCache
+EN: Advanced Cyber Cache
+UK: Просунутий схрон кіберів
+
+## Features.xml|AdvancedCyberCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random advanced Cyber reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову просунуту нагороду кіберів
+
+## Features.xml|AdvancedHumanCache
+EN: Advanced Human Cache
+UK: Просунутий схрон людей
+
+## Features.xml|AdvancedHumanCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random advanced Human reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову просунуту нагороду людей
+
+## Features.xml|AdvancedVoiceCache
+EN: Advanced Voice Cache
+UK: Просунутий схрон Голосу
+
+## Features.xml|AdvancedVoiceCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random advanced Voice reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову просунуту нагороду Голосу
+
+## Features.xml|ArcDischarge
+EN: Arc Discharge
+UK: Дуговий розряд
+
+## Features.xml|Arctic
+EN: Arctic
+UK: Арктика
+
+## Features.xml|ArenaCyber
+EN: Arena (Cyber)
+UK: Арена (Кібери)
+
+## Features.xml|ArenaHuman
+EN: Arena (Human)
+UK: Арена (Люди)
+
+## Features.xml|ArenaVoice
+EN: Arena (Voice)
+UK: Арена (Голос)
+
+## Features.xml|AtmosphericAnchor
+EN: Atmospheric Anchor
+UK: Атмосферний якір
+
+## Features.xml|Bleed
+EN: Bleed
+UK: Кровотеча
+
+## Features.xml|Brush
+EN: Brush
+UK: Чагарник
+
+## Features.xml|Cicadas
+EN: Cicadas
+UK: Цикади
+
+## Features.xml|City
+EN: City
+UK: Місто
+
+## Features.xml|Construct
+EN: Construct
+UK: Схеми
+
+## Features.xml|CortexNode
+EN: Cortex Node
+UK: Кортексний вузол
+
+## Features.xml|CrystalBasin
+EN: Crystal Basin
+UK: Роща кристалів
+
+## Features.xml|CyberCache
+EN: Cyber Cache
+UK: Схрон кіберів
+
+## Features.xml|CyberCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random Cyber reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову нагороду кіберів
+
+## Features.xml|Desert
+EN: Desert
+UK: Пустеля
+
+## Features.xml|DustStorm
+EN: Sandstorm
+UK: Піщана буря
+
+## Features.xml|ErebusExcavator
+EN: Erebus Excavator
+UK: Екскаватор «Ереб»
+
+## Features.xml|ErebusExcavatorProperties
+EN: <icon texture='GUI/Bullet'/>5% chance to give random item reward
+UK: <icon texture='GUI/Bullet'/>Шанс 5% на випадкову нагороду
+
+## Features.xml|Fire
+EN: Fire
+UK: Вогонь
+
+## Features.xml|FiveSoldiers1
+EN: One Entity Needed
+UK: Потрібна одна сутність
+
+## Features.xml|FiveSoldiers3
+EN: Three Entities Needed
+UK: Потрібні три сутності
+
+## Features.xml|FiveSoldiers6
+EN: Six Entities Needed
+UK: Потрібні шість сутностей
+
+## Features.xml|FleshTree
+EN: Flesh Tree
+UK: М’ясисте дерево
+
+## Features.xml|Forest
+EN: Forest
+UK: Ліс
+
+## Features.xml|FragmentOfTheFulcrum
+EN: Fragment of the Fulcrum
+UK: Уламок Твердині
+
+## Features.xml|FragmentOfTheFulcrumResource
+EN: Veins of the Fulcrum
+UK: Жили Твердині
+
+## Features.xml|GravityField
+EN: Gravity Field
+UK: Гравіполе
+
+## Features.xml|HumanCache
+EN: Human Cache
+UK: Схрон людей
+
+## Features.xml|HumanCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random Human reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову нагороду людей
+
+## Features.xml|HydroponicFarm
+EN: Hydroponic Farm
+UK: Гідропонна ферма
+
+## Features.xml|IkonOfVorodai
+EN: Ikon of Vorodai
+UK: Ікона Вородая
+
+## Features.xml|IkonOfVorodaiProperties
+EN: <icon texture='GUI/Bullet'/>Applies <icon texture='Icons/Features/IkonOfVorodai' height='20'/><nbsp/><string name='Traits/IkonOfVorodaiUnit'/> to enemy units within 3 tiles
+UK: <icon texture='GUI/Bullet'/>Накладає <icon texture='Icons/Features/IkonOfVorodai' height='20'/><nbsp/><string name='Traits/IkonOfVorodaiUnit'/> на ворожих юнітів у межах 3 клітинок
+
+## Features.xml|MicrochipFabricator
+EN: Microchip Fabricator
+UK: Фабрикатор мікрочіпів
+
+## Features.xml|Mines
+EN: Mines
+UK: Міни
+
+## Features.xml|NuclearFallout
+EN: Nuclear Fallout
+UK: Радіоактивні опади
+
+## Features.xml|Outpost
+EN: Outpost
+UK: Застава
+
+## Features.xml|PhaseGenerator
+EN: Phase Generator
+UK: Фазовий генератор
+
+## Features.xml|ReaverDepot
+EN: Reaver Depot
+UK: Гараж Спустошувачів
+
+## Features.xml|ReaverDepotProperties
+EN: <icon texture='GUI/Bullet'/>Spawns Reavers or Busters every 20 turns
+UK: <icon texture='GUI/Bullet'/>Кожні 20 ходів породжує Спустошувачів або підривників
+
+## Features.xml|RecyclingTanks
+EN: Recycling Tanks
+UK: Чани переробки
+
+## Features.xml|River
+EN: River
+UK: Ріка
+
+## Features.xml|Road
+EN: Road
+UK: Дорога
+
+## Features.xml|Rocks
+EN: Rocks
+UK: Каміння
+
+## Features.xml|Ruins
+EN: Ruins
+UK: Руїни
+
+## Features.xml|Sandpit
+EN: Sandpit
+UK: Гурмани піщаних кар’єрів
+
+## Features.xml|ServerFarm
+EN: Server Farm
+UK: Серверна ферма
+
+## Features.xml|SmokeScreen
+EN: Smoke Screen
+UK: Димова завіса
+
+## Features.xml|SurvivorsBazaar
+EN: Survivor's Bazaar
+UK: Ярмарок виживших
+
+## Features.xml|Swamp
+EN: Swamp
+UK: Болото
+
+## Features.xml|TempleOfCrla
+EN: Temple of Cr'la
+UK: Капище Кр’ла
+
+## Features.xml|VoiceCache
+EN: Voice Cache
+UK: Схрон Голосу
+
+## Features.xml|VoiceCacheProperties
+EN: <icon texture='GUI/Bullet'/>Gives random Voice reward
+UK: <icon texture='GUI/Bullet'/>Дає випадкову нагороду Голосу
+
+## Features.xml|Volcanic
+EN: Volcanic
+UK: Вулкан
+
+## Features.xml|Volcano
+EN: Volcano
+UK: Виверження
+
+## Features.xml|Wasteland
+EN: Wasteland
+UK: Пустка
+
+## Features.xml|Water
+EN: Water
+UK: Вода
+
+## Features.xml|Watchtower
+EN: Watchtower
+UK: Вежа
+
+## Features.xml|WhisperingWights
+EN: Whispering Wights
+UK: Шепотіння тіней
+
+## Features.xml|AbkhanDreyFlavor
+EN: Abkhan built their nests with the sharpened trunks of pine trees. We asked Acrin hunters how we could flush them out and learned on their world the Acrin would slowly advance into a nest using pikes. Hunts could last for days at a time. We didn't have time for that shit. Cannon fire would work much faster.
+UK: Абхани будують свої гнізда з загострених соснових стовбурів. Ми запитали акринських мисливців, як витягти чудовисько, і дізналися, що на своїй планеті акрини повільно просуваються всередину гнізда, озброївшись списами. Полювання може тривати кілька днів. На таку маячню часу у нас не було. Пушки роблять свою справу набагато швидше.
+
+## Features.xml|AcrinCrashSiteFlavor
+EN: Every time you thought the last Acrin ship had crashed from orbit, another would light up the sky as it burned up in atmo. The Acrin looted them to reclaim pieces of their homeworld. The humans raided them to steal the technology. And ZEPHON… well, I still don't know what ZEPHON wanted. I just know we had to fight it for our share.
+UK: Тільки-но ти думав, що з орбіти впав останній акринський корабель, як нова спалах з’являлася в небі, згораючи в атмосфері. Акрини захоплювали їх, щоб повернути частини свого рідного світу. Люди здійснювали на них рейди, щоб вкрасти технології. А ЗЕФОН... навіть не знаю, чого там хотів ЗЕФОН. Знаю лише, що нам довелося битися, щоб урвати своє.
+
+## Features.xml|AdvancedCyberCacheFlavor
+EN: For a short time some of my lieutenants tried to work out the point of these cache drops. If they gave us resources, it must have been to maximize a specific form of production. If we found units, we assumed we should build strategies around them. I told them to snap out of it. We'd have better luck drawing from a tarot deck.
+UK: Мої помічники деякий час намагалися зрозуміти призначення цих подачок. Якщо нам давали ресурси, то, ймовірно, сподівалися на максимізацію того чи іншого виробництва. Якщо ми знаходили бойові одиниці, то повинні були оптимізувати стратегії їх застосування. Я сказав їм кинути ці спроби. Навіть гадання на картах надійніше.
+
+## Features.xml|AdvancedHumanCacheFlavor
+EN: It was grim, finding precious treasure troves like these. Sure, we'd pick up some much-needed resources or find welcome reinforcements—but there were always questions about how something so valuable was left out in the open. Who would abandon such vital goods? And if something killed them… was it still out there?
+UK: Було тривожно натикатися на такі скарби. Звичайно, ми отримували потрібні ресурси або підкріплення, але завжди замислювалися — як щось настільки цінне взагалі залишили на волю випадку? Хто б залишив такі важливі речі? І якщо щось їх убило... можливо, воно досі десь поруч?
+
+## Features.xml|AdvancedVoiceCacheFlavor
+EN: High-value Acrin caches literally fell from the sky. In the aftermath of the destruction of their fleet, we watched debris descend from orbit on a daily basis—sometimes dropping supplies or survivors right on our border. Finding these caches should have been a relief, but it was just a reminder about the great metal graveyard swooping above our heads, raining down debris that might kill us all.
+UK: Дорогоцінні скарби акринів буквально сипалися з неба. Після знищення їхнього флоту ми щодня спостерігали падаючі з орбіти уламки — інколи припаси або вцілілі опинялися прямо на наших кордонах. Ці знахідки мали давати полегшення, але лише нагадували, що над нашими головами кружляє колосальне сміттєзвалище, здатне вбити нас градом уламків.
+
+## Features.xml|ArcDischargeFlavor
+EN: Do you know what this was? ZEPHON’s wiring ran under everything, everywhere—miles and miles of raw copper. These arcs were a fraction, of a fraction, of a fraction of ZEPHON's power lashing out at you. You could take advantage of that power if you wanted—but your enemies could too.
+UK: Знаєш, що це таке? ЗЕФОН всюди протягнув свої дроти, під будь-якою поверхнею — кілометри і кілометри мідного дроту. Ці дуги демонстрували лише крихту всієї сили ЗЕФОНа. Звичайно, ти міг спробувати використати цю потужність для своїх цілей — але і вороги теж могли.
+
+## Features.xml|ArcticFlavor
+EN: The frigid wastes of old Earth were now home to snow-white Abkluth that hyperevolved to hunt in a new environment. We still struck out here for one vital reason: this terrain gave our techs an optimal environment to do their research. Low humidity and temperatures combined with clear sightlines made weapons testing far more efficient, they said. Maybe they just preferred the cold.
+UK: Крижанні простори старої Землі стали домом для білосніжних абклютів, миттєво пристосованих до полювання в новому середовищі. Ми перебували тут з однієї важливої причини: така місцевість забезпечувала наших технарів оптимальними умовами для досліджень. За їхніми словами, поєднання низької вологості, температури і чудової видимості значно підвищувало ефективність випробувань зброї. А може, їм просто подобалося мерзнути.
+
+## Features.xml|AtmosphericAnchorFlavor
+EN: More Watchmaker tech. They insisted they made these to harvest power in regions where warm air smashed into cold air. But I think they didn't know their own people. Someone in their ranks knew it could be a weapon… and that someone kept their mouth shut instead of speaking up.
+UK: Знову технології Годинників. Вони наполягали, що створили якорі лише для добування енергії в регіонах, де тепле повітря стикалося з холодним. Але я думаю, що вони погано знали своїх людей. Хтось у їхніх рядах розумів, що якорі можна використовувати як зброю... і цей хтось вирішив про це промовчати.
+
+## Features.xml|BleedFlavor
+EN: The Voice's tendrils bled out from one reality and into our own, prying open a door to madness. These should not have plagued our earth. Their sickly, slimy extremities reached out in search of flesh—or metal—to ensnare. I can't even escape the sight of them in my sleep. Some nights—often on a full moon—I wake, sweating, still feeling the phantom pull of them dragging me to the earth. I assumed this was all in my head, but I've heard the whispers in the mess hall. Others dream of being crushed too.
+UK: Щупальця Голосу прорвалися зі своєї реальності в нашу, відкривши двері божевіллю. Вони не мали потрапляти на нашу планету. Мерзенні слизькі відростки вириваються назовні, намагаючись схопити будь-що, будь то плоть чи метал. Навіть уві сні я не можу їх забути. Іноді — частіше за все в повню — я прокидаюся вночі в поту, все ще відчуваючи їхнє дотикання, що тягне мене під землю. Я вважав, що проблема у мене в голові. Але чув, як люди шепотіли в їдальні. Іншим теж сниться ця хватка.
+
+## Features.xml|BrushFlavor
+EN: You'd find small creatures feeding on plants out in the grasslands, bigger mammals feeding on the creatures, and so on, and so on. If we had more time, we could have worked to carefully place ourselves in that cycle. Instead, we disrupted it, forced ourselves into it. An army marches on its stomach, and we had bellies to fill.
+UK: На лузі повно дрібних тварин, що харчуються рослинами, більших хижаків, що полюють на цих тварин, і так далі. Якби в нас був час, ми б акуратніше вписалися в цей цикл. Але нам довелося порушити його, захопити. На голодний шлунок не повоюєш. Нам потрібно було чимось набивати животи.
+
+## Features.xml|CicadasFlavor
+EN: Look, I don't make the rules. Bugs were rich in protein and easy to cook into larger meals. Some of our people had lived in pre-war countries where cicadas were regularly on the menu. Catching them kept our people's bellies fed, and anyone who complained—well, they had two choices: starve, or swallow their pride.
+UK: Слухай, не я встановлюю правила. Комахи поживні, у них повно білка. Дехто з нас до війни жив у країнах, де цикад постійно вживали в їжу. Ми ловили їх, це допомагало з провізією, а у незадоволених завжди був вибір — або голодувати, або ковтнути свою гордість.
+
+## Features.xml|CityFlavor
+EN: Urban warfare is brutal. Every piece of cover that protects your troops feels like it gives double the shielding to your enemy. I preferred defending cities under siege than street-to-street fighting. In a siege, you felt solidarity with civilians and other soldiers. In the streets, you could only trust your squad. Anyone else might sell you out.
+UK: Бої у міському середовищі безжальні. Будь-яке, навіть маленьке укриття наших військ виглядає вдвічі кориснішим для захисту ворога. Я віддавав перевагу обороні обложених міст, а не участі у вуличних сутичках. В облозі відчуваєш єдність з мешканцями та іншими солдатами. На вулицях довіряти можна лише своєму загону. Будь-який сторонній може здати тебе з потрохами.
+
+## Features.xml|ConstructFlavor
+EN: ZEPHON must have needed an inconceivable amount of power to wage its war against the Acrin. The techs guessed that if fossil fuels or renewables were being quickly taken offline, it would react by building zones like these to generate a new, power-efficient resource. If you got far enough into one of these zones, you'd start to think the planet was now one giant machine.
+UK: Щоб воювати з акринами, ЗЕФОНу, мабуть, знадобилася неймовірна кількість енергії. Технарі правильно припустили, що якщо позбавити його доступу до копалин або відновлюваних джерел, він почне будувати подібні схеми для виробництва нового, енергоефективного ресурсу. Довго йдучи через такий комплекс, здавалося, що вся планета перетворилася на колосальну машину.
+
+## Features.xml|CrystalBasinFlavor
+EN: Mineral-rich mining hubs didn't just make for good resource hubs, they also provided plenty of cover. We learned to build fortresses in regions like these and use them to harden our borders. Sure, they became high-value targets when our enemies wanted to hit our supply lines—but to lay the best traps, you need the best bait.
+UK: Багаті на мінерали ділянки слугували не лише джерелом ресурсів, але й гарним укриттям. Ми навчились будувати там укріплення для захисту рубежів. Звичайно, вони ставали ласою ціллю, коли ворог намагався перекрити наше постачання. Але для найкращих пасток потрібна найкраща приманка.
+

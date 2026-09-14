@@ -1,0 +1,162 @@
+[
+ {
+  "id": "Cities.xml|HeartlessArtificer31",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Missing letter: Shetaut is Шетаут.",
+  "find": "Шетут",
+  "replace": "Шетаут"
+ },
+ {
+  "id": "Cities.xml|HonorableAristocrat10",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Extra й at the end: Trösti is Трьості.",
+  "find": "Трьостій",
+  "replace": "Трьості"
+ },
+ {
+  "id": "Cities.xml|HonorableAristocrat13",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Missing н from -nüsse: Allentnüsse is Аллентнюссе.",
+  "find": "Аллентюссе",
+  "replace": "Аллентнюссе"
+ },
+ {
+  "id": "Cities.xml|PlatinumScion28",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "Utopia Park gets an unrelated name while its literal rendering Утопія-Парк sits on PlatinumScion17 (Sunny Bench), so the two look misassigned; change together with PlatinumScion17 to avoid a duplicate.",
+  "find": "Пагорби Інвестицій",
+  "replace": "Утопія-Парк"
+ },
+ {
+  "id": "Cities.xml|PlatinumScion17",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "Sunny Bench carries Утопія-Парк, the literal name of PlatinumScion28 (Utopia Park); rename it so 28 can take Утопія-Парк without a duplicate.",
+  "find": "Утопія-Парк",
+  "replace": "Сонячна Лавка"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic2",
+  "sev": "med",
+  "cat": "typo",
+  "note": "French dj in Algerian names is дж, as in Джанет in this batch; Méridja is Мериджа.",
+  "find": "Мерид’я",
+  "replace": "Мериджа"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic3",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Wrong final vowel: Sidi is Сіді.",
+  "find": "Сіди",
+  "replace": "Сіді"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic5",
+  "sev": "med",
+  "cat": "typo",
+  "note": "The final French e is silent (compare Заутин); the standard form is Релізан.",
+  "find": "Релізане",
+  "replace": "Релізан"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic20",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Garbled spelling with йї and йі; Aïn Beïda is Айн-Бейда.",
+  "find": "Айїн-Бейіда",
+  "replace": "Айн-Бейда"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic21",
+  "sev": "med",
+  "cat": "typo",
+  "note": "French ou is у, as in Тиндуф and Суарех; Timimoun is Тимімун.",
+  "find": "Тимімоун",
+  "replace": "Тимімун"
+ },
+ {
+  "id": "Cities.xml|PracticalRomantic22",
+  "sev": "med",
+  "cat": "typo",
+  "note": "In Salah is Ін-Салах; Ін-Шалах misspells the name and reads as 'inshallah'.",
+  "find": "Шалах",
+  "replace": "Салах"
+ },
+ {
+  "id": "Cities.xml|RogueOperative1",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Pinyin zhong is чжун (compare Дунпін, Жунчен); Zhongguancun is Чжунгуаньцунь.",
+  "find": "Чжонгуаньцунь",
+  "replace": "Чжунгуаньцунь"
+ },
+ {
+  "id": "Cities.xml|RogueOperative3",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "Russian-style и; Ukrainian transcription gives jing as цзін, as in Цзінань.",
+  "find": "Цюйцзин",
+  "replace": "Цюйцзін"
+ },
+ {
+  "id": "Cities.xml|RogueOperative6",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Extra ь: zheng is чжен (compare Ченду); Zhengzhou is Чженчжоу.",
+  "find": "Чженьчжоу",
+  "replace": "Чженчжоу"
+ },
+ {
+  "id": "Cities.xml|RogueOperative7",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Lu'an is Лу-ань; лю would stand for liu.",
+  "find": "Лю",
+  "replace": "Лу"
+ },
+ {
+  "id": "Cities.xml|RogueOperative13",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Extra ь: zeng is цзен.",
+  "find": "Цзень",
+  "replace": "Цзен"
+ },
+ {
+  "id": "Cities.xml|RogueOperative15",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "Russian-style и; Ukrainian transcription gives ding as дін.",
+  "find": "Хайдин",
+  "replace": "Хайдін"
+ },
+ {
+  "id": "Cities.xml|RogueOperative20",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Extra ь: cheng is чен, as in Ченду.",
+  "find": "Жунчень",
+  "replace": "Жунчен"
+ },
+ {
+  "id": "Cities.xml|RogueOperative23",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Missing нь: Gànshān is Ганьшань.",
+  "find": "Гашань",
+  "replace": "Ганьшань"
+ },
+ {
+  "id": "Cities.xml|RogueOperative24",
+  "sev": "med",
+  "cat": "typo",
+  "note": "shi is ши in Ukrainian transcription, as in Шилін; Sìshǐ is Сиши.",
+  "find": "Сиші",
+  "replace": "Сиши"
+ }
+]

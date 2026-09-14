@@ -1,0 +1,482 @@
+# B46: 56 entries from Quests.xml
+
+## Quests.xml|TheMartialEthic
+EN: The Martial Ethic
+UK: Військова етика
+
+## Quests.xml|TheMartialEthic/Intro
+EN: Another kind of war has been brewing right under your nose.<br/>
+    <br/>
+    Your best fighters keep returning to camp bruised and bloodied at best, at worst at the brink of death. When one comes back in a body bag, you interrogate the survivors to pry out their secret.<br/>
+    <br/>
+    The answer: a brutal cage match. A cultist called Karro has organized a bloody tournament in honor of its patron “saint” Surthodai. The prize? A one-of-a-kind device called “the Quakecaller.”<br/>
+    <br/>
+    <string name='Quests/TheMartialEthic/Intro2'/><br/>
+    <br/>
+    This device could be key to winning the war. Should you send in a true champion—one who could win the whole thing?
+UK: Прямо у тебе під носом йшла війна іншого роду.<br/>
+    <br/>
+    Твої найкращі бійці постійно повертаються до табору побитими і окривавленими, а в гіршому випадку — ледь живими. Коли одного присилають назад у мішку, ти допитуєш тих, хто вижив, щоб дізнатися їхню таємницю.<br/>
+    <br/>
+    Відповідь така: небезпечні бої в клітці. Якийсь культист, якого всі називають Карро, організував кривавий турнір на честь свого «святого» покровителя, Суртодая. Приз? Єдиний у своєму роді пристрій під назвою Тремтун.<br/>
+    <br/>
+    <string name='Quests/TheMartialEthic/Intro2'/><br/>
+    <br/>
+    Цей пристрій може бути ключем до перемоги у війні. Може, варто відправити справжнього чемпіона, на якого чекає тріумф?
+
+## Quests.xml|TheMartialEthic/Intro2
+EN: Your blood chills when you hear the details. The Quakecaller smashes fault lines under the earth to make minor earthquakes. A weapon that could tip the fate of the war in your favor. How did Karro get their hands on one? These troops weren't reckless gloryseekers—they were fighting for you the whole time.
+UK: У тебе кров стигне в жилах, коли ти дізнаєшся подробиці. Тремтун штовхає підземні геологічні розломи, викликаючи невеликі землетруси. Така зброя може змінити хід війни на твою користь. Як цьому Карро вдалося його заполучити?.. Ці солдати не просто шукали слави — вони весь цей час билися заради тебе.
+
+## Quests.xml|TheMartialEthic/Intro/MakeItTrulyEpic
+EN: <style name='Bold'/>Make it truly epic:<style name='Paragraph'/> Send in your champion. Win the prize. Show the wasteland your power.
+UK: <style name='Bold'/>Підвищити ставки:<style name='Paragraph'/> Відправити учасника. Заполучити приз. Показати пустелі твою міць.
+
+## Quests.xml|TheMartialEthic/Intro/SpoilTheFun
+EN: <style name='Bold'/>Spoil the fun:<style name='Paragraph'/> Every fighter killed in the arena is one who can't win you the war.
+UK: <style name='Bold'/>Зіпсувати веселощі:<style name='Paragraph'/> Кожен загиблий на арені боєць — це боєць, який не допоможе тобі перемогти у війні.
+
+## Quests.xml|TheMartialEthic/ArenaHumanVictory
+EN: <string name='Quests/TheMartialEthic/ArenaHumanVictory2'/> So long as the fight was fair, he was sure to win.<br/>
+    <br/>
+    So your champion didn't fight fair. Because this is war, and if you fight fair, you lose.<br/>
+    <br/>
+    On to the next one.
+UK: <string name='Quests/TheMartialEthic/ArenaHumanVictory2'/> Він був здатний перемогти в будь-якій чесній сутичці.<br/>
+    <br/>
+    Тому твій боєць не став битися чесно. Адже це війна, а на війні всі засоби хороші.<br/>
+    <br/>
+    Наступний!
+
+## Quests.xml|TheMartialEthic/ArenaHumanVictory2
+EN: Your first foe—a would-be commander—thought he was the best humanity had to offer. Loyal. Dignified. More honorable than any conniving aristocrat.
+UK: Перший суперник — майбутній командир — вважав себе найкращим представником людства. Вірним. Доблесним. Шляхетнішим за будь-якого аристократа.
+
+## Quests.xml|TheMartialEthic/ArenaHumanVictory/PressOnward
+EN: <style name='Bold'/>Press onward:<style name='Paragraph'/> Your next opponent claims to channel the Voice. Silence them.
+UK: <style name='Bold'/>Перейти в наступний раунд:<style name='Paragraph'/> Твій наступний суперник нібито повелівает Голосом. Що ж, нехай замовкне.
+
+## Quests.xml|TheMartialEthic/ArenaVoiceVictory
+EN: <string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/><br/>
+    <br/>
+    But you can't smash anything if your knees are broken. If blood gushes from a hole in your gut. If you've been stabbed through the mouth with your own bladed arm.<br/>
+    <br/>
+    Your champion left this fight a little worse for wear. Patch them up and prepare for the last round.
+UK: <string name='Quests/TheMartialEthic/ArenaVoiceVictory2'/><br/>
+    <br/>
+    Але зі зламаними колінами цього не зробиш. І з діркою в животі. І якщо тобі в рот запхали твою ж шипасту лапу.<br/>
+    <br/>
+    Твій боєць вийшов з цього бою трохи потріпаним. Треба полатати його і підготувати до останнього раунду.
+
+## Quests.xml|TheMartialEthic/ArenaVoiceVictory2
+EN: Your next foe understood the rules of the game. You want the Quakecaller? You have to break anyone who stands in your way. To this four-legged monster, your champion is a sacrifice that will pave the way to the Voice itself. Little more than a plank of wood to be smashed across the knees.
+UK: Наступний супротивник розумів правила гри. Хочеш отримати Тремтун? Доведеться зламати всякого, хто стане на шляху. Для цього чотириногого чудовиська твій боєць — жертва, що відкриває шлях до самого Голосу. Майже як дерев’яшка, яку належить зламати об коліно.
+
+## Quests.xml|TheMartialEthic/ArenaVoiceVictory/PrepareForTheFinalRound
+EN: <style name='Bold'/>Prepare for the final round:<style name='Paragraph'/> Your last opponent is a defective cyborg assassin. Do not underestimate her.
+UK: <style name='Bold'/>Підготуватися до вирішального бою:<style name='Paragraph'/> Твій останній ворог — дефективний кіборг-асасин. І її не можна недооцінювати.
+
+## Quests.xml|TheMartialEthic/ArenaCyberVictory
+EN: <string name='Quests/TheMartialEthic/ArenaCyberVictory2'/><br/>
+    <br/>
+    She never stopped fighting. Not when your champion destroyed the axe, not when they ripped out her core processor. The fight ended with your champion pinning her to the ground, trying to let whatever hate-fueled backup battery still keeping her alive wear itself out.<br/>
+    <br/>
+    Right as the light vanished from her eyes, a transmission was beamed to your personal terminal. “Victory is yours,” it reads. “Your reward will be delivered when you need it most.” You'll have to wait for your prize—but tales of your champion's deeds are already rallying new followers to your cause.
+UK: <string name='Quests/TheMartialEthic/ArenaCyberVictory2'/><br/>
+    <br/>
+    Вона так і не перестала битися. Ні коли твій боєць знищив сокиру, ні коли він вирвав її центральний процесор. Битва закінчилася після того, як він притиснув її до землі і вичекав, поки не закінчиться заряд у чортовій резервній батареї, завдяки якій вона ще дихала.<br/>
+    <br/>
+    Тієї ж секунди, коли її очі нарешті згасли, на твій персональний термінал прийшло повідомлення: «Перемога за тобою. Нагорода буде доставлена в найпотрібніший момент». Схоже, з призом доведеться зачекати — але вісті про перемогу твого чемпіона вже приваблюють під твої знамена нових послідовників.
+
+## Quests.xml|TheMartialEthic/ArenaCyberVictory2
+EN: Most cybernetic assassins kill quietly from the shadows. This one slaughtered her foes with a scream under the harsh light of the sun. Bloody scars on her arms showed where her blades had been ripped out, and she carried a glowing axe spattered with blood and oil.
+UK: Більшість кібернетизованих асасинів убивають безшумно, з тіней. Ця ж рубала своїх ворогів з криками і серед білого дня. Її наручні леза були вирвані, на їхньому місці залишилися криваві шрами, і вона воювала сяючою сокирою, заляпаною кров’ю і маслом.
+
+## Quests.xml|TheMartialEthic/ArenaHumanDefeat
+EN: Maybe the credit doesn't belong to “the man in the arena” after all.<br/>
+    <br/>
+    Your champion returns empty-handed and in critical condition. They strove valiantly, dared greatly, and spent themself in a worthy cause.<br/>
+    <br/>
+    And they ate fucking shit for it, completely wasting your time. At least they aren't dead. They can redeem themself on a real battlefield, not one cooked up for bloodsport.
+UK: Можливо, удача все-таки не завжди супроводжує хоробрих.<br/>
+    <br/>
+    Твій боєць повертається з порожніми руками і ледь живим. Він доблесно воював, піддавався небезпеці і ризикував собою заради вищої мети.<br/>
+    <br/>
+    І з’їв за це лайна, витративши твій час даремно! Ну, хоча б не здох, і то добре. Нехай принесе хоч якусь користь на справжньому полі бою.
+
+## Quests.xml|TheMartialEthic/SpoilTheFun
+EN: <string name='Quests/TheMartialEthic/SpoilTheFun2'/><br/>
+    <br/>
+    You didn't kill hope. But you killed a specific kind of dream: the dream anyone feels rooting for their favorite fighter in the ring. The dream that maybe you could do it too. Go all the way, win it all, and sit on the champion's throne.<br/>
+    <br/>
+    No one will live that dream today. Bitter, frustrating, slow, ugly war is all that's left.
+UK: <string name='Quests/TheMartialEthic/SpoilTheFun2'/><br/>
+    <br/>
+    Ти не вбиваєш всю надію. Але ти вбиваєш конкретну мрію: мрію, яка є у кожного, хто вболіває за свого улюбленого бійця. У кожного, хто уявляє, як сам виходить на бій і перемагає. Ризикує всім, вигравае все і займає місце чемпіона.<br/>
+    <br/>
+    Тепер цій мрії кінець. Залишається лише війна — брудна, жорстока, розчаровуюча, повільна.
+
+## Quests.xml|TheMartialEthic/SpoilTheFun2
+EN: Your troops were eager when they heard you were considering sending a champion to the fighting ring—many were ready to place bets on the matches. When you called it off, a glum despair settled over your base.
+UK: У твоїх солдатів вже загорілися очі, коли вони почули, що ти обдумуєш ідею послати сильного бійця на арену. Багато хто був готовий зробити ставку на майбутні матчі. Коли ти все скасовуєш, на базі запановує пригнічена атмосфера.
+
+## Quests.xml|ThePlague
+EN: The Plague
+UK: Чума
+
+## Quests.xml|ThePlague/Intro
+EN: If only your explorers had been more cautious… but one of them picked up something horrible in the dark corners of the Earth and, worse, brought it home to your city. Now the Plague is raging through one of your settlements. The strain is highly infectious and virulent, with high death rates.<br/>
+    <br/>
+    The scientists advise caution—a full lockdown is the only solution. The hunters demand their freedom. What will you do?
+UK: Якби дослідники були обережнішими… Але один з них підчепив щось жахливе у темних закутках Землі — і, що ще гірше, приніс це додому, на твої території. Тепер в одному з поселень вирує епідемія чуми. Штам надзвичайно заразний, вірулентний, призводить до високої смертності.<br/>
+    <br/>
+    Вчені закликають до розсудливості — і єдиним мудрим рішенням буде повний локдаун. Але мисливці вимагають свободи. Що ти зробиш?
+
+## Quests.xml|ThePlague/Intro/FullLockdown
+EN: <style name='Bold'/>A full lockdown:<style name='Paragraph'/> The only people allowed out are masked and armed enforcers, with total discretion to fire, medical professionals, and supply trucks. It’s not popular with anyone.
+UK: <style name='Bold'/>Повний локдаун:<style name='Paragraph'/> Назовні мають право перебувати лише служителі порядку з масками та дозволом стріляти, медики й вантажівки з припасами. Ніхто цьому не радіє.
+
+## Quests.xml|ThePlague/Intro/MiddleMeasures
+EN: <style name='Bold'/>Middle measures:<style name='Paragraph'/> You leave factories and schools open, but socializing is banned and there’s an enforced curfew. Life grinds to a halt.
+UK: <style name='Bold'/>Помірні заходи:<style name='Paragraph'/> Заводи й школи залишаються відкритими, але масові скупчення заборонені, введено комендантську годину. Темп життя сповільнюється наполовину.
+
+## Quests.xml|ThePlague/Intro/OpenBusiness
+EN: <style name='Bold'/>Open for business:<style name='Paragraph'/> ‘What plague?’ guffaws the clown in the packed theatre, to general laughter. When he coughs and coughs and coughs, the theatre falls silent…
+UK: <style name='Bold'/>Все відкрито:<style name='Paragraph'/> «Ну яка ще чума?» — хихоче клоун у переповненому театрі під сміх натовпу. Але коли він кашляє і кашляє і кашляє — театр замовкає…
+
+## Quests.xml|ThePlague/Intro/AskAnchorite
+EN: <style name='Bold'/>Ask Anchorite for cure:<style name='Paragraph'/> You suspect that this is an Acrin strain—nothing native has this lethality. Perhaps your friendly neighbour has an idea…?
+UK: <style name='Bold'/>Запитати Анахорета про ліки:<style name='Paragraph'/> Ти підозрюєш, що це акринський штам — місцеві не настільки смертоносні. Можливо, в дружнього сусіда знайдеться рішення?..
+
+## Quests.xml|ThePlague/Intro/AskAnchoriteProperties
+EN: Requires <string name='Diplomacy/Standing2'/> standing or better with <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+UK: Потрібна репутація <string name='Diplomacy/Standing2'/> або вища у фракції <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+
+## Quests.xml|ThePlague/FullLockdownSuccess
+EN: Your troops seal the city centres off, confining people to their homes or (worse) workplaces, enforcing the curfew brutally. For what seems like an eternity, the city sweats under your measures… and survives. You might not be popular anymore—or even liked—but you console yourself that the viral strain is eliminated.
+UK: Твої війська блокують центр міста, замикають жителів у домівках або — якщо пощастило менше — на робочих місцях, безжально караючи порушників ізоляції. Здається, ніби місто стогне під цими драконівськими заходами вічність… але виживає. Можливо, тебе більше не люблять і не поважають — та себе ти тішиш думкою, що вірус знищено.
+
+## Quests.xml|ThePlague/FullLockdownFailure
+EN: Your troops seal the city centres off, confining people to their homes or—worse— workplaces, enforcing the curfew brutally. For what seems like an eternity, the city sweats under your measures… to little avail. The virus survives despite your totalitarian touch and the population loses all faith in you.
+UK: Твої війська блокують центр міста, замикають жителів у домівках або — якщо пощастило менше — на робочих місцях, безжально караючи порушників ізоляції. Здається, ніби місто стогне під цими драконівськими заходами вічність… але все марно. Попри тоталітарний підхід, вірус виживає, а населення втрачає будь-яку віру в тебе.
+
+## Quests.xml|ThePlague/MiddleMeasuresSuccess
+EN: You implemented a frankly half-hearted mix of science and superstition. You can’t quite believe it worked—it made no sense, went against all the science—but the city seems to be clear of the virus, with only a small number of deaths. You aren’t loved by any means, but you’ve minimized all the worst possible scenarios, and kept your job—for now.
+UK: Ти вводиш половинчасті заходи — водночас медичні й забобонні. Важко повірити, що вони спрацювали — в них мало логіки, майже жодної науки… але здається, місто очищене від вірусу ціною нечисленних смертей. Громадського схвалення тобі, звісно, не бачити — але наслідки мінімізовано, і ти поки що втримав посаду.
+
+## Quests.xml|ThePlague/MiddleMeasuresFailure
+EN: ‘Halfway there is nowhere’, as the idiom goes. And the city is nowhere, miserable under your measures, despondent both with your authoritarianism and your lack of commitment to it. The graffiti on the fortress walls reads ‘give me ennui or give me death’—but you managed to give them both and the virus continues to spread.
+UK: Кажуть, «половинчасті рішення — це як стрибати через прірву в два прийоми». Саме в прірву й звалився твій народ — знищений смертями, твоїм авторитаризмом і його неефективністю. На мурах цитаделі графіті: «Апатія — це смерть». Але ти дав людям і те, й інше — вірус продовжує ширитися.
+
+## Quests.xml|ThePlague/OpenBusinessSuccess
+EN: The clown doffs his blonde wig on stage and does another turn, pratfalling and spraying foam across the front seats. The applause is quieter than before—but how could it not be, given the number of empty seats and empty streets and empty houses and full graves? But those who remain are very much entertained.
+UK: Клоун зриває перуку й театрально падає, розбризкуючи бутафорську піну по передньому ряду. Аплодисменти звучать тихіше — що ж, кількість порожніх крісел, вулиць, домів і переповнених могил говорить сама за себе. Але тим, хто вижив — доволі весело.
+
+## Quests.xml|ThePlague/OpenBusinessFailure
+EN: The clown doesn’t laugh any more. He doesn’t jape as he is rolled in, doesn’t blink as the flies walk across his glassy stare, doesn’t flinch as the soil falls onto his painted smile. His audience, spread about him, raise no applause, arms slack at their sides. The bulldozer buries them all. The shops, businesses and theatres are all open and fizzing with life, though it is mainly flies and maggots by now.
+UK: Клоун більше не сміється. Не корчиться, коли його перевертають. Не кліпає, коли мухи повзають очима. Не здригається, коли на намальовану посмішку падає земля. Глядачі не аплодують — їхні руки опущені вздовж тіла. Бульдозер закопує їх усіх. Магазини, фабрики, заклади — відкриті навстіж, гудять від життя — здебільшого личинок і мух.
+
+## Quests.xml|ThePlague/AskAnchorite
+EN: You dispatch the requested algae to the Anchorite. The following evening, an airbalet drops a small box inscribed with an Acrin sigil outside your headquarters. When opened… nothing comes out, save a ruddy dust. You curse your fortune. Yet, by morning the virus has gone, as if it never were and the alien’s smugness transmits loud and clear over the communicator.
+UK: Ти надсилаєш Анахорету запитані водорості. Наступного вечора біля твого штабу з’являється невеличка скринька, оздоблена акринським символом. Коли її відкривають… там лише ржава пилюка. Ти проклинаєш свою невдачу. Але вранці від вірусу не лишається й сліду — а самовдоволення інопланетянина аж випромінюється крізь радіоефір.
+
+## Quests.xml|ThePriceOfHonor
+EN: The Price of Honor
+UK: Ціна гідності
+
+## Quests.xml|ThePriceOfHonor/Intro
+EN: The NeoDuke of Gotland has a challenge for you.<br/>
+    <br/>
+    He issues it after a long day of revising contracts. The two of you supped on glasses of fat-washed Acrin mezcal, and perhaps the drink has made them… playful. “%1%,” they say. “Have you ever truly lived as your people do?”<br/>
+    <br/>
+    You haven't. Until those dangerous days in the vault, you'd never feared starvation.<br/>
+    <br/>
+    “Starvation…” The NeoDuke whispers, holding their glass up against the hazy golden light. “I'd forgotten what it was like… to even hunger…”<br/>
+    <br/>
+    Impossible. Or, maybe not. <string name='Quests/ThePriceOfHonor/Intro2'/><br/>
+    <br/>
+    “I'll tell you what,” The NeoDuke says with a giggle. “Build me a farm. With your own TWO HANDS. And I'll think about it.”
+UK: НеоГерцог Готландський пропонує тобі парі.<br/>
+    <br/>
+    Усе починається після довгого дня перегляду контрактів. Ви з ним пропустили по келиху маслянистого акринського мескалю, і випите, здається, налаштовує його на грайливий лад. «%1%», — каже він. — «А ти коли-небудь жив так, як живе твій народ?»<br/>
+    <br/>
+    Ні, ніколи. До тих небезпечних днів у бункері ти й не боявся голоду.<br/>
+    <br/>
+    «Голоду?..» — тихо повторює НеоГерцог, вдивляючись крізь бокал у тепле золотаве світло. — «Я й забув, що таке… цей голод…»<br/>
+    <br/>
+    Неможливо. Чи все ж можливо? <string name='Quests/ThePriceOfHonor/Intro2'/><br/>
+    <br/>
+    «Скажу тобі ось що», — нарешті вимовляє НеоГерцог з усмішкою. — «Збудуй мені ферму. Своїми власними РУКАМИ. І я подумаю над цим».
+
+## Quests.xml|ThePriceOfHonor/Intro2
+EN: The NeoDuke's tongue slips, and they spill the secret of an artifact in their possession: the Neumanatic Cornucopia. The one-of-its-kind device was a pre-war prototype for printing food using only raw matter. It could ensure the end of aching bellies among your people.
+UK: У НеоГерцога розв’язується язик, і він проговорюється про артефакт — нейманівську корнукопію. Єдиний у своєму роді довоєнний прототип, пристрій, що друкує їжу з найпростішої матерії. Цей ріг достатку дасть твоєму народу змогу назавжди забути про голод.
+
+## Quests.xml|ThePriceOfHonor/Intro/BuildFarm
+EN: <style name='Bold'/>Build a farm:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/>
+UK: <style name='Bold'/>Збудувати ферму:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/Intro/BuildFarm2'/>
+
+## Quests.xml|ThePriceOfHonor/Intro/BuildFarm2
+EN: You're up for the task. It's one farm, how hard could it be?
+UK: Ти приймаєш парі. Просто якась ферма — хіба це так складно?
+
+## Quests.xml|ThePriceOfHonor/Intro/Ignore
+EN: <style name='Bold'/>Brush off the NeoDuke:<style name='Paragraph'/> What a needless distraction. Pour the good NeoDuke another glass, and let the night fade into memory…
+UK: <style name='Bold'/>Відмахнутись від НеоГерцога:<style name='Paragraph'/> Тобі не до відволікань. Плесни ще келих старому НеоГерцогу — хай вечір піде в забуття...
+
+## Quests.xml|ThePriceOfHonor/BuildFarmSuccess
+EN: Even your most trusted advisors were baffled by your actions. You stepped out into the field. Learned how to use an engineering rig. And you built a farm.<br/>
+    <br/>
+    The work was back-breaking. You ran out of breath just trying to rig a basic door frame. But you did not hesitate to consult your nearby laborers and take all of their advice to heart.<br/>
+    <br/>
+    The NeoDuke stuck around to view your efforts. Their butler guides them out to the structure under the veil of an ancient umbrella. “This is barely functional,” they remark. “It's filthy, barely up to code, liable to blow over if an Abkluth sneezes on it.”<br/>
+    <br/>
+    They pivot back to you. “But I admire your spirit.”<br/>
+    <br/>
+    They won't give over the Neumanatic Cornucopia just yet. But if you can complete another task—deliver a shipment of medical supplies to the NeoDuke's recently hired mercenary company… They will consider it.<br/>
+    <br/>
+    The NeoDuke's dismissal of your work and refusal to hand over the Neumanatic Cornucopia begins to gnaw at you. Why should you keep jumping at their demands?
+UK: Навіть найближчі радники збентежені твоїми діями. Ти сам вийшов у поле. Навчився користуватись інженерною технікою. І збудував ферму.<br/>
+    <br/>
+    Це виявився пекельно важкий труд. Ти виснажився, намагаючись зібрати дверну раму. Але не побоявся порадитись із робітниками, що опинились поруч — і дослухався до їхніх слів.<br/>
+    <br/>
+    НеоГерцог спостерігав за тобою. Дворецький привів його до споруди, захищаючи старомодною парасолькою. «Цей сарай ледве тримається», — зазначив він. — «Брудний, не відповідає стандартам, настільки хиткий, що розвалиться від одного чханя абклюту».<br/>
+    <br/>
+    Він обертається до тебе. «Але я хвалю тебе за старання».<br/>
+    <br/>
+    Та корнукопію він поки що не збирається передавати. Якщо ти виконаєш ще одне завдання — доставиш щойно найнятій ним військовій компанії медичні припаси — тоді він *подумає*.<br/>
+    <br/>
+    Його неготовність розстатися з корнукопією дратує. Його зневага до твоєї праці — ще більше. Тобі тепер завжди танцювати під його дудку?
+
+## Quests.xml|ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies
+EN: <style name='Bold'/>Make the delivery:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/>
+UK: <style name='Bold'/>Відвезти припаси:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2'/>
+
+## Quests.xml|ThePriceOfHonor/BuildFarmSuccess/DeliverSupplies2
+EN: You used to sneak out and steal the family car in the old days. This should be easy… right?
+UK: У давнину ти часто виїжджав — викрадав сімейне авто. Просте завдання… чи не так?
+
+## Quests.xml|ThePriceOfHonor/BuildFarmSuccess/DeliverSuppliesByBodyguard
+EN: <style name='Bold'/>Have your bodyguard make the delivery:<style name='Paragraph'/> The NeoDuke is toying with you. Why not toy with him instead?
+UK: <style name='Bold'/>Доручити охоронцеві доставку припасів:<style name='Paragraph'/> НеоГерцог грається з тобою. Чому б не зіграти з ним так само?
+
+## Quests.xml|ThePriceOfHonor/BuildFarmFailure
+EN: You awaken in the medical ward, barely able to remember the attack that knocked you out. The NeoDuke sits by your bedside.<br/>
+    <br/>
+    “Well this is embarrassing.” They say. “Next time, keep your head on a swivel, will you? We have so much to learn together.”<br/>
+    <br/>
+    Their voice takes on a strange, metallic tone as you drift back off to sleep. When you wake again, the NeoDuke is gone.
+UK: Ти приходиш до тями в медичному крилі, ледь пам’ятаючи напад, що вирубив тебе. НеоГерцог сидить біля ліжка.<br/>
+    <br/>
+    «Що ж, прикрий фінал», — задумливо каже він. — «Наступного разу — постарайся не зівати, домовились? У нас із тобою попереду багато чого».<br/>
+    <br/>
+    Його голос набуває дивного металевого відтінку, коли ти провалюєшся в сон. Коли прокидаєшся знову — його вже немає поруч.
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesSuccess
+EN: Again, what should have been a simple task took far too long to complete.<br/>
+    <br/>
+    When you finally rendezvous with the NeoDuke's mercenaries, they're gathered on the outskirts of their camp with their fawning leader. They're as colorful a crew as the NeoDuke—covered in tattoos you don't recognize and sporting bright, garish colors that make them easy to spot on the battlefield.<br/>
+    <br/>
+    You're surprised to find the mercenaries cheering your arrival—and the NeoDuke irked at their pleasure. “You have cost me a small fortune,” they grumble while tapping away at a tablet. “I now owe this company of fools double their commission.”<br/>
+    <br/>
+    Their eyes flick upward. “Though I see a way I can get my money's worth…” Your stomach sinks. The Cornucopia is again far from your grasp. “%1%. Lead this gang of idiots into combat. One of ZEPHON's Wardens is hovering too close to my domain. If they fight it and survive—our deal is on.”
+UK: І знову те, що мало бути простим завданням, забирає купу часу.<br/>
+    <br/>
+    Коли ти нарешті зустрічаєш найманців НеоГерцога — вони чекають на краю табору на чолі з улесливим ватажком. Такі ж колоритні, як і сам НеоГерцог — вкриті невідомими тобі татуюваннями, вбрані у яскраві кричущі кольори, видимі на полі бою.<br/>
+    <br/>
+    Ти дивуєшся, що найманці вітають тебе з захватом. НеоГерцога ж дратує їхній ентузіазм. «Ти вже коштував мені цілого статку», — буркоче він, стукаючи по планшету. — «А тепер я маю платити цій бригаді дурнів удвічі більше».<br/>
+    <br/>
+    Він замислено піднімає погляд. «Втім… я знаю, як зекономити…» У тебе погане передчуття. Корнукопія знову віддаляється. «%1%, веди-но цю зграю ідіотів у бій. Один зі стражів ЗЕФОНА підібрався надто близько до моїх володінь. Якщо вони вціліють у битві — я вважатиму нашу угоду виконаною.»
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries
+EN: <style name='Bold'/>Command the mercenaries:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/>
+UK: <style name='Bold'/>Очолити найманців:<style name='Paragraph'/> <string name='Quests/ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2'/>
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesSuccess/CommandMercenaries2
+EN: This crew looks capable, but flawed. Surely they can handle one Warden…
+UK: Бригада здається здатною, хоча не без вад. З одним охоронцем вони повинні впоратись...
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesSuccess/DismissMercenaries
+EN: <style name='Bold'/>Dismiss the mercenaries:<style name='Paragraph'/> These idiots aren't ready for one of ZEPHON's creations. The NeoDuke won't mind how you solve his problem… will he?
+UK: <style name='Bold'/>Обійтись без найманців:<style name='Paragraph'/> Ці дурники не впораються з творінням ЗЕФОНА. А НеоГерцогу ж байдуже, як ти вирішиш його проблему... чи не так?
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesFailure
+EN: You barely get clear of the Outrider's explosion. The stench of burnt metal fills your nostrils as you scramble for cover—and find NeoDuke Gotland waiting for you.<br/>
+    <br/>
+    “I really did want to give you that Cornucopia,” they say, not seeming to notice the battle around you. “But a deal's a deal. Find me on the next go-around.”<br/>
+    <br/>
+    An explosion hits your position—and when the dust clears, Gotland has vanished.
+UK: Ти ледве встигаєш відійти при вибуху «Колісниці». Запах паленого металу обпікає ніздрі, коли ти намагаєшся дістатися укриття — де вже чекає НеоГерцог Готландський.<br/>
+    <br/>
+    «Я й справді хотів віддати тобі корнукопію», — каже він, ігноруючи киплячий навколо бій. — «Але угода є угодою. Побачимось на наступному обході».<br/>
+    <br/>
+    Щось вибухає поряд — а коли дим розсіюється, НеоГерцога вже немає.
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesByBodyguardSuccess
+EN: Your deception went unnoticed. It was merely a matter of covertly swapping drivers through secret compartments and holographic trickery… Your bodyguard moved quickly where you would have struggled.<br/>
+    <br/>
+    When you finally rendezvous with the NeoDuke's mercenaries, they're gathered on the outskirts of their camp with their fawning leader. They're as colorful a crew as the NeoDuke—covered in tattoos you don't recognize and sporting bright, garish colors that make them easy to spot on the battlefield.<br/>
+    <br/>
+    You're surprised to find the mercenaries cheering your arrival—and the NeoDuke irked at their pleasure. “You have cost me a small fortune,” they grumble while tapping away at a tablet. “I now owe this company of fools double their commission.”<br/>
+    <br/>
+    Their eyes flick upward. “Though I see a way I can get my money's worth…” Your stomach sinks. The Cornucopia is again far from your grasp. “%1%. Lead this gang of idiots into combat. One of ZEPHON's Wardens is hovering too close to my domain. If they fight it and survive—our deal is on.”
+UK: Твоя обманна схема лишилась непоміченою. Треба було лише непомітно підмінити водіїв за допомогою потайних відсіків та голографічних трюків... Охоронець блискавично виконав завдання, яке тобі забрало б години.<br/>
+    <br/>
+    Коли ти нарешті прибуваєш до найманців НеоГерцога, вони чекають на краю табору зі своїм улесливим ватажком. Вони такі ж колоритні, як і сам НеоГерцог — вкриті незрозумілими татуюваннями й вдягнені у яскраві кричущі кольори.<br/>
+    <br/>
+    Ти здивований, що найманці з радістю вітають тебе — а от НеоГерцога дратує їхнє захоплення. «Ти вже коштував мені чималенько», — бурчить він, стукаючи по планшету. — «А тепер я маю платити цим йолопам удвічі більше».<br/>
+    <br/>
+    Він замислено здіймає погляд. «Втім… я знаю, як компенсувати ці витрати...» У тебе кепське передчуття. Корнукопія знову віддаляється. «%1%, веди-но цих дурнів у бій. Один із стражів ЗЕФОНА підібрався надто близько до моїх територій. Якщо вони виживуть — я вважатиму угоду виконаною.»
+
+## Quests.xml|ThePriceOfHonor/DeliverSuppliesByBodyguardFailure
+EN: Before departing, you and your bodyguard swapped places in the Outrider under the guise of holographic trickery. Your engineers assured you it would fool any of the NeoDuke's observers.<br/>
+    <br/>
+    It didn't. When your guard arrives at the Mercenary camp, he only finds a ruined Outrider waiting for him, a glowing tablet sitting in the driver's seat.<br/>
+    <br/>
+    Activating it triggers a looping holographic message from the NeoDuke: “I heard you're a fan of high-tech illusions, %1%. I however, am not.”<br/>
+    <br/>
+    “Consider our friendship—and any dreams of possessing the Neumanatic Cornucopia—terminated.”<br/>
+    <br/>
+    You never hear from the NeoDuke again.
+UK: Перед від’їздом ти міняєшся місцями з охоронцем у «Колісниці», скориставшись голографічною хитрістю. Інженери запевняли, що вона обведе навколо пальця будь-якого спостерігача НеоГерцога.<br/>
+    <br/>
+    Але ні. Коли охоронець прибуває до табору найманців — знаходить лише розбиту «Колісницю» з планшетом на сидінні.<br/>
+    <br/>
+    Той вмикає голограму з повідомленням: «Кажуть, ти фанат високотехнологічних ілюзій, %1%. А я — ні».<br/>
+    <br/>
+    «Можеш попрощатися з нашою дружбою — і мріями про нейманівську корнукопію».<br/>
+    <br/>
+    І більше ти ніколи не чуєш про НеоГерцога.
+
+## Quests.xml|ThePriceOfHonor/CommandMercenariesSuccess
+EN: With a mechanical shriek the Warden toppels to the ground. The mercenaries were shockingly prepared for this task. You open a channel to ask how they pulled it off. “NeoDuke Gotland's got you jumping through hoops too, then?” their commander says. “They did something like that to us too.”<br/>
+    <br/>
+    “Jumping through hoops?” You press the commander. “Yep. Stupid jobs. Pointless tasks. I can't quite figure it out.”<br/>
+    <br/>
+    “Either the NeoDuke is a fucking genius who sees the world in ways we don't… or they're a bored rich idiot moving us around like pieces on a game board.”<br/>
+    <br/>
+    You both jump as someone joins the call—it’s the NeoDuke: “It's a fascinating conundrum, isn't it? Honestly, I'm not sure which one I am myself.”<br/>
+    <br/>
+    No one speaks for a moment. Finally the NeoDuke breaks the silence. “%1%. You've done well. The Cornucopia awaits you in a secure location.”<br/>
+    <br/>
+    “I'll transmit coordinates. I'd urge you to retrieve the item yourself if at all possible.”
+UK: Зі скреготом механіки страж падає на землю. Найманці виявились на диво добре підготовленими. Ти зв’язуєшся з ними — питаєш, як їм це вдалося. «НеоГерцог Готландський, значить, і тебе змусив стрибати крізь обруч?» — каже їхній командир. — «У нас те саме».<br/>
+    <br/>
+    Обруч? «Ага. Безглузді задачі. Порожні доручення. Без поняття, навіщо йому це».<br/>
+    <br/>
+    «Чи то він геній — просто бачить світ не так, як ми. Чи просто нудьгуючий багатій, що тасує нас, наче фішки».<br/>
+    <br/>
+    Ви обоє здригаєтесь, коли хтось приєднується до виклику... це НеоГерцог! «Це справді цікаве питання, чи не так? Чесно — іноді я й сам не знаю, хто я».<br/>
+    <br/>
+    Западає тиша. Нарешті він каже: «%1%, ти добре попрацював. Корнукопія чекає тебе в безпечному місці».<br/>
+    <br/>
+    «Передаю координати. Наполегливо раджу забрати її особисто, якщо можеш».
+
+## Quests.xml|ThePriceOfHonor/CommandMercenariesSuccess/RetrieveCornucopiaPersonally
+EN: <style name='Bold'/>Retrieve the Cornucopia personally:<style name='Paragraph'/> The NeoDuke is playing one last game… but what is it?
+UK: <style name='Bold'/>Забрати корнукопію особисто:<style name='Paragraph'/> НеоГерцог знову щось вигадує... але що саме?
+
+## Quests.xml|ThePriceOfHonor/CommandMercenariesSuccess/RetrieveCornucopia
+EN: <style name='Bold'/>Send your troops:<style name='Paragraph'/> The location is far and they specifically pointed out personal involvement wasn't necessary.
+UK: <style name='Bold'/>Надіслати свої війська:<style name='Paragraph'/> Місце далеке, і він прямо сказав, що твоя присутність необов’язкова.
+
+## Quests.xml|ThePriceOfHonor/CommandMercenariesFailure
+EN: “You know, I shouldn't have been so strict on this one” a voice says. You spin and find NeoDuke Gotland sitting at your desk. You ask if they'll allow leniency—you tell them how much your people need the Cornucopia, and the food it could provide.<br/>
+    <br/>
+    “There is something vile about playing games with your people's hunger, isn't it?” The NeoDuke opens their mouth, but then pauses. Their gaze is elsewhere—is someone talking to them? Someone you can't hear?<br/>
+    <br/>
+    “I'm sorry,” they say as they step toward the door. “You'll just have to try harder next time.”<br/>
+    <br/>
+    You hang your head and listen to their footsteps vanish down the hallway.
+UK: «Знаєш, мабуть, не варто було мені так наполягати», — чуєш ти голос. Озирнувшись, бачиш НеоГерцога Готландського, що сидить за твоїм письмовим столом. Ти запитуєш, чи проявить він поблажливість — ти пояснюєш, наскільки твоїм людям потрібна корнукопія і їжа, яку вона здатна надати.<br/>
+    <br/>
+    «Є щось огидне в тому, щоб грати на голоді людей, правда?» — НеоГерцог хоче додати щось іще, але замовкає. У нього відсторонений погляд — з кимось спілкується? З кимось, кого ти не чуєш?<br/>
+    <br/>
+    «Мені шкода», — кидає він наостанок, роблячи крок до дверей. — «Наступного разу просто постарайся краще».<br/>
+    <br/>
+    Опустивши голову, ти слухаєш, як затихає луна його кроків у коридорі.
+
+## Quests.xml|ThePriceOfHonor/DismissMercenariesSuccess
+EN: This deception took some effort. Not only did you need to muster an army that could kill the Warden on your own, you needed to convince the mercenaries to pretend they fought alongside it.<br/>
+    <br/>
+    They agreed. “NeoDuke Gotland's got you jumping through hoops too, then?” their commander says. “They did something like that to us too.”<br/>
+    <br/>
+    “Jumping through hoops?” You press the commander. “Yep. Stupid jobs. Pointless tasks. I can't quite figure it out.”<br/>
+    <br/>
+    “Either the NeoDuke is a fucking genius who sees the world in ways we don't… or they're a bored rich idiot moving us around like pieces on a game board.”<br/>
+    <br/>
+    You both jump as someone joins the call—it’s the NeoDuke: “It's a fascinating conundrum, isn't it? Honestly, I'm not sure which one I am myself.”<br/>
+    <br/>
+    No one speaks for a moment. Finally the NeoDuke breaks the silence. “%1%. You've done well. The Cornucopia awaits you in a secure location.”<br/>
+    <br/>
+    “I'll transmit coordinates. I'd urge you to retrieve the item yourself if at all possible.”
+UK: Ця афера вимагає чималих зусиль. Треба не лише підготувати армію, здатну знищити стража, а й переконати найманців удавати, ніби вони це зробили.<br/>
+    <br/>
+    Вони погоджуються. «НеоГерцог Готландський і тебе змусив стрибати крізь обруч?» — запитує їхній командир. — «У нас те саме».<br/>
+    <br/>
+    Обруч? «Ага. Безглузді задачі. Порожні доручення. Не маю уявлення, навіщо йому це».<br/>
+    <br/>
+    «Чи він геній, що бачить світ не так, як ми... чи просто нудьгуючий багач, що тасує нас, наче фішки на дошці».<br/>
+    <br/>
+    Ви обидва здригаєтесь, коли до виклику підключається хтось… це НеоГерцог! «Приголомшливе питання, чи не так? Чесно — іноді й сам не знаю, хто я».<br/>
+    <br/>
+    Западає тиша. Нарешті він каже: «%1%, добре попрацював. Корнукопія чекає на тебе в безпечному місці».<br/>
+    <br/>
+    «Передаю координати. Дуже раджу забрати її особисто, якщо можеш.»
+
+## Quests.xml|ThePriceOfHonor/DismissMercenariesFailure
+EN: Killing the Warden was a frustrating grind. And all the way the NeoDuke's mercenaries wouldn't stop hassling you to let them do it themselves. But there was no way you could leave the task to those idiots.<br/>
+    <br/>
+    In hindsight… maybe you should have. Your troops return with an electronic metal cylinder salvaged from The Warden—some kind of high end black box. In a bizarre twist, it bears the crest of NeoDuke Gotland's house. You press a button jutting out on the black box's side.<br/>
+    <br/>
+    The device springs out of your hand and drops to the floor, scuttling on previously concealed legs. “Dearest %1%, I am so disappointed in you,” it says. “You need only have put your trust in my eccentric colleagues, and the Warden would have fallen so easily. The Cornucopia shall remain in my posession.”<br/>
+    <br/>
+    The machine twitches. Its color shifts in a strange blue and purple glow. “Next time around… have a little faith in me, won't you?”<br/>
+    <br/>
+    Then, like a small firecracker, it explodes.
+UK: Знищення стража було виснажливим. І найманці НеоГерцога постійно просили дозволу зробити це самостійно. Але ж ти не міг довірити таке завдання цим ідіотам.<br/>
+    <br/>
+    Хоча… мабуть, варто було. Солдати дістають із стража металевий циліндр — щось на кшталт високотехнологічного чорного ящика. І тут несподіваний поворот — на ньому зображено родовий герб НеоГерцога Готландського. Ти натискаєш кнопку збоку.<br/>
+    <br/>
+    Пристрій випадає з рук і стає на раніше приховані ніжки. «Дорогий %1%, як же ти мене розчарував», — каже воно. — «Треба було лише довіритись моїм ексцентричним колегам — і страж упав би миттєво. Корнукопія залишиться в мене».<br/>
+    <br/>
+    Машина здригається. Починає світитись дивним синьо-фіолетовим. «Наступного разу… просто трохи повір у мене, добре?»<br/>
+    <br/>
+    І вибухає, мов петарда.
+
+## Quests.xml|ThePriceOfHonor/RetrieveCornucopiaPersonallySuccess
+EN: “Why are you doing this?”<br/>
+    <br/>
+    It's no soldier or advisor who asks you that question, but yourself. You finish the long journey to retrieve the Cornucopia, arriving at a rather unremarkable spot in the wasteland to retrieve the most remarkable object.<br/>
+    <br/>
+    You're still pondering the question as you carefully pick up the precious prototype. Some sixth sense of yours tingles, and you're only mildly surprised when you turn to find the NeoDuke waiting by your vehicle.<br/>
+    <br/>
+    “A neverending supply of food,” they proclaim. “One of humanity's most basic scarcities solved by a technological gimmick.”<br/>
+    <br/>
+    “But!” They raise a finger. “In the old world, infinite food did not end society's woes. Sometimes it was just another form of exploitation. It could be used to choke humanity's most vulnerable and threaten them if they ever fought for a better world.”<br/>
+    <br/>
+    Is that why the NeoDuke sent you on such errant fetch quests? To understand the struggles of the ordinary human?
+UK: «Навіщо ти це робиш?»<br/>
+    <br/>
+    Це питання ставиш собі не радник і не солдат — ти сам. Після довгої мандрівки ти прибуваєш у непримітну точку пустки, щоб забрати надзвичайно цінну річ.<br/>
+    <br/>
+    Ти все ще шукаєш відповідь, коли береш до рук безцінний прототип. Твоє шосте чуття спрацьовує — і ти лише трохи дивуєшся, побачивши НеоГерцога біля твого транспорту.<br/>
+    <br/>
+    «Нескінченне джерело їжі», — проголошує він. — «Одна з базових потреб людства задоволена за допомогою технологічної чудернацької штуки».<br/>
+    <br/>
+    «Але!» — піднімає він палець. — «У старому світі нескінченна їжа не вирішувала всіх проблем. Іноді вона лише створювала нову форму експлуатації. Її можна було використати для того, щоб тиснути на вразливих — і залякувати їх, коли вони боролися за краще життя».<br/>
+    <br/>
+    Так ось навіщо НеоГерцог ганяв тебе по всіх цих завданнях? Щоб ти відчув себе в шкірі звичайних людей?
+
+## Quests.xml|ThePriceOfHonor/RetrieveCornucopiaPersonallyFailure
+EN: It was inevitable—this late into the war, the dangers of the Wasteland have grown too overwhelming. You were foolish for trying to take such risks.<br/>
+    <br/>
+    Your bodyguards pull you from the wreckage of the Outrider and bring you to safety. An aide rushes in with a message from NeoDuke Gotland.<br/>
+    <br/>
+    “The Cornucopia can still be yours,” it says. “I will not let your people down after all you've accomplished.”
+UK: Це було неминуче — війна триває вже так довго, що небезпеки пустки стали надто неконтрольованими. Було нерозумно так ризикувати.<br/>
+    <br/>
+    Охоронці витягують тебе з-під уламків «Колісниці» й доправляють у безпечне місце. До кімнати вбігає кур’єр із повідомленням від НеоГерцога Готландського.<br/>
+    <br/>
+    «Корнукопія все ще може стати твоєю», — йдеться в ньому. — «Я не відвернусь від твого народу після всього, чого ти досяг».
+

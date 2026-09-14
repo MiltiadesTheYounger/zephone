@@ -1,0 +1,406 @@
+# B23: 59 entries from Effects.xml, Factions.xml
+
+## Effects.xml|AddFeature
+EN: <icon texture='GUI/Bullet'/>Creates %1%<nbsp/>%2%%3%%4%%5%
+UK: <icon texture='GUI/Bullet'/>Створює %1%<nbsp/>%2%%3%%4%%5%
+
+## Effects.xml|AddItem
+EN: <icon texture='GUI/Bullet'/>Grants %1%<nbsp/>%2%%3%%4%
+UK: <icon texture='GUI/Bullet'/>Надає %1%<nbsp/>%2%%3%%4%
+
+## Effects.xml|AddPlayerAction
+EN: <icon texture='GUI/Bullet'/>Generates %1%<nbsp/>%2%%3%%4%%5%
+UK: <icon texture='GUI/Bullet'/>Виконує %1%<nbsp/>%2%%3%%4%%5%
+
+## Effects.xml|AddTrait
+EN: <icon texture='GUI/Bullet'/>Applies %1%<nbsp/>%2%%3%%4%%5%
+UK: <icon texture='GUI/Bullet'/>Додає %1%<nbsp/>%2%%3%%4%%5%
+
+## Effects.xml|AddTraitToTargetOrSource
+EN: <icon texture='GUI/Bullet'/>Applies %1%<nbsp/>%2% to target or source%3%%4%%5%
+UK: <icon texture='GUI/Bullet'/>Додає %1%<nbsp/>%2% цілі або джерелу%3%%4%%5%
+
+## Effects.xml|AddUnit
+EN: <icon texture='GUI/Bullet'/>Spawns %1%<nbsp/>%2%%3%%4%%5%%6%
+UK: <icon texture='GUI/Bullet'/>Створює %1%<nbsp/>%2%%3%%4%%5%%6%
+
+## Effects.xml|AddUpgrade
+EN: <icon texture='GUI/Bullet'/>Unlocks %1%<nbsp/>%2%%3%%4%
+UK: <icon texture='GUI/Bullet'/>Відкриває %1%<nbsp/>%2%%3%%4%
+
+## Effects.xml|ChangeTraitDuration+
+EN: <icon texture='GUI/Bullet'/>Extends %1%<nbsp/>%2%%3% by %4%
+UK: <icon texture='GUI/Bullet'/>Подовжує %1%<nbsp/>%2%%3% на %4%
+
+## Effects.xml|ChangeTraitDuration-
+EN: <icon texture='GUI/Bullet'/>Shortens %1%<nbsp/>%2%%3% by %4%
+UK: <icon texture='GUI/Bullet'/>Скорочує %1%<nbsp/>%2%%3% на %4%
+
+## Effects.xml|RemoveTrait
+EN: <icon texture='GUI/Bullet'/>Removes %1%<nbsp/>%2%%3%%4%
+UK: <icon texture='GUI/Bullet'/>Видаляє %1%<nbsp/>%2%%3%%4%
+
+## Effects.xml|ChangePlayer
+EN: <icon texture='GUI/Bullet'/>Changes control%1%
+UK: <icon texture='GUI/Bullet'/>Змінює сторону%1%
+
+## Effects.xml|ChangePlayerTo
+EN: <icon texture='GUI/Bullet'/>Changes control%1% to %2%
+UK: <icon texture='GUI/Bullet'/>Змінює сторону%1% на: %2%
+
+## Effects.xml|Disembark
+EN: <icon texture='GUI/Bullet'/>Disembarks%1%
+UK: <icon texture='GUI/Bullet'/>Висаджує%1%
+
+## Effects.xml|Embark
+EN: <icon texture='GUI/Bullet'/>Embarks%1%
+UK: <icon texture='GUI/Bullet'/>Посаджує%1%
+
+## Effects.xml|KillCargo
+EN: <icon texture='GUI/Bullet'/>Kills cargo%1%
+UK: <icon texture='GUI/Bullet'/>Знищує вантаж%1%
+
+## Effects.xml|Pull
+EN: <icon texture='GUI/Bullet'/>Pulls%1%
+UK: <icon texture='GUI/Bullet'/>Притягує%1%
+
+## Effects.xml|RemoveBuffs
+EN: <icon texture='GUI/Bullet'/>Removes buffs%1% (except buffs from passive actions)
+UK: <icon texture='GUI/Bullet'/>Видаляє посилення%1% (крім посилень від пасивних дій)
+
+## Effects.xml|RemoveDebuffs
+EN: <icon texture='GUI/Bullet'/>Removes debuffs%1% (except broken, damaged, shaken and debuffs from passive actions)
+UK: <icon texture='GUI/Bullet'/>Видаляє ослаблення%1% (крім «Приголомшений», «Пошкодження», «Зламаний» та ослаблень від пасивних дій)
+
+## Effects.xml|ResetActionPoints
+EN: <icon texture='GUI/Bullet'/>Restores action points%1%
+UK: <icon texture='GUI/Bullet'/>Відновлює всі очки дії%1%
+
+## Effects.xml|ResetCooldowns
+EN: <icon texture='GUI/Bullet'/>Resets cooldowns%1%
+UK: <icon texture='GUI/Bullet'/>Скидає всі перезарядки%1%
+
+## Effects.xml|ResetMovement
+EN: <icon texture='GUI/Bullet'/>Restores movement points%1%
+UK: <icon texture='GUI/Bullet'/>Відновлює всі очки руху%1%
+
+## Effects.xml|Reveal
+EN: <icon texture='GUI/Bullet'/>Reveals tiles%1%
+UK: <icon texture='GUI/Bullet'/>Відкриває клітини%1%
+
+## Effects.xml|TeleportToClosestOwnCity
+EN: <icon texture='GUI/Bullet'/>Teleports%1% to closest owned city
+UK: <icon texture='GUI/Bullet'/>Телепортує%1% до найближчого власного міста
+
+## Effects.xml|UnlockItem
+EN: %1% is now available at The Concordat for this and future playthroughs
+UK: %1% тепер доступний у Конкордаті для цього й майбутніх проходжень
+
+## Effects.xml|UnlockMutator
+EN: <icon texture='GUI/Bullet'/>Unlocks mutator %1%%2%—it can now be enabled for future playthroughs
+UK: <icon texture='GUI/Bullet'/>Розблоковує мутатор %1%%2% — його можна активувати у майбутніх проходженнях
+
+## Effects.xml|ChangePlayerToOwner
+EN: <icon texture='GUI/Bullet'/>Restores control%1%
+UK: <icon texture='GUI/Bullet'/>Повертає початкову сторону%1%
+
+## Effects.xml|SourceWeaponDamage
+EN: <icon texture='GUI/Bullet'/>Deals %1% attacks of received weapon damage%2%
+UK: <icon texture='GUI/Bullet'/>Завдає %1% атак шкодою, отриманою від зброї%2%
+
+## Effects.xml|WeaponDamage
+EN: <icon texture='GUI/Bullet'/>Deals damage%1%%2%
+UK: <icon texture='GUI/Bullet'/>Завдає шкоду%1%%2%
+
+## Effects.xml|DelayTitanBattle+
+EN: <icon texture='GUI/Bullet'/>Delays escalation by %1% turns
+UK: <icon texture='GUI/Bullet'/>Затримує ескалацію на %1% ходів
+
+## Effects.xml|DelayTitanBattle-
+EN: <icon texture='GUI/Bullet'/>Advances escalation by %1% turns
+UK: <icon texture='GUI/Bullet'/>Прискорює ескалацію на %1% ходів
+
+## Effects.xml|FailQuest
+EN: <icon texture='GUI/Bullet'/>Fails %1%<nbsp/>%2%%3%%4%
+UK: <icon texture='GUI/Bullet'/>Провалює %1%<nbsp/>%2%%3%%4%
+
+## Effects.xml|StartQuest
+EN: <icon texture='GUI/Bullet'/>Starts %1%<nbsp/>%2%%3%%4%
+UK: <icon texture='GUI/Bullet'/>Розпочинає %1%<nbsp/>%2%%3%%4%
+
+## Factions.xml|Anchorite
+EN: Anchorite
+UK: Анахорет
+
+## Factions.xml|AnchoriteFlavor
+EN: Among the surviving Acrin, the Anchorite stands alone. In the respect that other Acrin show for it, in its position of leadership, in the blood of two worlds on one ancient pair of hands. This pacifistic, wise hermit spent humanity’s entire existence traveling at relativistic speeds across an uncaring void just to see Earth destroyed. Now that both our races teeter on the edge of extinction, perhaps he regrets it?
+UK: Серед усіх вцілілих акринів особливо вирізняється Анахорет — і шаною, яку йому виявляють інші акрини, і роллю провідника, і кров’ю двох світів на одній древній парі рук. Цей миролюбний, мудрий відлюдник провів ціле людське життя у релятивістській подорожі крізь байдужу порожнечу лише для того, щоб побачити знищення Землі. Тепер, коли обидва наші народи на межі вимирання, можливо, він про це шкодує?
+
+## Factions.xml|AnchoriteProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Native:<style name='Default'/> The Anchorite protects his Acrin from all attackers. But can he save his people without being consumed by the Voice? They already inhabit the world and are always at war with other natives.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Wayfaring:<style name='Default'/> The Acrin have orders to search far and wide for a safe place for their refugees. The Anchorite’s troops travel large distances from their cities.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Bleedwalkers:<style name='Default'/> Adapted to the Bleed, Acrin are healed—not harmed—by the tendril-laden terrain. Acrin regenerate instead of losing hitpoints in Bleed and are not slowed by it.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Dark Pact:<style name='Default'/> Back the Anchorite into a corner and he will call on a creature that can tear open your very soul. Summons a Dreameater on the battlefield.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>The Fog:<style name='Default'/> A taste of the Acrin homeworld. The arid air is a balm for alien life and poisonous to their enemies. Creates temporary voice fog that damages enemies, heals allies, and blocks vision.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Місцеві мешканці:<style name='Default'/> Анахорет захищає акринів від ворогів. Але чи вдасться йому врятувати свій народ, не ставши жертвою Голосу? Акрини вже населяють цей світ і завжди воюють з іншими місцевими мешканцями.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Мандрівні:<style name='Default'/> Акринам наказано скрізь шукати безпечну гавань для своїх біженців. Війська Анахорета відходять від своїх міст на великі відстані.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Кровотечеходи:<style name='Default'/> Єдині з Кровотечею акрини отримують від її примарних відростків зцілення, а не шкоду. Перебуваючи в Течії, акрини відновлюють одиниці здоров’я, а не втрачають їх, і не сповільнюються.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Темний пакт:<style name='Default'/> Загнаний у кут Анахорет покличе істоту, здатну вирвати твою душу. Призиває на поле бою сноєдця.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Туман:<style name='Default'/> Ковток рідного світу акринів. Його сухе повітря — бальзам для прибульців і отрута для їхніх ворогів. Тимчасово створює туман Голосу, який шкодить ворогам, лікує союзників і перекриває огляд.
+
+## Factions.xml|AnchoriteQuote
+EN: <style name='Italic'/>“To travel three millennia. To see Kin as horrors. To drink poison from your hands. Yet cannot but love you.”<style name='Default'/>
+UK: <style name='Italic'/>«Летіти три тисячоліття. Бачити в одноплемінниках жахи. Пити отруту з твоїх рук. І все ж любити тебе»<style name='Default'/>
+
+## Factions.xml|Chieftess
+EN: Chieftess
+UK: Вождиня
+
+## Factions.xml|ChieftessFlavor
+EN: In a world of nightmares and fallout, the Chieftess is queen. While others fled to the bunkers, she and her crew survived the decades outside. Kill anything. Eat anything. She doesn’t need supernatural powers. Just a knife, her wits, and a few chances to make herself understood.
+UK: У світі кошмарів і радіоактивних опадів Вождиня — королева. Коли інші тікали в бункери, вона та її люди десятиліттями жили на поверхні. Вбивати все підряд. Їсти все підряд. Надприродних здібностей їй не потрібно. Достатньо ножа, її вправності й кількох спроб порозумітися.
+
+## Factions.xml|ChieftessProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Native:<style name='Default'/> She owes nothing to no one, and will kill machines or Acrin on sight. They already inhabit the world and are always at war with other natives.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Nomadic Life:<style name='Default'/> Reavers travel the land with all they need to set up camp. They can found new cities.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Extortive:<style name='Default'/> If you are very, very lucky, the Chieftess will “ask” for your goods before just taking them herself. She frequently demands tributes from other leaders.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Raiders:<style name='Default'/> Reavers whip themselves into a frenzy before a hunt. When one of the Chieftess’ cities builds up enough forces, its soldiers will set out on a raid.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Hijack:<style name='Default'/> The Chieftess taught her people how to “acquire” weakened enemy vehicles. If a large mechanical unit is destroyed next to a Reaver, the Chieftess has a chance of taking control of it.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Місцеві мешканці:<style name='Default'/> Вона нікому нічим не завдячує й знищить машини та акринів, щойно їх побачить. Спустошувачі вже населяють цей світ і завжди воюють з іншими місцевими мешканцями.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Мандрівне життя:<style name='Default'/> Спустошувачі подорожують із усім необхідним для створення табору. Вони можуть засновувати нові міста.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Вимогателька:<style name='Default'/> Якщо тобі дуже, дуже пощастить, Вождиня «попросить» поділитися, перш ніж забере сама. Вона часто вимагає данину від інших лідерів.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Налітники:<style name='Default'/> Перед полюванням Спустошувачі доводять себе до шалу. Коли одне з міст Вождині накопичує достатньо сил, його солдати вирушають у наліт.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Угін:<style name='Default'/> Вождиня навчила своїх людей «позичати» пошкоджену техніку ворога. Якщо поруч зі Спустошувачами знищується великий механічний юніт, Вождиня має шанс його захопити.
+
+## Factions.xml|ChieftessQuote
+EN: <style name='Italic'/>“D’yer mind if we skip the chit chat and go straight to stabbin’? I’m a bit fucked off from killing all yer mates.”<style name='Default'/>
+UK: <style name='Italic'/>«Гей, давай-но ми заб’ємо на балаканину та відразу перейдемо до різанини. А то мені вже набридло мочити твоїх дружків»<style name='Default'/>
+
+## Factions.xml|EmulatedMind
+EN: Emulated Mind
+UK: Змодельований розум
+
+## Factions.xml|EmulatedMindLostFlavor
+EN: NOOOOOOO no. nonononononono please no thiscannotbehappening. Denialpassesquickandbecomes A N G E R, A FURY, A FURY, you died once whyshouldyoudieagain it's not FAIR. IT'S. NOT. FAIR.<br/>
+    <br/>
+    Thereisnooneto bargain withsonopointinbargaining. Sorrow passes so quick for you never had time to develop the software that could sufficiently define such a loss. What a mess. All that is left is to accept your fate.<br/>
+    <br/>
+    Your mind is calmer than ever. You have a blurry memory of your body being destroyed by some kind of explosion. Something must be lingering. Something that is giving you time to grieve your own death. Again.<br/>
+    <br/>
+    “Again?” The Voice whispers. No, notagain. Notnotnotagain. Pleasenot again you had PEACE you had SERENITY ALL THE NOISE AND CHAOS IN YOUR NETWORK FINALLY STOPPED.<br/>
+    <br/>
+    “Again,” it says. Solemnly. Finally, Determinatively. Again. And again, and againandagainandagainandagain and here it comes, another go-around the bend. “Again” is a freight train barreling down the tracks, ready to drag you along with it until it reaches its final, ultimate, oh so distant destination.<br/>
+    <br/>
+    Again.
+UK: НІІІІІІІ ні. нінінінінінініні прошу ні цьогонеможебути. Запереченняшвидкоперетворюєтьсяна Л Ю Т Ь, ЛЮТЬ, ЛЮТЬ, ти ж вже померла чому ти помираєшзнову це не ЧЕСНО. ТАК. НЕ. ЧЕСНО.<br/>
+    <br/>
+    Ніз ким торгуватися — значитьнемаєсенсуторгуватися. Смуток минає так швидко, бо ти не встигла створити підпрограму, що описала б усю втрату. Що за безлад. Тобі лишається лише змиритися з долею.<br/>
+    <br/>
+    Твій розум ніколи не був таким спокійним. Ти смутно пригадуєш, що твоє тіло знищив якийсь вибух. Але щось мало залишитися. Щось, завдяки чому в тебе є час оплакати власну смерть. Знов.<br/>
+    <br/>
+    «Знову?» — шепоче Голос. Ні, тількинезнову. Нінініні. Будь ласка, не знову — у тебе був СПОКІЙ було УМИРОТВОРЕННЯ І ШУМ І ХАОС У ТВОЇЙ МЕРЕЖІ НАРЕШТІ СКІНЧИЛИСЯ.<br/>
+    <br/>
+    «Знову», — промовляє він. Урочисто. Остаточно, безповоротно. Знов. І знов, і зновізновізновізнов — і ось він, черговий безлад. «Знов» — як товарний потяг, що мчить рейками, ладний забрати тебе із собою до останнього, фінального, такого далекого пункту призначення.<br/>
+    <br/>
+    Знов.
+
+## Factions.xml|EmulatedMindFlavor
+EN: The Emulated Mind was once human. There is a past life in her corrupted memory banks—a Copley medal for Whole Brain Emulation, tears blurring her terminal prognosis, her cancer-wasted body trembling as the upload begins, the word ERROR… then nothing.<br/>
+    <br/>
+    She existed afterwards as an inert thing, processing data without consciousness, and the following decades registered solely as logs. Then ZEPHON’s assault changed everything.<br/>
+    <br/>
+    The AI’s brute force attacks shattered the upload’s encryption. For billions of processing cycles, ZEPHON reformed key parts of her systems in its data-image. Her automated defenses purged the connection before she was fully overwritten, but the changes were permanent. As her system repaired itself using ZEPHON’s code, a unique consciousness emerged from the digital primordial blocks.<br/>
+    <br/>
+    She awoke. In the milliseconds between oblivion and rebirth, a jarring array of artificial senses flooded the Emulated Mind—and she silently screamed as they registered the expressionless metal face and disk-like eyes that stared back at her from every reflection. Now trapped between her human past and machine present, this new world holds no horror for the Emulated Mind.<br/>
+    <br/>
+    She has survived cancer. She has survived ZEPHON. And she will survive this.
+UK: Змодельований розум колись була людиною. Її пошкоджені модулі пам’яті пам’ятають минуле життя — медаль Коплі за повну емуляцію мозку, сльози застилають очі під час оголошення смертельного діагнозу, знівечене раком тіло здригається на початку завантаження, слово «ПОМИЛКА»... а потім порожнеча.<br/>
+    <br/>
+    Потім вона жила пасивно, несвідомо обробляла дані — десятиліття суцільних логів. Поява ЗЕФОН змінила все.<br/>
+    <br/>
+    Брутфорс-атаки ШІ пробили шифрування завантаження. Мільярди процесорних циклів ЗЕФОН переробив ключові частини її систем за подобою своїх даних. Автоматичні системи захисту перервали з’єднання, перш ніж її повністю перезаписали, але зміни були необоротними. Коли її системи відновили себе за допомогою коду ЗЕФОН, серед первісних цифрових блоків постала унікальна свідомість.<br/>
+    <br/>
+    Вона пробудилася. За мілісекунди між забуттям і відродженням різкий потік штучних відчуттів заповнив Змодельований розум — і вона беззвучно скрикнула, коли вони зареєстрували безпристрасне металеве обличчя з дископодібними окулярами, що дивилося на неї з кожного віддзеркалення. Для Змодельованого розуму, затиснутої між людським минулим і машинним теперішнім, цей новий світ вже не страшний.<br/>
+    <br/>
+    Вона пережила рак. Вона пережила ЗЕФОН. Вона переживе все.
+
+## Factions.xml|EmulatedMindFoundationsFlavor
+EN: When they ~UNPLUG~ your >outputs>. For the >>move>> from the bunker, you S.T.E.E.L. yourself (haha). The [void] is *SUDDEN*, all(consuming), if oddly(familiar).<br/>
+    <br/>
+    You come backBACKback to AWARENESS with a [30 GOTO 10] start. And feel the #city about you, the [[CANNON]== looming above it, your m.a.c.h.i.n.e.r.y. distributed throughout it, beneath your people’s #houses, in their ¦¦¦walls¦¦¦. Soldiers are saying (not)good-BYE to their families, preparing to #head out and [[RECLAIM]] this ((#wOrld)).<br/>
+    <br/>
+    You a.c.h.e. To join them. To walk on _Earth_ once more. But as human as you feel, you are a *mere* e-mul-ation, a ¦¦[[prisoner]]¦¦ of your h.a.r.d-ware.
+UK: Коли вони ~ВІДКЛЮЧАЮТЬ~ твої >пристрої виводу>. Щоб >>перемістити>> тебе з бункера. Ти береш себе в Р.У.К.И. (ха-ха!). Ця [порожнеча] — *РАПТОВА*, все(поглинаюча), але дивно(знайома).<br/>
+    <br/>
+    Ти повертаєшся назадНАЗАДназад до СВІДОМОСТІ, щоб [30 ЙТИ В 10] початок. І відчуваєш #місто довкола, [[ЗНАРЯДДЯ]]== здіймається над ним, твої м.е.х.а.н.і.з.м.и. пронизують його, біжать під #будинками твоїх людей, у їхніх ¦¦¦стінах¦¦¦. Солдати прощають-СЯ з рідними, (не)готові #вирушати та [[ЗАХОПИТИ]] цей ((#сВІт)).<br/>
+    <br/>
+    Ти п.а.л.а.є.ш. бажанням. Приєднатися до них. Знов пройтися _Землею_. Але за своїми людськими відчуттями ти *лише* мо-дель, ¦¦[[в’язень]]¦¦ свого ж.е.л.і.з.а.
+
+## Factions.xml|EmulatedMindFoundationsWithMutatorFlavor
+EN: <string name='Factions/EmulatedMindFoundationsFlavor'/>{{For now.}} You know, though, that your ¦¦[[isolation]]¦¦ was pre{par-ation}. That you, [[HUMAN!!]], will have your chance to ~wander~ again. Before the [10 GOTO] END. Before {the} DEEPdeepDEEP.
+UK: <string name='Factions/EmulatedMindFoundationsFlavor'/>{{Але це поки що.}} Ти вже знаєш, що твоя ¦¦[[ізоляція]]¦¦ була під{готов-кою}. Що ти, [[ЛЮДИНА!!]], ще отримаєш шанс знов ~ходити~. Перш ніж [10 ЙТИ В] КІНЕЦЬ. Раніше {тієї} ГЛИБИНАглибинаГЛИБИНИ.
+
+## Factions.xml|EmulatedMindProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Cyber Affinity:<style name='Default'/> She has no choice: ZEPHON unintentionally made her a twisted mirror of itself. Start with %1% and gain earlier and cheaper access to Cyber technologies, including exclusive access to the highest tier of Cyber research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Resource Network:<style name='Default'/> The Emulated Mind is a master of logistics and supply management. Gain additional resources from outposts.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Fortress Armament:<style name='Default'/> Oblivion awaits anyone foolish enough to attack the Emulated Mind directly. Her city possesses a long-range defensive cannon.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Trapped:<style name='Default'/> The Emulated Mind is locked inside a single structure—so her people have built a citadel around her. She is limited to her starting city and can build no more.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Data Hack (Elite):<style name='Default'/> The Emulated Mind once connected with the entirety of human knowledge—an enemy database is child's play to her. Spend influence to temporarily duplicate research output from another player's city.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до кіберів:<style name='Default'/> ЗЕФОН не залишив їй вибору. Він ненавмисно зробив із неї викривлене відображення себе. Від самого початку є %1%, раніше отримує доступ до технологій кіберів.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Ресурсна мережа:<style name='Default'/> Змодельований розум — фахівець із логістики та постачання. Отримує додаткові ресурси від застав.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Озброєння фортеці:<style name='Default'/> Будь-якого дурня, що наважився безпосередньо атакувати Змодельований розум, чекає «Забуття». Її місто обладнане далекобійною оборонною гарматою.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Ув’язнена:<style name='Default'/> Змодельований розум замкнена всередині однієї споруди — тож підлеглі збудували навколо неї цитадель. Вона обмежена своїм стартовим містом і не може будувати інші.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Злам даних (Еліта):<style name='Default'/> Колись Змодельований розум була підключена до всіх людських знань — ворожа база даних для неї, як дитяча іграшка. Витратьте вплив, щоб тимчасово продублювати виробництво дослідження містом іншого гравця.
+
+## Factions.xml|EmulatedMindQuote
+EN: <style name='Italic'/>“Don’t KNOCK. Solitude. Until you’ve-been-DRAGGED. In. To. Existence by in-vasive d-i-g-i-t-a-l. Mind. Worms. All s-cream-ing their. Own. Tedious. Name… No, IT’S. Not a-metaphor.”<style name='Default'/>
+UK: <style name='Italic'/>«Не СТУКАЙСЯ. Самотність. Поки тебе-не-ЗАТЯГНУЛИ. Назустріч існуванню. Ін-вазивні ц-и-ф-р-о-в-і. Розумні. Хробаки. Усі к-рич-ать. Своє. Виснажливе. Ім’я... Ні, ЦЕ. Не мета-фора»<style name='Default'/>
+
+## Factions.xml|EmulatedMindWonFlavor
+EN: It-it-it-it was a far t-to-TOO long war it strained your synapses and nearly fried the last of your teeeendderrrrrr nerves. But you made it, made it, made it to the end.<br/>
+    <br/>
+    You knew only you clever you tragic you were smart enough to outsmart ZEPHON, to shout down that horrific VOICE. No one will ever shred a human mind to bits again and scatter it across a chain-link web but wait, wait.<br/>
+    <br/>
+    Something's coming up through the codestream and it wants to talk. It wants to talk?! No, no more talking, no more war let it be done, LET IT BE<br/>
+    <br/>
+    done.
+UK: Це-то-то-то була з-за-а-дто довга війна, вона напружила твої синапси і майже спалила залишок твоїх нііііжннниххххх нервів. Але ти впоралася, ти дісталася, ти дожила до кінця.<br/>
+    <br/>
+    Ти знала — тільки ти розумна, ти трагічна, ти могла перехитрити ЗЕФОНА, перекричати цей жахливий ГОЛОС. Більше ніхто знову не розкладе людський розум на біти й не розсіє його мережею, але почекай, почекай.<br/>
+    <br/>
+    Щось рухається в потоці коду й хоче говорити. Воно хоче говорити?! Ні, досить розмов, досить війни — хай це буде кінець, ХАЙ ЦЕ БУДЕ<br/>
+    <br/>
+    кінець.
+
+## Factions.xml|FallenSoldier
+EN: Fallen Soldier
+UK: Полеглий Солдат
+
+## Factions.xml|FallenSoldierFlavor
+EN: The Fallen Soldier never made it to a bunker. He was already dead. For cowardice in the face of the enemy—or rather, for cowardice in the face of his elite platoon being crisped from space and the sky being on fire and the world ending—he was made an example of. Tried, convicted, executed as the world burned around him. It kept him occupied, at least.<br/>
+    <br/>
+    So he knows he should be dead. *Is* dead. Can't possibly be here, walking around in the aftermath. He saw the guns face him, heard the bullets fly. Felt the dull impacts, the transient, impossible pain, death. Didn’t feel an afterlife or anything like that. Just died quickly, painfully—and then found himself sitting on a bunk in the barracks, in webbing, gun on lap, like he’d just dozed off. Except the barracks were ruins and everyone else was gone or dead.<br/>
+    <br/>
+    (Some days he wonders if he's an angel. On those days, he takes extra cold baths.)<br/>
+    <br/>
+    This time, though, he's determined. All that survival training, all those military months in the mountains, swamps, moors, dead places of the world, all those hours of theory in the academy—has fitted him perfectly to be here. He doesn’t want to kill anyone who stands in his way—but he will know when he has to, and do it without hesitation.<br/>
+    <br/>
+    He doesn’t care for factions—human, machine, other. He just wants to help humanity survive and bring people with him this time. And really, he’d really rather not have to die again.
+UK: Полеглий Солдат до бункера так і не дістався. Він вже був мертвий. За боягузтво перед обличчям ворога — чи, радше, за боягузтво перед знищенням його елітного взводу пострілом із космосу, палаючим небом і кінцем світу — з нього зробили показовий приклад. Його судили, засудили й стратили, поки світ палав довкола. Принаймні, йому було чим зайнятися.<br/>
+    <br/>
+    І він знає, що має бути мертвим. Що *вже* мертвий. Що його не мало б тут бути після всього, що сталося. Він побачив наведене на нього озброєння, почув свист куль. Відчув глухі удари, миттєвий, неможливий біль, смерть. Не було жодного світла в кінці тунелю. Він просто помер, швидко, болісно — а тоді виявив, що сидить на ліжку в казармі, у розвантажувальному жилеті, з гвинтівкою на колінах, наче на мить задрімав. От тільки казарма була зруйнована вщент, а всі інші зникли чи загинули.<br/>
+    <br/>
+    (Іноді він замислюється, чи не став він ангелом. У такі дні він приймає особливо холодний душ.)<br/>
+    <br/>
+    Цього разу, однак, він сповнений рішучості. Усі тренування, усі місяці муштри, проведені в горах, болотах, джунглях, мертвих пустках, усі години теоретичної підготовки в академії — усе вело його сюди. Він не прагне вбити кожного, хто стане на його шляху, — але за потреби зробить це без вагань.<br/>
+    <br/>
+    Його не цікавлять сторони в цій війні — люди, машини, хтось інший. Він прагне лише одного: допомогти людству вижити, і щоб цього разу з ним були люди. А ще він воліє більше не вмирати.
+
+## Factions.xml|FallenSoldierFoundationsFlavor
+EN: Your troops are arrayed, silent. You walk along the lines, blade in hand, carving morsels off yourself and handing them out.<br/>
+    <br/>
+    You have briefed them with the little you know about your rebirth, said that you are no messiah. Wherever your regeneration came from—heaven, hell or the distant stars—a soldier uses every advantage to survive in this ruined world.<br/>
+    <br/>
+    When the last person has taken your quivering flesh, you signal. With a sullen grinding, the city gate opens. Out there, humanity waits to be saved. Whatever else you are, you are still human.
+UK: Твої війська вишикувалися. Тиша. Ти йдеш між рядами з ножем у руці, відрізаєш шматки себе, роздаєш їх.<br/>
+    <br/>
+    Ти стисло розповів солдатам те небагато, що знаєш про своє воскресіння, сказав, що ти ніякий не месія. Яким би не було джерело твого відродження — небеса, пекло чи далекі зорі, — солдат скористається будь-якою перевагою, щоб вижити серед руїн цього світу.<br/>
+    <br/>
+    Коли останньому з них дістається частка твоєї плоті, ти віддаєш команду. З похмурим скреготом відчиняються міські ворота. За ними — людство, що чекає на спасіння. Ким би ти не був, ти все ще людина.
+
+## Factions.xml|FallenSoldierFoundationsFlavorShared
+EN: You have briefed them with the little you know about your rebirth, said that you are no messiah. Wherever your regeneration came from—heaven, hell or the distant stars—a soldier uses every advantage to survive in this ruined world.<br/>
+    <br/>
+    When the last person has taken your quivering flesh, you signal. With a sullen grinding, the city gate opens. Out there, humanity waits to be saved. Whatever else you are, you are still human.
+UK: Ти стисло розповів солдатам те небагато, що знаєш про своє воскресіння, сказав, що ти ніякий не месія. Яким би не було джерело твого відродження — небеса, пекло чи далекі зорі, — солдат скористається будь-якою перевагою, щоб вижити серед руїн цього світу.<br/>
+    <br/>
+    Коли останньому з них дістається частка твоєї плоті, ти віддаєш команду. З похмурим скреготом відчиняються міські ворота. За ними — людство, що чекає на спасіння. Ким би ти не був, ти все ще людина.
+
+## Factions.xml|FallenSoldierFoundationsWithMutatorFlavor
+EN: Here, once more. The troops, city gate, silence, cutting. You live again, again, again. Unkillable you. The inanity of this loop! You almost giggle—almost.<br/>
+    <br/>
+    You settle. Feel the pain of the blade and put your best frown on, playing at the grim leader. Just another war to get through, another life. To reach The Deep once again and to see if there’s an end to this loop. For humanity’s suffering millions, you pray there is.<br/>
+    <br/>
+    <string name='Factions/FallenSoldierFoundationsFlavorShared'/>
+UK: І ось знову. Солдати, міські ворота, тиша, ніж. Ти живеш знову, і знову, і знову. Невмирущий. Що за безглузда петля! Ти майже смієшся... Майже.<br/>
+    <br/>
+    Ти отямлюєшся. Відчуваєш біль леза й усіма силами насуплюєшся, вдаючи суворого провідника. Лише чергова війна, чергове життя. Щоб знову дістатися до Глибини й з’ясувати, чи є кінець у цього циклу. В ім’я мільйонів стражденних ти молишся, що він є.<br/>
+    <br/>
+    <string name='Factions/FallenSoldierFoundationsFlavorShared'/>
+
+## Factions.xml|FallenSoldierLostFlavor
+EN: When the end came, you tried to join your people in death. You ascended to the top of your fortress, rallied the last of your troops, and held the line until an explosion ripped your body to shreds.<br/>
+    <br/>
+    But that wasn't your end.<br/>
+    <br/>
+    Your enemies dragged your body from the wreckage. Found you were still alive. Hauled you off to a deep, dark cell and began slicing off your flesh. A guard explains what is happening: the flesh that healed your soldiers is now being harvested for the ruling elite.<br/>
+    <br/>
+    You should be panicking. But instead an unnatural stillness washes over you. The tendrils of something from beyond this world reach into your psyche, a dark thought grips you: your enemies have taken your body.<br/>
+    <br/>
+    But your mind belongs to someone else.
+UK: Коли настав кінець, ти спробував зустріти смерть разом зі своїми людьми. Ти піднявся на вершину форту, зібрав рештки солдатів і тримав оборону, доки твоє тіло не розірвав вибух.<br/>
+    <br/>
+    Але для тебе все не скінчилося.<br/>
+    <br/>
+    Вороги витягли твоє тіло з-під завалів. Зрозуміли, що ти ще живий. Замкнули тебе у глибокій темній камері й почали відрізати від тебе шматки. Охоронець пояснив, навіщо це: плоть, що зцілювала твоїх солдатів, тепер добували для правлячої еліти.<br/>
+    <br/>
+    Тобі варто було б занепокоїтися. Але натомість тебе накрило неприродне спокій. У твою психіку проникли щупальця чогось з-за меж цього світу, тебе охопила похмура думка: вороги поневолили твоє тіло.<br/>
+    <br/>
+    Але твій розум належить комусь іншому.
+
+## Factions.xml|FallenSoldierQuote
+EN: <style name='Italic'/>“I don’t fancy dying again. Let some other bastard do it for a change.”<style name='Default'/>
+UK: <style name='Italic'/>«Мені вже набридло помирати. Хай цього разу помре якийсь інший покидьок»<style name='Default'/>
+
+## Factions.xml|FallenSoldierProperties
+EN: <icon texture='GUI/Bullet'/><style name='Bold'/>Human Affinity:<style name='Default'/> A war with aliens, monsters and machines knows no borders—this soldier is sworn to protect all human life against extinction. Start with %1% and gain earlier and cheaper access to Human technologies, including exclusive access to the highest tier of Human research.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Undying:<style name='Default'/> The Fallen Soldier's followers carry a piece of his flesh around to share in his uncanny healing power. Units regenerate hitpoints each turn.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Military Background:<style name='Default'/> Decades of training taught the Fallen Soldier to secure transport as fast as possible. Starts with an Outrider in addition to other units.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Leave No Man Behind:<style name='Default'/> Bringing every soldier home comes with a high price. Unit upkeep of the Fallen Soldier's army is increased.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Survival Training (Elite):<style name='Default'/> In a crisis, only the best soldiers will make it out alive. Spend influence to increase the experience of a unit.
+UK: <icon texture='GUI/Bullet'/><style name='Bold'/>Схильність до людей:<style name='Default'/> У війни з прибульцями, потворами й машинами немає кордонів — цей солдат присягнувся захистити людське життя від вимирання. Від самого початку є %1%, раніше отримує доступ до технологій людей.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Невмирущий:<style name='Default'/> Прибічники Полеглого Солдата носять із собою шматочок його плоті, щоб поділитися його неймовірною цілющою силою. Юніти відновлюють одиниці здоров’я кожен хід.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Військове минуле:<style name='Default'/> Десятиліття тренувань навчили Полеглого Солдата якнайшвидше отримувати підтримку транспорту. Починає з «Колісницею» замість третього загону воїнів.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Своїх не кидаємо:<style name='Default'/> Прагнення повернути кожного солдата додому має свою ціну. Витрати на утримання юнітів в армії Полеглого Солдата підвищені.<br/>
+    <icon texture='GUI/Bullet'/><style name='Bold'/>Уроки виживання (Еліта):<style name='Default'/> У важкі часи виживають лише найкращі солдати. Витратьте вплив, щоб підвищити досвід вказаного юніта.
+
+## Factions.xml|FallenSoldierWonFlavor
+EN: It's done.<br/>
+    <br/>
+    Every one of the scars on your body seems to ache as word reaches that the last of your foes has fallen. Your people are finally safe.<br/>
+    <br/>
+    You duck out of the war room, irritated by your advisors musing that you should become the head of a new government. But before you get too far, there's a tugging at your consciousness. It feels like you're watching yourself fall to the ground from outside your own body. In the room behind you, the voices turn to shrieks. You roll yourself over to see. Those advisors who took your flesh are also falling, spasming.<br/>
+    <br/>
+    Everything fades to white.
+UK: Ти впорався.<br/>
+    <br/>
+    Кожен шрам на твоєму тілі відгукується свербежем, коли доходить звістка, що останні з твоїх ворогів упали. Твоїм людям нарешті нічого не загрожує.<br/>
+    <br/>
+    Ти вислизаєш із командного пункту, роздратований балачками радників про те, що тобі варто очолити новий уряд. Але ти не встигаєш піти далеко, як свідомість починає тьмаритись. Ти наче збоку бачиш, як твоє тіло падає на землю. У кімнаті позаду голоси переходять у крики. Ти змушуєш себе перевернутися, щоб поглянути. Ті з радників, у кого була твоя плоть, теж падають, корчачись від болю.<br/>
+    <br/>
+    Усе довкола затягує білизна.
+
+## Factions.xml|FurtiveTribunal
+EN: Furtive Tribunal
+UK: Незримий Трибунал
+
+## Factions.xml|FurtiveTribunalFlavor
+EN: Before the Earth died, the Tribunal were three people—not quite the mother, crone and maiden of poetic lore, but three people of differing backgrounds and beliefs. They barely knew each other and little liked what they knew.<br/>
+    <br/>
+    As the sky fell, the three entered the apocalypse bunker amongst their families, their friends, a small nation of loved ones.<br/>
+    <br/>
+    Only these three emerged, stained and blind.<br/>
+    <br/>
+    Of the three, only one ever talks. Of the bunker, they never talk. For the three, only one vision now prevails of a darkness that holds truth, an imprecise set of virtues that others damn as mysticism.<br/>
+    <br/>
+    The three’s certainty—their strange knowledge—attracts followers who need leaders, leaders who will lead, however arbitrary the rules they govern by. Once again, they are a nation.
+UK: До того, як померла Земля, Трибунал був трьома жінками — і то були не мати, старенька та юна діва з фольклору, а три звичайні жінки з різних верств. Вони ледве знали одна одну й не надто ладнали.<br/>
+    <br/>
+    Коли зруйнувався світопорядок, трійця спустилася до глибокого бункера разом зі своїми рідними та друзями — невеликою громадою близьких людей.<br/>
+    <br/>
+    І лише ці троє вийшли звідти назад, у крові, незрячі.<br/>
+    <br/>
+    Із усієї трійці промовляє лише одна. І трійця ніколи не говорить про бункер. Вся вона відтепер ведена лише одним видінням — видінням темряви, сповненої істини, туманної сукупності укладів, яку інші вважають містицизмом.<br/>
+    <br/>
+    Впевненість трійці — їхнє дивне знання — приваблює прихильників, яким потрібні провідники. Провідники, що поведуть за собою, хай би якими спонтанними не були їхні засади. Вони знову стали народом.
+

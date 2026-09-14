@@ -19,7 +19,7 @@
 	<entry name="AcceptGift/AcceptAmount" value="&lt;style name='Bold'/&gt;Погодитися прийняти подарунок:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptGift/AcceptAmountResult" value="Ви подарували ресурси, ваші відносини зі стороною %2% покращилися."/>
 	<entry name="AcceptMapSharing" value="&lt;style name='Bold'/&gt;Погодитися обмінятися картами:&lt;style name='Paragraph'/&gt; "/>
-	<entry name="AcceptMapSharingResult" value="Ви і %2% обмінялися дослідженими клітинками"/>
+	<entry name="AcceptMapSharingResult" value="Ви і %2% обмінялися дослідженими клітинками."/>
 	<entry name="AcceptPaymentForDeal/AskAmount" value="&lt;style name='Bold'/&gt;Обміркувати компенсацію за угоду:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPaymentForDeal/AcceptAmount" value="&lt;style name='Bold'/&gt;Погодитися на компенсацію за угоду:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPeace" value="&lt;style name='Bold'/&gt;Погодитися укласти мир:&lt;style name='Paragraph'/&gt; "/>
@@ -30,10 +30,10 @@
 	<entry name="AcceptPeaceWithThirdParty/AcceptPartyResult" value="%2% пропонує укласти мир стороні %3%."/>
 	<entry name="AcceptPraise" value="&lt;style name='Bold'/&gt;Погодитися вислухати похвалу:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptPraiseResult" value="Ваші та ваших друзів відносини зі стороною %2% покращилися."/>
-	<entry name="AcceptTradeAgreement" value="&lt;style name='Bold'/&gt;Погодитися укласти торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="AcceptTradeAgreement" value="&lt;style name='Bold'/&gt;Погодитися укласти торговельну угоду:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptTradeAgreementResult" value="Ви уклали торговельну угоду, ваші відносини зі стороною %2% покращилися."/>
 	<entry name="AcceptTradeAgreementHint" value="&lt;string name='Diplomacy/TradeAgreementHint'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Diplomacy/IncreaseStandingHint'/&gt;"/>
-	<entry name="AcceptTradeAgreementTermination" value="&lt;style name='Bold'/&gt;Погодитися розірвати торговельну угоду:&lt;style name='Paragraph'/&gt;. "/>
+	<entry name="AcceptTradeAgreementTermination" value="&lt;style name='Bold'/&gt;Погодитися розірвати торговельну угоду:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptTradeAgreementTerminationResult" value="&lt;string name='Diplomacy/TerminateTradeAgreementResult'/&gt;"/>
 	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AskParty" value="&lt;style name='Bold'/&gt;Обміркувати розірвання торговельної угоди з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
 	<entry name="AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="&lt;style name='Bold'/&gt;Погодитися розірвати торговельну угоду з третьою стороною:&lt;style name='Paragraph'/&gt; "/>
@@ -396,7 +396,7 @@
 	<entry name="Chieftess/CondemnAlliance" value="Ти? І %3%? Мир-дружба? У тебе зовсім мізків не залишилося?"/>
 	<entry name="Chieftess/CondemnCityDestruction" value="%3%? Якого БІСА? Там у мене ще непогана схованка лишалася! І пара друзяк! ДО ЧОРТА!"/>
 	<entry name="Chieftess/CondemnInterferenceAttempt" value="О, ні, потвора. Таке тобі з рук не зійде. Якщо ще раз захочеш натиснути на моїх друзяк, краще подумай як слід."/>
-	<entry name="Chieftess/CondemnTradeAgreement" value="О ні, %3% чекає на іншому боці пустки цілу гору твоїх багатств? Клянуся, їх не підкараулить жменька обідраних Спустошників..."/>
+	<entry name="Chieftess/CondemnTradeAgreement" value="О ні, %3% чекає на іншому боці пустки цілу гору твоїх багатств? Клянуся, їх не підкараулить жменька обідраних Спустошувачів..."/>
 	<entry name="Chieftess/CondemnWar" value="Якщо ти збираєшся когось убити, то чому це %3%? Я ж сама хотіла це зробити."/>
 	<entry name="Chieftess/DeclareWar/Anchorite" value="Час тобі розім’яти свої кісточки, дідугане!"/>
 	<entry name="Chieftess/DeclareWar/Chieftess" value="Ого. Це так дивно, що навіть не віриться. Але якщо ти — це я, то ми обидві маємо хотіти прирізати одна одну, так чи ні."/>
@@ -450,7 +450,7 @@
 	<entry name="Chieftess/OfferPeace/InfiniteCount" value="Дідусь. Я чула, ти бачиш майбутнє. Якщо я перестану тебе вбивати, ти думаєш… ти міг би дати мені лотерейні номери на наступний тиждень?"/>
 	<entry name="Chieftess/OfferPeace/PlatinumScion" value="Подобається твій прикид, хлопче. Ось угода: я перестаю вбивати твоїх корешів. Ти робиш гарну сукню 14-го розміру, ми йдемо на вечерю. Ти платиш."/>
 	<entry name="Chieftess/OfferPeace/PracticalRomantic" value="Не зрозумій неправильно, але, е-е... Можна у тебе позичити якісь вірші? Через усі ці вбивства у мене розігралася сентиментальність.&lt;br/&gt;&lt;br/&gt;(Але пізніше я тебе все одно вб’ю. Як пити дати.)"/>
-	<entry name="Chieftess/OfferPeace/RogueOperative" value="Слухай, у мене вже Спустошники закінчуються. Треба набрати нових, тож твоє вбивство доведеться відкласти на інший день. Домовились?"/>
+	<entry name="Chieftess/OfferPeace/RogueOperative" value="Слухай, у мене вже Спустошувачі закінчуються. Треба набрати нових, тож твоє вбивство доведеться відкласти на інший день. Домовились?"/>
 	<entry name="Chieftess/OfferPeace/TwistedMother" value="Хм. Ніколи б не подумала, що ти грім-баба. Ну молодець."/>
 	<entry name="Chieftess/OfferPeace/UntoldProphet" value="Гей, дрібното, ти вже не сердься за всі звірства, спалені церкви та інше. Я тут вирішила для різноманіття пограбувати когось іншого. Дам тобі перепочити, ти ж іще зовсім дитина. Бувай!"/>
 	<entry name="Chieftess/OfferTradeAgreement" value="Ти мої каравани грабуєш, а я твої. А що, як ми обійдемося без проміжних етапів і відправлятимемо їх одне одному напряму?"/>
@@ -580,7 +580,7 @@
 	<entry name="EmulatedMind/OfferMapSharing" value="Я *знаю* (що-я-шукаю), але не (де-це-шукати). Може, буде корисно об-МІНЯТИСЯ (нашими-знаннями)?"/>
 	<entry name="EmulatedMind/OfferPeace" value="ВІЙНА визначає не (хто.пере-може), а (хто.залишиться). І мені б хотілося, щоб _ЗАЛИШИЛИСЯ_ ми ОБИДВА. Давай ми ПРИПИНИМО всю цю дур-ню?"/>
 	<entry name="EmulatedMind/OfferPeace/Anchorite" value="Мені... (шкода) акринів на кшталт тебе, замкнених тут. Я-то знаю. Що значить бути .з-а-м-к-н-е-н-о. У ЧУЖОМУ середовищі. Сподіваюся, твій (Чужородний-ксено-)народ може знайти (спокій і нове місце під сонцем)."/>
-	<entry name="EmulatedMind/OfferPeace/Chieftess" value="Я НЕ пошкодую (часу). Щоб ВИСЛІДИТИ і тебе, і всіх твоїх Спустошників. Тому тримайся подалі від (міста і/або моїх людей)."/>
+	<entry name="EmulatedMind/OfferPeace/Chieftess" value="Я НЕ пошкодую (часу). Щоб ВИСЛІДИТИ і тебе, і всіх твоїх Спустошувачів. Тому тримайся подалі від (міста і/або моїх людей)."/>
 	<entry name="EmulatedMind/OfferPeace/EmulatedMind" value="Однакові, симетричні УДАРИ. Сили.рівні. Марно = битися."/>
 	<entry name="EmulatedMind/OfferPeace/FallenSoldier" value="МИРмирМир. Я не думаю, що г-у-м-а-н-н-о. Буде Продовжувати цю (війну)."/>
 	<entry name="EmulatedMind/OfferPeace/FurtiveTribunal" value="Мені ВІДРАЗЛИ-ва. Ваша відданість. Цим (*потворним, спотворюючим*) звукам з ГЛИБИН космосу. Але ж не ВБИВАТИ вас за це."/>
@@ -988,9 +988,9 @@
 	<entry name="HeartlessArtificer/EndCall/Hostile" value="Моє терпіння до тебе вичерпується..."/>
 	<entry name="HeartlessArtificer/EndCall/Neutral" value="Чуєш крики? І я теж ні. Хм-м... Прийдеться почати нову партію."/>
 	<entry name="HeartlessArtificer/FirstContact" value="Ах так, моє нове перешкода. Вітаю. Тобі слід дізнатися, хто я — з ким ти борешся.&lt;br/&gt;&lt;br/&gt;Я шукачка досконалості — особливо людської форми. Обраний мною шлях досить прямолінійний, але вимагає безпрецедентної самовіддачі. Радій, якщо почуєш крики, адже так ти зрозумієш, що моя імперія стає ближчою до ідеалу."/>
-	<entry name="HeartlessArtificer/OfferAlliance" value="Рідко хто так органічно вписується в мої проекти, і ще рідше — може їх покращити. Чи варто нам об’єднати зусилля і принести досконалість цим землям?"/>
+	<entry name="HeartlessArtificer/OfferAlliance" value="Рідко хто так органічно вписується в мої проєкти, і ще рідше — може їх покращити. Чи варто нам об’єднати зусилля і принести досконалість цим землям?"/>
 	<entry name="HeartlessArtificer/OfferGift" value="Твоя присутність розпалює у мені ще більшу продуктивність, тому правильно поділитися з тобою надлишком."/>
-	<entry name="HeartlessArtificer/OfferGift/OfferHighAmount" value="Це велика кількість, але я бачила багато твоїх проектів і хочу, щоб усі вони увінчалися успіхом."/>
+	<entry name="HeartlessArtificer/OfferGift/OfferHighAmount" value="Це велика кількість, але я бачила багато твоїх проєктів і хочу, щоб усі вони увінчалися успіхом."/>
 	<entry name="HeartlessArtificer/OfferGift/OfferLowAmount" value="Бери. Може здатися, що це трохи, але це саме стільки, скільки потрібно."/>
 	<entry name="HeartlessArtificer/OfferGift/OfferMaxAmount" value="Радій, адже це все, чим я володію! Як ще мені показати, що я так само захоплена твоїми великими трудами, як і своїми?!"/>
 	<entry name="HeartlessArtificer/OfferGift/OfferMediumAmount" value="Думаю, цього немало. Я бачила, над чим ти працюєш, і хочу допомогти завершити розпочате."/>
@@ -1470,7 +1470,7 @@
 	<entry name="PlatinumScion/AcceptPaymentForDeal/AcceptAmount" value="Це покриє мої витрати."/>
 	<entry name="PlatinumScion/AcceptPaymentForDeal/AskAmount" value="Зазвичай узгоджую умови перед сумою. Але готовий зробити виняток. Скільки це коштуватиме."/>
 	<entry name="PlatinumScion/AcceptPeace" value="Звісно. Я можу отримати прибуток як у мирі, так і на війні. Люди все ще купують зброю."/>
-	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="Звісно. %3% був відволіканням від справжнього бізнесу бізнесу."/>
+	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty" value="Звісно. %3% був відволіканням від справжньої справи — бізнесу."/>
 	<entry name="PlatinumScion/AcceptPeaceWithThirdParty/AskParty" value="Я не знаю. Наші продукти добре йдуть на війні, навіть якщо наші люди ні. Хто?"/>
 	<entry name="PlatinumScion/AcceptPraise" value="Фондові ринки кажуть мені, наскільки я чудовий. Але, звісно, ще один підлабузник не зашкодить."/>
 	<entry name="PlatinumScion/AcceptTradeAgreement" value="З цього ми обидва отримаємо прибуток. Ти зробив мудрий вибір сьогодні."/>
@@ -1646,8 +1646,8 @@
 	<entry name="PracticalRomantic/DeclareWar/HeartlessArtificer" value="Твоє «майстерність» — наруга над природою! Я звільню світ від твоїх безумних витворів!"/>
 	<entry name="PracticalRomantic/DeclareWar/HollowWarlord" value="Ти сподіваєшся бути увіковіченим в епосах. Але ми, поети, не працюємо на замовлення. Після твоєї смерті не буде ні елегій, ні фінальної глави. Лише короткі молитви в пам’ять тих, кого ти вбив."/>
 	<entry name="PracticalRomantic/DeclareWar/HonorableAristocrat" value="Служба — це опіум, нав’язаний, щоб королі й багатії купалися в розкошах. Єдина міра успіху — це щастя, а не возвеличене достоїнство. Я віб’ю в тебе це розуміння."/>
-	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="Бачити Світ у Зернині Піску&lt;br/&gt;І Небеса в Дикій Квітці&lt;br/&gt;Тримати Нескінченність у долоні&lt;br/&gt;І Вічність у годині». Як Блейк, я захоплю тебе. І втримаю тебе."/>
-	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="Блискавкою, що руйнує, потоками щедрої крові, пролитої…» гімном моєї країни, я розчавлю тебе."/>
+	<entry name="PracticalRomantic/DeclareWar/InfiniteCount" value="«Бачити Світ у Зернині Піску&lt;br/&gt;І Небеса в Дикій Квітці&lt;br/&gt;Тримати Нескінченність у долоні&lt;br/&gt;І Вічність у годині». Як Блейк, я захоплю тебе. І втримаю тебе."/>
+	<entry name="PracticalRomantic/DeclareWar/PlatinumScion" value="«Блискавкою, що руйнує, потоками щедрої крові, пролитої…» гімном моєї країни, я розчавлю тебе."/>
 	<entry name="PracticalRomantic/DeclareWar/PracticalRomantic" value="Я мушу кинути тобі виклик саме з любові до тебе. Боротьба зробить нас обох кращими, загартує нас. Хай навіть один із нас залишиться на узбіччі історії — від цього виграє все людство."/>
 	<entry name="PracticalRomantic/DeclareWar/RogueOperative" value="У тобі є та нотка людяності, якої бракує іншим, — необхідність виживання відкриває тобі шляхи, якими інші не підуть. Звісно, ти зайшла надто далеко, як на мене, і насувається війна. Але я все одно люблю тебе за цю рису."/>
 	<entry name="PracticalRomantic/DeclareWar/TwistedMother" value="Мене засмучує, що твоє життя — не кришталева драбина. Мені шкода, що в ньому були й тріщини, і скалки, і відірвані дошки, і підлоги без килима... Мій жаль у тому, що я додаю тобі ще більше скорботи."/>
@@ -2241,7 +2241,7 @@
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="Наші сили досягли своїх цілей і повертаються на свої позиції на 2-й паралелі."/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="Повідомлення для хакера! Ми вирішили припинити військові операції проти тебе. Ми на 97%% певні, що нещодавній випадок зламу (невідоме джерело) не став причиною цього рішення."/>
 	<entry name="Zephon/OfferPeace/TwistedMother" value="Шановна/шановний/шановне мадам/сер/щось, враховуючи твою/вашу/їх неодноразову зміну адреси, ми спо-спостерігаємо помилки GPS-трекера. Ми призупиняємо роботу нашого сервісу для розслідування."/>
-	<entry name="Zephon/OfferPeace/UntoldProphet" value="У літературних джерелах діти вірять у неймовірні речі. Ти віриш у те, що в даний час ми прагнемо миру."/>
+	<entry name="Zephon/OfferPeace/UntoldProphet" value="У літературних джерелах діти вірять у неймовірні речі. Чи віриш ти, що ми прагнемо миру — хоча б на якийсь час?"/>
 	<entry name="Zephon/OfferTradeAgreement" value="За нашими розрахунками, ця торгова пропозиція оптимальна для нас обох. Відмова від неї коштуватиме значно дорожче, ніж ти уявляєш."/>
 	<entry name="Zephon/Praise" value="Ваша поведінка повністю в межах порогів толерантності наших моделей. Жодної критики неможливо висловити."/>
 	<entry name="Zephon/Praise/EconomiesOfScale" value="Згенерований звіт, Спадкоємець #368,456,222. Вражаючий виграш у ефективності від прогресивно зниженого контролю якості. Позначити для подальшого вивчення та/або реплікації."/>

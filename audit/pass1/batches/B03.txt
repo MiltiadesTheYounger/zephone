@@ -1,0 +1,1016 @@
+# B03: 249 entries from Actions.xml
+
+## Actions.xml|CryOfContrition
+EN: Cry of Contrition
+UK: Плач каяття
+
+## Actions.xml|CycleWeapon
+EN: Cycle Weapon
+UK: Зміна зброї
+
+## Actions.xml|CycleWeaponProperties
+EN: <icon texture='GUI/Bullet'/>Cycles active weapon
+UK: <icon texture='GUI/Bullet'/>Змінює активну зброю
+
+## Actions.xml|DanceOfTheErelim
+EN: Dance of the Erelim
+UK: Танець еремім
+
+## Actions.xml|DanceOfTheErelimProperties
+EN: <icon texture='GUI/Bullet'/>Attacks all adjacent enemy units
+UK: <icon texture='GUI/Bullet'/>Атакує всі суміжні ворожі юніти
+
+## Actions.xml|DarkCaress
+EN: Dark Caress
+UK: Темні пестощі
+
+## Actions.xml|DarkOmen
+EN: Dark Omen
+UK: Темне знамення
+
+## Actions.xml|DataHack
+EN: Data Hack
+UK: Злом даних
+
+## Actions.xml|Defend
+EN: Defend
+UK: Оборона
+
+## Actions.xml|DecoyFlares
+EN: Decoy Flares
+UK: Ракети-обманки
+
+## Actions.xml|DirectControl
+EN: Direct Control
+UK: Пряме керування
+
+## Actions.xml|Disappear
+EN: Disappear
+UK: Зникнення
+
+## Actions.xml|Disband
+EN: Disband
+UK: Розпуск
+
+## Actions.xml|DisbandDescription
+EN: <icon texture='GUI/Bullet'/>Disbands the unit
+UK: <icon texture='GUI/Bullet'/>Розформовує юніт
+
+## Actions.xml|DreamPrison
+EN: Dream Prison
+UK: Кайдани сну
+
+## Actions.xml|DutyOfCare
+EN: Duty of Care
+UK: Обов’язок піклування
+
+## Actions.xml|EchoesFromBeyond
+EN: Echoes from Beyond
+UK: Потойбічне луна
+
+## Actions.xml|EchoesFromBeyondDescription
+EN: Reveals target and adjacent tiles.
+UK: Розкриває вказану та прилеглі клітинки.
+
+## Actions.xml|Encircle
+EN: Encircle
+UK: Оточення
+
+## Actions.xml|EndbringersReversal
+EN: Endbringer's Reversal
+UK: Інверсія знищувача
+
+## Actions.xml|EndbringersReversalProperties
+EN: <icon texture='GUI/Bullet'/>Swaps positions with target unit
+UK: <icon texture='GUI/Bullet'/>Міняється розташуванням із вказаним юнітом
+
+## Actions.xml|EnhancedProbabilityAugment
+EN: Enhanced Probability Augment
+UK: Апгрейд — Поліпшення ймовірності
+
+## Actions.xml|EnrichedAlloys
+EN: Enriched Alloys
+UK: Збагачені сплави
+
+## Actions.xml|Entomb
+EN: Entomb
+UK: Ув’язнення
+
+## Actions.xml|EradicateBleed
+EN: Eradicate Bleed
+UK: Викорінення Течі
+
+## Actions.xml|EvadeFunction
+EN: Evade Function
+UK: Режим ухилення
+
+## Actions.xml|EvasionProcessor
+EN: Evasion Processor
+UK: Процесор ухилень
+
+## Actions.xml|EvasiveManeuvers
+EN: Evasive Maneuvers
+UK: Маневри ухилення
+
+## Actions.xml|ExperimentalDrugs
+EN: Experimental Drugs
+UK: Експериментальні препарати
+
+## Actions.xml|ExperimentalDrugsProperties
+EN: <icon texture='GUI/Bullet'/>Applies experimental effect<string name='Modifiers/ToTargetAlliedBiologicalUnit'/>
+UK: <icon texture='GUI/Bullet'/>Додає експериментальний ефект<string name='Modifiers/ToTargetAlliedBiologicalUnit'/>
+
+## Actions.xml|Extirpate
+EN: Extirpate
+UK: Вириванні
+
+## Actions.xml|ExtirpateProperties
+EN: <icon texture='GUI/Bullet'/>Usable when the enemy can be pulled to one of the three free adjacent tiles closest to the enemy
+UK: <icon texture='GUI/Bullet'/>Можна використовувати, якщо ворога можна притягти в одну з трьох найближчих до нього суміжних клітинок
+
+## Actions.xml|EyeOfZephon
+EN: Eye of ZEPHON
+UK: Око ЗЕФОНа
+
+## Actions.xml|FailedTransfigurations
+EN: Failed Transfigurations
+UK: Невдалі преображення
+
+## Actions.xml|FirstAidDrone
+EN: First Aid Drone
+UK: Дрон першої допомоги
+
+## Actions.xml|FleshTree
+EN: Meat Harvest
+UK: Урожай м’яса
+
+## Actions.xml|Frenzy
+EN: Frenzy
+UK: Буйство
+
+## Actions.xml|FrenzyProperties
+EN: <icon texture='GUI/Bullet'/>Usable when adjacent to two or more enemy units
+UK: <icon texture='GUI/Bullet'/>Можна використовувати, якщо в суміжних клітинках є два або більше ворожих юніти
+
+## Actions.xml|FringePathways
+EN: Fringe Pathways
+UK: Окраїнні стежки
+
+## Actions.xml|FringePathwaysProperties
+EN: <icon texture='GUI/Bullet'/>Teleports unit to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Телепортує юніта на вказану видиму клітинку
+
+## Actions.xml|FoundCity
+EN: Found City
+UK: Заснування міста
+
+## Actions.xml|FoundCityProperties
+EN: <icon texture='GUI/Bullet'/>Consumes the unit to found a new city on target tile<br/>
+    <icon texture='GUI/Bullet'/>Cities can only be found where there are no other cities within a %1% tile radius<br/>
+    <icon texture='GUI/Bullet'/>Each city after the first decreases loyalty in all cities by %2%
+UK: <icon texture='GUI/Bullet'/>Витрачає юніт для заснування нового міста на вказаній клітинці<br/>
+    <icon texture='GUI/Bullet'/>Міста можна будувати на відстані не менше %1% клітинок один від одного<br/>
+    <icon texture='GUI/Bullet'/>Кожне нове місто після першого знижує лояльність у всіх містах на %2%
+
+## Actions.xml|FoundationOfBlood
+EN: Foundation of Blood
+UK: Побудовано на крові
+
+## Actions.xml|GhostWalk
+EN: Ghost Walk
+UK: Примарний крок
+
+## Actions.xml|GomorranImmolation
+EN: Gomorran Immolation
+UK: Гоморрське спалення
+
+## Actions.xml|GravitonJammer
+EN: Graviton Jammer
+UK: Гравітонний глушник
+
+## Actions.xml|GroundedFire
+EN: Grounded Fire
+UK: Закопування
+
+## Actions.xml|Hast
+EN: Hast
+UK: Ривок
+
+## Actions.xml|Heroism
+EN: Heroism
+UK: Героїзм
+
+## Actions.xml|Hijack
+EN: Hijack
+UK: Угон
+
+## Actions.xml|HiredHands
+EN: Hired Hands
+UK: Найманна сила
+
+## Actions.xml|HiredHandsDescription
+EN: <icon texture='GUI/Bullet'/>Rushes production so it completes next turn<br/>
+    <icon texture='GUI/Bullet'/>Cost scales with remaining production cost
+UK: <icon texture='GUI/Bullet'/>Прискорює виробництво, воно завершиться на наступний же хід<br/>
+    <icon texture='GUI/Bullet'/>Ціна пропорційна залишковій ціні виробництва
+
+## Actions.xml|HoldPosition
+EN: Hold Position
+UK: Утримання позиції
+
+## Actions.xml|HoldPositionDescription
+EN: <icon texture='GUI/Bullet'/>Holds position until engaged by an enemy unit
+UK: <icon texture='GUI/Bullet'/>Не рухається з місця, поки не відволічеться на ворога
+
+## Actions.xml|HoldPositionUntilHealed
+EN: Hold Position Until Healed
+UK: Утримання позиції до зцілення
+
+## Actions.xml|HoldPositionUntilHealedProperties
+EN: <icon texture='GUI/Bullet'/>Holds position until fully healed<br/>
+    <icon texture='GUI/Bullet'/>%1% <string name='Attributes/HitpointsIcon'/> hitpoints each turn from traits<br/>
+    <icon texture='GUI/Bullet'/>%2% <string name='Attributes/HitpointsIcon'/> hitpoints each turn from healing rate while no damage taken and full movement and action points remaining<br/>
+    <icon texture='GUI/Bullet'/>%3%
+UK: <icon texture='GUI/Bullet'/>Не рухається з місця, поки повністю не зцілиться<br/>
+    <icon texture='GUI/Bullet'/>%1% <string name='Attributes/HitpointsIcon'/> од. здоров’я за хід від властивостей<br/>
+    <icon texture='GUI/Bullet'/>%2% <string name='Attributes/HitpointsIcon'/> од. здоров’я за хід від швидкості лікування, поки не отримує шкоди і зберігає всі пункти дії та руху<br/>
+    <icon texture='GUI/Bullet'/>%3%
+
+## Actions.xml|HolyBond
+EN: Holy Bond
+UK: Священні узи
+
+## Actions.xml|HolyInferno
+EN: Holy Inferno
+UK: Священне пекло
+
+## Actions.xml|HordeMandate
+EN: Horde Mandate
+UK: Директива орди
+
+## Actions.xml|HymnOfDecay
+EN: Hymn of Decay
+UK: Гімн розпаду
+
+## Actions.xml|IcarusSatellite
+EN: Icarus Satellite
+UK: Супутник «Ікар»
+
+## Actions.xml|ImmaculateDelivery
+EN: Immaculate Delivery
+UK: Непорочна поява
+
+## Actions.xml|ImmaculateDeliveryProperties
+EN: <icon texture='GUI/Bullet'/>Teleports to target sighted tile adjacent to allied unit
+UK: <icon texture='GUI/Bullet'/>Телепортується у вказану видиму клітинку, суміжну зі спорідненим юнітом
+
+## Actions.xml|InevitableEnd
+EN: Inevitable End
+UK: Неминучий кінець
+
+## Actions.xml|Infinite
+EN: Infinite
+UK: Незліченний
+
+## Actions.xml|InhumanKindness
+EN: Inhuman Kindness
+UK: Нелюдська ніжність
+
+## Actions.xml|InterferenceProtocols
+EN: Interference Protocols
+UK: Протоколи втручання
+
+## Actions.xml|InternalRepairStation
+EN: Internal Repair Station
+UK: Внутрішній відновлювач
+
+## Actions.xml|IonDischarge
+EN: Ion Discharge
+UK: Іонний розряд
+
+## Actions.xml|IonDischargeProperties
+EN: <icon texture='GUI/Bullet'/>Can only target tiles without <icon texture='Icons/Actions/IonDischarge' height='20'/><nbsp/><string name='Traits/IonDischarge'/>
+UK: <icon texture='GUI/Bullet'/>Може діяти лише на клітинки без особливості <icon texture='Icons/Actions/IonDischarge' height='20'/><nbsp/><string name='Traits/IonDischarge'/>
+
+## Actions.xml|IronWill
+EN: Iron Will
+UK: Залізна воля
+
+## Actions.xml|JumpPack
+EN: Jump Pack
+UK: Стрибковий ранець
+
+## Actions.xml|JumpPackProperties
+EN: <icon texture='GUI/Bullet'/>Flies to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Перелітає у вказану видиму клітинку
+
+## Actions.xml|JustShipItUpgrade2
+EN: Product Recall
+UK: Відкликання продукції
+
+## Actions.xml|Landmines
+EN: Landmines
+UK: Наземні міни
+
+## Actions.xml|LegacyExploit
+EN: Legacy Exploit
+UK: Експлойт спадщини
+
+## Actions.xml|LevelUp
+EN: Level Up
+UK: Новий рівень
+
+## Actions.xml|LevelUpProperties
+EN: <icon texture='GUI/Bullet'/>Choose abilities to level up
+UK: <icon texture='GUI/Bullet'/>Вибрати здібності для нового рівня
+
+## Actions.xml|LiquidDeflectionAugment
+EN: Liquid Deflection Augment
+UK: Апгрейд — Рідинне відбиття
+
+## Actions.xml|LogisticsExperts
+EN: Logistics Experts
+UK: Спеціалісти з логістики
+
+## Actions.xml|MachineMind
+EN: Machine Mind
+UK: Машинний розум
+
+## Actions.xml|MarkTarget
+EN: Mark Target
+UK: Мітка цілі
+
+## Actions.xml|Masochism
+EN: Masochism
+UK: Мазохізм
+
+## Actions.xml|MimicDistressSignal
+EN: Mimic Distress Signal
+UK: Імітація сигналу лиха
+
+## Actions.xml|Minelayer
+EN: Minelayer
+UK: Міноукладач
+
+## Actions.xml|MothersFavor
+EN: Mother's Favor
+UK: Прихильність Матері
+
+## Actions.xml|MothersScorn
+EN: Mother's Scorn
+UK: Осуд Матері
+
+## Actions.xml|Move
+EN: Move
+UK: Рух
+
+## Actions.xml|MoveFunction
+EN: Move Function
+UK: Режим руху
+
+## Actions.xml|NanomachineAcceleratorAugment
+EN: Nanomachine Accelerator Augment
+UK: Апгрейд — Прискорення наномашинами
+
+## Actions.xml|NaturalStimulants
+EN: Natural Stimulants
+UK: Природні стимулятори
+
+## Actions.xml|NeverSurrender
+EN: “Never Surrender!”
+UK: «Ми не здамося!»
+
+## Actions.xml|Nightmare
+EN: Nightmare
+UK: Кошмар
+
+## Actions.xml|NitroBoost
+EN: Nitro Boost
+UK: Нітроприскорення
+
+## Actions.xml|NomadicLife
+EN: Nomadic Life
+UK: Кочове життя
+
+## Actions.xml|NomadicLifeProperties
+EN: <string name='Actions/FoundCityProperties'/><br/>
+    <icon texture='GUI/Bullet'/>Double cost when not controlled by <icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/><nbsp/><string name='Factions/Chieftess'/>
+UK: <string name='Actions/FoundCityProperties'/><br/>
+    <icon texture='GUI/Bullet'/>Подвійна ціна, якщо контролюється не <icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/><nbsp/>Вождинею
+
+## Actions.xml|OrbitalDeployment
+EN: Orbital Deployment
+UK: Орбітальне розгортання
+
+## Actions.xml|OrbitalDeploymentProperties
+EN: <icon texture='GUI/Bullet'/>Teleports from allied city to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Телепортується зі спорідненого міста у вказану видиму клітинку
+
+## Actions.xml|OrolosianSanctuary
+EN: Orolosian Sanctuary
+UK: Оролоське святилище
+
+## Actions.xml|Overwatch
+EN: Overwatch
+UK: Дозор
+
+## Actions.xml|OverwatchDescription
+EN: <icon texture='GUI/Bullet'/>Uses an action to attack enemy units that end their movement in attack range<br/>
+    <icon texture='GUI/Bullet'/>Cannot overwatch with melee weapons
+UK: <icon texture='GUI/Bullet'/>Атакує ворожі юніти, які завершують рух у межах дальності атаки<br/>
+    <icon texture='GUI/Bullet'/>Не може вести дозор рукопашною зброєю
+
+## Actions.xml|Pandemonium
+EN: Pandemonium
+UK: Гріхопад
+
+## Actions.xml|Paramedic
+EN: Paramedic
+UK: Термінова допомога
+
+## Actions.xml|Pestilence
+EN: Pestilence
+UK: Мор
+
+## Actions.xml|ParticleBarrier
+EN: Particle Barrier
+UK: Бар’єр часток
+
+## Actions.xml|ParticleRepair
+EN: Particle Repair
+UK: Ремонт частинками
+
+## Actions.xml|PathfinderDrone
+EN: Pathfinder Drone
+UK: Дрон-слідопит
+
+## Actions.xml|PayResources/CajoleAnchorite
+EN: Parlay with the Anchorite
+UK: Переговорити з Анахоретом
+
+## Actions.xml|PayResources/CarveFaceSun
+EN: Carve Your Face Into The Sun
+UK: Висікти своє обличчя на сонці
+
+## Actions.xml|PayResources/ContactAugur
+EN: Contact the Twisted Augur
+UK: Зв’язатися з Поганим Авгуром
+
+## Actions.xml|PayResources/FormFunction
+EN: Imprison IronFeather
+UK: Схопити СтальнеПеро
+
+## Actions.xml|PayResources/MassConfession
+EN: Organize Mass Confessional
+UK: Організувати масову сповідь
+
+## Actions.xml|PayResources/MeetYourMaker
+EN: Pay Yetunde
+UK: Заплатити Йетунде
+
+## Actions.xml|PayResources/PromotePeace
+EN: Strive for Peace
+UK: Прагнути миру
+
+## Actions.xml|PayResources/PromotePeace2
+EN: Stop the Genocide
+UK: Зупинити геноцид
+
+## Actions.xml|PayResources/PromoteWar
+EN: Drive for War
+UK: Розпалювати війну
+
+## Actions.xml|PayResources/PromoteWar2
+EN: Spread Rumors
+UK: Поширювати чутки
+
+## Actions.xml|PayResources/RepurposeFunds
+EN: Repurpose Funds
+UK: Перенаправити кошти
+
+## Actions.xml|PayResources/StrikeADeal
+EN: Pay the Constellation
+UK: Заплатити Плеяді
+
+## Actions.xml|PayResources/ThePulledThread
+EN: Pay Concordat
+UK: Заплатити Конкордату
+
+## Actions.xml|PayResources/TheSpaceEngine
+EN: Pay Zandra Kyne
+UK: Заплатити Зандрі Кайн
+
+## Actions.xml|PayResources/ThickerThanWater
+EN: Package Resources
+UK: Зібрати ресурси
+
+## Actions.xml|PayResources/UrsaMajor
+EN: Support Ursa Major
+UK: Підтримати «Велику ведмедицю»
+
+## Actions.xml|PerfectForever
+EN: Perfect Forever
+UK: Вічна досконалість
+
+## Actions.xml|PersonalVisit
+EN: Personal Visit
+UK: Особистий візит
+
+## Actions.xml|PlatinumScionAffinityUpgrade2
+EN: Flagship Product
+UK: Флагманський продукт
+
+## Actions.xml|PowerSpike
+EN: Power Spike
+UK: Стрибок потужності
+
+## Actions.xml|ProduceChild/Cyber
+EN: Try Again
+UK: Спробувати знову
+
+## Actions.xml|ProduceChild/Mix
+EN: Attempt the Impossible
+UK: Спробувати здійснити неможливе
+
+## Actions.xml|ProduceChild/Voice
+EN: Try for a Child
+UK: Спробувати зачати дитину
+
+## Actions.xml|ProvideKarelWithEquipment
+EN: Provide Karel with Equipment
+UK: Спорядити Карела
+
+## Actions.xml|PsychicSpoor
+EN: Psychic Spoor
+UK: Психотропний слід
+
+## Actions.xml|QuenchResistance
+EN: Quench Resistance
+UK: Пригнічення опору
+
+## Actions.xml|QuenchResistanceProperties
+EN: <icon texture='GUI/Bullet'/>Resets Immoral's loyalty penalty
+UK: <icon texture='GUI/Bullet'/>Скидає штраф Нелюдської до лояльності
+
+## Actions.xml|QuidProQuoEnergy
+EN: Quid Pro Quo (Energy)
+UK: Послуга за послугу (енергія)
+
+## Actions.xml|QuidProQuoFood
+EN: Quid Pro Quo (Food)
+UK: Послуга за послугу (їжа)
+
+## Actions.xml|QuidProQuoMinerals
+EN: Quid Pro Quo (Minerals)
+UK: Послуга за послугу (мінерали)
+
+## Actions.xml|Reallocate
+EN: Reallocate
+UK: Перерозподіл
+
+## Actions.xml|ReallocateProperties
+EN: <icon texture='GUI/Bullet'/>Use a production building to disband target non-summon non-decaying unit in the city and regain invested resources
+UK: <icon texture='GUI/Bullet'/>Використовуйте виробничу будівлю, щоб розпустити вказаний НЕ-викликаний, НЕ-розпадний юніт у місті та повернути витрачені ресурси
+
+## Actions.xml|Recon
+EN: Recon
+UK: Розвідка
+
+## Actions.xml|Reconstruct
+EN: Reconstruct
+UK: Реконструкція
+
+## Actions.xml|Rejuvenation
+EN: Rejuvenation
+UK: Омолодження
+
+## Actions.xml|RemoveRoad
+EN: Remove Road
+UK: Видалення дороги
+
+## Actions.xml|Repair
+EN: Repair
+UK: Ремонт
+
+## Actions.xml|SaboteurInsurrection
+EN: Saboteur Insurrection
+UK: Диверсійне повстання
+
+## Actions.xml|SatelliteScan
+EN: Satellite Scan
+UK: Супутникове сканування
+
+## Actions.xml|SeeAsISee
+EN: See as I See
+UK: Бач, що бачу я
+
+## Actions.xml|SeedOfExtinction
+EN: Seed of Extinction
+UK: Зерно знищення
+
+## Actions.xml|SellHint
+EN: <style name='Title'/>Sell %1%%2%<style name='Default'/><br/>
+    <style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%
+UK: <style name='Title'/>Продати: %1%%2%<style name='Default'/><br/>
+    <style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%10%<style name='Italic'/>%11%<style name='Small'/>%12%
+
+## Actions.xml|SellHintMax
+EN: [<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>] to sell all (%1% for %2%).
+UK: [<string name='Controls/Alt'/>+<string name='Controls/MouseLeft'/>] — продати все (%1% за %2%).
+
+## Actions.xml|SellHintMore
+EN: [<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>] to sell ×10 (%1% for %2%).
+UK: [<string name='Controls/Control'/>+<string name='Controls/MouseLeft'/>] — продати ×10 (%1% за %2%).
+
+## Actions.xml|SereneLesion
+EN: Serene Lesion
+UK: Незворушна рана
+
+## Actions.xml|SereneLesionProperties
+EN: <icon texture='GUI/Bullet'/>Teleports from Bleed to target sighted Bleed tile
+UK: <icon texture='GUI/Bullet'/>Телепортується з Течі у вказану видиму клітинку з Течею
+
+## Actions.xml|SetRallyPoint
+EN: Set Rally Point
+UK: Встановлення точки збору
+
+## Actions.xml|SetRallyPointDescription
+EN: <icon texture='GUI/Bullet'/>Sets the rally point for newly produced units in this city
+UK: <icon texture='GUI/Bullet'/>Встановлює точку збору для юнітів, що створюються в цьому місті
+
+## Actions.xml|Skip
+EN: Skip
+UK: Пропуск
+
+## Actions.xml|SkipDescription
+EN: <icon texture='GUI/Bullet'/>Skips the turn
+UK: <icon texture='GUI/Bullet'/>Пропускає хід
+
+## Actions.xml|Skydda
+EN: Skydda
+UK: «Скідда»
+
+## Actions.xml|Sleep
+EN: Sleep
+UK: Сон
+
+## Actions.xml|SleepDescription
+EN: <icon texture='GUI/Bullet'/>Sleeps production until canceled
+UK: <icon texture='GUI/Bullet'/>Призупиняє виробництво до скасування цієї дії
+
+## Actions.xml|SmokeLauncher
+EN: Smoke Launcher
+UK: Димовий гранатомет
+
+## Actions.xml|SmokeGrenade
+EN: Smoke Grenade
+UK: Димова граната
+
+## Actions.xml|Soundquake
+EN: Soundquake
+UK: Звукотрус
+
+## Actions.xml|StickyFoam
+EN: Sticky Foam
+UK: Липка піна
+
+## Actions.xml|StoneCrawl
+EN: Stone Crawl
+UK: Підземний хід
+
+## Actions.xml|StormTarget
+EN: Deploy Storm
+UK: Спрямувати бурю
+
+## Actions.xml|StudyKolya
+EN: Study Kolya
+UK: Вивчити Колю
+
+## Actions.xml|Supplication
+EN: Supplication
+UK: Умовляння
+
+## Actions.xml|SurvivalTraining
+EN: Survival Training
+UK: Уроки виживання
+
+## Actions.xml|Swallow
+EN: Swallow
+UK: Ковтання
+
+## Actions.xml|SystemicReset
+EN: Systemic Reset
+UK: Системний скидання
+
+## Actions.xml|SystemOverload
+EN: System Overload
+UK: Перевантаження системи
+
+## Actions.xml|TacticalInsertion
+EN: Tactical Insertion
+UK: Тактичне впровадження
+
+## Actions.xml|TacticalNuclearMissile
+EN: Tactical Nuclear Missile
+UK: Тактична ядерна ракета
+
+## Actions.xml|TakeCover
+EN: “Take Cover!”
+UK: «В укриття!»
+
+## Actions.xml|TameAbkluth
+EN: Tame Abkluth
+UK: Приручення абклютів
+
+## Actions.xml|TargetingRelay
+EN: Targeting Relay
+UK: Цілевказівник
+
+## Actions.xml|TeleportProperties
+EN: <icon texture='GUI/Bullet'/>Teleports to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Телепортується у вказану видиму клітинку
+
+## Actions.xml|TempleOfCrla
+EN: Madrigal of Cr'la
+UK: Мадригал Кр’ла
+
+## Actions.xml|Terraform
+EN: Terraform
+UK: Тераформування
+
+## Actions.xml|TerraformProperties
+EN: <icon texture='GUI/Bullet'/>Submenu
+UK: <icon texture='GUI/Bullet'/>Підменю
+
+## Actions.xml|TheDeepWays
+EN: Profane Pilgrimage
+UK: Нечисте паломництво
+
+## Actions.xml|TheDeepWaysProperties
+EN: <icon texture='GUI/Bullet'/>Teleports unit and adjacent units to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Телепортує юніт і суміжні юніти у вказану видиму клітинку
+
+## Actions.xml|TheFog
+EN: The Fog
+UK: Туман
+
+## Actions.xml|TheOutsider
+EN: The Outsider
+UK: Потойбічний
+
+## Actions.xml|ThePlague
+EN: The Plague
+UK: Епідемія
+
+## Actions.xml|ThereIsHope
+EN: There Is Hope
+UK: Є ще надія
+
+## Actions.xml|TheSureThingLong
+EN: The Sure Thing (Large)
+UK: Безпрограшний варіант (великий)
+
+## Actions.xml|TheSureThingMedium
+EN: The Sure Thing (Medium)
+UK: Безпрограшний варіант (середній)
+
+## Actions.xml|TheSureThingShort
+EN: The Sure Thing (Small)
+UK: Безпрограшний варіант (малий)
+
+## Actions.xml|ThrashEm
+EN: “Thrash 'em!”
+UK: «Лупи їх!»
+
+## Actions.xml|TimeOutOfJoint
+EN: Time Out of Joint
+UK: Безчасся
+
+## Actions.xml|TimeShift
+EN: Time Shift
+UK: Часовий зсув
+
+## Actions.xml|TormentOfTheVoice
+EN: Torment of the Voice
+UK: Катування Голосом
+
+## Actions.xml|Transubstantiation
+EN: Transubstantiation
+UK: Пресуществлення
+
+## Actions.xml|Tune
+EN: Tune
+UK: Налаштування
+
+## Actions.xml|Tunnel
+EN: Tunnel
+UK: Підземний хід
+
+## Actions.xml|TunnelProperties
+EN: <icon texture='GUI/Bullet'/>Moves underground to target sighted tile
+UK: <icon texture='GUI/Bullet'/>Переміщується під землею у вказану видиму клітинку
+
+## Actions.xml|UnearthlyPassage
+EN: Unearthly Passage
+UK: Неземний прохід
+
+## Actions.xml|UnholyHaste
+EN: Unholy Haste
+UK: Нечестива поспіх
+
+## Actions.xml|UzhodaisCall
+EN: Uzhodai's Call
+UK: Поклик Узодай
+
+## Actions.xml|UzhodaisZeal
+EN: Uzhodai's Zeal
+UK: Завзяття Узодай
+
+## Actions.xml|Valhalla
+EN: Valhalla
+UK: Вальхалла
+
+## Actions.xml|VerticalThrusters
+EN: Vertical Thrusters
+UK: Вертикальні прискорювачі
+
+## Actions.xml|ViewFromAbove
+EN: View from Above
+UK: Погляд згори
+
+## Actions.xml|VorodaisBargain
+EN: Vorodai's Bargain
+UK: Угода Вородая
+
+## Actions.xml|VorodaisGift
+EN: Vorodai's Gift
+UK: Дар Вародай
+
+## Actions.xml|WhispersOfHarmony
+EN: Chant of Harmony
+UK: Пісня гармонії
+
+## Actions.xml|WhispersOfTheVoice
+EN: Whispers of the Voice
+UK: Нашіптування Голосу
+
+## Actions.xml|Withdraw
+EN: Withdraw
+UK: Відступ
+
+## Actions.xml|WordsOfTheProphet
+EN: Words of the Prophet
+UK: Слова Пророка
+
+## Actions.xml|WordsOfTheProphetProperties
+EN: <icon texture='GUI/Bullet'/>Cost scales with the strength of the target unit
+UK: <icon texture='GUI/Bullet'/>Ціна зростає пропорційно силі цілі
+
+## Actions.xml|AbyssalRageFlavor
+EN: You've never known an anger like this. Humans feel rage because we find the world unfair. But the Voice could bring out something deeper. Something that fills its creations with a hatred of the universe itself. If you find yourself facing down such anger… run.
+UK: Тобі не доводилося відчувати такої люті. Люди зляться, коли вважають світ несправедливим. Але Голос може витягнути на поверхню щось глибше. Те, що наповнює його творіння ненавистю до самого всесвіту. Якщо зіткнешся з такою люттю... рятуйся.
+
+## Actions.xml|AcquireTileFlavor
+EN: I couldn't believe we were still doing safety inspections and site surveys, all this pre-war nonsense. But the city planners knew what they were doing. What good was it to build something if it would just fall down again? They learned to work under heavy fire and harsh conditions to make sure it was safe to expand our territory.
+UK: Я не міг повірити, що ми продовжували проводити інспекції, дослідження місцевості та перевірки безпеки — усю цю довоєнну дурню. Але міські планувальники свою справу знали. Який сенс будувати будівлю, яка зараз же обвалиться? Вони навчилися працювати навіть під обстрілами та в найважчих умовах, щоб ми могли безпечно розширювати територію.
+
+## Actions.xml|AngelFlightFlavor
+EN: And lo did the Seraphim take flight, a weapon unlike any unleashed on our Earth before. Getting one airborne took a massive amount of energy and the discharge could turn weapons into mountain-shattering laser cannons. The Acrin feared technology like this. Now it exists because of their invasion.
+UK: І ось зірвався в повітря Серафим — зброя, якої ще не бачила Земля. Щоб підняти в повітря одного з них, потрібно було безліч енергії, а постріл перетворював гармати на лазерні пушки, здатні зруйнувати гори. Акрини боялися подібної технології. А тепер вона існує через їхнє вторгнення.
+
+## Actions.xml|AntimatterDilationFlavor
+EN: Children used to hold up magnifying glasses in the sunlight to burn their names into planks of wood. A Cherubim Titan could use Antimatter Dilation to be the sun and glass all at once, carving the very spirit of an empire into our enemies’ bones. If there were any bones left.
+UK: Колись діти підставляли лінзи під сонячні промені, щоб випалювати на дереві свої імена. Херувим-титан використовував розтягнення антиматерії одночасно і як сонце, і як лінзу, щоб вирізати саму суть царства на кістках наших ворогів. Якщо взагалі залишалися ці кістки.
+
+## Actions.xml|AntiparticlePurgeFlavor
+EN: Of course it was an old-world corpo that cooked up this device. Killing the forests to harvest energy? Comic book villain-level shit. Its only redeeming quality was that it worked equally well on Bleed scouring the planet's surface. Who knows? Maybe if you shrunk it down small enough it'd make for a good weed killer.
+UK: Звичайно, цей пристрій створила корпорація старого світу. Збирати енергію, знищуючи ліси? Це щось на рівні лиходіїв із коміксів. Виправдовувало його лише одне — він не менш ефективно справлявся з Течею, яка заразила поверхню планети. Хто знає — можливо, якщо вдасться його мініатюризувати, то й бур’яни можна буде виводити.
+
+## Actions.xml|ApotheosisFlavor
+EN: The stench was the first warning. If your Voice-touched enemy began to stink like a shit-covered corpse, you were seconds from being blasted by its blood and guts. A remote detonator would have killed its host quickly—but these unlucky bastards got to feel their insides rapidly rot before they blew wide open.
+UK: Смердючий сморід був вірною ознакою. Якщо твій ворог, наділений Голосом, починав смердіти, як труп у вигрібній ямі — значить, за кілька секунд тебе накриє вибух його крові й кишок. Дистанційний заряд убив би свого носія миттєво, але ці нещасні встигали відчути миттєвий розклад внутрішніх органів, перш ніж розлетітися на шматки.
+
+## Actions.xml|ArmorOfFaithFlavor
+EN: Most of us mustered willpower on the battlefield, but the Prophet channeled something else—faith. With it, they could do something the techs never came close to figuring out: project pure invulnerability. Was it supernatural? A power beyond the Voice? I never found out.
+UK: Більшість із нас перед битвами запасалися силою волі, але Пророк збирав щось інше — віру. З її допомогою він робив те, що техніки навіть близько не могли зрозуміти: випромінював абсолютну невразливість. Надприродна здатність? Сила, вища за Голос? Цього я так і не дізнався.
+
+## Actions.xml|ArtificersPrecisionFlavor
+EN: The Artificer had an eye for precision. In her craft, in her programming and in warfare. When she monitored a battle, she’d use every tool at her disposal to survey and amplify all the targeting data sent out to the troops. Few other leaders were so… intimate with the killing their soldiers did.
+UK: Майстриня слідкувала за точністю. У своєму ремеслі — програмуванні — і на війні. Спостерігаючи за ходом битви, вона використовувала кожен доступний інструмент, щоб збирати та уточнювати дані для наведення, які надсилалися військам. Небагато інших лідерів відчували таку... інтимну близькість до вбивств, які скоювали їхні солдати.
+
+## Actions.xml|AssassinateFlavor
+EN: First we killed to survive, then we killed those who stood in our way. Then we killed to send a message—to use murder as a means of communication. We gave up something… sacred, when we chose to kill this way. We didn’t care. By then, there was too much at stake.
+UK: Спочатку ми вбивали, щоб вижити, потім вбивали тих, хто став на нашому шляху. Потім ми почали вбивати, щоб надіслати повідомлення — перетворили вбивство на засіб спілкування. Ми втратили щось... святе, коли вирішили вбивати таким чином. Але нам було все одно. На той час на кону було занадто багато.
+
+## Actions.xml|AtramentousAuraFlavor
+EN: The enemy was hours away from storming HQ. We were as good as dead. But, out of the blue, our comms burst with static and an iridescent wave appeared out of nowhere. We breathed it in. Felt sharper, faster, stronger. We held the fucking line.
+UK: Години відділяли нас від штурму нашого штабу ворогом. І ми не мали жодного шансу. Але раптом, нізвідки, пройшла переливаюча хвиля, від якої комунікатори зашипіли від перешкод. Ми вдихнули її. Відчули приплив ясності, швидкості, сили. І ми втримали чортів оборону.
+
+## Actions.xml|AuraOfDisciplineFlavor
+EN: Just the presence of a Commander on the frontline could keep troops focused. We tried to capture the same effect with armored vehicles but it… never had the same impact. There was something personal about a leader’s presence, something you can’t replicate with machines.
+UK: Сама поява командира на передовій змушувала війська зосередитися. Ми намагалися досягти того ж за допомогою бронетехніки, але... ефект був зовсім інший. У присутності командира було щось особисте, що неможливо відтворити за допомогою машин.
+
+## Actions.xml|BionicImplantFlavor
+EN: Medic named Lucia once snuck up on me and shot one of these implants in my arm. Hurt like hell, nearly took a swing at her for it. “Toughen up you big baby,” was all she said. “Think of it as high-tech preventative care.” When I kept grumbling she smiled and smacked the shoulder she'd just stabbed. “Don't worry. I'll bill your insurance.”
+UK: Люсія, наш медик, одного разу підкралася до мене й уколола один із цих імплантів у руку. Було дуже боляче, я ледь не накинувся на неї. «Терпи, малий», — лише й сказала вона. — «Сприймай це як високотехнологічну щеплення». Коли я продовжував бурчати, вона посміхнулася й поплескала по плечу, яке щойно поранила. «Не хвилюйся. Надсилаю рахунок у твою страхову».
+
+## Actions.xml|BlackHoleFlavor
+EN: Our humanity died when we began to rip apart spacetime itself. We saw reality as a machine that could be programmed. Black holes may be the darkest spots in the universe, but there’s nothing darker than a person who's decided it's time for them to play god.
+UK: Наша людяність померла, коли ми почали руйнувати сам просторово-часовий континуум. Ми сприймали реальність як машину, яку можна запрограмувати. Чорні діри, можливо, колись були найтемнішими місцями у Всесвіті, але все ж немає нічого темнішого за людину, яка вирішила пограти в бога.
+
+## Actions.xml|BombardmentFlavor
+EN: Some things never changed with war. One was that if you wanted a reliable artillery strike, you needed a good spotter. We trusted our commanders to call the shots… not just because they could land the kill. They could also make sure our troops got out of the blast zone.
+UK: Деякі речі війна не змінила. Наприклад, якщо хочеш отримати точний артилерійський удар, тобі потрібен хороший корегувальник. Ми довіряли нашим командирам вказувати ціль... не лише тому, що вони могли її вразити. А й тому, що вони могли вивести наші ж війська з зони ураження.
+
+## Actions.xml|BreedDeformitiesFlavor
+EN: In the belly of a Shoch'itris you would find bubbling pools of organic matter. There should be something sacred about life begetting life like this—but there was nothing holy in here. This beast took the refuse of our world and scraped it back together for one last life as a weapon.
+UK: У череві шох’ітріса булькотіли згустки органічної матерії. У зародженні життя має бути щось сакральне — але тільки не тут. Ця тварина збирала відходи нашого світу й ліпила їх докупи, щоб створене нею життя стало її зброєю.
+
+## Actions.xml|CallTheAfflictedFlavor
+EN: The Voice granted the Whisperer a gift: the power to create life. Not true life though, just a mockery of it. But is a Deformity any different than a mayfly? Maybe we deserved to be laughed at for thinking our lives meant anything.
+UK: Голос наділив Шептуху даром: здатністю створювати життя. Але не справжнє життя, а лише його пародію. Хоча, хіба каліцтва принципово відрізняються від одноденок? Можливо, ми заслуговували на глузування за думку, що наше життя щось значить.
+
+## Actions.xml|CauterizeWoundsFlavor
+EN: The first soldiers we augmented with cybernetic tech were still vulnerable to attacks on vital organs. With a little extra programming, our techs could numb their pain sensors. If they already couldn’t feel pain, there was no reason to not let them cauterize their own wounds.
+UK: Перші солдати, які отримали кібернетичні покращення, залишалися вразливими до ураження важливих органів. Трохи попрацювавши з програмою, наші техніки змогли приглушити їхні больові рецептори. А якщо вони й так не відчувають болю, то чому б не піти далі й не дозволити їм припікати власні рани?
+
+## Actions.xml|CherubicHallowingFlavor
+EN: The Cherubim had the power to expand their shielding to other units in the area. The sensation was… comforting. Oddly pleasant. A great weapon of war wrapping you up in its embrace, offering protection, and sanctuary… while its guns pounded the enemy into mulch.
+UK: Херувим міг захищати своїм щитом сусідні підрозділи. Було в цьому щось... заспокійливе. Дивно приємне. Величезна зброя війни обгортала тебе своїми обіймами, пропонуючи схованку й захист... поки її гармати крошили ворогів на шматки.
+
+## Actions.xml|ChoralCelerityFlavor
+EN: Gods, what an awful day it was. We'd sprung on the Voice cultists by surprise, struck their base before they could mobilize. But a high-pitched wail came out from the Masked Hymnal and within seconds good men and women were trapped in its power. Whatever it cost them to pull that off… it cost my people more.
+UK: Боже, який це був жахливий день. Ми застали культистів Голоса зненацька, нанесли удар по їхній базі, не давши їм мобілізуватися. Але з псалтиря масок роздався пронизливий вереск, і за кілька секунд невинні люди опинилися під його повною владою. Чого б цей трюк не коштував ворогу... моїм людям він обійшовся дорожче.
+
+## Actions.xml|ClearTileFlavor
+EN: Buildings and soldiers alike needed solid ground to stand on. We trained Engineers to clear terrain for both purposes. It was back-breaking work and dangerous too—the new world we lived in was filled with all kinds of alien substances. It was like its own kind of combat prep. You could fight the earth or the enemy—doing both was too much for anyone.
+UK: Як будівлі, так і солдати потребували міцного ґрунту. Ми навчали інженерів розчищати місцевість і для тих, і для інших. Робота важка й небезпечна — наш новий світ був переповнений усілякими чужорідними речовинами. Це було ніби підготовка до бою. Можна битися або з землею, або з ворогом, але одночасно — це вже занадто для будь-кого.
+
+## Actions.xml|CombatRoutineFlavor
+EN: The first machines we encountered weren’t always fully ready for combat—but they would be once the shooting started. It was eerie how they’d become better shots once they took a hit. Some kind of triangulation subroutine or something.
+UK: Перші машини, які ми зустріли, не завжди були в бойовій готовності, але приходили до неї, як тільки починалася стрілянина. Навіть страшно було від того, наскільки влучно вони починали стріляти, коли самі отримували кулю. Напевно, якась триангуляційна підпрограма чи щось таке.
+
+## Actions.xml|ConjureBleedFlavor
+EN: The Voice has more than one way into our world. It taught some beings how to open holes to another reality. The air itself was like skin and these tendrils came oozing out. Sometimes you wanted to be surrounded by the Voice. Other times, you wished for a new kind of silence.
+UK: У Голоса багато способів потрапити в наш світ. Він підказав деяким істотам, як відкривати діри в іншу реальність. Сам повітря був схожий на шкіру, з якої витікали ці відростки. Іноді тобі хотілося, щоб тебе оточував Голос. Але іноді ти бажав нечуваної тиші.
+
+## Actions.xml|ConstructRoadFlavor
+EN: I didn't realize how much I missed proper roads. Months of hauling ass in an Outrider made me used to bumpy rock and hard terrain. But getting that smooth path back helped me focus. Helped me focus on the enemy ahead—and protecting home that lay behind.
+UK: Я й не підозрював, як сильно мені бракувало нормальних доріг. За місяці тряски в «Колісниці» я звик до їзди по вибоях та камінню. Але повернення рівної траси допомогло мені зосередитися. На ворозі, який чекав попереду, — і на захисті дому, що лишився позаду.
+
+## Actions.xml|CryOfContritionFlavor
+EN: Did the Voice… care… about those who spoke to it? Did it need to be convinced? Taught to empathize with living beings? I didn’t think such an entity would find value in saving lives. Maybe it had a bigger vision in mind. Or maybe it did feel some kind of mercy.
+UK: Хвилював Голос тих, хто до нього звертався? Чи потрібно було його переконати? Навчити співчувати живим істотам? Я не думав, що порятунок життів матиме цінність для подібної сутності. Можливо, він бачив ширшу картину. Або ж йому справді було не чуже якесь милосердя.
+
+## Actions.xml|DanceOfTheErelimFlavor
+EN: You'd forget the Erelim weren't entirely human—until you saw them dance. Their eyes glazed over, their machine minds calculated the movements of all enemies surrounding them. Then their faces would open, their blades would extend, and they began the slaughter. The beauty and grace of their movements… that was the terrifying part. The AI wasn't just killing for efficiency. Now it was killing to… make art? Express itself? I just knew it wanted you to watch.
+UK: Ти міг забути, що ереліми — не зовсім люди, поки не бачив їхній танець. Їхні очі скліли, їхній машинний розум прораховував рухи всіх ворогів поруч. Потім їхні обличчя розкривалися, їхні клинки витягувалися, і вони починали різанину. Краса й заворожлива грація їхніх рухів... це було найстрашніше. ШІ вбивав не лише з практичних міркувань. Тепер він вбивав заради... мистецтва? Самовираження? Неважливо. Я просто розумів: він хоче похизуватися.
+
+## Actions.xml|DarkCaressFlavor
+EN: Could you imagine the touch of those foul fingers? Picture a giant hand reaching down to brush your shoulder like a long-lost love? It dreams of that. It remembers such a sensation. And that desire is what you will feel when it reaches out for you in the heat of battle.
+UK: Можеш уявити дотик цих огидних пальців? Уявіть гігантську руку, яка опускається й торкається твого плеча, як давно втрачена любов? Вона мріє про це. Вона пам’ятає це відчуття. І її бажання — це те, що ти відчуєш, коли вона простягнеться до тебе в пеклі бою.
+
+## Actions.xml|DarkPactFlavor
+EN: My heart thumped faster and faster in my chest as I scrambled away from The Anchorite's Dreameater. The blood of my troops—my friends—dripped down from its tentacles onto my face. I was counting down my final seconds but then the beast vanished in a burst of light. The Anchorite had let me live. He wanted me to tell the world about the beast—and that he'd unleash it if we dared to threaten him again.
+UK: Моє серце калатало в грудях все швидше, поки я відповзав від сноедця Анахорета. Кров моїх солдатів — моїх товаришів — капала з його щупалець мені на обличчя. Я вже відлічував останні секунди, коли раптом монстр зник у спалаху світла. Анахорет зберіг мені життя. Він хотів, щоб я розповів світові про монстра — і про те, що він випустить цю потвору на волю, якщо ми знову посміємо йому загрожувати.
+
+## Actions.xml|DataHackFlavor
+EN: The Emulated Mind knew the back roads and less-used byways of every networking system. She loathed using such paths, but found there was some purpose to them. She’d reach out her mind, walk through the back door, and have a look at what our enemies were researching. She could accept that function.
+UK: Змодельований розум знала всі потаємні закутки та обхідні шляхи будь-якої мережі. Вона ненавиділа ними користуватися, але знайшла їм певне застосування. Вона могла простягнути своїм розумом, зайти з чорного ходу й подивитися, що досліджують наші вороги. Така функція її влаштовувала.
+
+## Actions.xml|DecoyFlaresFlavor
+EN: Funny thing, flares. Pilots who deploy them don't see them. Missiles they're scrambling don't know what they are. The people who lay eyes on them are usually troops on the ground—the ones who have a second to look up and see them move like slow lightning through the sky.
+UK: Кумедна штука — ці пастки. Самі пілоти на них не дивляться. Збиті ними з пантелику ракети не розуміють, що вони таке. Бачать їх зазвичай лише солдати на землі — ті, у кого знайшлася секунда подивитися вгору й побачити повільні спалахи, що повзуть небом.
+
+## Actions.xml|DirectControlFlavor
+EN: We ambushed a patrol of ZEPHON's machines, hoping to scrap them for parts. One of them suddenly twitched violently and its circuits glowed a terrifying color I can't describe—before slaughtering a squad of Militia in a single stroke. I made eye contact with the thing and it felt like ZEPHON itself was looking back at me.
+UK: Ми влаштували засідку на патруль машин ЗЕФОНу — сподівалися розібрати їх на запчастини. Одна з машин раптом різко смикнулася, її ланцюги засвітилися жахливим і неописуваним кольором, а потім вона одним ударом змела цілий загін ополчення. Я зустрівся поглядом із цією штукою, і мені здалося, що у відповідь на мене подивився сам ЗЕФОН.
+
+## Actions.xml|DreadShadowFlavor
+EN: Shadows. They were just shadows all along. Light bent to… do something, Christ. If one of the doubles slashed at your arm, it was still the claw of the original Hunter cutting into your flesh. Had to keep shooting. Just had to keep shooting and hope your futuristic energy gun could do something against a monster that could fuck with light itself.
+UK: Тіні. Це були лише тіні. Гра світла, який... щось робив, мати його. Коли твою руку порізав один із двійників, це був кіготь того самого оригінального мисливця. Ти продовжував стріляти. Тобі залишалося лише стріляти й сподіватися, що твоя футуристична енергетична гармата здатна щось протиставити монстру, який творить таке зі самим світлом.
+
+## Actions.xml|DreamPrisonFlavor
+EN: 30 Militants. Two Missile Teams. A Praetorian. That's how many I killed while the Dreameater took over my mind. I told Command I was brainwashed and had no memory of it but that was a lie. It fed me a vision of hunting deer in the woods. Downing them. Stalking them. Skinning them. Each one screaming for help as I plunged a knife in its ribs…
+UK: 30 воїнів. Два ракетні розрахунки. Преторіанець. Стільки людей я поклав, коли мій розум підкорився сноедцю... Я сказав командуванню, що був під гіпнозом і нічого не пам’ятаю, але я збрехав. Він підсунув мені видіння — я полював у лісі на оленів. Підстрелював їх. Вистежував. Ошкурював. Кожен із них кликав на допомогу, поки я встромляв ножа між ребра...
+
+## Actions.xml|EchoesFromBeyondFlavor
+EN: The Voice knew things. Impossible things. Was it petty to simply use its premonitions to see our enemies? Or was that how the Voice drew people in? Did it show them knowledge, promise power, then offer more? The Whisperer knew. She didn’t ever say.
+UK: Голос знав багато. Багато з того, що здавалося неможливим. Чи було дріб’язковим користуватися його передчуттями, щоб бачити наших ворогів? Чи саме так Голос приваблював людей? Може, він показував їм знання, обіцяв владу, а потім пропонував ще більше? Шептуха знала. Але ніколи не говорила.
+
+## Actions.xml|EndbringersReversalFlavor
+EN: I'd stolen scrolls that the Furtive Tribunal kept close and was minutes away from being caught by her soldiers. As the end came, I felt the pull of another world wash over me and I was sucked to a safe spot nearby. In the place I had stood was an Uzhodai worshiper, ready to slaughter the Tribunal's surprised troops.
+UK: Я вкрав сувої, які тримав при собі Невидимий Трибунал, і мене ось-ось мали схопити його солдати. У вирішальну мить я відчув, як мене охоплює тяжіння іншого світу, і мене викинуло в безпечне місце. На тому місці, де щойно був я, тепер стояв культист Узодай, готовий перебити зненацька війська Трибуналу.
+
+## Actions.xml|EnhancedProbabilityAugmentFlavor
+EN: Gunslingers of old needed intuition to land a deadeye shot. The Operative looked to them for inspiration for this particular augment. Intuition could be… simulated. Redesigned with equations. She had such an eye for taking what made us human and recreating it with just numbers.
+UK: Стрільцям минулого потрібна була розвинена інтуїція, щоб влучати точно в ціль. Оперативниця надихалася ними при створенні цього апгрейду. Інтуїцію можна було... імітувати. Переробити за допомогою рівнянь. У неї був талант брати те, що робило нас людьми, і відтворювати це за допомогою цифр.
+
+## Actions.xml|EntombFlavor
+EN: The Archai had the power to exploit every one of your vulnerabilities all at once. If it locked you down… you couldn’t move. You could barely breathe. If there wasn’t someone who could pull you out of there, that was it, you were dead. All you could do is watch, eyes locked open, as your enemies lined up the killing blow.
+UK: Архій використовував усі твої вразливі місця одночасно. Якщо він паралізував тебе... ти не міг поворухнутися. Ти ледь міг дихати. Якщо нікому було врятувати твою шкуру, то пиши пропало, ти був мертвий. Тобі залишалося лише з широко розплющеними очима дивитися, як твої вороги завдають смертельного удару.
+
+## Actions.xml|EradicateBleedFlavor
+EN: The Voice still had to play by our laws of physics, even if it managed to bend them a little. That left the Bleed open to decontamination. ZEPHON and our techs seemed to both figure out that you could clean up the Bleed—if you were willing to risk a little close exposure.
+UK: Хоч іноді Голос дуже вільно трактував наші закони фізики, йому доводилося їм підкорятися. Завдяки цьому від зараження Течею все ж можна було позбутися. Як ЗЕФОН, так і наші вчені зрозуміли, що Течу можна вичистити — якщо тебе влаштовував ризик її близької дії.
+

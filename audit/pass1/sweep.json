@@ -1,0 +1,3890 @@
+[
+ {
+  "check": "russianism",
+  "id": "Actions.xml|DataHack",
+  "note": "даний = цей: даних",
+  "frag": "Злом даних"
+ },
+ {
+  "check": "russianism",
+  "id": "Actions.xml|AtramentousAuraFlavor",
+  "note": "дієприкметник на -ючий: переливаюча",
+  "frag": "го шансу. Але раптом, нізвідки, пройшла переливаюча хвиля, від якої комунікатори зашипіли в"
+ },
+ {
+  "check": "capital",
+  "id": "Actions.xml|DreamPrisonFlavor",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "30 воїнів. Два ракетні розрахунки. Преторіанець. Стільки люд"
+ },
+ {
+  "check": "russianism",
+  "id": "Actions.xml|GravitonJammerFlavor",
+  "note": "дієприкметник на -ючий: дезорієнтуючого",
+  "frag": "гравітони можна змінювати для створення дезорієнтуючого ефекту. Відчуття, коли твої внутрішні о"
+ },
+ {
+  "check": "end_punct",
+  "id": "Actions.xml|IonDischargeFlavor",
+  "note": "EN ends '—', UK ends '.'",
+  "frag": "вітився, наче газорозрядна лампа, весь екіпаж закричав, і..."
+ },
+ {
+  "check": "russianism",
+  "id": "Actions.xml|ParamedicFlavor",
+  "note": "дієприкметник на -ючий: регенеруючої",
+  "frag": "ор. Я сказав їй, що бісівський біль від регенеруючої плоті того не вартий — краще вже померт"
+ },
+ {
+  "check": "russianism",
+  "id": "Actions.xml|ParticleRepairFlavor",
+  "note": "дієприкметник на -ючий: сяючих",
+  "frag": " дива. Все було прямо як у казці. Потік сяючих вогників, які повертали механізми в роб"
+ },
+ {
+  "check": "latin_words",
+  "id": "Actions.xml|FailedTransfigurationsFlavor",
+  "note": "Cavaediem Odai",
+  "frag": "Учень Кр’ла — мій полонитель — змусив мене дивитися, як Cavaediem Odai призиває своїх м’ясистих слуг"
+ },
+ {
+  "check": "russianism",
+  "id": "Actions.xml|DefendFlavor",
+  "note": "дієприкметник на -ючий: палаючого",
+  "frag": " неї — нашої воїтельки-королеви, нашого палаючого ока в небі — він справді щось важив. На"
+ },
+ {
+  "check": "capital",
+  "id": "Attributes.xml|AdditionalMembersHit",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "влучання з половинною точністю по членам групи"
+ },
+ {
+  "check": "russianism",
+  "id": "Attributes.xml|BlockMovement",
+  "note": "дієприкметник на -ючий: літаючих",
+  "frag": " рух НЕ-літаючих юнітів"
+ },
+ {
+  "check": "edge_space",
+  "id": "Attributes.xml|BlockMovement",
+  "note": "leading or trailing space differs from English",
+  "frag": "' рух НЕ-літаючих юнітів' ... ' рух НЕ-літаючих юнітів'"
+ },
+ {
+  "check": "edge_space",
+  "id": "Attributes.xml|CanPickUpCaches",
+  "note": "leading or trailing space differs from English",
+  "frag": "' збирати схрони' ... ' збирати схрони'"
+ },
+ {
+  "check": "edge_space",
+  "id": "Attributes.xml|CanZoneOfControl",
+  "note": "leading or trailing space differs from English",
+  "frag": "' контролювати область' ... ' контролювати область'"
+ },
+ {
+  "check": "end_punct",
+  "id": "Attributes.xml|IgnoreLineOfSight",
+  "note": "EN ends 't', UK ends '.'",
+  "frag": "пряму видимість."
+ },
+ {
+  "check": "russianism",
+  "id": "Attributes.xml|PerHeroCost",
+  "note": "дієприкметник на -ючий: існуючого",
+  "frag": "Вартість за кожного існуючого героя"
+ },
+ {
+  "check": "capital",
+  "id": "Attributes.xml|ProductionPerBuildingFromCost",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "вартості виробництва"
+ },
+ {
+  "check": "russianism",
+  "id": "Buildings.xml|DimensionalEchoesFlavor",
+  "note": "дієприкметник на -ючий: віруючі",
+  "frag": "дин вони помруть від нестачі кисню, але віруючі кажуть, що ті живі. І камери точно почи"
+ },
+ {
+  "check": "latin_words",
+  "id": "Buildings.xml|InfluenceFlavor",
+  "note": "II",
+  "frag": "М-да. Те саме місце. Центр організації нашого міста. Так, я радий, що воно виконувало свою роботу — "
+ },
+ {
+  "check": "russianism",
+  "id": "Buildings.xml|LoyaltyFlavor",
+  "note": "дієприкметник на -ючий: захоплюючий",
+  "frag": "Захоплюючий симулятор, що об’єднує людей у вигадані"
+ },
+ {
+  "check": "numbers",
+  "id": "Cities.xml|Zephon7",
+  "note": "EN ['4242'] vs UK ['4241']",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Cities.xml|Zephon8",
+  "note": "даний = цей: даних",
+  "frag": "СПІРАЛЬ-ДАНИХ-777"
+ },
+ {
+  "check": "latin_words",
+  "id": "Cities.xml|SyncreticDeva14",
+  "note": "II",
+  "frag": "Наланда II"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|AcceptMapSharingResult",
+  "note": "EN ends '.', UK ends 'и'",
+  "frag": "Ви і %2% обмінялися дослідженими клітинками"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|AcceptWarAgainstThirdParty/AcceptPartyResult",
+  "note": "space before punctuation",
+  "frag": "  оголошує війну стороні  , ваші відносини зі стороною   погіршилис"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|AllianceHint",
+  "note": "дієприкметник на -ючий: підсилюючими",
+  "frag": "ці, які уклали союз, діляться оглядом і підсилюючими здібностями, а також можуть позначати к"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|MajorImpact/Economy",
+  "note": "дієприкметник на -ючий: процвітаюча",
+  "frag": "На це рішення значно вплинула ваша процвітаюча економіка."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyAffection",
+  "note": "space before punctuation",
+  "frag": "плинула симпатія іншої сторони до сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyAffectionOpposite",
+  "note": "space before punctuation",
+  "frag": "утність симпатії іншої сторони до сторони  ."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyEconomy",
+  "note": "дієприкметник на -ючий: процвітаюча",
+  "frag": "На це рішення значно вплинула процвітаюча економіка сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyEconomy",
+  "note": "space before punctuation",
+  "frag": "но вплинула процвітаюча економіка сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyEconomyOpposite",
+  "note": "space before punctuation",
+  "frag": " значно вплинула слабка економіка сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyMilitary",
+  "note": "space before punctuation",
+  "frag": "ння значно вплинула потужна армія сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyMilitaryOpposite",
+  "note": "space before punctuation",
+  "frag": "ення значно вплинула слабка армія сторони  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyStanding",
+  "note": "space before punctuation",
+  "frag": "добрі відносини іншої сторони зі стороною  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|MajorImpact/ThirdPartyStandingOpposite",
+  "note": "space before punctuation",
+  "frag": "огані відносини іншої сторони зі стороною  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|UntrustworthyHint",
+  "note": "space before punctuation",
+  "frag": " Надає вам рису   , якщо буде виконано протягом наступних  "
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|Anchorite/AcceptTradeAgreementWithThirdParty/AcceptParty",
+  "note": "..",
+  "frag": " — нам, тим, кому не вдалося їх знищити?.. Привітати їх з радістю."
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|Anchorite/AcceptWarAgainstThirdParty/AcceptParty",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|Anchorite/AcceptWarAgainstThirdParty/AskParty",
+  "note": "..",
+  "frag": " не зникла. Дізнатися, хто це або що це?.."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|Anchorite/CondemnCityDestruction",
+  "note": "space before punctuation",
+  "frag": "ебагато пережили наше падіння. Місце, яке  , було останнім прихистком для багатьох з"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|Anchorite/CondemnWar",
+  "note": "space before punctuation",
+  "frag": "енням життя. Бачити нікчемність того, хто  . Оплакувати те, що могло би бути."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Anchorite/Praise/Mysticism",
+  "note": "дієприкметник на -ючий: віруючим",
+  "frag": "Бути віруючим, бути мудрим. Не вірити настільки сильн"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|Chieftess/AcceptAllianceTerminationWithThirdParty/AcceptParty",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Та вже,   постійно ухиляється... Допомагати в бійці не поспі"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreementWithThirdParty/AcceptParty",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "мені до вподоби. Набіги на цю дойну корівку мені завжди кошт"
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|Chieftess/FirstContact",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|Chieftess/Praise/TalesOfTheHunt",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Я б іще послухала! Ти своїм ножичком їх на шинку порізав? А "
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAllianceTermination",
+  "note": "EN [] vs UK ['1']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTermination",
+  "note": "EN ['0'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementWithThirdParty/AskParty",
+  "note": "EN [] vs UK ['1']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AcceptWar",
+  "note": "EN ['3', '4'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AcceptWarAgainstThirdParty/AskParty",
+  "note": "EN ['4'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/AdmitDefeat",
+  "note": "EN [] vs UK ['0', '9']",
+  "frag": ""
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|EmulatedMind/AdmitDefeat",
+  "note": "EN ends '.', UK ends '-'",
+  "frag": " І тому *п-р-о-х-а-н-н-я*. П0дБ@ЙС9 про моїх (л-ю-д-д-д-д-д-"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|EmulatedMind/AskForProposals",
+  "note": "EN ends '?', UK ends ':'",
+  "frag": "Тобі (ПОТРІБНО). щ-о-с-ь. ЩЕ:"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|EmulatedMind/AskForSupport/Anchorite",
+  "note": "EN ends '.', UK ends 'у'",
+  "frag": " Можемо бути. МОРАЛЬНИМИ. ЕТИЧНИМИ. ПРАВИЛЬНИМИ. *п-р-о-ш-у*"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|EmulatedMind/Condemn",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "І. [вони] .н.а.з.и.в.а.ю.т.ь. МЕНЕ. [не]людиною!"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/Condemn/Honorbound",
+  "note": "EN [] vs UK ['0', '0']",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|EmulatedMind/CondemnCityDestruction",
+  "note": ".,",
+  "frag": "ти) Друге(2) місто. С.а.м.о.-а-н-а-л-і-з., усі [ЗУСИЛЛЯ]. А тепер   лежить у руїна"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/EmulatedMind",
+  "note": "EN ['1'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/FurtiveTribunal",
+  "note": "EN ['1', '4'] vs UK ['4']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/InfiniteCount",
+  "note": "EN ['00'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/PlatinumScion",
+  "note": "missing space after punctuation",
+  "frag": "е). (Ти) бубониш п.л.а.т.и.т.ю.д.и. Необх.Ід.Ні. Але нічого не відчуваєш. Але зверн"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/RogueOperative",
+  "note": "EN ['2'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|EmulatedMind/DeclareWar/RogueOperative",
+  "note": ".,",
+  "frag": "ти роб-и-Ш — об(ходиш) мої с-и-с-т-е-м-и., НАМАГАЄШ-СЯ пролізти в-с-е-р-е-д-и-н-у."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/DemandAllianceTerminationWithThirdParty",
+  "note": "missing space after punctuation",
+  "frag": "Твоя (мережа) загрожує всій.СИСТЕМІ. Позбудься (одного-зі-своїх-зв’яз"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DemandTradeAgreementWithThirdParty",
+  "note": "EN [] vs UK ['0']",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|EmulatedMind/DemandTribute/DemandHighAmount",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DemandTroopWithdrawal",
+  "note": "EN ['2'] vs UK ['0', '0']",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/DemandWarAgainstThirdParty",
+  "note": "missing space after punctuation",
+  "frag": "Мене... обра!ЗИЛИ!. Я лише хотіла ви/ЗНАННЯ, -смуток-ж"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/DemandWarAgainstThirdParty",
+  "note": "EN ['1'] vs UK ['4']",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|EmulatedMind/DemandWarAgainstThirdParty",
+  "note": "!.",
+  "frag": "Мене... обра!ЗИЛИ!. Я лише хотіла ви/ЗНАННЯ, -смуток-жаль-."
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|EmulatedMind/DemandWarAgainstThirdParty",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/EndCall/Neutral",
+  "note": "EN ['00'] vs UK ['0', '0', '0']",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/OfferGift/OfferHighAmount",
+  "note": "missing space after punctuation",
+  "frag": "я*, цього (достатньо). Це ЛИШЕ. невеликий.ПОДАРУНОК>у.порівнянні.з>моєю.вдячністю."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/OfferGift/OfferLowAmount",
+  "note": "missing space after punctuation",
+  "frag": "чинене-на-інших)... Візьми цей (маленький.ПОДАРУНОК) і з-а-п-а-м’-я-т-а-й МЕНЕ (доб"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|EmulatedMind/OfferPeace/FurtiveTribunal",
+  "note": "дієприкметник на -ючий: спотворюючим",
+  "frag": "И-ва. Ваша відданість. Цим (*потворним, спотворюючим*) звукам з ГЛИБИН космосу. Але ж не ВБИ"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/PraiseWar",
+  "note": "EN ['1', '1'] vs UK ['1']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectAlliance",
+  "note": "EN ['34'] vs UK ['034']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectAllianceTerminationWithThirdParty/RejectOutright",
+  "note": "EN ['2', '6'] vs UK ['363']",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|EmulatedMind/RejectAllianceTerminationWithThirdParty/RejectOutright",
+  "note": "..",
+  "frag": "рібен КОНТРОЛЬ (моєї.мережі)? }{@}{@}{@!.. Ого! Я (ще-можу-дивуватись)!"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|EmulatedMind/RejectAllianceTerminationWithThirdParty/RejectParty",
+  "note": "EN ends '…', UK ends 'и'",
+  "frag": "Е.ПОВН.ЕНИЙ з-а-г-а-д-к-о-в-и-м-и аналогіями & помилка!!!ми)"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectAllianceWithThirdParty/RejectOutright",
+  "note": "EN ['1'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectGift/RejectOutright",
+  "note": "EN ['4', '4'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectPeace",
+  "note": "EN ['2'] vs UK ['00']",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectOutright",
+  "note": "DOOM",
+  "frag": "Вибачаюсь. Але DOOM.ати за мене.себе — це КОРІНЬ мого (розуміння-себе). Це не.твоя.ВІЙНА, тож не.тоб"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectOutright",
+  "note": "missing space after punctuation",
+  "frag": " КОРІНЬ мого (розуміння-себе). Це не.твоя.ВІЙНА, тож не.тобі.ВИРІШУВАТИ."
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectOutright",
+  "note": "EN ['4'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/RejectTradeAgreement",
+  "note": "missing space after punctuation",
+  "frag": "Твоя пропоЗИЦІЯ (трохи(повнадурня) не.ДУмана). ЗМІЦНИ свою.економіку, і я п-о-д"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectParty",
+  "note": "missing space after punctuation",
+  "frag": "не ТОБІ. За мене. [Скерувати.Думки], тільки [МЕНІ]. Мій ~$обмін$~ із з"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectParty",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "не ТОБІ. За мене. [Скерувати.Думки], тільки [МЕНІ]. Мій ~$об"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectTribute/RejectAmount",
+  "note": "EN [] vs UK ['0']",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectOutright",
+  "note": "missing space after punctuation",
+  "frag": "-ч-о-лий. Дай мені поверну-ти-ся до (моїх.ПОШУКІВ). І я. Дам тобі поверну-ти-ся до "
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectParty",
+  "note": "pagu",
+  "frag": "*ВІЙНА*. Мета:  . Ні. Витрачу (небезпечну кількість ресурсів) >pagu> Отримаю (нуль користі). Не втяг"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectParty",
+  "note": "EN ['4'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|FallenSoldier/Condemn/Untrustworthy",
+  "note": "..",
+  "frag": "таке чесність. Довіра. Порядність. А ти?.. Усе це тобі чуже."
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|FallenSoldier/CondemnTradeAgreement",
+  "note": "..",
+  "frag": "з дияволом, то поділяєш його смаки. А  ?.. Точно не зі святих."
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|FallenSoldier/DeclareWar/RogueOperative",
+  "note": ".,",
+  "frag": "обиш у цьому величезному будинку І.К.А.Р., але це треба зупинити. Мої люди йдуть з"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementTermination",
+  "note": "дієприкметник на -ючий: вмираючого",
+  "frag": "прагнемо, лежить за межами кісток цього вмираючого світу."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|FurtiveTribunal/AskForSupport/Zephon",
+  "note": "дієприкметник на -ючий: сяючому",
+  "frag": "Жах високих технологій, наш лицар у сяючому металі. Приварені пальці, що обіцяють б"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|FurtiveTribunal/CondemnWar",
+  "note": "space before punctuation",
+  "frag": "порожніх очниць. Не такої долі заслуговує  ."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|FurtiveTribunal/Praise/Undying",
+  "note": "дієприкметник на -ючий: проклинаючого",
+  "frag": "інший. Світила загинуть раніше за тебе, проклинаючого холодну вакуумну смертельну жару."
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|HeartlessArtificer/CondemnAlliance",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "приведе до твого падіння. Немає меж душам, які я знищу, якщо"
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|HeartlessArtificer/DeclareWar/Anchorite",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|HeartlessArtificer/DeclareWar/FallenSoldier",
+  "note": "дієприкметник на -ючий: всепоглинаюче",
+  "frag": "Я жадаю дослідити тебе — твоє всепоглинаюче прагнення до життя, твоє повне відновле"
+ },
+ {
+  "check": "numbers",
+  "id": "Diplomacy.xml|HeartlessArtificer/OfferPeace/HollowWarlord",
+  "note": "EN ['3'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|HeartlessArtificer/OfferPeace/Zephon",
+  "note": "дієприкметник на -ючий: відштовхуючими",
+  "frag": "тури можуть бути неестетичними — навіть відштовхуючими, — але їх ефективність незаперечна. Про"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|HeartlessArtificer/RejectTribute/RejectOutright",
+  "note": "дієприкметник на -ючий: вражаюче",
+  "frag": "Ти вимагаєш від мене данину? Вражаюче! Тобі швидше слід було б благати мене п"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|HollowWarlord/AcceptPeace",
+  "note": "..",
+  "frag": "но буду ненавидіти тебе за ці слова, але.. Ну гаразд. Мир."
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|HollowWarlord/AdmitDefeat",
+  "note": "EN ends '-', UK ends '.'",
+  "frag": "жу жити в легендах та казках.<br/><br/>Раз. Два. Три. Чот..."
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|HollowWarlord/CondemnAlliance",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/Anchorite",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|HollowWarlord/RejectAllianceWithThirdParty/RejectParty",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "навіть на байку не їздить. А мої друзі всі на байках."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnCityDestruction",
+  "note": "space before punctuation",
+  "frag": "О боже, де  ? Міста більше немає? Де твоя людяність? "
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnTradeAgreement",
+  "note": "..",
+  "frag": "рт? Звісно, торгуй з ким хочеш... Але  ?.."
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/Chieftess",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Ти з’їла ЩО??? Майн готт, я зобов’язаний кинути тобі виклик "
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|HonorableAristocrat/OfferPeace/InfiniteCount",
+  "note": "..",
+  "frag": "и п’єте, можливо, розгляньте цей договір..?"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|HonorableAristocrat/RejectAllianceWithThirdParty/RejectParty",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Як показала історія наших взаємин,   не любить відповідати п"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|HonorableAristocrat/RejectGift/RejectOutright",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Що це за сморід? Не знаю, що ти хочеш мені запропонувати, ал"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|HonorableAristocrat/TerminateTradeAgreement",
+  "note": "..",
+  "frag": "Чому ти постійно пропонуєш мені капусту?.. Я цього більше не витримаю! Тепер у теб"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|InfiniteCount/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty",
+  "note": "..",
+  "frag": "ле пам’ятати заплутаний шлях майбутнього..? Це поза мною."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|InfiniteCount/AcceptWar",
+  "note": "дієприкметник на -ючий: бажаючого",
+  "frag": "х стосунків, війна потребує лише одного бажаючого учасника."
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|InfiniteCount/AskForSupport/Zephon",
+  "note": "EN ends \"'\", UK ends '.'",
+  "frag": "Ми голодні. Холодно. Будь ласка, зробіть пожертву сьогодні.»"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|InfiniteCount/CondemnWar",
+  "note": "дієприкметник на -ючий: вражаюче",
+  "frag": "Вражаюче для мене, що ти розглядаєш вбивство та "
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|InfiniteCount/EndCall/Hostile",
+  "note": "EN ends \"'\", UK ends '.'",
+  "frag": "Сфігато! Що по-італійськи означає «заходьте ще»."
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|PlatinumScion/AcceptCondemn",
+  "note": "EN ends '-', UK ends '.'",
+  "frag": "Ну і що? Мене це не хвилює."
+ },
+ {
+  "check": "repeated_word",
+  "id": "Diplomacy.xml|PlatinumScion/AcceptPeaceWithThirdParty/AcceptParty",
+  "note": "бізнесу",
+  "frag": "но.   був відволіканням від справжнього бізнесу бізнесу."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|PlatinumScion/AcceptTradeAgreementTerminationWithThirdParty/AskParty",
+  "note": "дієприкметник на -ючий: приймаючій",
+  "frag": "Тепер ти говориш моєю мовою. Хто на приймаючій стороні?"
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|PlatinumScion/OfferPeace/Chieftess",
+  "note": "Dormeuil",
+  "frag": "Блін, жінко. Це була приємна бійка. Але це останній костюм Dormeuil у світі, я не можу ризикувати зі"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|PracticalRomantic/Condemn/TalesOfTheHunt",
+  "note": "дієприкметник на -ючий: гавкаючі",
+  "frag": "вця на здобич, щоб тебе заслужено гнали гавкаючі зграї гончаків!"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|PracticalRomantic/CondemnCityDestruction",
+  "note": "space before punctuation",
+  "frag": "Мешканці місця, що звалось  , тепер розкидані пустками, стають жертва"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|PracticalRomantic/CondemnInterferenceAttempt",
+  "note": "EN ends \"'\", UK ends '.'",
+  "frag": "одій? «Людина може усміхатися — усміхатися й бути лиходієм»."
+ },
+ {
+  "check": "quotes",
+  "id": "Diplomacy.xml|PracticalRomantic/DeclareWar/InfiniteCount",
+  "note": "unbalanced «» (0 open, 1 close)",
+  "frag": ""
+ },
+ {
+  "check": "quotes",
+  "id": "Diplomacy.xml|PracticalRomantic/DeclareWar/PlatinumScion",
+  "note": "unbalanced «» (0 open, 1 close)",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|PracticalRomantic/DemandAllianceWithThirdParty",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|PracticalRomantic/OfferPeace/HonorableAristocrat",
+  "note": "III",
+  "frag": "Знаєш, Людвіга III звали божевільним, але скільки воєн він пройшов? Скільки загинуло через нього? Ди"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|PracticalRomantic/OfferPeace/RogueOperative",
+  "note": "..",
+  "frag": "льки всякого мотлоху ми зможемо продати!.."
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|RogueOperative/AdmitDefeat",
+  "note": "EN ends '-', UK ends '.'",
+  "frag": "вперше... Потрібно... його знищити... знищити... потрібно..."
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|RogueOperative/FirstContact",
+  "note": "..",
+  "frag": "ніки та комп’ютерної безпеки. Репутація?.. Краща, ніж про неї кажуть.  Готуюся зла"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|RogueOperative/RejectMapSharing",
+  "note": "даний = цей: даних",
+  "frag": ", на моїй карті забагато конфіденційних даних."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|TwistedMother/AcceptAllianceWithThirdParty/AcceptParty",
+  "note": "space before punctuation",
+  "frag": "почуттях інших. Подивимося, чи погодиться  ."
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|TwistedMother/CondemnAlliance",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|TwistedMother/CondemnTradeAgreement",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "і ти? Вирішили поторгувати? Це як найгірші у світі дітлахи, "
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|UntoldProphet/AcceptAllianceWithThirdParty/AcceptParty",
+  "note": "дієприкметник на -ючий: багатообіцяючий",
+  "frag": "я внесу свій внесок — дякую тобі за цей багатообіцяючий зв’язок."
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|UntoldProphet/CondemnTradeAgreement",
+  "note": "space before punctuation",
+  "frag": "Від мене не збідніє. Страждаєш лише ти та  ."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|UntoldProphet/DeclareWar/HeartlessArtificer",
+  "note": "дієприкметник на -ючий: сяючою",
+  "frag": "ляє тебе мушлею з магнію та перламутру, сяючою, з плавними вигинами... і цілком порожн"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|UntoldProphet/DeclareWar/RogueOperative",
+  "note": ".,",
+  "frag": "ти наші святі небеса супутниками І.К.А.Р., доки небесна твердь і справді не обвали"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|UntoldProphet/DemandTribute",
+  "note": "..",
+  "frag": "охань і умовлянь пройшло повз твої вуха?.. Тепер Великий Вісник гнівається на тебе"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|UntoldProphet/RejectAlliance",
+  "note": "дієприкметник на -ючий: невіруючих",
+  "frag": "го поклику й не можу втручатися у війни невіруючих."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/AcceptMapSharing",
+  "note": "даний = цей: даних",
+  "frag": "Ми приймаємо. Хвилинку... Наші бази даних синхронізовано. Дякуємо, сьогодні від т"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|Zephon/AdmitDefeat",
+  "note": "..",
+  "frag": "и чуєш нас? Ти чуєш нас? Ти... чуєш нас?.. ...Ти чуєш нас?"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/Condemn/CultExpansion",
+  "note": "даний = цей: даних",
+  "frag": "Якість даних, що надходять із твоєї території, знизи"
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|Zephon/CondemnAlliance",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|Zephon/DeclareWar/PlatinumScion",
+  "note": "RFP",
+  "frag": "НОВИЙ RFP! Усім/Будь-яким підсистемам/деволюційованим одиницям запрошується брати участь у тендері н"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/DeclareWar/TwistedMother",
+  "note": "даний = цей: даних",
+  "frag": "то рішення про фізичне видалення з бази даних."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/EmulatedMind",
+  "note": "даний = цей: даних",
+  "frag": "Ми отримали багато даних із цієї взаємодії. Ми готові завершити "
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/HollowWarlord",
+  "note": "даний = цей: даних",
+  "frag": "[ПЛАНИ ВИДАЛЕНО]. Тепер у нас достатньо даних."
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/TwistedMother",
+  "note": "GPS",
+  "frag": "Шановна/шановний/шановне мадам/сер/щось, враховуючи твою/вашу/їх неодноразову зміну адреси, ми спо-с"
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/TwistedMother",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/UntoldProphet",
+  "note": "даний = цей: даний",
+  "frag": " у неймовірні речі. Ти віриш у те, що в даний час ми прагнемо миру."
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/Praise/EconomiesOfScale",
+  "note": "дієприкметник на -ючий: вражаючий",
+  "frag": "рований звіт, Спадкоємець #368,456,222. Вражаючий виграш у ефективності від прогресивно з"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/RejectMapSharing",
+  "note": "даний = цей: даних",
+  "frag": " вибачення, але в нас вже є копія твоїх даних. Сталося непорозуміння — твоє шифруванн"
+ },
+ {
+  "check": "end_punct",
+  "id": "Diplomacy.xml|Zephon/RejectSupport",
+  "note": "EN ends '.', UK ends 'ю'",
+  "frag": " виходить за межі наших поточних цілей. *Смайлик-зі-слізкою*"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/SyncreticDeva",
+  "note": "..",
+  "frag": "изати вмієш? Може, я б їх тобі підігнула..?"
+ },
+ {
+  "check": "capital",
+  "id": "Diplomacy.xml|EmulatedMind/OfferPeace/ImperiousExonaut",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "{{кодування-PD120.}}\\ Подивимось [ми]. ЯКЩО(супергармата Заб"
+ },
+ {
+  "check": "untranslated",
+  "id": "Diplomacy.xml|ImperiousExonaut/AcceptGift/AcceptAmount",
+  "note": "Ja",
+  "frag": "Ja."
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|ImperiousExonaut/CondemnWar",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|ImperiousExonaut/DeclareWar/PlatinumScion",
+  "note": "homo sapiens",
+  "frag": "Така людяна, ти. Та ми мусимо працювати заради нашого виду, заради homo sapiens, а не лише заради се"
+ },
+ {
+  "check": "register",
+  "id": "Diplomacy.xml|ImperiousExonaut/DemandAllianceWithThirdParty",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|ImperiousExonaut/OfferGift",
+  "note": "homo superior",
+  "frag": "Я зроблю тебе кращим. Наближу до справжнього homo superior, до вершини, якою ми могли б стати."
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|ImperiousExonaut/RejectPeaceWithThirdParty/RejectOutright",
+  "note": "Fan",
+  "frag": "І змарнувати весь той час, що мої вояки поклали на маневри? Fan!"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|ImperiousExonaut/TerminateTradeAgreement",
+  "note": "..",
+  "frag": ", надовго ще стане наших сушених запасів..?  Вибач, ти про щось питав?"
+ },
+ {
+  "check": "spacing",
+  "id": "Diplomacy.xml|SyncreticDeva/AcceptPeaceWithThirdParty/AcceptParty",
+  "note": "space before punctuation",
+  "frag": "в би це своєму народові, хто б не був цей  , так?"
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|SyncreticDeva/OfferPeace/Zephon",
+  "note": "BIGGOD DaaD",
+  "frag": "Дай-но гляну, чи це ще працює… код обходу захисту: 0451. Логін: BIGGOD, пароль: cXmnZK65rf*&DaaD… 4F"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|SyncreticDeva/Praise/Mysticism",
+  "note": "даний = цей: дану",
+  "frag": "А, ще одна трійця в одному. Дану, Ісус, мойри… скажи-но, що ти можеш при"
+ },
+ {
+  "check": "double_punct",
+  "id": "Diplomacy.xml|UntoldProphet/OfferPeace/ImperiousExonaut",
+  "note": "..",
+  "frag": "Можливо, ти не з тих ангелів, що впали..? (А ще — як воно там, у космосі?)"
+ },
+ {
+  "check": "russianism",
+  "id": "Diplomacy.xml|Zephon/Condemn/ForTheFew",
+  "note": "даний = цей: даних",
+  "frag": "тійкість будує приязнь. Потрібно більше даних."
+ },
+ {
+  "check": "latin_words",
+  "id": "Diplomacy.xml|Zephon/OfferPeace/SyncreticDeva",
+  "note": "PacifXnet",
+  "frag": "Дані для входу… розпізнано? Пакет прийнято… Бойові протоколи в режимі очікування. . . ТРИВОГА! Виявл"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|AnchoriteQuote",
+  "note": "EN ends '.', UK ends 'е'",
+  "frag": "уту з твоїх рук. І все ж любити тебе»<style name='Default'/>"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|ChieftessQuote",
+  "note": "EN ends '.', UK ends 'в'",
+  "frag": "ні вже набридло мочити твоїх дружків»<style name='Default'/>"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|EmulatedMindFlavor",
+  "note": "даний = цей: даних",
+  "frag": "чові частини її систем за подобою своїх даних. Автоматичні системи захисту перервали "
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|EmulatedMindFoundationsFlavor",
+  "note": "дієприкметник на -ючий: поглинаюча",
+  "frag": "а-ха!). Ця [порожнеча] — *РАПТОВА*, все(поглинаюча), але дивно(знайома).  Ти повертаєшся н"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|EmulatedMindProperties",
+  "note": "даний = цей: даних",
+  "frag": " містом і не може будувати інші.   Злам даних (Еліта):  Колись Змодельований розум бу"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|EmulatedMindProperties",
+  "note": "space before punctuation",
+  "frag": "е відображення себе. Від самого початку є  , раніше отримує доступ до технологій кіб"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|EmulatedMindQuote",
+  "note": "EN ends '.', UK ends 'а'",
+  "frag": "ажливе. Ім’я... Ні, ЦЕ. Не мета-фора»<style name='Default'/>"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|FallenSoldierFlavor",
+  "note": "дієприкметник на -ючий: палаючим",
+  "frag": "о елітного взводу пострілом із космосу, палаючим небом і кінцем світу — з нього зробили "
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|FallenSoldierQuote",
+  "note": "EN ends '.', UK ends 'к'",
+  "frag": "ого разу помре якийсь інший покидьок»<style name='Default'/>"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|FallenSoldierProperties",
+  "note": "space before punctuation",
+  "frag": "життя від вимирання. Від самого початку є  , раніше отримує доступ до технологій люд"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|FurtiveTribunalLostFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|FurtiveTribunalProperties",
+  "note": "space before punctuation",
+  "frag": "ісон мелодію Голосу. Від самого початку є  , раніше отримує доступ до технологій Гол"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|FurtiveTribunalQuote",
+  "note": "EN ends '.', UK ends 'и'",
+  "frag": "олоджуємося лише їхніми піснеспівами»<style name='Default'/>"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|FurtiveTribunalWonFlavor",
+  "note": "EN ends '—', UK ends '.'",
+  "frag": "ой самий Голос, що говорив із тобою в мить загибелі Землі..."
+ },
+ {
+  "check": "double_punct",
+  "id": "Factions.xml|HeartlessArtificerFoundationsFlavor",
+  "note": "..",
+  "frag": "їх старанніше працювати заради переваги?.. То що поганого в брехні?"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|HeartlessArtificerProperties",
+  "note": "space before punctuation",
+  "frag": "орення нового життя. Від самого початку є  , раніше отримує доступ до технологій кіб"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|HeartlessArtificerQuote",
+  "note": "EN ends '.', UK ends 'м'",
+  "frag": "більшим, пожертвувавши чимось меншим»<style name='Default'/>"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|HollowWarlordFoundationsFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|HollowWarlordLostFlavor",
+  "note": "EN ends '-', UK ends '.'",
+  "frag": "стануть твоїми». Деякий час триває мовчання. «Але спершу...»"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|HollowWarlordProperties",
+  "note": "space before punctuation",
+  "frag": "планетні технології. Від самого початку є  , раніше отримує доступ до технологій люд"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|HollowWarlordQuote",
+  "note": "EN ends '.', UK ends 'в'",
+  "frag": "Italic'/>«Прийшов, переміг, повторив»<style name='Default'/>"
+ },
+ {
+  "check": "double_punct",
+  "id": "Factions.xml|HonorableAristocratFoundationsWithMutatorFlavor",
+  "note": "..",
+  "frag": "лише поганий сон після зіпсованого сиру?..   "
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|HonorableAristocratProperties",
+  "note": "space before punctuation",
+  "frag": "рата полюбити життя. Від самого початку є  , раніше отримує доступ до технологій люд"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|InfiniteCountFlavor",
+  "note": "дієприкметник на -ючий: захоплюючим",
+  "frag": "зубим і жадібним до вражень, але завжди захоплюючим, завжди з майбутнім у пастці—  —і вічно"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|InfiniteCountFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|InfiniteCountFoundationsFlavor2",
+  "note": "дієприкметник на -ючий: висмоктуюче",
+  "frag": "ся на сьогоденні? Що твоя присутність — висмоктуюче прокляття, що стягує все життя в Течу? "
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|InfiniteCountProperties",
+  "note": "space before punctuation",
+  "frag": "о, хоч і проти волі. Від самого початку є  , раніше отримує доступ до технологій Гол"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|InfiniteCountQuote",
+  "note": "EN ends '.', UK ends 'е'",
+  "frag": "lic'/>«Знову ми зустрічаємося вперше»<style name='Default'/>"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|PlatinumScionFoundationsFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|PlatinumScionProperties",
+  "note": "space before punctuation",
+  "frag": "ює погляд Відприска. Від самого початку є  , раніше отримує доступ до технологій кіб"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|PlatinumScionQuote",
+  "note": "EN ends '.', UK ends 'ь'",
+  "frag": "о іншого навіть близько не підходить»<style name='Default'/>"
+ },
+ {
+  "check": "latin_words",
+  "id": "Factions.xml|PlatinumScionWonFlavor",
+  "note": "Armani AG Anthora",
+  "frag": "Ти сидиш на нараді ради директорів, у своєму кріслі-реклайнері від Armani AG, поки твій дистанційний"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|PracticalRomanticProperties",
+  "note": "space before punctuation",
+  "frag": "айбутнє для людства. Від самого початку є  , раніше отримує доступ до технологій люд"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|PracticalRomanticQuote",
+  "note": "дієприкметник на -ючий: палаюча",
+  "frag": " «До катастрофи палаюча книга жахнула б мене. Але в тому крижан"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|PracticalRomanticQuote",
+  "note": "EN ends '.', UK ends 'а'",
+  "frag": " тепла, а людина — лише шматок м’яса»<style name='Default'/>"
+ },
+ {
+  "check": "double_punct",
+  "id": "Factions.xml|RogueOperativeFoundationsWithMutatorFlavor",
+  "note": ".,",
+  "frag": "люєшся біля хмарочоса корпорації І.К.А.Р., серед безладу представницького люксу. П"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|RogueOperativeProperties",
+  "note": "space before punctuation",
+  "frag": "схожий на пісочницю. Від самого початку є  , раніше отримує доступ до технологій кіб"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|RogueOperativeWonFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|TwistedMotherFoundationsWithMutatorFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|TwistedMotherProperties",
+  "note": "space before punctuation",
+  "frag": "Голос глибше за неї. Від самого початку є  , раніше отримує доступ до технологій Гол"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|TwistedMotherQuote",
+  "note": "EN ends '.', UK ends 'я'",
+  "frag": "аємо про своїх. А про решту подбаю я»<style name='Default'/>"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|TwistedMotherWonFlavor",
+  "note": "дієприкметник на -ючий: слухаючих",
+  "frag": "ься гонець, обережно обходячи захоплено слухаючих малюків і їхні розкидані іграшки. «І то"
+ },
+ {
+  "check": "spacing",
+  "id": "Factions.xml|UntoldProphetProperties",
+  "note": "space before punctuation",
+  "frag": "трібен Голос дитини. Від самого початку є  , раніше отримує доступ до технологій Гол"
+ },
+ {
+  "check": "end_punct",
+  "id": "Factions.xml|UntoldProphetQuote",
+  "note": "EN ends '.', UK ends 'є'",
+  "frag": "анти вибору, яких у тебе давно немає»<style name='Default'/>"
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|ZephonFlavor",
+  "note": "дієприкметник на -ючий: всезнаючий",
+  "frag": "[союзник, ворог]. ЗЕФОН є [необізнаний, всезнаючий]. ЗЕФОН є [один, багато], ЗЕФОН є [надз"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|ImperiousExonautFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Factions.xml|ImperiousExonautLostFlavor",
+  "note": "дієприкметник на -ючий: палаючу",
+  "frag": ".  Ти визираєш у вікно за спиною. Другу палаючу дугу, що тягнеться паралельно серпанку "
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|ImperiousExonautLostFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "quotes",
+  "id": "Factions.xml|SyncreticDevaQuote",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Смерть така остаточна. Я ще не знайшов справи, заради якої варто було б убивати"
+ },
+ {
+  "check": "register",
+  "id": "Factions.xml|SyncreticDevaWonFlavor",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Features.xml|ErebusExcavatorProperties",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Шанс 5% на випадкову нагороду"
+ },
+ {
+  "check": "russianism",
+  "id": "Features.xml|AdvancedVoiceCacheFlavor",
+  "note": "дієприкметник на -ючий: падаючі",
+  "frag": "ння їхнього флоту ми щодня спостерігали падаючі з орбіти уламки — інколи припаси або вц"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|(Turn)",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "(%1% ход.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|(Turns)",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "(%1% ход.)"
+ },
+ {
+  "check": "russianism",
+  "id": "GUI.xml|DisableTipsHint",
+  "note": "дієприкметник на -ючий: спливаючі",
+  "frag": "Не показувати спливаючі поради. Їх можна знову увімкнути в нала"
+ },
+ {
+  "check": "capital",
+  "id": "GUI.xml|EstimatedCasualties",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Прогноз  /  втрат"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|ExperienceShort",
+  "note": "EN ends 'p', UK ends '.'",
+  "frag": "дос."
+ },
+ {
+  "check": "latin_words",
+  "id": "GUI.xml|HoldKeyForMeleeAttack",
+  "note": "Ctrl",
+  "frag": "Утрим. Ctrl — максимальна шкода."
+ },
+ {
+  "check": "latin_words",
+  "id": "GUI.xml|InviteEpicFriend",
+  "note": "Epic",
+  "frag": "Запросити друга з Epic"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|Max",
+  "note": "EN ends 'x', UK ends '.'",
+  "frag": "макс."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|Min",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "мін."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|Off",
+  "note": "EN ends 'f', UK ends '.'",
+  "frag": "Вимк."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|On",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "Увімк."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|PassiveActionOff",
+  "note": "EN ends 'f', UK ends '.'",
+  "frag": "ht='20' texture='Icons/Attributes/Actions'/> Пасивно (Вимк.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|PassiveActionOn",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "t='20' texture='Icons/Attributes/Actions'/> Пасивно (Увімк.)"
+ },
+ {
+  "check": "capital",
+  "id": "GUI.xml|PlayerXTurn",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Ходить"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|ResearchTierLockedHint",
+  "note": "EN ends '.', UK ends '%'",
+  "frag": "б розблокувати, дослідіть технологій попереднього рангу: %1%"
+ },
+ {
+  "check": "latin_words",
+  "id": "GUI.xml|ShopHint",
+  "note": "XX",
+  "frag": "Конкордат [ ]  Торгівля ресурсами та предметами для героїв.   Усі знали про Конкордат. Але ніхто не "
+ },
+ {
+  "check": "numbers",
+  "id": "GUI.xml|ShopHint",
+  "note": "EN ['20'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|XTile",
+  "note": "EN ends 'e', UK ends '.'",
+  "frag": "%1% кл."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|XTiles",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "%1% кл."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|XTurn",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "%1% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|XTurns",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "%1% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|OffColored",
+  "note": "EN ends 'f', UK ends '.'",
+  "frag": "<style color='GUI/Red'/>Вимк.<style color='Default'/>"
+ },
+ {
+  "check": "end_punct",
+  "id": "GUI.xml|OnColored",
+  "note": "EN ends 'n', UK ends '.'",
+  "frag": "<style color='GUI/Green'/>Увімк.<style color='Default'/>"
+ },
+ {
+  "check": "end_punct",
+  "id": "Items.xml|ICARFluidDeflector",
+  "note": "EN ends 'r', UK ends '.'",
+  "frag": "Рідинний дефлектор І.К.А.Р."
+ },
+ {
+  "check": "end_punct",
+  "id": "Items.xml|ICARLogo0",
+  "note": "EN ends 'o', UK ends '.'",
+  "frag": "Фрагмент логотипу І.К.А.Р."
+ },
+ {
+  "check": "end_punct",
+  "id": "Items.xml|PFCManual",
+  "note": "EN ends 'l', UK ends '.'",
+  "frag": "Посібник з P.F.C."
+ },
+ {
+  "check": "russianism",
+  "id": "Items.xml|AkavishRigFlavor",
+  "note": "дієприкметник на -ючий: вражаюче",
+  "frag": "Вражаюче досягнення технічної думки — м’язовий м"
+ },
+ {
+  "check": "russianism",
+  "id": "Items.xml|ChayotCrospectFlavor",
+  "note": "дієприкметник на -ючий: скануючому",
+  "frag": "Технологія спектрального аналізу у скануючому пристрої хайота-викорінювача могла стат"
+ },
+ {
+  "check": "russianism",
+  "id": "Items.xml|DynameisPlateFlavor",
+  "note": "дієприкметник на -ючий: вражаючим",
+  "frag": " цей шматок броні не здавався таким вже вражаючим. Але інженери, які його винайшли, без з"
+ },
+ {
+  "check": "russianism",
+  "id": "Items.xml|ReactiveTriggerFlavor",
+  "note": "дієприкметник на -ючий: трасуючих",
+  "frag": ". Простий пристрій, який випускає серію трасуючих снарядів перед основною атакою, дозволя"
+ },
+ {
+  "check": "latin_words",
+  "id": "Messages.xml|BetaStart",
+  "note": "zephon beta feedback NDA",
+  "frag": "Просимо повідомляти про всі баги в каналах #zephon-beta та #zephon-beta-feedback на офіційному серве"
+ },
+ {
+  "check": "numbers",
+  "id": "Messages.xml|DemoStart",
+  "note": "EN ['10', '3', '5', '50', '6', '8'] vs UK ['10', '3', '4', '5', '50', '6', '8']",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Messages.xml|ModUploadFailed",
+  "note": "Preview png jpg MB",
+  "frag": "Не вдалося передати мод.  Переконайтеся, що розмір файлу Preview.png / Preview.jpg не перевищує 1 MB"
+ },
+ {
+  "check": "end_punct",
+  "id": "Messages.xml|PleaseWait",
+  "note": "EN ends 't', UK ends '.'",
+  "frag": "<style color='GUI/Red'/>Будь ласка, зачекайте..."
+ },
+ {
+  "check": "latin_words",
+  "id": "Messages.xml|PreviewStart",
+  "note": "Ctrl AM PT PM GMT",
+  "frag": "Зверніть увагу, що процес передрелізного тестування, налагодження та перекладу ще не завершений. Ви "
+ },
+ {
+  "check": "numbers",
+  "id": "Messages.xml|PreviewStart",
+  "note": "EN ['1', '1', '24', '4', '6', '6', '8'] vs UK ['00', '00', '1', '1', '16', '16', '4', '6', '6', '8']",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Messages.xml|SetBinding",
+  "note": "EN starts uppercase, UK does not",
+  "frag": ": введіть нову комбінацію клавіш."
+ },
+ {
+  "check": "latin_words",
+  "id": "Messages.xml|ServerUnreachable",
+  "note": "UPnP TCP",
+  "frag": "Не вдалося підключитися до сервера.  Щоб покращити підключення, переконайтеся, що ви вимкнули брандм"
+ },
+ {
+  "check": "capital",
+  "id": "Messages.xml|UnboundControl",
+  "note": "EN starts uppercase, UK does not",
+  "frag": ": призначення видалено."
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|AgainstFlyingUnits",
+  "note": "дієприкметник на -ючий: літаючих",
+  "frag": " проти літаючих юнітів"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|AgainstNonFlyingUnits",
+  "note": "дієприкметник на -ючий: літаючих",
+  "frag": " проти НЕ-літаючих юнітів"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|ForNonLargeGroundUnitsAgainstRangedWeapons",
+  "note": "дієприкметник на -ючий: літаючих",
+  "frag": " для НЕ-великих, НЕ-літаючих юнітів проти дистанційної зброї"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins",
+  "note": "дієприкметник на -ючий: літаючих",
+  "frag": " для НЕ-великих, НЕ-літаючих юнітів під час атаки з лісів або руїн"
+ },
+ {
+  "check": "edge_space",
+  "id": "Modifiers.xml|OfFlagshipProductOnDeath",
+  "note": "leading or trailing space differs from English",
+  "frag": "\"<string name='Actions/Pla\" ... \"ame='Modifiers/OnDeath'/>\""
+ },
+ {
+  "check": "end_punct",
+  "id": "Modifiers.xml|OfFlagshipProductOnDeath",
+  "note": "EN ends 'f', UK ends ''",
+  "frag": "umScionAffinityUpgrade2'/><string name='Modifiers/OnDeath'/>"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToAnchorite",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Анахорету"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|ToAttacker",
+  "note": "дієприкметник на -ючий: атакуючому",
+  "frag": " атакуючому"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToChieftess",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Вождині"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToChieftessAnchoriteZephon",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Вождині, Анахорету і ЗЕФОНу"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|ToMeleeAttackers",
+  "note": "дієприкметник на -ючий: атакуючим",
+  "frag": " атакуючим у ближньому бою"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToNonLargeEnemy",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "НЕ-великому ворогу"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToNonLargeAlliedUnits",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "НЕ-великим союзним юнітам"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToNonLowPowerWeapon",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "НЕ-розрядженій зброї"
+ },
+ {
+  "check": "capital",
+  "id": "Modifiers.xml|ToZephon",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "ЗЕФОНу"
+ },
+ {
+  "check": "russianism",
+  "id": "Modifiers.xml|WhileAlliedNonFlyingUnitOnTile",
+  "note": "дієприкметник на -ючий: літаючого",
+  "frag": "при перебуванні на клітинці союзного НЕ-літаючого юніта"
+ },
+ {
+  "check": "latin_words",
+  "id": "Modifiers.xml|ToZeroOrOneBeforeDistressSignalMimicked",
+  "note": "ZERO ONE",
+  "frag": "на ZERO чи ONE, доки вони не зімітували сигнал лиха"
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|CityFoundedSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Засноване місто:  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Notifications.xml|CityGrownSummary",
+  "note": "space before punctuation",
+  "frag": "  досягає населення  ."
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|FactionDiscoveredSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Виявлено:  ."
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|FeatureTypeDiscoveredSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Виявлено:  ."
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|RegionDiscoveredSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Виявлено:  ."
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|ResearchCompletedSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Досліджено:  ."
+ },
+ {
+  "check": "capital",
+  "id": "Notifications.xml|UnitTypeDiscoveredSummary",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Виявлено:  ."
+ },
+ {
+  "check": "spacing",
+  "id": "Objectives.xml|CreateCaitiffWithPerfectForever",
+  "note": "space before punctuation",
+  "frag": "Створити юніт  , використовуючи   ( / )"
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|ExecuteOrderWithEngineersWithinTurns",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "икористовуючи юніт <string name='Units/Engineer'/> за %4% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|ExecuteOrderWithinTurns",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Виконати наказ: %1% за %4% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|KillBlackSite",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Знищити секретний комплекс ЗЕФОНА за %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|KillCalem",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Знищити Келема Воршола та його банду за %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|KillCultists",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Знищити культістів за %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|KillDreadPearlman",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Знищити фортецю Дред-Перлмана за %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|KillUrsaMajorDefenders",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Знищити захисників «Великої ведмедиці» за %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|ResistVirus",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Протистояти вірусу %2% х."
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|VisitBlackSite",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "кого героя на сусідню з комплексом ЗЕФОНА клітинку за %4% х."
+ },
+ {
+  "check": "russianism",
+  "id": "Objectives.xml|VisitTileWithFlyingUnit",
+  "note": "дієприкметник на -ючий: літаючий",
+  "frag": "Привести до клітинки літаючий юніт, щоб знайти місто ( / )"
+ },
+ {
+  "check": "end_punct",
+  "id": "Objectives.xml|VisitTileWithResourceTransport",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "инки юніт <string name='Units/ResourceTransport'/> за %4% х."
+ },
+ {
+  "check": "double_punct",
+  "id": "Objectives.xml|WaitForFinalBattle",
+  "note": ".,",
+  "frag": "Очікувати   х., перш ніж обрати сторону для фінального "
+ },
+ {
+  "check": "double_punct",
+  "id": "Objectives.xml|WaitForGlandHarvest",
+  "note": ".,",
+  "frag": "Очікувати   х., поки триває збір залоз ваших людей"
+ },
+ {
+  "check": "double_punct",
+  "id": "Objectives.xml|WaitForHwedoToFeed",
+  "note": ".,",
+  "frag": "Очікувати   х., поки Хведо живиться вашим населенням"
+ },
+ {
+  "check": "double_punct",
+  "id": "Objectives.xml|WaitForYetunde",
+  "note": ".,",
+  "frag": "Очікувати   х., поки Йетунде проводить дослідження"
+ },
+ {
+  "check": "latin_words",
+  "id": "Objectives.xml|KillEradicators",
+  "note": "Eradicator",
+  "frag": "Знищити обидва збунтовані Eradicator"
+ },
+ {
+  "check": "latin_words",
+  "id": "Objectives.xml|MimicDistressSignal",
+  "note": "ZERO ONE",
+  "frag": "Зімітувати сигнал лиха на ZERO та ONE ( / )"
+ },
+ {
+  "check": "russianism",
+  "id": "Objectives.xml|ProduceFlyingUnit",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": "Виробити літаючі юніти ( / )"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AlienIntelligence/EscortFailure",
+  "note": "даний = цей: даних",
+  "frag": "довища.  Навіть якщо штурмувати сховище даних, без Ландана це буде марна трата сил.  "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AlienIntelligence/EscortSuccess",
+  "note": "даний = цей: даних",
+  "frag": "ною, перш ніж зайти всередину.  Сховище даних виглядає як чорний моноліт у центрі роз"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AlienIntelligence/EscortHaggleSuccess",
+  "note": "даний = цей: даних",
+  "frag": "ною, перш ніж зайти всередину.  Сховище даних виглядає як чорний моноліт у центрі роз"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AlienIntelligence/Intro",
+  "note": "даний = цей: даних",
+  "frag": "обмін він обіцяє надати копію отриманих даних."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AreMachinesAlive/MachineEvolution",
+  "note": "дієприкметник на -ючий: синтезуючим",
+  "frag": "трібна для перемоги.  Ти доручаєш своїм синтезуючим дронам прискорити еволюцію цих машин. Н"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|AreMachinesAlive/MachineTools",
+  "note": "дієприкметник на -ючий: зростаючу",
+  "frag": " помилковий код, відповідальний за їхню зростаючу автономність. Один із них ставить швидк"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ChildOfTheNewWorld/ContactAugurSuccess",
+  "note": "дієприкметник на -ючий: спрямовуюча",
+  "frag": "Місія Авгура благородна. Якби не спрямовуюча мудрість Голосу, акрини вже зникли б. Т"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ChildOfTheNewWorld/AssaultAnchoriteSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|CircusCambion/Intro",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|CircusCambion/FortuneTelling",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CircusCambion/AbkluthJousting",
+  "note": "дієприкметник на -ючий: шаленіючих",
+  "frag": "НЕЗАБУТНЄ шоу!» — вітає господар манежу шаленіючих глядачів. Вони прийшли сюди заради кров"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|CircusCambion/AbkluthJousting2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CircusCambion/ZephonOrigin",
+  "note": "даний = цей: даних",
+  "frag": "середину й саботувати дослідницьку базу даних.  Хто стояв за цією операцією? ЗЕФОН? Г"
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|CircusCambion/ErelimPuppets2",
+  "note": "EN ends '.', UK ends 'м'",
+  "frag": " ерелімів напасти з тіні й перерізати горлянки твоїм ворогам"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CircusCambion/ErelimPuppets3",
+  "note": "дієприкметник на -ючий: вражаючий",
+  "frag": "частинка їхньої душі.  Виступ настільки вражаючий, що твої люди на довгі дні втрачають зд"
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|CircusCambion/HighVoltage",
+  "note": "..",
+  "frag": "я мав підключити червоний дріт чи синій?..»  Трансформатор оживає, в небо злітають"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CriesForHelp/HelpSuccess",
+  "note": "самий + прикметник: самий останній",
+  "frag": "раються до вцілілих загонів «Жовчних» у самий останній момент. Після короткого відпочинку твої"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ConcordatCompromised/Intro/ComplyViolently",
+  "note": "дієприкметник на -ючий: конкуруючою",
+  "frag": "  Ти з радістю розправишся з майбутньою конкуруючою стороною."
+ },
+ {
+  "check": "numbers",
+  "id": "Quests.xml|EconomicBubble/MixedSystemFailure",
+  "note": "EN ['40'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Quests.xml|EconomicBubble/MixedSystemSuccess",
+  "note": "EN ['40'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Quests.xml|FormFunction/Intro",
+  "note": "missing space after punctuation",
+  "frag": "ВЕЛИЧ.  величінемаєніякоговеличялішеразум,щохапаєтьсязареальність  Здається, ти від"
+ },
+ {
+  "check": "repeated_word",
+  "id": "Quests.xml|FormFunction/TrustIronFeather",
+  "note": "ПАЛЬЦІ",
+  "frag": "ОСТІ твоєї свідомості.  Це пальціпальці ПАЛЬЦІ пальці завжди виглядають як пластикова КАША.  "
+ },
+ {
+  "check": "spacing",
+  "id": "Quests.xml|FormFunction/AssertControlSuccess",
+  "note": "missing space after punctuation",
+  "frag": "Пера свій рааааазумммммнадіяповагабажання?всеушловсеочищено.  Твоя свідомість загос"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|FormFunction/AssertControlSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|FormFunction/FlushCortexSuccess",
+  "note": "дієприкметник на -ючий: страждаюча",
+  "frag": "«Не жалюгідна» — шепоче вона. — «Просто страждаюча».   "
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ImpossibleConception/Intro2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ImpossibleConception/MotherExperiment32",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ImpossibleConception/SaveYourHusbandSuccess",
+  "note": "дієприкметник на -ючий: палаючих",
+  "frag": "им та дитиною, на мить спіймавши погляд палаючих червоним очей ЗЕФОНА, — але потім чолов"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MeetYourMaker/Intro",
+  "note": "даний = цей: даних",
+  "frag": ". Вона пояснює, що її застукали за злом даних із центрального сервера. Вона не озброє"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MeetYourMaker/GatherResourcesSuccess",
+  "note": "дієприкметник на -ючий: сяюча",
+  "frag": "спалахує світло, і з-під землі виповзає сяюча примарна фігура.  Вона рухається прямо "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MeetYourMaker/HoldFire2",
+  "note": "дієприкметник на -ючий: всепоглинаючого",
+  "frag": "обічним ефектом. Димом, що піднявся від всепоглинаючого полум’я».  Ось і вся загадка. У глибині"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MeetYourMaker/Shoot2",
+  "note": "дієприкметник на -ючий: сяюча",
+  "frag": "лоть світиться тим самим кольором, що й сяюча тварюка, яку ти вбив. «Ти відкрив широк"
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|MessageToTheStars/Intro2",
+  "note": "EN ends '.', UK ends 'м'",
+  "frag": "ких істот. Ліквідуйте їх. Тоді я надам підтримку з сигналом»"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MessageToTheStars/Contact",
+  "note": "даний = цей: даних",
+  "frag": " дивні звуки.  Нарешті він каже: «Пакет даних відправлено. Час прибуття дорівнює [ВИД"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|MessageToTheStars/Contact",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|MessageToTheStars/MessageSent",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|MessageToTheStars/DoItYourself2",
+  "note": "IQ",
+  "frag": "Око ЗЕФОНа здається ще червонішим, коли він викликає тебе по комунікатору. «Ризик міжгалактичного до"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|MessageToTheStars/DoItYourselfSuccess",
+  "note": "дієприкметник на -ючий: вмираючої",
+  "frag": "за все, це просто фонове випромінювання вмираючої зірки.  Скоріше за все. Можливо. Хотіло"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|PerfectionFromBeyondTheStars/HwedoDeath",
+  "note": "дієприкметник на -ючий: пролітаючої",
+  "frag": "а форма життя, створена тобою з насіння пролітаючої комети, знову стала лише купою плоті та"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|PhilosophersStone/TreasureFound",
+  "note": "слідуючий: слідуючи",
+  "frag": "Слідуючи карті ватажка розбійників, твої землеко"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|Reyndverra/Intro4",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|Reyndverra/AnchoriteAssaultSuccess",
+  "note": "..",
+  "frag": "Чи служить іншому господарю? Скільки їх?..  Але потім ти нагадуєш собі: стриманіст"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|Reyndverra/AnchoriteCajoleSuccess",
+  "note": "дієприкметник на -ючий: наростаючим",
+  "frag": "нахорета проходить повз тебе, заглушена наростаючим у думках гнівом. Він планував, щоб ти н"
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|Reyndverra/FollowTheChieftessFailure",
+  "note": "..",
+  "frag": " Можливо, тобі ще випаде шанс навчитися?.."
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|Reyndverra/FightChieftessFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|Reyndverra/FightChieftessSuccess",
+  "note": "дієприкметник на -ючий: палаючого",
+  "frag": " Лічильник загиблих йде на тисячі, гори палаючого металу складені біля входу в систему пе"
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|Reyndverra/FightChieftessSuccess",
+  "note": "EN ends '—', UK ends '.'",
+  "frag": "илу.<br/><br/>Ось настав цей момент, ти простягаєш руку і..."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|Reyndverra/TakeBlade2",
+  "note": "дієприкметник на -ючий: палаючого",
+  "frag": " навпіл. Ти повертаєшся на поверхню, до палаючого «Пустельника» Вождині. Ти робиш замах, "
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|Reyndverra/GiveUpBlade",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|Sandpit/FeedSuccess",
+  "note": "дієприкметник на -ючий: розуміючими",
+  "frag": " б, щоб усі твої підлеглі були такими ж розуміючими."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess",
+  "note": "даний = цей: даних",
+  "frag": "едині знищеного меха знайшли якісь чіпи даних — там може бути щось корисне.  Перешкод"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess2",
+  "note": "дієприкметник на -ючий: бігаючий",
+  "frag": " Ти сідаєш біля терміналу, вдивляєшся у бігаючий текст і починаєш помічати закономірніст"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeadHandOfCapitalism/SolveRiddleSuccess2",
+  "note": "дієприкметник на -ючий: облягаючий",
+  "frag": " — а з неї вивалюється старий. На ньому облягаючий блейзер із синтетичної тканини — такий,"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheDeadHandOfCapitalism/TakeHisEyes",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion1",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [СТАДІЯ Б"
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|TheDeep/OpenQuestion1",
+  "note": "EN ends '}', UK ends '.'",
+  "frag": "РОЗУМУ НЕ ВИТРИМАТИ СТІЛЬКИХ ІСТИН. ОТ, ПРИЙМИ ЦЕТИЙ {ДАР}.]"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion2",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [МИ — ТЕМ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion3",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [НЕМАЄ НІ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion4",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [ПОЗА ЧАС"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/ZephonVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [СТРАДАНН"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/AcrinVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [ПІДРАЖАТ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/HumanVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [НЕМАЄ СП"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/FallenSoldierVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [СВІДОМІС"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/UntoldProphetVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [ТИ ЛОВИШ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/RogueOperativeVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [ТОБІ БІЛ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/FurtiveTribunalVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його промови.  [ЦЕ ПРАВД"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/HeartlessArtificerVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [ТЩЕСЛАВСТВО"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/EmulatedMindVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [НІ ТЕ, НІ І"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/HonorableAristocratVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [НАРОДЖЕННЯ "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/PracticalRomanticVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [ЛЮБОВ Є ВСЕ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/HollowWarlordVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [ІНОДІ ДО ІС"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/TwistedMotherVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонизуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонизуюче полегшення від його мови.  [ПЕРЕЖИТИ ТА"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/ZephonMutatorVictory",
+  "note": "дієприкметник на -ючий: заслуговуючим",
+  "frag": "страждань ЗЕФОН залишився загубленим... заслуговуючим жалю."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/AcrinMutatorVictory",
+  "note": "дієприкметник на -ючий: існуючого",
+  "frag": "у мудрість чогось поза часом — Глибини. Існуючого поза часом гештальту, якому байдуже — і"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheDeep/UntoldProphetMutatorVictory",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheDeep/FurtiveTribunalMutatorVictory",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheDream/AskTribunal",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|TheDream/Ignore",
+  "note": "..",
+  "frag": "ї помічники... Можна вважати їх вірними?.. Ти можеш присягнутися, що помічники шеп"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheDream/Intro/AskTribunal",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "spacing",
+  "id": "Quests.xml|TheDream/Intro/AskTribunalProperties",
+  "note": "space before punctuation",
+  "frag": "Лише для фракції    ."
+ },
+ {
+  "check": "capital",
+  "id": "Quests.xml|TheDream/Intro/AskTribunalProperties",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Лише для фракції    ."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheInformant/Intro/Pay",
+  "note": "даний = цей: даних",
+  "frag": "не… Взамін він обіцяє тобі досьє, носії даних, полонених, рейди…"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheLastDaysOfEarth/Zephon",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheLastDaysOfEarth/MessageToTheStars",
+  "note": "даний = цей: даних",
+  "frag": "  Сигнал містить лише короткий фрагмент даних. Але після розшифрування — очі твого го"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheLastDaysOfEarth/StolenGoods",
+  "note": "дієприкметник на -ючий: сяюча",
+  "frag": "нині зруйновану. Але солдатів приваблює сяюча панель — вони зламують її й знаходять р"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheLastDaysOfEarth/UnderObservation",
+  "note": "даний = цей: даних",
+  "frag": "єш, що він накопичив ексабайти наукових даних у своєму мовному модулі — і після певни"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheLastDaysOfEarth/ZephonOfferTitan",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Quests.xml|TheLastDaysOfEarth/ZephonVictory",
+  "note": "EN ['0', '1'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheLastDaysOfEarth/IndependentVictory",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|ThePlague/Intro/AskAnchorite",
+  "note": "..",
+  "frag": ", в дружнього сусіда знайдеться рішення?.."
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|ThePriceOfHonor/Intro",
+  "note": "..",
+  "frag": "бункері ти й не боявся голоду.  «Голоду?..» — тихо повторює НеоГерцог, вдивляючись"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePriceOfHonor/Intro",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ThePriceOfHonor/CommandMercenariesSuccess",
+  "note": "дієприкметник на -ючий: нудьгуючий",
+  "frag": "то бачить світ не так, як ми. Чи просто нудьгуючий багатій, що тасує нас, наче фішки».  Ви"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePriceOfHonor/CommandMercenariesSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ThePriceOfHonor/DismissMercenariesSuccess",
+  "note": "дієприкметник на -ючий: нудьгуючий",
+  "frag": " бачить світ не так, як ми... чи просто нудьгуючий багач, що тасує нас, наче фішки на дошц"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePriceOfHonor/DismissMercenariesSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ThePulledThread/Intro",
+  "note": "дієприкметник на -ючий: страждаючої",
+  "frag": ", що спрямовувала їхні думки — і агонії страждаючої плоті, яку раніше приглушували.  Послід"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePulledThread/Intro",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ThePulledThread/EnemyGlandsSuccess",
+  "note": "дієприкметник на -ючий: нейростимулюючим",
+  "frag": "о записи свідчать, що Орин працював над нейростимулюючим наголовним пристроєм під назвою Прив’яз"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePulledThread/EnemyGlandsSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePulledThread/RecoverTetherSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|ThePulledThread/KillOrinSuccess",
+  "note": "дієприкметник на -ючий: волаючих",
+  "frag": "сухожилля іржавим ножем. Незабаром маса волаючих трупів падає в прірву — твоє возмездя з"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePulledThread/KillOrinSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThePulledThread/CaptureScientistFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheSkyFallen/OpenFire",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheSpaceEngine/ChangeThePastFailure",
+  "note": "дієприкметник на -ючий: палаючими",
+  "frag": "ринів падають з орбіти, усипаючи своїми палаючими уламками небо і землю. Після цього вони"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheSpaceEngine/FindZephonInsightsSuccess",
+  "note": "дієприкметник на -ючий: ізолюючого",
+  "frag": "ого товсті бетонні стіни покриті шарами ізолюючого матеріалу.  На консолі мейнфрейму відоб"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheSpaceEngine/Ignore",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheSpaceEngine/SellTechToAnchoriteSuccess",
+  "note": "дієприкметник на -ючий: анестезуючою",
+  "frag": "щею. Акрин намащує тварину червонуватою анестезуючою сумішшю, яка змушує її повністю тобі пі"
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|TheSpaceEngine/SellTechToConcordatSuccess",
+  "note": "VIP",
+  "frag": "Представник Конкордату з ефективністю машини оцінює можливий прибуток. Коли прогноз передбачає значн"
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|TheSpaceEngine/SellTechToConcordatSuccess",
+  "note": "..",
+  "frag": "ром заходить інший представник — той же?.. — зі стазисною валізочкою. Кришка з кла"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheSummoning/Combat",
+  "note": "даний = цей: даному",
+  "frag": "нє пекло.  Єдиний спосіб їм завадити на даному етапі — вбити їх усіх, перш ніж ритуал "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheTiesThatBind/ChaseJezinaSuccess",
+  "note": "дієприкметник на -ючий: сивіючому",
+  "frag": "дя, ті самі яскраві очі, і лише завдяки сивіючому волоссю все стає на свої місця.  Джезін"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheTiesThatBind/HelpJezinaEscapeSuccess",
+  "note": "дієприкметник на -ючий: вражаюча",
+  "frag": " на краю пустелі, де прибулих зустрічає вражаюча колосальна машина, керована людьми в ма"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheTiesThatBind/HelpJezinaEscapeFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/ScareOff",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/BrothersKeeper",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/BrothersKeeper/JoinArshem2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/BrothersKeeper/StopArshem2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/JoinArshemSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/StopArshemSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|ThickerThanWater/StopArshemSuccess2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "apostrophe",
+  "id": "Quests.xml|UnderObservation/RecoverShardsSuccess",
+  "note": "non-standard apostrophe",
+  "frag": "нається, що ми здогадалися, то він нас убʼє».  Значить, ЗЕФОН перетворив тебе на че"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|UnderObservation/BugZephonFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|UnderObservation/AcquireShardsSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|UnderObservation/AcquireShardsSuccess2",
+  "note": "дієприкметник на -ючий: всезнаючий",
+  "frag": "Як одурачити всезнаючий і всевидячий штучний розум? «Віддати йо"
+ },
+ {
+  "check": "apostrophe",
+  "id": "Quests.xml|UnderObservation/AcquireShardsSuccess2",
+  "note": "non-standard apostrophe",
+  "frag": "вляє копії назад ЗЕФОНу.  Невдовзі вона зʼєднує разом захоплені вузли і представляє"
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess",
+  "note": "..",
+  "frag": "рні сфери. Вона задоволена твоїми діями?.. Чи сердита?  Вона зникає. Ти вже бачиш,"
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|WhoWasThursday/ConnectFailure",
+  "note": "..",
+  "frag": "вбити ту, що ридає голосом твоєї матері?.."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|WhoWasThursday/Dismantle",
+  "note": "даний = цей: даних",
+  "frag": "ено — але зате і без того вражаюча база даних ЗЕФОНа не поповниться ще одним зразком "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|WhoWasThursday/Dismantle",
+  "note": "дієприкметник на -ючий: вражаюча",
+  "frag": "союзника втрачено — але зате і без того вражаюча база даних ЗЕФОНа не поповниться ще одн"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|BecomingUnbound/ConquerorPathSuccess",
+  "note": "дієприкметник на -ючий: нападаючою",
+  "frag": "авньої Русі, притиснутим до стіни щитів нападаючою кавалерією, наче фрукт у стиснутій доло"
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|BecomingUnbound/ConquerorsInfinitySuccess",
+  "note": "EN ends '—', UK ends '.'",
+  "frag": "иль, і...<br/><br/>...і...<br/><br/>...і...<br/><br/>...і..."
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|BecomingUnbound/FiveSoldiersSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|BecomingUnbound/Intro",
+  "note": "EN ends '—', UK ends '.'",
+  "frag": " інша — в руки поетів. Вирішуй, вирішуй, вирішуй, ВИРІШУЙ..."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|BecomingUnbound/PoetsChoiceSuccess",
+  "note": "дієприкметник на -ючий: дряпаючих",
+  "frag": "ого дотику. В потилиці виникає відчуття дряпаючих кігтів — притягнення такої сили ти не в"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|BecomingUnbound/PoetsPresentSuccess2",
+  "note": "дієприкметник на -ючий: надихаючою",
+  "frag": "ротного. Тобі хочеться вважати цю думку надихаючою, але... щось не дає тобі спокою. Якщо п"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CityInTheClouds/DestroyTheCitySuccess",
+  "note": "дієприкметник на -ючий: палаюче",
+  "frag": " для тебе набагато важливіші, ніж якесь палаюче місто, що падає з небес."
+ },
+ {
+  "check": "end_punct",
+  "id": "Quests.xml|CityInTheClouds/HuntForTheCitySuccess3",
+  "note": "EN ends 'r', UK ends '.'",
+  "frag": "вку на переможця і розібрати завали, коли все закінчиться..."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|CityInTheClouds/Intro",
+  "note": "дієприкметник на -ючий: літаючий",
+  "frag": "ити, чи вистачить ще часу вистежити цей літаючий мегаполіс."
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|CityInTheClouds/Intro",
+  "note": "..",
+  "frag": "Місто в хмарах?.. Якщо це здається гарячковим сном, то ті"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|CityInTheClouds/SupportRulersFailure",
+  "note": "unbalanced «» (5 open, 6 close)",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|StormOfStorms/BegAndBargain",
+  "note": "дієприкметник на -ючий: літаючу",
+  "frag": "ть мати всіх бур, він перетворить її на літаючу «брудну бомбу», яка на багато поколінь "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|StormOfStorms/Intro3",
+  "note": "дієприкметник на -ючий: падаюча",
+  "frag": "я з метеора. Серед пустелі розбивається падаюча зоря — акринський корабель, що зійшов з"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/InfiniteCountVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонізуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонізуюче полегшення від його мови.  [РІДКІСНА ПР"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion5",
+  "note": "дієприкметник на -ючий: агонізуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонізуюче полегшення від його мови.  [МИ ТЕ, ЩО М"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/OpenQuestion6",
+  "note": "дієприкметник на -ючий: агонізуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонізуюче полегшення від його мови.  [ЦІННІСТЬ — "
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheDeep/PlatinumScionVictoryQuestion",
+  "note": "дієприкметник на -ючий: агонізуюче",
+  "frag": "— божевілля безчасся. Знову — неможливе агонізуюче полегшення від його мови.  [ТВОЇ — ПОВЕ"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheLastDaysOfEarth/PhilosophersStone2",
+  "note": "дієприкметник на -ючий: бажаючий",
+  "frag": "у пустелі, торкнутий його силою, але не бажаючий підкорятися."
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheLastDaysOfEarth/TheMartialEthic",
+  "note": "дієприкметник на -ючий: ликуючий",
+  "frag": "ілізацій.  Ти очікуєш, що його зустріне ликуючий натовп — але тут тихо. Битва титанів ус"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheMartialEthic/ArenaCyberVictory2",
+  "note": "дієприкметник на -ючий: сяючою",
+  "frag": "алишилися криваві шрами, і вона воювала сяючою сокирою, заляпаною кров’ю і маслом."
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|TheMartialEthic/Intro2",
+  "note": "..",
+  "frag": " Як цьому Карро вдалося його заполучити?.. Ці солдати не просто шукали слави — вон"
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TheMartialEthic/SpoilTheFun",
+  "note": "дієприкметник на -ючий: розчаровуюча",
+  "frag": "ишається лише війна — брудна, жорстока, розчаровуюча, повільна."
+ },
+ {
+  "check": "numbers",
+  "id": "Quests.xml|TouchTheSky/CarveFaceSun",
+  "note": "EN ['24', '7'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TouchTheSky/CarveFaceSun",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Quests.xml|TouchTheSky/CarveFaceSunCanon",
+  "note": "EN ['24', '7'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TouchTheSky/CarveFaceSunHighRoad2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TouchTheSky/Intro2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TouchTheSky/RiseToTheOccasionSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|TouchTheSky/WhinersAndComplainersSuccess",
+  "note": "дієприкметник на -ючий: падаючим",
+  "frag": "монстри рвуть один одного на шматки під падаючим вулканічним попелом. А це не війна. Це "
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|BinaricChoice/HelpEradicatorsFailure",
+  "note": "NAME",
+  "frag": "НУЛЬ та ОДИН лежать у руїнах. ЗЕФОН виходить на зв’язок, глузуючи. «Дякуємо за твої зусилля захистит"
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|BinaricChoice/HelpEradicatorsSuccess/HelpZero",
+  "note": "PlanetShieldProtocol",
+  "frag": "Допомогти НУЛЬ:  PlanetShieldProtocol звучить як потужніша програма. Врятуй цього Винищувача."
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|BinaricChoice/HelpZeroSuccess2",
+  "note": "PlanetShieldProtocol",
+  "frag": "Карел копирсається в програмному коді НУЛЬ, аби збагнути природу PlanetShieldProtocol. Вона доходить"
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|BinaricChoice/HelpOneSuccess2",
+  "note": "CivilizationShieldProtocol",
+  "frag": "Щойно ОДИН повертається до ладу, він благає дозволити йому вистежити їх. Ти відмовляєш. Він неохоче "
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|FitForAdoration/SeekOracleSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Quests.xml|FitForAdoration/MakeFriendsSuccess",
+  "note": "даний = цей: даних",
+  "frag": "ю, що штучне життя збереться з людських даних, вилитих в інтернет. Ти шукав його. Ти "
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|FitForAdoration/StudyHeavensSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|FitForAdoration/ZephonNotGod2",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "double_punct",
+  "id": "Quests.xml|PoliticalFallout/RejectMarin",
+  "note": "..",
+  "frag": "спорядження, сховане в потаємній кімнаті.. Ви конфісковуєте його й попереджаєте Ма"
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|TheDeep/OpenQuestion7",
+  "note": "GIFT",
+  "frag": "“Усе це, цей повтор життів, що кружляють по колу. А після всього — потойбіччя, якого я не можу відчу"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/OpenQuestion7",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Усе це, цей повтор життів, що кружляють по колу. А після всього — потойбіччя, я"
+ },
+ {
+  "check": "latin_words",
+  "id": "Quests.xml|TheDeep/OpenQuestion8",
+  "note": "GIFT",
+  "frag": "“Тепер у мене так багато життів, я був стількома людьми. Щоразу я проходжу крізь той світ, приймаючи"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/OpenQuestion8",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Тепер у мене так багато життів, я був стількома людьми. Щоразу я проходжу крізь"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/ImperiousExonautVictoryQuestion",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Це було таке невідпорне — моє… упередження. Я бачила ‘інших’ як щось огидне, по"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/SyncreticDevaVictoryQuestion",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Заглибитися в чисте мислення, у пошук мудрості, злитися воєдино зі всесвітом… Я"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/ImperiousExonautMutatorVictory",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Я пізнала приховані глибини світу. Бачила, не дивлячись, відчувала імперії як о"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheDeep/SyncreticDevaMutatorVictory",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Той осяйний захист, що мали мої учні проти загарбників. Я гадав, вони встоять п"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/Intro",
+  "note": "English-style quotes instead of «»",
+  "frag": "У космосі немає ‘верху’. Ти ширяєш над Землею. Земля ширяє над тобою, видима крі"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/TwoKnightDefenseFailure",
+  "note": "English-style quotes instead of «»",
+  "frag": "Ваш розлючений крик приваблює Колю, що впливає до вашої командної бані. На екран"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheEmpathsDefense/TwoKnightDefenseFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/TwoKnightDefenseSuccess",
+  "note": "English-style quotes instead of «»",
+  "frag": "Коля впливає назад до вашої тісної воєнної кімнати, роззявивши рота від видовища"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheEmpathsDefense/TwoKnightDefenseSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/ResetTheBoard",
+  "note": "English-style quotes instead of «»",
+  "frag": "“Зробімо людство великим знову.” Що за безглузде гасло. Людству не треба бути ве"
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/PlayYourGameFailure",
+  "note": "English-style quotes instead of «»",
+  "frag": "“О, гарна гра, сонечко! Та годі-бо, невже ти думала, що я цього не передбачив?!”"
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheEmpathsDefense/PlayYourGameFailure",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "quotes",
+  "id": "Quests.xml|TheEmpathsDefense/PlayYourGameSuccess",
+  "note": "English-style quotes instead of «»",
+  "frag": "Ваші війська доповідають: вони знайшли Колиних послідовників і винищили їх.  Ви "
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheEmpathsDefense/PlayYourGameSuccess",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "register",
+  "id": "Quests.xml|TheLastDaysOfEarth/PoliticalFallout",
+  "note": "ти and ви in one entry",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Regions.xml|Climate2Name10",
+  "note": "дієприкметник на -ючий: вогоючого",
+  "frag": "Плато Вогоючого Вітру"
+ },
+ {
+  "check": "russianism",
+  "id": "Regions.xml|Climate4Name10",
+  "note": "дієприкметник на -ючий: обпікаючі",
+  "frag": "Обпікаючі Перепади"
+ },
+ {
+  "check": "capital",
+  "id": "Regions.xml|SteamFriendZephonMessage0",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "сюди точно не піде..."
+ },
+ {
+  "check": "capital",
+  "id": "Regions.xml|SteamFriendZephonMessage4",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "вже не з нами. Тебе я теж вб’ю."
+ },
+ {
+  "check": "capital",
+  "id": "Regions.xml|SteamFriendZephonMessage6",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "твій ворог. Зрадь."
+ },
+ {
+  "check": "capital",
+  "id": "Regions.xml|SteamFriendZephonMessage12",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "із радістю вб’є тебе. Вбий раніше."
+ },
+ {
+  "check": "capital",
+  "id": "Regions.xml|SteamFriendZephonMessage16",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "хоче зробити з тобою щось жахливе."
+ },
+ {
+  "check": "numbers",
+  "id": "Settings.xml|Controls/OrderAreaUnits",
+  "note": "EN ['3'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "latin_words",
+  "id": "Settings.xml|Network/ListenPortHint",
+  "note": "TCP",
+  "frag": "TCP-порт для прийому вхідних з’єднань під час створення мережевих ігор."
+ },
+ {
+  "check": "spacing",
+  "id": "Tips.xml|AffinitiesDescription",
+  "note": "space before punctuation",
+  "frag": "шевший доступ до технологій спорідненості  , а також ексклюзивний доступ до найвищог"
+ },
+ {
+  "check": "capital",
+  "id": "Tips.xml|AreaOrderUnitsDescription",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Натисніть [ ], щоб наказати всім юнітам у радіусі 3 клітинок"
+ },
+ {
+  "check": "numbers",
+  "id": "Tips.xml|DamageCalculationDescription",
+  "note": "EN ['0', '0', '0', '083', '1', '1', '1', '1', '1', '1', '10', '10', '10', '10', '100', '12', '12', '12', '12', '12', '12', '12', '12', '2', '2', '2', '2', '25', '33', '33', '50', '50', '50', '6', '6', '67', '67', '8', '8', '83', '83', '9', '9', '9'] vs UK ['0', '0', '0', '083', '1', '1', '1', '10', '10', '10', '10', '100', '12', '12', '12', '12', '12', '12', '12', '12', '2', '2', '2', '2', '25', '33', '33', '50', '50', '50', '6', '6', '67', '67', '8', '8', '83', '83', '9', '9', '9']",
+  "frag": ""
+ },
+ {
+  "check": "capital",
+  "id": "Tips.xml|EquipItemDescription",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Клацніть по предмету, щоб дати його своєму герою. Щойно взят"
+ },
+ {
+  "check": "russianism",
+  "id": "Tips.xml|MassOrderUnitsDescription",
+  "note": "дієприкметник на -ючий: бездіючим",
+  "frag": "всім юнітам, або [ ], щоб наказати всім бездіючим юнітам перемістітся на вказану клітинку"
+ },
+ {
+  "check": "capital",
+  "id": "Tips.xml|MassOrderUnitsDescription",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "Натисніть [ ], щоб наказати всім юнітам, або [ ], щоб наказа"
+ },
+ {
+  "check": "russianism",
+  "id": "Tips.xml|MovementDescription",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": "келі, які можуть подолати лише титани й літаючі юніти, позначені  помаранчевими лініями"
+ },
+ {
+  "check": "spacing",
+  "id": "Tips.xml|PopulationDescription",
+  "note": "space before punctuation",
+  "frag": "іх будівель. Ви можете клацнути по значку  , щоб вимкнути будівлю."
+ },
+ {
+  "check": "numbers",
+  "id": "Tips.xml|ReconDescription",
+  "note": "EN ['3'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Tips.xml|Loading/52",
+  "note": "EN [] vs UK ['2']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Tips.xml|Loading/Count",
+  "note": "EN ['69'] vs UK ['68']",
+  "frag": ""
+ },
+ {
+  "check": "numbers",
+  "id": "Traits.xml|BunkerExtensionProperties",
+  "note": "EN [] vs UK ['1']",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|Defiling",
+  "note": "дієприкметник на -ючий: оскверняючий",
+  "frag": "Оскверняючий"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|Deforming",
+  "note": "дієприкметник на -ючий: спотворюючий",
+  "frag": "Спотворюючий"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|Flying",
+  "note": "дієприкметник на -ючий: літаючий",
+  "frag": "Літаючий"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|FlyingProperties",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": " місцевості  Може пересуватися через НЕ-літаючі юніти ворога і навпаки  Ігнорує область"
+ },
+ {
+  "check": "end_punct",
+  "id": "Traits.xml|FlyingProperties",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": " видимості вважається таким, що перебуває на значній висоті."
+ },
+ {
+  "check": "capital",
+  "id": "Traits.xml|ForestProperties",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "У лісу є шанс  3%  поширитися в місцевості типу болото"
+ },
+ {
+  "check": "end_punct",
+  "id": "Traits.xml|FortificationDescription",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "прямої видимості вважається таким, що перебуває на височині."
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|Hovering",
+  "note": "дієприкметник на -ючий: ширяючий",
+  "frag": "Ширяючий"
+ },
+ {
+  "check": "end_punct",
+  "id": "Traits.xml|InvulnerableProperties",
+  "note": "EN ends '.', UK ends 'г'",
+  "frag": "<icon texture='GUI/Bullet'/>Невразливість на певний проміг"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|ParticleInterfering",
+  "note": "дієприкметник на -ючий: заважаючі",
+  "frag": "Заважаючі частинки"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|Revealing",
+  "note": "дієприкметник на -ючий: розкриваюче",
+  "frag": "Розкриваюче"
+ },
+ {
+  "check": "end_punct",
+  "id": "Traits.xml|TitanProperties",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": " видимості вважається таким, що перебуває на значній висоті."
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|TitanMeleeProperties",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": " Може атакувати літаючі юніти  Може атакувати через стрімчаки"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|VoidDrifter",
+  "note": "дієприкметник на -ючий: блукаючий",
+  "frag": "Блукаючий у порожнечі"
+ },
+ {
+  "check": "untranslated",
+  "id": "Traits.xml|VoiceVehiclesUpgradeProperties",
+  "note": "Canticles of Dusk gain production for biological units dying within tiles the headquarters",
+  "frag": "Canticles of Dusk gain production for biological units dying within 6 tiles of the city's headquarte"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|ZephonInterference",
+  "note": "дієприкметник на -ючий: перешкоджаючий",
+  "frag": "Перешкоджаючий ЗЕФОН"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|CostOfConvictionFlavor",
+  "note": "дієприкметник на -ючий: потопаючого",
+  "frag": "й глузд — і вони розбіжаться, як щури з потопаючого корабля."
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|CultExpansionFlavor",
+  "note": "дієприкметник на -ючий: невіруючих",
+  "frag": "я, скількох вдавалося навернути. Багато невіруючих усе одно воліли не висовуватись — щоб с"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|EmulatedMindAffinityUpgrade2Flavor",
+  "note": "даний = цей: даних",
+  "frag": "У базових даних Змодельованого розуму зберігалися екзаб"
+ },
+ {
+  "check": "numbers",
+  "id": "Traits.xml|FusionWarheadFlavor",
+  "note": "EN ['50', '50'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|HammerheadTargetFlavor",
+  "note": "даний = цей: даних",
+  "frag": ", що ці дрони створюють зворотний потік даних — отримують інформацію про вразливості "
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|ResourceNetworkFlavor",
+  "note": "даний = цей: даних",
+  "frag": "ваний розум підключилася до якоїсь бази даних ЗЕФОНА під час входу в мережу. Вона мал"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|RogueOperativeAffinityUpgradeFlavor",
+  "note": "дієприкметник на -ючий: вмираючої",
+  "frag": "стовів зламаних машин, як іржаві уламки вмираючої цивілізації."
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|ShieldDomeFlavor",
+  "note": "дієприкметник на -ючий: сяючим",
+  "frag": "ивільного населення. Коли стоїш під цим сяючим куполом, здається, що навколишній світ "
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|SummonFlavor",
+  "note": "дієприкметник на -ючий: тикаючий",
+  "frag": "Короткоживучі активи — це тикаючий годинник у твоїх бойових планах. Викори"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|TrappedFlavor",
+  "note": "даний = цей: даних",
+  "frag": " людиною, особистістю, а не фрагментами даних, розкиданими по сотнях систем. Її прихи"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|UndyingFlavor",
+  "note": "дієприкметник на -ючий: пульсуючий",
+  "frag": "іки — носили на шиї особливий талісман. Пульсуючий, ще теплий шматочок плоті."
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|WeWhoAreAboutToDieFlavor",
+  "note": "дієприкметник на -ючий: палаючі",
+  "frag": "и бачив, як із наметів за тобою стежать палаючі очі... божевільних чоловіків і жінок, я"
+ },
+ {
+  "check": "untranslated",
+  "id": "Traits.xml|CivilizationShieldProtocol",
+  "note": "CivilizationShieldProtocol",
+  "frag": "CivilizationShieldProtocol"
+ },
+ {
+  "check": "untranslated",
+  "id": "Traits.xml|PlanetShieldProtocol",
+  "note": "PlanetShieldProtocol",
+  "frag": "PlanetShieldProtocol"
+ },
+ {
+  "check": "russianism",
+  "id": "Traits.xml|SyncreticDevaAffinityUpgrade2Flavor",
+  "note": "даний = цей: даних",
+  "frag": " вони встигали випустити останній пакет даних. Поки поруч була інша машина, що могла "
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|AcrinZealotProperties",
+  "note": "дієприкметник на -ючий: травмуючою",
+  "frag": " Біологічні течеходи з травмуючою зброєю ближнього бою та здатністю телеп"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|ArtificersLaboratoryProperties",
+  "note": "дієприкметник на -ючий: пролітаючої",
+  "frag": " Особлива лабораторія для дослідження пролітаючої комети"
+ },
+ {
+  "check": "end_punct",
+  "id": "Units.xml|BrynnProperties",
+  "note": "EN ends '.', UK ends 'у'",
+  "frag": "<icon texture='GUI/Bullet'/>Годинникар, що шукає Рейндверру"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|CassielShredderProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота ближнього бою, що зберігає рівен"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|ChayotExterminatorProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Велика механічна левітуюча техніка з потужними дистанційними здібн"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|CombatDroneProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота зі штурмовою гвинтівкою"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|DreameaterProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Велика левітуюча істота, що знижує бойовий дух ворогів і"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|ElohimMaelstromProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота з далекобійними облоговими гарма"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|EMPDroneProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота, що підриває себе для оглушення "
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|ExousiaMarauderProperties",
+  "note": "дієприкметник на -ючий: левітуючий",
+  "frag": " Великий механічний левітуючий транспорт, що дозволяє швидко висаджува"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|HashmallimHostProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Велика механічна левітуюча техніка, що керує гравітацією: ігнорує "
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|HwedoProperties",
+  "note": "дієприкметник на -ючий: пролітаючої",
+  "frag": "біомеханічна істота, створена з енергії пролітаючої комети"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|KriteriaAnnihilatorProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота, що стає сильнішою після знищенн"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|KryptArchaiProperties",
+  "note": "дієприкметник на -ючий: левітуючий",
+  "frag": " Великий механічний левітуючий герой, якого важко ремонтувати, але він"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|MalakimDestroyerProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Біомеханічна левітуюча піхота з потужною перегріваючою зброєю"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|RepairDroneProperties",
+  "note": "дієприкметник на -ючий: левітуюча",
+  "frag": " Механічна левітуюча піхота, що ремонтує механічних союзникі"
+ },
+ {
+  "check": "latin_words",
+  "id": "Units.xml|TH3Corsair",
+  "note": "TH",
+  "frag": "«TH-3 Корсар»"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|TesseraCoreProperties",
+  "note": "дієприкметник на -ючий: левітуюче",
+  "frag": " Велике механічне левітуюче укріплення, здатне керувати гравітацією"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|WhispererOfGoldrauchProperties",
+  "note": "дієприкметник на -ючий: левітуючий",
+  "frag": " Біологічний левітуючий герой із дистанційними здібностями для "
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|AtlasTankFlavor",
+  "note": "дієприкметник на -ючий: трясаючу",
+  "frag": "стр: кожна батарея видавала люту, землю-трясаючу партію."
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|EMPDroneFlavor",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": ". Ти не зможеш убити оператора, якщо ці літаючі відроїди вимкнуть усю твою електроніку."
+ },
+ {
+  "check": "double_punct",
+  "id": "Units.xml|EngineerFlavor",
+  "note": "..",
+  "frag": "кою б не була ця робота. А якщо не мали?.. Ну, такі у нас не виживали."
+ },
+ {
+  "check": "numbers",
+  "id": "Units.xml|WastelanderFlavor",
+  "note": "EN ['6'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|AbanimCatalystProperties",
+  "note": "дієприкметник на -ючий: ширяюча",
+  "frag": " Велика ширяюча механічна конструкція з випадковим відб"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|LamentingOdaiProperties",
+  "note": "дієприкметник на -ючий: ширяюча",
+  "frag": " Ширяюча біологічна піхота, що самознищується, з"
+ },
+ {
+  "check": "russianism",
+  "id": "Units.xml|PaytanimProwlerProperties",
+  "note": "дієприкметник на -ючий: ширяюча",
+  "frag": " Ширяюча механічна піхота, створена для проникне"
+ },
+ {
+  "check": "end_punct",
+  "id": "Upgrades.xml|AugmentsUpgrade2",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Креслення І.К.А.Р."
+ },
+ {
+  "check": "capital",
+  "id": "Upgrades.xml|CyberInfantryUpgradeFor",
+  "note": "EN starts lowercase, UK does not",
+  "frag": "НЕ-великі юніти"
+ },
+ {
+  "check": "end_punct",
+  "id": "Upgrades.xml|HitAndRunUpgrade2",
+  "note": "EN ends 'o', UK ends '.'",
+  "frag": "БД перестрілок І.К.А.Р."
+ },
+ {
+  "check": "capital",
+  "id": "Upgrades.xml|HollowWarlordAffinityUpgrade2For",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "юніти людей"
+ },
+ {
+  "check": "capital",
+  "id": "Upgrades.xml|HolopatterFor",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "юніти кіберів"
+ },
+ {
+  "check": "capital",
+  "id": "Upgrades.xml|InfiniteCountAffinityUpgrade2For",
+  "note": "EN starts uppercase, UK does not",
+  "frag": "юніти Голосу"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|MobileHardpointsFor",
+  "note": "дієприкметник на -ючий: літаючі",
+  "frag": "юніти людей (не літаючі)"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|AnchoriteStandingFlavor",
+  "note": "дієприкметник на -ючий: найвражаюче",
+  "frag": "Найвражаюче було ось що. Посланці Анахорета виникал"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|CostOfConvictionUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: віруючі",
+  "frag": "Коли віруючі туляться в печерах — це секта. Коли зай"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|CultExpansionUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: невіруючі",
+  "frag": "Невіруючі теж рано чи пізно ставали на бік Пророк"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|CultExpansionUpgradeFlavor",
+  "note": "дієприкметник на -ючий: блукаючі",
+  "frag": "в підручнику будь-якої імперії: церква. Блукаючі проповідники були лише початком. Забезп"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|HitAndRunUpgrade2Flavor",
+  "note": "даний = цей: даних",
+  "frag": "огнозуючу програму, натреновану на базі даних із тисячами записаних перестрілок. Коли"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|HitAndRunUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: прогнозуючу",
+  "frag": "зя. Якось вона додала всім до апгрейдів прогнозуючу програму, натреновану на базі даних із "
+ },
+ {
+  "check": "numbers",
+  "id": "Upgrades.xml|IcarusSatelliteUpgradeFlavor",
+  "note": "EN ['5'] vs UK []",
+  "frag": ""
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|PersonalVisitUpgradeFlavor",
+  "note": "дієприкметник на -ючий: співчуваючих",
+  "frag": " жодних кивків чи тихих попереджень від співчуваючих водіїв конвоїв. Тому на кожній фабриці "
+ },
+ {
+  "check": "double_punct",
+  "id": "Upgrades.xml|RestlessUpgrade2Flavor",
+  "note": "..",
+  "frag": "да Порожнечі, але, чорт забирай, як він?.. Трохи зачекавши, він міг вказати інжене"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|WhispersOfTheVoiceUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: існуючою",
+  "frag": "а, щоб так і було. Наука спостерігає за існуючою реальністю, а якщо реальність кориться "
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|WordsOfTheProphetUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: віруючих",
+  "frag": "ались лише тим, хто був до них готовий. Віруючих стало ще більше, а вербувати їх — ще ле"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|WordsOfTheProphetUpgradeFlavor",
+  "note": "дієприкметник на -ючий: вражаюче",
+  "frag": "Вражаюче. Навіть серед ворогів Непроголошеного П"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|ForTheFewUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: змінюючою",
+  "frag": "ивними проповідями та якоюсь свідомість змінюючою програмою, що пронизувала мережу його л"
+ },
+ {
+  "check": "latin_words",
+  "id": "Upgrades.xml|QualityTellsUpgradeFlavor",
+  "note": "ROTC",
+  "frag": "Як війна триває достатньо довго, підлітки, що пожирають твої запаси їжі, починають замислюватися, чи"
+ },
+ {
+  "check": "russianism",
+  "id": "Upgrades.xml|ViewFromAboveUpgrade2Flavor",
+  "note": "дієприкметник на -ючий: скануючі",
+  "frag": "емлі з МКС. Вони підсилювали хитромудрі скануючі прилади Екзонавтки. То був єдиний раз, "
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|DevouringMaw",
+  "note": "дієприкметник на -ючий: пожираюча",
+  "frag": "Пожираюча паща"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|ResonatingScythes",
+  "note": "дієприкметник на -ючий: резонуючі",
+  "frag": "Резонуючі серпи"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|LeechingTouch",
+  "note": "дієприкметник на -ючий: витягуючий",
+  "frag": "Витягуючий дотик"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|DefenseGridFlavor",
+  "note": "дієприкметник на -ючий: потріскуючих",
+  "frag": "ЕФОНА, все поле бою спалахувало від цих потріскуючих сфер, які вибухали при ударі об землю. "
+ },
+ {
+  "check": "double_punct",
+  "id": "Weapons.xml|DefenseGridFlavor",
+  "note": "..",
+  "frag": "навколо сяяло... блакитним? Чи червоним?.. Енергія, яку вони випромінювали, творил"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|DimensionalNeedlesFlavor",
+  "note": "дієприкметник на -ючий: сяючі",
+  "frag": "У пащі Кродеусів росли сяючі шипи — вони то яскраво спалахували, то "
+ },
+ {
+  "check": "latin_words",
+  "id": "Weapons.xml|GaussPistolFlavor",
+  "note": "Desert Eagle",
+  "frag": "Як яйцеголові впхнули «ґауссовку» в такий корпус — ума не прикладу. Вийшов пістолет удвічі важчий за"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|GolgothanDelugeFlavor",
+  "note": "дієприкметник на -ючий: всепожираючої",
+  "frag": "Як позбутись всепожираючої купи плоті? Триматись подалі — це ясно."
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|GoliathCannonFlavor",
+  "note": "дієприкметник на -ючий: дрімаючими",
+  "frag": " я постійно заставляв змучених солдатів дрімаючими на них. Жодні догани не могли змусити ї"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|MissileBotFlavor",
+  "note": "дієприкметник на -ючий: крокуючі",
+  "frag": "Невеликі крокуючі ракетні платформи дозволили яйцеголовим"
+ },
+ {
+  "check": "russianism",
+  "id": "Weapons.xml|SurthodaisHandFlavor",
+  "note": "дієприкметник на -ючий: смикаючі",
+  "frag": "Смикаючі пальці Суртодай могли викликати в будь-"
+ },
+ {
+  "check": "numbers",
+  "id": "WorldParameters.xml|Mutators/CanFreeWillExistHint",
+  "note": "EN ['20'] vs UK ['20', '20']",
+  "frag": ""
+ },
+ {
+  "check": "end_punct",
+  "id": "WorldParameters.xml|TurnTimer1",
+  "note": "EN ends 'e', UK ends '.'",
+  "frag": "Дуже короткий (1 хв.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "WorldParameters.xml|TurnTimer2",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Короткий (2 хв.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "WorldParameters.xml|TurnTimer3",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Середній (3 хв.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "WorldParameters.xml|TurnTimer4",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Довгий (4 хв.)"
+ },
+ {
+  "check": "end_punct",
+  "id": "WorldParameters.xml|TurnTimer5",
+  "note": "EN ends 's', UK ends '.'",
+  "frag": "Дуже довгий (5 хв.)"
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|ruth",
+  "note": "рут x1 (AI.xml|EmulatedMind8); руфь x1 (AI.xml|HeartlessArtificer18)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|leah",
+  "note": "лія x1 (AI.xml|EmulatedMind27); лея x1 (AI.xml|HeartlessArtificer20)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|extirpate",
+  "note": "вириванні x1 (Actions.xml|Extirpate); виривання x1 (Weapons.xml|Extirpate)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|hired hands",
+  "note": "найманна сила x1 (Actions.xml|HiredHands); наймана сила x1 (Traits.xml|HiredHands)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|overwatch",
+  "note": "дозор x2 (Actions.xml|Overwatch); входити в чергу x1 (Attributes.xml|CanOverwatch)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|the plague",
+  "note": "епідемія x1 (Actions.xml|ThePlague); чума x1 (Quests.xml|ThePlague)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|shaken",
+  "note": "приголомшеним x1 (Attributes.xml|CanBeShaken); потрясений x1 (Traits.xml|Shaken)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|damage taken",
+  "note": "отримана шкода x1 (Attributes.xml|DamageTaken); отримано шкоди x1 (GUI.xml|DamageTaken)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|life steal",
+  "note": "крадіжка здоров’я x2 (Attributes.xml|LifeSteal); крадіжка життя x1 (Traits.xml|LifeSteal)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|movement",
+  "note": "переміщення x1 (Attributes.xml|Movement); рух x1 (Tips.xml|Movement)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|research laboratory",
+  "note": "наукова лабораторія x1 (Buildings.xml|Research); дослідна лабораторія x1 (Tips.xml|ResearchLaboratory)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|enter",
+  "note": "введення x1 (Controls.xml|Enter); увійти x1 (GUI.xml|Enter)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|off to the forest with you!",
+  "note": "геть до лісу, отак! x1 (Diplomacy.xml|ImperiousExonaut/Condemn); геть до лісу з тобою! x1 (Diplomacy.xml|ImperiousExonaut/RejectAlliance)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|bleed",
+  "note": "кровотеча x1 (Features.xml|Bleed); теча x1 (Tips.xml|Bleed)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|river",
+  "note": "ріка x1 (Features.xml|River); річка x1 (Traits.xml|River)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|communications",
+  "note": "перемовини x1 (GUI.xml|Communications); переговори x1 (Tips.xml|Communications)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|invulnerable",
+  "note": "неуразливість x1 (GUI.xml|Invulnerable); невразливість x1 (Traits.xml|Invulnerable)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|select leader",
+  "note": "вибір лідера x1 (GUI.xml|SelectLeader); обрати лідера x1 (GUI.xml|SelectLeaderHint)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|construct barracks",
+  "note": "побудувати казарми x1 (Objectives.xml|ConstructBarracks); будівництво казарм x1 (Tips.xml|ConstructInfantryBuilding)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|the empath's defense",
+  "note": "оборона емпатки x1 (Quests.xml|TheEmpathsDefense); захист емпата x1 (Settings.xml|Achievements/TheEmpathsDefense)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|low",
+  "note": "низька x45 (Settings.xml|Video/ShadowQuality0); низьке x2 (WorldParameters.xml|Growth1); мала x1 (WorldParameters.xml|LandMass1); низькі x1 (WorldParameters.xml|StartingResource1)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|medium",
+  "note": "середня x46 (Settings.xml|Video/ShadowQuality1); середнє x2 (WorldParameters.xml|Growth2); помірно x1 (WorldParameters.xml|Difficulty2); середній x1 (WorldParameters.xml|Size2); середні x1 (WorldParameters.xml|StartingResource2)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|high",
+  "note": "висока x45 (Settings.xml|Video/ShadowQuality2); високе x2 (WorldParameters.xml|Growth3); велика x1 (WorldParameters.xml|LandMass3); високі x1 (WorldParameters.xml|StartingResource3)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|missing",
+  "note": "відсутній x1 (Traits.xml|Missing); відсутнє x1 (Upgrades.xml|Missing)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|very low",
+  "note": "дуже низька x42 (WorldParameters.xml|AbkhanDreyDensity1); дуже низьке x2 (WorldParameters.xml|Growth0); дуже мала x1 (WorldParameters.xml|LandMass0); дуже низькі x1 (WorldParameters.xml|StartingResource0)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|very high",
+  "note": "дуже висока x42 (WorldParameters.xml|AbkhanDreyDensity5); дуже високе x2 (WorldParameters.xml|Growth4); дуже велика x1 (WorldParameters.xml|LandMass4); дуже високі x1 (WorldParameters.xml|StartingResource4)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|standard",
+  "note": "стандартно x2 (WorldParameters.xml|Diplomacy3); стандартний x2 (WorldParameters.xml|EscalationPace3); звичайні x1 (WorldParameters.xml|AIAggressiveness3); стандартна x1 (WorldParameters.xml|Pace2)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|very slow",
+  "note": "дуже низький x2 (WorldParameters.xml|EscalationPace1); дуже низька x1 (WorldParameters.xml|Pace0)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|slow",
+  "note": "низький x2 (WorldParameters.xml|EscalationPace2); низька x1 (WorldParameters.xml|Pace1)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|fast",
+  "note": "високий x2 (WorldParameters.xml|EscalationPace4); висока x1 (WorldParameters.xml|Pace3)",
+  "frag": ""
+ },
+ {
+  "check": "term_variants",
+  "id": "TERM|very fast",
+  "note": "дуже високий x2 (WorldParameters.xml|EscalationPace5); дуже висока x1 (WorldParameters.xml|Pace4)",
+  "frag": ""
+ }
+]

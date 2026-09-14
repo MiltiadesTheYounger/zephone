@@ -1,0 +1,434 @@
+# B48: 45 entries from Quests.xml
+
+## Quests.xml|TheSpaceEngine/Intro/LockHerUp
+EN: <style name='Bold'/>Lock her up:<style name='Paragraph'/> We have enough problems as it is, trusting something beyond ZEPHON and Acrin to this engineer seems foolish.
+UK: <style name='Bold'/>Заперти її:<style name='Paragraph'/> У нас і так проблем по горло, нехай краще далі займається ЗЕФОНом і акринами і не висовується.
+
+## Quests.xml|TheSpaceEngine/Intro/Ignore
+EN: <style name='Bold'/>Ignore:<style name='Paragraph'/> A lunatic raves, but it’s the fool who listens.
+UK: <style name='Bold'/>Проігнорувати:<style name='Paragraph'/> Коли божевільний марить, лише дурень до цього прислухається.
+
+## Quests.xml|TheSpaceEngine/LockHerUpSuccess
+EN: Zandra is a dangerous inspiration. Your other scientists begin championing their pet projects over the ones you appointed. Each thinks they have the key to victory, none are concerned with the costs.<br/>
+    <br/>
+    You need to make an example of her. Zandra shouts as your enforcers drag her into the streets. She begs the gathering scientists to activate her machine as she’s locked into an iron hollow, but the masses ignore what they once celebrated. The onlookers shuffle in silence as Zandra’s pleas echo, then fade, into the distance.<br/>
+    <br/>
+    Then the scientists return to their labs.
+UK: Зандра стає поганим прикладом. Інші вчені теж починають займатися своїми домашніми проєктами замість призначених тобою. Кожен вважає, що ось-ось принесе перемогу, ніхто не турбується про її ціну.<br/>
+    <br/>
+    Доводиться публічно її покарати. Твої співробітники витягують Зандру на вулицю, і вона благає зібраних учених активувати її машину, поки її заштовхують в автозак. Але маси швидко забувають про своїх фаворитів. Очевидці мовчки переминаються з ноги на ногу, крики Зандри поступово затихають вдалині.<br/>
+    <br/>
+    Потім учені повертаються у свої лабораторії.
+
+## Quests.xml|TheSpaceEngine/LockHerUpFailure
+EN: Zandra is a dangerous inspiration. Your other scientists begin championing their pet projects over the ones you appointed. Each thinks they have the key to victory, none are concerned with the costs.<br/>
+    <br/>
+    You need to make an example of her. Zandra shouts as your enforcers drag her into the streets. She begs the gathering scientists to activate her machine as she’s locked into an iron hollow. No one responds, but many openly glare at you. The next day, strikes occur across your labs and key projects stall.<br/>
+    <br/>
+    While progress is merely slowed, any misstep can be fatal in the race for survival.
+UK: Зандра стає поганим прикладом. Інші вчені теж починають займатися своїми домашніми проєктами замість призначених тобою. Кожен вважає, що ось-ось принесе перемогу, ніхто не турбується про її ціну.<br/>
+    <br/>
+    Доводиться публічно її покарати. Твої співробітники витягують Зандру на вулицю, і вона благає зібраних учених активувати її машину, поки її заштовхують в автозак. Люди мовчать, але багато хто відкрито кидає на тебе погляди. Наступного дня в більшості лабораторій починаються страйки, важливі проєкти зупиняються.<br/>
+    <br/>
+    Хоча прогрес просто сповільнюється, у гонці на виживання будь-який невірний крок може стати фатальним.
+
+## Quests.xml|TheSpaceEngine/SellTechToAnchoriteFailure
+EN: The Anchorite seems disappointed as you finish describing the technology. Whatever regrets the Anchorite has, they extend back millennia, not decades, and they reject your offer politely.<br/>
+    <br/>
+    When Zandra discovers your offer to the Acrin, she’s furious. She glares at you and mutters “like last time” before storming off towards her lab in the hills.<br/>
+    <br/>
+    Soon after, you get an uncanny sensation. Your gaze falls on a crater in the hills where an eccentric engineer’s lab exploded long ago. Why had it never occurred to you to clean up the rubble? Chiding your oversight, you move on.
+UK: Коли ти завершуєш розповідь про технологію, Анахорет виглядає розчарованим. Які б жалі не терзали Анахорета, вони йдуть у минуле на тисячі років, а не на десятки. Він ввічливо відхиляє пропозицію.<br/>
+    <br/>
+    Дізнавшись про твої торги з акрином, Зандра приходить у лють. Вона нищівно дивиться на тебе і бурмотить: «прямо як минулого разу», перш ніж устремитися у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Незабаром тебе відвідує дивне почуття. Твій погляд падає на кратер серед пагорбів, де колись вибухнула лабораторія однієї ексцентричної дослідниці. Чому тобі не спадало на думку розчистити завали? Виправивши свою оплошність, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/SellTechToAnchoriteSuccess
+EN: The Anchorite seems disappointed in your offer. Their long life comes with deep regrets, and they lament that your technology extends back mere decades, not millennia. Still, they accept.<br/>
+    <br/>
+    Their representatives arrive with a massive, worm-like nightmare that streaks through the sky. It descends, coiling, and clacks its tusked maw menacingly. The Acrin anoint the creature with a reddish, numbing concoction, transferring its full obedience to you.<br/>
+    <br/>
+    A week later, you’re struck by an uncanny realization. How have the Anchorite’s forces evolved such perfect defenses? It’s as if they had extra decades to prepare…
+UK: Анахорет, схоже, розчарований твоєю пропозицією. Довголіття принесло йому глибокі печалі, і він жаліє, що твоя технологія проникає в минуле на якісь десятки років, а не на тисячі. Втім, він погоджується.<br/>
+    <br/>
+    Його представники прибувають з величезним, схожим на черв’яка кошмаром, який закриває собою небо. Він спускається, скручується кільцями і загрозливо клацає своєю зубастою пащею. Акрин намащує тварину червонуватою анестезуючою сумішшю, яка змушує її повністю тобі підкорятися.<br/>
+    <br/>
+    Через тиждень ти раптом щось помічаєш. Як силам Анахорета вдалося виробити такий відмінний захист? У них ніби було кілька зайвих десятиліть на підготовку...
+
+## Quests.xml|TheSpaceEngine/SellTechToChieftessFailure
+EN: As soon as you mention time travel, the Chieftess apologetically declines. Why would she pay to travel in time when she wouldn’t change a thing?<br/>
+    <br/>
+    When Zandra discovers your offer to the Reaver, she’s furious. She glares at you and mutters “like last time” before storming off towards her lab in the hills.<br/>
+    <br/>
+    Soon after, you get an uncanny sensation. Your gaze falls on a crater in the hills where an eccentric engineer’s lab exploded long ago. Why had it never occurred to you to clean up the rubble? Chiding your oversight, you move on.
+UK: Як тільки ти згадуєш подорожі в часі, Вождиня вибачливо відмовляє. Для чого їй платити за подорож у часі, якщо це нічого не змінить?<br/>
+    <br/>
+    Дізнавшись про твої торги з Спустошувачкою, Зандра приходить у лють. Вона нищівно дивиться на тебе і бурмотить: «прямо як минулого разу», перш ніж устремитися у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Незабаром тебе відвідує дивне почуття. Твій погляд падає на кратер серед пагорбів, де колись вибухнула лабораторія однієї ексцентричної дослідниці. Чому тобі не спадало на думку розчистити завали? Виправивши свою оплошність, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/SellTechToChieftessSuccess
+EN: As soon as you mention time travel, the Chieftess accepts.<br/>
+    <br/>
+    You expected her to bring a trade convoy, instead she arrives in a two-story tank with more guns than physics allows. She jumps down from a side-hatch and, muttering apologies, tosses over the keys and drives away in one of your transport trucks. Fortunately for all, it’s the one with her purchased goods.<br/>
+    <br/>
+    You’re struck by an uncanny sensation. The Reaver’s known for her cunning, not her brilliance. How is her material science decades ahead of everyone else? It’s as if she had extra time to prepare…
+UK: Ледь ти згадуєш подорожі в часі, як Вождиня погоджується.<br/>
+    <br/>
+    Ти чекаєш, що вона приведе торговий конвой, але замість цього вона приїжджає на двоповерховому танку з такою кількістю гармат, яка суперечить законам фізики. Вона вистрибує з люка, збивчиво вибачається, кидає ключі, а потім від’їжджає на одній з твоїх вантажівок. На щастя, там були призначені їй ресурси.<br/>
+    <br/>
+    Тебе відвідує дивне почуття. Спустошувачка славиться своєю хитрістю, а не розумом. Як вийшло, що її наукові досягнення на десятки років випереджають усіх інших? У неї ніби був зайвий час на підготовку...
+
+## Quests.xml|TheSpaceEngine/SellTechToConcordatFailure
+EN: The Concordat delegate calculates the profitability ratios of your proposal with machine-like efficiency. When the results predict negative shareholder returns, your offer is declined and your team is given a complimentary shuttle service back to your base.<br/>
+    <br/>
+    When Zandra discovers what you did, she’s furious. She shakes her head, glares at the clouds, and mutters “like last time” before storming off towards her lab in the hills.<br/>
+    <br/>
+    Soon after, you get an uncanny sensation. Your gaze falls on a crater in the hills where an eccentric engineer’s lab exploded long ago. Why had it never occurred to you to clean up the rubble? Chiding your oversight, you move on.
+UK: Представник Конкордату з ефективністю машини оцінює можливий прибуток від твоєї пропозиції. Коли прогноз передбачає падіння курсу акцій, твою пропозицію відхиляють, але твою команду безкоштовно відвозять назад на базу.<br/>
+    <br/>
+    Дізнавшись про твій вчинок, Зандра приходить у лють. Вона хитає головою, нищівно дивиться на хмари і бурмотить: «прямо як минулого разу», перш ніж устремитися у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Незабаром тебе відвідує дивне почуття. Твій погляд падає на кратер серед пагорбів, де колись вибухнула лабораторія однієї ексцентричної дослідниці. Чому тобі не спадало на думку розчистити завали? Виправивши свою оплошність, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/SellTechToConcordatSuccess
+EN: The Concordat delegate calculates the profitability ratios with machine-like efficiency. When they predict massive shareholder returns, your team is escorted to a private VIP room and served rare pre-war luxuries.<br/>
+    <br/>
+    Soon, another delegate enters—is it the same one?—carrying a stasis case. The lid splits open with a click. An azure filigree orb rises to hover above the table, pale netherlight gleaming off its shifting wire-frame. You wave a lieutenant over to take it. As they grip its icy surface, the wires unravel and creep up their arm to form a fractal gauntlet.<br/>
+    <br/>
+    Your team down their champagne and depart, eager to try the new weapon.
+UK: Представник Конкордату з ефективністю машини оцінює можливий прибуток. Коли прогноз передбачає значне зростання акцій, твою команду супроводжують у приватну VIP-кімнату і частують довоєнними делікатесами.<br/>
+    <br/>
+    Незабаром заходить інший представник — той же?.. — зі стазисною валізочкою. Кришка з клацанням розпахується. Над столом піднімається бірюзова сфера філігранної роботи, від її крутнього дротяного каркаса виходить бліде потойбічне світло. Ти киваєш лейтенантові, щоб той її взяв. Коли він стискає її крижану поверхню, каркас розкривається і оповиває його руку, перетворюючись на фрактальну рукавичку.<br/>
+    <br/>
+    Твоя команда допиває шампанське і йде, горячи бажанням випробувати нову зброю.
+
+## Quests.xml|TheSpaceEngine/SellTechToZephonFailure
+EN: ZEPHON promises to process your offer overnight but no response comes. Instead, your system protections are continuously hammered for days as it attempts to hack the information—but your defenses hold.<br/>
+    <br/>
+    When Zandra discovers what you did, she’s furious. She glares at you and mutters “like last time” before storming off towards her lab in the hills.<br/>
+    <br/>
+    Soon after, you get an uncanny sensation. Your gaze falls on a crater in the hills where an eccentric engineer’s lab exploded years ago. Why had it never occurred to you to clean up the rubble? Chiding your oversight, you move on.
+UK: ЗЕФОН обіцяє подумати і повідомити про своє рішення, але відповіді не надходить. Замість цього твої захисні системи кілька днів борються з його спробами зламати потрібну інформацію. На щастя, йому це не вдається.<br/>
+    <br/>
+    Дізнавшись про твій вчинок, Зандра приходить у лють. Вона нищівно дивиться на тебе і бурмотить: «прямо як минулого разу», перш ніж устремитися у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Незабаром тебе відвідує дивне почуття. Твій погляд падає на кратер серед пагорбів, де багато років тому вибухнула лабораторія однієї ексцентричної дослідниці. Чому тобі не спадало на думку розчистити завали? Виправивши свою оплошність, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/SellTechToZephonSuccess
+EN: ZEPHON processes your offer overnight before accepting. <string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/> The drones take the resources along with Zandra’s research and depart.<br/>
+    <br/>
+    Your engineers determine that ZEPHON’s material sciences are decades ahead of everyone else. But how? The production time alone should prevent such a wide gap.<br/>
+    <br/>
+    You’re struck by an uncanny sensation. It’s as if ZEPHON had gained additional time to prepare…
+UK: ЗЕФОН обіцяє подумати і повідомити про своє рішення. <string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/> Дрони забирають ресурси разом з дослідженнями Зандри і відлітають.<br/>
+    <br/>
+    Твої інженери визначають, що наукові досягнення ЗЕФОНа на десятки років випереджають усіх інших. Але як? Сам час виробництва повинен не допустити настільки великого відриву.<br/>
+    <br/>
+    Тебе відвідує дивне почуття. ЗЕФОН ніби отримав зайвий час на підготовку...
+
+## Quests.xml|TheSpaceEngine/SellTechToZephonSuccess2
+EN: The next day, a swarm of aerial drones drop off a silver-alloyed casket outside your city. The casket slides open with a hiss, revealing ZEPHON’s half of the bargain: a sleeker, upgraded Warden with carbyne-edge blades and an improved payload.
+UK: Наступного дня рій безпілотників залишає сріблястий контейнер за стінами твого міста. Двері з шипінням від’їжджають убік, розкриваючи частину угоди ЗЕФОНа: більш витонченого, модернізованого вартового з карбіновими лезами і покращеною боєздатністю.
+
+## Quests.xml|TheSummoning
+EN: The Summoning
+UK: Прикликання
+
+## Quests.xml|TheSummoning/Intro
+EN: <string name='Quests/TheSummoning/Intro2'/><br/>
+    <br/>
+    Should you stop them or let them complete their ritual? There’s nothing to suggest that they’re hostile after all.
+UK: <string name='Quests/TheSummoning/Intro2'/><br/>
+    <br/>
+    Зупинити їх чи дозволити завершити ритуал? Зрештою, немає причин вважати їхні наміри ворожими.
+
+## Quests.xml|TheSummoning/Intro2
+EN: It began as a complaint about a thickness in the air, tickling and buzzing above the skin like invisible flies. Then the atmosphere tinged rust-red, unfamiliar stars graced the sky, and birds started flocking in interweaving spirals.<br/>
+    <br/>
+    Your scouts trace the anomalies back to a group of Cr’la Disciples. They’re preparing a ritual near one of your territories. Your Voice experts decipher that it’s a summoning—but to affect the surrounding region, it must be of unfathomable magnitude.
+UK: Почалося все з тяжкого відчуття в повітрі, дратівного і дзижчачого над шкірою, немов рій невидимих мух. Потім небо почервоніло, на небі проступили незнайомі зорі, а птахи стали описувати переплетені спіралі.<br/>
+    <br/>
+    Твої розвідники відстежують джерело аномалій — ним виявляється група учнів Кр’ла. Вони готуються здійснити ритуал біля кордону твоїх територій. Твої експерти з Голосу розуміють, що це прикликання — але для впливу на таку велику область його розмах має бути неймовірним.
+
+## Quests.xml|TheSummoning/Intro/Attack
+EN: <style name='Bold'/>Stop them:<style name='Paragraph'/> If their ritual is truly harmless, they would have informed you first. That they didn’t, suggests there’s something to hide.
+UK: <style name='Bold'/>Зупинити їх:<style name='Paragraph'/> Якби їхній ритуал був безпечним, вони б повідомили тебе заздалегідь. Але якщо вони цього не зробили, то їм є що приховувати.
+
+## Quests.xml|TheSummoning/Intro/Ignore
+EN: <style name='Bold'/>Let them be:<style name='Paragraph'/> Weird occurrences and cults go hand in hand, but they haven’t actually harmed anyone. Leave the cultists alone and focus on actual threats.
+UK: <style name='Bold'/>Не чіпати їх:<style name='Paragraph'/> Дивні події і культи нерозривно пов’язані, але ці учні нікому не шкодять. Залишити культистів у спокої і повернутися до відчутних загроз.
+
+## Quests.xml|TheSummoning/Attack
+EN: You decide to send troops to stop the ritual. Your Voice advisers tell you to act fast—they believe the ritual will be completed soon, and then you’ll learn what the cultists were planning the hard way.
+UK: Ти вирішуєш відправити війська, щоб перервати ритуал. Твої радники з Голосу вважають, що потрібно діяти блискавично — на їхню думку, культисти вже дуже скоро втілять план у життя, і результат тобі дуже не сподобається.
+
+## Quests.xml|TheSummoning/Negotiate
+EN: One of the Voice cultists approaches your group, lifting their many arms in a display of reverence. They are pilgrims performing a ritual—here, at a prophesied location—to create a bridge to an ancient protector.<br/>
+    <br/>
+    The prophecy foretold your intervention and so they prepared an appropriate gift, but wish to finish their religious rite.<br/>
+    <br/>
+    Nothing suggests the cultists are hostile, but they speak of the protector like a deity—an immensely powerful one. Will you let them be?
+UK: Один з культистів Голосу наближається до загону, піднімаючи свої численні руки на знак пошани. Він каже, що вони паломники, які проводять ритуал у цьому передбаченому в пророцтві місці, щоб відкрити прохід древньому захиснику.<br/>
+    <br/>
+    У пророцтві також говорилося і про твоє втручання, тому вони приготували дари. Але вони хочуть завершити свій обряд.<br/>
+    <br/>
+    Культисти не виявляють ніякої ворожості, але відгукуються про свого захисника як про божество — причому неймовірно могутнє. Ти дозволиш їм?
+
+## Quests.xml|TheSummoning/Negotiate/Combat
+EN: <style name='Bold'/>Refuse:<style name='Paragraph'/> You’re flattered, but cautious. Refuse the bribe and stop their ritual.
+UK: <style name='Bold'/>Відповісти відмовою:<style name='Paragraph'/> Дякую за пропозицію, але це підозріло. Відмовитися приймати «дари» і зупинити ритуал.
+
+## Quests.xml|TheSummoning/Negotiate/CombatBetrayal
+EN: <style name='Bold'/>Pretend to accept:<style name='Paragraph'/> It’s not betrayal, it’s maximizing your opportunities. Take the gift, then stop the ritual anyway.
+UK: <style name='Bold'/>Погодитися, але обманути:<style name='Paragraph'/> Це не зрада, це максимізація можливостей. Забрати дар, але зупинити ритуал.
+
+## Quests.xml|TheSummoning/Negotiate/Accept
+EN: <style name='Bold'/>Accept:<style name='Paragraph'/> While unsettling, the cultists have done nothing wrong. Take the gift and leave them in peace.
+UK: <style name='Bold'/>Дати згоду:<style name='Paragraph'/> Це, звичайно, викликає занепокоєння, але культисти не зробили нічого поганого. Забрати дар і дозволити їм продовжити.
+
+## Quests.xml|TheSummoning/Combat
+EN: You tell the cultists over the radio that you can’t let their ritual continue, but they may leave in peace. Their chanting goes on. The lead cultist politely asks you to reconsider; they’ve worked so hard and deliverance is so close.<br/>
+    <br/>
+    When your soldiers enforce your order, rolling thunder erupts from the cowl of the lead cultist—and then all hell breaks loose.<br/>
+    <br/>
+    The only way to stop them now is to kill them before the ritual is complete.
+UK: Ти кажеш культистам по радіо, що не можеш дозволити їм продовжувати ритуал, але дозволиш їм піти. Вони продовжують співати. Глава культистів ввічливо просить тебе змінити рішення. Вони працювали наполегливо, і порятунок вже близько.<br/>
+    <br/>
+    Коли твої солдати загрозливо наближаються, з-під його капюшона лунає розкат грому... і починається справжнє пекло.<br/>
+    <br/>
+    Єдиний спосіб їм завадити на цьому етапі — вбити їх усіх, перш ніж ритуал завершиться.
+
+## Quests.xml|TheSummoning/CombatBetrayal
+EN: You accept the cultists’ offer and they bring out a heavy ornate box filled with minerals. The lead cultist waits expectantly after your troops secure the gift. Once it’s clear your team isn’t leaving, the cultists politely ask you to return the gift. Your counter-offer is to let them leave safely after they stop their ritual.<br/>
+    <br/>
+    When the cultists don’t respond, your soldiers move in to enforce your order—and all hell breaks loose.<br/>
+    <br/>
+    Now the only way to stop the cultists is to kill them before their ritual is complete.
+UK: Ти відповідаєш згодою, і культисти виносять важку візерункову скриню, заповнену цінними мінералами. Глава культистів очікувально дивиться на тебе після того, як твої бійці забирають подарунок. Коли стає ясно, що твій загін не йде, культисти ввічливо просять повернути дар. Ти висуваєш зустрічну пропозицію: ти дозволиш їм піти, якщо вони негайно перервуть ритуал.<br/>
+    <br/>
+    Культисти не зупиняються, тоді солдати наближаються, щоб завадити їм силою — і починається справжнє пекло.<br/>
+    <br/>
+    Тепер єдиний спосіб зупинити культистів — вбити їх усіх, перш ніж ритуал завершиться.
+
+## Quests.xml|TheSummoning/CombatEarlySuccess
+EN: With their cultists dead, the leader invokes the ritual in desperation. A nightmarish titan flickers into existence over the rune-etched ground.<br/>
+    <br/>
+    But something is wrong. The leader retreats—too late, as the ritual space collapses, forcibly melding the cultist with the creature. The new existence shrieks and writhes in agony as its unstable form ossifies. It falls, shattering into jet-like slivers that shiver in resonance.<br/>
+    <br/>
+    A scepter-like chunk remains, thrumming and radiating power. Upon examination, there’s a glimpse of the merged creature reflected in its facets. Perturbed, your team collects the artifact and returns to base.
+UK: Бачачи, що всі культисти мертві, їхній глава у відчаї завершує ритуал. Над покритим рунами майданчиком виникає кошмарний гігант.<br/>
+    <br/>
+    Але щось не так. Глава робить крок назад — але надто пізно, ритуальний простір руйнується, зливаючи культиста зі створінням. Утворене створіння кричить і корчиться в агонії, коли його нестійка форма закостеніває. Воно падає, розбиваючись на чорні уламки, які тремтять у резонансі.<br/>
+    <br/>
+    Залишається схожий на скіпетр уламок, який гуде і випромінює силу. Взявши його в руки, твої бійці помічають відображення злитого створіння на його гранях. Стривожені, вони забирають артефакт і повертаються на базу.
+
+## Quests.xml|TheSummoning/CombatSummon
+EN: Your time is up.<br/>
+    <br/>
+    A low, thrumming forcewave explodes from the ritual site, shaking the earth and sky. The space above the ritual ground is split by a hair-thin fracture before three immense, segmented legs rip it open. A towering nightmare of fangs and whip-like appendages steps through. Even from a distance, it looms over the battlefield. Then, suddenly and without motion, it reappears near the cultists.<br/>
+    <br/>
+    Their protector has arrived—right in the middle of your fight.
+UK: Час вичерпано.<br/>
+    <br/>
+    Від місця ритуалу виходить низька, громова силова хвиля, що трясе землю і небо. Простір над майданчиком розрізає тріщина завтовшки з волосину, яку потім розривають зсередини величезні, сегментовані лапи. Через розлом виходить кошмарна махина із зубів і батогоподібних відростків. Навіть на відстані здається, ніби вона нависає над усім полем бою. Потім, навіть не поворухнувшись, воно в мить ока з’являється біля культистів.<br/>
+    <br/>
+    Їхній захисник явився — прямо в розпал вашого бою.
+
+## Quests.xml|TheSummoning/CombatLateSuccess
+EN: Impossibly, your forces defeat the cultists and their deity. The leader desperately invokes the ritual again, and another towering nightmare forces itself through the fracture.<br/>
+    <br/>
+    But something is wrong. The leader retreats—too late, as the ritual space collapses, forcibly melding the cultist with the creature. The new existence shrieks and writhes in agony as its unstable form ossifies. It falls, shattering into jet-like slivers that thrum in resonance.<br/>
+    <br/>
+    A scepter-like chunk remains, thrumming and radiating power. Upon examination, there’s a glimpse of the merged creature reflected in its facets. Perturbed, your team collects the artifact and returns to base.
+UK: Неймовірними зусиллями твої війська перемагають культистів і їхнє божество. Глава культистів у відчаї проводить прикликання знову, і через розлом проникає ще один громадний кошмар.<br/>
+    <br/>
+    Але щось не так. Глава робить крок назад — але надто пізно, ритуальний простір руйнується, зливаючи культиста зі створінням. Утворене створіння кричить і корчиться в агонії, коли його нестійка форма закостеніває. Воно падає, розбиваючись на чорні уламки, які дзвенять у резонансі.<br/>
+    <br/>
+    Залишається схожий на скіпетр уламок, який гуде і випромінює силу. Взявши його в руки, твої бійці помічають відображення злитого створіння на його гранях. Стривожені, вони забирають артефакт і повертаються на базу.
+
+## Quests.xml|TheSummoning/RitualSuccessPayment
+EN: You accept the cultists' offer and they bring out a heavy ornate box filled with minerals. They repeat the gesture of reverence as your forces secure the gift and depart.<br/>
+    <br/>
+    Some time later, a towering six-legged nightmare appears in the distance. You prepare for an assault, but the creature displays no hostility.<br/>
+    <br/>
+    The Anchorite expresses their gratitude for your unbiased acceptance of the ritual. They inform you that the cultists have settled with the creature near the ritual site and pledge future assistance. All seems well, until ZEPHON robots begin acting aggressively towards you…
+UK: Ти відповідаєш згодою, і культисти виносять важку візерункову скриню, заповнену цінними мінералами. Глава культистів повторює свій жест пошани, коли твої війська забирають подарунок і йдуть.<br/>
+    <br/>
+    Через якийсь час на горизонті виникає гігантський шестиногий кошмар. Ти готуєшся дати йому відсіч, але створіння не подає ознак ворожості.<br/>
+    <br/>
+    Анахорет висловлює свою вдячність за твоє неупереджене ставлення до ритуалу. Він повідомляє, що культисти і створіння оселилися біля місця ритуалу і обіцяють у майбутньому надати підтримку. Здається, що все пройшло благополучно, поки роботи ЗЕФОНа не починають виявляти до тебе агресію...
+
+## Quests.xml|TheSummoning/RitualFailurePayment
+EN: You accept the cultists' offer and they bring out a heavy ornate box filled with minerals. They repeat the gesture of reverence as your troops secure the gift and depart.<br/>
+    <br/>
+    As you withdraw, a low thrum explodes outward from the direction of the ritual site, sending your team stumbling forwards—right before a vacuum clap yanks everything backwards. Rushing back, your team finds only a massive absence, as if the entire terrain around the ritual was… taken?<br/>
+    <br/>
+    Instead of a summoning, the cultists completed a sending. They’re now with whatever they worship. You’re just glad your team left early.
+UK: Ти відповідаєш згодою, і культисти виносять важку візерункову скриню, заповнену цінними мінералами. Глава культистів повторює свій жест пошани, коли твої солдати забирають подарунок і йдуть.<br/>
+    <br/>
+    Опинившись на відстані, твої бійці чують з боку місця ритуалу низький грохіт, який збиває їх з ніг — а за мить вакуумний хлопок відкидає все назад. Вони кидаються назад і знаходять лише величезну порожнечу — область навколо цієї точки зникла, наче хтось її... забрав?<br/>
+    <br/>
+    Замість прикликання культисти здійснили відправлення. Тепер вони з’єдналися з об’єктом свого поклоніння. Ти ж радієш, що твій загін пішов звідти завчасно.
+
+## Quests.xml|TheSummoning/RitualSuccess
+EN: You leave the cultists to their devices. Some time later, a towering nightmare of fangs and tendrils is spotted across your territories. It appears and disappears at will, slipping past your strongest fortifications like a terrible specter. You prepare for its assault, but the creature simply observes.<br/>
+    <br/>
+    The Anchorite expresses their gratitude for your unbiased acceptance of their ritual. They inform you that the cultists have settled with the creature near the ritual site and pledge future assistance. All seems well, until ZEPHON’s forces begin acting aggressively towards you…
+UK: Ти не заважаєш культистам займатися їхніми справами. Через якийсь час на твоїй території помічають гігантський кошмар із зубів і відростків. Він з’являється і зникає за своїм бажанням, проходячи через твої найміцніші укріплення подібно жахливому привиду. Ти готуєшся до його нападу, але створіння просто спостерігає.<br/>
+    <br/>
+    Анахорет висловлює свою вдячність за твоє неупереджене ставлення до ритуалу. Він повідомляє, що культисти і створіння оселилися біля місця ритуалу і обіцяють у майбутньому надати підтримку. Здається, що все пройшло благополучно, поки сили ЗЕФОНа не починають виявляти до тебе агресію...
+
+## Quests.xml|TheSummoning/RitualFailure
+EN: You leave the cultists to their devices. Days later, a low thrum explodes outward from the direction of the ritual site. Your scouts find a massive absence, as if the area around the ritual was… taken?<br/>
+    <br/>
+    Instead of a summoning, the cultists accidentally completed a sending. They’re now with whatever they worship. You’re just glad you stayed far away.
+UK: Ти не заважаєш культистам займатися їхніми справами. Через кілька днів ти чуєш з боку місця ритуалу низький грохіт. Твої розвідники знаходять там лише величезну порожнечу — область навколо цієї точки зникла, наче хтось її... забрав?<br/>
+    <br/>
+    Замість прикликання культисти здійснили відправлення. Тепер вони з’єдналися з об’єктом свого поклоніння. Ти ж радієш своєму рішенню триматися подалі.
+
+## Quests.xml|TheTiesThatBind
+EN: The Ties That Bind
+UK: Зв’язки, що нас єднають
+
+## Quests.xml|TheTiesThatBind/Intro
+EN: Someone's pissed off the Chieftess—badly. You're surprised one day to find her on the edge of your territory, barking at your troops about someone named “Jezina.”<br/>
+    <br/>
+    “Where is Jezina?!” She yells. “I know that filthy traitor is hiding in your walls. Give her over or I'll rip your fucking guts out!”<br/>
+    <br/>
+    A traitor in the Chieftess' ranks? That would be tantalizing enough. Rumors about her inner circle have dogged the wasteland for years. Some say she has an Acrin lover—others mutter that she quietly connives with Voice cultists.<br/>
+    <br/>
+    Whoever “Jezina” is, such an individual could be valuable to your cause.<br/>
+    <br/>
+    A courier stands at the ready to bring a message back to the roving bandit leader. Hunting down Jezina could take time—but if she's valuable to the Chieftess, there might be a reward for bringing her in.
+UK: Хтось розлютив Вождиню — причому сильно розлютив. Одного разу ти з подивом знаходиш її біля кордонів — вона лає твоїх солдатів нецензурно на чому світ стоїть. Ти розрізняєш одне ім’я.<br/>
+    <br/>
+    «Де Джезіна?!» — кричить вона. — «Я знаю, що ця брудна зрадниця ховається у тебе. Віддай її мені, а то випущу тобі на хрін усі кишки!»<br/>
+    <br/>
+    Зрадниця в лавах Вождині? А ось це звучить заманливо. Вже не один рік по пустелях ходять чутки про її найближче оточення. Хтось стверджує, що у неї є коханець з акринів, інші перешіптуються про її зв’язки з культистами Голосу.<br/>
+    <br/>
+    Ким би не була ця Джезіна, тобі б вона знадобилася.<br/>
+    <br/>
+    Гонець готовий передати відповідь розлюченій предводительці бандитів. Полювання на Джезіну може зайняти якийсь час — але, якщо вона важлива для Вождині, то та за нагородою не постоїть.
+
+## Quests.xml|TheTiesThatBind/Intro/HuntJezina
+EN: <style name='Bold'/>Hunt for Jezina:<style name='Paragraph'/> Your messengers can reach the Chieftess in a few hours. If she sends back details, you can begin the hunt.
+UK: <style name='Bold'/>Вистежити Джезіну:<style name='Paragraph'/> Гонці дістануться до Вождині за кілька годин. Якщо вона поділиться подробицями, можна починати полювання.
+
+## Quests.xml|TheTiesThatBind/Intro/Ignore
+EN: <style name='Bold'/>Ignore the Chieftess:<style name='Paragraph'/> More hot air from the barbarian queen. Ignore her and she will go bother someone else.
+UK: <style name='Bold'/>Проігнорувати Вождиню:<style name='Paragraph'/> Знову ця королева варварів розгорланилася. Якщо не звертати уваги, то вона покричить і піде допікати когось іншого.
+
+## Quests.xml|TheTiesThatBind/ChaseJezina
+EN: <string name='Quests/TheTiesThatBind/ChaseJezina2'/><br/>
+    <br/>
+    It's a wonder you were able to get any fix on the woman's position. One of your scouts finally catches word of a fight that broke out in a nearby bandit camp—a mysterious woman single-handedly cut down a two-bit gang leader who enslaved children to do his dirty work.<br/>
+    <br/>
+    “It's her,” the Chieftess snarls when you bring her the news. “The guilty bitch can't help herself.” You know time is short—it's time for the hunt to begin.
+UK: <string name='Quests/TheTiesThatBind/ChaseJezina2'/><br/>
+    <br/>
+    Дивно, що тобі взагалі вдалося отримати навідку на місцезнаходження цілі. Один лазутчик почув про бійку, що сталася в таборі бандитів неподалік, — якась жінка поодинці розправилася з паскудним ватажком банди, який брав у рабство дітей і змушував займатися брудною роботою.<br/>
+    <br/>
+    «Це точно вона», — з ненавистю гарчить Вождиня, коли ти повідомляєш їй звістку. — «Провинувата сучка нічого не може з собою вдіяти». Ти знаєш, що часу мало — пора виходити на полювання.
+
+## Quests.xml|TheTiesThatBind/ChaseJezina2
+EN: Jezina knows how to keep a low profile. The Chieftess nearly killed your messenger when they asked for details on her appearance. “She's a vicious monster who whips children. You'll know her when you see her” was her only response. Strange. You've never heard the Chieftess express worry for children before. What a… specific description.
+UK: Джезіна знає, як триматися в тіні. Вождиня ледь не вбила твого гонця, коли той попросив докладнішого опису. «Вона злобне чудовисько, яке б’є дітей. Впізнаєш її, коли побачиш», — тільки й відповіла вона. Дивно. До цього тобі не доводилося чути, щоб Вождиня турбувалася про дітей. Дуже... незвичайний опис.
+
+## Quests.xml|TheTiesThatBind/ChaseJezinaSuccess
+EN: There's more to Jezina's Outrider than meets the eye. As soon as your troops capture it, she fires off a pneumatic lock that seals herself inside. It takes hours for your forces to haul the Outrider to a hangar and cut her out with a welding torch.<br/>
+    <br/>
+    Even restrained, she's still clawing and scratching your troops. She's a spitting image of the Chieftess. She has the same jawline, the same bright eyes—but it's her graying hair that helps you put the pieces together.<br/>
+    <br/>
+    Jezina is the Chieftess' mother. And she is fleeing her daughter's clutches.<br/>
+    <br/>
+    The bandit matriarch sees your reaction and gives you a hard stare. “Let me go,” she says. “My daughter is a fucking monster. I can't help her anymore. You have, to—”<br/>
+    <br/>
+    She coughs up a thick wad of blood before looking back to you. “You have to let me go.”
+UK: «Колісниця» Джезіни не така вже проста. Коли війська оточують транспорт, жінка активує пневматичний замок і замикається всередині. Минають години на те, щоб доставити «Колісницю» в гараж і витягнути Джезіну за допомогою газового різака.<br/>
+    <br/>
+    Навіть зв’язана, вона все ще дряпається та кидається на твоїх солдатів. Вона вилита Вождиня. Той самий підборіддя, ті самі яскраві очі, і лише завдяки сивіючому волоссю все стає на свої місця.<br/>
+    <br/>
+    Джезіна — мати Вождині. І вона втікає з лап своєї доньки.<br/>
+    <br/>
+    Вона помічає твою реакцію і пильно дивиться на тебе. «Відпусти мене», — просить вона. — «Моя донька — чортів монстр. Я більше не можу їй допомагати. Ти не можеш...»<br/>
+    <br/>
+    Вона кашляє густим згустком крові, перш ніж знову зустрітися з тобою поглядом. «Ти не можеш віддати мене їй».
+
+## Quests.xml|TheTiesThatBind/ChaseJezinaSuccess/HandOverJezina
+EN: <style name='Bold'/>Hand over Jezina:<style name='Paragraph'/> You need the favor of the Chieftess. This woman can't do anything for you.
+UK: <style name='Bold'/>Передати Джезіну:<style name='Paragraph'/> Вдячність Вождині тобі ще знадобиться. А ця жінка нічим не може бути тобі корисна.
+
+## Quests.xml|TheTiesThatBind/ChaseJezinaSuccess/HelpJezinaEscape
+EN: <style name='Bold'/>Help Jezina escape:<style name='Paragraph'/> There's no bargaining with a leader who would harm her own mother.
+UK: <style name='Bold'/>Допомогти Джезіні втекти:<style name='Paragraph'/> Нема про що навіть говорити з предводителькою, яка здатна нашкодити власній матері.
+
+## Quests.xml|TheTiesThatBind/ChaseJezinaFailure
+EN: Swearing breaks out over the comms. “The Outrider's destroyed!” Your generals grab a radio and demand to know if Jezina was captured. The answer is a timid “no.” Hours later, you're told no one can even find the body.<br/>
+    <br/>
+    The warrior queen doesn't seem surprised when you call to tell her. “Sounds about right,” she mutters. “Incompetent numnuts like you wouldn't know the first thing about hunting down an old woman, would ya?”<br/>
+    <br/>
+    Suddenly, she jerks her head backwards, to look at some distant cliffs. You follow her gaze. Nothing. Or… is there someone watching from the distant ridge?<br/>
+    <br/>
+    It might be Jezina. It might also just be a mirage.<br/>
+    <br/>
+    And, just like that, the Chieftess is gone too. Slipped off into the wasteland… just like the woman you failed to capture.
+UK: По рації лунає лайка. «Транспорт знищено!» Ти питаєш, чи вдалося схопити Джезіну. У відповідь ти чуєш тільки: «Ні». Через кілька годин тобі доповідають, що нікому не вдалося знайти тіло.<br/>
+    <br/>
+    Королева-воїн не дивується, коли ти дзвониш їй із новинами. «Ну, все правильно», — буркотить вона. — «Куди вже некомпетентним мужланам схопити якусь старенну?»<br/>
+    <br/>
+    Раптом вона різко повертає голову назад, щоб розглянути якісь далекі скелі. Ти дивишся в той же бік. Там нічого немає. Хоча... тобі здалося, чи з далекої скелі хтось спостерігає?<br/>
+    <br/>
+    Можливо, це Джезіна. З такою ж імовірністю це всього лише міраж.<br/>
+    <br/>
+    І ось так, непомітно, Вождині вже й сліду немає. Вона зникла в пустелю... як і жінка, яку тобі не вдалося спіймати.
+
+## Quests.xml|TheTiesThatBind/HandOverJezinaSuccess
+EN: Something doesn't make sense. The Chieftess told you that Jezina would beat children. You found her because she was protecting them. Why?<br/>
+    <br/>
+    Jezina takes your questions over the radio with resignation as your convoy travels to the Chieftess' territory. “Who do you think taught her how to survive?” she asks. “I thought I was doing what was best for her.”<br/>
+    <br/>
+    But she's learned. All her viciousness has come full circle. “The wasteland is filled with thousands of warlords in the making,” she whispers. “Cruelty perpetuates itself. You'll only find freedom when you choose to break the cycle.”<br/>
+    <br/>
+    Why run now then? “If you really wanted to know,” she whispers with anger. “You'd have let me go.”<br/>
+    <br/>
+    <string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>
+UK: Щось все одно не сходиться. Вождиня сказала, що Джезіна б’є дітей. Але тобі вдалося її знайти тому, що вона їх захищала. В чому ж справа?<br/>
+    <br/>
+    Джезіна спокійно відповідає на твої запитання по радіо, поки твій конвой їде територією Вождині. «Як думаєш, хто навчив її виживати?» — цікавиться вона. — «Я думала, що роблю так, як краще для неї».<br/>
+    <br/>
+    Але вона навчилася. І її порочність зробила повне коло. «Пустеля повна тисяч потенційних вождів», — напівголосно відповідає вона. — «Жорстокість живить сама себе. Ти здобудеш свободу, тільки якщо вирішиш розірвати коло».<br/>
+    <br/>
+    Але чому втікати саме зараз? «Якби тобі справді було так цікаво», — зі злістю каже вона. — «Мене б тут зараз не було».<br/>
+    <br/>
+    <string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>
+
+## Quests.xml|TheTiesThatBind/HandOverJezinaSuccess2
+EN: At the rendezvous point the Chieftess stands alone, arms crossed and with a grim look in her eyes. Why does she have no guards?<br/>
+    <br/>
+    You say nothing as your troops haul Jezina forward. The Chieftess draws a curved knife, then gently drags it across Jezina's cheek. “I could press harder,” she whispers. “Draw the smallest bit of blood, just like you used to.”<br/>
+    <br/>
+    Jezina is shaking. The Chieftess raises the blade—and then throws it to one of your lieutenants. “Your payment,” she says. “Now go. This is a family matter.”<br/>
+    <br/>
+    Your team quickly return to their vehicles. You wonder if that soft sound is the wind blowing over the wasteland—or Jezina whimpering in terror.
+UK: На місці зустрічі Вождиня стоїть одна, схрестивши руки на грудях, з похмурим виразом обличчя. Де її охорона?<br/>
+    <br/>
+    Ти мовчиш, поки солдати штовхають Джезіну вперед. Вождиня дістає вигнутий ніж і обережно проводить ним Джезіні по щоці. «Могла б і сильніше натиснути», — тихо каже вона. — «Пустити трохи крові, як ти раніше робила».<br/>
+    <br/>
+    Джезіна не може заспокоїти тремтіння. Вождиня піднімає ніж — а потім кидає його одному з твоїх командирів. «Твоя винагорода», — каже вона. — «А тепер ідіть. Це сімейна справа».<br/>
+    <br/>
+    Твої люди без зволікання повертаються до своїх машин. Що це за тихий звук — виття вітру серед пустелі чи скиглення від жаху Джезіни?
+
+## Quests.xml|TheTiesThatBind/HandOverJezinaFailure
+EN: A thousand hells. Your troops couldn't keep one stupid Outrider alive long enough to do a simple prisoner transfer! The Chieftess laughs long and hard when you bring her the news. “This is good comedy %1%,” she says. “Just goes to show every killer and warlord here in the wasteland is just a puffed-up grackles. All talk, full of meat, ready for the slaughter.”<br/>
+    <br/>
+    She cuts off the communication link before you can respond. Any hope you had that you'd stay in her good graces ends when her Reavers drop a box full of severed limbs at your city walls.<br/>
+    <br/>
+    These words were carved into each limb: “I'm the only one who gets to kill my mom.”
+UK: Тисяча чортів. Твої війська не можуть навіть захистити «Колісницю» під час простого перевезення полоненого! Вождиня довго і нестримно реготить, коли ти розповідаєш їй новину. «Поржати можна, %1%», — нарешті каже вона. — «Зайвий раз доводить, що всі вбивці та вожді в цій пустелі — просто надуті індички. Жирні, кудкудачучі, готові до забою».<br/>
+    <br/>
+    Вона обриває зв’язок, перш ніж ти встигаєш щось відповісти. Будь-які надії на збереження хороших відносин з Вождинею розбиваються, коли її Спустошувачі залишають ящик з відрубаними кінцівками під твоїми стінами.<br/>
+    <br/>
+    На кожній руці та нозі вирізані слова: «Тільки мені дозволено вбивати мою матір».
+

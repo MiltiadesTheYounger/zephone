@@ -1,0 +1,398 @@
+[
+ {
+  "id": "Actions.xml|ConjureBleed",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|EradicateBleed",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|SereneLesionProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|SereneLesionProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|AntiparticlePurgeFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|EradicateBleedFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|EradicateBleedFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|SereneLesionFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|TakeCoverFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Actions.xml|TransubstantiationFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Factions.xml|AnchoriteProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "Factions.xml|InfiniteCountFoundationsFlavor2",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Factions.xml|TwistedMotherProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Items.xml|AttarOfPhenarisFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Items.xml|VorodaiProselyteFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Items.xml|BleedBond",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Items.xml|BleedBondFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Modifiers.xml|EachTurnInBleed",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Modifiers.xml|OnBleed",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Quests.xml|ImpossibleConception/MotherExperiment32",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "Quests.xml|WhispersOfAFalseProphet/DestroyKryptArchaiSuccess2",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Tips.xml|Bleed",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Tips.xml|BleedDescription",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Tips.xml|Loading/0",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Tips.xml|Loading/66",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ },
+ {
+  "id": "Traits.xml|BleedwalkerProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Traits.xml|HoveringProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Traits.xml|TitanProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Traits.xml|BleedwalkerFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Traits.xml|DimensionalEchoesUpgradeFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Units.xml|AcrinMilitiaProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Units.xml|AcrinZealotProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Units.xml|HammerheadProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Units.xml|AcrinZealotFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Units.xml|HammerheadFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Upgrades.xml|BleedCultivation",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Upgrades.xml|BleedCultivationProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Upgrades.xml|BleedCultivationProperties",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Upgrades.xml|BleedCultivationFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Upgrades.xml|SurthodaisKissFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Weapons.xml|BleedIncitation",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течі",
+  "replace": "Кровотечі",
+  "all": true
+ },
+ {
+  "id": "Weapons.xml|SikkaFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течу",
+  "replace": "Кровотечу",
+  "all": true
+ },
+ {
+  "id": "Weapons.xml|SniperRifleFlavor",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Течею",
+  "replace": "Кровотечею",
+  "all": true
+ },
+ {
+  "id": "WorldParameters.xml|BleedDensity",
+  "sev": "med",
+  "cat": "term",
+  "note": "Bleed is Кровотеча",
+  "find": "Теча",
+  "replace": "Кровотеча",
+  "all": true
+ }
+]

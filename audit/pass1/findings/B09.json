@@ -1,0 +1,162 @@
+[
+	{
+		"id": "Cities.xml|RogueOperative32",
+		"sev": "low",
+		"cat": "russianism",
+		"note": "Russian-style transcription; Ukrainian writes jing as цзін (Тяньцзінь).",
+		"find": "Наньцзин",
+		"replace": "Наньцзін"
+	},
+	{
+		"id": "Cities.xml|RogueOperative36",
+		"sev": "low",
+		"cat": "russianism",
+		"note": "Russian-style transcription of jí; Ukrainian writes цзі, like the ці in Уці.",
+		"find": "Гунцзи",
+		"replace": "Гунцзі"
+	},
+	{
+		"id": "Cities.xml|RogueOperative37",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Rùqīn has q, which is ц; цзінь would be jīn.",
+		"find": "Жуцзінь",
+		"replace": "Жуцінь"
+	},
+	{
+		"id": "Cities.xml|SyncreticDeva27",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Japanese h is х in Ukrainian transcription (Хіросіма), so Mahoroba is Махороба.",
+		"find": "Магороба",
+		"replace": "Махороба"
+	},
+	{
+		"id": "Cities.xml|SyncreticDeva28",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Pinyin ng before a consonant gives н, as in Чанчунь, so Penglai is Пенлай.",
+		"find": "Пенглай",
+		"replace": "Пенлай"
+	},
+	{
+		"id": "Cities.xml|TwistedMother3",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Goose is pronounced гус; Гас reads as Gus.",
+		"find": "Гас",
+		"replace": "Гус"
+	},
+	{
+		"id": "Cities.xml|TwistedMother7",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Hohkee (hockey) has no н; the transliteration is Хокі.",
+		"find": "Хонки",
+		"replace": "Хокі"
+	},
+	{
+		"id": "Cities.xml|UntoldProphet7",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Spanish ci is сі and j is х, so Encrucijada is Енкрусіхада.",
+		"find": "Енкрузіяда",
+		"replace": "Енкрусіхада"
+	},
+	{
+		"id": "Cities.xml|UntoldProphet14",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Spanish c before á is к, so Cántico is Кантіко.",
+		"find": "Сантіко",
+		"replace": "Кантіко"
+	},
+	{
+		"id": "Cities.xml|UntoldProphet19",
+		"sev": "low",
+		"cat": "typo",
+		"note": "Spanish cio is сіо, not the Italian-style ць, so Palacio is Паласіо.",
+		"find": "Палацьо",
+		"replace": "Паласіо"
+	},
+	{
+		"id": "Cities.xml|Zephon0",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "УЗЕЛ is Russian; the Ukrainian for node is вузол.",
+		"find": "УЗЕЛ",
+		"replace": "ВУЗОЛ"
+	},
+	{
+		"id": "Cities.xml|Zephon4",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "МОСТ is the Russian form; the Ukrainian for bridge is міст.",
+		"find": "МОСТ",
+		"replace": "МІСТ"
+	},
+	{
+		"id": "Cities.xml|Zephon7",
+		"sev": "med",
+		"cat": "typo",
+		"note": "Current orthography does not double р in this loanword (тераформування, терабайт).",
+		"find": "ТЕРРАФОРМЕР",
+		"replace": "ТЕРАФОРМЕР"
+	},
+	{
+		"id": "Cities.xml|Zephon19",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "СНАБЖЕННЯ is a Russian word; the Ukrainian is постачання.",
+		"find": "СНАБЖЕННЯ",
+		"replace": "ПОСТАЧАННЯ"
+	},
+	{
+		"id": "Colors.xml|DarkTeal",
+		"sev": "low",
+		"cat": "omission",
+		"note": "Dark is dropped, unlike every other Dark colour in the list.",
+		"find": "Синьо-зелений",
+		"replace": "Темний синьо-зелений"
+	},
+	{
+		"id": "Controls.xml|Enter",
+		"sev": "med",
+		"cat": "term",
+		"note": "The key is labelled Enter, and Controls.xml|KPEnter keeps it in Latin as NumPad Enter.",
+		"find": "Введення",
+		"replace": "Enter"
+	},
+	{
+		"id": "Controls.xml|Delete",
+		"sev": "med",
+		"cat": "term",
+		"note": "The key name is rendered as the verb to delete, which reads like an action; the key is labelled Delete.",
+		"find": "Видалити",
+		"replace": "Delete"
+	},
+	{
+		"id": "Diplomacy.xml|AcceptMapSharingResult",
+		"sev": "low",
+		"cat": "punctuation",
+		"note": "Missing final period.",
+		"find": "клітинками",
+		"replace": "клітинками."
+	},
+	{
+		"id": "Diplomacy.xml|AcceptTradeAgreement",
+		"sev": "low",
+		"cat": "punctuation",
+		"note": "Stray period after the colon and style tag that EN does not have.",
+		"find": "<style name='Paragraph'/>.",
+		"replace": "<style name='Paragraph'/>"
+	},
+	{
+		"id": "Diplomacy.xml|AcceptTradeAgreementTermination",
+		"sev": "low",
+		"cat": "punctuation",
+		"note": "Stray period after the colon and style tag that EN does not have.",
+		"find": "<style name='Paragraph'/>.",
+		"replace": "<style name='Paragraph'/>"
+	}
+]

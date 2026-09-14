@@ -1,0 +1,1046 @@
+# B29: 250 entries from GUI.xml
+
+## GUI.xml|LevelableElite
+EN: <style color='GUI/LevelableAction'/>Levelable—Elite<style color='Default'/>
+UK: <style color='GUI/LevelableAction'/>Можна покращити з рівнем — Еліта<style color='Default'/>
+
+## GUI.xml|LimitReached
+EN: Limit reached.
+UK: Досягнуто ліміт.
+
+## GUI.xml|Load
+EN: Load
+UK: Завантажити
+
+## GUI.xml|LoadGame
+EN: Load Game
+UK: Завантажити гру
+
+## GUI.xml|LoadGameHelp
+EN: No saved games available to load.
+UK: Немає доступних для завантаження збережених ігор.
+
+## GUI.xml|LoadGameHint
+EN: Choose a saved game to resume.
+UK: Обрати збережену гру, щоб продовжити її.
+
+## GUI.xml|Locked
+EN: Locked.
+UK: Не відкрито.
+
+## GUI.xml|MainMenu
+EN: Main Menu
+UK: Головне меню
+
+## GUI.xml|Map
+EN: Map
+UK: Карта
+
+## GUI.xml|MarkTileHint
+EN: <style name='Title'/>Mark / Unmark Tile [<control name='MarkTile'/>]<br/>
+    <style name='Default'/>Place or remove a marker for yourself and your allies. AI allies will tend to move their units towards markers.
+UK: <style name='Title'/>Позначити клітинку / Зняти мітку [<control name='MarkTile'/>]<br/>
+    <style name='Default'/>Розмістити або видалити мітку для вас та ваших союзників. Союзні ШІ схильні переміщувати свої юніти ближче до міток.
+
+## GUI.xml|Max
+EN: max
+UK: макс.
+
+## GUI.xml|Melee
+EN: Melee
+UK: Ближній бій
+
+## GUI.xml|Menu
+EN: Menu
+UK: Меню
+
+## GUI.xml|MenuBackHint
+EN: Return to the main menu.
+UK: Повернутися до головного меню.
+
+## GUI.xml|MenuHint
+EN: <style name='Title'/><string name='GUI/Menu'/> [<control name='Cancel'/>]<br/>
+    <style name='Default'/>Open the menu to save, load, change settings or leave the game.
+UK: <style name='Title'/><string name='GUI/Menu'/> [<control name='Cancel'/>]<br/>
+    <style name='Default'/>Відкрийте меню, щоб зберегти, завантажити, змінити налаштування чи вийти з гри.
+
+## GUI.xml|Military
+EN: Military
+UK: Військова міць
+
+## GUI.xml|Min
+EN: min
+UK: мін.
+
+## GUI.xml|Minimap
+EN: Minimap
+UK: Мінікарта
+
+## GUI.xml|Mixer
+EN: Mixer
+UK: Мікшер
+
+## GUI.xml|ModDetailsHint
+EN: Open mod details on the Steam Workshop.
+UK: Відкрити подробиці мода в майстерні Steam.
+
+## GUI.xml|ModdingGuide
+EN: Modding Guide
+UK: Посібник зі створення модів
+
+## GUI.xml|ModFolderHint
+EN: Open mod folder.
+UK: Відкрити папку мода.
+
+## GUI.xml|Modifier
+EN: Modifier
+UK: Модифікація
+
+## GUI.xml|Mods
+EN: Mods
+UK: Моди
+
+## GUI.xml|ModsHint
+EN: Manage your mods and choose their load order.
+UK: Керувати модами та змінювати порядок їх завантаження.
+
+## GUI.xml|More
+EN: More
+UK: Ще
+
+## GUI.xml|Multiplayer
+EN: Multiplayer
+UK: Мультиплеєр
+
+## GUI.xml|Mutators
+EN: Mutators
+UK: Мутатори
+
+## GUI.xml|MutatorsHint
+EN: <style name='Title'/>Mutators [<control name='LobbyMutators'/>]
+UK: <style name='Title'/>Мутатори [<control name='LobbyMutators'/>]
+
+## GUI.xml|NPCAdvancementTooLow
+EN: NPC advancement too low.
+UK: Рівень розвитку неігрового персонажа занадто низький.
+
+## GUI.xml|Name
+EN: Name
+UK: Ім’я
+
+## GUI.xml|New
+EN: New
+UK: Нова
+
+## GUI.xml|NewGame
+EN: New Game
+UK: Нова гра
+
+## GUI.xml|NewGameHint
+EN: Choose your leader and customize the game parameters.
+UK: Обрати лідера та змінити налаштування світу.
+
+## GUI.xml|NoActionsRemaining
+EN: No actions remaining.
+UK: Дій не залишилось.
+
+## GUI.xml|NoChargesRemaining
+EN: No charges remaining.
+UK: Зарядів не залишилось.
+
+## GUI.xml|NoFreeItemSlots
+EN: No free space in hero's inventory.
+UK: У спорядженні героя немає вільного місця.
+
+## GUI.xml|NoMovementRemaining
+EN: No movement remaining.
+UK: Переміщення не залишилось.
+
+## GUI.xml|NoResearchSelected
+EN: No Research Selected
+UK: Дослідження не обрано
+
+## GUI.xml|NoPointsRemaining
+EN: No points remaining.
+UK: Очок не залишилось.
+
+## GUI.xml|NoSearchResults
+EN: No search results.
+UK: Нічого не знайдено.
+
+## GUI.xml|NoValidTargets
+EN: No valid targets.
+UK: Немає доступних цілей.
+
+## GUI.xml|NotAvailableInDemo
+EN: <style color='GUI/Red'/>Not available in demo.
+UK: <style color='GUI/Red'/>Недоступно в демоверсії.
+
+## GUI.xml|NotEnoughResources
+EN: Not enough resources.
+UK: Недостатньо ресурсів.
+
+## GUI.xml|NotOwner
+EN: Not owner of unit.
+UK: Ви не власник юніта.
+
+## GUI.xml|NotReady
+EN: Not Ready
+UK: Не готовий
+
+## GUI.xml|NotUsable
+EN: Not Usable
+UK: Не можна використати
+
+## GUI.xml|Objectives
+EN: Objectives
+UK: Завдання
+
+## GUI.xml|ObjectivesCompleted
+EN: Objectives Completed
+UK: Завдання виконано
+
+## GUI.xml|Off
+EN: Off
+UK: Вимк.
+
+## GUI.xml|OffColored
+EN: <style color='GUI/Red'/>Off<style color='Default'/>
+UK: <style color='GUI/Red'/>Вимк.<style color='Default'/>
+
+## GUI.xml|Okay
+EN: Okay
+UK: OK
+
+## GUI.xml|On
+EN: On
+UK: Увімк.
+
+## GUI.xml|OnColored
+EN: <style color='GUI/Green'/>On<style color='Default'/>
+UK: <style color='GUI/Green'/>Увімк.<style color='Default'/>
+
+## GUI.xml|OnlyInMainMenu
+EN: <br/>
+    <br/>
+    <style color='GUI/Yellow'/>Changing this settings can only be done in the main menu.
+UK: <br/>
+    <br/>
+    <style color='GUI/Yellow'/>Цей параметр можна змінити лише в головному меню.
+
+## GUI.xml|OnThisSide
+EN: On this side:
+UK: На цій стороні:
+
+## GUI.xml|OnCooldown
+EN: On cooldown.
+UK: Перезаряджається.
+
+## GUI.xml|OpenHint
+EN: Open “%1%”.
+UK: Відкрити «%1%».
+
+## GUI.xml|OpenStoreHint
+EN: Click to open store.
+UK: Клацніть, щоб відкрити магазин.
+
+## GUI.xml|Operation
+EN: Operation
+UK: Операція
+
+## GUI.xml|Or
+EN: or
+UK: або
+
+## GUI.xml|OrderAllIdleUnitsHint
+EN: <style name='Title'/><string name='Settings/Controls/OrderAllIdleUnits'/> [<control name='OrderAllIdleUnits'/>]<br/>
+    <style name='Default'/>Order all idle units to move to the target tile or attack the target enemy.
+UK: <style name='Title'/><string name='Settings/Controls/OrderAllIdleUnits'/> [<control name='OrderAllIdleUnits'/>]<br/>
+    <style name='Default'/>Наказати всім бездіяльним юнітам рушити до вказаної клітинки або атакувати вказаного ворога.
+
+## GUI.xml|OrderAllUnitsHint
+EN: <style name='Title'/><string name='Settings/Controls/OrderAllUnits'/> [<control name='OrderAllUnits'/>]<br/>
+    <style name='Default'/>Order all units to move to the target tile or attack the target enemy.
+UK: <style name='Title'/><string name='Settings/Controls/OrderAllUnits'/> [<control name='OrderAllUnits'/>]<br/>
+    <style name='Default'/>Наказати всім юнітам рушити до вказаної клітинки або атакувати вказаного ворога.
+
+## GUI.xml|OrderAreaUnitsHint
+EN: <style name='Title'/><string name='Settings/Controls/OrderAreaUnits'/> [<control name='OrderAreaUnits'/>]<br/>
+    <style name='Default'/>Order all units within 3 tiles of the target to move or attack.
+UK: <style name='Title'/><string name='Settings/Controls/OrderAreaUnits'/> [<control name='OrderAreaUnits'/>]<br/>
+    <style name='Default'/>Наказати всім юнітам у межах 3 клітинок від цілі рушити або атакувати.
+
+## GUI.xml|OrderCity
+EN: Order Cities (%1%)
+UK: Наказ містам (%1%)
+
+## GUI.xml|OrderCityHint
+EN: Select next idle city [<control name='NextTask'/>].
+UK: Обрати наступне бездіяльне місто [<control name='NextTask'/>].
+
+## GUI.xml|OrderQueuedUnits
+EN: Queued Units (%1%)
+UK: Наказ юнітам у черзі (%1%)
+
+## GUI.xml|OrderQueuedUnitsHint
+EN: Select next unit with a queued order [<control name='NextTask'/>].<br/>
+    [<string name='Controls/MouseRight'/>] to execute all queued orders.
+UK: Обрати наступний юніт з наказом у черзі [<control name='NextTask'/>].<br/>
+    [<string name='Controls/MouseRight'/>] — виконати всі накази у черзі.
+
+## GUI.xml|OrderUnits
+EN: Order Units (%1%)
+UK: Наказ юнітам (%1%)
+
+## GUI.xml|OrderUnitsHint
+EN: Select next idle unit [<control name='NextTask'/>].
+UK: Обрати наступний бездіяльний юніт [<control name='NextTask'/>].
+
+## GUI.xml|OutsideCity
+EN: Outside City
+UK: Поза містом
+
+## GUI.xml|Overwrite
+EN: Overwrite
+UK: Перезаписати
+
+## GUI.xml|PauseTurnTimer
+EN: Pause timer.
+UK: Поставити таймер на паузу.
+
+## GUI.xml|Parameters
+EN: Parameters
+UK: Налаштування
+
+## GUI.xml|PassiveActionOff
+EN: <icon height='20' texture='Icons/Attributes/Actions'/> Passive (Off)
+UK: <icon height='20' texture='Icons/Attributes/Actions'/> Пасивно (Вимк.)
+
+## GUI.xml|PassiveActionOn
+EN: <icon height='20' texture='Icons/Attributes/Actions'/> Passive (On)
+UK: <icon height='20' texture='Icons/Attributes/Actions'/> Пасивно (Увімк.)
+
+## GUI.xml|Paste
+EN: Paste
+UK: Вставити
+
+## GUI.xml|PasteInviteCode
+EN: Paste Invite Code
+UK: Вставити код запрошення
+
+## GUI.xml|PasteInviteCodeHint
+EN: Join the game from the invite code in your clipboard.
+UK: Приєднатись до гри, використовуючи код запрошення у вашому буфері обміну.
+
+## GUI.xml|PasteInviteCodeInvalidHint
+EN: <style color='GUI/Red'/>Invalid invite code.<style color='Default'/><br/>
+    <br/>
+    <string name='GUI/PasteInviteCodeHint'/>
+UK: <style color='GUI/Red'/>Невірний код запрошення.<style color='Default'/><br/>
+    <br/>
+    <string name='GUI/PasteInviteCodeHint'/>
+
+## GUI.xml|PatchNotes
+EN: Patch Notes
+UK: Список змін
+
+## GUI.xml|PatchNotesHint
+EN: Read what is new and what has changed in each update.
+UK: Дізнатися, що нового та що змінилося в кожному оновленні.
+
+## GUI.xml|Ping
+EN: Ping
+UK: Пінг
+
+## GUI.xml|Play
+EN: Play
+UK: Грати
+
+## GUI.xml|Player
+EN: Player
+UK: Гравець
+
+## GUI.xml|PlayerResearchedTechnology
+EN: %1% has researched this technology.
+UK: %1% вже володіє цією технологією.
+
+## GUI.xml|PlayerResearchingTechnology
+EN: %1% is researching this technology.
+UK: %1% зараз досліджує цю технологію.
+
+## GUI.xml|PlayerXTurn
+EN: %1%'s Turn
+UK: Ходить %1%
+
+## GUI.xml|Players
+EN: Players
+UK: Гравці
+
+## GUI.xml|PleaseWait
+EN: Please Wait …
+UK: Зачекайте...
+
+## GUI.xml|PleaseWaitHint
+EN: Please wait for other players.
+UK: Дочекайтесь інших гравців.
+
+## GUI.xml|Port
+EN: Port
+UK: Порт
+
+## GUI.xml|PoweredBuildingsHint
+EN: Amount of powered buildings of this type. [<control name='ToggleBuildingPower'/>] on the building icon on the map to toggle power of a specific building.
+UK: Кількість увімкнених будівель цього типу. [<control name='ToggleBuildingPower'/>] по значку будівлі на карті — увімк./вимк. живлення конкретної будівлі.
+
+## GUI.xml|Properties
+EN: Properties
+UK: Якості
+
+## GUI.xml|ProxyStudiosGames
+EN: Proxy Studios Games
+UK: Ігри Proxy Studios
+
+## GUI.xml|ProxyStudiosGamesHint
+EN: Discover more games from Proxy Studios on Steam.
+UK: Відкрити для себе інші ігри Proxy Studios у Steam.
+
+## GUI.xml|Quests
+EN: Quests
+UK: Завдання
+
+## GUI.xml|QuestOptionHintCost
+EN: Cost: %1%
+UK: Вартість: %1%
+
+## GUI.xml|Random
+EN: Random
+UK: Випадковий вибір
+
+## GUI.xml|Randomize
+EN: Randomize
+UK: Випадково
+
+## GUI.xml|Ready
+EN: Ready
+UK: Готовий
+
+## GUI.xml|Refresh
+EN: Refresh
+UK: Оновити
+
+## GUI.xml|Regrouping
+EN: Regrouping
+UK: Перегрупування
+
+## GUI.xml|Relayed
+EN: Relayed
+UK: Перенаправлення
+
+## GUI.xml|ReleaseOutpostDescription
+EN: Choose one of your outposts to release it from your control.
+UK: Виберіть одну зі своїх застав, щоб звільнити її з-під вашого контролю.
+
+## GUI.xml|ReleaseOutpostTitle
+EN: Release Outpost
+UK: Звільнити заставу
+
+## GUI.xml|RemovePlayerHint
+EN: <style name='Small'/>[<string name='Controls/MouseRight'/>] to remove player.
+UK: <style name='Small'/>[<string name='Controls/MouseRight'/>] — прибрати гравця.
+
+## GUI.xml|RenameHint
+EN: Rename.
+UK: Можна перейменувати.
+
+## GUI.xml|Result
+EN: Result
+UK: Результат
+
+## GUI.xml|(Required)
+EN: (%1% required)
+UK: (%1% потрібно)
+
+## GUI.xml|RequiredLevel
+EN: Required Level: %1%
+UK: Необхідний рівень: %1%
+
+## GUI.xml|Requires
+EN: Requires
+UK: Потрібно
+
+## GUI.xml|RequiresAction
+EN: <icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Requires action<style color='Default'/>
+UK: <icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Потрібна дія<style color='Default'/>
+
+## GUI.xml|RequiresMovement
+EN: <icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Requires movement<style color='Default'/>
+UK: <icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Потрібне переміщення<style color='Default'/>
+
+## GUI.xml|RequiresTechnology
+EN: <icon height='20' texture='Icons/Attributes/Research'/> Requires technology
+UK: <icon height='20' texture='Icons/Attributes/Research'/> Потрібна технологія
+
+## GUI.xml|Research
+EN: Research
+UK: Дослідження
+
+## GUI.xml|ResearchHint
+EN: <style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/>
+    <style name='Default'/>Choose new technologies and inspect the research tree.
+UK: <style name='Title'/><string name='GUI/Research'/> [<control name='OpenResearchScreen'/>]<br/>
+    <style name='Default'/>Обирайте нові технології та вивчайте дерево досліджень.
+
+## GUI.xml|ResearchCost
+EN: Research Cost
+UK: Вартість дослідження
+
+## GUI.xml|ResearchSearchHint
+EN: Search technology details in the shown branches.
+UK: Пошук за описами технологій у показаних гілках.
+
+## GUI.xml|ResearchTierLockedHint
+EN: <style color='GUI/Red'/>Research %1% technologies from the previous tier to unlock.
+UK: <style color='GUI/Red'/>Щоб розблокувати, дослідіть технологій попереднього рангу: %1%
+
+## GUI.xml|ResearchTierScrollTo
+EN: <style name='Small'/>[%1%] to scroll to this tier.
+UK: <style name='Small'/>[%1%] — прокрутити до цього рангу.
+
+## GUI.xml|ResourceAccumulated
+EN: <icon texture='GUI/Bullet'/>%1% accumulated
+UK: <icon texture='GUI/Bullet'/>%1% накопичено
+
+## GUI.xml|ResourceFromBuildings
+EN:     <icon texture='GUI/Bullet'/>%1% from buildings
+UK:  <icon texture='GUI/Bullet'/>%1% від будівель
+
+## GUI.xml|ResourceFromCities
+EN:     <icon texture='GUI/Bullet'/>%1% from city count
+UK:  <icon texture='GUI/Bullet'/>%1% від числа міст
+
+## GUI.xml|ResourceFromDestruction
+EN:     <icon texture='GUI/Bullet'/>%1% from destruction
+UK:  <icon texture='GUI/Bullet'/>%1% від руйнування
+
+## GUI.xml|ResourceFromDifficulty
+EN:     <icon texture='GUI/Bullet'/>%1% from difficulty
+UK:  <icon texture='GUI/Bullet'/>%1% від рівня складності
+
+## GUI.xml|ResourceFromFeatures
+EN:     <icon texture='GUI/Bullet'/>%1% from features
+UK:  <icon texture='GUI/Bullet'/>%1% від особливостей місцевості
+
+## GUI.xml|ResourceFromLoyalty
+EN:     <icon texture='GUI/Bullet'/>%1% from loyalty
+UK:  <icon texture='GUI/Bullet'/>%1% від лояльності
+
+## GUI.xml|ResourceFromOperations
+EN:     <icon texture='GUI/Bullet'/>%1% from operations
+UK:  <icon texture='GUI/Bullet'/>%1% від операцій
+
+## GUI.xml|ResourceFromPace
+EN:     <icon texture='GUI/Bullet'/>%1% from game speed
+UK:  <icon texture='GUI/Bullet'/>%1% від швидкості гри
+
+## GUI.xml|ResourceFromPlayer
+EN:     <icon texture='GUI/Bullet'/>%1% from player
+UK:  <icon texture='GUI/Bullet'/>%1% від гравця
+
+## GUI.xml|ResourceFromPopulation
+EN:     <icon texture='GUI/Bullet'/>%1% from population
+UK:  <icon texture='GUI/Bullet'/>%1% від населення
+
+## GUI.xml|ResourceFromShortage
+EN:     <icon texture='GUI/Bullet'/>%1% from resource shortage
+UK:  <icon texture='GUI/Bullet'/>%1% від нестачі ресурсів
+
+## GUI.xml|ResourceFromTiles
+EN:     <icon texture='GUI/Bullet'/>%1% from tiles
+UK:  <icon texture='GUI/Bullet'/>%1% від клітинок
+
+## GUI.xml|ResourceFromTrade
+EN:     <icon texture='GUI/Bullet'/>%1% from trade
+UK:  <icon texture='GUI/Bullet'/>%1% від торгівлі
+
+## GUI.xml|ResourceFromUnits
+EN:     <icon texture='GUI/Bullet'/>%1% from units
+UK:  <icon texture='GUI/Bullet'/>%1% від юнітів
+
+## GUI.xml|ResourcePerTurn
+EN: <icon texture='GUI/Bullet'/>%1% per turn
+UK: <icon texture='GUI/Bullet'/>%1% за кожний хід
+
+## GUI.xml|ResourcePopulation
+EN: <icon texture='GUI/Bullet'/>%1% population
+UK: <icon texture='GUI/Bullet'/>%1% населення
+
+## GUI.xml|ResourcePopulationRequired
+EN: <icon texture='GUI/Bullet'/>%1% population required
+UK: <icon texture='GUI/Bullet'/>%1% необхідне населення
+
+## GUI.xml|ResourceShortageTitle
+EN: Resource Shortage
+UK: Нестача ресурсів
+
+## GUI.xml|ResourceShortage
+EN: <icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% shortage
+UK: <icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% нестача
+
+## GUI.xml|ResourceTotal
+EN: <icon texture='GUI/Bullet'/>%1% total
+UK: <icon texture='GUI/Bullet'/>%1% всього
+
+## GUI.xml|Resources
+EN: Resources
+UK: Ресурси
+
+## GUI.xml|ResourcesAccumulated
+EN: Resources Accumulated
+UK: Накопичені ресурси
+
+## GUI.xml|Restart
+EN: Restart
+UK: Почати спочатку
+
+## GUI.xml|RestoreDefaults
+EN: Restore Defaults
+UK: Скинути налаштування
+
+## GUI.xml|Rewards
+EN: Rewards
+UK: Нагороди
+
+## GUI.xml|RewardsReceived
+EN: Rewards Received
+UK: Отримано нагороди
+
+## GUI.xml|Queued
+EN: Queued.
+UK: У черзі.
+
+## GUI.xml|QuestCycleBetweenHighlightedTilesHint
+EN: Click to cycle between highlighted tiles.
+UK: ПКМ — перехід між підсвіченими клітинками.
+
+## GUI.xml|QuickSelectLeaderHint
+EN: Quick-select leader.
+UK: Швидкий вибір лідера.
+
+## GUI.xml|Quit
+EN: Quit
+UK: Вийти
+
+## GUI.xml|QuitHint
+EN: Close ZEPHON and return to your desktop.
+UK: Закрити гру та повернутися на робочий стіл.
+
+## GUI.xml|Save
+EN: Save
+UK: Зберегти
+
+## GUI.xml|SaveAndExitToMainMenu
+EN: Save & Exit to Main Menu
+UK: Зберегти та вийти у головне меню
+
+## GUI.xml|SaveAndExitToDesktop
+EN: Save & Exit to Desktop
+UK: Зберегти та вийти на робочий стіл
+
+## GUI.xml|SaveGame
+EN: Save Game
+UK: Зберегти гру
+
+## GUI.xml|SaveGameHelp
+EN: Enter new save name or select one to overwrite.
+UK: Введіть нове ім’я збереження або оберіть, яке перезаписати.
+
+## GUI.xml|Self
+EN: Self
+UK: На себе
+
+## GUI.xml|Scenarios
+EN: Scenarios
+UK: Сценарії
+
+## GUI.xml|Scores
+EN: Scores
+UK: Рахунок
+
+## GUI.xml|Search
+EN: Search
+UK: Пошук
+
+## GUI.xml|SelectCityHint
+EN: Select city.
+UK: Обрати місто.
+
+## GUI.xml|SelectColorHint
+EN: Select color.
+UK: Обрати колір.
+
+## GUI.xml|SelectDifficultyHint
+EN: Select difficulty.
+UK: Обрати рівень складності.
+
+## GUI.xml|SelectLeader
+EN: Select Leader
+UK: Вибір лідера
+
+## GUI.xml|SelectLeaderHint
+EN: Select leader.
+UK: Обрати лідера.
+
+## GUI.xml|SelectNextCityHint
+EN: Select next city.
+UK: Обрати наступне місто.
+
+## GUI.xml|SelectPreviousCityHint
+EN: Select previous city.
+UK: Обрати попереднє місто.
+
+## GUI.xml|SelectResearch
+EN: Select research
+UK: Обрати дослідження
+
+## GUI.xml|SelectTeamHint
+EN: Select team.
+UK: Обрати команду.
+
+## GUI.xml|SelectUnitHint
+EN: Select unit.
+UK: Обрати юніт.
+
+## GUI.xml|SelectionPortraitHint
+EN: [<string name='Controls/MouseLeft'/>] to focus.<br/>
+    <string name='GUI/ShowInCompendium'/>
+UK: [<string name='Controls/MouseLeft'/>] — перейти.<br/>
+    <string name='GUI/ShowInCompendium'/>
+
+## GUI.xml|Sell
+EN: Sell
+UK: Продати
+
+## GUI.xml|Settings
+EN: Settings
+UK: Налаштування
+
+## GUI.xml|SettingsHint
+EN: Adjust graphics, sound, controls, and other preferences.
+UK: Налаштувати графіку, звук, керування та інші параметри.
+
+## GUI.xml|Shop
+EN: The Concordat
+UK: Конкордат
+
+## GUI.xml|ShopHint
+EN: <style name='Title'/>The Concordat [<control name='OpenShopScreen'/>]<br/>
+    <style name='Default'/>Trade resources and hero items.<br/>
+    <br/>
+    <style name='Italic'/>Everyone knew The Concordat. But no-one knew who they were. Maybe survivors on the surface, maybe a ZEPHON-fork, maybe an old Corp reaching outta the 20th century’s grave. They fed the rumor mill, hiding their truth under the chatter. All we did know was that they traded everything to everyone—and that they never made a loss.
+UK: <style name='Title'/>Конкордат [<control name='OpenShopScreen'/>]<br/>
+    <style name='Default'/>Торгівля ресурсами та предметами для героїв.<br/>
+    <br/>
+    <style name='Italic'/>Усі знали про Конкордат. Але ніхто не знав, хто це такі. Можливо, вижилі на поверхні, можливо, відгалуження ЗЕФОНу, можливо, стара корпорація, що тягнеться з могили XX століття. Вони розпускали чутки, приховуючи правду про себе за марними вигадками. Ми лише знали, що вони торгували чим завгодно і з ким завгодно, і що вони не працювали у збиток.
+
+## GUI.xml|ShowInCompendium
+EN: [<control name='ShowInCompendium'/>] to show in compendium.
+UK: [<control name='ShowInCompendium'/>] — показати у довіднику.
+
+## GUI.xml|ShowNatives
+EN: Show NPCs
+UK: Показати неігрові фракції
+
+## GUI.xml|SinglePlayer
+EN: Single Player
+UK: Одиночна гра
+
+## GUI.xml|SkipCity
+EN: Skip City (1/%1%)
+UK: Пропустити місто (1/%1%)
+
+## GUI.xml|SkipCityHint
+EN: Skip this city [<control name='NextTask'/>].<br/>
+    [<control name='SelectNext'/>] to select next idle city.<br/>
+    [<control name='SelectPrevious'/>] to select previous idle city.
+UK: Пропустити це місто [<control name='NextTask'/>].<br/>
+    [<control name='SelectNext'/>] — обрати наступне бездіяльне місто.<br/>
+    [<control name='SelectPrevious'/>] — обрати попереднє бездіяльне місто.
+
+## GUI.xml|SkipUnit
+EN: Skip Unit (1/%1%)
+UK: Пропустити юніт (1/%1%)
+
+## GUI.xml|SkipUnitHint
+EN: Skip this unit [<control name='NextTask'/>].<br/>
+    [<control name='SelectNext'/>] to select next unit.<br/>
+    [<control name='SelectPrevious'/>] to select previous unit.
+UK: Пропустити цей юніт [<control name='NextTask'/>].<br/>
+    [<control name='SelectNext'/>] — обрати наступний юніт.<br/>
+    [<control name='SelectPrevious'/>] — обрати попередній юніт.
+
+## GUI.xml|Social
+EN: Social
+UK: Соцмережі
+
+## GUI.xml|SocialHint
+EN: Follow Proxy Studios on X for news and updates.
+UK: Стежити за новинами та оновленнями Proxy Studios в X.
+
+## GUI.xml|Spectating
+EN: Spectating
+UK: Спостерігач
+
+## GUI.xml|Start
+EN: Start
+UK: Почати
+
+## GUI.xml|Stats
+EN: Stats
+UK: Статистика
+
+## GUI.xml|StatsHint
+EN: <style name='Title'/><string name='GUI/Stats'/> [<control name='ToggleStatsScreen'/>]<br/>
+    <style name='Default'/>Review each player's score, economy, military strength and other statistics.
+UK: <style name='Title'/><string name='GUI/Stats'/> [<control name='ToggleStatsScreen'/>]<br/>
+    <style name='Default'/>Переглядайте рахунок, економіку, військову міць та інші показники кожного гравця.
+
+## GUI.xml|StayingIndependent
+EN: Staying independent:
+UK: Незалежність:
+
+## GUI.xml|SteamWorkshop
+EN: Steam Workshop
+UK: Майстерня Steam
+
+## GUI.xml|Supporter
+EN: Supporter
+UK: Підтримав
+
+## GUI.xml|SupporterUpgrade
+EN: Supporter Upgrade
+UK: Апгрейд підтримки
+
+## GUI.xml|Surrender
+EN: Surrender
+UK: Здатися
+
+## GUI.xml|TakeSlotHint
+EN: Take slot.
+UK: Зайняти місце.
+
+## GUI.xml|Team
+EN: Team
+UK: Команда
+
+## GUI.xml|Team0
+EN: No Team
+UK: Без команди
+
+## GUI.xml|Team0Hint
+EN: No Team:<style name='Default'/> plays alone; not part of an alliance.
+UK: Без команди:<style name='Default'/> грає наодинці, а не в союзі.
+
+## GUI.xml|Team1
+EN: Team A
+UK: Команда A
+
+## GUI.xml|Team2
+EN: Team B
+UK: Команда B
+
+## GUI.xml|Team3
+EN: Team C
+UK: Команда C
+
+## GUI.xml|Team4
+EN: Team D
+UK: Команда D
+
+## GUI.xml|Team5
+EN: Team E
+UK: Команда E
+
+## GUI.xml|Team6
+EN: Team F
+UK: Команда F
+
+## GUI.xml|Team7
+EN: Team G
+UK: Команда G
+
+## GUI.xml|Team8
+EN: Team H
+UK: Команда H
+
+## GUI.xml|Technology
+EN: Technology
+UK: Технологія
+
+## GUI.xml|Tier
+EN: Tier %1%
+UK: Ранг %1%
+
+## GUI.xml|TierLocked
+EN: Tier %1% (Locked)
+UK: Ранг %1% (Заблоковано)
+
+## GUI.xml|Tip
+EN: Tip
+UK: Порада
+
+## GUI.xml|Tips
+EN: Tips
+UK: Поради
+
+## GUI.xml|ToggleHotseatHint
+EN: <style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>] to toggle hotseat.
+UK: <style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>] — перемкнути в режим хотсіт.
+
+## GUI.xml|ToggleYieldOverlayHint
+EN: <style name='Title'/><string name='Settings/Controls/ToggleYieldOverlay'/> [<control name='ToggleYieldOverlay'/>]<br/>
+    <style name='Default'/>Show or hide yields and other tile information on the world map.
+UK: <style name='Title'/><string name='Settings/Controls/ToggleYieldOverlay'/> [<control name='ToggleYieldOverlay'/>]<br/>
+    <style name='Default'/>Показати або сховати прибутки та інші відомості про клітинки на карті світу.
+
+## GUI.xml|Total
+EN: Total
+UK: Всього
+
+## GUI.xml|Trait
+EN: Trait
+UK: Властивість
+
+## GUI.xml|Traits
+EN: Traits
+UK: Властивості
+
+## GUI.xml|Turn
+EN: Turn
+UK: Хід
+
+## GUI.xml|Unblock
+EN: Unblock
+UK: Розблокувати
+
+## GUI.xml|UnequipItemHint
+EN: Drag to move.<br/>
+    Right-click to unequip.
+UK: Можна перетягнути.<br/>
+    ПКМ — прибрати.
+
+## GUI.xml|Unexplored
+EN: Unexplored
+UK: Не досліджено
+
+## GUI.xml|Unit
+EN: Unit
+UK: Юніт
+
+## GUI.xml|UnitAcrin
+EN: Acrin Unit
+UK: Юніт акринів
+
+## GUI.xml|UnitCyber
+EN: Cyber Unit
+UK: Юніт кіберів
+
+## GUI.xml|UnitHuman
+EN: Human Unit
+UK: Юніт людей
+
+## GUI.xml|UnitReaver
+EN: Reaver Unit
+UK: Юніт Спустошувачів
+
+## GUI.xml|UnitVoice
+EN: Voice Unit
+UK: Юніт Голосу
+
+## GUI.xml|UnitZephon
+EN: ZEPHON Unit
+UK: Юніт ЗЕФОНу
+
+## GUI.xml|Units
+EN: Units
+UK: Юніти
+
+## GUI.xml|UnitsCreated
+EN: Units Created
+UK: Створені юніти
+
+## GUI.xml|UnitsLost
+EN: Units Lost
+UK: Втрачені юніти
+
+## GUI.xml|UnitsKilled
+EN: Units Killed
+UK: Знищені юніти
+
+## GUI.xml|UnitsKilledByPlayer
+EN: You killed: %2%
+UK: Ви знищили: %2%
+
+## GUI.xml|UnpauseTurnTimer
+EN: Unpause timer.
+UK: Зняти таймер з паузи.
+
+## GUI.xml|Unready
+EN: Unready
+UK: Скасувати готовність
+
+## GUI.xml|UpgradeForSubject
+EN: %1% for %2%
+UK: %1% — %2%
+
+## GUI.xml|Upgrades
+EN: Upgrades
+UK: Покращення
+
+## GUI.xml|Upkeep
+EN: Upkeep
+UK: Витрати на утримання
+
+## GUI.xml|UploadModHint
+EN: Upload mod to the Steam Workshop.
+UK: Передати мод у майстерню Steam.
+
+## GUI.xml|UserData
+EN: User Data
+UK: Дані користувача
+
+## GUI.xml|UserDataHint
+EN: Open the folder containing your saves, settings, and local mods.
+UK: Відкрити папку зі збереженнями, налаштуваннями та локальними модами.
+
+## GUI.xml|VS
+EN: VS
+UK: —
+
+## GUI.xml|Version
+EN: Version
+UK: Версія
+
+## GUI.xml|VersionRevisionsDiffer
+EN: Version revisions differ (local = %1%, server = %2%).
+UK: Версії гри відрізняються (локальна = %1%, сервер = %2%).
+
+## GUI.xml|Victorious
+EN: Victorious
+UK: Перемога
+
+## GUI.xml|ViewOnSteam
+EN: View on Steam
+UK: Переглянути у Steam
+
+## GUI.xml|Voice
+EN: Voice
+UK: Голос
+
+## GUI.xml|Weapon
+EN: Weapon
+UK: Зброя
+
+## GUI.xml|Weapons
+EN: Weapons
+UK: Зброя
+

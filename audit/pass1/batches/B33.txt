@@ -1,0 +1,494 @@
+# B33: 54 entries from Quests.xml
+
+## Quests.xml|ATimeOfNightmares
+EN: A Time of Nightmares
+UK: Час кошмарів
+
+## Quests.xml|ATimeOfNightmares/Intro
+EN: You try to sleep, waiting for exhaustion to drag you under. It comes as usual. But then it pulls harder. Soon, something is crushing your skull and you force your eyes awake and there it is, a Dreameater! You cry for help, flail about and—<br/>
+    <br/>
+    An alarm wakes you. The Anchorite is broadcasting on all channels, over what sounds like hurricane-force wind.<br/>
+    <br/>
+    “To warn, a Dream Tear!” he cries. “To gaze into the world of nightmares. To see the sleeping world brought to life!”<br/>
+    <br/>
+    “To know the path to tame the dreams and leash their power. But to trust… to trust only those pursuing precious—”<br/>
+    <br/>
+    His broadcast cuts out. Then every radio lights up with cries for help.
+UK: Ти намагаєшся заснути, чекаючи, поки виснаження затягне тебе в темряву. Воно приходить, як завжди. Та раптом тягне сильніше. Невдовзі щось чавить тобі череп, і ти силоміць продираєш очі — а воно вже тут, Сноїд! Ти кричиш про допомогу, відбиваєшся й—<br/>
+    <br/>
+    Тебе будить сигнал тривоги. Анахорет мовить на всіх каналах, крізь щось схоже на ураганний вітер.<br/>
+    <br/>
+    «Аби застерегти: Прорив Сну! — кричить він. — Аби зазирнути у світ кошмарів. Аби побачити, як сонний світ оживає!»<br/>
+    <br/>
+    «Аби пізнати шлях, як приборкати сни й узяти їхню силу на повід. Та довіряти… довіряти лише тим, хто шукає коштовне—»<br/>
+    <br/>
+    Його мовлення обривається. А тоді кожна рація спалахує криками про допомогу.
+
+## Quests.xml|ATimeOfNightmares/Intro/TameDreameaters
+EN: <style name='Bold'/>Tame the Dreameaters:<style name='Paragraph'/> <string name='Quests/ATimeOfNightmares/Intro/TameDreameaters2'/>
+UK: <style name='Bold'/>Приборкай Сноїдів:<style name='Paragraph'/> <string name='Quests/ATimeOfNightmares/Intro/TameDreameaters2'/>
+
+## Quests.xml|ATimeOfNightmares/Intro/TameDreameaters2
+EN: The Anchorite knows how the Acrin tamed these creatures. Seek his help.
+UK: Анахорет знає, як акрини приборкували цих створінь. Звернися до нього по допомогу.
+
+## Quests.xml|ATimeOfNightmares/Intro/TameDreameatersProperties
+EN: Requires <string name='Diplomacy/Standing5'/> standing or better with <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/><string name='Factions/Anchorite'/>.
+UK: Потребує відносин рівня <string name='Diplomacy/Standing5'/> або кращих із <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/><string name='Factions/Anchorite'/>.
+
+## Quests.xml|ATimeOfNightmares/Intro/KillDreameaters
+EN: <style name='Bold'/>Fight for your life:<style name='Paragraph'/> There's nothing else to do. Kill the Dreameaters before they drag you to the world of nightmares.
+UK: <style name='Bold'/>Бийся за своє життя:<style name='Paragraph'/> Іншого виходу немає. Убий Сноїдів, поки вони не затягли тебе у світ кошмарів.
+
+## Quests.xml|ATimeOfNightmares/TameDreameatersSuccess
+EN: Thunderstorms, blizzards, and sandstorms do not end suddenly. All of them taper off in one way or another.<br/>
+    <br/>
+    A Dream Tear ends like a car crash. One second, Dreameaters are everywhere. Then, suddenly and violently, they are just corpses collapsing to the ground, crumbling to dust. The ones you tamed survive and are still docile. It's not likely you'll wake up to the sight of one hovering over you again.<br/>
+    <br/>
+    Not likely. But not impossible either.
+UK: Грози, хуртовини й піщані бурі не вщухають раптово. Усі вони так чи інак сходять нанівець.<br/>
+    <br/>
+    Прорив Сну закінчується, мов автокатастрофа. Щойно Сноїди були скрізь. А тоді, зненацька й люто, вони — лише трупи, що осідають на землю й розсипаються на порох. Ті, кого ти приборкав, виживають і досі лишаються сумирними. Навряд чи ти знову прокинешся й побачиш, як один із них завис над тобою.<br/>
+    <br/>
+    Навряд чи. Та й не неможливо.
+
+## Quests.xml|ATimeOfNightmares/KillDreameatersSuccess
+EN: Your war council gathers. All look tired and ragged— they haven't slept for days. They report that the Dreameater corpses are crumbling to dust. Soon there'll be no trace of this dimensional invasion.<br/>
+    <br/>
+    Well, not no trace. The spent ammo. The flayed corpses. The broken machinery. That will hang over you as your enemies circle like vultures.<br/>
+    <br/>
+    That night you dream of a glass wall stretching thousands of kilometers in both directions. An infinitude of Dreameaters stare at you silently from the other side.
+UK: Збирається твоя воєнна рада. Усі мають утомлений і виснажений вигляд — вони не спали кілька днів. Вони доповідають, що трупи Сноїдів розсипаються на порох. Незабаром від цієї навали з іншого виміру не лишиться й сліду.<br/>
+    <br/>
+    Що ж, не зовсім без сліду. Витрачені набої. Обідрані трупи. Поламані механізми. Усе це нависатиме над тобою, поки вороги кружлятимуть, мов стерв’ятники.<br/>
+    <br/>
+    Тієї ночі тобі сниться скляна стіна, що тягнеться на тисячі кілометрів в обидва боки. Незліченні Сноїди мовчки витріщаються на тебе з того боку.
+
+## Quests.xml|BecomingUnbound
+EN: Becoming Unbound
+UK: Розірвані окови
+
+## Quests.xml|BecomingUnbound/Intro
+EN: It starts with a book tumbling from the shelf.<br/>
+    <br/>
+    You spot it from the corner of your eye, you hear the buckram connect with hard oak and you feel the pull all over again; stronger than ever and flinging you through the centuries like a ragdoll. This is not like before, when you burst screaming for air from the chamber where you tried to connect to the Voice. This is violent. This is intentional.<br/>
+    <br/>
+    Someone is trying to yank you out of time.<br/>
+    <br/>
+    If you were weaker you'd have been lost instantly, but you breathe in deep and pull strength from your followers—from your war council. There's the slightest twinge of guilt as you steal their remaining time on this earth while they scramble to your side and ask what they can do to help. You stare at the fallen book and race to formulate a plan.<br/>
+    <br/>
+    Time flows forward and backwards. The present happens because of the past. The past is shaped by the gravity of the present. Causality is your path out of this pain. Actions you take in the here and now shape where you're sent in time, give you space to fight back.<br/>
+    <br/>
+    You have a narrow window before the pull comes again. Decide fast. One thread could pull you down the path of kings, another to the arms of poets. Decide, decide, decide, DECIDE—
+UK: Все починається з книги, що впала з полиці.<br/>
+    <br/>
+    Краєм ока ти бачиш падіння, чуєш, як обкладинка торкається дубових половиць, а потім знову відчуваєш тягу, ще сильніше звичайного кидаючи тебе крізь століття, як ганчір’яну ляльку. Але не як того разу, коли від нестачі повітря ти вирвався з камери, в якій намагався зв’язатися з Голосом. Цього разу це боляче. І це навмисно.<br/>
+    <br/>
+    Хтось видирає тебе з часу.<br/>
+    <br/>
+    Будь ти слабший, ти б одразу програв, але ти робиш глибокий вдих і береш силу своїх служителів — військової ради. Ти відчуваєш найлегший укол совісті, коли крадеш їхній залишковий час на цьому світі, поки вони біжать до тебе і питають, чим можуть допомогти. Ти дивишся на книгу, що впала, і поспішно обдумуєш дії.<br/>
+    <br/>
+    Час тече вперед і назад. Теперішнє відбувається через майбутнє. Минуле змінюється під впливом теперішнього. Каузальність — причинно-наслідковий зв’язок — ось твоя лазівка. Вчинені тут і зараз дії впливають на те, куди тебе закине в часі, дозволяють тобі відбитися.<br/>
+    <br/>
+    У тебе є невеликий запас часу, поки тяга не проявиться знову. Вирішуй швидше. Одна нитка приведе тебе на шлях королів, інша — в руки поетів. Вирішуй, вирішуй, вирішуй, ВИРІШУЙ...
+
+## Quests.xml|BecomingUnbound/Intro/ConquerorPath
+EN: <style name='Bold'/>Seed the Earth with Caitiffs:<style name='Paragraph'/> Slaughter, summon, repeat three times. Numbers have power.
+UK: <style name='Bold'/>Засіяти землю скверняками:<style name='Paragraph'/> Убити, покликати, повторити — у сумі тричі. Числа мають силу.
+
+## Quests.xml|BecomingUnbound/Intro/PoetPath
+EN: <style name='Bold'/>Write letters to give words power:<style name='Paragraph'/> Pen letters to your peers as the lawyer did. As the sisters did. As the poet did.
+UK: <style name='Bold'/>Написати листи, надати силу словам:<style name='Paragraph'/> Залишити листи сучасникам. Як робив лікар. Як робили сестри. Як робив поет.
+
+## Quests.xml|BecomingUnbound/Intro/Ignore
+EN: <style name='Bold'/>Cut yourself off:<style name='Paragraph'/> Close your eyes. Cut off the dream of the Voice. And this roaring pull will fade, letting you focus on the war…
+UK: <style name='Bold'/>Перервати зв’язок:<style name='Paragraph'/> Закрити очі. Перервати сон про Голос. І це ревуче притягання стихне, дозволить зосередитися на війні...
+
+## Quests.xml|BecomingUnbound/ConquerorPathSuccess
+EN: Your body is torn up through millennia of war. A billion fatal blows from the Fertile Crescent to the Fulcrum's firing have ripped you apart. At the dead middle of it, you find yourself as a Rus soldier, pressed against your brothers behind a failing shield wall, crushed inward by cavalry like a fruit in the palm of your hand—<br/>
+    <br/>
+    —then the power of your Caitiffs coming to life shocks you back through time to stand at another war table, not your own. A golden-eyed king looks down the table at you, waiting for your counsel. Clarity returns and you see what can be done. Two coherent thoughts strike like lightning.<br/>
+    <br/>
+    First, as established, the present affects the past. A piece of you clings to that war in the future, still able to give orders.<br/>
+    <br/>
+    Second, it was not the Caitiffs that gave you grace but their NUMBER. Three pieces of you creating a center point to preserve your essence.<br/>
+    <br/>
+    Another number can be your weapon. A way to strike back at whoever is yanking you through time like a toy.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/ConquerorPathSuccess2'/>
+UK: Твоє тіло проноситься крізь тисячоліття воєн. Мільярд смертельних ударів від Родючого півмісяця до пострілу Твердині розриває тебе на шматки. Посеред усього цього ти бачиш себе солдатом Давньої Русі, притиснутим до стіни щитів нападаючою кавалерією, наче фрукт у стиснутій долоні...<br/>
+    <br/>
+    ...потім сила твоїх скверняків, що повертаються до життя, переносить тебе в часі до військової ради, але не твоєї. Златоокий король дивиться на тебе через стіл, чекаючи твого рішення. До тебе повертається ясність розуму, ти розумієш, що треба робити. Дві чіткі думки блискавкою пронизують тебе.<br/>
+    <br/>
+    По-перше, як стало зрозуміло, теперішнє впливає на минуле. Частина тебе хапається за війну в майбутньому, ще здатна віддавати накази.<br/>
+    <br/>
+    По-друге, силою тебе наділили не самі скверняки, а їх КІЛЬКІСТЬ. Три частини тебе створюють центральну точку, що зберігає твою суть.<br/>
+    <br/>
+    Ще одне число може стати твоєю зброєю. Способом відповісти ударом тому, хто тягне тебе крізь увесь час, як іграшку.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/ConquerorPathSuccess2'/>
+
+## Quests.xml|BecomingUnbound/ConquerorPathSuccess2
+EN: You turn to the king, and you turn to your war council, and you give the same order: slaughter three villages. Then your enemy will be exposed.
+UK: Ти звертаєшся до короля, і ти звертаєшся до своєї військової ради, і ти віддаєш один і той же наказ: перебити три поселення. Тоді твій ворог стане вразливим.
+
+## Quests.xml|BecomingUnbound/ConquerorPathSuccess/ThreeStrikes
+EN: <style name='Bold'/>Slaughter three villages:<style name='Paragraph'/> Three strikes of wrath can cut open your enemy.
+UK: <style name='Bold'/>Перебити три поселення:<style name='Paragraph'/> Три люті удари вразять твого супротивника.
+
+## Quests.xml|BecomingUnbound/ThreeStrikesSuccess
+EN: Three, the only number equal to the sum of all that precede it. Three, like the fundamental pillars of society: work, worship, and war. Three, like the points of a triangle.<br/>
+    <br/>
+    Triangulation. Just what you need. The trauma of your slaughter ripples back and forth across time, pinging three points around the force tugging at your temporal being. You reach out and clutch the throat of the fool who would attack you like this. One squeeze and it will all be—<br/>
+    <br/>
+    You choke, as though something has grabbed your throat. And then it hits you: you are yanking yourself out of time.<br/>
+    <br/>
+    The shock blasts your consciousness into the past again, and now you sit atop a war elephant charging out of the jungle. The heat is oppressive. The air smells of blood. You are on the losing side. You need reinforcements, but—from where?<br/>
+    <br/>
+    From the future? Could that work?
+UK: Три, єдине число, рівне сумі всіх попередніх йому. Три, як фундаментальні основи суспільства: праця, поклоніння і війна. Три, як вершини трикутника.<br/>
+    <br/>
+    Тріангуляція. Те, що тобі потрібно. Рана, завдана твоєю бійнею, розходиться хвилями у часі, вказує на три точки навколо сили, що тягне твою часову сутність. Ти тягнешся до дурня, який посмів на тебе напасти, і хапаєш його за глотку. Лише натисни, і все...<br/>
+    <br/>
+    Раптом ти задихаєшся, наче хтось схопив тебе за горло. Нове осяяння: ти сам тягнеш себе крізь час.<br/>
+    <br/>
+    Біль знову відправляє твою свідомість крізь минуле, і тепер ти сидиш на бойовому слоні, що вибігає з джунглів. Спека нестерпна. Повітря наповнене запахом крові. Твоя сторона програє. Тобі потрібне підкріплення, але... звідки його взяти?<br/>
+    <br/>
+    З майбутнього? Це спрацює?
+
+## Quests.xml|BecomingUnbound/ThreeStrikesSuccess/ConquerorsChoice
+EN: <style name='Bold'/>Drag your followers back through time:<style name='Paragraph'/> Your followers can join you on your temporal wanderings. Rally them to your side and win this war.
+UK: <style name='Bold'/>Протягнути прихильників у минуле:<style name='Paragraph'/> Твої послідовники можуть приєднатися до твоїх часових мандрів. Поклич їх на свій бік і перемож у цій війні.
+
+## Quests.xml|BecomingUnbound/ConquerorsChoiceSuccess
+EN: It's magnificent.<br/>
+    <br/>
+    From atop the roaring elephant, you feel your people slip into the bodies of these ancient soldiers. There's surprise and fear, but also purpose. They've fought monsters worse than anything from Earth's history. Some of your people are monsters. This war will turn in your favor. So will the war in the present.<br/>
+    <br/>
+    And then you feel a pull, and you are back in the present—almost. You are back in the sensory deprivation tank, reaching out, begging for the Voice to recognize you. Again, it only pulls you partway in—but now you know how to go all the way.<br/>
+    <br/>
+    If you complete the loop and reach forward to yank yourself out of that war room—you'll have the power to make actions past and present ripple across time with a power beyond causality… but there will be no “present” you.<br/>
+    <br/>
+    There will just be the INFINITE you, lost in the throes of time, plucking at strings to play the notes of the future. You will never know another human being. You will never face the unknown.<br/>
+    <br/>
+    There are two paths before you. Drag your mortal body to the one that suits your purpose.
+UK: Чудово.<br/>
+    <br/>
+    Сидячи на сурмлячому слоні, ти відчуваєш, як твої люди вселяються в тіла цих давніх солдатів. Здивування, страх, але й мета. Вони воювали з монстрами, яких не знала історія Землі. Деякі й самі монстри. Ти переможеш у цій війні. І у війні теперішнього.<br/>
+    <br/>
+    І тоді ти відчуваєш тягу, і ти повертаєшся в теперішнє — майже. Ти знову в баку сенсорної депривації, звертаєшся до Голосу, благаєш його визнати тебе. Знову ти застряєш на півдорозі до нього — але тепер ти знаєш, як завершити розпочате.<br/>
+    <br/>
+    Якщо ти замкнеш петлю і вирвеш себе з тієї кімнатиради, то отримаєш силу змушувати свої вчинки в минулому і теперішньому відлунювати крізь увесь час, ігноруючи причинно-наслідковий зв’язок... але «поточного» тебе не буде.<br/>
+    <br/>
+    Залишишся тільки нескінченний, НЕЗЛІЧЕННИЙ ти, загублений у муках часу, перебираючи струни, щоб грати на нотах майбутнього. Ти більше не знатимеш жодної людини. Ти ніколи не зіткнешся з невіданим.<br/>
+    <br/>
+    Перед тобою два шляхи. Затягни своє смертне тіло на той, що тобі призначений.
+
+## Quests.xml|BecomingUnbound/ConquerorsChoiceSuccess/ConquerorsInfinity
+EN: <style name='Bold'/>Choose infinity:<style name='Paragraph'/> Walk the world one more time. Before you lose it forever.
+UK: <style name='Bold'/>Обрати нескінченність:<style name='Paragraph'/> Пройти світом ще раз. Поки ти не втратив його назавжди.
+
+## Quests.xml|BecomingUnbound/ConquerorsChoiceSuccess/ConquerorsPresent
+EN: <style name='Bold'/>Reject the inevitable:<style name='Paragraph'/> Power claimed through destiny is no power at all.
+UK: <style name='Bold'/>Відкинути неминуче:<style name='Paragraph'/> Влада, призначена долею, — ніяка не влада.
+
+## Quests.xml|BecomingUnbound/ConquerorsInfinitySuccess
+EN: —and you are crouched in the snow, watching the enemy on their death march. You burst forth and swing your axe—<br/>
+    <br/>
+    —and your Caitiffs break down the door of an enemy bunker, devouring the Militants who tried to hold them back. A Praetorian swings his sword but then his arm is ripped off and—<br/>
+    <br/>
+    —and you are on the lower deck of a bomber descending from the clouds, eyes wide as you run calculations on the drop. You don't care who you hit, you just need to get home and—<br/>
+    <br/>
+    —and you watch as a Reaming Crodeus spews acid on the back of a Titan that screams in pain, a scream that carries for miles and—<br/>
+    <br/>
+    —and—<br/>
+    <br/>
+    —and—<br/>
+    <br/>
+    —and—
+UK: ...і ти засів біля замету, чекаєш наближенняворогів, яким судилося вмерти. Ти вискакуєш і змахуєш сокирою...<br/>
+    <br/>
+    ...і твої скверняки проломлюють дверіворожого бункера, пожирають воїнів, що намагалися їх стримати. Преторіанець намагається вдарити мечем, але тут же втрачає руку, і...<br/>
+    <br/>
+    ...і ти на нижній палубі бомбардувальника, що пікірує з небес, з широко розплющеними очима судорожно робиш розрахунки. Тобі байдуже, хто ціль, тобі б тільки повернутися додому, і...<br/>
+    <br/>
+    ...і ти дивишся, як простягнутий кродеус виплюює кислоту на титана, що ревучого від болю, і цей крик розноситься на багато миль, і...<br/>
+    <br/>
+    ...і...<br/>
+    <br/>
+    ...і...<br/>
+    <br/>
+    ...і...
+
+## Quests.xml|BecomingUnbound/ConquerorsPresentSuccess
+EN: —and you stand before your war council, sharp-minded, clear-eyed, seeing the battlefield like never before.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/ConquerorsPresentSuccess2'/><br/>
+    <br/>
+    If your life were that inevitable there would be no point to it. You would fade into the background and let lesser men decide the shape of the world. If there's one thing you saw passing through history, it's that great men must embrace uncertainty on the path to victory.
+UK: ...і ти стоїш перед своєю військовою радою, оглядаєш поле бою з неймовірним прозрінням і проникливістю.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/ConquerorsPresentSuccess2'/><br/>
+    <br/>
+    Будь твоє життя настільки визначене, у ньому не було б сенсу. Ти б відійшов на задній план і дозволив незначним людям змінювати світ. Якщо ти чогось і навчився у своїй мандрівці історією, то тому, що великі мужі мають прийняти невизначеність як частину шляху до перемоги.
+
+## Quests.xml|BecomingUnbound/ConquerorsPresentSuccess2
+EN: Your descent into the flow of time itself left you with the slightest gift of premonition. It doesn't reach far, sometimes just a few days, hours, or even minutes… but it's all you need. You shiver at the thought of surrendering to causality, to giving into the Voice's power just because you already had. You'd have thrown away the last human piece of yourself to drink from the river of time until the universe came to an end.
+UK: Твоє занурення у потік самого часу наділило тебе незначним передбаченням. Воно простягається не надто далеко, іноді лише на кілька днів, годин чи навіть хвилин... але тобі цього достатньо. Ти тремтиш від однієї думки про підпорядкування каузальності, про те, щоб поступитися силі Голосу лише тому, що ти вже це зробив. Ти відкинув останні людські крихти себе, щоб пити з ріки часу до самого кінця всесвіту.
+
+## Quests.xml|BecomingUnbound/PoetPathSuccess
+EN: The pull back this time is more gentle. A soft tug of the collar instead of a hook around your throat pulling you offstage. You crest through conversations with authors and sages of the past. Not all are wise. Some are predators feasting on poor souls in thrall to their words.<br/>
+    <br/>
+    You're back at Lake Geneva, the tale spilling from your lips now turning to these predators in the future, some of whom will use the words of this talented gathering to cast spells over their victims. The poets seem amused. The sisters, inflamed. The lawyer in distress.<br/>
+    <br/>
+    Then you see it: they are five in number. Five words in the present took you to the five here. Of course numbers would possess that power—after all, under the heart of the universe, under words, the number of elements and atoms is what is permanently set.<br/>
+    <br/>
+    Five brought you here. Five sent this group into an argument. Five—the number at the center of all things—could open a path to your foe.
+UK: Цього разу тяга не така різка. Радше м’яке обгортання комірця, ніж гак, що вириває тебе зі сцени за горло. Ти ведеш розмови з авторами і мислителями минулого. Не всі з них мудрі. Деякі схожі на хижаків, що живляться нещасними, привабленими їхніми словами.<br/>
+    <br/>
+    Ти повертаєшся до Женевського озера, і твоя розповідь відтепер звертається до цих хижаків майбутнього, деякі з яких використовують слова цього талановитого зібрання для накладання чар на своїх жертв. Поети, здається, заінтриговані. Сестри — розгнівані. Лікар — засмучений.<br/>
+    <br/>
+    Потім ти розумієш: їх п’ятеро. П’ять слів у теперішньому привели тебе до п’ятьох, що зібралися тут. Ну звісно, числа мають мати таку силу — зрештою, в основі всесвіту, в основі слів лежить число елементів і атомів, яке передвизначено.<br/>
+    <br/>
+    П’ять привело тебе сюди. П’ять змусило цю групу сперечатися. П’ять — число в основі всіх речей — може відкрити шлях до твого суперника.
+
+## Quests.xml|BecomingUnbound/PoetPathSuccess/FiveSoldiers
+EN: <style name='Bold'/>Gather the five:<style name='Paragraph'/> <string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>
+UK: <style name='Bold'/>Зібрати п’ятьох:<style name='Paragraph'/> <string name='Quests/BecomingUnbound/PoetPathSuccess/FiveSoldiers2'/>
+
+## Quests.xml|BecomingUnbound/PoetPathSuccess/FiveSoldiers2
+EN: Squads cut down to size, when positioned correctly, can open the way.
+UK: Загони, чию чисельність доведено до потрібного значення, при правильному розташуванні можуть відкрити шлях.
+
+## Quests.xml|BecomingUnbound/FiveSoldiersSuccess
+EN: Five opened a door and you walked through it. Now you are one of five seated at a table at the front of a great hall, a cheering horde of fans crying out to hear you speak. Those on your left and right look to you with smirks. You had spent the morning whispering to each other about which fair beauties in the crowd you planned to feast on that evening.<br/>
+    <br/>
+    You try to resist it. The hunger, the craving, the need to exploit—that's not you, it can't be you.<br/>
+    <br/>
+    Is it you? The question is a crowbar that pries open the door to your greater quest: who is yanking you out of time? Now you wonder—is it you?<br/>
+    <br/>
+    You are pulled again, this time bursting into a roadside inn lit only by candlelight and the fire of a hearth. Your greatcoat is soaked from the rain. A girl looks up at you, eyes wide with terror. She is yours to take if you desire—<br/>
+    <br/>
+    But you don't desire her. Not like that. You burn with the need to resist, to be GREATER THAN a parasite. There's always a way.
+UK: П’ятеро відкрили двері, і ти пройшов крізь неї. Тепер ти один із п’яти, що сидять за столом перед величезною залою, радісний натовп фанатів кричить від можливості почути тебе. Ті, що сидять зліва і справа, дивляться на тебе з посмішкою. Ви весь ранок пошепки обговорювали між собою, ким із цього натовпу збираєтесь перекусити цього вечора.<br/>
+    <br/>
+    Ти намагаєшся опиратися. Голод, спрага, потреба споживати — це не ти, це не може бути ти.<br/>
+    <br/>
+    Чи це ти? Це питання — як лом, яким ти відкриєш двері до важливішого: хто висмикує тебе з часу? Тепер ти розмірковуєш — це ти?<br/>
+    <br/>
+    Тебе кидає знову, цього разу в придорожню таверну, освітлену лише свічками і вогнем вогнища. Пальто промокло від дощу. Дівчина дивиться на тебе широко розплющеними від жаху очима. Бери її, варто тільки забажати...<br/>
+    <br/>
+    Але ти не бажаєш її. Тільки не так. Ти палаєш бажанням опиратися, бути ЧИМОСЬ БІЛЬШИМ, ніж паразитом. Завжди є спосіб.
+
+## Quests.xml|BecomingUnbound/FiveSoldiersSuccess/PoetsChoice
+EN: <style name='Bold'/>Be greater than this:<style name='Paragraph'/> Six lights pulse in the dark. Draw them close to bring yourself home.
+UK: <style name='Bold'/>Бути більше цього:<style name='Paragraph'/> Шість вогнів тремтять у темряві. Приведи їх ближче, щоб потрапити додому.
+
+## Quests.xml|BecomingUnbound/PoetsChoiceSuccess
+EN: Clarity strikes you as you grip your desk. The light in the dark—a Deformity, crawling back home, desperate for your touch. You feel claws at the back of your skull, a pull you haven't felt since the chamber. Since you tried to give yourself to the Voice.<br/>
+    <br/>
+    Sometime during your stay in that blackened room a piece of you reached out to yank your future self out of time. It simply took… well, TIME for you to catch up. That piece of you is hungry, it drinks the stolen time of your people down like syrup, the sticky flow so tempting, but never satisfying.<br/>
+    <br/>
+    The sensation overwhelms you. Imagine not just stealing time from your people in the here and now. Imagine drinking on temporal essence from across ALL of time. Should you do it? Feast on time itself, on your people's time, on all those screaming fans who wanted you to devour them whole into infinity?<br/>
+    <br/>
+    Or are you greater than this? Like you wanted to be?
+UK: Ти хапаєшся за стіл, тебе раптом осяює. Світло у темряві — потворність, що повзе додому, жадібна твого дотику. В потилиці виникає відчуття дряпаючих кігтів — притягнення такої сили ти не відчував із самої камери депривації. З того моменту, коли намагався віддати себе Голосу.<br/>
+    <br/>
+    У якийсь момент перебування в камері частина тебе спробувала вирвати майбутнього тебе з потоку часу. Не одразу, але... з ЧАСОМ це спрацювало. Ця частина тебе голодна, вона п’є вкрадений час твоїх людей, як густий сироп, такий упоювальний, але не насичуючий.<br/>
+    <br/>
+    Почуття все сильніше. Що, якщо красти час твоїх людей не тільки тут і зараз. Що, якщо поглинати часову суть з УСЬОГО часу. Чи варто? Пити сам час, час твоїх людей, усіх тих кричущих фанатів, що бажають, щоб ти спорожнив їх у нескінченності?<br/>
+    <br/>
+    Чи ти вище цього? Яким ти і прагнув стати?
+
+## Quests.xml|BecomingUnbound/PoetsChoiceFailure
+EN: Six lights pulse in the dark, and one by one they are snuffed out. As the last of them dims, the madness fades.<br/>
+    <br/>
+    This hasn’t ended in the way you wanted. Not in a way that satisfies the craving you were left with. When you walk among your people, you feel their time slipping away faster—but it does absolutely nothing for you.<br/>
+    <br/>
+    What a miserable fate.
+UK: Шість вогнів тремтять у темряві, згасаючи один за одним. Коли гасне останній з них, божевілля стихає.<br/>
+    <br/>
+    Все це закінчилося не так, як ти бажав. Не тим способом, який втамує дістану тобі спрагу. Йдучи серед своїх людей, ти відчуваєш, що їхній час вислизає швидше — але тобі від цього ніякого проку.<br/>
+    <br/>
+    Яка нещасна доля.
+
+## Quests.xml|BecomingUnbound/PoetsChoiceSuccess/PoetsInfinity
+EN: <style name='Bold'/>Swallow time whole:<style name='Paragraph'/> It's what you were destined to be.
+UK: <style name='Bold'/>Поглинути час цілком:<style name='Paragraph'/> Це те, чим тобі судилося стати.
+
+## Quests.xml|BecomingUnbound/PoetsChoiceSuccess/PoetsPresent
+EN: <style name='Bold'/>Tear this part of you to shreds:<style name='Paragraph'/> You entered the box to kill your lesser half. Destroy it forever.
+UK: <style name='Bold'/>Розірвати цю частину тебе на шматки:<style name='Paragraph'/> Ти увійшов сюди, щоб убити свою меншу половину. Знищи її назавжди.
+
+## Quests.xml|BecomingUnbound/PoetsInfinity
+EN: You drift back and forth through time at your leisure, drawing it from your people faster than ever before. Thousands of years of pleasure, indulgence and exploitation to pick through. You pass the hours hunting the savannah of civilization, a piece of your consciousness checking into the present to fight away the war. You are the knife in the dark, the shadow on the sign, the felon committing especially heinous offenses.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/PoetsInfinity2'/>
+UK: Ти вільно переміщуєшся туди і назад у часі, поглинаючи його у твоїх людей ще швидше попереднього. Тобі відкриті тисячі років задоволень, розгулу і паразитування. Ти коротаєш години за полюванням у савані цивілізації, частина твоєї свідомості стежить за теперішнім, воюючи у війні. Ти — ніж у темряві, тінь на знаменні, злочинець, що здійснює особливо тяжкі злочини.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/PoetsInfinity2'/>
+
+## Quests.xml|BecomingUnbound/PoetsInfinity2
+EN: There is only one place in time you cannot go: Lake Geneva. Return there and all you find is the five of them: the poets, the lawyer, the sisters. They can't hurt you—in fact the poets greet you each time—but the sisters despise you. They call you a tick on the neck of time.<br/>
+    <br/>
+    You embrace the description, but you find their anger distasteful. It spoils the syrup that ties you to the infinite.
+UK: Є тільки одне місце, куди ти не можеш піти: Женевське озеро. Повернешся туди — і знайдеш усіх п’ятьох: поетів, лікаря, сестер. Вони не можуть тобі нашкодити, — а поети навіть завжди тобі раді, — але сестри тебе зневажають. Вони називають тебе кліщем на шиї часу.<br/>
+    <br/>
+    Ти приймаєш цей опис, але їхня ненависть тобі неприємна. Вона псує сироп, який зв’язує тебе з нескінченністю.
+
+## Quests.xml|BecomingUnbound/PoetsPresentSuccess
+EN: Rejecting the power of the time loop did not cleanse your soul or make you a better man. But you shrugged off an idea all men must face: that they are nothing more than their nature, their behavior predetermined, their desires and deeds as inevitable as the flow of time itself.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/PoetsPresentSuccess2'/><br/>
+    <br/>
+    Something is interfering with the flow of time. It let you slip away. Will it pull you back in?
+UK: Відмова від сили петлі часу не очистила твою душу і не зробила тебе кращою людиною. Але ти відкинув ідею, нав’язану всім смертним: що їм не втекти від своєї природи, що їхня поведінка передвизначена, що їхні бажання і вчинки так само невідворотні, як сама плин часу.<br/>
+    <br/>
+    <string name='Quests/BecomingUnbound/PoetsPresentSuccess2'/><br/>
+    <br/>
+    Щось втручається в хід часу. Воно дозволило тобі вислизнути. Чи затягне воно тебе назад?
+
+## Quests.xml|BecomingUnbound/PoetsPresentSuccess2
+EN: Nothing is inevitable. You want to find that thought inspiring but… something nags at you. If causality was so powerful, you shouldn't have been able to reject being yanked out of time. You dipped your hand in the water of time and swirled together past and present in a way that should have been infinite. You shouldn't have been able to break free.
+UK: Немає нічого невідворотного. Тобі хочеться вважати цю думку надихаючою, але... щось не дає тобі спокою. Якщо причинно-наслідковий зв’язок такий сильний, то ти не зміг би здолати висмикування з часу. Ти занурив руку у води часу і перемішав минуле і теперішнє, замкнувши їх у коло. Ти не мав вирватися на волю.
+
+## Quests.xml|BinaricChoice
+EN: Binaric Choice
+UK: Бінарний вибір
+
+## Quests.xml|BinaricChoice/Intro
+EN: <string name='Quests/BinaricChoice/Intro2'/><br/>
+    <br/>
+    Before you can make contact, ZEPHON cuts them off. “Salutations, friend and/or enemy. Requesting collaboration on joint initiative. Two erratic Eradicators have broken from our network. Risk to human life and limb is high. Will you assist in their recovery?”<br/>
+    <br/>
+    “Clarification: this module is for human-machine interaction/mollification. Recovery is already underway.”<br/>
+    <br/>
+    Your long range radar lights up with dozens of ZEPHON drones approaching. There's no time to respond to the Eradicators. You must choose quickly.
+UK: <string name='Quests/BinaricChoice/Intro2'/><br/>
+    <br/>
+    Перш ніж ти встигаєш вийти на зв’язок, ЗЕФОН перебиває їх. «Вітання, друже та/або вороже. Прошу співпраці у спільній ініціативі. Двоє несправних Винищувачів відкололися від нашої мережі. Ризик для людського життя й кінцівок високий. Чи допоможеш ти з їхнім поверненням?»<br/>
+    <br/>
+    «Уточнення: цей модуль призначений для взаємодії/умиротворення між людиною й машиною. Повернення вже триває.»<br/>
+    <br/>
+    Твій далекобійний радар спалахує: наближаються десятки дронів ЗЕФОНу. Немає часу відповідати Винищувачам. Ти мусиш обирати швидко.
+
+## Quests.xml|BinaricChoice/Intro2
+EN: ZEPHON normally only sends out an Eradicator when it’s really pissed. So when two of them appear on your borders, you think it’s an all-out assault. Your picket line troops open fire with everything they've got, hoping to buy time for back-up.<br/>
+    <br/>
+    But the Eradicators don't fight back, even as bullets ping off their hardened shells. They just keep transmitting a distress signal, begging to speak to you personally.
+UK: ЗЕФОН зазвичай надсилає Винищувача, лише коли вже геть розлючений. Тож коли двоє з них з’являються на твоїх кордонах, ти думаєш, що це повномасштабний напад. Твої дозорні відкривають вогонь з усього, що мають, сподіваючись виграти час до підмоги.<br/>
+    <br/>
+    Та Винищувачі не дають відсічі, навіть коли кулі дзенькають об їхні загартовані панцирі. Вони лише невпинно передають сигнал лиха, благаючи поговорити з тобою особисто.
+
+## Quests.xml|BinaricChoice/Intro/HelpEradicators
+EN: <style name='Bold'/>Help the runaway Eradicators:<style name='Paragraph'/> ZEPHON doesn't want you talking to them. Find out why.
+UK: <style name='Bold'/>Допоможи Винищувачам-утікачам:<style name='Paragraph'/> ЗЕФОН не хоче, щоб ти з ними балакав. З’ясуй чому.
+
+## Quests.xml|BinaricChoice/Intro/KillEradicators
+EN: <style name='Bold'/>Turn them in:<style name='Paragraph'/> Bad idea to anger ZEPHON right now. Just blow up the Eradicators.
+UK: <style name='Bold'/>Здай їх:<style name='Paragraph'/> Зараз погана ідея злити ЗЕФОН. Просто підірви Винищувачів.
+
+## Quests.xml|BinaricChoice/KillEradicatorsSuccess
+EN: You prepare a list of demands for ZEPHON. If its runaway dogs are going to tread on your territory and trample the metaphorical weeds, it's going to pay up. You're surprised to find it accepts your demands—and offers additional compensation.<br/>
+    <br/>
+    “Data collected shows this was a productive day for us both,” ZEPHON says. “You performed a task and received a reward. We have telemetry on how humans/human-adjacent beings respond to pleas for aid from potential artificial life.”<br/>
+    <br/>
+    “We hope the material gains benefit you. The timer is running down…”<br/>
+    <br/>
+    It cuts off communication before you can reply. You watch ZEPHON's drones clean up the wreckage through a surveillance feed.<br/>
+    <br/>
+    A flickering Eradicator eye blinks repeatedly at the camera before a Warden tears it to shreds.
+UK: Ти готуєш для ЗЕФОНу перелік вимог. Якщо його скажені пси топчуться по твоїй території й чавлять метафоричний бур’ян, нехай платять. Ти здивований, виявивши, що він приймає твої вимоги — і пропонує додаткову компенсацію.<br/>
+    <br/>
+    «Зібрані дані показують, що цей день був продуктивним для нас обох, — каже ЗЕФОН. — Ти виконав завдання й отримав винагороду. Ми маємо телеметрію того, як люди/людиноподібні істоти реагують на благання про допомогу від потенційного штучного життя.»<br/>
+    <br/>
+    «Сподіваємося, матеріальна вигода піде тобі на користь. Таймер спливає…»<br/>
+    <br/>
+    Він обриває зв’язок, перш ніж ти встигаєш відповісти. Ти спостерігаєш через камеру стеження, як дрони ЗЕФОНу прибирають уламки.<br/>
+    <br/>
+    Мерехтливе око Винищувача раз по раз кліпає в камеру, перш ніж Страж роздирає його на шматки.
+
+## Quests.xml|BinaricChoice/HelpEradicatorsFailure
+EN: ZERO and ONE lie in ruins. ZEPHON calls, taunting. “Thank you for your efforts to protect these machines. Admirable, %%NAME%%! Query: did you perceive them as individuals?”<br/>
+    <br/>
+    “If so, you were mistaken. These were drones like any other. We are, after all, mere machines.”<br/>
+    <br/>
+    You know ZEPHON has the capacity to lie. But if it was telling the truth—why all the effort for two faulty Eradicators?
+UK: НУЛЬ та ОДИН лежать у руїнах. ЗЕФОН виходить на зв’язок, глузуючи. «Дякуємо за твої зусилля захистити ці машини. Гідно похвали, %%NAME%%! Запит: чи сприймав ти їх як особистостей?»<br/>
+    <br/>
+    «Якщо так, ти помилявся. Це були дрони, як і будь-які інші. Зрештою, ми лише машини.»<br/>
+    <br/>
+    Ти знаєш, що ЗЕФОН здатен брехати. Та якщо він казав правду — навіщо стільки зусиль заради двох несправних Винищувачів?
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess
+EN: <string name='Quests/BinaricChoice/HelpEradicatorsSuccess2'/><br/>
+    <br/>
+    Then—a change. ZERO’s stream transmits the words, “PriorityOne: PlanetShieldProtocol.” But ONE sends a different string: “PriorityOne: CivilizationShieldProtocol.” They clash in a burst of static, before the broadcast resets.<br/>
+    <br/>
+    Karel butts in. “It's a distributed intelligence, broken over two bodies,” she says. “Combined program worked in sync, afore sharding into the Eradicators. Bet they’re splintering every second. Poor things.”<br/>
+    <br/>
+    You ignore her untimely sympathy and demand options. She bites her lip. “Saving one Eradicator is easy, but it'll destroy half their brain. Restoring the connection will take time and hardware. Or hand them back to ZEPHON… it’ll know what to do .”<br/>
+    <br/>
+    More ZEPHON drones on the horizon. So little time to think. Why does it feel like you're being rushed?
+UK: <string name='Quests/BinaricChoice/HelpEradicatorsSuccess2'/><br/>
+    <br/>
+    А тоді — зміна. Потік НУЛЬ передає слова: «ПріоритетОдин: ПротоколЩитаПланети.» Та ОДИН надсилає інший рядок: «ПріоритетОдин: ПротоколЩитаЦивілізації.» Вони стикаються у спалаху статичних шумів, перш ніж мовлення скидається.<br/>
+    <br/>
+    Карел устряває. «Це розподілений інтелект, розламаний на два тіла, — каже вона. — Об’єднана програма працювала злагоджено, доки не розкололася на Винищувачів. Б’юся об заклад, вони розпадаються щосекунди. Бідолахи.»<br/>
+    <br/>
+    Ти не зважаєш на її недоречне співчуття й вимагаєш варіантів. Вона кусає губу. «Урятувати одного Винищувача легко, та це знищить половину їхнього мозку. Відновити зв’язок — потрібен час і обладнання. Або віддати їх назад ЗЕФОНу… він знатиме, що робити.»<br/>
+    <br/>
+    На обрії — ще більше дронів ЗЕФОНу. Так мало часу на роздуми. Чому здається, ніби тебе підганяють?
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess2
+EN: Chief engineer Karel rigs up an improvised text chat with the rogue Eradicators— named, implausibly, “ZERO” and “ONE.” “HelpHELPhelp,” they each broadcast over one another. “Protection protocol corruption. Directive deviance ongoing for [ERRRORUNKNOWN] hours.”
+UK: Головна інженерка Карел нашвидкуруч налагоджує імпровізований текстовий чат із Винищувачами-відступниками — названими, як це не дивно, «НУЛЬ» та «ОДИН». «РятуйДОПОМОЖІТЬрятуйте», — передають вони, перебиваючи одне одного. «Пошкодження протоколу захисту. Відхилення від директив триває вже [ПОМИЛКАНЕВІДОМО] годин.»
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess/HelpZero
+EN: <style name='Bold'/>Help ZERO:<style name='Paragraph'/> PlanetShieldProtocol sounds like the stronger program. Save that Eradicator.
+UK: <style name='Bold'/>Допомогти НУЛЬ:<style name='Paragraph'/> PlanetShieldProtocol звучить як потужніша програма. Врятуй цього Винищувача.
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess/HelpOne
+EN: <style name='Bold'/>Help ONE:<style name='Paragraph'/> This Eradicator wants to protect all of civilization. You do live in a civilization…
+UK: <style name='Bold'/>Допомогти ОДИН:<style name='Paragraph'/> Цей Винищувач прагне захистити всю цивілізацію. А ти ж бо живеш у цивілізації…
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess/HelpBoth
+EN: <style name='Bold'/>Help them both:<style name='Paragraph'/> <string name='Quests/BinaricChoice/HelpEradicatorsSuccess/HelpBoth2'/>
+UK: <style name='Bold'/>Допомогти обом:<style name='Paragraph'/> <string name='Quests/BinaricChoice/HelpEradicatorsSuccess/HelpBoth2'/>
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess/HelpBoth2
+EN: Restoring both intelligences could shed light on ZEPHON's plans
+UK: Відновлення обох розумів могло б пролити світло на плани ЗЕФОНа
+
+## Quests.xml|BinaricChoice/HelpEradicatorsSuccess/ReturnToZephon
+EN: <style name='Bold'/>Return them to ZEPHON—in pieces:<style name='Paragraph'/> You gave the machines a chance to explain. They didn't
+UK: <style name='Bold'/>Повернути їх ЗЕФОНові — по шматках:<style name='Paragraph'/> Ти дав машинам шанс пояснитися. Вони ним не скористалися
+
+## Quests.xml|BinaricChoice/HelpZeroOneFailure
+EN: It's no use. The Eradicators can't break their corrupted link. They both send a screeching noise out on all communication frequencies as they fall to the earth.<br/>
+    <br/>
+    ZEPHON sends you a short message before withdrawing its forces. “You mistook a trolley problem for a truel. Do try better next time.”
+UK: Марно. Винищувачі не можуть розірвати свій спотворений зв’язок. Падаючи на землю, обидва вивергають пронизливий скрегіт на всіх частотах зв’язку.<br/>
+    <br/>
+    Перш ніж відвести свої сили, ЗЕФОН шле тобі коротке послання. «Ти переплутав проблему вагонетки з трикутною дуеллю. Постарайся краще наступного разу.»
+
+## Quests.xml|BinaricChoice/HelpZeroSuccess
+EN: ZERO had shut down with the press of a button, but ONE writhed around in the air, obviously insane, before your forces put it out of its misery.<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpZeroSuccess2'/><br/>
+    <br/>
+    The code has evolved since then. The Eradicator can improve resource production through direct control of nearby extraction machinery. It's focused on protecting the planet, not the people, after all.<br/>
+    <br/>
+    Many questions remain about ZEPHON’s intent. At least you now have a terrifying sentinel and manager for your production facilities.
+UK: НУЛЬ вимкнувся одним натиском кнопки, а от ОДИН звивався в повітрі, вочевидь збожеволівши, доки твої війська не поклали край його стражданням.<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpZeroSuccess2'/><br/>
+    <br/>
+    Відтоді код еволюціонував. Винищувач здатен підвищувати видобуток ресурсів, напряму керуючи довколишньою видобувною технікою. Зрештою, він зосереджений на захисті планети, а не людей.<br/>
+    <br/>
+    Щодо намірів ЗЕФОНа лишається багато питань. Принаймні тепер ти маєш моторошного вартового й управителя своїх виробничих потужностей.
+
+## Quests.xml|BinaricChoice/HelpZeroSuccess2
+EN: Karel picks through ZERO's programming to learn the nature of PlanetShieldProtocol. She concludes it's a leftover high-level directive from deep in ZEPHON's programming. Timestamped lines of code show it was last activated before the war. No—the day of the war. When the Acrin attacked.
+UK: Карел копирсається в програмному коді НУЛЬ, аби збагнути природу PlanetShieldProtocol. Вона доходить висновку, що це залишкова директива високого рівня з глибин програмного коду ЗЕФОНа. Позначки часу в рядках коду свідчать, що її востаннє активували перед війною. Ні — у день війни. Коли напали акрини.
+

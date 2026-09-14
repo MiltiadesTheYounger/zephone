@@ -1,0 +1,74 @@
+[
+	{
+		"id": "AI.xml|SyncreticDeva17",
+		"sev": "med",
+		"cat": "typo",
+		"note": "Meslier (Jean Meslier) is Мельє in Ukrainian; «Меньє» is a mistransliteration.",
+		"find": "Меньє",
+		"replace": "Мельє"
+	},
+	{
+		"id": "AI.xml|TwistedMother4",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "«Страдання» is a Russianism; the standard Ukrainian word is «страждання».",
+		"find": "Страдання",
+		"replace": "Страждання"
+	},
+	{
+		"id": "AI.xml|TwistedMother14",
+		"sev": "low",
+		"cat": "term",
+		"note": "Blues and Longing (TwistedMother28) both became «Туга», so the name list has a duplicate.",
+		"find": "Туга",
+		"replace": "Журба"
+	},
+	{
+		"id": "AI.xml|TwistedMother21",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "«Упадок духу» calques Russian «упадок духа»; standard Ukrainian is «занепад духу».",
+		"find": "Упадок",
+		"replace": "Занепад"
+	},
+	{
+		"id": "AI.xml|UntoldProphet12",
+		"sev": "med",
+		"cat": "typo",
+		"note": "Spanish Tomas is Томас; the final «с» is missing.",
+		"find": "Тома",
+		"replace": "Томас"
+	},
+	{
+		"id": "Actions.xml|Assassinate",
+		"sev": "med",
+		"cat": "meaning",
+		"note": "«Жорстоке вбивство» (brutal murder) invents brutality and loses the targeted-killing sense of Assassinate.",
+		"find": "Жорстоке вбивство",
+		"replace": "Ліквідація"
+	},
+	{
+		"id": "Actions.xml|AtramentousAura",
+		"sev": "high",
+		"cat": "meaning",
+		"note": "Atramentous means ink-black, not «чудесна» (wonderful).",
+		"find": "Чудесна",
+		"replace": "Чорнильна"
+	},
+	{
+		"id": "Actions.xml|CarrionGlutProperties",
+		"sev": "high",
+		"cat": "meaning",
+		"note": "UK adds the condition «в області» (in the area), which the EN does not state.",
+		"find": "будь-якого юніта в області",
+		"replace": "будь-якого юніта"
+	},
+	{
+		"id": "Actions.xml|ClearTileDescription",
+		"sev": "med",
+		"cat": "term",
+		"note": "Bleed is «Кровотеча» here but «Теча» in Actions.xml|ConjureBleed; unify to the canonical feature name.",
+		"find": "Кровотечу",
+		"replace": ""
+	}
+]

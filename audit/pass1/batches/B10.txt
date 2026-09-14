@@ -1,0 +1,1022 @@
+# B10: 250 entries from Diplomacy.xml
+
+## Diplomacy.xml|AllianceHint
+EN: Allied players share vision and ability buffs as well as can set tile markers to signal targets. If all remaining players are allied with each other, the game ends with an allied victory.
+UK: Гравці, які уклали союз, діляться оглядом і підсилюючими здібностями, а також можуть позначати клітинки для вказання цілей. Якщо всі гравці, що залишилися, перебувають у союзі один з одним, гра завершується союзною перемогою.
+
+## Diplomacy.xml|AskForSupport
+EN: <style name='Bold'/>Ask for support:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запросити підтримку:<style name='Paragraph'/> 
+
+## Diplomacy.xml|AskForSupportHint
+EN: Spend influence to purchase units from the other party.
+UK: Витратити вплив, щоб отримати юнітів від іншої сторони.
+
+## Diplomacy.xml|CancelAction
+EN: <style name='Bold'/>Cancel action:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Скасувати дію:<style name='Paragraph'/> 
+
+## Diplomacy.xml|Condemn
+EN: <style name='Bold'/>Condemn:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Публічно засудити:<style name='Paragraph'/> 
+
+## Diplomacy.xml|CondemnHint
+EN: Condemn the other party on the public stage.<br/>
+    <br/>
+    Decreases your and your friends' standing with %2%.
+UK: Публічно засудити іншу сторону.<br/>
+    <br/>
+    Погіршує ваші та ваших друзів відносини зі стороною %2%.
+
+## Diplomacy.xml|CondemnResult
+EN: Your standing with %2% and their friends has decreased.
+UK: Ваші відносини зі стороною %2% та її друзями погіршилися.
+
+## Diplomacy.xml|CondemnAllianceResult
+EN: Your standing with %2% has decreased because of your alliance with %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — ваш союз зі стороною %3%.
+
+## Diplomacy.xml|CondemnCityDestructionResult
+EN: Your standing with %2% has decreased because of your involvement in the destruction of %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — ваша участь у знищенні міста %3%.
+
+## Diplomacy.xml|CondemnInterferenceAttemptResult
+EN: Your standing with %2% has decreased because of your discovered interference attempt with %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — ваша спроба маніпуляції зі стороною %3%.
+
+## Diplomacy.xml|CondemnLabelResult
+EN: Your standing with %2% has decreased because of %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — %3%.
+
+## Diplomacy.xml|CondemnTradeAgreementResult
+EN: Your standing with %2% has decreased because of your trade agreement with %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — ваша торговельна угода зі стороною %3%.
+
+## Diplomacy.xml|CondemnWarResult
+EN: Your standing with %2% has decreased because of your war with %3%.
+UK: Ваші відносини зі стороною %2% погіршилися, причина — ваша війна зі стороною %3%.
+
+## Diplomacy.xml|DeclareWar
+EN: <style name='Bold'/>Declare war:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Оголосити війну:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DeclareWarResult
+EN: You are now at war and your standing with %2% has decreased.
+UK: Тепер ви воюєте, ваші відносини зі стороною %2% погіршилися.
+
+## Diplomacy.xml|DecreaseStandingHint
+EN: Decreases your standing with %2%.
+UK: Погіршує ваші відносини зі стороною %2%.
+
+## Diplomacy.xml|DemandAllianceTerminationWithThirdParty
+EN: <style name='Bold'/>Demand alliance termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати розірвати союз з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandAllianceWithThirdParty
+EN: <style name='Bold'/>Demand alliance offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати запропонувати союз третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPaymentForDeal
+EN: <style name='Bold'/>Demand payment for deal:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати компенсацію за угоду:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPaymentForDeal/DemandLowAmount
+EN: <style name='Bold'/>Demand low amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати невелику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPaymentForDeal/DemandMediumAmount
+EN: <style name='Bold'/>Demand medium amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати помірну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPaymentForDeal/DemandHighAmount
+EN: <style name='Bold'/>Demand high amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати велику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPaymentForDeal/DemandMaxAmount
+EN: <style name='Bold'/>Demand maximum amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати максимальну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandPeaceWithThirdParty
+EN: <style name='Bold'/>Demand peace offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати запропонувати мир третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTradeAgreementTerminationWithThirdParty
+EN: <style name='Bold'/>Demand trade agreement termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTradeAgreementWithThirdParty
+EN: <style name='Bold'/>Demand trade agreement offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTribute
+EN: <style name='Bold'/>Demand tribute:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати данину:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTributeHint
+EN: Demand from the other party a percentage of their material resources.<br/>
+    <br/>
+    <string name='Diplomacy/DecreaseStandingHint'/>
+UK: Вимагати від іншої сторони частину їхніх матеріальних ресурсів.<br/>
+    <br/>
+    <string name='Diplomacy/DecreaseStandingHint'/>
+
+## Diplomacy.xml|DemandTribute/DemandLowAmount
+EN: <style name='Bold'/>Demand low amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати невелику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTribute/DemandMediumAmount
+EN: <style name='Bold'/>Demand medium amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати помірну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTribute/DemandHighAmount
+EN: <style name='Bold'/>Demand high amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати велику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTribute/DemandMaxAmount
+EN: <style name='Bold'/>Demand maximum amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати максимальну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandTroopWithdrawal
+EN: <style name='Bold'/>Demand troop withdrawal:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати виведення військ:<style name='Paragraph'/> 
+
+## Diplomacy.xml|DemandWarAgainstThirdParty
+EN: <style name='Bold'/>Demand war declaration against third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Вимагати оголосити війну третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|EndCall/Friendly
+EN: <style name='Bold'/>End call:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Завершити виклик:<style name='Paragraph'/> 
+
+## Diplomacy.xml|IncreaseStandingHint
+EN: Increases your standing with %2%.
+UK: Покращує ваші відносини зі стороною %2%.
+
+## Diplomacy.xml|InstigatedBy
+EN: This action was instigated by %1%.
+UK: Цю дію спровокувала сторона %1%.
+
+## Diplomacy.xml|MajorImpact/Affection
+EN: Their affection for you had a major impact on this decision.
+UK: На це рішення значно вплинула симпатія іншої сторони до вас.
+
+## Diplomacy.xml|MajorImpact/AffectionOpposite
+EN: Their lack of affection for you had a major impact on this decision.
+UK: На це рішення значно вплинуло відсутність симпатії іншої сторони до вас.
+
+## Diplomacy.xml|MajorImpact/Economy
+EN: Your flourishing economy had a major impact on this decision.
+UK: На це рішення значно вплинула ваша процвітаюча економіка.
+
+## Diplomacy.xml|MajorImpact/EconomyOpposite
+EN: Your underperforming economy had a major impact on this decision.
+UK: На це рішення значно вплинула ваша слабка економіка.
+
+## Diplomacy.xml|MajorImpact/ExtortionateNature
+EN: Their extortionate nature had a major impact on this decision.
+UK: На це рішення значно вплинули грабіжницькі нахили іншої сторони.
+
+## Diplomacy.xml|MajorImpact/Generosity
+EN: Their generosity had a major impact on this decision.
+UK: На це рішення значно вплинула щедрість іншої сторони.
+
+## Diplomacy.xml|MajorImpact/Military
+EN: Your powerful military had a major impact on this decision.
+UK: На це рішення значно вплинула ваша потужна армія.
+
+## Diplomacy.xml|MajorImpact/MilitaryOpposite
+EN: Your feeble military had a major impact on this decision.
+UK: На це рішення значно вплинула ваша слабка армія.
+
+## Diplomacy.xml|MajorImpact/Peacefulness
+EN: Their peacefulness had a major impact on this decision.
+UK: На це рішення значно вплинуло миролюбство іншої сторони.
+
+## Diplomacy.xml|MajorImpact/PeacefulnessOpposite
+EN: Their aggressiveness had a major impact on this decision.
+UK: На це рішення значно вплинула агресивність іншої сторони.
+
+## Diplomacy.xml|MajorImpact/PreviousBehavior
+EN: Their previous behavior had a major impact on this decision.
+UK: На це рішення значно вплинули попередні дії іншої сторони.
+
+## Diplomacy.xml|MajorImpact/Standing
+EN: Your high standing had a major impact on this decision.
+UK: На це рішення значно вплинули ваші добрі відносини.
+
+## Diplomacy.xml|MajorImpact/StandingOpposite
+EN: Your low standing had a major impact on this decision.
+UK: На це рішення значно вплинули ваші погані відносини.
+
+## Diplomacy.xml|MajorImpact/TheirWorldKnowledge
+EN: Their limited world knowledge had a major impact on this decision.
+UK: На це рішення значно вплинули обмежені знання іншої сторони про світ.
+
+## Diplomacy.xml|MajorImpact/TheirWorldKnowledgeOpposite
+EN: Their vast world knowledge had a major impact on this decision.
+UK: На це рішення значно вплинули глибокі знання іншої сторони про світ.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyAffection
+EN: Their affection for %3% had a major impact on this decision.
+UK: На це рішення значно вплинула симпатія іншої сторони до сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyAffectionOpposite
+EN: Their lack of affection for %3% had a major impact on this decision.
+UK: На це рішення значно вплинуло відсутність симпатії іншої сторони до сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyEconomy
+EN: The flourishing economy of %3% had a major impact on this decision.
+UK: На це рішення значно вплинула процвітаюча економіка сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyEconomyOpposite
+EN: The underperforming economy of %3% had a major impact on this decision.
+UK: На це рішення значно вплинула слабка економіка сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyMilitary
+EN: The powerful military of %3% had a major impact on this decision.
+UK: На це рішення значно вплинула потужна армія сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyMilitaryOpposite
+EN: The feeble military of %3% had a major impact on this decision.
+UK: На це рішення значно вплинула слабка армія сторони %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyStanding
+EN: The high standing of %3% with them had a major impact on this decision.
+UK: На це рішення значно вплинули добрі відносини іншої сторони зі стороною %3%.
+
+## Diplomacy.xml|MajorImpact/ThirdPartyStandingOpposite
+EN: The low standing of %3% with them had a major impact on this decision.
+UK: На це рішення значно вплинули погані відносини іншої сторони зі стороною %3%.
+
+## Diplomacy.xml|MajorImpact/Trustworthiness
+EN: Their trustworthiness had a major impact on this decision.
+UK: На це рішення значно вплинула надійність іншої сторони.
+
+## Diplomacy.xml|MajorImpact/TrustworthinessOpposite
+EN: Their deceitfulness had a major impact on this decision.
+UK: На це рішення значно вплинула підступність іншої сторони.
+
+## Diplomacy.xml|MajorImpact/YourWorldKnowledge
+EN: Your vast world knowledge had a major impact on this decision.
+UK: На це рішення значно вплинули ваші глибокі знання про світ.
+
+## Diplomacy.xml|MajorImpact/YourWorldKnowledgeOpposite
+EN: Your limited world knowledge had a major impact on this decision.
+UK: На це рішення значно вплинули ваші обмежені знання про світ.
+
+## Diplomacy.xml|MapSharingHint
+EN: Exchanges all explored tiles between the two parties but does not grant vision into them.
+UK: Розкриває обом сторонам усі досліджені ними клітинки, але не надає видимості.
+
+## Diplomacy.xml|OfferAlliance
+EN: <style name='Bold'/>Offer alliance:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати союз:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferGift
+EN: <style name='Bold'/>Offer gift:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати подарунок:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferGiftHint
+EN: Gift the other party a percentage of your material resources.<br/>
+    <br/>
+    <string name='Diplomacy/IncreaseStandingHint'/>
+UK: Подарувати іншій стороні частину ваших матеріальних ресурсів.<br/>
+    <br/>
+    <string name='Diplomacy/IncreaseStandingHint'/>
+
+## Diplomacy.xml|OfferGift/OfferLowAmount
+EN: <style name='Bold'/>Offer low amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати невелику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferGift/OfferMediumAmount
+EN: <style name='Bold'/>Offer medium amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати помірну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferGift/OfferHighAmount
+EN: <style name='Bold'/>Offer high amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати велику кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferGift/OfferMaxAmount
+EN: <style name='Bold'/>Offer max amount:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати максимальну кількість:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferMapSharing
+EN: <style name='Bold'/>Offer map exchange:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати обмін картами:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferPeace
+EN: <style name='Bold'/>Offer peace:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати укласти мир:<style name='Paragraph'/> 
+
+## Diplomacy.xml|OfferTradeAgreement
+EN: <style name='Bold'/>Offer trade agreement:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Запропонувати торговельну угоду:<style name='Paragraph'/>. 
+
+## Diplomacy.xml|PeaceHint
+EN: Two parties with a signed peace treaty cannot attack each other.
+UK: Дві сторони, що уклали мир, не можуть атакувати одна одну.
+
+## Diplomacy.xml|PeaceWith
+EN: <style name='Bold'/>Peace with:<style name='Default'/>
+UK: <style name='Bold'/>Мир з:<style name='Default'/>
+
+## Diplomacy.xml|Praise
+EN: <style name='Bold'/>Praise:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Публічно похвалити:<style name='Paragraph'/> 
+
+## Diplomacy.xml|PraiseHint
+EN: Praise the other party on the public stage.<br/>
+    <br/>
+    Increases your and your friends' standing with %2%.
+UK: Публічно похвалити іншу сторону.<br/>
+    <br/>
+    Покращує ваші та ваших друзів відносини зі стороною %2%.
+
+## Diplomacy.xml|PraiseResult
+EN: Your standing with %2% and their friends has increased.
+UK: Ваші відносини зі стороною %2% та її друзями покращилися.
+
+## Diplomacy.xml|PraiseLabelResult
+EN: Your standing with %2% has increased because of %3%.
+UK: Ваші відносини зі стороною %2% покращилися, причина — %3%.
+
+## Diplomacy.xml|PraiseWarResult
+EN: Your standing with %2% has increased because of your war with %3%.
+UK: Ваші відносини зі стороною %2% покращилися, причина — ваша війна зі стороною %3%.
+
+## Diplomacy.xml|RejectAlliance
+EN: <style name='Bold'/>Reject alliance:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися укласти союз:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectAllianceTerminationWithThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject alliance termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися розірвати союз з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectAllianceTerminationWithThirdParty/RejectParty
+EN: <style name='Bold'/>Reject alliance termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися розірвати союз з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectAllianceWithThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject alliance offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати союз третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectAllianceWithThirdParty/RejectParty
+EN: <style name='Bold'/>Reject alliance offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати союз третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectCall/Friendly
+EN: %1% is busy at the moment and politely excuses themselves.
+UK: %1% зараз зайнятий і ввічливо завершує розмову.
+
+## Diplomacy.xml|RejectCall/Hostile
+EN: %1% is ignoring all communication attempts.
+UK: %1% ігнорує всі спроби комунікації.
+
+## Diplomacy.xml|RejectCall/Neutral
+EN: %1% is currently busy.
+UK: %1% зараз зайнятий.
+
+## Diplomacy.xml|RejectGift/RejectOutright
+EN: <style name='Bold'/>Reject gift:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися прийняти подарунок:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectGift/RejectAmount
+EN: <style name='Bold'/>Reject gift:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися прийняти подарунок:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectMapSharing
+EN: <style name='Bold'/>Reject map exchange:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися обмінятися картами:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectPaymentForDeal/RejectOutright
+EN: <style name='Bold'/>Reject payment for deal:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися від компенсації за угоду:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectPaymentForDeal/RejectAmount
+EN: <style name='Bold'/>Reject payment for deal:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися від компенсації за угоду:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectPeace
+EN: <style name='Bold'/>Reject peace:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися укласти мир:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectPeaceWithThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject peace offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати мир третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectPeaceWithThirdParty/RejectParty
+EN: <style name='Bold'/>Reject peace offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати мир третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTradeAgreement
+EN: <style name='Bold'/>Reject trade agreement:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися укласти торговельну угоду:<style name='Paragraph'/>. 
+
+## Diplomacy.xml|RejectTradeAgreementTerminationWithThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject trade agreement termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTradeAgreementTerminationWithThirdParty/RejectParty
+EN: <style name='Bold'/>Reject trade agreement termination with third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися розірвати торговельну угоду з третьою стороною:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTradeAgreementWithThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject trade agreement offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTradeAgreementWithThirdParty/RejectParty
+EN: <style name='Bold'/>Reject trade agreement offer to third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися запропонувати торговельну угоду третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTribute/RejectOutright
+EN: <style name='Bold'/>Reject paying tribute:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися платити данину:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTribute/RejectOutrightResult
+EN: Your standing with %2% has decreased.
+UK: Ваші відносини зі стороною %2% погіршилися.
+
+## Diplomacy.xml|RejectTribute/RejectAmount
+EN: <style name='Bold'/>Reject paying tribute:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися платити данину:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTroopWithdrawal
+EN: <style name='Bold'/>Reject troop withdrawal:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися вивести війська:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectTroopWithdrawalResult
+EN: Your standing with %2% has decreased.
+UK: Ваші відносини зі стороною %2% погіршилися.
+
+## Diplomacy.xml|RejectWarAgainstThirdParty/RejectOutright
+EN: <style name='Bold'/>Reject war declaration against third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися оголосити війну третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|RejectWarAgainstThirdParty/RejectParty
+EN: <style name='Bold'/>Reject war declaration against third party:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Відмовитися оголосити війну третій стороні:<style name='Paragraph'/> 
+
+## Diplomacy.xml|Relationships
+EN: <style name='Bold'/>Relationships:<style name='Default'/>
+UK: <style name='Bold'/>Відносини:<style name='Default'/>
+
+## Diplomacy.xml|ResourcesDemand
+EN: Demand:
+UK: Їхня вимога:
+
+## Diplomacy.xml|ResourcesOffer
+EN: Offer:
+UK: Їхня пропозиція:
+
+## Diplomacy.xml|ResourcesYours
+EN: Yours:
+UK: Ваші запаси:
+
+## Diplomacy.xml|TerminateAlliance
+EN: <style name='Bold'/>Terminate alliance:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Розірвати союз:<style name='Paragraph'/> 
+
+## Diplomacy.xml|TerminateAllianceResult
+EN: You are no longer in an alliance and your standing with %2% has decreased.
+UK: Вас більше не пов’язує союз, ваші відносини зі стороною %2% погіршилися.
+
+## Diplomacy.xml|TerminateTradeAgreement
+EN: <style name='Bold'/>Terminate trade agreement:<style name='Paragraph'/> 
+UK: <style name='Bold'/>Розірвати торговельну угоду:<style name='Paragraph'/>. 
+
+## Diplomacy.xml|TerminateTradeAgreementResult
+EN: You no longer have a trade agreement and your standing with %2% has decreased.
+UK: Вас більше не пов’язує торговельна угода, ваші відносини зі стороною %2% погіршилися.
+
+## Diplomacy.xml|TradeAgreementHint
+EN: A trade agreement generates resources based on the resource output of the trading partner. Starts out with negative resource generation, but will become positive over time.
+UK: Торговельна угода приносить ресурси залежно від їхнього виробництва торговим партнером. Спочатку приріст ресурсів є від’ємним, але з часом стає позитивним.
+
+## Diplomacy.xml|TradingWith
+EN: <style name='Bold'/>Trading with:<style name='Default'/>
+UK: <style name='Bold'/>Торгівля з:<style name='Default'/>
+
+## Diplomacy.xml|State0
+EN: <style color='GUI/Gray'/>No Contact
+UK: <style color='GUI/Gray'/>Немає контакту
+
+## Diplomacy.xml|State1
+EN: <style color='GUI/Red'/>War
+UK: <style color='GUI/Red'/>Війна
+
+## Diplomacy.xml|State2
+EN: Peace
+UK: Мир
+
+## Diplomacy.xml|State3
+EN: <style color='GUI/Yellow'/>Trade
+UK: <style color='GUI/Yellow'/>Торгівля
+
+## Diplomacy.xml|State4
+EN: <style color='GUI/Turquoise'/>Alliance
+UK: <style color='GUI/Turquoise'/>Союз
+
+## Diplomacy.xml|Standing0
+EN: Furious
+UK: Ненависть
+
+## Diplomacy.xml|Standing1
+EN: Angry
+UK: Невдоволення
+
+## Diplomacy.xml|Standing2
+EN: Reserved
+UK: Стриманість
+
+## Diplomacy.xml|Standing3
+EN: Ambivalent
+UK: Байдужість
+
+## Diplomacy.xml|Standing4
+EN: Cooperative
+UK: Сприяння
+
+## Diplomacy.xml|Standing5
+EN: Friendly
+UK: Дружелюбність
+
+## Diplomacy.xml|Standing6
+EN: Generous
+UK: Великодушність
+
+## Diplomacy.xml|StandingWithYou
+EN: <style name='Bold'/>Standing with you:<style name='Default'/>
+UK: <style name='Bold'/>Ставлення до вас:<style name='Default'/>
+
+## Diplomacy.xml|Untrustworthy
+EN: <style color='GUI/Red'/>You are now considered <string name='Traits/Untrustworthy'/> for %1% turns.<style color='Default'/>
+UK: <style color='GUI/Red'/>Тепер вас вважають <string name='Traits/Untrustworthy'/> протягом %1% ходів.<style color='Default'/>
+
+## Diplomacy.xml|UntrustworthyHint
+EN: <style color='GUI/Red'/>Makes you <string name='Traits/Untrustworthy'/> if executed within the next %1% turns.<style color='Default'/>
+UK: <style color='GUI/Red'/>Надає вам рису <icon texture='Icons/Traits/Untrustworthy' height='20'/><string name='Traits/Untrustworthy'/>, якщо буде виконано протягом наступних %1% год.<style color='Default'/>
+
+## Diplomacy.xml|WaitForResponse
+EN: (Please wait while %1% is considering their options…)
+UK: (Зачекайте, %1% обмірковує всі варіанти...)
+
+## Diplomacy.xml|WarHint
+EN: Two parties at war are able to attack each other.
+UK: Дві сторони, що перебувають у стані війни, можуть атакувати одна одну.
+
+## Diplomacy.xml|WarWith
+EN: <style name='Bold'/>War with:<style name='Default'/>
+UK: <style name='Bold'/>Війна з:<style name='Default'/>
+
+## Diplomacy.xml|Anchorite/AcceptActionCancel
+EN: To have no regrets…
+UK: Не шкодувати...
+
+## Diplomacy.xml|Anchorite/AcceptAlliance
+EN: The gift of a sliver of hope. To find true understanding. To stand by each other. Now, and in the aftermath.
+UK: Дар, проблиск надії. Шукати істинне розуміння. Стояти один за одного. І зараз, і потім.
+
+## Diplomacy.xml|Anchorite/AcceptAllianceTermination
+EN: Time is precious. Inevitable calamity ticks closer to you. To reconcile before an ending.
+UK: Час безцінний. Неминуча катастрофа наближається до тебе. Примиритися перед смертю.
+
+## Diplomacy.xml|Anchorite/AcceptAllianceTerminationWithThirdParty/AcceptParty
+EN: To be weary. To know millennia of duty and of loss. To do what-must-be-done to fulfil end again.
+UK: Втома. Знати тисячоліття служби й втрат. Робити знову те, що необхідно для досягнення мети.
+
+## Diplomacy.xml|Anchorite/AcceptAllianceTerminationWithThirdParty/AskParty
+EN: To sacrifice my homeworld… to do what-must-be-done. To forsake who?
+UK: Жертвувати рідним світом... Робити те, що необхідно. Кого залишити?
+
+## Diplomacy.xml|Anchorite/AcceptAllianceWithThirdParty/AcceptParty
+EN: To trust them with the remnants of the Acrin people.
+UK: Довірити їм тих, хто вижив з акринського народу.
+
+## Diplomacy.xml|Anchorite/AcceptAllianceWithThirdParty/AskParty
+EN: To be reduced to beggars and wanderers… to know who still shelters us?
+UK: Перетворитися на жебраків і блукачів... Дізнатися, хто ще нас прихистить?
+
+## Diplomacy.xml|Anchorite/AcceptCall/Friendly
+EN: To welcome kindred spirits.
+UK: Привітати споріднені душі.
+
+## Diplomacy.xml|Anchorite/AcceptCall/Hostile
+EN: Draws near, time shrinks. To not waste it.
+UK: Час обмежений. Не витрачати його даремно.
+
+## Diplomacy.xml|Anchorite/AcceptCall/Neutral
+EN: To welcome.
+UK: Привітати.
+
+## Diplomacy.xml|Anchorite/AcceptCondemn
+EN: To know that you think I could be otherwise. To feel thankful for that.
+UK: Усвідомлювати, що ти думаєш, що я міг би бути іншим. Відчувати вдячність за це.
+
+## Diplomacy.xml|Anchorite/AcceptGift/AcceptAmount
+EN: To be the remnants of a lost crusade against you. To still help us. To wonder: why Voice thinks humanity evil?
+UK: Ми — залишки програного походу проти вас. Допомагайте нам усе одно. Запитувати: чому Голос вважає людство злом?
+
+## Diplomacy.xml|Anchorite/AcceptGift/AskAmount
+EN: To accept any scrap.
+UK: Приймати будь-яку дрібницю.
+
+## Diplomacy.xml|Anchorite/AcceptMapSharing
+EN: To know, easy. To lack wisdom. though… to be your downfall.
+UK: Знати — легко. Але без мудрості... це буде твоїм крахом.
+
+## Diplomacy.xml|Anchorite/AcceptPaymentForDeal/AcceptAmount
+EN: To one day trust each other freely. To accept, in the knowledge of future amity.
+UK: Довіряти один одному без корисливості. Погоджуватися, думаючи про майбутню взаємність.
+
+## Diplomacy.xml|Anchorite/AcceptPaymentForDeal/AskAmount
+EN: To not expect your trust… to do it to have your cooperation.
+UK: Не чекати твоєї довіри... Робити це, щоб заручитися твоєю підтримкою.
+
+## Diplomacy.xml|Anchorite/AcceptPeace
+EN: To this. To know desire for peace.
+UK: Прагнути миру. Знати прагнення до миру.
+
+## Diplomacy.xml|Anchorite/AcceptPeaceWithThirdParty/AcceptParty
+EN: To accept. To be an arbiter like you…
+UK: Приймати. Бути примирителем, як ти...
+
+## Diplomacy.xml|Anchorite/AcceptPeaceWithThirdParty/AskParty
+EN: To meditate, while you build harmony. To ask… who pities us?
+UK: Розмірковувати, поки ти створюєш гармонію. Запитувати... хто змилується над нами?
+
+## Diplomacy.xml|Anchorite/AcceptPraise
+EN: To know vindication in the words of another.
+UK: Знати виправдання у словах інших.
+
+## Diplomacy.xml|Anchorite/AcceptSupport/AcceptType
+EN: To be acceptable. To bless also.
+UK: Вважати прийнятним. Благословити також.
+
+## Diplomacy.xml|Anchorite/AcceptSupport/AskType
+EN: To know what. Why. Who for.
+UK: Дізнатися, що. Чому. Для кого.
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreement
+EN: To thank you. To know the Acrin have little. To give you past millennia of gratitude.
+UK: Дякувати тобі. Знати, що в акринів залишилося небагато. Віддати тобі тисячоліття вдячності.
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreementTermination
+EN: To only know your charity for so long. To thank you for helping Acrin people recover.
+UK: Шкодувати про недовговічність твоєї милості. Дякувати тобі за допомогу у відновленні акринського народу.
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty
+EN: To not understand; to accept wisdom. To thank you.
+UK: Не розуміти. Приймати мудрість. Дякувати тобі.
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreementTerminationWithThirdParty/AskParty
+EN: To hesitate, every voice must at least be heard. To know who is… alienated?
+UK: Сумніватися, кожен голос має бути почутий. Дізнатися, хто... відкидається?
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreementWithThirdParty/AcceptParty
+EN: To be accepted, we who failed to exterminate them…? To gladly welcome them.
+UK: Бути прийнятими — нам, тим, кому не вдалося їх знищити?.. Привітати їх з радістю.
+
+## Diplomacy.xml|Anchorite/AcceptTradeAgreementWithThirdParty/AskParty
+EN: To know Acrin brought down by war… to hope to be saved by trade. To know who might exchange with us?
+UK: Знати, що акрини впали через війну... Сподіватися, що торгівля допоможе врятуватися. Дізнатися, хто буде обмінюватися з нами?
+
+## Diplomacy.xml|Anchorite/AcceptTribute/AcceptAmount
+EN: To call it fair. To not balance what my people take from you, this world.
+UK: Вважати це справедливим. Не зрівноважити те, що мій народ забрав у вас, у цього світу.
+
+## Diplomacy.xml|Anchorite/AcceptTribute/AskAmount
+EN: To have nothing… to suppose it’s the same for you. To know amount you are asking?
+UK: Не мати нічого... Вважати, що й ти також. Дізнатися кількість, яку ти просиш?
+
+## Diplomacy.xml|Anchorite/AcceptTroopWithdrawal
+EN: To not be alarmed, to have recalled them. The survivors of my people, to be searching for a better way.
+UK: Не бути попередженим, відкликати їх. Ті, хто вижив з мого народу, шукають кращої долі.
+
+## Diplomacy.xml|Anchorite/AcceptWar
+EN: To have hoped for the discovery of a peaceful path… but the universe hangs in the balance and so the Acrin fight.
+UK: Сподіватися знайти шлях до миру... Але всесвіт висить на волосині, тому акрини борються.
+
+## Diplomacy.xml|Anchorite/AcceptWarAgainstThirdParty/AcceptParty
+EN: To have not forgotten why this is our destination, this, your Earth. To have hope for a different future, you and I must complete our grim quest.
+UK: Не забувати, чому це наша кінцева мета — ваша Земля. Щоб сподіватися на інше майбутнє, ми з тобою повинні завершити наше похмуре призначення.
+
+## Diplomacy.xml|Anchorite/AcceptWarAgainstThirdParty/AskParty
+EN: To yearn for peace. Yet the prophesied threat is never dealth with. To know who, or what, it is…
+UK: Жадати миру. І все ж загроза з пророцтва не зникла. Дізнатися, хто це або що це?..
+
+## Diplomacy.xml|Anchorite/AdmitDefeat
+EN: To have spent a lifetime studying desert mysteries. To have understood eternal life, power. To have followed a voice across the stars. To have dismantled our lives, our civilisation. To have traveled for eons. To this, this degraded end. To accept this ending with grace and bliss. To thank you.
+UK: Прожити ціле життя, вивчаючи загадки пустелі. Пізнати вічне життя, силу. Слідувати голосу, що прийшов із зірок. Відмовитися від усього нашого життя, нашої цивілізації. Подорожувати цілу вічність. Сюди, до такого жалюгідного кінця. Прийняти цей кінець з гідністю та смиренням. Дякувати тобі.
+
+## Diplomacy.xml|Anchorite/AskForProposals
+EN: Lifetimes, waited. Answers, now.
+UK: Довгі життя в очікуванні. Відповіді — тепер.
+
+## Diplomacy.xml|Anchorite/CancelAction
+EN: To need a moment… to compose oneself…
+UK: Потребувати миті... Зібратися з думками...
+
+## Diplomacy.xml|Anchorite/Condemn
+EN: To worry at the path you must walk. To such dark lands.
+UK: Хвилюватися через шлях, яким ти маєш йти. До таких темних земель.
+
+## Diplomacy.xml|Anchorite/Condemn/AgelessHunger
+EN: To know that death follows you. To know that you could end it yourself.
+UK: Знати, що смерть слідує за тобою. Знати, що ти можеш покінчити з цим сам.
+
+## Diplomacy.xml|Anchorite/Condemn/Gluttony
+EN: To understand the motive. The concentration of joy rather than the mitigation of misery. But to disagree with the moral and the result.
+UK: Розуміти спонукання. Зосередження на радості, а не на полегшенні страждань. Не погоджуватися, втім, з мораллю та наслідками.
+
+## Diplomacy.xml|Anchorite/Condemn/Immoral
+EN: To know morality, to know suffering, to continue anyway. To see evil in one such as you, even in the absence of true justice.
+UK: Знати мораль, знати страждання, продовжувати все одно. Бачити зло в таких, як ти, навіть без справжнього правосуддя.
+
+## Diplomacy.xml|Anchorite/Condemn/InhumanKindness
+EN: To know temptation, to sup nectar from its palms. To twist, to change, to alter. To not-die, to unbecome. To never travel that path again.
+UK: Знати спокусу, випити нектар з його долонь. Спотворити, змінити, перетворити. Не померти, не зникнути. Ніколи більше не ступати на цей шлях.
+
+## Diplomacy.xml|Anchorite/Condemn/Untrustworthy
+EN: To see all lies and truths repeated in the cycle of history, of endless rebirth. To see the damage deception does to the spirit beneath.
+UK: Бачити, як усі неправди й правди повторюються в коловороті історії, в нескінченному відродженні. Бачити, яку шкоду обман завдає духу всередині.
+
+## Diplomacy.xml|Anchorite/CondemnAlliance
+EN: To praise peace… to condemn %3%. To know the wheel will turn again.
+UK: Прославляти мир... Засуджувати того, хто %3%. Знати, що колесо повернеться знову.
+
+## Diplomacy.xml|Anchorite/CondemnCityDestruction
+EN: To know that few survived our fall. That %3% was the last refuge for many of our kind. To know the suffering they suffered. To strive to be beyond hate, hate of you, our monstrous alien foe.
+UK: Знати, що лише небагато пережили наше падіння. Місце, яке %3%, було останнім прихистком для багатьох з нашого роду. Знати їхні страждання. Прагнути бути понад ненавистю — ненавистю до тебе, нашого жахливого інопланетного ворога.
+
+## Diplomacy.xml|Anchorite/CondemnInterferenceAttempt
+EN: To know your betrayal before you do. To set in place the mitigations. To sometimes allow it.
+UK: Знати твою підступність ще раніше за тебе. Вживати заходів, щоб її пом’якшити. Іноді дозволяти їй бути.
+
+## Diplomacy.xml|Anchorite/CondemnTradeAgreement
+EN: To be beyond materialism, possession. To yet fear the strengthening of %3%. To catastrophise.
+UK: Бути понад матеріалізмом, накопиченням. Та все ж боятися, що %3% набере силу. Готуватися до найгіршого.
+
+## Diplomacy.xml|Anchorite/CondemnWar
+EN: To wonder at the waste of life. To see the smallness of %3%'s lifeline. To weep for what might have been.
+UK: Замислюватися над знищенням життя. Бачити нікчемність того, хто %3%. Оплакувати те, що могло би бути.
+
+## Diplomacy.xml|Anchorite/DeclareWar/Anchorite
+EN: To see but one route for us both.
+UK: Щоб побачити лише один шлях для нас обох.
+
+## Diplomacy.xml|Anchorite/DeclareWar/EmulatedMind
+EN: To be fascinated. To wonder what it is like, in there, like the Great Enemy. To know that the chance of infection is too high. To purge.
+UK: Дивуватися. Замислюватися, що ховається там, всередині, в подобі Великого Ворога. Знати, що ймовірність зараження надто висока. Боротися з вірусом.
+
+## Diplomacy.xml|Anchorite/DeclareWar/FallenSoldier
+EN: To not know death. To have lived too long. Yet to have never died. To wonder at death, at its regularity with you. To fear that one must inflict this again, anyway.
+UK: Не знати смерті. Жити надто довго. Не помирати жодного разу. Замислюватися про смерть, про її постійність поруч. Боятися, що знову доведеться її спричинити.
+
+## Diplomacy.xml|Anchorite/DeclareWar/FurtiveTribunal
+EN: To worry. The voice, mingled with the people of this realm. To see its allure, to know its call. To fear what one might become. To hope, three may join with another, with the great one. To know war, against the day.
+UK: Тривожитися. Голос, що злився з народом цього світу. Розуміти його привабливість, знати його поклик. Боятися того, чим можна стати. Сподіватися, що троє можуть об’єднатися, з’єднатися з великим. Знати війну — на випередження.
+
+## Diplomacy.xml|Anchorite/DeclareWar/HeartlessArtificer
+EN: To abhor thee. To know no solace in your empty heart. To know you are essential, even so, to what must come. To fear that, in the absence of fulfillment, you must be removed.
+UK: Ненавидіти тебе. Не знати втіхи в твоєму порожньому серці. Знати, що навіть так ти важлива для того, що гряде. Боятися, що без реалізації ти маєш бути ліквідована.
+
+## Diplomacy.xml|Anchorite/DeclareWar/HollowWarlord
+EN: To admire your commitment to the present. To abhor the present you are creating. To know, for all who live in this space, you must be removed.
+UK: Захоплюватися твоєю відданістю теперішньому. Ненавидіти теперішнє, яке ти створюєш. Знати, що заради всіх, хто населяє це місце, ти маєш бути усунений.
+
+## Diplomacy.xml|Anchorite/DeclareWar/HonorableAristocrat
+EN: To see your network, your connections. To know that is your value, your richness—not your wealth, not the transient taste of delicacies. To act now, in case your part is not yet fulfilled and you are threat.
+UK: Бачити твої мережі, твої зв’язки. Знати, що в цьому твоя цінність, твоє багатство — не в розкоші, не в минущому смаку делікатесів. Діяти зараз, на випадок якщо твоя частина ще не реалізована і ти становиш загрозу.
+
+## Diplomacy.xml|Anchorite/DeclareWar/ImperiousExonaut
+EN: To feel your enmity as it resonates forwards and backwards. To know what must be done.
+UK: Щоб відчути твою ворожість, як вона відлунює вперед і назад крізь час. Щоб збагнути, що має статися.
+
+## Diplomacy.xml|Anchorite/DeclareWar/InfiniteCount
+EN: To regret your tangle. To know that disentanglement is not for one such as I. To resort to the Alexandrian technique. To cut.
+UK: Шкодувати про твою заплутаність. Знати, що розплутування — не для таких, як я. Вдатися до олександрійської техніки. Розрубати.
+
+## Diplomacy.xml|Anchorite/DeclareWar/PlatinumScion
+EN: To pity. To know however the value of the essence. The refusal to grow. To know IT loves you for that. To wonder if jealousy drives my action?
+UK: Співчувати. Але знати цінність сутності. Відмову рости. Знати, що ВОНО любить тебе за це. Чи ревнощі керують моїми діями?
+
+## Diplomacy.xml|Anchorite/DeclareWar/PracticalRomantic
+EN: To call you the heart. To fear your resilience should you fail. Essential to what must come, as are all. To bring together. To act against you now, against the day.
+UK: Називати тебе серцем. Боятися твоєї рішучості у разі твого падіння. Як і всі, ти необхідний для того, що гряде. Збиратися разом. Діяти нині проти тебе — на випередження.
+
+## Diplomacy.xml|Anchorite/DeclareWar/RogueOperative
+EN: To accept the humor. To think your skills might be considered advanced. To mock with gentle laughter. To know your value is in your hidden self. To act now, to cut off the chance of failure.
+UK: Розуміти іронію. Думати, що твої навички можна вважати передовими. Дражнити з легкою усмішкою. Знати, що твоя цінність прихована всередині тебе. Діяти зараз, відрізати шанс на невдачу.
+
+## Diplomacy.xml|Anchorite/DeclareWar/SyncreticDeva
+EN: To see your truth. To love you for it. To know that this is beyond you and I. To beg forgiveness in this endless moment.
+UK: Щоб побачити твою істину. Щоб полюбити тебе за неї. Щоб усвідомити, що це понад нас із тобою. Щоб благати прощення в цій нескінченній миті.
+
+## Diplomacy.xml|Anchorite/DeclareWar/TwistedMother
+EN: To look at the failure of my people. To see the death of our religion. To hear the cries of wasted life. To know it all in you!
+UK: Дивитися на крах мого народу. Бачити смерть наших вірувань. Чути крики загубленого життя. Пізнавати все це в тобі!
+
+## Diplomacy.xml|Anchorite/DeclareWar/UntoldProphet
+EN: To see your wisdom, when you do not. To fear your delusions. To need the former, for what must come, but fear the latter. To act, against the day.
+UK: Бачити твою мудрість, коли ти її не бачиш. Боятися твоїх омани. Потребувати першого для того, що гряде, але боятися другого. Діяти на випередження.
+
+## Diplomacy.xml|Anchorite/DeclareWar/Zephon
+EN: To express relief. To know, one way or another, rest.
+UK: Відчувати полегшення. Отримувати, так чи інакше, заспокоєння.
+
+## Diplomacy.xml|Anchorite/DemandAllianceTerminationWithThirdParty
+EN: Strife… chaos… to denounce those who promote acrimony?
+UK: Ворожнеча... хаос... Відкинути тих, хто заохочує злобу?
+
+## Diplomacy.xml|Anchorite/DemandAllianceWithThirdParty
+EN: To see bickering over factions, sides; yet the great threat looms still over us all… to know the peril should we all not band together to defeat it?
+UK: Бачити чвари між групами, сторонами. І все ж велика загроза досі нависає над усіма... Знати небезпеку, якщо ми не об’єднаємося для перемоги над нею?
+
+## Diplomacy.xml|Anchorite/DemandPaymentForDeal
+EN: To know my people, the Acrin will gladly assist. But we are sadly ill-equipped.
+UK: Знати, що мій народ, акрини, буде радий допомогти. Але, на жаль, ми погано підготовлені.
+
+## Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandHighAmount
+EN: To require much convincing.
+UK: Потребувати переконливих аргументів.
+
+## Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandLowAmount
+EN: To ask a pittance, to survive.
+UK: Просити найменше — заради виживання.
+
+## Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandMaxAmount
+EN: To ask for all, all that you have.
+UK: Просити все, що маєш.
+
+## Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandMediumAmount
+EN: To ask you to share. To split what you have with us.
+UK: Просити поділитися. Розділити з нами те, що маєш.
+
+## Diplomacy.xml|Anchorite/DemandPeaceWithThirdParty
+EN: Far from our world, to demand things is unwise—yet peace serves all, men and Acrin.
+UK: Вимагати щось далеко від нашого світу — не мудро. І все ж мир служить усім — людям і акринам.
+
+## Diplomacy.xml|Anchorite/DemandTradeAgreementTerminationWithThirdParty
+EN: To know you are better than this. To sup with the foes of all, to break bread.
+UK: Знати, що ти кращий за це. Вечеряти з ворогами, ділити хліб.
+
+## Diplomacy.xml|Anchorite/DemandTradeAgreementWithThirdParty
+EN: To share what you have with another will multiply it. Not ancient wisdom, present practicality.
+UK: Ділитися з іншими тим, що маєш — означає примножувати це. Не давня мудрість — сучасна практичність.
+
+## Diplomacy.xml|Anchorite/DemandTribute
+EN: To think that I am worthy of something—some sign of esteem.
+UK: Думати, що я заслуговую на щось — якийсь знак поваги.
+
+## Diplomacy.xml|Anchorite/DemandTribute/DemandHighAmount
+EN: In your eyes, to suspect that I am highly valued.
+UK: Підозрювати, що я високо цінуюсь у твоїх очах.
+
+## Diplomacy.xml|Anchorite/DemandTribute/DemandLowAmount
+EN: To know that I am but a small of your view of this world and to be accomodated commensurately.
+UK: Знати, що я лише піщинка у твоєму світі, і просити відповідну винагороду.
+
+## Diplomacy.xml|Anchorite/DemandTribute/DemandMaxAmount
+EN: To give up all you have, so you are like I was, in the desert with naught.
+UK: Віддати все, що маєш, щоб стати тим, ким я був колись — у пустелі, не маючи нічого.
+
+## Diplomacy.xml|Anchorite/DemandTribute/DemandMediumAmount
+EN: To share with me your wealth exactly. To show our equality.
+UK: Поділитися своїми багатствами зі мною порівну. Показати наше рівність.
+
+## Diplomacy.xml|Anchorite/DemandTroopWithdrawal
+EN: To know our presence is abhorrent. To request your armies fall back from our small holdings.
+UK: Знати, що терпіти нас нестерпно. Запропонувати, щоб твої війська залишили наші скромні володіння.
+
+## Diplomacy.xml|Anchorite/DemandWarAgainstThirdParty
+EN: There is one—one who is inimical to what must come. Do what you must against them.
+UK: Є хтось, хто ворожий до всього грядущого. Робити те, що необхідно — проти нього.
+
+## Diplomacy.xml|Anchorite/EndCall/Friendly
+EN: To perish… I know you are responsible for the future of my people.
+UK: Зникати... Я знаю, що на тебе спирається майбутнє мого народу.
+
+## Diplomacy.xml|Anchorite/EndCall/Hostile
+EN: To take care of the path you tread. The Acrin people were ruined by conceit.
+UK: Пильно стежити за обраним шляхом. Акринський народ загинув через марнославство.
+
+## Diplomacy.xml|Anchorite/EndCall/Neutral
+EN: To never forget—a grave threat grew on this planet, to call Acrin across time and space to fail to prevent it.
+UK: Завжди пам’ятати — на цій планеті виросла велика загроза, що кличе акринів крізь час і простір, щоб її зупинити.
+
+## Diplomacy.xml|Anchorite/FirstContact
+EN: Merciful potentate… War divides us, yes, but to beg a moment.<br/>
+    <br/>
+    To be the eldest remaining of Acrin. To follow prophecy and bring cleansing torch to your world. To all life remains the threat. To know our failure. To now face extinction.
+UK: Милостивий намісник... Війна розділяє нас, так, але прошу миті часу.<br/>
+    <br/>
+    Я — найстарший серед живих акринів. Слідую пророцтву і несу очищувальний факел у ваш світ. Я — загроза всьому живому. Знаю нашу поразку. Стою тепер на порозі вимирання.
+
+## Diplomacy.xml|Anchorite/OfferAlliance
+EN: To live for longer than your race… yet to still admire you. To hope we build this world together, anew.
+UK: Жити довше, ніж ваша раса... І все одно захоплюватися вами. Сподіватися, що ми відновимо цей світ разом.
+
+## Diplomacy.xml|Anchorite/OfferGift
+EN: The Acrin people are close to annihilation… yet to help, we still wish.
+UK: Акринський народ близький до зникнення... Але ми все одно прагнемо допомогти.
+
+## Diplomacy.xml|Anchorite/OfferGift/OfferHighAmount
+EN: To know this gift is much… but to not prioritize our survival over the universe.
+UK: Знати, що це великий дар... Але не ставити наше виживання вище за всесвіт.
+
+## Diplomacy.xml|Anchorite/OfferGift/OfferLowAmount
+EN: This, all to gather together. To hope it is enough.
+UK: Зібрати все, що вдалося. Сподіватися, що цього вистачить.
+
+## Diplomacy.xml|Anchorite/OfferGift/OfferMaxAmount
+EN: To give all. To know that not enough to alter our mistakes or atone.
+UK: Віддати все. Знати, що цього недостатньо, щоб виправити чи спокутувати наші помилки.
+
+## Diplomacy.xml|Anchorite/OfferGift/OfferMediumAmount
+EN: To give more, to you… the successor to our purpose.
+UK: Віддати більше тобі... спадкоємцю нашого призначення.
+
+## Diplomacy.xml|Anchorite/OfferMapSharing
+EN: To wander scouts far and wide, knowing the hidden menace. To help us examine their findings?
+UK: Відправляти розвідників далеко і широко, щоб виявити приховану загрозу. Допоможеш нам дослідити їхні знахідки?
+
+## Diplomacy.xml|Anchorite/OfferPeace
+EN: To beg you! To settle our conflict and to focus on the real adversary!
+UK: Благаю тебе! Виріши наш конфлікт і зверни увагу на справжнього ворога!
+
+## Diplomacy.xml|Anchorite/OfferPeace/EmulatedMind
+EN: You are not like the others, not judgemental. To recognise your difference, first step to recognise your place in world. I to help.
+UK: Ти не схожий на інших, не засуджуєш. Усвідомити твою відмінність — перший крок до розуміння твого місця у світі. Я — прагну допомогти.
+
+## Diplomacy.xml|Anchorite/OfferPeace/FallenSoldier
+EN: To know your suffering, for you people—to worry for my own. To beg for calm.
+UK: Знати, що ти страждаєш заради свого народу — турбуватися про свій. Благаю зупинитися.
+
+## Diplomacy.xml|Anchorite/OfferPeace/FurtiveTribunal
+EN: You do not need condemnation. To need healing. To know the Voice turns the mind inward and changes the body in its absence. I see the marks—let us be at peace, so I can help.
+UK: Не потребувати осуду. Потребувати зцілення. Знати, що Голос звертає розум всередину і змінює тіло в його відсутності. Я бачу сліди — нехай настане мир, щоб я міг допомогти.
+
+## Diplomacy.xml|Anchorite/OfferPeace/HeartlessArtificer
+EN: To tempt with wisdom. The soft caves of my youth were sculpted so by winds from the desert, bearing sharp sand. You, to appreciate the forms, the texture.
+UK: Спокушати мудрістю. Мої юнацькі мрії були витесані вітрами пустелі, що несли гострий пісок. Ти — цінуєш форму, відчуття.
+
+## Diplomacy.xml|Anchorite/OfferPeace/HollowWarlord
+EN: To see when a request is futile. To make it anyway.
+UK: Бачити марність прохання. Просити все одно.
+
+## Diplomacy.xml|Anchorite/OfferPeace/HonorableAristocrat
+EN: To be part of your network, rather than on the outside dying of hunger. To hope you could consider peace.
+UK: Щоб стати частиною твоєї мережі, а не вмирати з голоду назовні. Щоб сподіватися, що ти зважишся на мир.
+
+## Diplomacy.xml|Anchorite/OfferPeace/ImperiousExonaut
+EN: To see the cycle of the stars. To reach the same place again, as in an orbit. To tire of the cycle.
+UK: Щоб побачити коловорот зірок. Щоб знову дійти до того самого місця, наче по орбіті. Щоб втомитися від цього кола.
+
+## Diplomacy.xml|Anchorite/OfferPeace/InfiniteCount
+EN: To see our world through the same eyes. To hope for the best. To choose to work for it.
+UK: Бачити наш світ однаковими очима. Сподіватися на краще. Обрати працювати заради цього.
+
+## Diplomacy.xml|Anchorite/OfferPeace/PlatinumScion
+EN: To know contempt for avarice. But to forgive, knowing greed desires property rights and peace is but a step from that.
+UK: Знати презирство до жадібності. Але прощати, знаючи, що жадібність бажає прав власності, а мир — лише крок від цього.
+
+## Diplomacy.xml|Anchorite/OfferPeace/PracticalRomantic
+EN: To dream, yes, to dream. But the world is what it is, goes where it must. Peace is in the plan.
+UK: Мріяти, так, мріяти. Але світ такий, яким він є, іде до того, що його чекає. Мир — частина плану.
+
+## Diplomacy.xml|Anchorite/OfferPeace/RogueOperative
+EN: To want nothing you have. To have so little ourself. To muse… perhaps your wars will be confined to the rich, the powerful?
+UK: Не бажати нічого з того, чим ти володієш. Самому мати так мало. Замислитися... Можливо, ти залишиш війни для багатих і впливових?
+
+## Diplomacy.xml|Anchorite/OfferPeace/SyncreticDeva
+EN: To be thankful for your charity. To be hopeful for your forbearance.
+UK: Щоб бути вдячним за твоє милосердя. Щоб плекати надію на твою поблажливість.
+
+## Diplomacy.xml|Anchorite/OfferPeace/TwistedMother
+EN: To pity you. To give you time to reflect.
+UK: Шкодувати тебе. Дати тобі час на усвідомлення.
+
+## Diplomacy.xml|Anchorite/OfferPeace/UntoldProphet
+EN: At long last. One way or another, I will finally rest.
+UK: Нарешті. Так чи інакше, я знайду довгоочікуваний спокій.
+
+## Diplomacy.xml|Anchorite/OfferTradeAgreement
+EN: Help us rebuild, and we will prove our value to you.
+UK: Допоможи нам відновитися, і ми доведемо тобі свою цінність.
+
+## Diplomacy.xml|Anchorite/Praise
+EN: To know the value of a good act. To know when to praise it.
+UK: Знати цінність доброго вчинку. Знати, коли його похвалити.
+
+## Diplomacy.xml|Anchorite/Praise/AnchoriteStanding
+EN: To send heralds, gifts. To be satisified with the trial's completion. To love beyond time and space.
+UK: Відправляти посланців, дари. Радіти проходженню випробування. Любити поза часом і простором.
+
+## Diplomacy.xml|Anchorite/Praise/HiddenWisdom
+EN: To know the past in such depth. To present it sometimes, as a gift.
+UK: Знати минуле так глибоко. І часом дарувати його, наче подарунок.
+
+## Diplomacy.xml|Anchorite/Praise/Mysticism
+EN: To be a believer, to be wise. To not believe too hard, wiser still.
+UK: Бути віруючим, бути мудрим. Не вірити настільки сильно — ще мудріше.
+

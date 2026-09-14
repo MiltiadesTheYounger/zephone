@@ -1,0 +1,370 @@
+# B35: 46 entries from Quests.xml
+
+## Quests.xml|ChildOfTheNewWorld/LocatePassageSuccess
+EN: The Anchorite was holding out on you. All this time it had a passageway back to the fleet, and it used it for paltry scavenging. The fool.<br/>
+    <br/>
+    Your scouts find a young Acrin child hiding under the bodies of two human protectors. He's brought to the Augur at the base of The Garcic Passage. The Acrin warlord makes a great hissing noise when he sees the boy.<br/>
+    <br/>
+    “To explain that the Anchorite lied to you,” he explains to the child. “To tell you you are the descendant of an empire that crossed the stars.”<br/>
+    <br/>
+    “To bless you again, with the whisper of the Voice.”<br/>
+    <br/>
+    He leans in and speaks directly into the child's ear. The young Acrin seizes up. It tries to pull away from the Twisted Augur, but the older Acrin's grip is so tight that your scouts hear the Acrin child's bones begin to crack.<br/>
+    <br/>
+    The child's eyes glaze over. The Garcic passage begins to tremble with energy. As the Augur's whispers become a ferocious scream, the power of the Voice courses through the child and into the portal. Its color changes and reveals a passage to a ruined Acrin ship, hanging in orbit…<br/>
+    <br/>
+    “To gloat,” the Augur says. “To claim victory over this world—and others to come.” He steps through the Passage, the child at his side, and his forces soon marching behind him.<br/>
+    <br/>
+    There's a distant figure on the cliffs—the Anchorite. The old fool can't help but look on in despair. You watch with satisfaction. You have served the Voice well this day.
+UK: Анахорет водив тебе за ніс. Увесь цей час у нього був спосіб повернутися до флоту, але він скористався ним, щоб копирсатися в мотлосі. Який дурень.<br/>
+    <br/>
+    Твої розвідники знаходять дитину-акрина, що ховається під мертвими тілами двох людських опікунів. Його приводять до Гарсикського проходу, де вже чекає Авгур. Акринський провідник голосно шипить, побачивши хлопчика.<br/>
+    <br/>
+    «Пояснити, що Анахорет тобі брехав», — звертається він до дитини. — «Сказати тобі, що ти — нащадок імперії, яка перетинала зорі».<br/>
+    <br/>
+    «Благословити тебе знову шепотом Голосу».<br/>
+    <br/>
+    Він нахиляється ближче до дитини й говорить йому просто на вухо. Маленький акрин здригається. Він намагається відсторонитися від Скверного Авгура, але старий так міцно вчепився в нього, що твої розвідники чують, як хрумтять кістки.<br/>
+    <br/>
+    Очі хлопчика скляніють. Гарсикський прохід починає наповнюватися енергією. Коли шепіт Авгура переходить у оглушливий крик, сила Голосу проходить крізь дитину — всередину порталу. Той змінює колір і відкриває шлях до уламків акринського корабля, що завис на орбіті...<br/>
+    <br/>
+    «Ликувати», — злорадно каже Авгур. — «Проголошувати тріумф над цим світом — і всіма прийдешніми». Він заходить у прохід разом із дитиною, за ним слідують його війська.<br/>
+    <br/>
+    Удалині, на скелях, видніється постать — Анахорет. Старий дурень може лише дивитися з розпачем. Ти спостерігаєш за цим із задоволенням. Сьогодні ти чудово послужив Голосу.
+
+## Quests.xml|CircusCambion
+EN: Circus Cambion
+UK: Цирк «Камбіон»
+
+## Quests.xml|CircusCambion/Intro
+EN: The clowns have come marching in. And not the usual foolish Reavers and Busters throwing themselves against your base's defenses. To everyone’s surprise, one morning your guards find a freakish circus tent outside your city walls.<br/>
+    <br/>
+    Your soldiers storm out of the gate and are greeted by what must be the Ringmaster. “Hello hello hello!” he shouts. “So good to lay eyes on you—or, wait, have we connected on this run yet?” He gestures to the display behind him. “As always the indomitable cast of Circus Cambion is here to put on one HELL of a show. Sure to devastate and inspire your people in these dark times.”<br/>
+    <br/>
+    The Ringmaster coughs and holds out a scarred hand. “Of course, if you want to see a bona fide Circus Cambion spectacle, we will require compensation…”
+UK: До міста наближаються клоуни. І це не звичні безмозкі Спустошувачі з їхніми підривниками, що кидаються на оборонні системи бази. На загальний подив, одного прекрасного ранку охорона виявляє під стінами міста химерний цирковий шатро.<br/>
+    <br/>
+    Твої солдати вилітають із воріт, і їх вітає, ймовірно, господар манежу. «Здрастуйте-здрастуйте-здрастуйте!» — вигукує він. — «Так радий вас бачити... А, зачекайте, ми вже заскакували до вас у цьому заїзді?» Він тицяє в вивіску за своєю спиною. «Як завжди, невгамовна трупа цирку Камбіон прибула, щоб влаштувати ГРАНДІОЗНЕ шоу! Ваші люди відчують усю гаму емоцій, так необхідну їм у ці важкі часи».<br/>
+    <br/>
+    Господар манежу прокашлюється й простягає вкриту шрамами руку. «Звісно, якщо ви бажаєте побачити справжню виставу цирку Камбіон, нам знадобиться компенсація...»
+
+## Quests.xml|CircusCambion/Intro/WelcomeCircus
+EN: <style name='Bold'/>Welcome the circus:<style name='Paragraph'/> A bit of fun is worth the price… and what harm could a circus do?
+UK: <style name='Bold'/>Привітати цирк:<style name='Paragraph'/> Трохи веселощів того варте. Та й зрештою — який від цирку може бути шкода?
+
+## Quests.xml|CircusCambion/Intro/TakeYourCut
+EN: <style name='Bold'/>Raid their coffers:<style name='Paragraph'/> Someone will rob these clowns on the road. May as well be you.
+UK: <style name='Bold'/>Розграбувати їхні пожитки:<style name='Paragraph'/> Цих ряжених скоморохів хтось обов’язково обкраде. Чому б не ти?
+
+## Quests.xml|CircusCambion/Intro/ShooThemAway
+EN: <style name='Bold'/>Send the circus freaks away:<style name='Paragraph'/> Food is tight. Hopefully they'll understand.
+UK: <style name='Bold'/>Вигнати циркових потвор:<style name='Paragraph'/> Їжа не безкінечна. Вони мають увійти в становище.
+
+## Quests.xml|CircusCambion/FortuneTelling2
+EN: More cards drawn. He'al Xof shares her wisdom. The Ringmaster laughs when the last card is revealed—Justice, reversed. “Ill fortune! Complications in business matters with that confounding Concordat.” Now the crowd groans—in despair at the idea of increased prices.
+UK: Більше карт. Хе’ал Зоф ділиться своєю мудрістю. Господар манежу сміється, коли з’являється остання карта — Правосуддя. Вона перевернута. «Яке невезіння! Ускладнення в справах із цим суперечливим Конкордатом». Тепер натовп стогне в розпачі від думки про підвищення цін.
+
+## Quests.xml|CircusCambion/FortuneTelling
+EN: “Hear ye, hear ye!” the Ringmaster roars to the gathered crowd, guiding their attention to a hooded woman seated at a desk in the center of the circus ring. “Today the Great Seer He'al Xof will pluck the threads of fate bound to your dear leader and dispense their fortune from her deck of destiny.”<br/>
+    <br/>
+    The crowd goes still. She draws—The Lovers. “Relationships, connections, shared fortunes,” the Ringmaster whispers. “Cheerful messages from the alien, the machine, and the warlady are sure to follow.” Your people cheer with excitement at the notion of improved relations with the three superpowers.<br/>
+    <br/>
+    <string name='Quests/CircusCambion/FortuneTelling2'/><br/>
+    <br/>
+    Before anyone can protest, the Ringmaster swipes the deck out of He'al Xof's hands. “Fate giveth, fate taketh away. Remember, it's not what the cards say—it's what you do with them…”
+UK: «Слухайте, слухайте!» — звертається господар манежу до зібраної публіки, звертаючи їхню увагу на жінку в каптурі, що сидить за столом посеред арени цирку. — «Сьогодні велика провидиця Хе’ал Зоф заграє на струнах призначення вашого дорогого лідера й передбачить його майбутнє за своєю колодою долі».<br/>
+    <br/>
+    Глядачі завмирають. Вона витягує карту Закоханих. «Стосунки, зв’язки, спільні долі», — театральним шепотом проголошує господар манежу. — «Від прибульця, машини й воїтельки неодмінно надійдуть сприятливі послання!» Твої люди радіють при думці про покращення взаємин із трьома «наддержавами».<br/>
+    <br/>
+    <string name='Quests/CircusCambion/FortuneTelling2'/><br/>
+    <br/>
+    Перш ніж хтось встигає заперечити, господар манежу вихоплює колоду з рук Хе’ал Зоф. «Доля дає, доля забирає. Не забувайте: важливо не те, які карти випадають, а те, що ви з ними робите...»
+
+## Quests.xml|CircusCambion/AbkluthJousting
+EN: “Ladies, gentlemen, and monsters of many genders, we have got a show for you TONIGHT!” The Ringmaster greets the roaring crowd. They're here for blood—Abkluth blood. Two of the beasts prowl the edge of the arena, commanded by Dragoons in polished armor. “Tonight, like knights of old, these warriors will charge at each other in a classic joust,” he says.<br/>
+    <br/>
+    It's a ferocious performance. The Dragoons charge again, and again, smashing lances into each other's armor and barely dodging the beasts' venomous teeth. It climaxes with a horrifying finale—the Abkluth, blinded by bloodlust, buck off their riders and take their fight into the stands, trampling members of the audience while going for each other's throats.<br/>
+    <br/>
+    The survivors at least, got a hell of a show. <string name='Quests/CircusCambion/AbkluthJousting2'/>
+UK: «Леді, джентльмени й чудовиська інших статей — цього вечора на вас чекає НЕЗАБУТНЄ шоу!» — вітає господар манежу розбурханих глядачів. Вони прийшли сюди заради крові — абклютської крові. Два ці монстри проходять колом арени, підганяні драгунами в блискучій броні. «Сьогодні, як лицарі давнини, ці воїни зійдуться в класичному поєдинку», — оголошує він.<br/>
+    <br/>
+    Це безжальне видовище. Драгуни знову й знову розганяються, завдаючи одне одному ударів списами й ледве ухиляючись від отруйних зубів тварюк. Кульмінацією стає жахливий фінал — абклютам вдається скинути вершників, і вони продовжують люто гризти одне одному горлянки вже на трибунах, калічачи налякану публіку.<br/>
+    <br/>
+    Принаймні ті, хто вижив, справді ніколи не забудуть цей вечір. <string name='Quests/CircusCambion/AbkluthJousting2'/>
+
+## Quests.xml|CircusCambion/AbkluthJousting2
+EN: The Ringmaster avoids recrimination by gifting you an alien egg, supposedly sired by his beasts. “I don't think you'll be disappointed,” he says. “That display is just a taste of what is to come…”
+UK: Господар манежу відкуповується від зустрічних звинувачень, вручаючи тобі інопланетне яйце, ймовірно народжене його чудовиськами. «О, ви не будете розчаровані!» — запевняє він тебе. — «Це шоу — лише мала частина того, що чекає попереду...»
+
+## Quests.xml|CircusCambion/ZephonOrigin
+EN: Your blood boils. The Ringmaster has fled—he promised to put on a show revealing the origins of ZEPHON itself, and delivered an absolute con job instead.<br/>
+    <br/>
+    The machine he revealed to the crowd gathered in the circus tent was little more than an old-world server mainframe slapped together with singularity cores and what might just be glue. A lie. A hoax. A grift so blatant you're offended he didn't try harder.<br/>
+    <br/>
+    That was bad enough. While you ran him out of town and scavenged the singularity cores for yourself, it seems he slipped a backdoor of some kind into your network, allowing ZEPHON to worm its way in and sabotage the research database.<br/>
+    <br/>
+    Who was the brains behind this operation? ZEPHON? The Ringmaster? Whichever it was, they both have to be laughing at you now.
+UK: Ти лютуєш. Господар манежу втік — а ж бо обіцяв показати виставу, яка розкриє походження самого ЗЕФОНА, але натомість провернув справжню аферу.<br/>
+    <br/>
+    Пристрій, який він продемонстрував глядачам під шатром, виявився не більше ніж кадавром із консолі стародавнього мейнфрейма, сингулярних ядер і чогось схожого на звичайний клей. Брехня. Підробка. Халтура настільки кричуща, що тобі навіть якось прикро.<br/>
+    <br/>
+    І це ще не все. Поки його гнали з міста, він встиг впровадити в твою мережу якийсь троян, що дозволив ЗЕФОНУ проникнути всередину й саботувати дослідницьку базу даних.<br/>
+    <br/>
+    Хто стояв за цією операцією? ЗЕФОН? Господар манежу? Хто б це не був — він досі сміється з тебе.
+
+## Quests.xml|CircusCambion/ErelimPuppets
+EN: “Oh in these dark times we simply must put faith in the arts!” The Ringmaster is vamping to the crowd gathered in the circus tent, sporting some slapped-on makeup and a filthy dress that looks like it belonged to a cousin of the Honorable Aristocrat—your favorite drag queen's least-favorite drag queen.<br/>
+    <br/>
+    <string name='Quests/CircusCambion/ErelimPuppets3'/> <string name='Quests/CircusCambion/ErelimPuppets2'/>
+UK: «О, в такі похмурі часи ми просто зобов’язані вірити в мистецтво!» — заграє господар манежу з публікою, що зібралася в цирку. На ньому кричущий макіяж і брудна сукня, ніби належала двоюрідному брату Шляхетного Аристократа — найменш улюбленому трансвеститу твого найулюбленішого трансвеститу.<br/>
+    <br/>
+    <string name='Quests/CircusCambion/ErelimPuppets3'/> <string name='Quests/CircusCambion/ErelimPuppets2'/>
+
+## Quests.xml|CircusCambion/ErelimPuppets2
+EN: Normally you'd bristle at how little work is getting done, but you're too pleased by the Ringmaster's real gift: a code phrase that, when invoked, will cause one of these Erelim angels to strike from the shadows and slit your enemy's throats.
+UK: За звичайних обставин тобі б не сподобалося, що робота стоїть, але тебе надто тішить справжній дар господаря манежу: кодова фраза, яка змусить одного з цих ангельських ерелімів напасти з тіні й перерізати горлянки твоїм ворогам
+
+## Quests.xml|CircusCambion/ErelimPuppets3
+EN: Your people, gathered in the stands, laugh at him—but then gasp as he snaps his fingers and a small army of Erelim Assassins decloak around him.<br/>
+    <br/>
+    No one has ever seen so many in one place. They burst into a graceful ballet, dancing like the last human part of themselves is trying to get out.<br/>
+    <br/>
+    The show is so magnificent your people lose their minds, obsessing over the deadly beauties for days afterward.
+UK: Натовп на трибунах регоче з нього — але потім ахає, коли по клацанню пальців навколо нього з маскування виходить невелике військо ерелімів-ассасинів.<br/>
+    <br/>
+    Ще ніхто не бачив стільки їх в одному місці. Вони починають виконувати найграційніший балет, танцюючи так, ніби назовні намагається вирватися остання людська частинка їхньої душі.<br/>
+    <br/>
+    Виступ настільки вражаючий, що твої люди на довгі дні втрачають здатність займатися чимось, окрім спогадів про смертельну красу.
+
+## Quests.xml|CircusCambion/HighVoltage
+EN: Your engineers throw a fit when the Ringmaster hooks up his contraption—a massive power coil the likes you've never seen—to the electrical grid. Every attempt they make to explain the danger, he whiffs away with a flick of the hand. “Shoo, shoo. Circus Cambion is no place for MATH.”<br/>
+    <br/>
+    This show takes place outside the tent—in full spectacle for all your city to see. He promises that this device will light up the night and turn every fixture in every building into a light show. “Electricity does very funny things when you add a touch of the Bleed to the machinery,” he says, still fiddling with a panel on the device. “Now hang on, was I supposed to connect the red wire or the blue—”<br/>
+    <br/>
+    The power coil springs to life, sparks fly high toward the sky, and every building on your city erupts in an ocean of color—the few lucky to not be blinded by the sight sob at how beautiful it was.<br/>
+    <br/>
+    Then all the lights go out across town. A complete blackout. The Ringmaster vanishes in the shadows without a trace. At least he left the power coil behind… your engineers should be able to repurpose it.
+UK: Твої інженери в шоці спостерігають, як господар манежу підключає до енергомережі свій пристрій — найбільший трансформатор, який ти коли-небудь бачив. Усі їхні спроби пояснити небезпеку цієї затії він відкидає помахом руки: «Киш, киш. Цирк Камбіон — не місце для МАТЕМАТИКИ».<br/>
+    <br/>
+    Шоу відбувається просто неба, і його побачить усе місто. Він клянеться, що цей агрегат перетворить ніч на день і змусить джерела світла в кожній будівлі влаштувати світлове шоу. «Електрика творить кумедні речі, коли додати до механізмів краплю Течії», — розповідає він, усе ще вовтячись із панеллю пристрою. — «Так, зачекайте, я мав підключити червоний дріт чи синій?..»<br/>
+    <br/>
+    Трансформатор оживає, в небо злітають іскри, і кожну будівлю в місті заливає океан кольору — ті небагато, кому пощастило не осліпнути від спалахів, ридають від небаченої краси.<br/>
+    <br/>
+    Потім у всьому місті гасне світло. Вимикається абсолютно все. Господар манежу розчиняється в тінях, ніби його й не було. Принаймні трансформатор залишається у тебе. Інженери знайдуть йому застосування.
+
+## Quests.xml|CircusCambion/TakeYourCutCursed
+EN: You could pay the Ringmaster his fee… but why not just rob him instead? Your forces raid the camp in a matter of hours, taking all the performers' treasure in exchange for their lives. In a day, the circus vanishes. But… something strange is happening. <string name='Quests/CircusCambion/TakeYourCutCursed2'/><br/>
+    <br/>
+    You feel yourself going mad trying to find an explanation. Is morale down because people wanted to see the show? Did the circus poison your water supply before vanishing into the wasteland? Is this… is this a curse?<br/>
+    <br/>
+    The only answer you get is a message sent to your terminal at three-thirty-three in the morning. “A magician never reveals his secrets,” is all it says.
+UK: Звісно, можна було б заплатити господарю манежу, але чому б не пограбувати його замість цього? Лише за кілька годин твої війська розоряють табір, забирають усі цінності артистів в обмін на їхні життя. Наступного дня цирк зникає. Але... відбувається щось дивне. <string name='Quests/CircusCambion/TakeYourCutCursed2'/><br/>
+    <br/>
+    Ти відчуваєш, що сходиш з розуму, намагаючись знайти пояснення. Люди засмучені, бо хотіли побачити виставу? Чи цирк встиг отруїти систему водопостачання, перш ніж зникнути в пустці? А може, це... порча?<br/>
+    <br/>
+    Єдина відповідь надходить на твій термінал о третій тридцять три ранку. «Фокусник ніколи не розкриває своїх секретів», — лише йдеться в ньому.
+
+## Quests.xml|CircusCambion/TakeYourCutCursed2
+EN: Your soldiers seem bitter, more tired. As likely to hurt each other as they are the enemy. Your people file a battery of complaints, and for some reason every machine in your headquarters keeps malfunctioning on a regular basis.
+UK: Солдати здаються озлобленими, виснаженими. Вони так само легко перегризуть горлянки одне одному, як і ворогові. Підлеглі подають цілу купу скарг, а кожна машина в твоєму штабі починає незрозуміло глючити.
+
+## Quests.xml|CircusCambion/TakeYourCutPayback
+EN: Time is short, and there's no time for a show. You order your troops to liberate the circus of its valuables—they'll serve you better than they will this Ringmaster.<br/>
+    <br/>
+    Your soldiers barely have time to haul in the loot before a war cry pours out of the gathered circus performers. Bells ring, clowns reach for their rifles, Erelim Assassins decloak with eyes blazing, and an Abkluth–no, an ABKHAN bursts out of the tents. How did your guards not see an entire Abkhan while robbing them blind?<br/>
+    <br/>
+    “You should have shown us respect,” the Ringmaster says—all the bravado gone, replaced by rage. “All we wanted was to put on a little show.” He cricks his neck. “I suppose razing your city to the ground should make for a fabulous performance.”
+UK: Час — це гроші, а на шоу часу немає. Ти наказуєш військам позбавити цирк цінностей — з них буде більше користі, ніж із господаря манежу.<br/>
+    <br/>
+    Солдати ледве встигають зібрати здобич, як із натовпу артистів лунає бойовий клич. Дзвенить дзвін, клоуни витягують рушниці, з нізвідки з’являються ереліми-ассасини з блискучими очима, а з-під шатра виривається абклют... ні, це АБХАН! Як служиві примудрилися не помітити цілого абхана, поки були зайняті грабунком???<br/>
+    <br/>
+    «Варто було поставитися до нас із повагою», — похмуро каже господар манежу, його пихатість зникає, поступаючись місцем люті. — «Ми лише хотіли влаштувати невеличке шоу». Він хрумтить шиєю. «Що ж, знищення цього міста стане незабутньою виставою».
+
+## Quests.xml|CircusCambion/MissingResources
+EN: You trade jokes with a gang of advisors, snickering at the plight of the circus. They really thought they were worthy of your time?<br/>
+    <br/>
+    But then one checks a computer tablet and falls silent. “Did we just make a massive sale to the Concordat?” she asks.<br/>
+    <br/>
+    Everyone—even you—freezes. You demand she explain. “I've got quartermasters from every district saying a tenth of their inventory is gone, and no,” she snaps at your head of security. “It wasn't a miscount! Did your guards take a bribe or something to look the other way?!”<br/>
+    <br/>
+    Arguing breaks out. You don't even bother trying to quell it. You think of the Ringmaster, his grinning face as he pleaded for compensation. It seems he got what he wanted… leaving you with nothing to show in exchange.
+UK: Ти перекидаєшся жартами з гуртом радників, насміхаючись із біди цирку. Вони справді вважали, що заслуговують на твою увагу?<br/>
+    <br/>
+    Але потім одна з них зазирає в планшет і замовкає. «Ми щойно надали величезну знижку Конкордату?» — запитує вона.<br/>
+    <br/>
+    Усі — включно з тобою — завмирають. Ти вимагаєш пояснень. «Інтенданти кожного району щойно повідомили, що в них зникла десята частина всіх запасів, і ні», — кидає вона погляд на голову охорони. — «Це не помилка в підрахунках! Твої головорізи отримали хабар, щоб заплющити очі на грабунок чи щось подібне?!»<br/>
+    <br/>
+    Розгорається скандал. Ти навіть не намагаєшся заспокоїти людей. Ти згадуєш господаря манежу, його самовдоволену фізіономію, коли він просив компенсацію. Схоже, він таки отримав бажане... але нічого не дав натомість.
+
+## Quests.xml|CircusCambion/NothingHappens
+EN: The tent vanishes hours after you turn the Ringmaster away. He seemed—tired. You'd expected some grand gesture to keep your attention, maybe a plea to feed his performers. But you didn't want a show. And he… obliged.
+UK: Шатро зникає за кілька годин після того, як ти відповідаєш господарю манежу відмовою. Він виглядав втомленим. Можна було очікувати від нього якоїсь витівки для привернення уваги або прохання нагодувати його трупу. Але тобі не хотілося вистав. І він... послухався.
+
+## Quests.xml|CityInTheClouds
+EN: City In The Clouds
+UK: Місто в хмарах
+
+## Quests.xml|CityInTheClouds/Intro
+EN: A city in the clouds? If it seems like a fever dream it's only because you've seen what nightmares this new world has to offer. The idea of a civilization in the atmosphere seems… childish. Supposed sightings have long flitted about the wasteland but now, as the war escalates on all fronts, they are picking up.<br/>
+    <br/>
+    Then one day, a titanic disc topped by skyscrapers bursts from the clouds and smashes into one of your tallest buildings. Where the hell did it come from?! It doesn't seem like an attack—the city was careening lower and lower. Shaken witnesses say they saw soldiers on its surface battling even as the city risked crashing.<br/>
+    <br/>
+    After the near-fatal calamity, the city shot back into the sky and into parts unknown. Now it's a massive fucking problem for you. If it could get that close without being detected, could it be used against you? Could you convince the soldiers to fight on your side? The potential looms over you like the city itself.<br/>
+    <br/>
+    You must decide if there's still time to track down this flying metropolis.
+UK: Місто в хмарах?.. Якщо це здається гарячковим сном, то тільки тому, що тобі доводилося бачити кошмари цього нового світу. Ідея цивілізації в атмосфері здається... дитячою. По пустелі давно ходили чутки від нібито очевидців, але зараз, коли війна розпалюється на всіх фронтах, ці розповіді ще сильніше набирають обертів.<br/>
+    <br/>
+    І раптом одного дня титанічний диск, увінчаний хмарочосами, вискакує з хмар і врізається в одну з твоїх найвищих будівель. Звідки він, чорт забирай, узявся?! На атаку не схоже — місто кренилось все сильніше і сильніше, а приголомшені люди розповідають, що бачили в місті солдатів, що воюють один з одним, навіть коли те ризикувало впасти на землю.<br/>
+    <br/>
+    Після ледь не сталої катастрофи місто кинулося вгору і в невідомому напрямку. Тепер у тебе новий чортів головний біль. Якщо він непоміченим підлетів так близько, чи може він бути загрозою? Чи можеш ти переконати солдатів воювати за тебе? Потенціал витає в повітрі, як саме місто.<br/>
+    <br/>
+    Треба вирішити, чи вистачить ще часу вистежити цей літаючий мегаполіс.
+
+## Quests.xml|CityInTheClouds/Intro/HuntForTheCity
+EN: <style name='Bold'/>Hunt for the city:<style name='Paragraph'/> The scouts say the behemoth was leaking a residue. It might be traceable by aircraft…
+UK: <style name='Bold'/>Відшукати місто:<style name='Paragraph'/> Розвідники повідомляють, що з громадини щось капало. Можна спробувати відстежити це з повітряного судна...
+
+## Quests.xml|CityInTheClouds/Intro/LetItGo
+EN: <style name='Bold'/>Let it go:<style name='Paragraph'/> You don't have the air superiority you need to secure the city.
+UK: <style name='Bold'/>Хай собі летить:<style name='Paragraph'/> Тобі не вистачає переваги в повітрі, щоб впоратися з містом.
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess
+EN: <string name='Quests/CityInTheClouds/HuntForTheCitySuccess2'/><br/>
+    <br/>
+    “In theory” is key here because the Constellation—another fountain of rumors and legends in the wasteland—is at war with itself.<br/>
+    <br/>
+    As their messengers reluctantly explain to you—clearly angry at the arrival of surface dwellers—their tightly organized way of life depends on the grouping of citizens by skillset under the names of the stars themselves. Ursa Major defends this way of life. The Twenty Eight Dragons want to upend it.<br/>
+    <br/>
+    <string name='Quests/CityInTheClouds/HuntForTheCitySuccess3'/>—or knock these warring stargazers right out of the sky.<br/>
+UK: <string name='Quests/CityInTheClouds/HuntForTheCitySuccess2'/><br/>
+    <br/>
+    Де-юре — найважливіша частина, оскільки Плеяда — черговий джерело чуток і легенд пустелі — воює сама з собою.<br/>
+    <br/>
+    Як неохоче пояснюють тобі гінці, явно обурені візитом мешканців поверхні, їхній суворо організований життєвий устрій спирається на розподіл громадян відповідно до їхніх умінь на групи, що носять зоряні назви. «Велика ведмедиця» захищає цей устрій, тоді як «Двадцять вісім драконів» хочуть з ним покінчити.<br/>
+    <br/>
+    <string name='Quests/CityInTheClouds/HuntForTheCitySuccess3'/> Або скинути з небозводу цих сперечальників, що витають у хмарах.<br/>
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess2
+EN: You finally caught up with the airborne city. It’s called Caelum Cete, an absurd phrase that means “Sky Whale.” Kept aloft by the core of a Cherubim Titan, it is, in theory, controlled by the Constellation.
+UK: Ти нарешті наздоганяєш повітряне місто. Воно називається «Небесним китом». Його підтримує ядро херувима-титана, а контролює його, де-юре, Плеяда.
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess3
+EN: It's too late in the war for diplomatic nuance. You can throw your weight behind a winner and clean up the mess after this whole thing is over
+UK: Для дипломатичних тонкощів конфлікт палахкотить вже занадто яскраво. Ти можеш зробити ставку на переможця і розібрати завали, коли все закінчиться...
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess/SupportRulers
+EN: <style name='Bold'/>Aid Ursa Major:<style name='Paragraph'/> Ursa Major will be in your debt if you finance their counterinsurgency.
+UK: <style name='Bold'/>Допомогти «Великій ведмедиці»:<style name='Paragraph'/> «Велика ведмедиця» буде у тебе в боргу, якщо ти проспонсоруєш її боротьбу з повстанцями.
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess/SupportRebels
+EN: <style name='Bold'/>Aid the Twenty Eight Dragons:<style name='Paragraph'/> The Dragons invite you to partner with them in forging a new Constellation.
+UK: <style name='Bold'/>Допомогти «Двадцяти вісьмох драконам»:<style name='Paragraph'/> «Дракони» запрошують тебе разом з ними створити нову Плеяду.
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess/DestroyTheCity
+EN: <style name='Bold'/>Destroy the city:<style name='Paragraph'/> The Constellation is a threat. You'll yank their home back down to Earth.
+UK: <style name='Bold'/>Знищити місто:<style name='Paragraph'/> Плеяда — справжня загроза. Ти спустиш їхній дім з небес на землю.
+
+## Quests.xml|CityInTheClouds/HuntForTheCitySuccess/IgnoreThisConflict
+EN: <style name='Bold'/>Ignore this conflict:<style name='Paragraph'/> You're wrapped up in one war. Do you really need to take sides in another?
+UK: <style name='Bold'/>Ігнорувати цей конфлікт:<style name='Paragraph'/> Ти й так по вуха в одній війні. Тобі справді треба втручатися в іншу?
+
+## Quests.xml|CityInTheClouds/SupportRulersSuccess
+EN: “Stable skies light the way,” says one of the Ursa Major leaders. He's dying. Shot by the last of the Twenty Eight Dragons. But he has no regrets—the old order of the Constellation has been preserved.<br/>
+    <br/>
+    The surviving Ursa soldiers pledge themselves to your service. There's not enough of them to bolster your army, but ages ago they blackmailed one of your rivals into handing over the plans for manufacturing Ophanim Carriers. They promise to produce them in support of your cause.
+UK: «Небесна твердь освітлює шлях», — каже один із лідерів «Великої ведмедиці». Він вмирає. Застрелений останнім із «Двадцяти восьми драконів». Але він ні про що не шкодує — старі порядки Плеяди збережені.<br/>
+    <br/>
+    Солдати «Ведмедиці», що вижили, переходять до тебе. Їх не так багато, щоб помітно посилити твою армію, але колись вони шантажем вимагали у твого суперника креслення офанімів-носіїв. Вони обіцяють зайнятися їх виробництвом, щоб тебе підтримати.
+
+## Quests.xml|CityInTheClouds/SupportRulersFailure
+EN: “Caelum Cete will never be yours,” sneers a soldier from the Twenty Eight Dragons. His capture is the only success to come from your failed alliance with Ursa Major. They asked for badly-needed supplies. You couldn't deliver.<br/>
+    <br/>
+    The Dragons routed Ursa Major forces and ordered a mass execution of their followers, pushing any who did not swear allegiance off the city's edge. They fell screaming for miles, their corpses crashing onto the battleground below.<br/>
+    <br/>
+    You'd best turn your gaze from the stars for now.
+UK: «„Небесний кит“ ніколи не буде твоїм», — плює полонений солдат із «Двадцяти восьми драконів». Він твій єдиний успіх у невдалому союзі з «Великою ведмедицею». Тебе просили вчасно надати необхідні припаси, але надії не виправдалися.<br/>
+    <br/>
+    «Дракони» вигнали сили «Ведмедиці» і влаштували масову страту її послідовників, скинувши з краю міста будь-кого, хто їм не присягнув. Ті падали кілька миль і з криками розбивалися об поле бою.<br/>
+    <br/>
+    З тебе досить дивитися на зорі.
+
+## Quests.xml|CityInTheClouds/SupportRebelsSuccess
+EN: Lurking in the shadows—over everyone's heads—didn't sit well with the Twenty Eight Dragons. Their soldiers saw the war happening beneath their feet and realized the fate of the world was being decided without them. With your help they obliterated Ursa Major, ending their campaign by firebombing the final bunker the old leaders took shelter in.<br/>
+    <br/>
+    Their way favors violence, action, haste—all things Ursa Major refused to embrace. It also breeds chaos. Warriors toss aside weapons to become scientists, mechanics and nurses clamber to take the place of warriors. A society freed from convention must still adjust to the new norms.<br/>
+    <br/>
+    The new leadership caste offers a steady supply of resources as thanks for your support.
+UK: Таїтися в тінях — у всіх над головами — ніколи не влаштовувало «Двадцять вісім драконів». Їхні солдати дивилися на війну, що розгортається у них під ногами, і розуміли, що доля світу вирішиться без них. З твоєю допомогою вони завершили свій похід і позбулися «Великої ведмедиці», розбомбивши останній бункер, в якому сховалися колишні лідери.<br/>
+    <br/>
+    Їхні способи включають жорстокість, дію, поспіх — все, від чого «Велика ведмедиця» відмовлялася. І хаосу не уникнути. Воїни відкидають зброю, щоб стати вченими, механіки і медсестри намагаються зайняти місце воїнів. Звільненому від оков суспільству все ще потрібно пристосуватися до нових норм.<br/>
+    <br/>
+    На вдячність за підтримку нова каста лідерів забезпечує тебе поставками ресурсів.
+
+## Quests.xml|CityInTheClouds/SupportRebelsFailure
+EN: You now have a place in Ursa Major's grand order. The problem: it's at the bottom of the ladder. Failing to overthrow the grand masters of the astral society cost you time, resources, and a potential ally.<br/>
+    <br/>
+    And now you have something worse: the threat of a city hovering somewhere overhead—maybe even unseen—spying on you and pointing guns at your position.<br/>
+    <br/>
+    The bottom of the grand order. Hopefully that's not where you'll sit when this war finally ends.
+UK: Ти займаєш місце в ієрархії «Великої ведмедиці». Але є нюанс: це місце насправді на самому дні. Невдача у поваленні правлячої партії зоряного суспільства коштує тобі часу, ресурсів і потенційного союзника.<br/>
+    <br/>
+    А тепер ще й нова проблема: десь над головою витає ціле місто, мешканці якого стежать за тобою і, можливо, наводять гармату на твої позиції.<br/>
+    <br/>
+    Саме дно. Залишається сподіватися, що до кінця цієї війни ти з нього піднімешся.
+
+## Quests.xml|CityInTheClouds/DestroyTheCitySuccess
+EN: Your people climb to the tops of trees, towers, and mountain peaks to watch Caelum Cete plunge to Earth. No one has ever seen anything like it in the planet's history. No one has ever reached into the heavens and yanked down the domicile of would-be gods. Only in myth and legend.<br/>
+    <br/>
+    Your eyes are turned elsewhere. To a table in your war room showing the position of enemy units. To comm arrays buzzing with messages from your allies and enemies. To a spreadsheet—a spreadsheet of all things—detailing a complex transaction with the Concordat.<br/>
+    <br/>
+    All of these matters weigh more heavily on you than a flaming city plunging from the sky.
+UK: Твої люди дряпаються на вершини дерев, веж і гір, щоб поглянути на те, як «Небесний кит» розбивається об землю. Ніхто не бачив нічого подібного за всю історію планети. Ніхто ще не дотягувався до небозводу, щоб скинути з нього оселю тих, хто мнить себе богами. Тільки в міфах і легендах.<br/>
+    <br/>
+    Твоя ж увага прикута до іншого — до столу у твоїй кімнаті нарад, де показано розташування ворожих військ. До комунікаторів, що сиплють повідомленнями від твоїх друзів і ворогів. До звітів зі складними транзакціями Конкордату.<br/>
+    <br/>
+    Усі ці клопоти для тебе набагато важливіші, ніж якесь палаюче місто, що падає з небес.
+
+## Quests.xml|CityInTheClouds/LetItGo
+EN: Too many rulers have looked at the skies above and thought it should be part of their domain. They died horrible deaths. Keep your gaze to the ground and to the war in front of you. Focus will bring you victory. Stargazing won't.
+UK: Забагато було правителів, які піднімали очі до неба і уявляли, як приєднують його до своїх володінь. Усі вони загинули насильницькою смертю. Краще стежити за землею і війною, яку ти ведеш. Зосередженість приведе тебе до перемоги. Витання в хмарах — ні.
+
+## Quests.xml|CriesForHelp
+EN: Cries For Help
+UK: Крик про допомогу
+
+## Quests.xml|CriesForHelp/Help
+EN: Now you just have to stick to your word. Can your troops get to them in time? The route is tangled, the enemy is numerous and the Splenetics are far off. Now that you’ve promised help, if you fail, who knows what they’ll do if they survive?
+UK: Залишилося лише стримати слово. Чи встигнуть твої війська дістатися вчасно? Шлях непростий, ворог численний, а «Жовчні» — дуже далеко. Якщо ти не зможеш надати обіцяну допомогу, хто знає, на що вони підуть, якщо виживуть?
+
+## Quests.xml|CriesForHelp/HelpFailure
+EN: You fail to reach the Splenetics and renege on your promise. A few survivors make it out of the Abkluth trap, swearing vengeance on you and your false promises—they don’t care if you tried and failed, or didn’t try at all—when they are done with the Abkluth, you’re next.
+UK: Тобі не вдається дістатися до «Жовчних» і стримати обіцянку. Декільком уцілілим вдається вирватися з пастки абклютів, і вони клянуться помститися тобі — їм байдуже, що завадило тобі прийти на допомогу. Коли вони покінчать з абклютами, настане твоя черга.
+
+## Quests.xml|CriesForHelp/HelpSuccess
+EN: Your forces reach the remaining Splenetic units at the last possible moment. After a short rest, your troops suggest that the handful of surviving Splenetic troopers could be good recruits. They’re grateful for the rescue and happy to join your cause.
+UK: Твої війська добираються до вцілілих загонів «Жовчних» в останню мить. Після короткого відпочинку твої солдати пропонують уцілілим «Жовчним» об’єднати сили. Ті вдячні за порятунок і охоче приєднуються до тебе.
+
+## Quests.xml|CriesForHelp/IgnoreFailure
+EN: True to their fearsome reputation, the Splenetics fight on and on and on—and triumph. Only a few survive the Abkluth and the wilderness but, bloody-handed from battle, they come straight for you. They are only militants, yes, and they are ill-equipped and few in number—but they could have been your militants.
+UK: Підтверджуючи свою грізну репутацію, «Жовчні» продовжують битися — і виходять переможцями. Лише деяким вдається вижити серед абклютів і пустки, але вони, все ще вкриті кров’ю після бою, прямують просто до тебе. Так, вони просто воїни, погано споряджені й нечисленні. Але вони могли бути твоїми воїнами.
+
+## Quests.xml|CriesForHelp/IgnoreSuccess
+EN: The Splenetics hold out for a long time against the Abkluth—longer than you thought possible. They talk to you constantly as they fall one-by-one, until the last soldier is left alone, clutching the radio, screaming his hate at you as they come for him. At least you got a sense of closure.
+UK: «Жовчні» довго тримаються в сутичці з абклютами — довше, ніж ти вважав можливим. Вони продовжують говорити з тобою, вмираючи один за одним, поки не лишається лише один солдат, і він проклинає тебе по радіо, коли добираються й до нього. Ну, принаймні, у тебе не залишилося незавершених справ.
+
+## Quests.xml|CriesForHelp/Intro
+EN: An intermittent radio signal. Faint, distant voices, and sounds of gunfire. A small group of human survivors has got bogged down in the wilds and is in dire need of help. They beg, demand, threaten.<br/>
+    <br/>
+    Your soldiers know this group; they are fierce fighters known as the Splenetics, and will be a great help if we can reach them—but if we ignore them, they will never forget it and will hold a grudge as long as they live.
+UK: Переривчастий радіосигнал. Приглушені далекі голоси, звуки пострілів. Невелика купка людей застрягла в дикій місцевості й гостро потребує допомоги. Вони благають, вимагають, погрожують.<br/>
+    <br/>
+    Твої солдати знають цю групу — це люті бійці, відомі як «Жовчні». Вони можуть стати великою підтримкою, якщо їх виручити, але якщо проігнорувати прохання — вони ніколи цього не забудуть і назавжди затаять образу.
+
+## Quests.xml|CriesForHelp/Intro/Help
+EN: <style name='Bold'/>Promise to help:<style name='Paragraph'/> You personally assure the survivors over the radio that help is on the way.
+UK: <style name='Bold'/>Пообіцяти допомогти:<style name='Paragraph'/> Ти особисто запевняєш уцілілих по радіо, що допомога вже в дорозі.
+
+## Quests.xml|CriesForHelp/Intro/Ignore
+EN: <style name='Bold'/>Ignore:<style name='Paragraph'/> You listen to the radio cries for a moment, then close the channel. You don’t need them.
+UK: <style name='Bold'/>Ігнорувати:<style name='Paragraph'/> Ти деякий час вслухаєшся в крики по радіо, а тоді закриваєш канал. Вони тобі не потрібні.
+

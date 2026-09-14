@@ -32,7 +32,7 @@
 <entry name="DreamPrison" value=" вказаному зламаному ворожому юніту НЕ-штабу"/>
 <entry name="DreamPrisonRestore" value=" після смерті сновидця"/>
 <entry name="EachTurn" value=" кожен хід"/>
-<entry name="EachTurnInBleed" value=" кожен хід на Течі"/>
+<entry name="EachTurnInBleed" value=" кожен хід на Кровотечі"/>
 <entry name="EachTurnLogisticsExperts" value=" кожен хід (&lt;icon texture='Icons/Traits/LogisticsExperts' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/LogisticsExperts'/&gt;)"/>
 <entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" кожен хід на центральній клітинці та на суміжних клітинках (із силою половини атак)"/>
 <entry name="EachTurnResourceNetwork" value=" кожен хід (&lt;icon texture='Icons/Traits/ResourceNetwork' height='20'/&gt;&lt;nbsp/&gt;&lt;string name='Traits/ResourceNetwork'/&gt;)"/>
@@ -92,13 +92,13 @@
 <entry name="InForestRuinSmokeScreen" value=" у лісах, руїнах або димовій завісі"/>
 <entry name="InternalRepairStation" value=" транспортованим юнітам"/>
 <entry name="LoyaltyUpgrade" value=" кожен хід за кожну будівлю «&lt;string name='Buildings/Loyalty'/&gt;» у місті"/>
-<entry name="OfFlagshipProductOnDeath" value="&lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
+<entry name="OfFlagshipProductOnDeath" value=" &lt;string name='Actions/PlatinumScionAffinityUpgrade2'/&gt;&lt;string name='Modifiers/OnDeath'/&gt;"/>
 <entry name="OfTargetAlliedUnit" value=" вказаного союзного юніта"/>
 <entry name="OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints" value=" вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. здоров’я"/>
 <entry name="OfTargetEnemyAbkluth" value=" вказаного ворожого юніта абклюта"/>
 <entry name="OnAdjacentTilesToTarget" value=" на суміжних із ціллю клітинках"/>
 <entry name="OnAttack" value=" під час атаки"/>
-<entry name="OnBleed" value=" на Течі або на ресурсі &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
+<entry name="OnBleed" value=" на Кровотечі або на ресурсі &lt;string name='Features/FragmentOfTheFulcrumResource'/&gt;"/>
 <entry name="OnCliffs" value=" на урвищах"/>
 <entry name="OnCoast" value=" на узбережжі"/>
 <entry name="OnDeath" value=" під час загибелі"/>
@@ -236,7 +236,7 @@
 	<entry name="ToNonHeadquartersBuildingsOnTargetEnemyCityTile" value=" на будівлі, окрім штабу, на клітинці вказаного ворожого міста"/>
 	<entry name="ToUnmovedAlliedUnitsInTargetArea" value=" на союзні юніти, що не рухалися, у зоні цілі"/>
 	<entry name="ToTargetZephonNonTitanNonHeadquartersUnit" value=" на вказаний юніт ЗЕФОНу, що не є титаном і не є штабом"/>
-	<entry name="ToZeroOrOneBeforeDistressSignalMimicked" value=" на ZERO чи ONE, доки вони не зімітували сигнал лиха"/>
+	<entry name="ToZeroOrOneBeforeDistressSignalMimicked" value=" на НУЛЬ чи ОДИН, доки вони не зімітували сигнал лиха"/>
 	<entry name="UponDiscovery" value=" при виявленні"/>
 	<entry name="WhenProduced" value=" при виробництві"/>
 	<entry name="ForReachedLevels4710" value=" за досягнуті рівні 4, 7 і 10"/>

@@ -12,7 +12,7 @@
 	<entry name="Actions" value="Дії"/>
 	<entry name="ActionsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
 	<entry name="ActionsDescription" value="Скільки дій може виконати юніт. Використання дії може витратити весь запас переміщення."/>
-	<entry name="AdditionalMembersHit" value="влучання з половинною точністю по членам групи"/>
+	<entry name="AdditionalMembersHit" value="Влучання з половинною точністю по членах групи"/>
 	<entry name="AdditionalMembersHitIcon" value="&lt;icon height='20' texture='Icons/Attributes/GroupSize'/&gt;"/>
 	<entry name="Algae" value="Водорості"/>
 	<entry name="AlgaeDescription" value="Використовується для виробництва та утримання юнітів Голосу."/>
@@ -46,12 +46,12 @@
 	<entry name="AttacksIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Атаки за кожного додаткового члена групи цілі"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Attacks'/&gt;"/>
-	<entry name="BlockMovement" value=" рух НЕ-літаючих юнітів"/>
+	<entry name="BlockMovement" value="рух НЕ-летючих юнітів"/>
 	<entry name="BlockMovement+" value="Блокує"/>
 	<entry name="BuildingSlots" value="Слоти для будівель"/>
 	<entry name="BuildingSlotsDescription" value="Кількість будівель, які можна побудувати на клітинці."/>
 	<entry name="BuildingSlotsIcon" value="&lt;icon height='20' texture='Icons/Attributes/BuildingSlots'/&gt;"/>
-	<entry name="BlockSight" value="видимість з НЕ-суміжних клітин"/>
+	<entry name="BlockSight" value="видимість з НЕ-суміжних клітинок"/>
 	<entry name="BlockSight+" value="Блокує"/>
 	<entry name="CanBeShaken" value="приголомшеним"/>
 	<entry name="CanBeShaken+" value="Може бути"/>
@@ -60,21 +60,21 @@
 	<entry name="CanCaptureOutposts" value="захоплювати застави"/>
 	<entry name="CanCaptureOutposts+" value="Може"/>
 	<entry name="CanCaptureOutposts-" value="Не може"/>
-	<entry name="CanEnemyOverwatch" value="атаки з черги по цьому підрозділу"/>
+	<entry name="CanEnemyOverwatch" value="атакам з дозору по цьому юніту"/>
 	<entry name="CanEnemyOverwatch-" value="Запобігає"/>
 	<entry name="CanEnemyOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="пасивно лікуватися з неповними очками переміщення"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Може"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Не може"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/HealingRate'/&gt;"/>
-	<entry name="CanOverwatch" value="входити в чергу"/>
+	<entry name="CanOverwatch" value="ставати в дозор"/>
 	<entry name="CanOverwatch+" value="Може"/>
 	<entry name="CanOverwatch-" value="Не може"/>
 	<entry name="CanOverwatchIcon" value="&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt;"/>
-	<entry name="CanPickUpCaches" value=" збирати схрони"/>
+	<entry name="CanPickUpCaches" value="збирати схрони"/>
 	<entry name="CanPickUpCaches+" value="Може"/>
 	<entry name="CanPickUpCaches-" value="Не може"/>
-	<entry name="CanZoneOfControl" value=" контролювати область"/>
+	<entry name="CanZoneOfControl" value="контролювати область"/>
 	<entry name="CanZoneOfControl+" value="Може"/>
 	<entry name="CanZoneOfControl-" value="Не може"/>
 	<entry name="CargoSlots" value="Слоти вантажу"/>
@@ -97,9 +97,9 @@
 	<entry name="CityDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
 	<entry name="CityLoyaltyUpkeep" value="Витрати на утримання міста (лояльність)"/>
 	<entry name="ConcordatBuyCost" value="Вартість покупки у Конкордату"/>
-	<entry name="ConsumedActionPoints" value="Витрачаємі очки дій"/>
+	<entry name="ConsumedActionPoints" value="Витрачені очки дій"/>
 	<entry name="ConsumedActionPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
-	<entry name="ConsumedMovement" value="Витрачаєме переміщення"/>
+	<entry name="ConsumedMovement" value="Витрачене переміщення"/>
 	<entry name="ConsumedMovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
 	<entry name="Cooldown" value="Перезарядка"/>
 	<entry name="CooldownIcon" value="&lt;icon height='20' texture='Icons/Attributes/Turns'/&gt;"/>
@@ -159,7 +159,7 @@
 	<entry name="Growth" value="Ріст населення"/>
 	<entry name="GrowthDescription" value="Як швидко зростає чисельність населення міста. &lt;string name='Attributes/GrowthDescription/Increase'/&gt;"/>
 	<entry name="GrowthDescription/Decrease" value="Ріст населення знижується при нестачі їжі або житла."/>
-	<entry name="GrowthDescription/Increase" value="При достатньому накопиченні росту населення збільшується на одиницю. &lt;string name='Attributes/GrowthDescription/Decrease'/&gt;"/>
+	<entry name="GrowthDescription/Increase" value="При достатньому накопиченні росту, населення збільшується на одиницю. &lt;string name='Attributes/GrowthDescription/Decrease'/&gt;"/>
 	<entry name="GrowthIcon" value="&lt;icon height='20' texture='Icons/Attributes/Growth'/&gt;"/>
 	<entry name="HealingRate" value="Швидкість лікування"/>
 	<entry name="HealingRateIcon" value="&lt;icon height='20' texture='Icons/Attributes/HealingRate'/&gt;"/>
@@ -174,12 +174,12 @@
 	<entry name="HitpointsMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
 	<entry name="HitpointsPerGroupMember" value="Од. здоров’я за члена групи"/>
 	<entry name="HitpointsPerGroupMemberIcon" value="&lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt;"/>
-	<entry name="IgnoreLineOfSight" value="пряму видимість."/>
+	<entry name="IgnoreLineOfSight" value="пряму видимість"/>
 	<entry name="IgnoreLineOfSight+" value="Ігнорує"/>
-	<entry name="IgnoreZoneOfControl" value="переміщатися крізь юніти ворога"/>
+	<entry name="IgnoreZoneOfControl" value="переміщатися крізь юніти ворога та їхні зони контролю"/>
 	<entry name="IgnoreZoneOfControl+" value="Дозволяє"/>
 	<entry name="Influence" value="Вплив"/>
-	<entry name="InfluenceDescription" value="Використовується для приєднання та утримання клітин міста, застосування спеціальних здібностей, для найму та утримання героїв, а також для придбання предметів і ресурсів."/>
+	<entry name="InfluenceDescription" value="Використовується для приєднання та утримання клітинок міста, застосування спеціальних здібностей, для найму та утримання героїв, а також для придбання предметів і ресурсів."/>
 	<entry name="InfluenceIcon" value="&lt;icon height='20' texture='Icons/Attributes/Influence'/&gt;"/>
 	<entry name="InfluenceCost" value="Вартість (вплив)"/>
 	<entry name="InfluenceCostDescription" value="Кількість впливу, що витрачається на виробництво об’єкта."/>
@@ -200,8 +200,8 @@
 	<entry name="Level" value="Рівень"/>
 	<entry name="LevelDescription" value="Рівень досвіду цього юніта. &lt;string name='Attributes/LevelDescription/Effect'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;string name='Attributes/LevelDescription/Death'/&gt; &lt;string name='Attributes/LevelDescription/DeathNoAttacker'/&gt;"/>
 	<entry name="LevelDescription/Effect" value="Кожен рівень вище першого підвищує &lt;icon height='20' texture='Icons/Attributes/Hitpoints'/&gt; одиниці здоров’я та &lt;icon height='20' texture='Icons/Attributes/Damage'/&gt; шкоду юніта на 5%, а також &lt;icon height='20' texture='Icons/Attributes/Morale'/&gt; бойовий дух на 10%."/>
-	<entry name="LevelDescription/Death" value="Коли юніт гине, атакувальник і його союзники отримують досвід у радіусі 3 клітин від загиблого юніта. Атакувальник завжди отримує досвід, незалежно від відстані."/>
-	<entry name="LevelDescription/DeathNoAttacker" value="Якщо юніт загинув без атакувальника, то всі вороги загиблого юніта отримують досвід у радіусі 3 клітин від нього."/>
+	<entry name="LevelDescription/Death" value="Коли юніт гине, атакувальник і його союзники отримують досвід у радіусі 3 клітинок від загиблого юніта. Атакувальник завжди отримує досвід, незалежно від відстані."/>
+	<entry name="LevelDescription/DeathNoAttacker" value="Якщо юніт загинув без атакувальника, то всі вороги загиблого юніта отримують досвід у радіусі 3 клітинок від нього."/>
 	<entry name="LevelIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
 	<entry name="LevelMax" value="Макс. рівень"/>
 	<entry name="LevelMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Level'/&gt;"/>
@@ -222,7 +222,7 @@
 	<entry name="MoraleDescription/Regeneration" value="Бойовий дух відновлюється, якщо за минулий хід юніт не отримав шкоди."/>
 	<entry name="MoraleDescription/Shaken" value="Якщо у юніта менше 66% бойового духу, то він стає &lt;icon height='20' texture='Icons/Traits/Shaken'/&gt; приголомшеним, що знижує його атаки та підвищує атаки ворога на 17%."/>
 	<entry name="MoraleDescription/Broken" value="Якщо у юніта менше 33% бойового духу, то він стає &lt;icon height='20' texture='Icons/Traits/Broken'/&gt; зламаним, що знижує його атаки та підвищує атаки ворога на 33%."/>
-	<entry name="MoraleDescription/Death" value="Коли юніт гине, союзники юніта в радіусі 3 клітин від загиблого юніта та від атакувальника втрачають бойовий дух залежно від цінності досвіду загиблого юніта, тоді як союзники атакувальника отримують бойовий дух у тій же області."/>
+	<entry name="MoraleDescription/Death" value="Коли юніт гине, союзники юніта в радіусі 3 клітинок від загиблого юніта та від атакувальника втрачають бойовий дух залежно від цінності досвіду загиблого юніта, тоді як союзники атакувальника отримують бойовий дух у тій самій області."/>
 	<entry name="MoraleIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
 	<entry name="MoraleLoss" value="Втрата бойового духу"/>
 	<entry name="MoraleLossIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
@@ -231,7 +231,7 @@
 	<entry name="MoraleMax" value="Макс. бойового духу"/>
 	<entry name="MoraleMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;"/>
 	<entry name="Movement" value="Переміщення"/>
-	<entry name="MovementDescription" value="Скільки клітин юніт може подолати за один хід. Пересічена місцевість вимагає більше одного очка переміщення. Переміщення в клітину, суміжну з ворогом, завершує переміщення."/>
+	<entry name="MovementDescription" value="Скільки клітинок юніт може подолати за один хід. Пересічена місцевість вимагає більше одного очка переміщення. Переміщення в клітинку, суміжну з ворогом, завершує переміщення."/>
 	<entry name="MovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
 	<entry name="MovementCost" value="Витрати переміщення"/>
 	<entry name="MovementCostIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
@@ -246,9 +246,9 @@
 	<entry name="MineralsUpkeep" value="Витрати на утримання (мінерали)"/>
 	<entry name="MineralsUpkeepDescription" value="Кількість мінералів, що витрачається кожен хід на утримання об’єкта."/>
 	<entry name="MineralsUpkeepIcon" value="&lt;icon height='20' texture='Icons/Attributes/Minerals'/&gt;"/>
-	<entry name="PerHeroCost" value="Вартість за кожного існуючого героя"/>
+	<entry name="PerHeroCost" value="Вартість за кожного наявного героя"/>
 	<entry name="Population" value="Населення"/>
-	<entry name="PopulationDescription" value="Використовується для експлуатації будівель у місті. Для кожної будівлі потрібна одна одиниця населення. Якщо необхідна чисельність перевищує поточне населення, ефективність виробництва будівель знижується."/>
+	<entry name="PopulationDescription" value="Використовується для експлуатації будівель у місті. Для кожної увімкненої будівлі потрібна одна одиниця населення. Якщо необхідна чисельність перевищує поточне населення, ефективність виробництва будівель знижується."/>
 	<entry name="PopulationIcon" value="&lt;icon height='20' texture='Icons/Attributes/Population'/&gt;"/>
 	<entry name="PopulationCost" value="Витрата населення"/>
 	<entry name="PopulationCostDescription" value="Чисельність населення, яка витрачається на дію."/>
@@ -278,12 +278,12 @@
 	<entry name="RangeMaxIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
 	<entry name="RangeMin" value="Мін. дальність"/>
 	<entry name="RangeMinIcon" value="&lt;icon height='20' texture='Icons/Attributes/Range'/&gt;"/>
-	<entry name="RangedAccuracy" value="Дальність. точність"/>
-	<entry name="RangedDamageReduction" value="Зменшення дальности шкоди"/>
+	<entry name="RangedAccuracy" value="Точність дальніх атак"/>
+	<entry name="RangedDamageReduction" value="Зменшення шкоди від дальніх атак"/>
 	<entry name="RangedDamageReductionIcon" value="&lt;icon height='20' texture='Icons/Attributes/DamageReduction'/&gt;"/>
 	<entry name="RequiredActionPoints" value="Необхідні дії"/>
 	<entry name="RequiredActionPointsIcon" value="&lt;icon height='20' texture='Icons/Attributes/Actions'/&gt;"/>
-	<entry name="RequiredMovement" value="Необхідний рух"/>
+	<entry name="RequiredMovement" value="Необхідне переміщення"/>
 	<entry name="RequiredMovementIcon" value="&lt;icon height='20' texture='Icons/Attributes/Movement'/&gt;"/>
 	<entry name="Research" value="Дослідження"/>
 	<entry name="ResearchDescription" value="Використовується для відкриття нових технологій. Після здійснення відкриття надлишки досліджень зберігаються."/>

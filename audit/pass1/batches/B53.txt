@@ -1,0 +1,596 @@
+# B53: 137 entries from Settings.xml, Tips.xml
+
+## Settings.xml|Video/VerticalSynchronizationHint
+EN: Synchronizes your frame rate to your monitor's refresh rate.
+UK: Синхронізує частоту кадрів із частотою оновлення вашого монітора.
+
+## Settings.xml|World
+EN: World
+UK: Світ
+
+## Tips.xml|AcquireTile
+EN: Acquire Tile
+UK: Приєднання клітинки
+
+## Tips.xml|AcquireTileDescription
+EN: Before constructing additional buildings, you must first claim another tile. Click “<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Acquire Tile” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a tile with at least 1 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>building slot. This process will take a few <string name='Attributes/TurnsIcon'/> turns.
+UK: Перед будівництвом будівель ви повинні захопити для них територію. Натисніть на <icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Приєднання клітинки та <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>виберіть клітинку з 1 або більше <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>слотами для будівель. Цей процес триватиме кілька <string name='Attributes/TurnsIcon'/> ходів.
+
+## Tips.xml|Affinities
+EN: Affinities
+UK: Спорідненості
+
+## Tips.xml|AffinitiesDescription
+EN: Because of your %1% affinity, you gain earlier and cheaper access to %1% technologies, including exclusive access to the highest tier of %1% research. However, you can discover unique synergies by researching outside your affinity—toggle between branches to view their technologies.
+UK: Через вашу спорідненість %1% ви отримуєте ранній і дешевший доступ до технологій спорідненості %1%, а також ексклюзивний доступ до найвищого рівня досліджень спорідненості %1%. Втім, дослідження за межами вашої спорідненості можуть принести вам унікальні синергії — перемикайтеся між гілками технологій, щоб переглянути їх.
+
+## Tips.xml|AllianceVictory
+EN: Alliance Victory
+UK: Союзна перемога
+
+## Tips.xml|AllianceVictoryDescription
+EN: Even if you are allied with everyone, you can only achieve victory if all of your allies are also allied with each other. Note that NPCs will never agree to ally with one another.
+UK: Навіть якщо ви в союзі з усіма, для досягнення перемоги всі ваші союзники теж повинні бути в союзі один з одним.
+
+## Tips.xml|AreaOrderUnits
+EN: Area Order Units
+UK: Наказ юнітам в області
+
+## Tips.xml|AreaOrderUnitsDescription
+EN: [<control name='OrderAreaUnits'/>] to order all units within 3 tiles of the target enemy to attack it.
+UK: Натисніть [<control name='OrderAreaUnits'/>], щоб наказати всім юнітам у радіусі 3 клітинок від ворожого юніта атакувати його.
+
+## Tips.xml|Bleed
+EN: Bleed
+UK: Кровотеча
+
+## Tips.xml|BleedDescription
+EN: <icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Bleed damages ground units each turn—don’t stay inside for too long.
+UK: <icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Кровотеча кожен хід завдає шкоди наземним юнітам. Не затримуйтеся на ній надовго.
+
+## Tips.xml|Camera
+EN: Camera
+UK: Камера
+
+## Tips.xml|CameraDescription
+EN: Welcome to post-apocalyptic Earth. To move the camera, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>press over terrain and move your mouse.
+UK: Ласкаво просимо на Землю після кінця світу. Щоб перемістити камеру, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>клацніть на ландшафт і пересуньте мишу.
+
+## Tips.xml|CloseQuartersFire
+EN: Close-Quarters Fire
+UK: Стрільба впритул
+
+## Tips.xml|CloseQuartersFireDescription
+EN: <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militants wield weapons with <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Close-Quarters Fire and attack at double rate at range 1. Consider your positioning before <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>attacking.
+UK: У воїнів є зброя з властивістю «<icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Стрільба впритул», тому вони атакують з подвоєною ефективністю на дальності 1. Оцініть позиціонування перед тим, як атакувати.
+
+## Tips.xml|Caches
+EN: Caches
+UK: Схрони
+
+## Tips.xml|CachesDescription
+EN: Caches of <icon height='20' texture='Icons/HumanBranch'/><nbsp/>Human, <icon height='20' texture='Icons/VoiceBranch'/><nbsp/>Voice and <icon height='20' texture='Icons/CyberBranch'/><nbsp/>Cyber supplies are scattered throughout the map. Move a unit onto a cache to collect its contents.
+UK: По всій карті розкидані схрони з припасами <icon height='20' texture='Icons/HumanBranch'/><nbsp/>людей, <icon height='20' texture='Icons/VoiceBranch'/><nbsp/>Голосу і <icon height='20' texture='Icons/CyberBranch'/><nbsp/>кіберів. Перемістіть юніт на схрон, щоб забрати його вміст.
+
+## Tips.xml|Communications
+EN: Communications
+UK: Переговори
+
+## Tips.xml|CommunicationsDescription
+EN: The <icon height='20' texture='Icons/Communications'/><nbsp/>Communications screen lets you manage diplomacy with other players: call or block them, declare war, forge or end pacts, shift relations through gifts, praise or denunciations, and even influence their ties with other factions.
+UK: Екран <icon height='20' texture='Icons/Communications'/><nbsp/>«Переговори» дозволяє вам займатися дипломатією з іншими гравцями: викликати або блокувати їх, оголошувати війну, укладати або розривати угоди, змінювати їхнє ставлення за допомогою подарунків, похвали або засудження й навіть впливати на їхні взаємовідносини з іншими сторонами.
+
+## Tips.xml|ConstructInfantryBuilding
+EN: Construct Barracks
+UK: Будівництво казарм
+
+## Tips.xml|ConstructInfantryBuildingDescription
+EN: Construct unit production buildings to reinforce your struggling presence. Click “<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracks” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a valid tile to start construction there. This will take several <string name='Attributes/TurnsIcon'/> turns.
+UK: Побудуйте будівлю з виробництва юнітів, щоб зміцнити свої хиткі позиції. Натисніть на <icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Казарми та <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>виберіть відповідну клітинку, щоб почати будівництво. Це займе декілька <string name='Attributes/TurnsIcon'/> ходів.
+
+## Tips.xml|Cover
+EN: Cover
+UK: Укриття
+
+## Tips.xml|CoverDescription
+EN: <icon height='20' texture='Icons/Features/Forest'/><nbsp/>Forests, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruins, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>outposts and <icon height='20' texture='Icons/Features/City'/><nbsp/>cities grant ranged damage reduction for non-large units. Take cover when you can.
+UK: <icon height='20' texture='Icons/Features/Forest'/><nbsp/>Ліси, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>руїни, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>застави та <icon height='20' texture='Icons/Features/City'/><nbsp/>міста наділяють НЕ-великі юніти скороченням дистанційної шкоди. Користуйтеся укриттями при будь-якій можливості.
+
+## Tips.xml|DamageCap
+EN: Damage Cap
+UK: Обмеження шкоди
+
+## Tips.xml|DamageCapDescription
+EN: A weapon’s <icon height='20' texture='Icons/Attributes/Damage'/><nbsp/>damage exceeds the <icon height='20' texture='Icons/Attributes/Hitpoints'/><nbsp/>hitpoints of a single member of the target enemy, which causes any excess to be wasted.
+UK: <icon height='20' texture='Icons/Attributes/Damage'/><nbsp/>Шкода зброї перевищує <icon height='20' texture='Icons/Attributes/Hitpoints'/><nbsp/>одиниці здоров’я окремого члена групи ворожого загону, через що надлишкова шкода буде втрачена.
+
+## Tips.xml|DamageCalculation
+EN: Damage Calculation
+UK: Розрахунок шкоди
+
+## Tips.xml|DamageCalculationDescription
+EN: There are a few important concepts to understand about damage calculation.<br/>
+    <br/>
+    Each unit has a number of identical group members, with the unit’s total hitpoints being composed of the hitpoints of each individual group member. When a unit loses hitpoints equivalent to a group member, that member dies and no longer contributes its weapons to attacks, effectively reducing inflicted damage by the fraction that squad member represents. Healing the unit will bring the group member back to life, restoring the unit’s power. Units with only 1 squad member, such as large units, become damaged when below 50% hitpoints which reduces their accuracy by 33%.<br/>
+    <br/>
+    When calculating a weapon’s final inflicted damage, the weapon’s damage value is first capped by the target unit’s group member hitpoints. That means a single attack of a weapon can never do more damage than there are hitpoints for an individual member in the target group. That is, a 6 damage weapon against a Militants group where each Militant has 2 hitpoints can never deal more than 2 damage. For single group member units, such as large units, this is irrelevant as their total hitpoints equals their member hitpoints.<br/>
+    <br/>
+    After the hitpoints cap, attacks, accuracy and the target’s armor and other damage reductions are all applied multiplicatively.<br/>
+    <br/>
+    Attacks specifies the number of attacks a weapon makes against its target when the unit attacks. This is the most valuable stat to increase, because it scales the damage after the hitpoints cap. And unlike accuracy it is unbounded in the upper limit.<br/>
+    <br/>
+    Accuracy can range from 2 to 12, each point being 1/12 or 0.083 that is multiplied into the final damage value. It cannot be decreased below 2 or increased above 12.<br/>
+    <br/>
+    Armor and other damage reductions (cover, evasion, city, invulnerable) of the same type are added together and then each reduce the damage by their corresponding factor multiplicatively, but no individual type can reduce the damage by more than 10/12 or 83%. Armor penetration indicates how many points of armor are ignored. Unless specifically mentioned otherwise, all damage reductions apply to both melee and ranged weapons.<br/>
+    <br/>
+    Traits are built on top of and use these elementary concepts. For example, weapons with the splash trait gain additional attacks for each extra living member in the target group, and weapons with the ignore cover trait ignore cover damage reduction of the target unit.<br/>
+    <br/>
+    Some consequences of all this:<br/>
+    <icon texture='GUI/Bullet'/>Increasing the damage of a weapon may not increase the inflicted damage.<br/>
+    <icon texture='GUI/Bullet'/>Infantry are tankier than their hitpoints might indicate. Single attack high damage non-splash weapons won’t be able to kill more than 1 group member. And at full hitpoints won’t even be able to kill 1 group member unless the weapon has 100% accuracy.<br/>
+    <icon texture='GUI/Bullet'/>To kill infantry, it’s better to have high accuracy, more attacks or splash.<br/>
+    <icon texture='GUI/Bullet'/>Hitpoint gains from leveling are less useful for low hitpoints group members. The increase in hitpoints is canceled out by the increase in group member hitpoints cap, making it worthless against weapons that already exceed the cap.<br/>
+    <icon texture='GUI/Bullet'/>Healing is more valuable on infantry.<br/>
+    <icon texture='GUI/Bullet'/>Modifying low accuracy by a flat amount is more valuable than modifying high accuracy. E.g. increasing accuracy from 6 to 8 (50% to 67%) is a 33% damage increase. However, increasing accuracy from 8 to 10 (67% to 83%) is a 25% damage increase.<br/>
+    <icon texture='GUI/Bullet'/>Damage reduction of the same type has increasing returns. E.g. increasing armor from 0 to 1 will only give an (12-0)/(12-1)=+9% increase in survivability. However, increasing armor from 9 to 10 will give a (12-9)/(12-10)=+50% increase in survivability.
+UK: Є кілька важливих факторів, які слід знати про розрахунок шкоди.<br/>
+    <br/>
+    Кожен загін складається з певної кількості однакових членів групи, а загальні одиниці здоров’я юніта складаються з одиниць здоров’я кожного окремого члена групи. Коли юніт втрачає одиниці здоров’я, еквівалентні члену загону, цей член групи гине, і його зброя більше не бере участі в атаках, що ефективно знижує завдану шкоду на частку, що відповідає цьому члену загону. Лікування загону повертає до життя членів групи і відновлює міць юніта. Одиночні юніти (наприклад, великі юніти) вважаються пошкодженими, коли у них менше 50% одиниць здоров’я, що знижує на 33% їхню точність.<br/>
+    <br/>
+    При підрахунку підсумкової завданої шкоди шкода зброї насамперед обмежується зверху одиницями здоров’я одного члена цільового загону. Це означає, що одна атака зброї не може завдати більше шкоди, ніж є одиниць здоров’я в одного члена цільового загону. Таким чином, зброя зі шкодою 6, застосована проти юніта «Воїни», де в кожного воїна по 2 одиниці здоров’я, ніколи не завдасть більше 2 одиниць шкоди. Це не застосовується до одиночних юнітів (наприклад, великих юнітів), оскільки їхні загальні одиниці здоров’я дорівнюють одиницям життя їхнього члена.<br/>
+    <br/>
+    Після врахування обмеження одиниць здоров’я мультиплікативно застосовуються атаки, точність, броня цілі та інші скорочення шкоди.<br/>
+    <br/>
+    Атаки визначають кількість атак, яку зброя здійснює проти цілі, коли юніт атакує. Це найцінніший для підвищення параметр, оскільки від нього залежить шкода після врахування обмеження одиниць здоров’я. І, на відміну від точності, у нього немає верхньої межі.<br/>
+    <br/>
+    Точність варіюється від 2 до 12, кожна одиниця становить 1/12 або 0,083 від підсумкової шкоди. Її неможливо знизити нижче 2 або підвищити вище 12.<br/>
+    <br/>
+    Броня та інші скорочення шкоди (укриття, ухилення, місто, незнижуване) одного типу складаються разом, а потім кожен тип мультиплікативно знижує шкоду на свою величину, але жоден окремий тип не може знизити шкоду більш ніж на 10/12 або 83%. Бронебійність визначає, скільки одиниць броні ігнорується. Якщо не вказано інакше, всі скорочення шкоди застосовуються і до зброї ближнього бою, і до дистанційної.<br/>
+    <br/>
+    Властивості застосовуються з урахуванням цих основних факторів. Наприклад, зброя з властивістю «Розкид» отримують додаткові атаки за кожного додаткового живого члена цільового загону, а зброя з властивістю «Ігнорує укриття» дозволяє ігнорувати скорочення шкоди за укриття цільового юніта.<br/>
+    <br/>
+    Деякі наслідки цих факторів:<br/>
+    <icon texture='GUI/Bullet'/>Підвищення шкоди зброї не завжди підвищує завдану шкоду.<br/>
+    <icon texture='GUI/Bullet'/>Піхота більш витривала, ніж здається за її одиницями здоров’я. Зброя без розкиду з високою шкодою однієї атаки не вб’є більше одного члена загону. А при повних одиницях життя не зможе вбити навіть одного члена групи, якщо тільки зброя не володіє точністю 100%.<br/>
+    <icon texture='GUI/Bullet'/>Для ураження піхоти краще мати високу точність, більше атак або атаки з розкидом.<br/>
+    <icon texture='GUI/Bullet'/>Отримання одиниць здоров’я при підвищенні рівня не так корисно для членів групи з низькими одиницями здоров’я. Підвищення одиниць здоров’я нівелюється підвищенням обмеження одиниць здоров’я одного члена загону, що робить це марним проти зброї, яка вже перевищує це обмеження.<br/>
+    <icon texture='GUI/Bullet'/>Лікування більш корисне для піхоти.<br/>
+    <icon texture='GUI/Bullet'/>Фіксований бонус до низької точності більш корисний, ніж до високої. Наприклад, підвищення точності з 6 до 8 (від 50% до 67%) означає підвищення шкоди на 33%. Водночас підвищення точності з 8 до 10 (від 67% до 83%) означає підвищення шкоди на 25%.<br/>
+    <icon texture='GUI/Bullet'/>Скорочення шкоди одного типу приносить кращий результат. Наприклад, підвищення броні з 0 до 1 означає підвищення живучості лише на (12-0)/(12-1)=+9%. Водночас підвищення броні з 9 до 10 означає підвищення живучості на (12-9)/(12-10)=+50%.
+
+## Tips.xml|Debuff
+EN: Debuff
+UK: Ослаблення
+
+## Tips.xml|DebuffDescription
+EN: The unit is suffering from the %1% debuff—consider your options.
+UK: Юніт отримав ослаблення «%1%» — обміркуйте подальші дії.
+
+## Tips.xml|EnemyInCity
+EN: Enemy In City
+UK: Ворог всередині міста
+
+## Tips.xml|EnemyInCityDescription
+EN: Enemy units disable buildings and outposts as well as prevent new building construction on the unit's tile.
+UK: Ворожі юніти вимикають будівлі та застави, а також заважають будівництву нових будівель на зайнятих ними клітинках.
+
+## Tips.xml|Engineers
+EN: Engineers
+UK: Інженери
+
+## Tips.xml|EngineersDescription
+EN: To found additional cities, you'll have to research and produce <icon height='20' texture='Icons/Units/Engineer'/><nbsp/>Engineers.
+UK: Щоб побудувати нові міста, вам потрібно буде дослідити та створити <icon height='20' texture='Icons/Units/Engineer'/><nbsp/>інженерів.
+
+## Tips.xml|EnterCity
+EN: Enter City
+UK: Вхід у місто
+
+## Tips.xml|EnterCityDescription
+EN: Enter the city by <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>clicking on the city <icon height='20' texture='Icons/Units/Headquarters'/><nbsp/>headquarters tile again.
+UK: Увійдіть у місто, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>клацнувши на клітинку <icon height='20' texture='Icons/Units/Headquarters'/><nbsp/>штабу ще раз.
+
+## Tips.xml|EquipItem
+EN: Equip Item
+UK: Використання предметів
+
+## Tips.xml|EquipItemDescription
+EN: <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>click an item to equip it on your hero. Newly equipped items go on a 1 turn cooldown before being usable.
+UK: <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>Клацніть по предмету, щоб дати його своєму герою. Щойно взяті предмети перезаряджаються 1 хід, перш ніж їх можна використати.
+
+## Tips.xml|FallenSoldier
+EN: Fallen Soldier
+UK: Полеглий Солдат
+
+## Tips.xml|FallenSoldierDescription
+EN: You are playing as the <icon height='20' texture='Icons/Factions/FallenSoldier'/><nbsp/>Fallen Soldier, a Human-affinity leader whose units heal each turn thanks to <icon height='20' texture='Icons/Traits/Undying'/><nbsp/><string name='Traits/Undying'/>, but are more expensive to maintain because of <icon height='20' texture='Icons/Traits/LeaveNoManBehind'/><nbsp/><string name='Traits/LeaveNoManBehind'/>. Through research, you can unlock more of your leader’s unique properties.
+UK: Ви граєте за <icon height='20' texture='Icons/Factions/FallenSoldier'/><nbsp/>Полеглого Солдата — лідера зі спорідненістю до людей, чиї юніти кожен хід лікуються завдяки рисі <icon height='20' texture='Icons/Traits/Undying'/><nbsp/>«<string name='Traits/Undying'/>», але витрачають більше ресурсів на утримання через рису <icon height='20' texture='Icons/Traits/LeaveNoManBehind'/><nbsp/>«<string name='Traits/LeaveNoManBehind'/>». Дослідження дозволять вам відкрити й інші унікальні властивості вашого лідера.
+
+## Tips.xml|FoundCity
+EN: Found City
+UK: Заснування міста
+
+## Tips.xml|FoundCityDescription
+EN: <icon height='20' texture='Icons/Units/Engineer'/><nbsp/>Engineers can found cities. To establish your first city, click “<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Found City” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a tile.
+UK: Щоб заснувати місто, натисніть на <icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Заснування міста та <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>виберіть клітинку.
+
+## Tips.xml|HabitationBlocks
+EN: Habitation Blocks
+UK: Житлові блоки
+
+## Tips.xml|HabitationBlocksDescription
+EN: Each building except the headquarters requires 1 <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population to operate. It's critical to research and construct <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Habitation Blocks to increase your city's <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>housing (population limit).
+UK: Кожній будівлі, за винятком штабу, для роботи потрібна 1 одиниця <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>населення. Для підвищення кількості <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>житла (ліміту населення) вашого міста необхідно дослідити та побудувати <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Житлові блоки.
+
+## Tips.xml|Healing
+EN: Healing
+UK: Лікування
+
+## Tips.xml|HealingDescription
+EN: The unit has suffered significant damage. To heal, it must stay still and not participate in combat. Click “<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Hold Position Until Healed” to wait until it is back at full strength. Consider retreating to a friendly outpost or city tile where healing is accelerated.
+UK: Юніт отримав значну шкоду. Для лікування він повинен залишатися на місці і не вступати в бій. Натисніть на <icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Утримання позиції до зцілення, щоб дочекатися, поки юніт не відновить усі сили. Не зайвим буде відступити до дружньої застави або міста, де лікування йде швидше.
+
+## Tips.xml|Housing
+EN: Housing
+UK: Житло
+
+## Tips.xml|HousingDescription
+EN: The city's <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>housing is full. Construct <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Habitation Blocks to increase the amount of living space and allow your population to grow again.
+UK: У місті закінчилося вільне <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>житло. Побудуйте <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Житлові блоки, щоб збільшити житловий простір і дозволити населенню далі зростати.
+
+## Tips.xml|Loyalty
+EN: Loyalty
+UK: Лояльність
+
+## Tips.xml|LoyaltyDescription
+EN: Negative loyalty is decreasing the city's resource output. Research and construct a <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>Holo Theater to keep your population working effectively.
+UK: Негативна лояльність знижує виробництво ресурсів містом. Дослідіть та побудуйте <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>голотеатр, щоб ваше населення працювало більш ефективно.
+
+## Tips.xml|MarkTiles
+EN: Mark Tiles
+UK: Мітка клітинок
+
+## Tips.xml|MassOrderUnits
+EN: Mass Order Units
+UK: Переміщення кількох юнітів
+
+## Tips.xml|MassOrderUnitsDescription
+EN: [<control name='OrderAllUnits'/>] to order all units or [<control name='OrderAllIdleUnits'/>] to order all idle units to move to a target tile or attack a target enemy.
+UK: Натисніть [<control name='OrderAllUnits'/>], щоб наказати всім юнітам, або [<control name='OrderAllIdleUnits'/>], щоб наказати всім бездіяльним юнітам переміститися на вказану клітинку або атакувати вказаного ворога.
+
+## Tips.xml|Morale
+EN: Morale
+UK: Бойовий дух
+
+## Tips.xml|MoraleDescription
+EN: The unit has taken a hit to <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>morale from the loss of nearby allies. This will reduce their performance in combat. To recover, keep them out of combat or kill enemy units.
+UK: Втрата союзників поблизу позначилася на <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>бойовому дусі юніта. Це погіршить його бойові якості. Щоб юніт відновився, не давайте йому вступати в бій або, навпаки, вбивайте ворожі юніти.
+
+## Tips.xml|Movement
+EN: Movement
+UK: Рух
+
+## Tips.xml|MovementDescription
+EN: Move the unit by pressing <icon height='20' texture='Icons/RightMouseButton'/>. Each unit can only move once per turn inside the <style color='GUI/Green'/>green area<style color='Default'/>. Cliffs, which are only traversable by titans and flying units, are represented by <style color='GUI/Orange'/>orange lines<style color='Default'/>.
+UK: Перемістіть вибраний юніт, натиснувши <icon height='20' texture='Icons/RightMouseButton'/>. Кожен юніт може рухатися лише один раз за хід у межах <style color='GUI/Green'/>зеленої області<style color='Default'/>. Скелі, які можуть подолати лише титани й літаючі юніти, позначені <style color='GUI/Orange'/>помаранчевими лініями<style color='Default'/>.
+
+## Tips.xml|NPCs
+EN: NPCs
+UK: Неігрові персонажі
+
+## Tips.xml|NPCsDescription
+EN: Three non-player leaders are also fighting for supremacy: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>Anchorite, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>Chieftess and <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. Peace with them allows you to ask for their support. Good standing may unlock additional choices in quests.
+UK: Крім вас, боротьбу за перевагу ведуть три неігрових лідери: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>Анахорет, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>Вождиня та <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ЗЕФОН. Укладений з ними мир дозволяє вам запитувати їхню підтримку. Хороші стосунки також дають доступ до додаткових варіантів у завданнях.
+
+## Tips.xml|NextTask
+EN: Next Task
+UK: Наступне завдання
+
+## Tips.xml|NextTaskDescription
+EN: Take your time to explore the interface—every element has a hint with extra information. If you’re unsure what to do next, check the large red task button on the bottom right side of the screen. It will help you focus on the next task before you end your turn.
+UK: Не поспішайте і добре вивчіть інтерфейс — усі його елементи мають підказки з додатковою інформацією. Якщо ви не впевнені, що робити далі, знайдіть велику червону кнопку завдання в нижній правій частині екрана. Вона нагадає вам про наступне завдання, поки ви не завершили хід.
+
+## Tips.xml|Operations
+EN: Operations
+UK: Операції
+
+## Tips.xml|OperationsDescription
+EN: Operations, shown in the top-left of the screen, are <icon height='20' texture='Icons/Attributes/Range'/><nbsp/>map-wide abilities with limited <icon height='20' texture='Icons/Attributes/Charges'/><nbsp/>uses, earned as rewards or produced in your cities. Because they have an upkeep cost, you can dismantle them with a <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>click if you do not plan to use them.
+UK: У верхньому лівому куті екрана показані операції — здібності, які діють на <icon height='20' texture='Icons/Attributes/Range'/><nbsp/>карту і мають обмежену <icon height='20' texture='Icons/Attributes/Charges'/><nbsp/>кількість застосувань. Їх можна отримати як нагороду або виробити у ваших містах. Вони витрачають ресурси на утримання, тому від них можна відмовитися за допомогою <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>ПКМ, якщо ви не плануєте їх використовувати.
+
+## Tips.xml|Outposts
+EN: Outposts
+UK: Застави
+
+## Tips.xml|OutpostsDescription
+EN: Capture <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>outposts to increase your resource gain. When within cities, they also grant % bonuses to the entire city. Some outposts also provide bonuses to the stationed unit or grant rewards at regular intervals.
+UK: Захоплюйте <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>застави, щоб підвищувати приріст ресурсів. Перебуваючи в межах кордонів міста, вони також дають всьому місту процентні бонуси. Деякі застави також наділяють бонусами розташовані на них юніти або періодично дають інші нагороди.
+
+## Tips.xml|Overwatch
+EN: Overwatch
+UK: Дозор
+
+## Tips.xml|OverwatchDescription
+EN: Units with actions remaining will fire overwatch shots at enemies that enter their <style color='GUI/Red'/>red attack area<style color='Default'/>. Consider disabling <icon height='20' texture='Icons/Actions/Overwatch'/><nbsp/>overwatch if you don't want to unleash neutral units.
+UK: Юніти, у яких залишилися дії, будуть обстрілювати з дозору тих ворогів, що входять у їхню <style color='GUI/Red'/>червону область атаки<style color='Default'/>. Вимикайте <icon height='20' texture='Icons/Actions/Overwatch'/><nbsp/>дозор, якщо не хочете випадково зробити нейтральних юнітів агресивними.
+
+## Tips.xml|LeaderAbilities
+EN: Leader Abilities
+UK: Здібності лідерів
+
+## Tips.xml|LeaderAbilitiesDescription
+EN: Each leader has unique abilities that cost <icon height='20' texture='Icons/Attributes/Influence'/><nbsp/>influence to activate, displayed in the top-left of the screen. Some of these powers can also be earned through quests. Use them at the right moment to maximize your chances of success.
+UK: У верхній частині екрана є унікальна здібність, доступна лише вам і вашому лідеру, яка витрачає від одиниць <icon height='20' texture='Icons/Attributes/Influence'/><nbsp/>впливу. Наведення на неї миші може виявити на карті можливі місця. Деякі здібності лідерів мають кілька варіантів, яким приймається рішення про використання.
+
+## Tips.xml|Population
+EN: Population
+UK: Населення
+
+## Tips.xml|PopulationDescription
+EN: The city’s <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population is too low to operate all buildings at full efficiency. Click <icon height='20' texture='Icons/DisableBuilding'/> to disable a nonessential building.
+UK: Місту бракує <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>населення для ефективної роботи всіх будівель. Ви можете клацнути по значку <icon height='20' texture='Icons/DisableBuilding'/>, щоб вимкнути будівлю.
+
+## Tips.xml|ProduceUnits
+EN: Produce Units
+UK: Виробництво юнітів
+
+## Tips.xml|ProduceUnitsDescription
+EN: Start <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militant production in the Barracks. Other buildings can keep producing at the same time. If you construct additional Barracks, units will finish training faster.
+UK: Почніть у казармах виробництво <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Воїнів. Інші будівлі продовжують своє виробництво в той же час. Якщо ви побудуєте більше казарм, то навчання юнітів проходитиме швидше.
+
+## Tips.xml|Recon
+EN: Recon
+UK: Розвідка
+
+## Tips.xml|ReconDescription
+EN: Many units have activatable abilities. <icon height='20' texture='Icons/Units/Outrider'/><nbsp/>Outriders and <icon height='20' texture='Icons/Units/Sharpshooter'/><nbsp/>Sharpshooters can reveal everything within <icon height='20' texture='Icons/Attributes/Radius'/><nbsp/>3 tiles with the <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Recon ability.
+UK: У багатьох юнітів є здібності, що активуються. <icon height='20' texture='Icons/Units/Outrider'/><nbsp/>«Колісниці» та <icon height='20' texture='Icons/Units/Sharpshooter'/><nbsp/>Снайпери можуть розкривати все в радіусі <icon height='20' texture='Icons/Attributes/Radius'/><nbsp/>3 клітинок за допомогою здібності <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Розвідка.
+
+## Tips.xml|Research
+EN: Research
+UK: Дослідження
+
+## Tips.xml|ResearchDescription
+EN: Researching a hero is a good place to start. Once unlocked, you can produce them in the headquarters. Note that changing your active research will forfeit any partial progress.
+UK: Непоганим початком буде дослідити героя. Після цього ви зможете виробити його в штабі. Враховуйте, що зміна поточного дослідження скине весь частковий прогрес.
+
+## Tips.xml|ResearchLaboratory
+EN: Research Laboratory
+UK: Наукова лабораторія
+
+## Tips.xml|ResearchLaboratoryDescription
+EN: It’s valuable to unlock the construction of <icon height='20' texture='Icons/Buildings/Research'/><nbsp/>Research Laboratories to increase your research speed.
+UK: Щоб швидше проводити дослідження, щойно ви зможете собі це дозволити фінансово, побудуйте <icon height='20' texture='Icons/Buildings/Research'/><nbsp/>Дослідну лабораторію.
+
+## Tips.xml|TheConcordat
+EN: The Concordat
+UK: Конкордат
+
+## Tips.xml|TheConcordatDescription
+EN: You can buy and sell resources and hero items at any time at <icon height='20' texture='Icons/Shop'/><nbsp/>The Concordat.
+UK: У <icon height='20' texture='Icons/Shop'/><nbsp/>Конкордаті ви в будь-який час можете купувати та продавати ресурси і предмети для героїв.
+
+## Tips.xml|Transports
+EN: Transports
+UK: Транспорти
+
+## Tips.xml|TransportsDescription
+EN: <icon height='20' texture='Icons/Traits/Transport'/><nbsp/>Transports can carry non-large units as cargo. Embarked units heal inside, but if the transport is destroyed, the cargo dies with it.
+UK: Транспорти можуть перевозити НЕ-великі юніти. Для завантаження <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>перемістіть юніт у клітинку з транспортом. Завантажені юніти лікуються всередині, але при знищенні транспорту весь вантаж також гине разом з ним.
+
+## Tips.xml|Selection
+EN: Selection
+UK: Вибір
+
+## Tips.xml|SelectionDescription
+EN: <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>click on a unit to select it.
+UK: <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>клацніть по юніту, щоб його вибрати.
+
+## Tips.xml|TileEffect
+EN: Tile Effect
+UK: Ефект клітинки
+
+## Tips.xml|TileEffectDescription
+EN: The unit is standing on a tile affected by the %1% status effect. Hover over the unit’s traits in the bottom-left of the screen to see what the effect does.
+UK: Юніт стоїть на клітинці, де діє ефект «%1%». Наведення миші на підказку клітинки в лівій нижній частині екрана може більш чітко показати, як вплине ефект.
+
+## Tips.xml|UnitLevels
+EN: Unit Levels
+UK: Рівні юнітів
+
+## Tips.xml|UnitLevelsDescription
+EN: Kills made within 3 tiles of a unit grant it <icon height='20' texture='Icons/Attributes/Level'/><nbsp/>experience. All units gain levels, but heroes also gain special abilities that you can choose on <icon height='20' texture='Icons/Actions/LevelUp'/><nbsp/>level-up.
+UK: Юніти, що виконали у битвах 3 атаки ворога, набувають <icon height='20' texture='Icons/Attributes/Level'/><nbsp/>рівень. Щоб юніт за бій набирав більше досвіду, він повинен битися проти сильніших противників, які він зможе перемогти сам <icon height='20' texture='Icons/Actions/LevelUp'/><nbsp/>підвищуючи рівень.
+
+## Tips.xml|Winning
+EN: Winning
+UK: Перемога
+
+## Tips.xml|WinningDescription
+EN: To win, either defeat all other players or unite everyone under one alliance. In the introduction, you only need to defeat the <icon height='20' texture='Icons/Factions/HeartlessArtificer'/><nbsp/>Heartless Artificer.
+UK: Щоб перемогти, завдайте поразки всім гравцям або об’єднайте всіх в один союз. У вступній грі вам достатньо здолати <icon height='20' texture='Icons/Factions/HeartlessArtificer'/><nbsp/>Бездушну Майстриню.
+
+## Tips.xml|Loading
+EN: Loading Screen Tips
+UK: Поради з завантажувальних екранів
+
+## Tips.xml|Loading/0
+EN: Bleed and fire stops ground units and damages them.
+UK: Вогонь і Кровотеча зупиняють наземні юніти та завдають їм шкоди.
+
+## Tips.xml|Loading/1
+EN: Rivers, forests and ruins reduce ground unit movement.
+UK: Річки, ліси та руїни уповільнюють рух наземних юнітів.
+
+## Tips.xml|Loading/3
+EN: Roads increase ground unit movement.
+UK: Дороги підвищують швидкість руху наземних юнітів.
+
+## Tips.xml|Loading/5
+EN: Units heal faster in outposts and cities.
+UK: Юніти лікуються швидше в заставах і містах.
+
+## Tips.xml|Loading/17
+EN: City defenses are affected by buffs, debuffs and morale.
+UK: Сили оборони міста піддаються впливу посилень, ослаблень і бойового духу.
+
+## Tips.xml|Loading/18
+EN: Killing Abkhans will reward you with resources and items.
+UK: При вбивстві абханів ви отримуєте нагороду у вигляді ресурсів і предмета.
+
+## Tips.xml|Loading/19
+EN: Neutral units do not chase until they are attacked.
+UK: Нейтральні юніти не переслідують вас, якщо їх не атакують.
+
+## Tips.xml|Loading/20
+EN: Producing a second hero costs double.
+UK: Виробництво другого героя коштує вдвічі більше.
+
+## Tips.xml|Loading/21
+EN: Terrain height and tile features affect the vision and range of units.
+UK: Висота місцевості та особливості клітинок впливають на огляд і дальність юнітів.
+
+## Tips.xml|Loading/22
+EN: Lowering enemy morale has a devastating effect and can allow you to win battles you thought were impossible.
+UK: Зниження ворожого бойового духу вельми ефективне і може переломити хід битви, яку ви вже вважали програною.
+
+## Tips.xml|Loading/24
+EN: Running out of a resource reduces the output of buildings that require it.
+UK: Нестача ресурсу знижує виробництво будівель, для яких він потрібен.
+
+## Tips.xml|Loading/25
+EN: Running out of resources causes units to be undersupplied and suffer accuracy penalties.
+UK: Нестача ресурсів викликає у юнітів брак припасів, що веде до зниження їхньої точності.
+
+## Tips.xml|Loading/26
+EN: The longer a unit is undersupplied, the higher its accuracy penalty.
+UK: Чим довше юніт страждає від браку припасів, тим сильніше знижується його точність.
+
+## Tips.xml|Loading/27
+EN: Acquiring an outpost tile with a city grants the whole city percentage bonuses.
+UK: Приєднання клітинки із заставою до міста дає всьому місту відсоткові бонуси.
+
+## Tips.xml|Loading/28
+EN: Constructing multiple buildings of the same type increases their production speed.
+UK: Будівництво кількох будівель одного типу підвищує швидкість їхнього виробництва.
+
+## Tips.xml|Loading/29
+EN: Leftover production and research carries over to the next item.
+UK: Надлишки виробництва та дослідження не втрачаються, а зберігаються для подальшого застосування.
+
+## Tips.xml|Loading/31
+EN: Population can grow only up to your available housing.
+UK: Населення може вирости лише до тієї кількості, яку дозволяє наявне житло.
+
+## Tips.xml|Loading/34
+EN: Having a shortage of population causes everyone to be spread equally across all buildings, fractionally reducing their output.
+UK: Нестача населення змушує розподіляти робочі руки порівну по всіх будівлях, пропорційно знижуючи їхнє виробництво.
+
+## Tips.xml|Loading/37
+EN: Influence: <string name='Attributes/InfluenceDescription'/>
+UK: Вплив: <string name='Attributes/InfluenceDescription'/>
+
+## Tips.xml|Loading/38
+EN: Press [<control name='ToggleYieldOverlay'/>] to show tile information on all tiles.
+UK: Натисніть [<control name='ToggleYieldOverlay'/>], щоб показати інформацію про всі клітинки.
+
+## Tips.xml|Loading/39
+EN: [<control name='ToggleBuildingPower'/>] building icons on tiles to toggle building power at will, freeing population and building input resources.
+UK: [<control name='ToggleBuildingPower'/>] по значку будівлі на клітинці, щоб вимкнути її живлення, тим самим вивільнивши населення та споживані будівлею ресурси.
+
+## Tips.xml|Loading/40
+EN: [<control name='DismantleBuilding'/>] building icons on tiles to demolish buildings.
+UK: [<control name='DismantleBuilding'/>] по значку будівлі на клітинці, щоб знести будівлю.
+
+## Tips.xml|Loading/41
+EN: Damaged cities have destruction penalties to resource output until repaired.
+UK: Пошкоджені міста виробляють менше ресурсів, поки не будуть відремонтовані.
+
+## Tips.xml|Loading/42
+EN: Resources are accumulated and shared across your whole economy, allowing you to specialize cities and stock up for wartime.
+UK: Накопичені ресурси доступні для всієї вашої економіки, що дозволяє спеціалізувати міста та запасатися на випадок війни.
+
+## Tips.xml|Loading/44
+EN: Fortifications, flyers and titans are higher in the air and are easier to have a line of fire to.
+UK: Укріплення, літуни та титани знаходяться вище горизонту, і тому по них простіше знайти лінію стрільби.
+
+## Tips.xml|Loading/45
+EN: Researching a technology that is not of your affinity may provide unique synergies.
+UK: Дослідження технологій поза вашою схильністю може призвести до несподіваних ефективних поєднань.
+
+## Tips.xml|Loading/46
+EN: Each tile has a resource bonus that increases the output of buildings on that tile.
+UK: Кожна клітинка дає бонус ресурсів, який підвищує виробництво в будівлях на цій клітинці.
+
+## Tips.xml|Loading/47
+EN: Units that have actions remaining have the <icon texture='Icons/Attributes/Actions'/><nbsp/>icon visible on them.
+UK: Юніти, у яких залишилися дії, показані відповідним <icon texture='Icons/Attributes/Actions'/><nbsp/>значком.
+
+## Tips.xml|Loading/48
+EN: Leashed neutral units may attack you in their turn if you're in their attack range.
+UK: Неагресивні нейтральні юніти можуть напасти на вас у свій хід, якщо ви в області їхньої атаки.
+
+## Tips.xml|Loading/49
+EN: Even leashed neutral units overwatch anyone entering their attack range.
+UK: Навіть неагресивні нейтральні юніти атакують з дозору будь-кого, хто входить в область їхньої атаки.
+
+## Tips.xml|Loading/50
+EN: Consider turning off overwatch to not unleash neutral units with your attacks.
+UK: Іноді варто вимикати дозор, щоб випадково не спровокувати агресію нейтральних юнітів своїми атаками.
+
+## Tips.xml|Loading/51
+EN: Damage dealt by a single weapon attack is capped by the target squad member's hitpoints and then reduced by the weapon's accuracy.
+UK: Шкода, завдана однією атакою зброєю, обмежується зверху одиницями здоров’я члена цільового загону, а потім знижується залежно від точності зброї.
+
+## Tips.xml|Loading/52
+EN: Splash weapons deal extra attacks against targets with multiple squad members.
+UK: Зброя з розкидом здійснює додаткові атаки по цілях із кількома членами загону.
+
+## Tips.xml|Loading/53
+EN: Large units have -33% accuracy while below half hitpoints.
+UK: Великі юніти отримують -33% до точності, коли у них менше половини одиниць здоров’я.
+
+## Tips.xml|Loading/54
+EN: [<control name='MarkTile'/>] to mark tiles for yourself and your allies. AI allies will tend to move their units towards your markers.
+UK: [<control name='MarkTile'/>] позначає клітинки для вас і ваших союзників. Союзні ШІ схильні пересувати свої юніти ближче до ваших міток.
+
+## Tips.xml|Loading/56
+EN: “Each turn” effects like “On Fire” trigger at the start of the source player's turn.
+UK: Ефекти «кожного ходу» (наприклад, «У вогні») спрацьовують на початку ходу вихідного гравця.
+
+## Tips.xml|Loading/57
+EN: Units can see 3 tiles away.
+UK: Юніти бачать навколишню місцевість у радіусі 3 клітинок.
+
+## Tips.xml|Loading/58
+EN: Outposts and cities grant sight to adjacent tiles.
+UK: Застави та міста забезпечують видимість суміжних клітинок.
+
+## Tips.xml|Loading/59
+EN: The last coordinate of the tile is the tile's height (x, y, height).
+UK: Остання координата клітинки — це її висота (X, Y, висота).
+
+## Tips.xml|Loading/60
+EN: Move items to adjacent allied heroes by dragging them from the inventory.
+UK: Передавайте предмети суміжним союзним героям, перетягуючи їх між клітинками спорядження.
+
+## Tips.xml|Loading/61
+EN: [<control name='OrderAllIdleUnits'/>] to order all idle units.
+UK: [<control name='OrderAllIdleUnits'/>] — наказ усім бездіяльним юнітам.
+
+## Tips.xml|Loading/62
+EN: [<control name='OrderAllUnits'/>] to order all units.
+UK: [<control name='OrderAllUnits'/>] — наказ усім юнітам.
+
+## Tips.xml|Loading/63
+EN: [<control name='OrderAreaUnits'/>] to order all units in the area (radius 3).
+UK: [<control name='OrderAreaUnits'/>] — наказ усім юнітам в області (радіус 3).
+
+## Tips.xml|Loading/64
+EN: Move units large distances by right-clicking on the minimap.
+UK: Переміщайте юніти на великі відстані, клацаючи правою кнопкою по мінікарті.
+
+## Tips.xml|Loading/66
+EN: Bleed, forests, ruins, volcanoes and city buildings block unit sight.
+UK: Кровотеча, ліси, руїни, вулкани та міські будівлі блокують огляд юнітів.
+

@@ -1,0 +1,49 @@
+{
+	"_format": "Per findings file: drop = finding numbers rejected, pending = still to verify, edit = number -> replacement fields, add = extra fixes. Numbers are 1-based as printed by show_findings.py.",
+	"_decisions_by_VK": [
+		"Wave 1 fixes: apply all (done: 288 fixes, then BLEED.json 44 and BLEED2.json 11).",
+		"Bleed = Кровотеча everywhere; Bleedwalker = Кровотечехід / кровотечеходи.",
+		"Participles in -ючий: replace them all (scanner job 3; R01-R03 catch up on wave-1 batches).",
+		"Address the player and reader with lowercase ви everywhere: quest narration, characters in quests, Diplomacy leader lines, faction and flavor texts (scanner job 2).",
+		"Icarus ScreamTroopers line restored (part of the applied wave 1 fixes).",
+		"Wave 2: applied (116 fixes) plus PSCITIES.json (21 PlatinumScion city names from the current English); then pause before wave 3.",
+		"The zephon-localization-update skill canon was updated with the 13.09.2026 rules."
+	],
+	"B01": { "drop": [4] },
+	"B02": { "drop": [9] },
+	"B07": { "edit": { "19": { "replace": "Дреджкуст" } } },
+	"B03": {
+		"drop": [3, 7, 9, 12, 26, 27, 31],
+		"edit": { "16": { "replace": "переливчаста хвиля" } }
+	},
+	"B04": { "drop": [8] },
+	"B05": {
+		"edit": {
+			"26": { "replace": "Цей монстр навіть не думав про те, як доглянута зброя з якісних матеріалів може пробивати м’ясо й кістки. Йому" },
+			"44": { "replace": "Блювота. Крики. Звук, з яким розчавлювало нутрощі чоловіка, наче ті опинилися на глибині десяти тисяч льє під водою. Ми пройшли повз нього, навіть не озирнувшись. Його обрали на поживу Вородаю, а нас пощадили. Зчини ми хоч якийсь шум — і стали б наступними." }
+		},
+		"add": [
+			{
+				"id": "Actions.xml|ThrashEmFlavor",
+				"sev": "med",
+				"cat": "term",
+				"note": "EN says Reavers, which are Спустошувачі in Units.xml; Пустошник is drift",
+				"find": "Пустошникам",
+				"replace": "Спустошувачам"
+			}
+		]
+	},
+	"B06": {
+		"drop": [2, 3, 13],
+		"add": [
+			{
+				"id": "Attributes.xml|AdditionalMembersHit",
+				"sev": "low",
+				"cat": "style",
+				"note": "Attribute labels start with a capital letter",
+				"find": "влучання",
+				"replace": "Влучання"
+			}
+		]
+	}
+}

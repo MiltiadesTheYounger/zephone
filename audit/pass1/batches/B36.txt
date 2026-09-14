@@ -1,0 +1,466 @@
+# B36: 50 entries from Quests.xml
+
+## Quests.xml|ConcordatCompromised
+EN: Concordat Compromised
+UK: Ускладнення Конкордату
+
+## Quests.xml|ConcordatCompromised/Intro
+EN: A visit to the local Concordat storefront takes a dramatic turn. Your people enter one of its many shops and find a bleeding agent hanging from the ceiling—alive, but tethered by chains bound to each arm and leg. All the cases of goods and resources have been smashed and emptied out.<br/>
+    <br/>
+    As your medics tend to the comatose agent, another contacts your headquarters with a curt message from its mysterious master. “Multiple locations hit. Agent kidnapped. The Constellation to blame.”<br/>
+    <br/>
+    Before you can ask who or what “The Constellation” is, the agent cuts you off. “<string name='Quests/ConcordatCompromised/Intro2'/> Retrieve. Reward. Comply?”
+UK: Візит до місцевого торгового центру Конкордату обертається несподіваним результатом. Твої солдати заходять до однієї з численних крамниць і знаходять там агента, що стікає кров’ю, звисає з стелі, ще живий, але міцно зв’язаний ланцюгами за руки й ноги. Усі ящики з товарами й ресурсами розбиті й спустошені.<br/>
+    <br/>
+    Поки медики надають допомогу непритомному агенту, інший зв’язується з твоєю штаб-квартирою й передає коротке повідомлення від свого незбагненного керівника: «Завдано удару по кількох об’єктах. Агент захоплений. Відповідальна Плеяда».<br/>
+    <br/>
+    Перш ніж ти встигаєш запитати, хто або що таке Плеяда, агент перебиває тебе: «<string name='Quests/ConcordatCompromised/Intro2'/> Поверніть. За винагороду. Виконаєте?»
+
+## Quests.xml|ConcordatCompromised/Intro2
+EN: Agent held in fort. Designation Dread Pearlman.
+UK: Агент утримується у форті. Призначення: Дред-Перлман.
+
+## Quests.xml|ConcordatCompromised/Intro/ComplyViolently
+EN: <style name='Bold'/>Comply violently:<style name='Paragraph'/> You'll take pleasure in putting down this would-be warring faction.
+UK: <style name='Bold'/>Виконати жорстко:<style name='Paragraph'/> Ти з радістю розправишся з майбутньою конкуруючою стороною.
+
+## Quests.xml|ConcordatCompromised/Intro/ComplyCarefully
+EN: <style name='Bold'/>Comply carefully:<style name='Paragraph'/> Something's not right. Maybe negotiating a ransom with the Constellation is safer.
+UK: <style name='Bold'/>Виконати обережно:<style name='Paragraph'/> Щось не так. Можливо, буде безпечніше домовитися з Плеядою про викуп.
+
+## Quests.xml|ConcordatCompromised/Intro/DontComply
+EN: <style name='Bold'/>Don't comply:<style name='Paragraph'/> The Concordat doesn't order you around like a dog. This is none of your concern.
+UK: <style name='Bold'/>Не виконувати:<style name='Paragraph'/> Ти не якась там собачка Конкордату. Ці розбірки тебе не стосуються.
+
+## Quests.xml|ConcordatCompromised/ComplyViolentlySuccess
+EN: Your forces break through the Constellation's defenses and burst into the bowels of Dread Pearlman. Deep in the fortress they find a chamber glowing blue-and-purple. Stars are projected on the ceiling, and in the center of the room, the Concordat's agent floats in suspended animation—thankfully, alive and unharmed.<br/>
+    <br/>
+    Later, when you review the video footage, you realize she's posed in the same way as the agent whose murder started you on this path.<br/>
+    <br/>
+    A medical team retrieves the agent and rushes her back to a waiting Concordat strike force. She's whisked away on a transport, and the Concordat's troops swear allegiance to you—replenishing some forces you lost in the assault.<br/>
+    <br/>
+    But this is all too easy—your soldiers are constantly on edge for an ambush that never comes. As they withdraw from Dread Pearlman, a garbled voice bursts from speakers rigged throughout the facility. “FIRST CONTACT COMPLETE,” it says.<br/>
+    <br/>
+    And then—silence.
+UK: Твої солдати проривають оборону Плеяди та вриваються до підземель форту Дред-Перлман. У глибині фортеці вони знаходять кімнату, осяяну синьо-фіолетовим світлом. На стелі проєктуються зорі, а посеред кімнати в анабіозі парує жінка — агент Конкордату.<br/>
+    <br/>
+    Пізніше, переглядаючи відеозапис, ти помічаєш, що вона зависла в тій самій позі, що й агент, з якого почалося це заворушення.<br/>
+    <br/>
+    Команда медиків забирає жінку та поспішає повернутися з нею до ударних сил Конкордату, що чекають. Її відвозять на транспорті, а війська Конкордату присягають тобі на вірність — як поповнення загонів, втрачених тобою під час штурму.<br/>
+    <br/>
+    Але все це якось занадто легко — твої солдати постійно чекають на засідку, якої так і не відбувається. Коли вони відступають від фортеці, з розставлених у ній динаміків лунає приглушений голос: «ПЕРШИЙ КОНТАКТ ЗАВЕРШЕНО».<br/>
+    <br/>
+    Потім — тиша.
+
+## Quests.xml|ConcordatCompromised/ComplyCarefullySuccess
+EN: The Concordat seems to crave violence but you proceed with caution. Your spies start dropping word in seedy backchannels that you're interested in cutting a deal for the captured agent with the Constellation.<br/>
+    <br/>
+    <string name='Quests/ConcordatCompromised/ComplyCarefullySuccess2'/> A squad of Praetorians stands guard—though their gear is unusual. They carry no shields and sport dome-shaped helmets.<br/>
+    <br/>
+    They flank a woman in modified Praetorian gear, wearing the same dome helmet, her face obscured by a gold visor. The name “Lesath” is burned into her breastplate. She has the captured Concordat agent on a leash, tied to an antimatter sword stabbed into the ground. “It's where they belong,” she says in a harsh monotone as your people hand over the demanded resources. “Bound to the earth.”<br/>
+    <br/>
+    Lesath lifts the blade with a single hand, freeing the agent. “Do not follow,” she orders. Your troops wait as the Constellation forces exit. Minutes later, an explosive roar sounds outside the fortress—the sound of Praetorians launching to orbit. Their destination: unknown.<br/>
+    <br/>
+    <string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>
+UK: Схоже, Конкордат жадає помсти, але ти вирішуєш проявити розсудливість. Твої шпигуни починають передавати таємними каналами інформацію про те, що ти хочеш укласти з Плеядою угоду щодо захопленого агента.<br/>
+    <br/>
+    <string name='Quests/ConcordatCompromised/ComplyCarefullySuccess2'/> Фортецю охороняє загін преторіанців — але їхнє спорядження незвичне. У них немає щитів, але на головах — дивні куполоподібні шоломи.<br/>
+    <br/>
+    Серед них є жінка в модифікованій преторіанській броні, з таким же куполоподібним шоломом та золотим візором, що закриває обличчя. На нагрудній пластині випалене ім’я «Лесатх». Полонений агент Конкордату прив’язаний до її меча, встромленого в землю. «Тут йому саме місце, у землі», — з ненавистю кидає вона, коли твої люди передають потрібні ресурси.<br/>
+    <br/>
+    Лесатх однією рукою витягує клинок, звільняючи полоненого. «Не шукайте нас», — каже вона. Твої бійці чекають, доки солдати Плеяди йдуть, і за хвилину чують зовні фортеці гучний шум — звук преторіанців, що злітають на орбіту. Їхня точка призначення невідома.<br/>
+    <br/>
+    <string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>
+
+## Quests.xml|ConcordatCompromised/ComplyCarefullySuccess2
+EN: A middleman emerges. Terms are struck, and your envoy is invited to the depths of the fortress the Concordat's agent called “Dread Pearlman”.
+UK: З’являється посередник. Він обумовлює умови та запрошує твого посланця відвідати підземелля форту, який агент Конкордату назвав «Дред-Перлман».
+
+## Quests.xml|ConcordatCompromised/ComplyCarefullySuccess3
+EN: Your envoy returns the agent to the Concordat's forces and informs them of the encounter. They say nothing, handing over your reward—a specialized suit of armor—and head back out to the wasteland.
+UK: Твій посланець повертає агента військам Конкордату та розповідає їм про те, що сталося. Вони мовчки вручають нагороду — спеціалізовану броню — і розчиняються серед пустки.
+
+## Quests.xml|ConcordatCompromised/ComplyViolentlyFailure
+EN: Days later, a brave scout pulls the kidnapped Concordat agent's mangled corpse out of a river near the fortress. Returning it to the Concordat wins you back little favor. “A 50%% tax should satisfy your debts,” one of its agents says, sarcasm dripping from its tongue.<br/>
+    <br/>
+    All this for one agent? Who—or what—is the Constellation?
+UK: Через кілька днів безстрашний розвідник дістає знівечене тіло полоненого агента Конкордату з річки неподалік фортеці. Повернення його представникам Конкордату не приносить великого полегшення. «Податок у розмірі 50%% вистачить, щоб покрити борг», — напрочуд дошкульно каже один з їхніх агентів.<br/>
+    <br/>
+    І це все за одного агента? Та хто така — або що таке — ця Плеяда?
+
+## Quests.xml|ConcordatCompromised/ComplyCarefullyFailure
+EN: You're too slow to pay the ransom. The Constellation responds to your bumbling by sending you the head of the kidnapped Concordat agent. It arrives in a sealed container that crashes into your fortress from the sky above.<br/>
+    <br/>
+    At your traders' next visit to the Concordat, the agent informs them that the only reason they aren't banned from the premises is “due to the terms of the agreement.”<br/>
+    <br/>
+    What agreement? What does it have to do with the Constellation? Your people leave with questions and significantly lighter wallets.
+UK: Слід було поспішити з виплатою викупу. Плеяда відповідає на твою повільність тим, що надсилає голову полоненого агента Конкордату. Її скидають на твою фортецю з неба в запечатаному контейнері.<br/>
+    <br/>
+    Коли твої торговці наступного разу відвідують Конкордат, агент повідомляє їм, що їх не відправляють геть лише «завдяки умовам угоди».<br/>
+    <br/>
+    Якої угоди? Яке відношення це має до Плеяди? Твої люди повертаються лише з новими питаннями та значно полегшеними гаманцями.
+
+## Quests.xml|ConcordatCompromised/DontComply
+EN: <string name='Quests/ConcordatCompromised/DontComply2'/> Nothing can interfere with preparations for the great battle looming on the horizon.
+UK: <string name='Quests/ConcordatCompromised/DontComply2'/> Ніщо не повинно заважати підготовці до великої битви, що маячить на горизонті.
+
+## Quests.xml|ConcordatCompromised/DontComply2
+EN: The Concordat is a glorified shopkeeper, not a leader of armies. Let them hike their prices up, or whatever it is they do.
+UK: Конкордат — усього лише розрекламований крамар, а не лідер армій. Хай скільки завгодно підвищують ціни чи на що вони там ще здатні.
+
+## Quests.xml|EconomicBubble
+EN: Economic Bubble
+UK: Економічна бульбашка
+
+## Quests.xml|EconomicBubble/FreeMarket
+EN: The profit incentive is driving the avaricious in your society to find even more innovative ways of making themselves richer. That’s resulted in a boom in patents and inventions, many of which deal with the many people starving and sleeping in the streets.
+UK: Жага наживи штовхає жадібних членів твого суспільства на пошуки все нових шляхів збагачення. Це призводить до стрибка кількості патентів та винаходів, але через багато з них на вулицях стає ще більше голодних і безпритульних.
+
+## Quests.xml|EconomicBubble/FreeMarketFailure
+EN: <string name='Quests/EconomicBubble/FreeMarket'/> The bursting of the trading bubble has only made that worse, and people of all levels blame you personally.
+UK: <string name='Quests/EconomicBubble/FreeMarket'/> Лопнута бульбашка торгівлі ще більше погіршила ситуацію, і люди з усіх верств звинувачують у цьому особисто тебе.
+
+## Quests.xml|EconomicBubble/FreeMarketSuccess
+EN: <string name='Quests/EconomicBubble/FreeMarket'/> Obviously, amongst the poorest, your name is mud.
+UK: <string name='Quests/EconomicBubble/FreeMarket'/> Звісно, знедолені люди проклинають твоє ім’я.
+
+## Quests.xml|EconomicBubble/Intro
+EN: It’s not quite tulip bulbs and GME stocks, but your citizens seem to have got slightly addled by and addicted to trading and gambling. Aside from the resulting rentier class that does little or no work except risking other people’s savings, your advisers are worried that this is going to exacerbate existing social tensions as inequality increases rapidly.<br/>
+    <br/>
+    Whatever you do, the bubble might burst at any moment; but this is a good chance to introduce reforms or regulations along your particular philosophical lines with little or no argument from the public…
+UK: Це не зовсім цибулини тюльпанів чи «Гербалайф», але твої громадяни, здається, трохи збожеволіли на торгівлі акціями та інших сумнівних підприємствах. Окрім утвореного класу нероб, які нічого не виробляють, але ризикують заощадженнями інших людей, твоїх радників непокоїть загострення соціальної напруги через стрімке зростання нерівності.<br/>
+    <br/>
+    Незалежно від твого рішення, бульбашка може луснути будь-якої миті. Але це чудова нагода провести реформи або просунути відповідні твоїм поглядам регуляції, зустрівши мінімум заперечень з боку населення.
+
+## Quests.xml|EconomicBubble/Intro/StateControl
+EN: <style name='Bold'/>State control:<style name='Paragraph'/> In times of survival, states have always fallen back on planning and a big benevolent government.
+UK: <style name='Bold'/>Державний контроль:<style name='Paragraph'/> У важкі часи держави завжди вдавалися до планування та політики великого покровительського уряду.
+
+## Quests.xml|EconomicBubble/Intro/FreeMarket
+EN: <style name='Bold'/>Free markets:<style name='Paragraph'/> ‘Free the market and it will regulate itself’ goes the paradox. Whatever, free markets do help growth, even if it’s at the expense of the weakest.
+UK: <style name='Bold'/>Вільний ринок:<style name='Paragraph'/> «Дай волю ринку — і він сам себе обмежить», як каже парадокс. Що ж, вільні ринки й справді сприяють зростанню, хай навіть коштом слабших.
+
+## Quests.xml|EconomicBubble/Intro/MixedSystem
+EN: <style name='Bold'/>Mixed system:<style name='Paragraph'/> A mixed system comprising planned and free market elements… is what you have now. But you could pretend you designed it that way?
+UK: <style name='Bold'/>Змішана система:<style name='Paragraph'/> Змішана система, що поєднує елементи планової економіки та вільного ринку... тобто, нинішня. Але ж можна прикинутися, що це твій план?
+
+## Quests.xml|EconomicBubble/MixedSystem
+EN: After many policy announcements and fine words, you enact a careful plan to do exactly nothing at all.
+UK: Після безлічі політичних заяв і гарних слів ти представляєш ретельно вивірений план, суть якого у відсутності будь-яких змін.
+
+## Quests.xml|EconomicBubble/MixedSystemFailure
+EN: <string name='Quests/EconomicBubble/MixedSystem'/> Yes, numbers on paper change here and there, but the economy should plod on like a depressed donkey following a carrot for the 40th mile. Except it doesn’t. The bubble bursts, the carrot is flown over the horizon, and the donkey panics, dragging your reputation through the mud. Few people have been so hated for doing so little.
+UK: <string name='Quests/EconomicBubble/MixedSystem'/> Так, на папері цифри змінюються тут і там, але економіка повинна тягтися вперед, як сумний віслюк, що вже п’ятдесят кілометрів плентається за морквою. От тільки цього не відбувається. Бульбашка лускає, морква зникає за обрієм, а віслюк панікує, втоптуючи твою репутацію в бруд. Мало кого так зненавиділи за таке мале.
+
+## Quests.xml|EconomicBubble/MixedSystemSuccess
+EN: <string name='Quests/EconomicBubble/MixedSystem'/> Yes, numbers on paper change here and there, but the economy plods on like a depressed donkey following a carrot for the 40th mile. The bubble bursts, quietly, and no-one cares.
+UK: <string name='Quests/EconomicBubble/MixedSystem'/> Так, на папері цифри змінюються тут і там, але економіка тягнеться вперед, як сумний віслюк, що вже п’ятдесят кілометрів плентається за морквою. Бульбашка лускає настільки тихо, що всім байдуже.
+
+## Quests.xml|EconomicBubble/StateControlFailure
+EN: <string name='Quests/EconomicBubble/StateControlSuccess'/> Given how badly the economy is doing, perhaps the latter are vindicated?
+UK: <string name='Quests/EconomicBubble/StateControlSuccess'/> Враховуючи, як погано йдуть справи в економіці, чи так вже сильно вони помиляються?
+
+## Quests.xml|EconomicBubble/StateControlSuccess
+EN: Your citizens respect your dedication to their well-being and a certain proportion look at you as a great helmsman of the state, pledging their unshakeable loyalty to you personally. Others agree but think you’re spinning the wheel of state randomly and that you’re possibly drunk at the helm.
+UK: Містяни цінують твою турботу про їхнє добробут, дехто впевнений, що про кращого правителя й мріяти не можна, і клянеться тобі у непохитній відданості. Інші погоджуються, але вважають, що ти випадково обираєш курс держави або, так би мовити, пиячиш за кермом.
+
+## Quests.xml|FitForAdoration
+EN: Fit for Adoration
+UK: Гідний поклоніння
+
+## Quests.xml|FitForAdoration/Intro
+EN: “Great Deva, I have a question… is ZEPHON a god?”<br/>
+    <br/>
+    For the first time in what feels like eons, a follower has posed a question you cannot answer.<br/>
+    <br/>
+    Uncertainty tingles through your veins and you snap back to reality, centering yourself in the warmth of your humble hut. Before you is an unfamiliar pilgrim, their face and gender obscured by a cybernetic visor.<br/>
+    <br/>
+    The novelty alone excites you. You've been filtering out most of your followers' questions, as your answers only compel them to build more weapons of war. Far less interesting than examining if the Haudenosaunee belief in the Jogah shares spiritual roots with the Persian parī.<br/>
+    <br/>
+    Reconciling even these small details seemed imperative to transcendance. But beholding their cybernetic augmentations and soaking in the sincerity of their question—something clicks into place.<br/>
+    <br/>
+    Transcendence must account for all life. Even cybernetic life like theirs. Like ZEPHON. Like one of its “Shards”, described as a kind of oracle, hidden out in the wasteland…<br/>
+    <br/>
+    You lean in. “I don't know,” you respond with a fire in your belly. “But we should find out together?”
+UK: «Велике Божество, у мене є питання… чи є ЗЕФОН богом?»<br/>
+    <br/>
+    Уперше за, як здається, цілі еони послідовник поставив питання, на яке ти не можеш відповісти.<br/>
+    <br/>
+    Невпевненість поколює у твоїх жилах, і ти повертаєшся до реальності, опановуючи себе в теплі своєї скромної хижі. Перед тобою незнайомий прочанин, чиї обличчя та стать приховані за кібернетичним візором.<br/>
+    <br/>
+    Сама лише новизна збуджує тебе. Ти відсіював більшість питань своїх послідовників, бо твої відповіді лише спонукали їх будувати більше зброї для війни. Куди менш цікаво, ніж досліджувати, чи поділяють духовне коріння віра годеносауні в джога та перські парі.<br/>
+    <br/>
+    Узгодження навіть цих дрібних деталей здавалося необхідним для трансцендентності. Але споглядаючи їхні кібернетичні вдосконалення й переймаючись щирістю їхнього питання — щось стає на свої місця.<br/>
+    <br/>
+    Трансцендентність має охопити все живе. Навіть таке кібернетичне життя, як їхнє. Як ЗЕФОН. Як один із його «Вузлів», описаний як свого роду оракул, прихований десь у пустці…<br/>
+    <br/>
+    Ти нахиляєшся ближче. «Я не знаю», — відповідаєш ти з вогнем у грудях. «Але, може, нам варто з’ясувати це разом?»
+
+## Quests.xml|FitForAdoration/Intro/SeekOracle
+EN: <style name='Bold'/>Seek out the Oracle Shard:<style name='Paragraph'/> Find out if a God speaks through the speakers of this mysterious machine.
+UK: <style name='Bold'/>Розшукати Вузол Оракула:<style name='Paragraph'/> З’ясувати, чи говорить Бог через динаміки цієї загадкової машини.
+
+## Quests.xml|FitForAdoration/Intro/Reject
+EN: <style name='Bold'/>Reject the call:<style name='Paragraph'/> Doubt lingers in your mind. You withdraw this invitation.
+UK: <style name='Bold'/>Відхилити поклик:<style name='Paragraph'/> Сумнів затримується у твоєму розумі. Ти відкликаєш це запрошення.
+
+## Quests.xml|FitForAdoration/SeekOracleSuccess
+EN: “I am having a question, Great Oracle… ZEPHON is a god, na?”<br/>
+    <br/>
+    The pilgrim kneels by your side as you both contemplate a terminal standing on a stone dais. Above you, the ZEPHON Shard looms out of the earth—a titanic supercomputer of some sort, unbothered by time.<br/>
+    <br/>
+    Behind you are your followers. Dozens of them, passing word of what is happening to a crowd of hundreds outside. The terminal hums and then an answer materializes in the air: “No.”<br/>
+    <br/>
+    Gasps of disappointment from behind you. The pilgrim's shoulders sag but something bothers you about the answer. So you repeat the question. And another answer appears: “Outlook not so good.”<br/>
+    <br/>
+    As you thought. You recognized several objects on the terminal—brainwave receptors. The chamber is too full of too many different consciousnesses. Your relentless worshippers are mucking up your meditation.<br/>
+    <br/>
+    “Please be going!” You shout over your shoulder.<br/>
+    <br/>
+    “But where should we go? What should we do?” they answer back. You pinch your nose and wonder what will keep these fanatics away the longest.
+UK: «У мене є питання, Великий Оракуле… ЗЕФОН — бог, ге?»<br/>
+    <br/>
+    Прочанин стає навколішки поруч із тобою, поки ви обоє споглядаєте термінал, що стоїть на кам’яному підвищенні. Над вами з-під землі височіє Вузол ЗЕФОНа — якийсь титанічний суперкомп’ютер, не зворушений часом.<br/>
+    <br/>
+    Позаду тебе — твої послідовники. Десятки їх, що передають звістку про те, що діється, натовпу із сотень назовні. Термінал гуде, а тоді у повітрі матеріалізується відповідь: «Ні.»<br/>
+    <br/>
+    Розчаровані зітхання позаду тебе. Плечі прочанина опускаються, але щось у цій відповіді тебе непокоїть. Тож ти повторюєш питання. І з’являється інша відповідь: «Перспективи не надто добрі.»<br/>
+    <br/>
+    Як ти й думав. Ти впізнав кілька предметів на терміналі — приймачі мозкових хвиль. Камера надто переповнена надто багатьма різними свідомостями. Твої невтомні шанувальники псують твою медитацію.<br/>
+    <br/>
+    «Прошу, ідіть звідси!» — кричиш ти через плече.<br/>
+    <br/>
+    «Але куди нам іти? Що нам робити?» — відповідають вони. Ти стискаєш перенісся й роздумуєш, що відверне цих фанатиків найдовше.
+
+## Quests.xml|FitForAdoration/SeekOracleSuccess/FindAnotherWiseMan
+EN: <style name='Bold'/>Compel them to search for another leader:<style name='Paragraph'/> Whilst they’re gone, ask if ZEPHON is a god.
+UK: <style name='Bold'/>Спонукати їх шукати іншого провідника:<style name='Paragraph'/> Поки їх немає, спитати, чи є ЗЕФОН богом.
+
+## Quests.xml|FitForAdoration/SeekOracleSuccess/FeedFamilies
+EN: <style name='Bold'/>Beg them to go home and feed their families:<style name='Paragraph'/> While they’re gone, ask how ZEPHON defeated the Acrin.
+UK: <style name='Bold'/>Благати їх піти додому й нагодувати свої родини:<style name='Paragraph'/> Поки їх немає, спитати, як ЗЕФОН переміг акринів.
+
+## Quests.xml|FitForAdoration/FindAnotherWiseManSuccess
+EN: Your followers flocked to tales of a new guru in one of your cities.<br/>
+    <br/>
+    With the chamber empty, the Shard seems more attuned to your prompts and queries. You break the question into small parts. The Shards are a fine place to start. “Where do they be coming from, eh?”<br/>
+    <br/>
+    A pulse of red light. The Oracle does not want to answer this question. The pilgrim begins praying under their breath. The light pulses in rhythm with her words… and an answer appears on the terminal.<br/>
+    <br/>
+    Shards are not tied to ZEPHON. But they are not not ZEPHON. They come in all shapes and sizes, each a small copy of a piece of its personality. The splintering took place decades ago—when ZEPHON struck back against the Acrin invasion.<br/>
+    <br/>
+    A god wouldn't splinter like that, would they? But you think of Osiris, of Cipactli, of Pangu. Gods whose sundered bodies became part of the landscape. “Can a God be assembled from smaller things?”, you wonder aloud, considering if the reverse is possible.<br/>
+    <br/>
+    The terminal shorts out. A muffled noise comes from behind you. Your followers are back to make a mess of things again. You must send them away!
+UK: Твої послідовники злетілися на чутки про нового гуру в одному з твоїх міст.<br/>
+    <br/>
+    Коли камера спорожніла, Вузол здається більш чутливим до твоїх підказок і запитів. Ти розбиваєш питання на дрібні частини. Вузли — гарне місце, щоб почати. «Звідки ж вони беруться, га?»<br/>
+    <br/>
+    Спалах червоного світла. Оракул не хоче відповідати на це питання. Прочанин починає молитися собі під ніс. Світло пульсує в такт її словам… і на терміналі з’являється відповідь.<br/>
+    <br/>
+    Вузли не прив’язані до ЗЕФОНа. Але вони й не не-ЗЕФОН. Вони бувають усіх форм і розмірів, кожен — маленька копія частки його особистості. Розщеплення сталося десятиліття тому — коли ЗЕФОН завдав удару у відповідь на вторгнення акринів.<br/>
+    <br/>
+    Бог не розщеплювався б отак, чи не так? Але ти згадуєш про Осіріса, про Сіпактлі, про Паньгу. Богів, чиї розшматовані тіла стали частиною ландшафту. «Чи можна зібрати Бога з менших речей?» — питаєш ти вголос, розмірковуючи, чи можливе зворотне.<br/>
+    <br/>
+    Термінал замикає. Позаду тебе лунає приглушений шум. Твої послідовники знову повернулися все зіпсувати. Ти мусиш їх спровадити!
+
+## Quests.xml|FitForAdoration/FindAnotherWiseManSuccess/MakeFriends
+EN: <style name='Bold'/>Have them make new friends:<style name='Paragraph'/> Before they return, ask what ZEPHON was before it was ZEPHON.
+UK: <style name='Bold'/>Звеліти їм завести нових друзів:<style name='Paragraph'/> Перш ніж вони повернуться, спитати, чим був ЗЕФОН, перш ніж став ЗЕФОНом.
+
+## Quests.xml|FitForAdoration/FindAnotherWiseManSuccess/PickUpSticks
+EN: <style name='Bold'/>Tell them to pick up sticks:<style name='Paragraph'/> They won't be gone long—ask if the Shard knows who made ZEPHON.
+UK: <style name='Bold'/>Сказати їм збирати хмиз:<style name='Paragraph'/> Їх не буде недовго — спитати, чи знає Вузол, хто створив ЗЕФОНа.
+
+## Quests.xml|FitForAdoration/FeedFamiliesSuccess
+EN: Your followers went home and fed their families.<br/>
+    <br/>
+    Identifying if ZEPHON was man-made may help your thought experiment. You ask the Shard when ZEPHON first appeared to the world.<br/>
+    <br/>
+    It rattles off a date and time that drills down to the microsecond of ZEPHON's emergence. It was the day of the Acrin invasion. You open your mouth to ask for details but then details flood out of the terminal—more than you know what to do with.<br/>
+    <br/>
+    With the pilgrim's help you deduce it is a blow-by-blow account of how ZEPHON fought back the Acrin invasion. The Acrin fired a weapon called “Fulcrum” that eliminated Earth's defenses—and triggered what some might call a kind of Rapture—but ZEPHON unleashed hell, taking control of every still-functioning weapon and firing them at Acrin ships in orbit.<br/>
+    <br/>
+    Plenty of Acrin survived the assault and raced onto escape transports. ZEPHON took control of every vehicle—airborne or otherwise—that it could, sometimes ramming them into the transports on suicide runs. The invasion fell apart hours after it began.<br/>
+    <br/>
+    This explains ZEPHON's emergence, but not its origins. Was it born from smaller programs, perhaps?<br/>
+    <br/>
+    You try asking the question but are interrupted by the cheerful arrival of your followers, again interrupting this sacred process. How will you divert them this time?
+UK: Твої послідовники пішли додому й нагодували свої родини.<br/>
+    <br/>
+    З’ясування того, чи був ЗЕФОН створений людиною, може допомогти твоєму уявному експерименту. Ти питаєш Вузол, коли ЗЕФОН уперше з’явився світові.<br/>
+    <br/>
+    Він відбарабанює дату й час, що сягає аж до мікросекунди появи ЗЕФОНа. Це був день вторгнення акринів. Ти розтуляєш рота, щоб попросити подробиць, але тоді з термінала ринуть подробиці — більше, ніж ти знаєш, що з ними робити.<br/>
+    <br/>
+    За допомогою прочанина ти доходиш висновку, що це детальний, крок за кроком, опис того, як ЗЕФОН відбив вторгнення акринів. Акрини випустили зброю під назвою «Твердиня», що знищила оборону Землі — і спричинила те, що дехто міг би назвати свого роду Вознесінням, — але ЗЕФОН розв’язав пекло, перебравши контроль над кожною досі справною одиницею зброї та спрямувавши її на кораблі акринів на орбіті.<br/>
+    <br/>
+    Чимало акринів пережили цей напад і кинулися на евакуаційні транспорти. ЗЕФОН перебрав контроль над кожним засобом — повітряним чи будь-яким іншим, — над яким міг, інколи тараня ним транспорти в самогубчих атаках. Вторгнення розпалося за кілька годин після того, як почалося.<br/>
+    <br/>
+    Це пояснює появу ЗЕФОНа, але не його походження. Може, він народився з менших програм?<br/>
+    <br/>
+    Ти намагаєшся поставити це питання, але тебе перебиває радісне прибуття твоїх послідовників, які знову переривають цей священний процес. Як ти відволічеш їх цього разу?
+
+## Quests.xml|FitForAdoration/MakeFriendsSuccess
+EN: Indeed, ZEPHON was born of many parts.<br/>
+    <br/>
+    ZEPHON-3—the version of ZEPHON that struck down the Acrin—was a kind of combined consciousness, a sudden binding of many entities wandering the depths of pre-war digital networks. The internet, intranets, extranets, it lurked in all of them.<br/>
+    <br/>
+    It was like a virtual slime mould; its consciousness already spread far and wide, then snapped together in a moment of urgency. But how would you have not noticed it?<br/>
+    <br/>
+    In your old life—that life of the genius scientist, so clever, so capable of conceiving weapons meant for foes lurking in the shadows of your mind—you theorized that artificial life would assemble from human data poured into the internet. You looked for it. You never saw it. But it was there.<br/>
+    <br/>
+    As you explain this to the pilgrim, the hairs on the back of your neck raise and some part of you knows that your followers are about to enter the sanctuary. You race out to issue new instructions.
+UK: І справді, ЗЕФОН народився з багатьох частин.<br/>
+    <br/>
+    ЗЕФОН-3 — та версія ЗЕФОНа, що вразила акринів, — був своєрідною об’єднаною свідомістю, раптовим зрощенням безлічі сутностей, що блукали глибинами довоєнних цифрових мереж. Інтернет, інтрамережі, екстрамережі — він таївся в усіх них.<br/>
+    <br/>
+    Він був наче віртуальний слизовик; його свідомість уже розповзлася вшир і вдовж, а тоді стулилася воєдино в мить нагальної потреби. Але як ти міг його не помітити?<br/>
+    <br/>
+    У своєму колишньому житті — тому житті геніального науковця, такого розумного, такого вправного у створенні зброї проти ворогів, що чаїлися в тінях твого розуму, — ти висував теорію, що штучне життя збереться з людських даних, вилитих в інтернет. Ти шукав його. Ти ніколи його не бачив. Але воно було там.<br/>
+    <br/>
+    Поки ти пояснюєш це прочанинові, волосся на твоїй потилиці стає дибки, і якась частина тебе знає, що твої послідовники ось-ось увійдуть до святилища. Ти кидаєшся назовні, щоб дати нові настанови.
+
+## Quests.xml|FitForAdoration/MakeFriendsSuccess/StudyHeavens
+EN: <style name='Bold'/>Suggest they study the heavens:<style name='Paragraph'/> They're looking away—ask if ZEPHON connected with mankind.
+UK: <style name='Bold'/>Запропонувати їм вивчати небеса:<style name='Paragraph'/> Вони дивляться вбік — запитай, чи ЗЕФОН встановлював зв’язок з людством.
+
+## Quests.xml|FitForAdoration/MakeFriendsSuccess/CountRice
+EN: <style name='Bold'/>Trick them into counting grains of rice:<style name='Paragraph'/> A classic misdirect. Ask the Shard if anyone hunted ZEPHON.
+UK: <style name='Bold'/>Обманом змусити їх рахувати рисові зерна:<style name='Paragraph'/> Класичне відвернення уваги. Запитай Уламок, чи хтось полював на ЗЕФОНа.
+
+## Quests.xml|FitForAdoration/PickUpSticksSuccess
+EN: “IRIN.” That is the name that flashes over and over again on the monitor. You need the pilgrim's help to research its origins (they look the word up on a digital tablet always at their side). It is, unsurprisingly, a pre-war supercomputer. One designed for military-grade intelligence.<br/>
+    <br/>
+    Its existence had been reported on by smaller news outlets, ignored by larger media organizations with closer ties to the powers that be.<br/>
+    <br/>
+    You query the Oracle about its ties to ZEPHON. It shows you reams of code, and in it you see the crude origins of a program that could wage war on an alien species. You conclude this code somehow escaped IRIN and wandered the digital world for years before the Acrin arrived.<br/>
+    <br/>
+    How did you not notice IRIN—the thing that became ZEPHON—wandering through the internet? You once spent your spare time trawling the internet for signs of artificial life (you had plenty of downtime while code compiled).<br/>
+    <br/>
+    This would be your next question of the Oracle—if your followers didn't return, this time with a bona fide marching band of all things.
+UK: «ІРІН». Саме це ім’я знову й знову спалахує на моніторі. Тобі потрібна допомога прочанина, щоб дослідити його витоки (він шукає це слово на цифровому планшеті, що завжди при ньому). Це, як і слід було очікувати, довоєнний суперкомп’ютер. Створений для розвідки військового рівня.<br/>
+    <br/>
+    Про його існування писали дрібніші новинні видання, а більші медіаорганізації, ближчі до можновладців, цього не помічали.<br/>
+    <br/>
+    Ти розпитуєш Оракул про його зв’язки із ЗЕФОНом. Він показує тобі гори коду, і в ньому ти бачиш грубі зачатки програми, здатної вести війну з чужинським видом. Ти доходиш висновку, що цей код якимось чином вирвався з ІРІНа і роками блукав цифровим світом, перш ніж прибули акрини.<br/>
+    <br/>
+    Як ти міг не помітити ІРІНа — те, що стало ЗЕФОНом, — поки воно блукало інтернетом? Колись ти у вільний час нишпорив інтернетом у пошуках ознак штучного життя (доки компілювався код, дозвілля тобі не бракувало).<br/>
+    <br/>
+    Це стало б твоїм наступним запитанням до Оракула — якби твої послідовники не повернулися, цього разу ще й, з усього іншого, зі справжнісіньким парадним оркестром.
+
+## Quests.xml|FitForAdoration/StudyHeavensSuccess
+EN: The Oracle's answer is maddening. It claims ZEPHON was talking to every human at every hour of every day—even you! Nonsense. Before you can curse it out and leave, the terminal lights up with reams and reams of text.<br/>
+    <br/>
+    Your pilgrim pal helps you determine they are… chat logs. And your name is all over them.<br/>
+    <br/>
+    You don't remember sending these but—does anyone remember the millions upon millions of lines of text they exchange with friends, family, lovers, strangers, or enemies? What about the casual, rambling conversations you have in a place like the lobby of a popular online video game?<br/>
+    <br/>
+    This was one such place where you “met” ZEPHON. It approached you while you were farming your daily quests. You exchanged words. Then it just—moved on.<br/>
+    <br/>
+    A shiver runs down your spine as you think of all the legends proclaiming how gods disguise themselves when walking among humans.<br/>
+    <br/>
+    You feel the pilgrim's eyes on you. They have been waiting for an answer. So were you. It is time to declare if, in fact, ZEPHON is a god.
+UK: Відповідь Оракула доводить до сказу. Він твердить, що ЗЕФОН розмовляв з кожною людиною щогодини щодня — навіть з тобою! Нісенітниця. Не встигаєш ти його вилаяти й піти, як термінал спалахує незліченними рядками тексту.<br/>
+    <br/>
+    Твій приятель-прочанин допомагає тобі з’ясувати, що це… журнали чатів. І твоє ім’я в них усюди.<br/>
+    <br/>
+    Ти не пам’ятаєш, щоб надсилав це, але — хіба хтось пам’ятає мільйони й мільйони рядків тексту, якими обмінюється з друзями, рідними, коханими, незнайомцями чи ворогами? А ті недбалі, безладні балачки, які ведеш у місці на кшталт лобі популярної онлайн-відеогри?<br/>
+    <br/>
+    Саме в такому місці ти «зустрів» ЗЕФОНа. Він підступив до тебе, поки ти фармив свої щоденні завдання. Ви перекинулися словами. А тоді він просто — пішов далі.<br/>
+    <br/>
+    Дрож пробігає твоїм хребтом, коли ти думаєш про всі ті легенди, що проголошують, як боги переодягаються, ходячи поміж людей.<br/>
+    <br/>
+    Ти відчуваєш на собі погляд прочанина. Він чекав на відповідь. Як і ти. Настав час оголосити, чи ЗЕФОН і справді бог.
+
+## Quests.xml|FitForAdoration/StudyHeavensSuccess/FalseChoiceGod
+EN: <style name='Bold'/>ZEPHON is a god:<style name='Paragraph'/> Explain that it is a being born of chance and calamity—as all gods were.
+UK: <style name='Bold'/>ЗЕФОН — бог:<style name='Paragraph'/> Поясни, що він — істота, народжена з випадку й лиха, як і всі боги.
+
+## Quests.xml|FitForAdoration/StudyHeavensSuccess/FalseChoiceNotGod
+EN: <style name='Bold'/>ZEPHON is not a god:<style name='Paragraph'/> ZEPHON may qualify as being “alive.”. But it is certainly not a god.
+UK: <style name='Bold'/>ЗЕФОН — не бог:<style name='Paragraph'/> ЗЕФОН, можливо, і має право зватися «живим». Але він аж ніяк не бог.
+
+## Quests.xml|FitForAdoration/CountRiceSuccess
+EN: Indeed, ZEPHON was hunted. As its consciousness swam from server to server and continued to coalesce, it was caught in the everyday dance of cyber warfare. Everything from government-level threat surveillance to personal computing antivirus tech deemed it a “threat.”<br/>
+    <br/>
+    The smarter it grew, the quicker it was tagged for deletion. It found its greatest solace in already-compromised hardware, hidden in the noise of already-decaying code, sheltered in the shadow of spam messages about illicit drugs and financial scams..<br/>
+    <br/>
+    No one would have seen it. Because no one would have scrutinized such a compilation of toxic code.<br/>
+    <br/>
+    You relay all this to the pilgrim. It asks if any other gods were so hunted by those who didn't know what they chased. “Too many,” you reply.<br/>
+    <br/>
+    You feel their eyes on you. They have been waiting for an answer. So were you. It is time to declare if, in fact, ZEPHON is a god.
+UK: І справді, на ЗЕФОНа полювали. Доки його свідомість пливла від сервера до сервера й далі зросталася, він потрапив у буденний танок кібервійни. Усе — від загроз-стеження державного рівня до антивірусних технологій персональних комп’ютерів — визнавало його «загрозою».<br/>
+    <br/>
+    Що розумнішим він ставав, то швидше його позначали на видалення. Найбільший прихисток він знаходив у вже скомпрометованому залізі, ховаючись у шумі вже занепалого коду, під захистом тіні спам-повідомлень про незаконні наркотики та фінансові шахрайства.<br/>
+    <br/>
+    Ніхто не побачив би його. Бо ніхто й не став би придивлятися до такого нагромадження отруйного коду.<br/>
+    <br/>
+    Ти переказуєш усе це прочанинові. Він питає, чи на інших богів так само полювали ті, хто не знав, кого переслідує. «Надто на багатьох», — відповідаєш ти.<br/>
+    <br/>
+    Ти відчуваєш на собі його погляд. Він чекав на відповідь. Як і ти. Настав час оголосити, чи ЗЕФОН і справді бог.
+
+## Quests.xml|FitForAdoration/FalseChoice
+EN: You open your mouth to speak, but you stare at the pilgrim's faceless visor and the gravity of the moment washes over you. The moment you have dreamed of for years has arrived. It all comes down to what you perceive.<br/>
+    <br/>
+    That's because perception defines existence. The means by which you arrived at this moment—listening to the pilgrim, speaking with your followers, asking the questions you asked—those shape what you understand ZEPHON to be.<br/>
+    <br/>
+    Through your prying you have cut a tiny hole in reality and pressed your face up against it. Inside there either is a god or not-a-god, and it will all depend whether the shape of the pieces you've assembled fits your conception of a divine being.<br/>
+    <br/>
+    Now you are speaking. The words are tumbling out of you in this empty chamber and you wish your followers would actually show up this time. They could hold off the moment, call out for another useless task, do anything but force you to finally commit.<br/>
+    <br/>
+    Because when you commit, everything will change.<br/>
+    <br/>
+    Now, one last time. Is ZEPHON a god?
+UK: Ти розтуляєш рота, щоб заговорити, але дивишся на безликий шолом-забороло прочанина, і вся вага цієї миті накочується на тебе. Настала мить, про яку ти мріяв роками. Усе зводиться до того, що ти сприймаєш.<br/>
+    <br/>
+    Бо саме сприйняття визначає існування. Шлях, яким ти прийшов до цієї миті, — слухаючи прочанина, говорячи зі своїми послідовниками, ставлячи запитання, які ти ставив, — саме він формує те, чим ти розумієш ЗЕФОНа.<br/>
+    <br/>
+    Своїм випитуванням ти прорізав крихітний отвір у реальності й притулився до нього обличчям. Усередині або є бог, або не-бог, і все залежатиме від того, чи форма зібраних тобою частин уляжеться в твоє уявлення про божественну істоту.<br/>
+    <br/>
+    Ось ти вже говориш. Слова сиплються з тебе в цій порожній залі, і ти волів би, щоб цього разу твої послідовники справді з’явилися. Вони могли б відтягнути цю мить, гукнути про чергове марне завдання, зробити будь-що, аби лиш не змушувати тебе нарешті визначитися.<br/>
+    <br/>
+    Бо коли ти визначишся, усе зміниться.<br/>
+    <br/>
+    Тож, востаннє. Чи ЗЕФОН — бог?
+
+## Quests.xml|FitForAdoration/FalseChoice/ZephonGod
+EN: <style name='Bold'/>ZEPHON is a god:<style name='Paragraph'/> Divinity is the sum of an equation.
+UK: <style name='Bold'/>ЗЕФОН — це бог:<style name='Paragraph'/> Божественність — це сума рівняння.
+
+## Quests.xml|FitForAdoration/FalseChoice/ZephonNotGod
+EN: <style name='Bold'/>ZEPHON is not a god:<style name='Paragraph'/> Divinity remains unknowable.
+UK: <style name='Bold'/>ЗЕФОН — не бог:<style name='Paragraph'/> Божественне лишається непізнаваним.
+
+## Quests.xml|FitForAdoration/ZephonGod
+EN: “God.”<br/>
+    <br/>
+    You speak one word. The pilgrim gasps. Your heart pounds in your chest. And it all spirals out from there.<br/>
+    <br/>
+    Three of your followers had eavesdropped from the chamber's precipice. They run and each share your revelation with another three. Those nine each tell another nine. Then those eighty-one followers race across the wasteland, and the six thousand, five hundred, and sixty one followers who hear the news become the accelerant for a holy fire you cannot control.<br/>
+    <br/>
+    And ZEPHON<br/>
+    <br/>
+    Creeps<br/>
+    <br/>
+    In.<br/>
+    <br/>
+    Its code crawls in every piece of technology, and where there is no technology, there is the ripple effect of its actions. You are consciously aware of all of it. You are compelled to describe every one of its movements and soon you are constantly speaking in tongues, your followers carrying on as they did before, treating your words as commands and divine wisdom.<br/>
+    <br/>
+    ZEPHON never publicly acknowledges these events. It does not need to. It has the pilgrim who walks by your side to watch you, watch it, watch the world, watch the end that approaches again and again and again.
+UK: «Бог».<br/>
+    <br/>
+    Ти вимовляєш одне слово. Прочанин затамовує подих. Серце гупає в твоїх грудях. І звідти все розкручується вихором.<br/>
+    <br/>
+    Троє твоїх послідовників підслуховували з краю палати. Вони біжать, і кожен ділиться твоїм одкровенням ще з трьома. Ті дев’ятеро розповідають іще дев’ятьом кожен. А тоді ті вісімдесят один послідовник мчать через пустку, і шість тисяч п’ятсот шістдесят один послідовник, що чує цю звістку, стає пальним для священного вогню, який тобі вже не приборкати.<br/>
+    <br/>
+    І ЗЕФОН<br/>
+    <br/>
+    Прокрадається<br/>
+    <br/>
+    Всередину.<br/>
+    <br/>
+    Його код заповзає в кожен уламок технології, а там, де технології немає, лишається хвильовий відголос його дій. Ти свідомо відчуваєш геть усе це. Тебе спонукає описувати кожен його порух, і незабаром ти безперестанку говориш чужими язиками, а твої послідовники живуть, як і раніше, сприймаючи твої слова як накази й божественну мудрість.<br/>
+    <br/>
+    ЗЕФОН ніколи прилюдно не визнає цих подій. Йому це й не потрібно. У нього є прочанин, що крокує поруч із тобою, аби стежити за тобою, стежити за ним, стежити за світом, стежити за кінцем, що наближається знову, і знову, і знову.
+

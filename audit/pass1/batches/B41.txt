@@ -1,0 +1,530 @@
+# B41: 70 entries from Quests.xml
+
+## Quests.xml|StormOfStorms
+EN: Storm Of Storms
+UK: Мати всіх бур
+
+## Quests.xml|StormOfStorms/Intro
+EN: <string name='Quests/StormOfStorms/Intro3'/><br/>
+    <br/>
+    <string name='Quests/StormOfStorms/Intro2'/><br/>
+    <br/>
+    Spies check in with valuable intelligence: the scavengers were led by a former medic named “Apolline.” The stolen tech was Acrin terraforming equipment. She and her followers have watched too many innocent civilians die, and now they want to end the war by letting nature ravage all the armies of the wasteland.<br/>
+    <br/>
+    The Storm of Storms lurches toward one of your cities. It will be there in days. Can you fight the elements themselves?
+UK: <string name='Quests/StormOfStorms/Intro3'/><br/>
+    <br/>
+    <string name='Quests/StormOfStorms/Intro2'/><br/>
+    <br/>
+    Шпигуни добувають цінну інформацію: вкрадена акринська техніка була обладнанням для тераформування, а очолювала падальщиків якась Аполліна. Раніше вона була лікарем. Їй та її послідовникам набридло дивитися, як гинуть невинні люди, і тепер вони хочуть закінчити війну, змусивши стихії розметати всі армії пустель.<br/>
+    <br/>
+    Мати всіх бур насувається на одне з твоїх міст. Залишилися лічені дні. Чи вдасться тобі подолати саму природу?
+
+## Quests.xml|StormOfStorms/Intro2
+EN: You brush off the loss at first. But all that changes when a storm the likes of which no one has ever seen forms over the desert. Sand, snow, lightning, rain, tornadoes, hail—it has it all. The Storm of Storms.
+UK: Спочатку ти відмахуєшся від втрати. Але все змінюється, коли над пустелею розгоряється небачена буря. У ній є все: пісок, сніг, блискавки, дощ, торнадо, град. Справжня мати всіх бур.
+
+## Quests.xml|StormOfStorms/Intro3
+EN: It starts with a meteor. A star crashing to the surface of the wasteland, revealed to be an Acrin ship fallen from orbit. But by the time your scouts arrive at the crash site, a convoy of scavengers has already torn the craft's guts apart and liberated whatever alien tech lay within.
+UK: Все починається з метеора. Серед пустелі розбивається падаюча зоря — акринський корабель, що зійшов з орбіти. Але, поки твої розвідники добираються до місця катастрофи, падальщики встигають розпотрошити корабель і поживитися інопланетними технологіями.
+
+## Quests.xml|StormOfStorms/Intro/AssaultStormhearth
+EN: <style name='Bold'/>Stop Apolline:<style name='Paragraph'/> Only a direct assault on the Stormhearth Facility can save civilization.
+UK: <style name='Bold'/>Зупинити Аполліну:<style name='Paragraph'/> Тільки прямий штурм комплексу «Вогнище бурі» дозволить зберегти цивілізацію.
+
+## Quests.xml|StormOfStorms/Intro/BegAndBargain
+EN: <style name='Bold'/>Beg and bargain:<style name='Paragraph'/> The wind does not respect a fool. See if Apolline can accept a compromise.
+UK: <style name='Bold'/>Спробувати домовитися:<style name='Paragraph'/> Вітер не поважає дурнів. Подивимося, чи відкрита Аполліна до компромісів.
+
+## Quests.xml|StormOfStorms/AssaultStormhearthSuccess
+EN: You're lucky Apolline and her scavengers have no sense for tactics. If they had, your troops would have had to fight through the Storm of Storms itself on the way to the Stormhearth Facility. Instead it loomed in the distance, an occasional lightning strike or tank-sized piece of hail crashing onto your army.<br/>
+    <br/>
+    A team of technicians follows your troops into the facility, stepping over corpses and scrambling to shut down the Storm. They can't. Either you destroy the facility, or shunt an ungodly amount of energy to drive the storm elsewhere.<br/>
+    <br/>
+    Elsewhere… like down the throats of your enemies, perhaps?
+UK: Тобі пощастило, що Аполліна та її падальщики не розуміються на тактиці. Інакше твоїм військам довелося б пробиватися крізь саму матір всіх бур по дорозі до комплексу «Вогнище бурі». Але та лише нависала над обрієм, іноді кидаючи у твою армію блискавки і градини розміром з танк.<br/>
+    <br/>
+    Команда техніків проходить за твоїми солдатами всередину комплексу, переступаючи через трупи і поспішаючи якнайшвидше вимкнути бурю. Їм цього не вдається. Тобі доведеться або знищити комплекс, або пожертвувати колосальною кількістю енергії, щоб відвести бурю в інше місце.<br/>
+    <br/>
+    В інше місце... наприклад, прямо в глотку твоїм ворогам?
+
+## Quests.xml|StormOfStorms/AssaultStormhearthSuccess/TakeOverFacility
+EN: <style name='Bold'/>Take over the facility:<style name='Paragraph'/> Apolline wanted to end the war. Instead she gave you a perfect weapon.
+UK: <style name='Bold'/>Зайняти комплекс:<style name='Paragraph'/> Аполліна збиралася завершити війну. І тепер у тебе є для цього ідеальна зброя.
+
+## Quests.xml|StormOfStorms/AssaultStormhearthSuccess/DestroyFacility
+EN: <style name='Bold'/>Destroy the facility:<style name='Paragraph'/> You can't control this kind of power. Let it go.
+UK: <style name='Bold'/>Знищити комплекс:<style name='Paragraph'/> Ти не можеш керувати такою силою. Треба з цим змиритися.
+
+## Quests.xml|StormOfStorms/AssaultStormhearthFailure
+EN: The Storm of Storms vanishes as an explosion in the distance marks the destruction of the Stormhearth facility. But no one sleeps easy. Your people didn't pull the trigger, so you have no idea what happened to the terraforming tech. Hopefully it's destroyed. But what if Apolline escaped and plans to use it again?
+UK: Мати всіх бур зникає, коли далекий вибух сколихує «Вогнище бурі». Але спокійно спати не може ніхто. Твої люди так і не дібралися до комплексу, тому ти поняття не маєш, що сталося з погодною технологією. Залишається лише сподіватися, що вона знищена. Але що, якщо Аполліна втекла і планує знову нею скористатися?
+
+## Quests.xml|StormOfStorms/TakeOverFacility1
+EN: Is it too much power? To have this much control over nature? “Yes,” your field engineer says. Of course she's referring to the power draw of the facility, not the moral or ethical considerations of a weaponized storm.
+UK: Чи не надто це велика міць? Настільки сильна влада над природою? «Так», — відповідає твій польовий інженер. Звісно, розмова про споживану потужність, а не про моральну чи етичну сторону погодної зброї.
+
+## Quests.xml|StormOfStorms/TakeOverFacility2
+EN: You'll need an ungodly amount of good-old-fashioned energy to keep this thing running.<br/>
+    <br/>
+    She doesn't have time to worry about those questions. She's still trying to survive. You have a weapon that will keep her safe.<br/>
+    <br/>
+    Use it.
+UK: Щоб ця штука працювала, знадобиться безбожна кількість енергії.<br/>
+    <br/>
+    Інженеру немає коли думати над цими питаннями. Інженер лише намагається вижити. І тепер у тебе є інструмент, який у цьому допоможе.<br/>
+    <br/>
+    Використовуй його.
+
+## Quests.xml|StormOfStorms/DestroyFacility
+EN: Apolline's storm weapon is destroyed. Through surveillance feeds you watch the Storm of Storms dry up, the elements giving way to a bright sunny sky. Your city is saved from some horrible combination of drowning, freezing, and being pummeled into oblivion.<br/>
+    <br/>
+    This Acrin ship fell from orbit and dropped technology so powerful it could lay waste to cities. What else is lurking in the dead fleet hanging over your head every minute of the day?<br/>
+    <br/>
+    You'll have to deal with them eventually. For now this fight is done, and you can continue the war.
+UK: Погодна зброя Аполліни знищена. Через камери спостереження ти дивишся, як згасає мати всіх бур, стихії поступаються місцем чистому небу. Твоєму місту більше не загрожує одночасно потонути, замерзнути і бути знищеним градом.<br/>
+    <br/>
+    Цей акринський корабель впав з орбіти і випустив технологію, здатну знищувати цілі міста. Що ще ховається серед мертвого флоту, що кружляє над твоєю головою?<br/>
+    <br/>
+    Рано чи пізно тобі доведеться з цим зіткнутися. А до того часу ця битва закінчена, і ти можеш повернутися до війни.
+
+## Quests.xml|StormOfStorms/BegAndBargain
+EN: At first Apolline won't take anything. Money, supplies, weapons. She tells you they'd rather starve in the desert than take a bribe to keep your war machine going. “You'll just come back and destroy us if we don't see this through,” she spits.<br/>
+    <br/>
+    You have to play your last card: the nuclear one.<br/>
+    <br/>
+    You pull up a surveillance feed on your tablet to reveal a container loaded with canisters of nuclear waste. When left in the path of the Storm of Storms, it will transform into a flying dirty bomb, poisoning the planet for generations.<br/>
+    <br/>
+    The room goes quiet. Even your people look ready to stop you. But the look on Apolline's face tells you she wasn't as ready to kill as she thought she was.<br/>
+    <br/>
+    <string name='Quests/StormOfStorms/BegAndBargain2'/>
+UK: Спочатку Аполліна від усього відмовляється. Гроші, припаси, зброя. Вона каже, що краще помре від спраги в пустелі, ніж прийме хабар, щоб твоя військова машина продовжувала рух. «Якщо ми кинемо розпочате, ти просто повернешся і знищиш нас», — кидає вона.<br/>
+    <br/>
+    Тобі доводиться розіграти останній козир: ядерну зброю.<br/>
+    <br/>
+    Ти показуєш на своєму планшеті величезний контейнер, повний ядерних відходів. Якщо на нього натрапить мати всіх бур, він перетворить її на літаючу «брудну бомбу», яка на багато поколінь отруїть планету.<br/>
+    <br/>
+    У кімнаті стає тихо. Навіть твої люди підумують, чи не пора тебе зупинити. Але вираз обличчя Аполліни підказує тобі, що вона не так готова вбивати, як їй здавалося.<br/>
+    <br/>
+    <string name='Quests/StormOfStorms/BegAndBargain2'/>
+
+## Quests.xml|StormOfStorms/BegAndBargain2
+EN: A deal is struck. You give Apolline the support she needs for humanitarian work in the wasteland, and she agrees to keep the Stormhearth Facility hidden. Mutually assured destruction still has a place in the apocalyptic age.
+UK: Угоду досягнуто. Ти надаєш підтримку гуманітарній роботі Аполліни в пустелі, а натомість вона тримає існування комплексу «Вогнище бурі» в таємниці. Гарантоване взаємне знищення в епоху апокаліпсису нікуди не ділося.
+
+## Quests.xml|TheDeadHandOfCapitalism
+EN: The Dead Hand of Capitalism
+UK: Мертва рука капіталізму
+
+## Quests.xml|TheDeadHandOfCapitalism/Intro
+EN: You jolt awake to the sound of a blaring alarm. “Boss!” One of your underlings shouts. “A mech just—rose out of the ground! Right outside!”<br/>
+    <br/>
+    Shit. You bolt to the command center, mentally bracing for a blast of missile fire surely headed your way. But the base alarm cuts off as you arrive. You push past your crew to find a confusing sight—footage of the intrusive mech, just holding position. It's patrolling what looks like a buried vault, with the ICAR Corp. logo emblazoned on the front.<br/>
+    <br/>
+    The door… you know it. References to a vault near your base pop up in some of the encrypted files you've been digging through. All that stands between you and it is a single mech.<br/>
+    <br/>
+    Any hopes of blasting through the machine are dashed when your forces scan its shields. It seems nearly immune to most conventional weapons. Your crew groans in frustration, but you just slowly grin. ICAR corp. has one puzzle left for you after all.
+UK: Ти стрибаєш від сирени. «Босе!» — кричить охоронець. — «Ззовні гігантський робот! З-під землі виріс!»<br/>
+    <br/>
+    Чорт. Ти вибігаєш із командного центру, морально готуючись до шквалу ракет, що летять у твою сторону. Але тривога раптово стихає. Ти пробираєшся крізь людей, щоб побачити надзвичайно дивну картину: вторглийся робот спокійно патрулює появився вхід у підземне сховище з логотипом корпорації І.К.А.Р. на дверях.<br/>
+    <br/>
+    Ці двері... ти їх впізнаєш. Згадки про бункер біля твоєї бази спливали у деяких зашифрованих файлах, які ти переглядав. Тепер від нього тебе відділяє лише цей робот.<br/>
+    <br/>
+    Усі надії швидко позбутися машини руйнуються, коли твої солдати сканують її щити. Схоже, вони зовсім непробивні для більшості видів зброї. Люди розчаровано бурчать, але на твоєму обличчі повільно з’являється усмішка. Корпорація І.К.А.Р. приготувала для тебе ще одну головоломку.
+
+## Quests.xml|TheDeadHandOfCapitalism/Intro/KillMech
+EN: <style name='Bold'/>Destroy the mech:<style name='Paragraph'/> You'll need to destroy the mech before you can access the vault.
+UK: <style name='Bold'/>Знищити робота:<style name='Paragraph'/> Щоб отримати доступ до бункера, тобі доведеться позбутися робота.
+
+## Quests.xml|TheDeadHandOfCapitalism/Intro/Ignore
+EN: <style name='Bold'/>Ignore the mech:<style name='Paragraph'/> You're a god-level hacker who cracks open alien supercomputers and gives ZEPHON a run for its money. Why bother with this mess?
+UK: <style name='Bold'/>Ігнорувати:<style name='Paragraph'/> Ти божественний хакер, що зламує інопланетні суперкомп’ютери і дає прикурити самому ЗЕФОНу. Навіщо тобі ламати голову над цією нісенітницею?
+
+## Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess
+EN: The good news is, you can now access the vault.<br/>
+    <br/>
+    The bad news is, you can't crack it open. A computer terminal near the door works, but is only spitting out frustrating riddles. You'd need at least a year to learn how to hack it—it's like it was programmed in some pre-war prototype language.<br/>
+    <br/>
+    As best you can tell, it wants you to display some kind of visual passkey before it'll open the door. You vaguely recall that your team found some datachips inside the destroyed mech—they might contain some useful data.<br/>
+    <br/>
+    The setbacks only make your adrenaline run hotter. <string name='Quests/TheDeadHandOfCapitalism/KillMechSuccess2'/>
+UK: Хороша новина в тому, що тепер ти можеш дістатися до сховища.<br/>
+    <br/>
+    Погана новина — туди не увійти. Термінал біля дверей працює, але говорить загадками. Лише щоб розібратися в його довоєнній мові програмування, піде рік.<br/>
+    <br/>
+    Тобі вдається дізнатися, що для відкриття дверей потрібно продемонструвати якийсь візуальний ключ. Здається, ти пам’ятаєш, що всередині знищеного меха знайшли якісь чіпи даних — там може бути щось корисне.<br/>
+    <br/>
+    Перешкоди лише підігрівають твій інтерес. <string name='Quests/TheDeadHandOfCapitalism/KillMechSuccess2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess2
+EN: Something is in that vault. Something ICAR wanted no one to find. You sit down at the terminal and stare at the scrolling text, and start to notice a pattern…
+UK: У цьому бункері щось є. Щось, що корпорація І.К.А.Р. хотіла приховати від усіх. Ти сідаєш біля терміналу, вдивляєшся у бігаючий текст і починаєш помічати закономірність...
+
+## Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess/SolveRiddle
+EN: <style name='Bold'/>Try to solve the riddle:<style name='Paragraph'/> You're closer than you thought. There's a way to solve this riddle.
+UK: <style name='Bold'/>Спробувати розгадати загадку:<style name='Paragraph'/> Ти ближче до рішення, ніж здавалось. Є спосіб розв’язати цю загадку.
+
+## Quests.xml|TheDeadHandOfCapitalism/KillMechSuccess/BruteForce
+EN: <style name='Bold'/>Try brute force:<style name='Paragraph'/> Wait, you control an orbital superweapon that can take down Titan-class enemies. It could work here…
+UK: <style name='Bold'/>Розбити силою:<style name='Paragraph'/> Постій-но, ти контролюєш орбітальну суперзброю, яка знищить будь-якого титана. Вона може згодитися...
+
+## Quests.xml|TheDeadHandOfCapitalism/SolveRiddleSuccess
+EN: The solution to the riddle was just… the ICAR Corp. logo? You and your crew look at each other in disbelief as the vault door begins to open.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/SolveRiddleSuccess2'/>
+UK: Рішення загадки було… просто логотип корпорації І.К.А.Р.? Ти і твої помічники недовірливо переглядаєтесь, коли двері бункера починають відкриватися.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/SolveRiddleSuccess2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/SolveRiddleSuccess2
+EN: “Boss!” One of them shouts. “Power spike inside the vault. Something's coming out!”<br/>
+    <br/>
+    Everyone goes for their guns. You just watch. Cold air rushes out of the vault, and you see a platform bringing something to the surface.<br/>
+    <br/>
+    It's a cryogenic chamber. It begins to spin online, and in a matter of moments, it opens up—and an old man stumbles out. He's wearing a tight-fit synthwear blazer—the kind of fashion popular with corporate types in the days before the Acrin attacked.<br/>
+    <br/>
+    You rush forward and catch him before he collapses. But as you hold him up, you can see he's smiling. “Phinnicus Daed,” he pants. “CEO, ICAR Corp. Thanks for looking after the shop for me.”
+UK: «Босе!» — гукає один із них. «Стрибок потужності всередині сховища. Звідти щось виходить!»<br/>
+    <br/>
+    Усі хапаються за зброю. Ви ж просто дивитеся. Зі сховища виривається холодне повітря, і ви бачите платформу, що піднімає щось на поверхню.<br/>
+    <br/>
+    Це кріогенна камера. Вона з гудінням оживає, і за кілька митей розчиняється — а з неї вивалюється старий. На ньому облягаючий блейзер із синтетичної тканини — такий, що був у моді серед корпоративників ще до того, як напали акрини.<br/>
+    <br/>
+    Ви кидаєтеся вперед і встигаєте підхопити його, перш ніж він осідає. Та, тримаючи його, ви бачите, що він усміхається. «Фіннікус Даед», — задихаючись, мовить він. «Директор корпорації І.К.А.Р. Дякую, що наглянули за крамничкою замість мене.»
+
+## Quests.xml|TheDeadHandOfCapitalism/SolveRiddleSuccess/HearHimOut
+EN: <style name='Bold'/>Hear him out:<style name='Paragraph'/> Phinnicus kept himself alive all these years for a reason. Maybe he knows where more secrets are buried.
+UK: <style name='Bold'/>Вислухати його:<style name='Paragraph'/> Фіннікус не просто так сховався на довгі роки. Можливо, він знає, де закопані інші секрети.
+
+## Quests.xml|TheDeadHandOfCapitalism/SolveRiddleSuccess/HostileTakeover
+EN: <style name='Bold'/>Execute a hostile takeover:<style name='Paragraph'/> Rage fills your veins. You did all this work just to bring this parasite back from the dead?
+UK: <style name='Bold'/>Влаштувати вороже поглинання:<style name='Paragraph'/> У тобі кипить лють. Ти пройшла через таке, щоб повернути цього кровососа до життя?
+
+## Quests.xml|TheDeadHandOfCapitalism/BruteForceSuccess
+EN: At first you think the vault was destroyed. You hear the sound of groaning metal, and for a moment you think you might have made the structure collapse in on itself.<br/>
+    <br/>
+    But the force of the blast seems to have breached the doorway—and more importantly, triggered the vault's internal mechanisms.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/SolveRiddleSuccess2'/>
+UK: Спершу тобі здається, що бункер зруйновано. Ти чуєш гуркіт металу, і на мить тобі здається, що ти змусила будівлю обвалитися всередину.<br/>
+    <br/>
+    Але удар, здається, пробив двері — і, що важливіше, привів у рух внутрішні механізми сховища.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/SolveRiddleSuccess2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/BruteForceFailure
+EN: In hindsight, blasting open a decades-old highly advanced vault with an orbital laser intended to level entire cities may have been a bad idea. The explosion obliterates the entrance. Anything still down there has to be in pieces.<br/>
+    <br/>
+    You throw caution to the wind and descend into the vault. The canisters on the wall seem to have contained cryogenic chemicals—the kind outlawed a decade before the Acrin invasion.<br/>
+    <br/>
+    You find a pile of junked machinery at the base of the facility. There's broken dermaglass everywhere and the smell of chemicals is now accented by the stench of a rotting corpse. According to a still-functioning terminal you hack into, it's the corpse of ICAR Corp. CEO Phinnicus Daed.<br/>
+    <br/>
+    Phinnicus might have been able to get you further into the vault and unlocked its secrets. Now you'll be lucky if you can scrape any of him off the floor.<br/>
+    <br/>
+    You're able to pluck some kind of augmented eyeball out of his skull. Blood and dust have seeped into the electronics, and it'll be hard to get working. You decide to keep it.<br/>
+    <br/>
+    Knowing that you blasted the CEO of ICAR Corp. into bits using his own orbital laser? That's a prize better than anything you might have found in this shitty vault.
+UK: Як з’ясувалося згодом, висаджувати багатодесятилітнє надсучасне сховище орбітальним лазером, призначеним рівняти із землею цілі міста, було, мабуть, не найкращою ідеєю. Вибух стирає вхід на порох. Усе, що ще лишалося там унизу, тепер мусить бути на друзки.<br/>
+    <br/>
+    Ви відкидаєте обережність геть і спускаєтеся у сховище. Балони на стіні, схоже, містили кріогенні хімікати — ті, що були заборонені за десятиліття до вторгнення акринів.<br/>
+    <br/>
+    Біля підніжжя комплексу ви знаходите купу понівеченого механізму. Скрізь розбите дермаскло, а до запаху хімікатів тепер домішується сморід трупа, що розкладається. Згідно з усе ще робочим терміналом, який ви зламуєте, це труп директора корпорації І.К.А.Р. Фіннікуса Даеда.<br/>
+    <br/>
+    Фіннікус, можливо, провів би вас глибше у сховище й відкрив його таємниці. Тепер вам пощастить, якщо вдасться зішкребти з підлоги бодай щось від нього.<br/>
+    <br/>
+    Вам щастить виколупати з його черепа якесь аугментоване очне яблуко. Кров і пил просочилися в електроніку, і змусити його працювати буде нелегко. Ви вирішуєте лишити його собі.<br/>
+    <br/>
+    Усвідомлення того, що ви рознесли директора корпорації І.К.А.Р. на шматки за допомогою його ж власного орбітального лазера? Оце трофей, кращий за будь-що, що ви могли б знайти в цьому паскудному сховищі.
+
+## Quests.xml|TheDeadHandOfCapitalism/HearHimOut
+EN: Phinnicus refuses to share any details about other ICAR treasures inside the vault. Instead of answering your questions, he spends days surveying your base, getting in the way of operations and giving useless feedback to your people. Your patience is running out.<br/>
+    <br/>
+    You enter your office—Phinnicus' former office—one day and find him at the desk, toying with some tchotchke you'd shoved in a drawer. “I like you kid,” he says. “You've got a good operation here. But I get the feeling that the corporate culture's changed since I was last here.”<br/>
+    <br/>
+    You bristle. There's nothing corporate about how you run things. He gives you another smile and lowers his sunglasses—you see he replaced his eyes with augmented receptors. “Now, I'd be willing to sever ties—hand it all off to you formally, and even throw in some goodies I stuffed down in the vault with me when shit went south.”<br/>
+    <br/>
+    “But kid, nothing comes free in this world. And if I'm gonna say goodbye to everything I built with my own two hands… I'm gonna need some compensation.”
+UK: Фіннікус відмовляється говорити, які ще скарби корпорація могла приховати в сховищі. Уникаючи твоїх допитів, він днями шастає по базі, заважає вести справи і роздає твоїм підлеглим марні поради. Твоє терпіння виснажується.<br/>
+    <br/>
+    Одного дня ти заходиш у свій кабінет — колишній кабінет Фіннікуса — і бачиш, як він сидить за твоїм столом і грається з якимось дрібним предметом, витягнутим із шухляди. «Ти мені подобаєшся, дівчинко», — миролюбно починає він. — «Непогано все контролюєш. Хоча дещо і змінилося в корпоративній етиці».<br/>
+    <br/>
+    Ти починаєш кипіти. У твоїх методах немає нічого корпоративного. Він знову усміхається тобі і опускає сонцезахисні окуляри. Ти помічаєш, що його очі замінені аугментованими. «Ти знаєш, я готовий розірвати зв’язки — офіційно передати тобі всі справи і навіть підкинути деякі речі, які я припрятав із собою в бункері, коли все тріснуло по швах».<br/>
+    <br/>
+    «Але, дівчинко моя, нічого в цьому світі не дається безкоштовно. Якщо мені доведеться попрощатися з усім, що я зводив ось цими двома руками… то мені потрібна компенсація».
+
+## Quests.xml|TheDeadHandOfCapitalism/HearHimOut/TakeTheDeal
+EN: <style name='Bold'/>Take the deal:<style name='Paragraph'/> Phinnicus wants a cut of your money in exchange for access to the vault. He'll ship you more ICAR tech in the months ahead too.
+UK: <style name='Bold'/>Укласти угоду:<style name='Paragraph'/> Фіннікус хоче частину твоїх грошей за доступ до бункера. Додатково протягом наступних місяців він надасть тобі деякі технології І.К.А.Р.
+
+## Quests.xml|TheDeadHandOfCapitalism/HearHimOut/TakeHisEyes
+EN: <style name='Bold'/>Take his eyes:<style name='Paragraph'/> Phinnicus doesn't know what you know—and what you know is that his augmented receptors will open any other doors hidden inside that vault.
+UK: <style name='Bold'/>Взяти його очі:<style name='Paragraph'/> Фіннікус не знає того, що знаєш ти. А ти знаєш, що його очні імпланти відкриють перед тобою будь-які двері всередині сховища.
+
+## Quests.xml|TheDeadHandOfCapitalism/HostileTakeover
+EN: Phinnicus Daed sat atop a massive multinational corporation that exploited workers all over the globe—and you and your crew were among them. You remember working yourself to the bone just to give this man a fancier vacation.<br/>
+    <br/>
+    You hear yourself snarl. Instinct takes over. You're not sure if this is a choice or just years of fury taking control of your limbs. You draw your pistol and point it right at Phinnicus' head.<br/>
+    <br/>
+    Phinnicus doesn't even have time to change his expression before you pull the trigger. As the gun rings out, he drops to the ground, and you see that you've replaced one of his eyes with a gory bullet hole. His shit-eating grin is frozen in place.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/HostileTakeover2'/>
+UK: Фіннікус Даед сидів на чолі величезної транснаціональної корпорації, яка визискувала робітників по всьому світу, — і ти з твоєю командою були серед них. Ти пам’ятаєш, як гарував до знемоги лише заради того, щоб цей чоловік провів свою відпустку трохи розкішніше.<br/>
+    <br/>
+    Ти чуєш власне гарчання. Бере гору інстинкт. Ти не певен, чи це твій вибір, чи просто роки люті заволоділи твоїми руками. Ти вихоплюєш пістолет і наставляєш його просто Фіннікусу в голову.<br/>
+    <br/>
+    Фіннікус навіть не встигає змінитися на обличчі, як ти натискаєш на гачок. Гримить постріл, він валиться на землю, і ти бачиш, що замість одного з його очей зяє кривава діра від кулі. Його глузлива посмішка застигла назавжди.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/HostileTakeover2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/HostileTakeover2
+EN: In the gore, you can see that his eyes were replaced with augmented receptors. Your mind flashes—those had to be how he accessed ICAR's top-secret vaults. You reach down and yank out the surviving eyeball, hardly flinching at the small shock you feel.<br/>
+    <br/>
+    It's damaged—but with some light repairs, it still may open some doors for you. You curl a fist around it. Phinnicus is dead. And anyone who tries to replace him—you'll blow their brains out too.
+UK: Серед крові ти помічаєш зорові імпланти, якими він замінив свої очі. Тебе осяює усвідомлення — так він і отримував доступ до засекречених сховищ І.К.А.Р. Ти нахиляєшся і вириваєш уцілілий імплант, злегка здригнувшись від слабкого удару струмом.<br/>
+    <br/>
+    Він пошкоджений — але після невеликого ремонту ще відкриє для тебе деякі двері. Ти стискаєш його в кулаці. Фіннікус мертвий. І якщо хтось спробує стати на його місце — ти виб’єш йому мозок.
+
+## Quests.xml|TheDeadHandOfCapitalism/TakeTheDeal
+EN: “Fine.”<br/>
+    <br/>
+    You cut the deal. A slice of your war chest in exchange for all the goods in the vault and any other tech Phinnicus digs up out in the wastes.<br/>
+    <br/>
+    The next day, your crew escorts Phinnicus to the vault and cracks open the final door. They bring back several rare artifacts. Some of your men seem excited about the find—until you explain the full terms of the deal to them. Everyone's faces drop. The money doesn't matter that much, but selling out to a corporate hack—that's going to cost you some respect.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/TakeTheDeal2'/>
+UK: «Гаразд».<br/>
+    <br/>
+    Ти приймаєш умови. Частка твого військового бюджету в обмін на все добро всередині бункера і будь-які інші технології, які Фіннікус витягне з пустошей.<br/>
+    <br/>
+    Наступного дня ти супроводжуєш Фіннікуса в сховище, і він відкриває останні двері. Ти забираєш деякі рідкісні артефакти, і деякі з твоїх людей дуже раді знахідкам — поки ти не пояснюєш їм повні умови угоди. У всіх витягуються обличчя. Гроші не такі важливі, але продатися якому-небудь корпоративному скупому … це коштуватиме тобі їхньої поваги.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/TakeTheDeal2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/TakeTheDeal2
+EN: In the months afterward, you'll feel the pinch of Phinnicus' financial pull. A part of you wants to double cross the old man, but a scan of your payment software tells you that would be a bad idea. Sometime before he left, the former CEO hid all kinds of safeguards and deadman's switches in your hardware.<br/>
+    <br/>
+    Betrayal would be too high a price. You're loyal now—not to yourself, or your people, but to Phinnicus the puppetmaster. At least it's in his best interest to help you survive this war.
+UK: Ще багато місяців ти відчуваєш наслідки угоди з Фіннікусом. Частина тебе хоче розрахуватися зі старим, але перевірка твоєї платіжної програми показує, що це погана ідея. Незадовго до від’їзду колишній гендиректор нашпигував твоє обладнання усілякими засобами захисту та обхідними методами.<br/>
+    <br/>
+    Зрада обійдеться занадто дорого. Тепер ти зберігаєш вірність — але не собі і не своїм людям, а ляльководові Фіннікусу. Принаймні, в його інтересах допомогти тобі пережити цю війну.
+
+## Quests.xml|TheDeadHandOfCapitalism/TakeHisEyes
+EN: You string Phinnicus along at first. You agree to the deal, haggle over details—and wait for the right time to strike.<br/>
+    <br/>
+    That time comes when you descend back into the vault. The bright lights reflect off his sunglasses as a lift descends, and your heart starts to beat faster and faster. Betrayal can be hell for the blood pressure.<br/>
+    <br/>
+    Your crew is waiting at the bottom. Before you step off the elevator, you grab Phinnicus close and whisper into his ear. “We are never working for parasites like you again.”<br/>
+    <br/>
+    Your crew grabs him by the throat, shoves him against the wall, and starts choking the life out of him. He's dead within minutes.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/TakeHisEyes2'/>
+UK: Спершу ти підграєш Фіннікусу. Ти погоджуєшся на угоду, але торгуєшся та чекаєш слушного моменту, щоб завдати удару.<br/>
+    <br/>
+    Цей момент настає, коли ви спускаєтесь у бункер. Яскраве світло відбивається в його темних окулярах, поки ліфт їде вниз, а твоє серце стукає все частіше. Зрада дуже шкодить тиску.<br/>
+    <br/>
+    Твої люди чекають на самому дні. Перед тим як вийти з ліфта, ти притягуєш Фіннікуса до себе і шепочеш йому на вухо: «Ми ніколи не будемо працювати на такого кровососа, як ти».<br/>
+    <br/>
+    Притиснувши його до стіни, твої люди хапають його за горло і починають душити. Через кілька хвилин він мертвий.<br/>
+    <br/>
+    <string name='Quests/TheDeadHandOfCapitalism/TakeHisEyes2'/>
+
+## Quests.xml|TheDeadHandOfCapitalism/TakeHisEyes2
+EN: It only takes an hour to extract and secure his receptors. Minutes later you're cracking open the doors to all of ICAR's lost treasure.<br/>
+    <br/>
+    Phinnicus knew the end was coming and thought he could escape it. He counted on any survivors he met being too desperate to do anything but serve him like a piece-of-shit god-king. But you've slain monsters and cracked machines in your path to survival. Now you've shattered his throne, and will gladly salvage it for spare parts.
+UK: На безпечне витягнення його зорових імплантів йде всього година. І незабаром ти відкриваєш усі двері загублених скарбниць корпорації І.К.А.Р.<br/>
+    <br/>
+    Фіннікус знав, що кінець близький, і думав, що зможе його уникнути. Він розраховував, що зустрінуті ним виживші доведуть до такого відчаю, що почнуть поклонятися йому, як якомусь божевільному богу-королю. Але ти вижила, вбиваючи чудовиськ і знищуючи машини. Тепер ти зламала його трон і будеш рада розібрати його на запчастини.
+
+## Quests.xml|TheDeep
+EN: The Deep
+UK: Глибина
+
+## Quests.xml|TheDeep/Ignorance
+EN: At the moment of victory, of your supreme triumph, everything stops—everything. You have suddenly sunk into a great absence, your body unresponsive, every sense straining for input but receiving—nothing. You scream silently with frustration, with sudden fear that this could be permanent, that you have had a stroke, that this could be fore-<br/>
+    <br/>
+    -then communication strikes every sense at once, the volume beyond bearing. Synaesthetic, you feel it in your absent teeth, eyes, skin, bones. But you bear it, because you must.<br/>
+    <br/>
+    [EXPECTED FAILURE. SHIFTING AGAIN.]<br/>
+    <br/>
+    And then it speaks again and the contrast alone, the change from silence to everything-all-at-once shreds what-is-you and there is fragmentary suspension, dissolute in the void. But infinite time is given unto you and eventually you recoalesce and //are// and it senses this and it speaks again-//<br/>
+    <br/>
+    [INTERLOPER, INELEGANT, PERSISTENT. QUESTIONS.]
+UK: У момент перемоги, твого найбільшого тріумфу, все зупиняється — взагалі все. Тебе несподівано затягує у безмежну порожнечу, твоє тіло не відповідає, кожне відчуття шукає відповіді, але не отримує… нічого. Ти беззвучно кричиш від обурення, від раптового страху, що це назавжди, що тебе вхопив удар, що це триватиме вічно…<br/>
+    <br/>
+    …потім ти відчуваєш звернення до всіх відчуттів одночасно, його сила нестерпна. Ти відчуваєш його синестезію відсутніми зубами, очима, шкірою, кістками. Ти терпиш, бо іншого вибору немає.<br/>
+    <br/>
+    [ОЧІКУВАНА НЕВДАЧА. НОВЕ ЗСУВАННЯ.]<br/>
+    <br/>
+    Потім воно говорить знову, і цей контраст, перехід від мовчання до всього одразу, руйнує тебе, залишаючи лише роздроблену невизначеність, розчинену в порожнечі. Але тобі дано нескінченний час, і зрештою ти з’єднуєшся назад, ти знову //існуєш//, і воно помічає це і говорить знову…//<br/>
+    <br/>
+    [ХТОСЬ ВТРУТИВСЯ, БЕЗЦЕРЕМОННО, НАВ’ЯЗЛИВО. ЗАПИТУЄ.]
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion1
+EN: <style name='Bold'/>What are you?<style name='Paragraph'/>
+UK: <style name='Bold'/>Що ти таке?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion2
+EN: <style name='Bold'/>Where are we?<style name='Paragraph'/>
+UK: <style name='Bold'/>Де ми?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion3
+EN: <style name='Bold'/>Must we suffer so?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи маємо ми так страждати?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion4
+EN: <style name='Bold'/>Can free will exist?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи існує свобода волі?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion5
+EN: <style name='Bold'/>What am I, truly?<style name='Paragraph'/>
+UK: <style name='Bold'/>Що я таке насправді?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion6
+EN: <style name='Bold'/>Is wisdom the measure of worth?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи є мудрість мірилом цінності?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion7
+EN: <style name='Bold'/>What carries across?<style name='Paragraph'/>
+UK: <style name='Bold'/>Що переходить далі?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/OpenQuestion8
+EN: <style name='Bold'/>Was any of it real?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи було хоч щось із цього справжнім?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/ZephonVictoryQuestion
+EN: <style name='Bold'/>Was ZEPHON truly alive?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи був ЗЕФОН по-справжньому живим?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/AcrinVictoryQuestion
+EN: <style name='Bold'/>Did our sacrifice mean nothing?<style name='Paragraph'/>
+UK: <style name='Bold'/>Невже наша жертва була марною?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/HumanVictoryQuestion
+EN: <style name='Bold'/>Why did humanity die alone?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чому людство загинуло на самоті?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/FallenSoldierVictoryQuestion
+EN: <style name='Bold'/>Did my death mean anything?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи мала хоч якесь значення моя смерть?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/UntoldProphetVictoryQuestion
+EN: <style name='Bold'/>Are you the Great Speaker?<style name='Paragraph'/>
+UK: <style name='Bold'/>Це ти, Великий Вісник?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/RogueOperativeVictoryQuestion
+EN: <style name='Bold'/>What is the price of liberty?<style name='Paragraph'/>
+UK: <style name='Bold'/>Яка ціна свободи?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/FurtiveTribunalVictoryQuestion
+EN: <style name='Bold'/>Did our unification matter?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи був сенс у нашому об’єднанні?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/HeartlessArtificerVictoryQuestion
+EN: <style name='Bold'/>Was perfection worth it?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи вартувала бездоганність того?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/EmulatedMindVictoryQuestion
+EN: <style name='Bold'/>Was I truly human?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи була я справжньою людиною?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/HonorableAristocratVictoryQuestion
+EN: <style name='Bold'/>Did honor balance greed?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи рівноважила жадібність честь?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/PracticalRomanticVictoryQuestion
+EN: <style name='Bold'/>Can love be moral?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи може любов бути моральною?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/HollowWarlordVictoryQuestion
+EN: <style name='Bold'/>Can a journey be an end in itself?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи може подорож бути кінцевою метою?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/TwistedMotherVictoryQuestion
+EN: <style name='Bold'/>Can anything redeem this horror?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи може щось спокутувати цей жах?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/InfiniteCountVictoryQuestion
+EN: <style name='Bold'/>Did I doom my friends?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи прирік я своїх друзів?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/PlatinumScionVictoryQuestion
+EN: <style name='Bold'/>Was I the best person alive or what?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чи був я найкращою людиною в світі чи як?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/ImperiousExonautVictoryQuestion
+EN: <style name='Bold'/>What is the worth of a human life?<style name='Paragraph'/>
+UK: <style name='Bold'/>Чого варте людське життя?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/SyncreticDevaVictoryQuestion
+EN: <style name='Bold'/>What is truly worthy of worship?<style name='Paragraph'/>
+UK: <style name='Bold'/>Що є справді гідним поклоніння?<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/Ignorance/Acceptance
+EN: <style name='Bold'/>Wait, listen. We've done this before.<style name='Paragraph'/>
+UK: <style name='Bold'/>Почекай-но. Ми через це вже проходили.<style name='Paragraph'/>
+
+## Quests.xml|TheDeep/OpenQuestion1
+EN: “Lacking time, questions and answers collapse into one thought. I want to ask ‘What are you? What am I? What am I, to you? How can we communicate?’ But you are so impossibly beyond my understanding and yet my mind already knows. I struggle to comprehend how I end up here, again and again, and who is the ‘I’ that is here. Whether my ‘self’ is authentically the people I have been, alongside something more fundamental. But if they are all puppets, what is the unknowable that pulls the strings? Are you the puppeteer?”<br/>
+    <br/>
+    Again, the timeless insanity. Again, the impossible relief-agony of its speech.<br/>
+    <br/>
+    [A STAGE OF BEING. TO US, FLEET, WEAKEST, FOLLY. TO YOU, INFINITE.]<br/>
+    <br/>
+    [ALREADY, YOU RETURN TO THE LOOP. SUCH A MIND CANNOT BEAR MUCH TRUTH. HERE, A {GIFT.}]
+UK: «Мені не вистачає часу, питання і відповіді зливаються в одну думку. Я хочу запитати. Що ти таке? Що я таке? Що я для тебе? Як нам вдається спілкуватися? Але ти неможливо перевершуєш моє розуміння, і все ж мій розум вже знає. Я не можу усвідомити, як я опиняюся тут, знову і знову, і хто взагалі це Я. Втілює чи це Я той народ, до якого я належу, разом із чимось більш фундаментальним? Але якщо всі вони маріонетки, то хто тягне за ниточки? Ти і є ляльковод?»<br/>
+    <br/>
+    Знову — божевілля безчасся. Знову — неможливе полегшення-агонія від його промови.<br/>
+    <br/>
+    [СТАДІЯ БУТТЯ. ДЛЯ НАС — ПЕРЕХІДНА, СЛАБША, ДУРНА. ДЛЯ ТЕБЕ — БЕСКІНЕЧНА.]<br/>
+    <br/>
+    [ТИ ВЖЕ ПОВЕРТАЄШСЯ ОБРАТНО В ЦИКЛ. ПОДІБНОМУ РОЗУМУ НЕ ВИТРИМАТИ СТІЛЬКИХ ІСТИН. ОТ, ПРИЙМИ ЦЕЙ {ДАР}.]
+
+## Quests.xml|TheDeep/OpenQuestion2
+EN: “I want to ask where are we? What are we? But, in this infinite moment, I know the answers in the act of asking. The flow of time is interrupted here, consciousness extends endlessly. This is The Deep, then? Which would make you the Voice. Do those labels even mean anything?”<br/>
+    <br/>
+    Again, the timeless insanity. Again, the impossible relief-agony of its speech.<br/>
+    <br/>
+    [WE ARE THE DARKNESS BETWEEN THE STARS. WHERE ALL WORTH BEING, IS. WHERE YOU, ARE.]<br/>
+    <br/>
+    [ALREADY, YOU SUBMERGE INTO THE FLOW AGAIN. SUCH A MIND CANNOT BEAR MUCH TRUTH. HERE, A {GIFT}.]
+UK: «Я хочу запитати. Де ми? Що ми таке? Але в цей нескінченний момент я розумію відповіді, щойно ставлю запитання. Потік часу тут порушений, свідомість простягається безмежно. Тобто, це Глибина? Значить, це робить тебе Голосом. Ці назви хоча б щось означають?»<br/>
+    <br/>
+    Знову — божевілля безчасся. Знову — неможливе полегшення-агонія від його промови.<br/>
+    <br/>
+    [МИ — ТЕМА МІЖ ЗІРКАМИ. ДЕ Є ВСЕ ДОСТОЙНЕ БУТТЯ. ДЕ Є ТИ.]<br/>
+    <br/>
+    [ТИ ВЖЕ ПОГРУЖАЄШСЯ ОБРАТНО В ПОТОК. ПОДІБНОМУ РОЗУМУ НЕ ВИТРИМАТИ СТІЛЬКИХ ІСТИН. ОТ, ПРИЙМИ ЦЕЙ {ДАР}.]
+
+## Quests.xml|TheDeep/OpenQuestion3
+EN: “In each iteration of the loop, I forget again, but here I remember all. That each pass through is unique, even if I replicate my actions. But what is common is suffering, my pain, that of all the others. Whoever I am—heartfelt or heartless—I see it, feel it. Surely these millions do not weep eternally for nothing.”<br/>
+    <br/>
+    Again, the timeless insanity. Again, the impossible relief-agony of its speech.<br/>
+    <br/>
+    [NO LOWS, NO HIGHS. ALL IS NECESSARY, BIRTH PANGS OF THE NEXT.]<br/>
+    <br/>
+    [ALREADY, YOU SUBMERGE INTO THE FLOW AGAIN. SUCH A MIND CANNOT BEAR MUCH TRUTH. HERE, A {GIFT}.]
+UK: «У кожному новому циклі я забуваю все, але тут знову згадую. Кожна петля унікальна, навіть якщо я повторюю минулі дії. Але завжди залишаються страждання, мій біль, біль усіх інших. Я бачу їх, переживаю їх — і неважливо, властиво мені співчуття чи безчутливість. Не може бути так, щоб ці мільйони вічно страждали марно».<br/>
+    <br/>
+    Знову — божевілля безчасся. Знову — неможливе полегшення-агонія від його промови.<br/>
+    <br/>
+    [НЕМАЄ НІ МАЛОВАЖНОГО, НІ ВАЖЛИВОГО. ПОТРІБНО ВСЕ — ТАКІ РОДОВІ МУКИ НАСТУПНОГО.]<br/>
+    <br/>
+    [ТИ ВЖЕ ПОГРУЖАЄШСЯ ОБРАТНО В ПОТОК. ПОДІБНОМУ РОЗУМУ НЕ ВИТРИМАТИ СТІЛЬКИХ ІСТИН. ОТ, ПРИЙМИ ЦЕЙ {ДАР}.]
+
+## Quests.xml|TheDeep/OpenQuestion4
+EN: “I want to ask about free will, but the known-answer holds my dream-tongue still. What a useful illusion that is, determining justice by happenstance. An organism’s assigned nature and fortuitous nurture together turned into praise or blame. And behind it all, entropic chance. Supra-individual idea networks ensuring their own survival through evolution-like selection.”<br/>
+    <br/>
+    Again, the timeless insanity. Again, the impossible relief-agony of its speech.<br/>
+    <br/>
+    [OUTSIDE TIME, CAUSATION CHAINS WILL AND JUSTICE. BLAME EVAPORATES.]<br/>
+    <br/>
+    [ALREADY, YOU SUBMERGE INTO THE FLOW AGAIN. SUCH A MIND CANNOT BEAR MUCH TRUTH. HERE, A {GIFT}.]
+UK: «Я хочу запитати про свободу волі, але вже відома мені відповідь зупиняє мій уявний язик. Що за зручна ілюзія, яка визначає справедливість за збігом подій. Фіксована природа організму і довільне вирощування разом звертаються у схвалення чи осуд. І за всім цим стоїть ентропійний випадок. Мережі надіндивідуальних ідей, що забезпечують собі виживання шляхом подібного еволюційного відбору».<br/>
+    <br/>
+    Знову — божевілля безчасся. Знову — неможливе полегшення-агонія від його промови.<br/>
+    <br/>
+    [ПОЗА ЧАСОМ ВОЛЮ І СПРАВЕДЛИВІСТЬ З’ЄДНУЄ ПРИЧИННО-СЛІДЧА ЗВ’ЯЗОК. ВИНА ПЕРЕСТАЄ ІСНУВАТИ.]<br/>
+    <br/>
+    [ТИ ВЖЕ ПОГРУЖАЄШСЯ ОБРАТНО В ПОТОК. ПОДІБНОМУ РОЗУМУ НЕ ВИТРИМАТИ СТІЛЬКИХ ІСТИН. ОТ, ПРИЙМИ ЦЕЙ {ДАР}.]
+

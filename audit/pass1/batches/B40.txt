@@ -1,0 +1,466 @@
+# B40: 56 entries from Quests.xml
+
+## Quests.xml|PortentsOfDespair/WarFailure
+EN: Does a Plangent Orolos fear the strike of the Ishim Enforcer? Or the Ithuriel Harbinger, the bite of an Abkluth?<br/>
+    <br/>
+    Of course not. They barely even take notice. Just like how ZEPHON and the Anchorite fail to notice your feeble intimidation campaign.<br/>
+    <br/>
+    Their war machines rumble at the same pace. They will set the terms of the final conflict.
+UK: Чи боїться плакучий оролос удару ішима-силовика? Чи боїться ітуріель-провісник укусу абклюта?<br/>
+    <br/>
+    Звісно, ні. Вони ледве це помічають. Так само ЗЕФОН і Анахорет не помічають твоїх жалюгідних спроб залякування.<br/>
+    <br/>
+    Їхні бойові машини гуркочуть у тому ж темпі. Умови вирішальної битви визначатимуть саме вони.
+
+## Quests.xml|Reyndverra
+EN: Reyndverra
+UK: Рейндверра
+
+## Quests.xml|Reyndverra/Intro
+EN: It's stirring again. The discontent. The boredom. War rages outside your walls and still you visit the old bar, hoping a drunken brawl will give you the fire of the old days.<br/>
+    <br/>
+    Then one day purpose finds you. Its vessel is a storyteller named “Brynn.”<br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro4'/> Up close, he looks like an Ishim. “It warps reality.” He continues. “Bends probability. Only a disciplined mind, a true leader, can pull it from the rock.”<br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro2'/><br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro3'/>
+UK: Знову починається. Незадоволення. Нудьга. За твоїми стінами кипить війна, а ти все ходиш у старий бар, сподіваючись, що п’яна бійка розпалить у тобі іскру старих часів.<br/>
+    <br/>
+    І одного дня мета знаходить тебе. Її приносить оповідач на ім’я Брінн.<br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro4'/> Зблизька він схожий на одного з ишимів. «Меч спотворює реальність», — продовжує він. — «Спотворює ймовірність. Лише стриманий розум, справжній лідер, здатен витягти його з каменю».<br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro2'/><br/>
+    <br/>
+    <string name='Quests/Reyndverra/Intro3'/>
+
+## Quests.xml|Reyndverra/Intro2
+EN: You ask how he knows. “The Anchorite's found it,” he says. “He's gathered a small army of Voice cultists to retrieve it. They won't give up its location without a fight…”
+UK: Ти питаєш, звідки він це знає. «Його виявив Анахорет», — пояснює Брінн. — «Щоб дістати його, він зібрав невелику армію голосопоклонників. Вони не видадуть його місцезнаходження без бою...»
+
+## Quests.xml|Reyndverra/Intro3
+EN: A fight—a raid. But wait—a “disciplined mind.” There's more than one path to victory. Perhaps you could remind the Anchorite that peace, precious peace, is preferable to slaughter…
+UK: Бій! Наліт! Але... стриманий розум? До перемоги можна йти різними шляхами. Можливо, варто нагадати Анахорету, що мир, його дорогоцінний мир, кращий за різанину...
+
+## Quests.xml|Reyndverra/Intro4
+EN: You enter the bar and see the drunks and deadbeats paying rapt attention to someone in the corner of the room. “… out of a legend, I swear. A sword called 'Reyndverra.' Buried in the hills, supposedly only a truly free leader can wield it…”<br/>
+    <br/>
+    A moment later, you're inches from Brynn, hanging on his every word.
+UK: Ти входиш у бар і бачиш, як п’яниці та ледарі уважно слухають когось у кутку залу. «...з легенди, ось вам хрест. Меч на ім’я Рейндверра. Закопаний серед пагорбів, і кажуть, що лише по-справжньому вільний ватажок може ним володіти...»<br/>
+    <br/>
+    Через мить ти вже стоїш поруч із Брінном, вбираючи кожне його слово.
+
+## Quests.xml|Reyndverra/Intro/Conquer
+EN: <style name='Bold'/>Attack the Anchorite's camp:<style name='Paragraph'/> The alien will give up the blade's location, or perish.
+UK: <style name='Bold'/>Напасти на табір Анахорета:<style name='Paragraph'/> Пришелець або скаже, де шукати клинок, або помре.
+
+## Quests.xml|Reyndverra/Intro/Cajole
+EN: <style name='Bold'/>Parlay with the Anchorite:<style name='Paragraph'/> A wise ruler knows when to stay their hand. He can be reasoned with.
+UK: <style name='Bold'/>Переговорити з Анахоретом:<style name='Paragraph'/> Мудрий правитель знає, коли стриматися. Спробуємо домовитися з ним.
+
+## Quests.xml|Reyndverra/Intro/Ignore
+EN: <style name='Bold'/>Walk away:<style name='Paragraph'/> Another drink is all you really need.
+UK: <style name='Bold'/>Вийти:<style name='Paragraph'/> Ти тут лише для того, щоб пропустити чарку.
+
+## Quests.xml|Reyndverra/AnchoriteAssaultSuccess
+EN: It's happening. You feel ALIVE. The Anchorite's little cult of sycophants evaporated like sweat dripping from your forehead and the old freak fled to his clutch of Acrin weaklings.<br/>
+    <br/>
+    But—treachery. In the fighting your guards spotted Brynn—the talespinner who sent you on this quest scuttling through the fray—a map tucked into his satchel as he boarded a Marauder. He seeks the blade for himself. He lied to you.<br/>
+    <br/>
+    He USED you.<br/>
+    <br/>
+    You track him yourself. He's retreated to an old Watchmaker base. Questions cloud your mind—does he hail from their ranks? Does he serve another master? How many are—<br/>
+    <br/>
+    But then you remember: Discipline. True leadership. One who would wield Reyndverra cannot worry about these things.
+UK: О, яке хвилювання! Ти почуваєшся ЖИВИМ! Жалюгідний культ прихильників Анахорета випарувався, як краплі поту, що стікають з твого чола, а старий виродок утік до свого виводка акринських слабаків.<br/>
+    <br/>
+    Але... зрада! Під час бійки твої охоронці помітили Брінна — базікала, що послав тебе шукати голку в сіні. З його сумки стирчала карта, коли він сідав у «Мародера». Він сам хоче знайти клинок. Він обдурив тебе!<br/>
+    <br/>
+    Він ВИКОРИСТОВУВАВ тебе!<br/>
+    <br/>
+    Ти особисто слідуєш за ним. Він укотив на стару базу Часовщиків. У голові рояться питання. Чи він один із них? Чи служить іншому господарю? Скільки їх?..<br/>
+    <br/>
+    Але потім ти нагадуєш собі: стриманість. Справжній лідер. Той, хто гідний володіти Рейндверрою, не повинен хвилюватися через такі дрібниці.
+
+## Quests.xml|Reyndverra/AnchoriteCajoleSuccess
+EN: You made sure to put on a hell of a show. Riding into the Anchorite's camp alone, handing his flunkeys a scroll stamped with your demands—the sound of Scramblers revving their engines in the distance. But you're surprised to find that the Anchorite seems pleased to see you, hardly intimidated by the might of your army.<br/>
+    <br/>
+    “To welcome you, warrior of the road,” he says, with those raspy, frustrating, hard-to-understand words he uses. “To feel gratitude that you picked words, not violence, and ignored the whispers of the Watchmaker.”<br/>
+    <br/>
+    A—a Watchmaker? Brynn? The rest of the Anchorite's words fade as a dull roar takes over your mind. He wanted you to attack the Anchorite—surely to take the location of Reyndverra for himself. You barely acknowledge the Anchorite as he hands you a faded map with the blade's location. Rage sails through your blood, the sound of its passing a roar inside your body.<br/>
+    <br/>
+    Brynn must die before you can complete your quest.
+UK: Ти робиш усе, щоб справити враження. В’їжджаєш у табір Анахорета наодинці, передаєш його лакеям сувій із надрукованими вимогами — поки здалеку чутно бродяг, що ревуть моторами. Але, як не дивно, Анахорет радісно вітає тебе, зовсім не наляканий могутністю твоєї армії.<br/>
+    <br/>
+    «Вітаю тебе, воїне дороги», — говорить він своїм хриплим, дратівливим, нечленораздельним голосом. — «Дякую, що обрав слова замість жорстокості і не слухав підбурювання Часовщика».<br/>
+    <br/>
+    Кого? Часовщика? Брінна??? Решта промови Анахорета проходить повз тебе, заглушена наростаючим у думках гнівом. Він планував, щоб ти напав на Анахорета, і явно хотів сам дізнатися місцезнаходження Рейндверри. Ти ледь звертаєш увагу на те, що Анахорет передає тобі потьмарену карту, на якій позначено клинок. В жилах кипить лють, віддається в голові пульсуючим стуком.<br/>
+    <br/>
+    Брінн має померти, перш ніж ти продовжиш пошуки.
+
+## Quests.xml|Reyndverra/FollowTheChieftess
+EN: <string name='Quests/Reyndverra/FollowTheChieftess2'/><br/>
+    <br/>
+    “I need Reyndverra,” he says, not meeting your face. “Please, I need the blade. I can fix things, make them back the way they were!”<br/>
+    <br/>
+    The way things were? Drudgery? Greed? Weakness? Pathetic.<br/>
+    <br/>
+    You smash him to death with his own limb.<br/>
+    <br/>
+    But before you can leave, movement flashes at the edge of your vision, you spin, and none other than the Chieftess is standing there, clutching the map you fought so hard for. How did she get past your army?<br/>
+    <br/>
+    “Yeah, he was pretty boring, don't you think?” She's grinning—the grin she once flashed when she pulled a downed Sentry off your chest. “You and I can both dream bigger. But I'm the one who's going to bring that dream to life.”<br/>
+    <br/>
+    She bolts. You follow. She might be worthy. But if you beat her… your greatness will be undeniable.
+UK: <string name='Quests/Reyndverra/FollowTheChieftess2'/><br/>
+    <br/>
+    «Мені потрібна Рейндверра!» — благає він, намагаючись не дивитися тобі в обличчя. — «Прошу, мені потрібен цей меч. Я можу все виправити, повернути все як було!»<br/>
+    <br/>
+    Як було? Рутинна робота? Жадібність? Слабкість? Який же він жалюгідний.<br/>
+    <br/>
+    Ти забиваєш його насмерть його ж кінцівкою.<br/>
+    <br/>
+    Але, не встигнувши відійти, кутом ока помічаєш рух, повертаєшся і бачиш перед собою Вождиню, яка тримає карту, що коштувала тобі стільки зусиль. Як вона пробралася повз твою армію?<br/>
+    <br/>
+    «М-да, нудний був мужик, згоден?» — вона ухмиляється. Ту саму ухмілку ти бачив одного разу, коли вона скинула з тебе уламки годинникового. «У нас із тобою мрії більші. Але ці мрії втілю я».<br/>
+    <br/>
+    Вона тікає. Ти йдеш за нею. Мабуть, вона гідна. Але якщо ти переможеш її... твоя велич стане беззаперечною.
+
+## Quests.xml|Reyndverra/FollowTheChieftess2
+EN: “I thought Watchmakers were pacifists,” you growl as you advance on Brynn in the ruins of his camp. You carry half of his broken leg, holding it like a club as you slowly stalk him. He's crawling. Desperate. Unworthy.
+UK: «Я вважав Часовщиків прихильниками миру», — ричиш ти, надвигаючись на Брінна у його розореному таборі. Ти повільно йдеш до нього, тримаючи як палицю половину його зламаної ноги. Він відповзає. Відчайдушний. Недостойний.
+
+## Quests.xml|Reyndverra/FollowTheChieftessFailure
+EN: You stand by the smoking wreckage of your bike, watching the Chieftess ride off into the horizon.<br/>
+    <br/>
+    You could rage at her, blame your troops, blame the enemy forces that blocked your way as you struggled to keep up. It's so tempting—but so unwise. In the end she wanted Reyndverra more than you and did whatever was necessary to shake your tail.<br/>
+    <br/>
+    She has much to teach you. Maybe there will be another chance to learn…?
+UK: Ти стоїш біля димлячих уламків свого байка, спостерігаючи, як Вождиня мчить за горизонт.<br/>
+    <br/>
+    Ти міг би злитися на неї, звинуватити свої війська чи ворожих солдатів, які завадили тобі її наздогнати. Спокусливо — але нерозумно. Зрештою, вона хотіла заполучити Рейндверру сильніше за тебе і зробила все необхідне, щоб скинути тебе з хвоста.<br/>
+    <br/>
+    Вона дала тобі урок. Можливо, тобі ще випаде шанс навчитися?..
+
+## Quests.xml|Reyndverra/FightChieftess
+EN: The Chieftess doesn't even try to shake you. You leap on your bike and chase her Wastelander to a cave system unexplored by the other great armies. Reinforcements—yours and hers—pile in during the chase. Transports crash into each other, Outriders go up in smoke. Explosions, screams, heavy metal blasting from the speakers.<br/>
+    <br/>
+    This is how you were meant to live your life.<br/>
+    <br/>
+    <string name='Quests/Reyndverra/FightChieftess2'/><br/>
+    <br/>
+    Win or lose, this is a battle for the planet. You rev your engine, raise your fist, and scream “CHARGE!!!!!”
+UK: Вождиня навіть не намагається скинути тебе з хвоста. Ти запригнув на байк і слідуєш за її «Пустельником» до системи печер, не досліджених іншими великими арміями. До погоні приєднуються підкріплення — твої й її. Машини врізаються одна в одну, «Колісниці» злітають у повітря. Вибухи, крики, хеві-метал із динаміків.<br/>
+    <br/>
+    Ось так і потрібно жити!<br/>
+    <br/>
+    <string name='Quests/Reyndverra/FightChieftess2'/><br/>
+    <br/>
+    Це сутичка за всю планету. Ти заводиш двигун, піднімаєш кулак і кричиш: «В АТАКУ!!!»
+
+## Quests.xml|Reyndverra/FightChieftess2
+EN: You round one last corner and see the Chieftess standing atop her titanic steed. She's backed up against the wall. Right where you want to fight her.<br/>
+    <br/>
+    But also right where she wants to fight you.<br/>
+    <br/>
+    You lock eyes with her. They're manic, deranged—just like yours. Two rulers of the wasteland battling for a mythical weapon. Damn the Acrin, damn ZEPHON, damn the Voice and the machines and damn everyone fighting to put this planet in the hands of ANYONE ELSE but its true inheritors.
+UK: Ти огинаєш останній поворот і бачиш Вождиню, що стоїть на даху свого гігантського вантажівки. Вона прижата до стіни. Саме тут ти й хотів битися з нею.<br/>
+    <br/>
+    Але саме тут і вона хотіла битися з тобою.<br/>
+    <br/>
+    Ти дивишся їй прямо в очі. Вони сповнені божевільної енергії — так само, як і твої. Двоє правителів пустки, що б’ються за міфічну зброю. Прокляті акрини, проклятий ЗЕФОН, проклятий Голос, машини і всі, хто веде війну, щоб ця планета стала ЧИЄЮСЬ, крім її законних спадкоємців.
+
+## Quests.xml|Reyndverra/FightChieftessFailure
+EN: Victory is so close but then—your tire bursts. Your bike flips, and you are pinned beneath it.<br/>
+    <br/>
+    A medic rushes over and jabs a needle in your arm. She's screaming—troopers lay down covering fire, a Corsair dives from the clouds to haul you away. As the bay door closes, you see chaos on the battlefield below. Your people and the Chieftess' both scattered—is she alive? Who has claimed Reyndverra?<br/>
+    <br/>
+    But it doesn't matter. In the end, you were not worthy. You must win the war if you are to restore your name.
+UK: Перемога здається такою близькою — аж раптом у тебе лопається шина. Байк перекидається, і ти опиняєшся під ним.<br/>
+    <br/>
+    До тебе спішить медик, який встромляє тобі голку в руку. Він кричить — солдати прикривають вас вогнем, з неба спускається «Корсар», який забирає тебе геть. Коли двері відсіку зачиняються, ти дивишся на хаос битви внизу. Твої війська розкидані, прихильники Вождині теж. Вона жива? Хто забрав Рейндверру?<br/>
+    <br/>
+    Але це не має значення. Зрештою, ти виявився недостойним. Якщо хочеш повернути собі репутацію, доведеться перемогти у війні.
+
+## Quests.xml|Reyndverra/FightChieftessSuccess
+EN: Oh, what a perfect day. The dead number in the hundreds, burning husks of metal are piled high outside the cave system. You ride past the burned machines and bloodied bodies and right into the caves. They're huge—huge enough to drive a whole Scrambler through.<br/>
+    <br/>
+    You descend, some part of you wondering how no one else explored this system before. You silence those thoughts. Focus. Discipline. Worthiness. That is what you will need to master the great blade Reyndverra.<br/>
+    <br/>
+    Finally, after what feels like an age, you arrive at a ruined chamber. One of your advisors might be able to name who built it, but you don't care one lick. You push past the cobwebs and approach an altar.<br/>
+    <br/>
+    There it sits. Reyndverra. The air shimmers around it, lights blinking in and out. It bends reality, but it dawns on you—it doesn't know which way to bend. How to shape facts and truth. Only a worthy wielder can guide it.<br/>
+    <br/>
+    It is time, you reach out and—
+UK: О, який чудовий день! Лічильник загиблих йде на тисячі, гори палаючого металу складені біля входу в систему печер. Ти проїжджаєш повз випалені машини й закривавлені тіла — прямо в підземелля. Вони величезні — можна їхати навіть на байку.<br/>
+    <br/>
+    Ти спускаєшся нижче, навіть задумуючись, чому ніхто раніше їх не досліджував. Ти відганяєш ці думки. Зосередженість. Стриманість. Гідність. Це все, що тобі потрібно для володіння великим мечем, Рейндверрою.<br/>
+    <br/>
+    Минає ціла вічність, і ти нарешті дістаєшся до зруйнованої зали. Хтось із радників назвав би ім’я того, хто її побудував, але тобі байдуже. Ти змахнув павутину і підходиш до вівтаря.<br/>
+    <br/>
+    Ось і меч. Рейндверра. Повітря мерехтить навколо клинка, світло то спалахує, то гасне. Навколо нього вигинається сама реальність, але ти розумієш — він не знає, у який бік її гнути. Куди спрямувати факти та істину. Лише гідному власнику це під силу.<br/>
+    <br/>
+    Ось настав цей момент, ти простягаєш руку і...
+
+## Quests.xml|Reyndverra/FightChieftessSuccess/TakeBlade
+EN: <style name='Bold'/>Take the blade:<style name='Paragraph'/> This is it. You are worthy!
+UK: <style name='Bold'/>Взяти клинок:<style name='Paragraph'/> Ось і все. Ти гідний!
+
+## Quests.xml|Reyndverra/FightChieftessSuccess/GiveUpBlade
+EN: <style name='Bold'/>Stay your hand:<style name='Paragraph'/> Wait. Will this prize truly satisfy you?
+UK: <style name='Bold'/>Стриматися:<style name='Paragraph'/> Стоп. Чи справді ця нагорода тебе задовольнить?
+
+## Quests.xml|Reyndverra/TakeBlade
+EN: —grasp your fingers around the hilt. It's warm—then cold, then warm again. Neither will do. You draw it from the stone and then it feels only as cool as the cave you are standing in. Yes, perfect.<br/>
+    <br/>
+    <string name='Quests/Reyndverra/TakeBlade2'/><br/>
+    <br/>
+    This blade was made for you, and you were made for this blade. But you remember—a warlord must lead and cannot be at every battlefield. Your champions need the blade's power as much as you do.<br/>
+    <br/>
+    Before, you would have puzzled over this. How could you wield the blade and allow them to as well? Now you see. You tell it the truth: that your lieutenants, your heroes, they fight for you. It will heed them the way it heeds you.<br/>
+    <br/>
+    The blade hums in affirmation. You raise it to the sky once more, surrounded by cheering soldiers. Even the Chieftess stands, raising her fist. You! Are! WORTHY!
+UK: ...обхоплюєш пальцями рукоять. Вона тепла — потім холодна, а потім знову тепла. Тебе це не влаштовує. Ти витягуєш меч із каменю, і він стає таким же прохолодним, як і печера навколо. Так, ідеально.<br/>
+    <br/>
+    <string name='Quests/Reyndverra/TakeBlade2'/><br/>
+    <br/>
+    Цей клинок створений для тебе, а ти створений для цього клинка. Але ти задумуєшся — ватажок повинен керувати і не може бути присутнім на кожному полі бою. Сила меча потрібна твоїм обраним воїнам не менше, ніж тобі.<br/>
+    <br/>
+    Раніше ти ламав би голову над тим, як володіти мечем одночасно і тобі, і їм? Але тепер відповідь ясна. Ти говориш йому правду: твої командири, твої герої — вони борються за тебе. Він слухатиметься їх так само, як слухається тебе.<br/>
+    <br/>
+    Клинок тихо гуде. Ти знову піднімаєш його до неба, тебе оточують радісні солдати. Навіть Вождиня схвально піднімає кулак. Ти! По-справжньому! ГІДНИЙ!
+
+## Quests.xml|Reyndverra/TakeBlade2
+EN: You slice at a stalactite. It cuts clean. You return to the surface, to the burning wreckage of the Chieftess' Wastelander. You swing—once, twice, three times—and it collapses. You point it to the earth and flowers bloom. You raise it to the sky and clouds gather.
+UK: Ти без особливих зусиль розрізаєш сталагміт навпіл. Ти повертаєшся на поверхню, до палаючого «Пустельника» Вождині. Ти робиш замах, другий, третій — і вантажівка перетворюється на металобрухт. Ти вказуєш клинком на землю, і там розпускається квітка. Ти піднімаєш її до неба, і збираються хмари.
+
+## Quests.xml|Reyndverra/GiveUpBlade
+EN: —you pause.<br/>
+    <br/>
+    Can this blade do anything to match that moment on the surface? When you stood toe-to-toe, army-to-army with the only other human to make it through the apocalypse alive, unaltered, unbent, unbroken. In another life, she and you might have been friends, or lovers, or brothers in arms—your conflict today was only a consequence of opposing desires.<br/>
+    <br/>
+    She was the only one who could stand in your way.<br/>
+    <br/>
+    This road is a familiar one. Build an army. Build an empire. Toss it away. This blade won't change that. It is a symbol of strength, but the strength it offers is no greater than the strength it took to reach this moment.<br/>
+    <br/>
+    You return to the surface. “Reyndverra's all yours,” you say to the Chieftess, who you catch screaming at two Reavers failing to haul her from the wreckage of her Wastelander. All freeze. “What the fuck are you playing at?!” she asks. “You fucking idiot, you know that blade doesn't mean ANYTHING unless I beat you for it!”<br/>
+    <br/>
+    You flash her a grin, give a little whistle, and walk back to your bike. Your people await. If you weren't worthy, they'd be furious with you for sacrificing so many and walking away empty-handed.<br/>
+    <br/>
+    But they're as thrilled as you are. Thrilled for the hunt, thrilled by the journey, thrilled—just to be alive.
+UK: ...зупиняєшся.<br/>
+    <br/>
+    Чи здатний цей меч на щось, що порівняється з тим моментом на поверхні? Коли ти стояв лицем до лиця, армія до армії, з єдиною іншою душею, яка пережила апокаліпсис, незмінною, незламною, несокрушенною. В іншому житті ви могли бути друзями, коханцями, соратниками — ваша сьогоднішня сутичка була лише наслідком протилежних бажань.<br/>
+    <br/>
+    Вона єдина, хто міг тобі протистояти.<br/>
+    <br/>
+    Ця дорога тобі вже знайома. Створити армію. Створити імперію. Відкинути усе це. Меч цього не змінить. Це символ сили, але запропонована ним сила не більше, ніж та, що знадобилася для досягнення цього моменту.<br/>
+    <br/>
+    Ти виходиш на поверхню. «Бери собі Рейндверру», — кидаєш ти Вождині, яка тим часом матюкає двох Опустошителів, що намагаються витягти її з уламків «Пустельника». Усі зупиняються. «Чого, чорт забирай, ти вигадав?!» — нарешті кричить вона. — «Ти, долбаний дегенерат, ти ж знаєш, що меч НІХТО НЕ ВАРТИЙ, якщо я його не вирвала з твоїх лап у бою!»<br/>
+    <br/>
+    Ти з усмішкою підморгуєш їй і, посвистуючи, повертаєшся до байка. Твої люди чекають. Якби ти не був гідний, вони були б у люті, що ти пожертвував стількома життями і пішов з порожніми руками.<br/>
+    <br/>
+    Але вони в такому ж захваті, як і ти. У захваті від переслідування, від подорожі, від того, що просто живуть.
+
+## Quests.xml|Sandpit
+EN: Sandpit
+UK: Гурмани піщаних кар’єрів
+
+## Quests.xml|Sandpit/FeedFailure
+EN: Though the annelids do like sand, it turns out they’re not picky eaters—they’re happy to include your troops on their menu. And when you fight back, a group of the alien Aegyllan warriors emerge from the broken glass to defend them. This has definitely not been one of your better days.
+UK: Хоча черв’якам подобається пісок, вони виявляються невибагливими у їжі — вони раді додати до меню твої війська. А коли ти намагаєшся дати відсіч, із розбитого скла виривається група чужорідних егілльських воїнів, щоб їх захистити. У тебе явно були кращі дні.
+
+## Quests.xml|Sandpit/FeedSuccess
+EN: Incredibly, merely by feeding the giant annelids with clean sand, you’ve managed to please them—and apparently get a group of the strange Aegyllan creatures on-side. Their language may be incomprehensible to you, but they comprehend your intent and direction without words. Would that all your subordinates were so understanding.
+UK: Неймовірно, але одного годування гігантських черв’яків чистим піском достатньо, щоб їх порадувати — а заодно заручитися підтримкою виниклої з нізвідки групи дивних егілльських істот. Їхня мова для тебе малозрозуміла, але вони відчувають твої наміри і команди без слів. Хотілося б, щоб усі твої підлеглі були такими ж розуміючими.
+
+## Quests.xml|Sandpit/IgnoreFailure
+EN: It turns out that ignoring these annelids isn’t the best idea. Yes, the larger annelids are happy to leave you well alone. But your troops and vehicles are riddled with smaller ones that eat their way through metal, skin and bone alike. Your medics work day and night to extract every last one, horrifying though the work is.
+UK: Схоже, ігнорувати цих черв’яків було не найкращою ідеєю. Так, великі особини більш ніж раді відповісти тим самим. Але твої солдати та транспортні засоби вражені меншими, які прогризають метал, шкіру та кістки. Медики працюють днями й ночами, щоб врятувати всіх до останнього. Це жахлива робота.
+
+## Quests.xml|Sandpit/IgnoreSuccess
+EN: You order your troops from the valley and ensure the passes are blocked, using high explosives to bring down the steep walls. The annelids will live happily in their secluded valley until the end of the Earth itself. Which, you’re pretty sure it will turn out, isn’t that far off.
+UK: Ти наказуєш військам покинути долину і перекриваєш усі входи й виходи, обрушуючи круті стіни за допомогою вибухівки. Черви з радістю населятимуть це огороджене місце аж до останніх днів Землі. Які, як ти підозрюєш, можуть настати дуже скоро.
+
+## Quests.xml|Sandpit/Kill
+EN: The annelids don’t put up much of a fight themselves, tunnelling into the shardsand at the first sign of hostility. But you asked for a fight and you’ve got one—a group of Aegyllans, apparently here to defend their invertebrate kin. If you can defeat them, local survivors will reward you well.
+UK: Самі черви майже не чинять опору, при перших ознаках ворожості вони ховаються глибоко в гострий пісок. Але якщо тобі хотілося війни, ти її отримуєш — з’являється група егілльських копачів, готових прийти на допомогу своїм безхребетним родичам. Якщо їх перемогти, місцеві жителі будуть раді тебе винагородити.
+
+## Quests.xml|Sandpit/KillSuccess
+EN: The Aegyllans are vanquished and there are no further signs of danger. When you report this to the local survivors, they initially express disbelief.<br/>
+    <br/>
+    After verifying the claim, the locals plan to cultivate the remaining annelids. They throw a small feast in your honor to celebrate. When your troops leave the next morning, there’s an extra crate of foodstuffs in your transport.
+UK: Егілльці знищені, слідів небезпеки більше немає. Коли ти повідомляєш про це місцевим, ті висловлюють своє недовіру.<br/>
+    <br/>
+    Підтвердивши ці слова, місцеві кажуть, що планують приручити залишених черв’яків. Вони влаштовують на твою честь невеликий бенкет, щоб відсвяткувати перемогу. Наступного ранку, вирушаючи назад, твої бійці знаходять у своєму транспорті ще кілька ящиків провізії.
+
+## Quests.xml|Sandpit/Intro
+EN: Old stories told tales of “spontaneous generation”—that creatures and plants come into existence from nonliving matter. Here, what was a lush river valley stretches before you, blasted into bare sand and glass in a passing tragedy of the war. Yet, incredibly, something is living there—leviathan annelids, pre-vertebrate creatures, writhing through the shardsand for nutrients, some grown to massive sizes. “What has your world become?”, you wonder.
+UK: Колись існували гіпотези про «спонтанне самозародження» — нібито тварини та рослини виникали з неживої матерії. Перед тобою розкинулася пишна річкова долина, перетворена на пустир із піску й скла внаслідок миттєвої трагедії війни. І все ж, яким би неможливим це не здавалося, там щось живе — колосальні кільчасті черви, що риють гострий пісок у пошуках поживи, іноді виростаючи до величезних розмірів. «Що взагалі сталося з цим світом?» — питаєш ти себе.
+
+## Quests.xml|Sandpit/Intro/Feed
+EN: <style name='Bold'/>Feed the worms:<style name='Paragraph'/> Looking at their clacking maws, a whisper in your head tells you that they prefer silicates for dinner. It’s probably just intuition, but you go with it.
+UK: <style name='Bold'/>Пригодувати черв’яків:<style name='Paragraph'/> Побачивши їхні пащі, що перемелюють пісок, щось підказує тобі, що вони віддають перевагу силікатам. Можливо, це просто інтуїція, але ідея непогана.
+
+## Quests.xml|Sandpit/Intro/Ignore
+EN: <style name='Bold'/>Leave well alone:<style name='Paragraph'/> If these creatures can survive by swimming in broken glass, maybe you should stay well away.
+UK: <style name='Bold'/>Обійти їх стороною:<style name='Paragraph'/> Якщо ці істоти виживають, купаючись у морі розбитого скла, то краще їх, мабуть, не чіпати.
+
+## Quests.xml|Sandpit/Intro/Kill
+EN: <style name='Bold'/>Kill them all:<style name='Paragraph'/> They are abominations and a threat to human life. Destroy them.
+UK: <style name='Bold'/>Знищити їх усіх:<style name='Paragraph'/> Це жахливі відродження, які загрожують людському життю. Їх слід знищити.
+
+## Quests.xml|Sandpit/Intro/Study
+EN: <style name='Bold'/>Take sample:<style name='Paragraph'/> The boffins at the lab might be able to make something of this. Either that or you can put it on a hook and go fishing for whales.
+UK: <style name='Bold'/>Захопити особину:<style name='Paragraph'/> Можливо, розумним хлопцям з лабораторії вона для чогось знадобиться. Або можна насадити її на гачок і піти ловити китів.
+
+## Quests.xml|Sandpit/StudyFailure
+EN: Perhaps your researchers should have been less invasive in their techniques with the annelids. You can inform their families of their failure once you’ve dealt with the mess they’ve left behind. Meanwhile, a group of the strange Aegyllan creatures have arrived, apparently to defend the invertebrates.
+UK: Мабуть, ученим слід було бути не такими настирливими при вивченні черв’яків. Як тільки ти розберешся з залишками кровавого месива, зможеш повідомити про їхню невдачу рідним. Тим часом на захист безхребетних прибуває група дивних егілльських істот.
+
+## Quests.xml|Sandpit/StudySuccess
+EN: Moving slowly and cautiously, the researchers have learned more about the annelids’ life-cycle, such as their microscopic silicon eggs and their rapid growth, consuming only the finest crystalline rocks. They are closely related to the Aegyllan “worms” encountered elsewhere—though whether they are a foodstuff, children or pets, you can’t tell.
+UK: Рухаючись повільно та обережно, дослідники дізнаються багато нового про життєвий цикл черв’яків — наприклад, про їхні мікроскопічні яйця в кремнієвій оболонці та швидкий ріст, що живиться лише кристалічною породою. Вони тісно пов’язані з егілльськими «копачами», які зустрічаються в інших місцях. Але неможливо сказати, чи це їжа, потомство чи домашні улюбленці.
+
+## Quests.xml|StolenGoods
+EN: Stolen Goods
+UK: Розграбування майна
+
+## Quests.xml|StolenGoods/Intro
+EN: Several of your cargo bays are looted overnight. Graffiti on the walls depict a skull with five curved blades fanned out behind it like a lion’s mane—a calling card of Calem Vorshole and the Wicked Kings gang.<br/>
+    <br/>
+    Calem messages you and offers a simple, non-negotiable deal: arrange a one-on-one meeting for him with the Chieftess in return for all the goods he stole. Then he sends a location where he’ll be waiting and cuts off contact.<br/>
+    <br/>
+    Based on Calem’s reputation, you’re sure he’ll honor the deal—but will a talk really be the end of it?
+UK: За одну ніч обікрали кілька твоїх складів. На стінах залишилися графіті — череп із розкритим за ним віялом із п’яти зігнутих клинків, візитівка Келема Воршола та банди «Божевільні королі».<br/>
+    <br/>
+    Келем виходить на зв’язок і пропонує просту угоду без обговорення умов: організувати йому зустріч із Вождинею в обмін на всі вкрадені запаси. Потім він надсилає координати зустрічі і відключається.<br/>
+    <br/>
+    Знаючи репутацію Келема, ти розумієш, що він дотримається слова — але чи закінчиться все лише розмовою?
+
+## Quests.xml|StolenGoods/Intro/ArrangeTheMeet
+EN: <style name='Bold'/>Arrange the meet:<style name='Paragraph'/> You need those resources more than a favor from the Chieftess. Convince her to meet with Calem.
+UK: <style name='Bold'/>Організувати зустріч:<style name='Paragraph'/> Ці ресурси для тебе важливіші, ніж хороші відносини з Вождинею. Переконати її піти на зустріч із Келемом.
+
+## Quests.xml|StolenGoods/Intro/Investigate
+EN: <style name='Bold'/>Investigate why:<style name='Paragraph'/> You want your resources back but don’t want to go in blind. Call in some favors and look into Calem Vorshole’s motives.
+UK: <style name='Bold'/>З’ясувати причину:<style name='Paragraph'/> Тобі хочеться повернути свої ресурси, але не бажаєш діяти всліпу. Попросити когось з’ясувати борг і мотиви Келема Воршола.
+
+## Quests.xml|StolenGoods/Intro/HuntThemDown
+EN: <style name='Bold'/>Hunt them down:<style name='Paragraph'/> Calem was a fool to tell you where he was. The thief isn’t going to get a meeting, but a reckoning.
+UK: <style name='Bold'/>Вислідкувати грабіжників:<style name='Paragraph'/> Келем не подумав, коли розповів тобі, де він знаходиться. Вора чекає не зустріч, а розплата.
+
+## Quests.xml|StolenGoods/Intro/Ignore
+EN: <style name='Bold'/>Ignore:<style name='Paragraph'/> The resources are a pittance compared to the risk. Let the Wicked Kings enjoy the goods, you know it’s not really what they want.
+UK: <style name='Bold'/>Ігнорувати:<style name='Paragraph'/> Ресурси — дрібниця порівняно з ризиком. Нехай «Божевільні королі» радіють здобичі, навіть якщо це не те, чого вони хотіли.
+
+## Quests.xml|StolenGoods/ArrangeTheMeetSuccess
+EN: You convince the Chieftess to meet with Calem. She’s not wild about the idea, but does it as a favor to you.<br/>
+    <br/>
+    When she calls you again, she’s bleeding from a dozen fresh wounds. She spits blood and threatens you, but you convince her that you didn’t know about Calem’s plan to assassinate her. You sense it’ll be a long time before she trusts you again.<br/>
+    <br/>
+    Your missing supplies appear the next morning with everything accounted for. Apparently there’s some honor among thieves after all.
+UK: Ти переконуєш Вождиню зустрітися з Келемом. Вона не в захваті від цієї ідеї, але готова піти на послугу.<br/>
+    <br/>
+    Коли вона знову тебе викликає, вона покрита десятком кровоточивих ран. Вона погрожує тобі, плюючи кров’ю, але ти переконуєш її, що вона навіть не підозрює про намір Келема вбити її. Втім, ти розумієш, що повернути її довіру буде непросто.<br/>
+    <br/>
+    Наступного дня ти знаходиш усі пропалі припаси. Мабуть, серед злодіїв усе ж є якась честь.
+
+## Quests.xml|StolenGoods/ArrangeTheMeetFailure
+EN: You convince the Chieftess to meet with Calem. She’s not wild about it, but she’s willing to do it as a favor to you.<br/>
+    <br/>
+    At least, that’s what she said. She never shows up to the meeting site and Calem calls you, livid as he curses her name and yours. You tell him that you got her to agree to the meeting—it wasn’t your fault that she went back on her word.<br/>
+    <br/>
+    Despite your sound logic, your missing supplies never show up again. Apparently there’s no honor among thieves after all.
+UK: Ти переконуєш Вождиню зустрітися з Келемом. Вона не в захваті від цієї ідеї, але готова піти на послугу.<br/>
+    <br/>
+    Принаймні, так вона сказала. Вона не приходить на зустріч, а Келем викликає тебе, лютуючи і на неї, і на тебе. Ти кажеш, що вона дала згоду, і це не твоя вина, що вона не дотримала слово.<br/>
+    <br/>
+    Попри логічність твоїх пояснень, пропалі запаси не повертаються. Мабуть, серед злодіїв все ж немає честі.
+
+## Quests.xml|StolenGoods/InvestigateSuccess
+EN: You don’t like that Calem holds all the cards. You haven’t survived this long by just doing what other people wanted.<br/>
+    <br/>
+    You call in some favors and find out that Calem is planning to murder the Chieftess. Your first thought is to warn her, but then you realize that you’ll profit no matter who walks out of that meeting.<br/>
+    <br/>
+    Here’s your chance to let two potential rivals kill each other. Is your relationship with the Chieftess worth the resources?
+UK: Тебе не влаштовує, що у Келема всі карти на руках. Якщо робити лише так, як хочуть інші, тебе б вже не було в живих.<br/>
+    <br/>
+    Ти дергаєш за деякі ниточки і дізнаєшся, що Келем збирається вбити Вождиню. Твій перший порив — попередити її… але потім тобі приходить у голову, що ти виграєш незалежно від того, хто залишиться живим після зустрічі.<br/>
+    <br/>
+    У тебе є шанс дозволити двом потенційним суперникам знищити один одного. Чи варті твої стосунки з Вождинею втратених ресурсів?
+
+## Quests.xml|StolenGoods/InvestigateSuccess/ArrangeTheMeet
+EN: <style name='Bold'/>Arrange the meet:<style name='Paragraph'/> The Chieftess has been a thorn in your side and you need those resources. Setup the meeting without warning her.
+UK: <style name='Bold'/>Організувати зустріч:<style name='Paragraph'/> Вождиня і так для тебе заноза в дупі, а ці ресурси потрібні. Влаштувати зустріч, не попереджаючи її.
+
+## Quests.xml|StolenGoods/InvestigateSuccess/RevealAssassination
+EN: <style name='Bold'/>Reveal the assassination attempt:<style name='Paragraph'/> The Chieftess has been a valuable ally. Warn her of Calem’s plot.
+UK: <style name='Bold'/>Розкрити план замаху:<style name='Paragraph'/> Вождиня — цінний союзник. Попередити її про задум Келема.
+
+## Quests.xml|StolenGoods/InvestigateSuccess/HuntThemDown
+EN: <style name='Bold'/>Hunt them down:<style name='Paragraph'/> Calem stole from you and then tried to play you. The thief isn’t going to get a meeting, but a reckoning.
+UK: <style name='Bold'/>Вислідкувати грабіжників:<style name='Paragraph'/> Келем не тільки тебе обікрав, а й намагався обманути. Вора чекає не зустріч, а розплата.
+
+## Quests.xml|StolenGoods/InvestigateFailure
+EN: You don’t like that Calem holds all the cards. You haven’t survived this long by just doing what other people wanted.<br/>
+    <br/>
+    You call in some favors and try to find out what Calem’s planning. Either your contacts don’t know or they’re too scared to tell you, and that means they’re more afraid of him than you.<br/>
+    <br/>
+    Without any new info and the meeting deadline looming, what will you do?
+UK: Тебе не влаштовує, що у Келема всі карти на руках. Якщо робити лише так, як хочуть інші, тебе б вже не було в живих.<br/>
+    <br/>
+    Ти дергаєш за деякі ниточки і намагаєшся дізнатися наміри Келема. Але твій контакт або не знає, або боїться розповідати, і це означає, що він більше боїться його, ніж тебе.<br/>
+    <br/>
+    Нової інформації немає, час зустрічі наближається, що робиш?
+
+## Quests.xml|StolenGoods/RevealAssassination
+EN: You tell the Chieftess about Calem’s plot to kill her. She flushes with excitement and stammers at one of her lieutenants to give you everything in storeroom 16 before running off. The pock-cheeked man looks like he wants to argue but stops himself. He sends your people to a room stuffed floor to ceiling with riches, more resources in total than what Calem stole.<br/>
+    <br/>
+    Before leaving, they spot her rummaging through a crate. “Favorite blades” is sprayed across the box front in neon orange. It appears she plans to attend that meeting after all. Won’t Calem be delighted.
+UK: Ти розповідаєш Вождині, що Келем готує замах. Почервонівши від хвилювання, вона наказує одному зі своїх наближених віддати тобі все, що є в сховищі 16, і відразу тікає. Плямистий чоловік спочатку хоче заперечити, але стримує себе. Він відводить твоїх людей до приміщення, доверху заповненого ресурсами — тут навіть більше, ніж вкрав Келем.<br/>
+    <br/>
+    Перед відходом вони помічають Вождиню, яка риється в ящику з написом оранжевою фарбою: «Улюблені ножі». Схоже, зустріч усе ж відбудеться. Ох і порадіє Келем.
+
+## Quests.xml|StolenGoods/HuntThemDown
+EN: While Calem certainly possesses skill, he has entirely too much audacity—a lesson you plan to teach him.<br/>
+    <br/>
+    Your troops barge into the meeting site, weapons blazing. The smug grin on Calem’s face turns into a scowl and he takes cover behind his gang. Your troops’ weapons reduce them to a smoking heap of tattoos and minced meat but as the room clears, Calem isn’t among the bodies.<br/>
+    <br/>
+    <string name='Quests/StolenGoods/HuntThemDown2'/>
+UK: Хоча Келем має досвід, нахабності йому не позичати — і ти збираєшся його про це навчити.<br/>
+    <br/>
+    Твої бійці з’являються на місці зустрічі з озброєнням наперевіс. Нахабна усмішка Келема змінюється гримасою, і він ховається за спинами своїх головорізів. Зброя твоїх бійців залишає від них лише гору димлячого татуйованого м’яса, але коли дим розсіюється, Келема серед трупів немає.<br/>
+    <br/>
+    <string name='Quests/StolenGoods/HuntThemDown2'/>
+
+## Quests.xml|StolenGoods/HuntThemDown2
+EN: A report comes in that he fled to a Wicked Kings army hiding nearby. Better men have tried to destroy you… and failed. You welcome the challenge.
+UK: Тобі повідомляють, що він добрався до армії «Божевільних королів», що ховається неподалік. Тебе безуспішно намагалися прибрати більш небезпечні люди, ніж він. Нехай спробує.
+
+## Quests.xml|StolenGoods/HuntThemDownSuccess
+EN: The thief falls, not with bravado but a whimper. With Calem’s death, all that’s left is cleanup duty. The Wicked Kings fight hard, but they’re bullies fighting professionals, and soon they flee or surrender.<br/>
+    <br/>
+    Your troops search Calem’s body afterward and find an access card. You trace it back to a nearby stash house. Inside are your resources, unspent. Whatever else Calem planned, it appears his offer to you was genuine. You hope his fate becomes a deterrent to those who think to use you in the future.
+UK: Вор помирає, але не з гордою промовою, а скиглить. Після смерті Келема лишається лише прибрати сміття. «Божевільні королі» мужньо б’ються, але куди їм проти професійно навчених солдатів, тому скоро вони або тікають, або здаються.<br/>
+    <br/>
+    Оглянувши труп Келема, твої бійці знаходять карту доступу. Вона приводить тебе до складу неподалік, де лежать усі вкрадені ресурси. Невідомо, що замислював Келем, але він збирався дотримати слово. Ти сподіваєшся, що його безславна доля стане попередженням для всіх, хто намагатиметься використати тебе у корисливих цілях.
+
+## Quests.xml|StolenGoods/HuntThemDownFailure
+EN: A trader stumbles upon Calem’s mangled corpse by the roadside. His face is frozen in an expression of terror, his lips twisted back as if killed in mid-scream. His killer is nowhere in sight and neither are your resources. Is this mere coincidence or did another party seize this opportunity?<br/>
+    <br/>
+    Either way, you know that Calem and the Wicked Kings will bother you no more.
+UK: Спотворений труп Келема знаходить на узбіччі торговець. На обличчі застиг вираз жаху, широко відкритий рот свідчить про те, що його вбили посеред дикого крику. Вбивці не видно, як і твоїх ресурсів. Це просто збіг обставин, чи хтось ще встиг обіграти його?<br/>
+    <br/>
+    Як би там не було, ти знаєш, що Келем і його «Божевільні королі» більше тебе не потривожать.
+
+## Quests.xml|StolenGoods/Ignore
+EN: The resources aren’t worth becoming a pawn in Calem’s plot. Whatever the Wicked Kings’ intentions, you sense that they’re after more than resources and you’re happy to let them fail.<br/>
+    <br/>
+    You let the meeting time pass without responding. Your supply lines are on high alert for retaliation but nothing happens. It seems Calem and the Wicked Kings were more bark than bite—or maybe their target wasn’t you after all.
+UK: Ти не збираєшся ставати пішаком у грі Келема заради якихось ресурсів. Що б не задумували «Божевільні королі», ти радий зруйнувати їхні далекоглядні плани.<br/>
+    <br/>
+    Ти нічого не робиш і чекаєш часу зустрічі. Твої ланцюги постачання приведені в бойову готовність в очікуванні помсти, але нічого не відбувається. Келем і «Божевільні королі» лише гавкають, але не кусають. Або їхньою ціллю був хтось інший.
+

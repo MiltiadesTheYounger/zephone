@@ -17,8 +17,8 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="AllianceVictoryDescription" value="Навіть якщо ви в союзі з усіма, для досягнення перемоги всі ваші союзники теж повинні бути в союзі один з одним."/>
 	<entry name="AreaOrderUnits" value="Наказ юнітам в області"/>
 	<entry name="AreaOrderUnitsDescription" value="Натисніть [&lt;control name='OrderAreaUnits'/&gt;], щоб наказати всім юнітам у радіусі 3 клітинок від ворожого юніта атакувати його."/>
-	<entry name="Bleed" value="Теча"/>
-	<entry name="BleedDescription" value="&lt;icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/&gt;&lt;nbsp/&gt;Теча кожен хід завдає шкоди наземним юнітам. Не затримуйтеся на ній надовго."/>
+	<entry name="Bleed" value="Кровотеча"/>
+	<entry name="BleedDescription" value="&lt;icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/&gt;&lt;nbsp/&gt;Кровотеча кожен хід завдає шкоди наземним юнітам. Не затримуйтеся на ній надовго."/>
 	<entry name="Camera" value="Камера"/>
 	<entry name="CameraDescription" value="Ласкаво просимо на Землю після кінця світу. Щоб перемістити камеру, &lt;icon height='20' texture='Icons/LeftMouseButton'/&gt;&lt;nbsp/&gt;клацніть на ландшафт і пересуньте мишу."/>
 	<entry name="CloseQuartersFire" value="Стрільба впритул"/>
@@ -63,7 +63,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="MarkTiles" value="Мітка клітинок"/>
 	<entry name="MarkTilesDescription" value="&lt;string name='Tips/Loading/54'/&gt;"/>
 	<entry name="MassOrderUnits" value="Переміщення кількох юнітів"/>
-	<entry name="MassOrderUnitsDescription" value="Натисніть [&lt;control name='OrderAllUnits'/&gt;], щоб наказати всім юнітам, або [&lt;control name='OrderAllIdleUnits'/&gt;], щоб наказати всім бездіючим юнітам перемістітся на вказану клітинку або атакувати вказаного ворога."/>
+	<entry name="MassOrderUnitsDescription" value="Натисніть [&lt;control name='OrderAllUnits'/&gt;], щоб наказати всім юнітам, або [&lt;control name='OrderAllIdleUnits'/&gt;], щоб наказати всім бездіяльним юнітам переміститися на вказану клітинку або атакувати вказаного ворога."/>
 	<entry name="Morale" value="Бойовий дух"/>
 	<entry name="MoraleDescription" value="Втрата союзників поблизу позначилася на &lt;icon height='20' texture='Icons/Attributes/Morale'/&gt;&lt;nbsp/&gt;бойовому дусі юніта. Це погіршить його бойові якості. Щоб юніт відновився, не давайте йому вступати в бій або, навпаки, вбивайте ворожі юніти."/>
 	<entry name="Movement" value="Рух"/>
@@ -83,10 +83,10 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="ProduceUnits" value="Виробництво юнітів"/>
 	<entry name="ProduceUnitsDescription" value="Почніть у казармах виробництво &lt;icon height='20' texture='Icons/Units/Militant'/&gt;&lt;nbsp/&gt;Воїнів. Інші будівлі продовжують своє виробництво в той же час. Якщо ви побудуєте більше казарм, то навчання юнітів проходитиме швидше."/>
 	<entry name="Recon" value="Розвідка"/>
-	<entry name="ReconDescription" value="У багатьох юнітів є здібності, що активуються. «Колісниці» можуть розкривати навколишню місцевість за допомогою здібності &lt;icon height='20' texture='Icons/Actions/Recon'/&gt;&lt;nbsp/&gt;Розвідка."/>
+	<entry name="ReconDescription" value="У багатьох юнітів є здібності, що активуються. &lt;icon height='20' texture='Icons/Units/Outrider'/&gt;&lt;nbsp/&gt;«Колісниці» та &lt;icon height='20' texture='Icons/Units/Sharpshooter'/&gt;&lt;nbsp/&gt;Снайпери можуть розкривати все в радіусі &lt;icon height='20' texture='Icons/Attributes/Radius'/&gt;&lt;nbsp/&gt;3 клітинок за допомогою здібності &lt;icon height='20' texture='Icons/Actions/Recon'/&gt;&lt;nbsp/&gt;Розвідка."/>
 	<entry name="Research" value="Дослідження"/>
 	<entry name="ResearchDescription" value="Непоганим початком буде дослідити героя. Після цього ви зможете виробити його в штабі. Враховуйте, що зміна поточного дослідження скине весь частковий прогрес."/>
-	<entry name="ResearchLaboratory" value="Дослідна лабораторія"/>
+	<entry name="ResearchLaboratory" value="Наукова лабораторія"/>
 	<entry name="ResearchLaboratoryDescription" value="Щоб швидше проводити дослідження, щойно ви зможете собі це дозволити фінансово, побудуйте &lt;icon height='20' texture='Icons/Buildings/Research'/&gt;&lt;nbsp/&gt;Дослідну лабораторію."/>
 	<entry name="TileEffect" value="Ефект клітинки"/>
 	<entry name="TileEffectDescription" value="Юніт стоїть на клітинці, де діє ефект «%1%». Наведення миші на підказку клітинки в лівій нижній частині екрана може більш чітко показати, як вплине ефект."/>
@@ -102,7 +102,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="WinningDescription" value="Щоб перемогти, завдайте поразки всім гравцям або об’єднайте всіх в один союз. У вступній грі вам достатньо здолати &lt;icon height='20' texture='Icons/Factions/HeartlessArtificer'/&gt;&lt;nbsp/&gt;Бездушну Майстриню."/>
 
 	<entry name="Loading" value="Поради з завантажувальних екранів"/>
-	<entry name="Loading/0" value="Вогонь і Теча зупиняють наземні юніти та завдають їм шкоди."/>
+	<entry name="Loading/0" value="Вогонь і Кровотеча зупиняють наземні юніти та завдають їм шкоди."/>
 	<entry name="Loading/1" value="Річки, ліси та руїни уповільнюють рух наземних юнітів."/>
 	<entry name="Loading/2" value="&lt;string name='Tips/CoverDescription'/&gt;"/>
 	<entry name="Loading/3" value="Дороги підвищують швидкість руху наземних юнітів."/>
@@ -154,7 +154,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Loading/49" value="Навіть неагресивні нейтральні юніти атакують з дозору будь-кого, хто входить в область їхньої атаки."/>
 	<entry name="Loading/50" value="Іноді варто вимикати дозор, щоб випадково не спровокувати агресію нейтральних юнітів своїми атаками."/>
 	<entry name="Loading/51" value="Шкода, завдана однією атакою зброєю, обмежується зверху одиницями здоров’я члена цільового загону, а потім знижується залежно від точності зброї."/>
-	<entry name="Loading/52" value="Атаки з розкидом вражають до 2 додаткових членів загону, завдаючи втричі більше шкоди порівняно з одним."/>
+	<entry name="Loading/52" value="Зброя з розкидом здійснює додаткові атаки по цілях із кількома членами загону."/>
 	<entry name="Loading/53" value="Великі юніти отримують -33% до точності, коли у них менше половини одиниць здоров’я."/>
 	<entry name="Loading/54" value="[&lt;control name='MarkTile'/&gt;] позначає клітинки для вас і ваших союзників. Союзні ШІ схильні пересувати свої юніти ближче до ваших міток."/>
 	<entry name="Loading/55" value="&lt;string name='Tips/AllianceVictoryDescription'/&gt;"/>
@@ -168,7 +168,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Loading/63" value="[&lt;control name='OrderAreaUnits'/&gt;] — наказ усім юнітам в області (радіус 3)."/>
 	<entry name="Loading/64" value="Переміщайте юніти на великі відстані, клацаючи правою кнопкою по мінікарті."/>
 	<entry name="Loading/65" value="&lt;string name='Tips/DamageCapDescription'/&gt;"/>
-	<entry name="Loading/66" value="Теча, ліси, руїни, вулкани та міські будівлі блокують огляд юнітів."/>
+	<entry name="Loading/66" value="Кровотеча, ліси, руїни, вулкани та міські будівлі блокують огляд юнітів."/>
 	<entry name="Loading/67" value="&lt;string name='Tips/EnemyInCityDescription'/&gt;"/>
-	<entry name="Loading/Count" value="68"/>
+	<entry name="Loading/Count" value="69"/>
 </language>

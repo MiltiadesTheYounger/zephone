@@ -1,0 +1,426 @@
+# B47: 48 entries from Quests.xml
+
+## Quests.xml|ThePriceOfHonor/RetrieveCornucopiaSuccess
+EN: Your troops return with the Cornucopia—though before you activate it, your engineers give it a thorough scan. As suspected, NeoDuke Gotland left one message in a chip slipped into the device's programming.<br/>
+    <br/>
+    You play the message. It's the NeoDuke. “If you're listening to this %1%, make no mistake, you've earned your prize. You probably had good reason to not retrieve it yourself, but I'm obligated to needle you one last time for sending others to do your bidding.”<br/>
+    <br/>
+    “You and I are the societal elites. I thought being born with that power meant I was entitled to decide the fate of others. And if I remained honorable, the world would become a better place.”<br/>
+    <br/>
+    They sigh. “You and I both know how impossible that dream is.”<br/>
+    <br/>
+    “Take this bauble, and my thanks for tolerating my inane requests. Remember that your people have so little time to ponder these questions. And please use it to make their lives better.”
+UK: Твої війська повертаються з корнукопією — але перед активацією ти наказуєш інженерам ретельно її просканувати. Як ти й підозрював, НеоГерцог Готландський залишив у програмному чипі пристрою послання.<br/>
+    <br/>
+    Ти вмикаєш повідомлення. Це НеоГерцог. «Якщо ти це чуєш, %1%, не сумнівайся — ти заслужив свою нагороду. Можливо, в тебе були вагомі причини не забирати її особисто, але я зобов’язаний ще раз уколоти тебе за те, що змушував інших працювати замість себе».<br/>
+    <br/>
+    «Ми з тобою — еліта суспільства. Я вважав, що народження з цією владою означає обов’язок вершити долі інших. І якщо я буду гідним лідером — світ стане кращим».<br/>
+    <br/>
+    Він зітхає. «Ми обидва знаємо, наскільки ця мрія нездійсненна».<br/>
+    <br/>
+    «Прийми цю дрібничку разом із моєю вдячністю за те, що ти витримав мої безглузді вимоги. Пам’ятай: твоїм людям ніколи не було часу ставити собі такі запитання. І, прошу, скористайся нею, щоб зробити їхнє життя кращим».
+
+## Quests.xml|ThePulledThread
+EN: The Pulled Thread
+UK: Вирвана нитка
+
+## Quests.xml|ThePulledThread/Intro
+EN: It begins with the sensation of a hook being thrust up one's nose and yanked forward. There's a jolt of pain and then your worst nightmare comes to life—the connection between your sisters is severed.<br/>
+    <br/>
+    It's only for a moment. But in that second, each part of your collective mind is thrust back into sudden individuality and they scream in agony. Agony at having lost the shared senses that guided their thought—and agony at the pains of the flesh they had been dulled to before.<br/>
+    <br/>
+    Your followers rush into your chamber to lend aid, but all freeze in their tracks. On the wall, a message is scrawled in blood: “Open your mind.”<br/>
+    <br/>
+    A probe of your base reveals nothing. As always, the Voice itself refuses to answer your demands for answers. Solving this mystery will require earthly assistance—a researcher or scientist might do…
+UK: Все почалося з відчуття, ніби тобі в ніс встромили гачок і смикнули за нього. Різкий біль... а потім оживає твій найстрашніший кошмар — розривається зв’язок між твоїми сестрами.<br/>
+    <br/>
+    Лише на мить... Але в цю секунду кожна частина вашого колективного розуму раптово набуває індивідуальності й заходиться в агонії. Агонії втрати єдності відчуттів, що спрямовувала їхні думки — і агонії страждаючої плоті, яку раніше приглушували.<br/>
+    <br/>
+    Послідовники вбігають до твоїх покоїв, щоб надати допомогу, але завмирають. На стіні кров’ю виведено напис: «Відкрий свій розум».<br/>
+    <br/>
+    Огляд бази не дає результатів. Голос, як завжди, відмовляється відповідати на твої вимоги. Розгадка цієї таємниці потребує мирського втручання — якогось дослідника чи вченого...
+
+## Quests.xml|ThePulledThread/Intro/CaptureScientist
+EN: <style name='Bold'/>Capture an enemy scientist:<style name='Paragraph'/> Too many researchers have fled since your ascendance. You will need to bring one back.
+UK: <style name='Bold'/>Захопити ворожого вченого:<style name='Paragraph'/> Забагато дослідників утекли після твого сходження. Доведеться повернути одного з них.
+
+## Quests.xml|ThePulledThread/Intro/Ignore
+EN: <style name='Bold'/>Accept the unknown:<style name='Paragraph'/> War creeps at your doorstep. This mystery will have to wait for another day.
+UK: <style name='Bold'/>Смиритися з невідомим:<style name='Paragraph'/> Війна вже на порозі. Таємниця зачекає іншого дня.
+
+## Quests.xml|ThePulledThread/CaptureScientistSuccess
+EN: Finding a willing scientist was not an easy task. The Watchmakers closed their ranks and refused to render aid. Your followers scoured waves of refugee camps in search of any bright minds desperate enough to bend the knee.<br/>
+    <br/>
+    <string name='Quests/ThePulledThread/CaptureScientistSuccess2'/><br/>
+    <br/>
+    Orin needs no threat of execution to enlist in your cause. He has a theory about how your mysterious assailant gained access to your mind. But to trace the attack, he will require physical specimens to research.<br/>
+    <br/>
+    “There is a gland in human minds,” he whispers softly, “that bridges the mind and what humans think of as 'the soul.'” “I will need many such glands to solve your particular problem.”
+UK: Знайти згодного вченого виявилось непросто. Годинникарі відмежувалися й відмовились допомагати. Твої послідовники прочесали чимало таборів біженців у пошуках світлих умів, достатньо відчайдушних, щоб схилити коліно.<br/>
+    <br/>
+    <string name='Quests/ThePulledThread/CaptureScientistSuccess2'/><br/>
+    <br/>
+    Він готовий співпрацювати — навіть не доводиться погрожувати. У нього є гіпотеза, як твій таємничий ворог отримав доступ до твого розуму. Але щоб знайти його — потрібні зразки для дослідження.<br/>
+    <br/>
+    «У мозку людини є одна залоза», — шепоче він, — «що слугує мостом між розумом і тим, що люди називають душею. Мені знадобиться багато таких залоз».
+
+## Quests.xml|ThePulledThread/CaptureScientistSuccess2
+EN: Finally, the Voice's whispers guided you to a worthy servant: a slick-haired recluse who only gives you the name “Orin.” It seems Orin has spent years in the wastes conducting experiments that you might once have branded sacrilegious.
+UK: Нарешті шепіт Голосу приводить тебе до гідного слуги: прилизаного вигнанця на ім’я Орин. Схоже, він роками проводив у пустці експерименти, які ти колись вважала блюзнірськими.
+
+## Quests.xml|ThePulledThread/CaptureScientistSuccess/EnemyGlands
+EN: <style name='Bold'/>Bring him the glands of your enemies:<style name='Paragraph'/> Your soldiers already commit the necessary slaughter on a daily basis. They can recover these glands from the bodies.
+UK: <style name='Bold'/>Добути йому залози ворогів:<style name='Paragraph'/> Твої солдати щодня влаштовують криваві бані. Вони можуть дістати залози з тіл ворогів.
+
+## Quests.xml|ThePulledThread/CaptureScientistSuccess/PeopleGlands
+EN: <style name='Bold'/>Bring him the glands of your people:<style name='Paragraph'/> <string name='Quests/ThePulledThread/CaptureScientistSuccess/PeopleGlandsFlavor'/>
+UK: <style name='Bold'/>Добути йому залози твоїх людей:<style name='Paragraph'/> <string name='Quests/ThePulledThread/CaptureScientistSuccess/PeopleGlandsFlavor'/>
+
+## Quests.xml|ThePulledThread/CaptureScientistSuccess/PeopleGlandsFlavor
+EN: Sacrifice is a fact of life under the eye of the Tribunal. Your people will gladly die to save their leader. You need only gather enough to do so…
+UK: Самопожертва — природна частина життя під оком Трибуналу. Люди радо помруть за тебе. Треба лише зібрати достатньо...
+
+## Quests.xml|ThePulledThread/EnemyGlandsSuccess
+EN: It takes far more killings than you anticipated to yank the number of needed glands from the skulls of your enemies. Orin seems to pay little mind to the cost you paid to perform his little experiment, so you decide to put him in his place—by having each of you eat a gland right in front of him.<br/>
+    <br/>
+    Orin works faster after this—but not fast enough to your liking. One day you return to his lab ready to demand results—and find him crumpled on the ground, blood oozing from his shoulder, his arm cast across the room. Someone has severed his arm and made off with his work.<br/>
+    <br/>
+    You summon a host of followers to tend to his wounds. He'll recover—but it will be some time before he regains consciousness.<br/>
+    <br/>
+    A scan of his documents tells you that Orin was working on some form of neurostimulating headset. He nicknamed it “The Tribunal's Tether.” If the thief had wanted the Tether destroyed, it would be here in pieces. You unleash a furious howl that rings through your fortress. The hunt now begins.
+UK: Щоб дістати достатньо залоз із черепів ворогів, потрібно набагато більше вбивств, ніж ти очікувала. Орин не переймається ціною, яку ти платиш за його наукову забавку, тож ти вирішуєш провчити його — всі троє з вас з’їдають по залозі просто в нього на очах.<br/>
+    <br/>
+    Після цього Орин працює вдвічі швидше — але все одно не так швидко, як тобі хочеться. Одного разу ти повертаєшся до його лабораторії, щоб вимагати результатів, але знаходиш його непритомним на підлозі. З плеча тече кров, а рука лежить на іншому боці кімнати. Хтось відрубав йому руку й зник із його напрацюваннями.<br/>
+    <br/>
+    Твої служителі обробляють рану. Він виживе — але до тями прийде не скоро.<br/>
+    <br/>
+    Його записи свідчать, що Орин працював над нейростимулюючим наголовним пристроєм під назвою Прив’язь Трибуналу. Якби злодій хотів її знищити — тут лежали б уламки. Ти видаєш люте виття, що розноситься по всій цитаделі. Час почати полювання.
+
+## Quests.xml|ThePulledThread/EnemyGlandsSuccess/RecoverTether
+EN: <style name='Bold'/>Recover the Tribunal's Tether:<style name='Paragraph'/> <string name='Quests/ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor'/>
+UK: <style name='Bold'/>Повернути Прив’язь Трибуналу:<style name='Paragraph'/> <string name='Quests/ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor'/>
+
+## Quests.xml|ThePulledThread/EnemyGlandsSuccess/RecoverTetherFlavor
+EN: The thief wasted no time selling Orin's experiment to the Concordat. They will return it to you—if you can pay, of course.
+UK: Злодій не гаяв часу й продав експеримент Орина Конкордату. Ті повернуть його — за плату, звісно.
+
+## Quests.xml|ThePulledThread/PeopleGlandsSuccess
+EN: Harvesting the needed glands takes time, and bodies. So many bodies. You make it a personal point of visiting Orin's lab each day, locking eyes with each follower who is to be sacrificed. Their faith in you is completely unshakeable.<br/>
+    <br/>
+    This blind obedience to you unnerves Orin. You can smell the fear bound in his sweat as he furiously works to complete his research. When you visit him, he babbles about producing a helm modified by neurostimulants that will open your mind.<br/>
+    <br/>
+    But one cursed morning, you arrive in his workshop to find that he's fled—and taken the helm with him.<br/>
+    <br/>
+    A foul traitor. You will recover what has been stolen from you.
+UK: Збір залоз потребує багато часу. І багато тіл. Дуже багато тіл. Щодня ти особисто навідуєш лабораторію Орина, зустрічаючись поглядом із кожним послідовником, який стає жертвою. Їхня віра в тебе — непохитна.<br/>
+    <br/>
+    Орина ця сліпа відданість лякає. Ти майже відчуваєш запах його липкого страху, коли він шалено працює над завершенням розробки. Під час твоїх візитів він збивчо розповідає про шолом із нейростимуляторами, який відкриє твій розум.<br/>
+    <br/>
+    Але одного проклятого ранку ти не знаходиш його в лабораторії — він утік і забрав шолом із собою.<br/>
+    <br/>
+    Підлий зрадник. Ти повернеш собі викрадену власність.
+
+## Quests.xml|ThePulledThread/PeopleGlandsSuccess/KillOrin
+EN: <style name='Bold'/>Kill Orin:<style name='Paragraph'/> Orin cannot run far. When you have recovered his work, you dream of how you might dispose of him.
+UK: <style name='Bold'/>Убити Орина:<style name='Paragraph'/> Орин далеко не втече. Ти вже уявляєш, як розправишся з ним, коли повернеш його розробку.
+
+## Quests.xml|ThePulledThread/RecoverTetherSuccess
+EN: The lost Tether is back in your grasp. Orin does not seem to have fully recovered from his wounds, but he is able to produce duplicates of the headset—one for each of you. Each of you raises the Tether to their heads in a unified gesture. None react as the needles sink into their skin.<br/>
+    <br/>
+    For a moment, nothing happens—but then you hear a ringing, and then are overwhelmed by a vision.<br/>
+    <br/>
+    Your mind once again splits in three. Each of you is flung down a different psychic path, filled with impossible visions. You see cerulean sunsets, stars exploding into black holes, worlds that look like threads of ribbon strung together, and then slowly, your consciousness reassembles, and you look up.<br/>
+    <br/>
+    At first you think it is a mirror image of you—another Tribunal. But you are one-in-three. This—the thousands of eyes staring back at you—belong to a consciousness made of millions.<br/>
+    <br/>
+    It is not the Voice. It is something else—another entity living on the Voice's galactic tendrils. All of its eyes snap to you, and you are overwhelmed by the unending sense of being PERCEIVED by this horrible creature—<br/>
+    <br/>
+    You snap awake. You are back on Earth. Orin feebly raises his head to stare at you. “You saw it,” he croaks. “Didn't you?”<br/>
+    <br/>
+    <string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>
+UK: Втрачена Прив’язь знову у тебе. Орин ще не повністю оговтався від ран, але здатен створити копії пристрою — по одній для кожної з вас. Єдиним жестом ви надягаєте Прив’язі на голови. Ви навіть не здригаєтесь, коли голки впиваються в шкіру.<br/>
+    <br/>
+    Спершу — нічого. Але потім ви чуєте дзвін, і вас охоплює видіння.<br/>
+    <br/>
+    Ваш розум знову розділяється на три. Три окремі психічні шляхи, наповнені неймовірними образами. Ви бачите темно-сині заходи, зорі, що перетворюються на чорні діри, світи, схожі на переплетені стрічки — а потім ваші свідомості знову зливаються, і ти підіймаєш очі.<br/>
+    <br/>
+    Спершу здається, що перед тобою дзеркальне відображення — ще один Трибунал. Але ти триєдина. А це — тисячі очей, що дивляться на тебе — свідомість, складена з мільйонів.<br/>
+    <br/>
+    Це не Голос. Це щось інше — інша сутність, що живе на галактичних відростках Голоса. Всі її очі прикуті до тебе, і тебе охоплює нескінченне відчуття СПОСТЕРЕЖЕННЯ цим жахливим створінням...<br/>
+    <br/>
+    Ти приходиш до тями. Ти знову на Землі. Ослаблений Орин ледве підіймає на тебе погляд. «Ти бачила його», — хрипить він. — «Так?»<br/>
+    <br/>
+    <string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>
+
+## Quests.xml|ThePulledThread/RecoverTetherSuccess2
+EN: You look down. The Tether—it has changed. You sense that it and others like it can now connect you to the other Tribunal.<br/>
+    <br/>
+    Possibly the only Tribunal. And maybe you are now a part of its gathered minds…
+UK: Ти дивишся вниз. Прив’язь… змінилася. Ти відчуваєш, що вона й її копії тепер здатні з’єднати тебе з тим, іншим Трибуналом.<br/>
+    <br/>
+    Можливо, єдиним Трибуналом. І, можливо, тепер ти — частина його об’єднаних розумів...
+
+## Quests.xml|ThePulledThread/KillOrinSuccess
+EN: You give Orin no time to explain himself. As soon as his Tether is recovered, you take up three knives across your many hands. He tries to back away, but all of your blades slash across his body in one unified swoop. Blood dribbles from his lips and he collapses to the ground.<br/>
+    <br/>
+    Without him, you only have the one Tether at your disposal.. The youngest of your trio is chosen to wear the device, and she raises it above her head, allows the needles to pierce her skull—and screams as your consciousness is pulled through time and space.<br/>
+    <br/>
+    Soon you find yourself floating over an emerald-green ocean, whose waters all pour into a titanic chasm. Stone limbs extend out of the water, and you see strange buglike beings crawling up and down them. These creatures have also heard the Voice's whispers, and have accepted its power. And they used that power to try to kill you.<br/>
+    <br/>
+    Just as they invaded your mind, you reach out and plunge into theirs. You snap the threads of their connection as though you were severing a man's tendons with a rusty knife. Soon a mass of screaming corpses are falling down the chasm and your vengeance is finally complete.<br/>
+    <br/>
+    The vision ends. Your followers are desperate to know what you saw. And when they learn that you reached across the stars to kill a whole civilization… they prostrate themselves before you. When this journey began, you were their savior. Now?<br/>
+    <br/>
+    Now you are their god.
+UK: Ти не даєш Орину часу на пояснення. Повернувши Прив’язь, ти береш у свої численні руки три ножі. Він намагається відступити, але всі леза одним рухом торкаються його тіла. З губ капає кров, він падає на землю.<br/>
+    <br/>
+    Без нього у вас лишається лише один екземпляр Прив’язі. Ви довіряєте його наймолодшій із вас трьох, і вона надягає його на голову, дозволяє голкам пронизати череп — і кричить, коли її свідомість вирушає крізь час і простір.<br/>
+    <br/>
+    Невдовзі ти бачиш себе парячою над смарагдовим океаном, чиї води падають у титанічну прірву. Кам’яні кінцівки тягнуться з води, ти бачиш дивних комахоподібних істот, що повзають по них. Ці істоти теж чули шепіт Голоса й прийняли його силу. І за її допомогою вони намагались убити тебе.<br/>
+    <br/>
+    Як вони атакували твій розум — так ти вторгаєшся в їхній. Ти обриваєш нитки, що їх зв’язують, наче перерізаєш людині сухожилля іржавим ножем. Незабаром маса волаючих трупів падає в прірву — твоє возмездя звершено.<br/>
+    <br/>
+    Видіння закінчується. Твої послідовники прагнуть дізнатися, що ти бачила. І коли вони чують, що ти подолала міжзоряне відстань, щоб знищити цілу цивілізацію… вони падають перед тобою ниць. Коли ця подорож лише починалась, ти була їхнім спасителем. А тепер?<br/>
+    <br/>
+    Тепер ти — їхній бог.
+
+## Quests.xml|ThePulledThread/CaptureScientistFailure
+EN: The mysteries deepend. Your terrified advisors are laden with excuses about how the one reliable scientist who would aid you in this matter met his end, but the threads of fate tell another story.<br/>
+    <br/>
+    Someone, or something, was not ready to speak with you. It orchestrated the man's death. But it seems inevitable that your path and its will one day cross again.
+UK: Таємниці стають дедалі глибшими. Твої налякані радники висувають безліч версій того, як єдиний учений, здатний допомогти, зустрів свою смерть — але нитки долі розповідають іншу історію.<br/>
+    <br/>
+    Хтось або щось не було готове до розмови з тобою. І воно підлаштувало смерть цієї людини. Але, схоже, колись ваші шляхи неминуче перетнуться знову.
+
+## Quests.xml|TheSkyFallen
+EN: The Sky, Fallen
+UK: Ті, що впали з небес
+
+## Quests.xml|TheSkyFallen/Intro
+EN: Unusually, when your people assault the Acrin compound, there is no return of fire, only an incessant sobbing noise, like heavy rain on plastic sheeting. As the squad filters into the encampment proper, the source becomes apparent—a small group of Acrin in ragged survival gear, outside the makeshift shelters, prone and twitching, howling. To one side, a clutter of scavenged components acts as a speaker, cycling through human languages, barking the words for surrender and help.<br/>
+    <br/>
+    Your troops are perplexed, and radio you directly for orders.
+UK: Як не дивно, але коли твої люди штурмують акринський табір — ніхто не чинить опору. Лунає лише безперервне схлипування, ніби важкі краплі дощу б’ють по брезенту. Коли загін проникає всередину, джерело звуку стає очевидним: купка акринів у зношеному одязі, що повзають, звиваються, виють біля імпровізованого укриття. Поруч — саморобний гучномовець із мотлоху, який вигукує на всіх людських мовах слова капітуляції та прохання про допомогу.<br/>
+    <br/>
+    Солдати зупиняються в нерішучості й запитують у тебе подальші вказівки.
+
+## Quests.xml|TheSkyFallen/Intro/HelpThem
+EN: <style name='Bold'/>Help them:<style name='Paragraph'/> You leave enough resources for the Acrin to make repairs to their life support systems.
+UK: <style name='Bold'/>Допомогти їм:<style name='Paragraph'/> Ти залишаєш акринам достатньо ресурсів для ремонту систем життєзабезпечення.
+
+## Quests.xml|TheSkyFallen/Intro/BringThemBack
+EN: <style name='Bold'/>Bring them back:<style name='Paragraph'/> The Acrin are great soldiers. Corral them and send them to your nearest outpost to be armed and trained.
+UK: <style name='Bold'/>Привести їх на базу:<style name='Paragraph'/> Акрини — вправні бійці. Захопити їх і відправити на заставу для озброєння та муштри.
+
+## Quests.xml|TheSkyFallen/Intro/OpenFire
+EN: <style name='Bold'/>Open fire:<style name='Paragraph'/> Your troops execute the defenseless Acrin.
+UK: <style name='Bold'/>Відкрити вогонь:<style name='Paragraph'/> Твої солдати страчують беззахисних акринів.
+
+## Quests.xml|TheSkyFallen/HelpThem
+EN: These once proud destroyers, reduced to pitiful wretches. You hope their salvation also means yours, so you give the Acrin enough resources to sustain themselves and repair their critical systems.<br/>
+    <br/>
+    Your soldiers assist the aliens and the work is completed swiftly. Afterward the Acrin line up and walk by your forces individually, giving each a swooping gesture that begins and ends at their eyes, before returning to their compound.<br/>
+    <br/>
+    A day later the Anchorite contacts you. Tales of your kindness spread throughout the Acrin enclaves, and those you saved wish to live near you permanently.
+UK: Колись горді руйнівники — тепер жалюгідні нікчеми. Ти сподіваєшся, що їхнє спасіння стане спільним, тому надаєш акринам достатньо ресурсів для життя й ремонту критичних систем.<br/>
+    <br/>
+    Солдати допомагають, робота кипить. Наприкінці акрини шикуються в ряд і проходять повз твоїх людей, дякуючи кожному широким жестом — від очей і назад — а потім повертаються до табору.<br/>
+    <br/>
+    Наступного дня з тобою зв’язується Анахорет. В акринських анклавах говорять про твою доброту, а врятовані прибульці бажають жити поруч назавжди.
+
+## Quests.xml|TheSkyFallen/BringThemBackSuccess
+EN: These once righteous destroyers, now reduced to pitiful wretches. Their talent for war could be your salvation though.<br/>
+    <br/>
+    Whether through understanding or despair, the Acrin offer no resistance when your soldiers surround them and march them back to your outpost. Only a dozen recover enough to begin training. Equipped with salvaged alien tech, they display deadly marksmanship and unparalleled mobility. Even your most cynical soldiers soon agree that the Acrin would make an excellent addition to your army, an offer the Acrin readily accept—and seal by killing the unconverted.<br/>
+    <br/>
+    Despite their shifting allegiance, the aliens remain fanatics.
+UK: Колись фанатичні руйнівники — тепер жалюгідні нікчеми. Та їхні бойові навички можуть стати твоїм порятунком.<br/>
+    <br/>
+    Чи то розуміючи, чи то в розпачі, акрини не чинять опору, коли солдати оточують їх і ведуть на заставу. Лише дюжина з них достатньо міцна, щоб пройти навчання. Озброєні знайденими інопланетними технологіями, вони демонструють смертельну точність і неймовірну мобільність. Навіть найпідозріліші люди визнають: акрини — чудове поповнення. Акрини охоче приймають пропозицію — і закріплюють угоду, добиваючи необернених.<br/>
+    <br/>
+    Попри зміну ролі, прибульці лишаються фанатиками.
+
+## Quests.xml|TheSkyFallen/BringThemBackFailure
+EN: These once righteous destroyers, now reduced to pitiful wretches. Their talent for war could be your salvation though.<br/>
+    <br/>
+    Whether through understanding or despair, the Acrin offer no resistance when your soldiers surround them and march them back to your outpost. Only a dozen recover enough to begin training. Equipped with salvaged alien tech, they display deadly marksmanship and unparalleled mobility. Even your most cynical soldiers agree that the Acrin would make an excellent addition to your army, an offer the Acrin readily accept—right before they turn on you.<br/>
+    <br/>
+    You should have known better than to attempt to convert fanatics.
+UK: Колись фанатичні руйнівники — тепер жалюгідні нікчеми. Та їхні бойові навички можуть стати твоїм порятунком.<br/>
+    <br/>
+    Чи то розуміючи, чи то в розпачі, акрини не чинять опору, коли солдати оточують їх і ведуть на заставу. Лише дюжина з них достатньо міцна, щоб пройти навчання. Озброєні знайденими інопланетними технологіями, вони демонструють смертельну точність і неймовірну мобільність. Навіть найпідозріліші люди визнають: акрини — чудове поповнення. Акрини охоче приймають пропозицію — і одразу ж повертають зброю проти тебе.<br/>
+    <br/>
+    Треба було добре подумати, перш ніж вербувати фанатиків.
+
+## Quests.xml|TheSkyFallen/OpenFire
+EN: The Acrin deserve no quarter. They descended upon your world as destroyers. Their fanaticism is what doomed both your species.<br/>
+    <br/>
+    Nobody speaks. Nobody has to. Your commander puts a bullet into the makeshift speaker. Its mechanical whine slurs to a stop. Your soldiers start shooting, their inner demons appeased, however briefly, by powder-light and rifle-fire. Afterwards they loot the compound before razing it.<br/>
+    <br/>
+    News of your deed spreads throughout the factions. The Anchorite is furious, but when did you care what hypocrites think? The others all seem pleased or intimidated—something that you can leverage into future favors.
+UK: Жодної пощади акринам. Вони вторглися у твій світ. Їхній фанатизм прирік на загибель обидва ваші види.<br/>
+    <br/>
+    Ніхто не каже ні слова. І не треба. Твій командир стріляє у саморобний динамік. Його механічне виття обривається. Солдати відкривають вогонь, втамовуючи внутрішніх демонів — хоч і ненадовго — за допомогою гвинтівок і пороху. Вони забирають усе цінне з табору — перш ніж зрівняти його із землею.<br/>
+    <br/>
+    Про твій вчинок говорять усюди. Анахорет у люті, але коли тебе хвилювала думка лицемірів? Інші — або раді, або налякані. Можливо, згодом це зіграє тобі на руку.
+
+## Quests.xml|TheSpaceEngine
+EN: The Space Engine
+UK: Двигун космосу
+
+## Quests.xml|TheSpaceEngine/ChangeThePastSuccess
+EN: Power flickers across your city as Zandra activates her time portal. The transuranium arch sparks as the space within bends and forms a gateway to the past. Eighty of your best march through—right as the Acrin first attack.<br/>
+    <br/>
+    Dedicated to the long haul, your soldiers wage guerrilla war for decades. While few in number, their advanced gear and tactics make them an unstoppable force, appearing in key battles to devastate both sides before vanishing again.<br/>
+    <br/>
+    You build a monument to honor the few that return. They retire happily, knowing that their past victories have permanently crippled your rivals.
+UK: У всьому місті блимає світло, коли Зандра запускає свій портал часу. Трансуранова арка загоряється, коли простір всередині спотворюється і відкриває прохід у минуле. Вісімдесят твоїх найкращих людей проходять крізь нього — прямо до моменту першої атаки акринів.<br/>
+    <br/>
+    Твої солдати, готові до тривалої війни, десятиліттями ведуть партизанську війну. Незважаючи на нечисленність, передове спорядження та тактика роблять їх непереможною силою, яка з’являється в ключових битвах, щоб знищити обидві сторони і зникнути знову.<br/>
+    <br/>
+    Ти зводиш пам’ятник на честь тих небагатьох, хто повернувся. Вони щасливо йдуть у відставку, знаючи, що їхні минулі перемоги назавжди підкосили твоїх суперників.
+
+## Quests.xml|TheSpaceEngine/ChangeThePastFailure
+EN: Power flickers across your city as Zandra throws a switch on her time portal. The transuranium arch sparks as the space within distorts and stabilizes into a gateway to the past. Forty of your best march through—just in time for ZEPHON’s key counteroffensive.<br/>
+    <br/>
+    But without a clear guide to the past, it’s all your forces can do to survive the ensuing destruction as Acrin ships explode and plummet from orbit, blotting the skies and smashing the earth with their shattered debris. In the aftermath, they find no sign of ZEPHON.<br/>
+    <br/>
+    While your soldiers return, nothing has changed.
+UK: У всьому місті блимає світло, коли Зандра вмикає свій портал часу. Трансуранова арка загоряється, коли простір всередині розпливається і утворює прохід у минуле. Сорок твоїх найкращих людей проходять крізь нього — якраз до початку головного контрудару ЗЕФОНа.<br/>
+    <br/>
+    Але, не маючи чіткого розуміння минулого, твої солдати можуть лише намагатися вижити в подальшому пеклі, коли знищені кораблі акринів падають з орбіти, усипаючи своїми палаючими уламками небо і землю. Після цього вони не знаходять ні сліду ЗЕФОНа.<br/>
+    <br/>
+    Після повернення твоїх солдатів нічого не змінюється.
+
+## Quests.xml|TheSpaceEngine/FindAcrinInsightsSuccess
+EN: Zandra’s time portal leads your expeditionary team aboard an Acrin flagship. The air is strangely humid. Webs of rust-red moss cover the dark corridors. Outside, the Acrin fleet approaches the Earth.<br/>
+    <br/>
+    A familiar Acrin argues against their fellow council nearby. They’ve traveled millennia to destroy a threat to all existence, but nothing resembles that on this planet. Could the Voice possibly be wrong? A vote is called, and only the Anchorite is against Earth’s annihilation.<br/>
+    <br/>
+    Then your team is yanked back to the present. With your new insight into the Acrin’s purpose and history, your relationship with the Anchorite greatly improves.
+UK: Портал часу Зандри переміщує твій експедиційний загін на акринський флагман. Повітря тут нестерпно вологе. Темні коридори оповиті павутиною іржаво-червоного моху. За бортом видно, як флот акринів наближається до Землі.<br/>
+    <br/>
+    Знайомий тобі акрин сперечається з іншими радниками. Вони пролетіли тисячі років, щоб покінчити з загрозою для всього сущого, але нічого на цій планеті на неї не схоже. Чи міг Голос помилятися? Призначено голосування, і лише Анахорет протестує проти знищення Землі.<br/>
+    <br/>
+    Потім твій загін викидає назад у сьогодення. Розуміння акринського призначення та історії дозволяє тобі значно покращити стосунки з Анахоретом.
+
+## Quests.xml|TheSpaceEngine/FindInsightsFailure
+EN: Power flickers across your city as Zandra activates her time portal. The transuranium arch lights up as the space within bends, the gateway growing increasingly stable with each passing moment.<br/>
+    <br/>
+    Then the metal frame groans loudly. Klaxons begin blaring as sparks hiss and fly. The arch buckles and collapses, sending the portal’s energy exploding outward and overcharging the generators. Emergency coolant systems activate, but it’s not enough.<br/>
+    <br/>
+    Evacuation finishes moments before Zandra’s lab explodes. All that remains is a smoldering crater in the hills. With no chance to try again, you can’t help but wonder what could have been…
+UK: У всьому місті блимає світло, коли Зандра запускає свій портал часу. Трансуранова арка загоряється, коли простір всередині спотворюється, з кожною секундою стабільність проходу зростає.<br/>
+    <br/>
+    Потім металева рама видає оглушливий стогін. Під рев сирен починають шипіти і розлітатися іскри. Потім арка тремтить і обвалюється, струшена енергією порталу, яка перевантажує генератори. Активуються резервні системи охолодження, але цього недостатньо.<br/>
+    <br/>
+    Евакуацію вдається завершити за лічені секунди до вибуху лабораторії. Залишається лише димлячий кратер серед пагорбів. Не маючи можливості спробувати знову, ти лише роздумуєш про те, що могло б бути...
+
+## Quests.xml|TheSpaceEngine/FindZephonInsightsSuccess
+EN: Zandra’s time portal brings your team to an unmarked military bunker. Layers of jammer-mesh cover its thick concrete walls.<br/>
+    <br/>
+    Crimson code runs on a mainframe’s console. It isn’t ZEPHON—it isn’t even one program. Instead, countless micro-programs compete to execute on the limited processing cores. Each new processing cycle brings digital annihilation and incremental evolution. Progress is glacial yet steady—but it’s a far cry from ZEPHON’s sophistication.<br/>
+    <br/>
+    As your techs copy the code, they notice a breach in the Faraday cage. They didn’t do this—so who did? With no further clues, they return to the present.
+UK: Портал часу Зандри переміщує твій загін всередину невідомого військового бункера. Його товсті бетонні стіни покриті шарами ізолюючого матеріалу.<br/>
+    <br/>
+    На консолі мейнфрейму відображається яскраво-червоний код. Це не ЗЕФОН — це навіть не одна програма. Це незліченна множина мікроскопічних підпрограм, що борються за обчислювальну потужність кількох процесорних ядер. Кожен наступний цикл призводить до цифрового вимирання і поступової еволюції. Прогрес іде повільно, але вірно — хоч йому і дуже далеко до досконалості ЗЕФОНа.<br/>
+    <br/>
+    Копіюючи код, твої техніки помічають у клітці Фарадея пролом. Це не їхніх рук справа — але чиїх тоді? Інших відповідей вони не отримують, і повертаються в сьогодення.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesFailure
+EN: The engineer’s deadline arrives, but you’ve failed to gather the resources. She looks disappointed and mutters something about “next time” before excusing herself and returning to her lab in the hills.<br/>
+    <br/>
+    You wake the next morning with an uncanny sensation. Everything seems to be in order, but the feeling remains unshakable. Your thoughts drift to a crater in the hills where an eccentric engineer once ran a lab. It’s been years since an explosion destroyed it. You’ve left the rubble visible as a warning to your other researchers.<br/>
+    <br/>
+    Unsure what the feeling is, you move on.
+UK: Термін, поставлений Зандрою, настає, але тобі не вдається зібрати ресурси. Вона виглядає розчарованою і бурмотить щось про «наступного разу», а потім прощається і повертається у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Наступного ранку ти прокидаєшся з дивним почуттям. Усе ніби в порядку, але відчуття ніяк не проходить. Твої думки линуть до кратера серед пагорбів, де раніше знаходилася лабораторія однієї ексцентричної дослідниці. Вибух знищив її багато років тому, але за твоїм розпорядженням руїни залишили там у науку іншим ученим.<br/>
+    <br/>
+    Роздумуючи про це відчуття, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess
+EN: Impossibly, you’ve gathered everything the engineer asked for. Your workers gather to celebrate the achievement. It’s clear the extraction has taken its toll on them. While they’re not soldiers, they fight hard for you in their own way, and many of them bear new scars or injuries from the heavy labor. Despite their wounds, their eyes shine with pride and hope.<br/>
+    <br/>
+    It’s enough wealth to bring factions to their knees, should you really hand it over for a glimpse of truth? Or can you keep the resources and profit off the technology another way?
+UK: Хоч це здавалося невиконуваним, ти збираєш усе, що запросила Зандра. Твої робітники збираються, щоб відзначити це досягнення. Очевидно, що видобуток ресурсів дався їм нелегко. Вони не солдати, але вони теж хоробро билися, і багато хто тепер відмічений шрамами чи травмами, що дісталися від важкої праці. Незважаючи на перенесені негаразди, їхні очі горять гордістю і надією.<br/>
+    <br/>
+    Цих багатств вистачило б, щоб розправитися з деякими противниками, ти справді обміняєш їх на якийсь проблиск істини? Або, може, краще приберегти їх і витягти користь з цієї технології іншим шляхом?
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/ChangeThePast
+EN: <style name='Bold'/>Change the past:<style name='Paragraph'/> Forget the butterflies, anything is better than this living hell. Demand the engineer alter the past directly.
+UK: <style name='Bold'/>Змінити минуле:<style name='Paragraph'/> До біса роздавлених метеликів, усе краще, ніж це пекло наяву. Наказати Зандрі цілеспрямовано змінити минуле.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/FindInsights
+EN: <style name='Bold'/>Find insights:<style name='Paragraph'/> Bullets win battles but insights win wars. Hand everything over to the engineer and proceed.
+UK: <style name='Bold'/>Знайти розуміння:<style name='Paragraph'/> Кулями можна перемогти в битві, але знаннями можна перемогти у війні. Віддати все Зандрі і завершити розпочате.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/IgnoreAfterGatherResources
+EN: <style name='Bold'/>Don’t do it:<style name='Paragraph'/> Why meddle with the past when you can shape the future? Scrap the project, and spend those resources elsewhere.
+UK: <style name='Bold'/>Закрити проєкт:<style name='Paragraph'/> Навіщо возитися з минулим, коли в твоїх руках майбутнє? Закрити проєкт і пустити ці ресурси на щось інше.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/SellTechToAnchorite
+EN: <style name='Bold'/>Sell the tech to Anchorite:<style name='Paragraph'/> Perhaps you can profit and save humanity by selling everything to the Anchorite? They will assuredly use this to benefit both your peoples.
+UK: <style name='Bold'/>Продати технологію Анахорету:<style name='Paragraph'/> Можливо, вдасться нажитися і врятувати людство, продавши все Анахорету? Він стверджує, що від цього буде користь обом расам.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/SellTechToChieftess
+EN: <style name='Bold'/>Sell the tech to Chieftess:<style name='Paragraph'/> Humanity needs a champion but you can’t afford the risk. Caution balances daring, so the Chieftess might be just the right buyer.
+UK: <style name='Bold'/>Продати технологію Вождині:<style name='Paragraph'/> Людству потрібен рятівник, але ризик занадто великий. Обережність врівноважує рішучість, тож Вождиня може бути кращим покупцем.
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/SellTechToConcordat
+EN: <style name='Bold'/>Sell the tech to Concordat:<style name='Paragraph'/> There’s always a buyer, if you don’t ask too many questions. And the Concordat doesn’t like questions…
+UK: <style name='Bold'/>Продати технологію Конкордату:<style name='Paragraph'/> Покупець завжди знайдеться, якщо не ставити зайвих запитань. А Конкордат запитання не любить...
+
+## Quests.xml|TheSpaceEngine/GatherResourcesSuccess/SellTechToZephon
+EN: <style name='Bold'/>Sell the tech to ZEPHON:<style name='Paragraph'/> This could be a valuable upgrade for an AI—and establish you as a worthy ally in the process.
+UK: <style name='Bold'/>Продати технологію ЗЕФОНу:<style name='Paragraph'/> ШІ може порахувати це цінним удосконаленням, а тебе — цінним союзником.
+
+## Quests.xml|TheSpaceEngine/Ignore
+EN: Zandra storms off after you refuse to support her project, but soon after she begins recruiting her peers. Engineers from across your territories flock to assist her—so many that your key projects risk being understaffed.<br/>
+    <br/>
+    An adviser offers a simple solution—he asks her for proof of her claims. When it’s Zandra Kyne, a known eccentric, who’s proposing time travel, then you’d be a fool not to get confirmation.<br/>
+    <br/>
+    Her followers wait eagerly, but Zandra is unable to offer any proof—not until it works, she exclaims. Disappointed, her followers disperse and you never hear from Zandra again.
+UK: Після твоєї відмови підтримати проєкт Зандра з обуренням йде, але незабаром починає вербувати власних колег. Інженери з усієї твоєї території стікаються до неї, щоб надати їй підтримку, — стільки, що твої ключові проєкти ризикують залишитися без персоналу.<br/>
+    <br/>
+    Радник пропонує просте рішення: він просить її довести свої припущення. Який дурень повірить просто так, коли про подорожі в часі говорить Зандра Кайн, відома своєю ексцентричністю?<br/>
+    <br/>
+    Її прихильники терплячо чекають, але в Зандри немає доказів. «Отримаємо їх, коли запрацює!» — тільки й може відповісти вона. Розчаровані прихильники розходяться, і більше ви ніколи про неї не чуєте.
+
+## Quests.xml|TheSpaceEngine/IgnoreAfterGatherResources
+EN: Realization stops you from handing over everything to Zandra. With the weapons built from these resources, you don’t need time travel to win the war.<br/>
+    <br/>
+    Zandra looks disappointed and mutters something about “next time” before returning to her lab in the hills.<br/>
+    <br/>
+    Waking the next morning brings an uncanny sensation. Your attention falls on a storage vault in the hills, built from a crater where an eccentric engineer blew up her lab years ago. Nervous, you order your resources checked—but everything is still there.<br/>
+    <br/>
+    Unsure what the feeling is, you move on.
+UK: Думка, що осяяла тебе, не дає тобі віддати все Зандрі. На ці ресурси можна побудувати стільки зброї, що війну вдасться виграти і без подорожей у часі.<br/>
+    <br/>
+    Зандра виглядає розчарованою і бурмотить щось про «наступного разу», а потім повертається у свою лабораторію серед пагорбів.<br/>
+    <br/>
+    Наступного ранку ти прокидаєшся з дивним почуттям. Твоя увага зупиняється на сховищі ресурсів серед пагорбів, зведеному в кратері, який виник багато років тому, коли одна ексцентрична дослідниця вибухнула свою лабораторію. Ти неспокійно наказуєш перевірити запаси ресурсів — але все на місці.<br/>
+    <br/>
+    Роздумуючи про це відчуття, ти продовжуєш жити далі.
+
+## Quests.xml|TheSpaceEngine/Intro
+EN: You never sleep well—how could you—but there is no way that you're sleeping through the alarms.<br/>
+    <br/>
+    It is Zandra Kyne, a well-respected if eccentric engineer, wrestling with your guards. She has been synthesizing technology from ZEPHON and the Acrin night and day, and has found something tachyon-based that is beyond them both—and she couldn’t wait to tell you. No one else understands the technology sufficiently to follow her revelations, but she claims she can travel through space and time. She suggests using it to find insights into the Acrin's purpose or the origins of ZEPHON—but there is only a limited window to deploy it.<br/>
+    <br/>
+    Up until this point, she was her usual harmlessly insane self, but when she starts listing out the resources she'll need for it to be safe—well, your advisors are aghast at the cost. But she says she’s very certain of success ‘this time around’…
+UK: Ти зазвичай і так погано спиш — зрозуміло, — але проспати сигнали тривоги точно не вийде.<br/>
+    <br/>
+    Це Зандра Кайн, поважний, хоч і ексцентричний інженер, і вона люто сперечається з твоїми охоронцями. Вона день і ніч синтезувала технології ЗЕФОНа і акринів, і нарешті знайшла щось, що перевищує можливості їх обох — щось на базі тахіонів, і їй не терпілося тобі про це розповісти. Ніхто не здатний зрозуміти цю методику, окрім неї самої, але вона стверджує, що може подорожувати через простір і час. Вона пропонує скористатися цим засобом, щоб вникнути в призначення акринів або походження ЗЕФОНа, але часовий діапазон його застосування обмежений.<br/>
+    <br/>
+    До цього моменту вона була таким же безпечним божевільним генієм, як і завжди, але тепер вона перераховує список ресурсів, необхідний для забезпечення безпеки... твої союзники приходять у жах від таких витрат. Але вона стверджує, що «цього разу» дуже впевнена в успіху...
+
+## Quests.xml|TheSpaceEngine/Intro/GatherResources
+EN: <style name='Bold'/>Gather the resources:<style name='Paragraph'/> <string name='Quests/TheSpaceEngine/Intro/GatherResources2'/>
+UK: <style name='Bold'/>Зібрати ресурси:<style name='Paragraph'/> <string name='Quests/TheSpaceEngine/Intro/GatherResources2'/>
+
+## Quests.xml|TheSpaceEngine/Intro/GatherResources2
+EN: The cost is acceptable if compared to the gain. Let the engineer try—she’ll pay if it fails.
+UK: Можлива вигода перевищує ці витрати. Нехай спробує — якщо не впорається, то все відпрацює.
+

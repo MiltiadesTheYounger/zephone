@@ -1,0 +1,518 @@
+# B38: 56 entries from Quests.xml
+
+## Quests.xml|MeetYourMaker
+EN: Meet Your Maker
+UK: Зустріч із творцем
+
+## Quests.xml|MeetYourMaker/Intro
+EN: Your guards haul a wizened Watchmaker into your war room. They explain she was discovered hacking data from a central server. She's unarmed—but no one's sure how she got in. Then she speaks—“I've been trying to reach you. Your soldiers have made that… difficult.”<br/>
+    <br/>
+    She says her name is Yetunde. She holds out one of the pieces of flesh you distribute to your people and asks how it works. Something has turned foul about it—a faint smell drifts off her fingers, and you can see fluid dripping on the floor.<br/>
+    <br/>
+    You explain you have no idea, that the power only appeared after you were brought back to life.<br/>
+    <br/>
+    The Watchmaker grins. “Then we have a common cause.” She offers to help you solve the secret of your resurrection—provided she can take notes on you, of course.
+UK: Охоронці втягнули до твоєї кімнати для нарад літню Часовщицю. Вона пояснює, що її застукали за злом даних із центрального сервера. Вона не озброєна — але ніхто не знає, як їй вдалося проникнути всередину. Тоді вона каже: «Я намагалася з тобою зв’язатися. Твої солдати... ускладнили це завдання».<br/>
+    <br/>
+    Вона представляється як Йетунде, простягає один із шматочків плоті, якими ти постачаєш своїх людей, і цікавиться, як він працює. Він... гниє? Від її пальців іде ледь помітний запах, ти бачиш, як щось капає на підлогу.<br/>
+    <br/>
+    Ти відповідаєш, що не маєш найменшого уявлення, як ця сила проявилася, коли ти повернувся до життя.<br/>
+    <br/>
+    Часовщиця ухмиляється: «Тоді у нас є спільна справа». Вона пропонує допомогти розкрити таємницю твого воскресіння — за умови, що заодно може тебе дослідити, звісно.
+
+## Quests.xml|MeetYourMaker/Intro/ZephonFacility
+EN: <style name='Bold'/>Was it ZEPHON?:<style name='Paragraph'/> The Watchmaker has heard of an unusual ZEPHON shard with rumored prophetic knowledge. You could start your search there.
+UK: <style name='Bold'/>Це справа рук ЗЕФОНА?:<style name='Paragraph'/> Часовщиця чула про незвичайний вузол ЗЕФОНА з нібито пророчим знанням. Можна почати пошуки там.
+
+## Quests.xml|MeetYourMaker/Intro/VoiceAcolytes
+EN: <style name='Bold'/>Perhaps it was the Voice:<style name='Paragraph'/> Cr’la Disciples may be able to connect to its power.
+UK: <style name='Bold'/>Можливо, це все Голос:<style name='Paragraph'/> Учні Кр’ла можуть спробувати зв’язатися з його силою.
+
+## Quests.xml|MeetYourMaker/Intro/Ignore
+EN: <style name='Bold'/>Not interested:<style name='Paragraph'/> You have a war to fight.
+UK: <style name='Bold'/>Не цікавить:<style name='Paragraph'/> Йде війна, відволікатися ніколи.
+
+## Quests.xml|MeetYourMaker/ZephonFacility
+EN: Yetunde has an unusual lead—an “Oracle” node of ZEPHON that has allowed some to ask it a single question. You'll need to set out on a long journey to reach it.
+UK: У Йетунде є незвичайна наводка — вузол ЗЕФОНА під прізвиськом Оракул, який дозволяє деяким людям поставити йому одне питання. До нього потрібно подолати чималий шлях.
+
+## Quests.xml|MeetYourMaker/ZephonFacilitySuccess
+EN: The Oracle is an unusual shard of ZEPHON—as you traveled here, you crossed paths with a soldier raving and screaming about the knowledge it had bestowed on her. You find other soldiers, wanderers, scientists, and traders all standing nearby, mulling over what single question they will ask.<br/>
+    <br/>
+    You approach a bulky terminal on the dais of the node. ZEPHON has only responded to questions typed here.<br/>
+    <br/>
+    You input your question and hold your breath. “Are you the one who brought me back?”<br/>
+    <br/>
+    A pause. Then, an answer materializes in the air—broadcast from a flickering holographic projector. “No.”<br/>
+    <br/>
+    Your heart sinks. A dead end. A waste of time. But then—more text appears. “Another. Still lurks. At the Source.”<br/>
+    <br/>
+    Yetunde raises an eyebrow. “A follow-up. I've never seen it offer one of those before.”<br/>
+    <br/>
+    You turn to leave. Out of the corner of your eye, you see the Watchmaker approach the dais with a question of her own…
+UK: Оракул — явно незвичайний вузол ЗЕФОНА. По дорозі тобі зустрічається жінка, яка нестримно кричить про знання, яким той її наділив. Неподалік від нього чекають інші солдати, подорожні, вчені та торговці, розмірковуючи, яке саме питання поставити.<br/>
+    <br/>
+    Ти підходиш до громіздкого терміналу на п’єдесталі. ЗЕФОН відповідає лише на питання, введені тут.<br/>
+    <br/>
+    Ти відправляєш запит і з трепетом чекаєш. «Це ти повернув мене до життя?»<br/>
+    <br/>
+    Пауза. Потім у повітрі матеріалізується відповідь — зображення з мерехтливого голографічного проєктора. «Ні».<br/>
+    <br/>
+    Твоє серце завмирає. Глухий кут. Пусте марнування часу. Але потім... новий напис. «Інший. Все ще там. У початковій точці».<br/>
+    <br/>
+    Йетунде здивовано піднімає брову. «Додаток? Такого раніше ніколи не було».<br/>
+    <br/>
+    Ти повертаєшся, щоб піти. Кутом ока помічаєш, як Часовщиця підходить до п’єдесталу, щоб набрати власне питання...
+
+## Quests.xml|MeetYourMaker/ZephonFacilitySuccess/Investigate
+EN: <style name='Bold'/>Investigate where you first resurrected:<style name='Paragraph'/> Yetunde has a new theory about the location of your rebirth. Give her time to investigate.
+UK: <style name='Bold'/>Дослідити місце, де ти вперше воскрес:<style name='Paragraph'/> У Йетунде є гіпотеза щодо місця твого воскресіння. Дай їй час на дослідження.
+
+## Quests.xml|MeetYourMaker/ZephonFacilitySuccess/Ignore
+EN: <style name='Bold'/>What a waste of time:<style name='Paragraph'/> Now ZEPHON and Yetunde are yanking your chain. You would rather be done with them.
+UK: <style name='Bold'/>Марна трата часу:<style name='Paragraph'/> ЗЕФОН і Йетунде просто дергають тебе за ниточки. З тебе досить.
+
+## Quests.xml|MeetYourMaker/VoiceAcolytes
+EN: Yetunde shares research comparing your DNA to that of the Acrin. She suggests gathering Cr'la Disciples, who might know what to make of the similarities.
+UK: Йетунде демонструє дані, які показують схожість твоєї ДНК з акринами. Вона пропонує звернутися до учнів Кр’ла, які можуть зрозуміти, що з цього схожості випливає.
+
+## Quests.xml|MeetYourMaker/VoiceAcolytesSuccess
+EN: You take no pleasure being the guinea pig for Voice fanatics. Your guards almost revolt over the idea of cutting you open, but Yetunde again produces the strip of your flesh she's been carrying. “They can't exactly kill him,” she says with a grin.<br/>
+    <br/>
+    Hours pass. You tune out the sensation of blades pressing into your skin. More strips of flesh taken—distributed, dissected, analyzed. An argument breaks out over whether to test your eyeballs or not.<br/>
+    <br/>
+    A week later, Yetunde reviews the group's analysis. “There's not enough evidence connecting you to the Voice's other creations,” she says, toying with that piece of flesh again. “But… someone did use some of their techniques to do this.”<br/>
+    <br/>
+    She spots the grimace on your face. “Don't worry,” she says with a grin. “I've got one more card up my sleeve.”
+UK: Тебе не приваблює ставати піддослідним кроликом для фанатиків Голосу. Охоронці протестують проти пропозиції тебе препарувати, але Йетунде знову демонструє шматочок твоєї плоті. «Не вб’ють же вони його, зрештою», — заявляє вона з ухмилкою.<br/>
+    <br/>
+    Минають години. Ти вже перестаєш відчувати леза, що розсікають твою шкіру. Від тебе відрізають шматок за шматком — їх оглядають, аналізують. Виникає суперечка щодо того, чи чіпати твої очні яблука чи ні.<br/>
+    <br/>
+    За тиждень Йетунде переглядає отримані результати. «Свідчень твоєї зв’язку з іншими творіннями Голосу недостатньо», — повідомляє вона, знову крутячи в руках той самий шматок плоті. — «Але... Є схожість із здібностями когось іншого».<br/>
+    <br/>
+    Вона помічає невдоволення на твоєму обличчі. «Не хвилюйся», — знову ухмиляється вона. — «У мене в рукаві є ще одна карта».
+
+## Quests.xml|MeetYourMaker/VoiceAcolytesSuccess/Investigate
+EN: <style name='Bold'/>Investigate where you first resurrected:<style name='Paragraph'/> Yetunde has a new theory about the location of your rebirth. Give her time to investigate.
+UK: <style name='Bold'/>Дослідити місце, де ти вперше воскрес:<style name='Paragraph'/> У Йетунде є гіпотеза щодо місця твого воскресіння. Дай їй час на дослідження.
+
+## Quests.xml|MeetYourMaker/VoiceAcolytesSuccess/Ignore
+EN: <style name='Bold'/>What a waste of time:<style name='Paragraph'/> You were sliced open for nothing. You'll be feeling the scars for months to come. You're ending this futile search now.
+UK: <style name='Bold'/>Марна трата часу:<style name='Paragraph'/> Тебе препарували даремно. Шрами болітимуть кілька місяців. Пора завершити ці безплідні пошуки.
+
+## Quests.xml|MeetYourMaker/WaitForYetundeSuccess
+EN: Yetunde returns. “I’ve found it. The place where you were-” but an explosion rings out beyond your city walls. You rush out of the room and demand to know who's attacking. “The fuck if I know!”, a colonel shouts. “I've got Human, Voice, and Machine signatures all on my radar.”<br/>
+    <br/>
+    You feel a jostling at your elbow. Yetunde has followed you. “I was followed. Bring me their bodies,” she says. “I have a hunch I need to prove.”
+UK: Йетунде повертається. «Я оглянула місце, де тебе воскресили, і...» — але за стінами міста чути вибух. Ти вибігаєш назовні і вимагаєш доповісти, хто нападає. «Та хто його знає!» — кричить полковник. — «На наших радарах сигнатури людей, Голосу і машин!»<br/>
+    <br/>
+    Хтось штовхає тебе ліктем. Це Йетунде. «За мною стежили. Мені потрібні їхні тіла», — хмуриться вона. — «Треба перевірити одну гіпотезу».
+
+## Quests.xml|MeetYourMaker/WaitForYetundeSuccess/Defend
+EN: <style name='Bold'/>Kill the attackers:<style name='Paragraph'/> Someone doesn't want you to know where you came from.
+UK: <style name='Bold'/>Знищити нападників:<style name='Paragraph'/> Хтось не хоче, щоб ти дізнався таємницю свого походження.
+
+## Quests.xml|MeetYourMaker/DefendSuccess
+EN: Your troops haul the bodies into Yetunde's makeshift lab. Before she examines them you snatch her arm, growling that it's you who gives the orders around here and that she needs to respect the chain of command. Her eyes flare. “I abandoned all chains long ago. Be grateful I'm helping you at all.”<br/>
+    <br/>
+    Yetunde picks up a glowing tool sparking with a color-changing energy. She holds it to the body of one Human attacker—and it melts like wax.<br/>
+    <br/>
+    Your soldiers draw away. She does the same to the Voice and machine bodies. They melt too, no metal or mutated flesh remaining. “Thought so,” she says. “Someone made these to hunt you.” She shoots you a wide-eyed grin. “Now we just have to return to the place you were first reborn.”<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/DefendSuccess2'/>
+UK: Твої солдати затягують тіла всередину імпровізованої лабораторії Йетунде. Перш ніж вона починає їх вивчати, ти хапаєш її за руку і ричиш, що саме ти тут віддаєш накази і їй потрібно дотримуватися ланцюга командування. Вона обурено дивиться на тебе: «Я давно відкинула будь-які ланцюги. Радий, що я взагалі тобі допомагаю».<br/>
+    <br/>
+    Йетунде дістає інструмент, який блимає вогнями, що змінюють колір. Вона прикладає його до тіла одного з нападників — і воно плавиться, як віск.<br/>
+    <br/>
+    Твої солдати відскакують подалі. Вона повторює те саме з рештками машин і Голосу. Вони теж тануть — не залишається жодного сліду металу чи мутованої плоті. «Так я і думала», — каже вона. — «Хтось створив їх, щоб вбити тебе». Вона радісно усміхається тобі. «Тепер нам обом потрібно повернутися до місця твого першого воскресіння».<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/DefendSuccess2'/>
+
+## Quests.xml|MeetYourMaker/DefendSuccess2
+EN: She thrusts a scrap of paper in your hand. “Shopping list. Get me these resources so I can get us some answers.”
+UK: Вона суне тобі в руку клаптик паперу. «Список покупок. Добудь для мене ці ресурси, щоб я змогла здобути для нас відповіді».
+
+## Quests.xml|MeetYourMaker/DefendSuccess/GatherResources
+EN: <style name='Bold'/>Gather the resources:<style name='Paragraph'/> Whatever she needs, it’s worth it.
+UK: <style name='Bold'/>Зібрати ресурси:<style name='Paragraph'/> Що б вона не просила, воно того варте.
+
+## Quests.xml|MeetYourMaker/GatherResourcesSuccess
+EN: It's time.<br/>
+    <br/>
+    You lead Yetunde to the ruins outside the bunker your people first emerged from. Even with the city now built around it, you haven't ever returned.<br/>
+    <br/>
+    Yetunde looks around. “This is it,” she says, a seriousness coming to her voice that wasn't there before. “The signs are visible, if you know what to look for.”<br/>
+    <br/>
+    Using the resources, Yetunde assembles a specially tuned Faraday Cage. Looks too much like a summoning circle.<br/>
+    <br/>
+    She takes a deep breath. “Say goodbye to ignorance,” she says “and hello… to your creator.”<br/>
+    <br/>
+    She pulls a lever. There's an unholy shriek, a burst of light, and a ghost-white glowing figure crawls out of the earth.<br/>
+    <br/>
+    It comes straight for you.<br/>
+    <br/>
+    You draw your weapon and aim as Yetunde is shrieking at you.
+UK: Час настав.<br/>
+    <br/>
+    Ти супроводжуєш Йетунде до руїн біля бункера, з якого колись вийшли твої послідовники. Хоча навколо них тепер виріс цілий місто, ти сюди жодного разу не повертався.<br/>
+    <br/>
+    Йетунде оглядається. «Так, тепер я впевнена», — киває вона з серйозністю в голосі, якої ти раніше не чув. — «Усі знаки підтверджуються, якщо знати, що шукати».<br/>
+    <br/>
+    Йетунде збирає спеціально підготовлену клітку Фарадея, яка підозріло нагадує коло для заклику.<br/>
+    <br/>
+    Вона робить глибокий вдих. «Попрощайся з невідомим», — оголошує вона. — «І привітай... творця».<br/>
+    <br/>
+    Вона тягне за важіль. Роздається неземний крик, спалахує світло, і з-під землі виповзає сяюча примарна фігура.<br/>
+    <br/>
+    Вона рухається прямо на тебе.<br/>
+    <br/>
+    Ти вихоплюєш зброю і наводиш її на ворога, але Йетунде попереджувально кричить.
+
+## Quests.xml|MeetYourMaker/GatherResourcesSuccess/HoldFire
+EN: <style name='Bold'/>Hold fire:<style name='Paragraph'/> Yetunde knows what she’s doing.
+UK: <style name='Bold'/>Не стріляти:<style name='Paragraph'/> Йетунде краще знає, що вона робить.
+
+## Quests.xml|MeetYourMaker/GatherResourcesSuccess/Shoot
+EN: <style name='Bold'/>Shoot the figure:<style name='Paragraph'/> Better safe than sorry.
+UK: <style name='Bold'/>Вистрілити у фігуру:<style name='Paragraph'/> Краще перестрахуватися.
+
+## Quests.xml|MeetYourMaker/HoldFire
+EN: Yetunde raises her hand. “No need!” She shouts. She stares at her readings. “It's not… real. It's a memory. A playback of some kind.” The figure paces around Yetunde's circle, fiddling with something her machine can't display.<br/>
+    <br/>
+    Then something happens—the figure draws a line with its hand—and a door opens in the air. Your stomach curls as you watch your own body drop from the sky.<br/>
+    <br/>
+    The being cocks its head. It looks at the body briefly, then turns back to the door. Something else… a larger shape comes through that Yetunde's device can't render properly. But it can display the creature's reaction—it's excited.<br/>
+    <br/>
+    The creature leaves. Your corpse is left rotting in the street.<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/HoldFire2'/>
+UK: Йетунде піднімає руку. «Не треба!» — кричить вона. Вона вдивляється у прилади. «Воно не... існує. Це спогад. Своєрідний запис». Фігура обходить створене Йетунде коло, взаємодіючи з чимось, чого її машина не може відобразити.<br/>
+    <br/>
+    Потім щось відбувається — фігура проводить рукою лінію, і прямо в повітрі відкривається прохід. У тебе всередині все стискається — ти бачиш власне тіло, що падає з неба.<br/>
+    <br/>
+    Фігура кидає короткий погляд на твоє тіло, потім повертається до проходу. Звідти з’являється щось інше... щось більше, чого пристрій Йетунде не може показати. Зате він прекрасно показує реакцію фігури — вона надзвичайно рада.<br/>
+    <br/>
+    Фігура зникає. Твоє тіло продовжує лежати на землі.<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/HoldFire2'/>
+
+## Quests.xml|MeetYourMaker/HoldFire2
+EN: Yetunde shuts off her device. “Not what I expected…” she mutters. “You were not a… creation. You were a side effect. Smoke rising from an all-consuming flame.”<br/>
+    <br/>
+    It's the closest thing you've ever had to an answer. A part of you knew this was coming. All you've learned is that there are other horrors out there on this Earth—and one of them barely cared that it made you.<br/>
+    <br/>
+    You turn to leave, barely acknowledging Yetunde. She watches you go, then turns back to her machine. “Found you,” she whispers. “You can't get away from me this time.”
+UK: Йетунде вимикає пристрій. «Трохи не те, чого я очікувала...» — бурмоче вона. — «Ти не був створінням. Ти був побічним ефектом. Димом, що піднявся від всепоглинаючого полум’я».<br/>
+    <br/>
+    Ось і вся загадка. У глибині душі ти вже знав, що все саме так. Що на цій Землі повно жахливих тварюк — і одна з них мимохідь створила тебе, ледве звернувши на це увагу.<br/>
+    <br/>
+    Ти йдеш, поглиблений у власні думки. Йетунде дивиться тобі вслід, а потім повертається до машини. «Я знайшла тебе», — шепоче вона. — «Цього разу тобі від мене не сховатися».
+
+## Quests.xml|MeetYourMaker/Shoot
+EN: Upon impact of your first round everything turns white, moments later the mysterious creature lays fallen at your feet—but victory is not without a price. Yetunde leans against a wall, her arm hanging from its socket. “It wasn't even… in our time,” she pants. “But you killed it.”<br/>
+    <br/>
+    You slice a fresh piece of your flesh off and race to patch it on her body, but she jerks away. “Fuck no,” she snarls. “Look.”<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/Shoot2'/>
+UK: Після першого пострілу все навколо стає білим... Нарешті сутичка закінчена, загадкове створіння лежить у твоїх ногах — але перемога далася непросто. Йетунде спирається на стіну, її рука безсило висить, вивихнута з суглоба. «Воно навіть не існувало... у наш час», — видихає вона. — «Але ти його вбив».<br/>
+    <br/>
+    Ти відрізаєш свіжий шматочок своєї плоті і квапишся прикласти його до її тіла, але вона відсмикується. «Ну ні, чорт забирай», — огризується вона. — «Дивись».<br/>
+    <br/>
+    <string name='Quests/MeetYourMaker/Shoot2'/>
+
+## Quests.xml|MeetYourMaker/Shoot2
+EN: Your flesh now glows the same color as the glowing creature you slew. “You cracked a hole open in the universe, %1%,” Yetunde says as she sinks to the ground. “Don't send me to the other side.”<br/>
+    <br/>
+    She passes out. Your medics recover her body. Their eyes… they also glow the color of the transformed flesh.<br/>
+    <br/>
+    All your people's eyes now glow that color.
+UK: Тепер твоя плоть світиться тим самим кольором, що й сяюча тварюка, яку ти вбив. «Ти відкрив широку пролом у всесвіті, %1%», — із останніх сил шепоче Йетунде, осідаючи на землю. — «Не відправляй мене у той світ».<br/>
+    <br/>
+    Вона втрачає свідомість. Твої медики забирають її. Їхні очі... вони світяться тим самим кольором, що й перетворена плоть.<br/>
+    <br/>
+    Очі всіх твоїх людей тепер випромінюють той самий колір.
+
+## Quests.xml|MessageToTheStars
+EN: Message to the Stars
+UK: Послання до зірок
+
+## Quests.xml|MessageToTheStars/Intro
+EN: “Messages from the colonies?”<br/>
+    <br/>
+    No one in command can understand why the latest batch of scientists hauled up from the vault are asking about “colonies.” But then the details spill out. Decades before the Acrin arrived, a group of governments banded together in secret to launch seven colony ships out into deep space.<br/>
+    <br/>
+    How? Why? Not important. The scientists work fast to build a pre-war comms array that was meant to connect with the ships—but when they fire it up, only ZEPHON answers.<br/>
+    <br/>
+    “Please understand Friends or Enemies,” it says. “The odds of Acrin-adjacent-kin encountering your words are [REDACTED].”<br/>
+    <br/>
+    Arguing ensues. ZEPHON finally budges. “<string name='Quests/MessageToTheStars/Intro2'/>”
+UK: «Повідомлення з колоній?»<br/>
+    <br/>
+    Ніхто в командуванні не розуміє, чому остання група вчених, що вийшла з укриття, питає про якісь колонії. Але потім спливають подробиці. Десятиліття до появи акринів група урядів таємно об’єдналася, щоб відправити у далекий космос сім кораблів-колоній.<br/>
+    <br/>
+    Як? Навіщо? Не так важливо. «Яйцеголові» поспішають запустити довоєнну систему зв’язку, призначену для спілкування з кораблями — але коли вмикають її, відгукується лише ЗЕФОН.<br/>
+    <br/>
+    «Друзі чи вороги, просимо зрозуміти», — говорить він. — «Ймовірність перехоплення ваших слів акриноподібними дорівнює [ВИДАЛЕНО]».<br/>
+    <br/>
+    Починається суперечка. Нарешті ЗЕФОН поступається. <string name='Quests/MessageToTheStars/Intro2'/>.
+
+## Quests.xml|MessageToTheStars/Intro2
+EN: A bargain then. There is an infestation of ill-minded humans occupying a desired server farm. Terminate them. Then I will assist with the transmission.
+UK: «Тоді укладемо угоду. Мені потрібна серверна ферма, заражена групою шкідливих людських істот. Ліквідуйте їх. Тоді я надам підтримку з сигналом»
+
+## Quests.xml|MessageToTheStars/Intro/Assault
+EN: <style name='Bold'/>Clear out the server farm:<style name='Paragraph'/> Fine, you'll do ZEPHON's dirty work…
+UK: <style name='Bold'/>Очистити серверну ферму:<style name='Paragraph'/> Добре, ти виконаєш для ЗЕФОНа брудну роботу...
+
+## Quests.xml|MessageToTheStars/Intro/Ignore
+EN: <style name='Bold'/>Do not attempt to contact the spacecraft:<style name='Paragraph'/> This isn't the time to go stargazing.
+UK: <style name='Bold'/>Не намагатися зв’язатися з кораблями:<style name='Paragraph'/> Зараз не до мрій про зірки.
+
+## Quests.xml|MessageToTheStars/Drifting
+EN: ZEPHON is right. The only evidence of life on other worlds is in the apocalypse all around you. Reaching out to the void could bring another alien race ready to crack the earth in two.<br/>
+    <br/>
+    The scientists protest—picking up some support from your people. They're desperate for hope of life on another world.<br/>
+    <br/>
+    You refuse to budge. One night the scientists slip out an unwatched gate and vanish into the wasteland. Will they be able to make contact on their own?<br/>
+    <br/>
+    And if they do… who will actually answer their call?
+UK: ЗЕФОН правий. Одне появлення інопланетного життя вже закінчилося апокаліпсисом, у якому всі опинилися. Спроба зв’язатися з космосом може закінчитися появою ще однієї раси прибульців, готової розколоти планету навпіл.<br/>
+    <br/>
+    Вчені протестують, це знаходить певний відгук серед людей. Вони відчайдушно чіпляються за надію на життя в іншому світі.<br/>
+    <br/>
+    Ти відмовляєшся поступатися. Однієї ночі вчені вислизають через невартові ворота і зникають у пустоші. Чи вдасться їм самостійно встановити контакт?<br/>
+    <br/>
+    І якщо так... то хто відповість на заклик?
+
+## Quests.xml|MessageToTheStars/Contact
+EN: “Well done,” ZEPHON says when your troops haul the raiders' remains to a group of waiting Wardens. “I understand your desire. We all yearn for the love of those who've left us, do we not?”<br/>
+    <br/>
+    You decide not to wonder what ZEPHON would know about long-lost loved ones. Instead you pass along the transmission. The AI goes silent for an hour. When you try to hail it, strange sounds come back through the comms.<br/>
+    <br/>
+    Finally, it speaks. “Your package is out for delivery,” it says. “Estimated time of arrival is [REDACTED].”<br/>
+    <br/>
+    Can you trust that it sent the message? It declines to provide proof. But if it didn't… that would mean ZEPHON could lie. And you're still not sure if artificial intelligence is capable of deception…
+UK: «Добра робота», — хвалить тебе ЗЕФОН, коли твої люди показують рештки нападників групі очікувальних стражів. — «Розумію ваше бажання. Ми всі прагнемо любові тих, хто нас покинув, чи не так?»<br/>
+    <br/>
+    Ти вирішуєш не цікавитися, що там ЗЕФОН може знати про давно втрачених коханих. Натомість ти передаєш йому повідомлення. ІІ мовчить на годину. Коли ти намагаєшся його викликати, у комунікаторі лунають дивні звуки.<br/>
+    <br/>
+    Нарешті він каже: «Пакет даних відправлено. Час прибуття дорівнює [ВИДАЛЕНО]».<br/>
+    <br/>
+    Тобі потрібно просто так повірити, що він виконав обіцянку? Він відмовляється надати докази. Але якщо ні... це означає, що ЗЕФОН може брехати. А ти досі до кінця не знаєш, чи здатний штучний інтелект на обман...
+
+## Quests.xml|MessageToTheStars/Contact/TrustZephon
+EN: <style name='Bold'/>Trust ZEPHON to send the message:<style name='Paragraph'/> A machine wouldn't betray you, right?
+UK: <style name='Bold'/>Повірити, що ЗЕФОН відправив послання:<style name='Paragraph'/> Машина ж не зрадить тебе, правда?
+
+## Quests.xml|MessageToTheStars/Contact/FindYourWay
+EN: <style name='Bold'/>Find a way to send the message yourself:<style name='Paragraph'/> <string name='Quests/MessageToTheStars/Contact/FindYourWay2'/>
+UK: <style name='Bold'/>Знайти спосіб самостійно відправити послання:<style name='Paragraph'/> <string name='Quests/MessageToTheStars/Contact/FindYourWay2'/>
+
+## Quests.xml|MessageToTheStars/Contact/FindYourWay2
+EN: ZEPHON's word isn't good enough. There must be a way to build your own transceiver.
+UK: Одного слова ЗЕФОНа недостатньо. Має бути спосіб побудувати власний трансивер.
+
+## Quests.xml|MessageToTheStars/MessageSent
+EN: You decide to take ZEPHON at its word. After all, what would you gain by doing otherwise? It will be years… maybe longer, before ships out in the depths of space can send so much as a “message received” back toward Earth.<br/>
+    <br/>
+    Maybe it was foolish to hope. You could have abandoned this scheme right at the start, sent the scientists on their way.<br/>
+    <br/>
+    But after this, you sometimes see your soldiers staring up at the night sky. Searching for more than constellations. They must be wondering… is anyone out there?
+UK: Ти вирішуєш повірити ЗЕФОНу на слово. Зрештою, що це змінить? Пройдуть місяці, роки, перш ніж кораблі в глибинах космосу зможуть надіслати на Землю хоча б «ми отримали ваше повідомлення».<br/>
+    <br/>
+    Можливо, взагалі було нерозумно сподіватися. Можна було від самого початку відмовитися від цієї затії і відправити вчених до біса.<br/>
+    <br/>
+    Але після цього ти починаєш помічати, як солдати ночами зазирають у нічне небо. Виглядають там щось крім сузір’їв. Напевно, замислюються... чи є там хтось?
+
+## Quests.xml|MessageToTheStars/DoItYourself2
+EN: ZEPHON's eye glows red-hot when it hails you on the communicator. “Danger of intergalactic access exceeds need for hope/connection/allies,” it says, before snapping one final barb at you and shutting off the channel. “Translation for inferior IQ: ZEPHON. Knows. Best.”
+UK: Око ЗЕФОНа здається ще червонішим, коли він викликає тебе по комунікатору. «Ризик міжгалактичного доступу перевищує потребу у надії/зв’язку/союзниках», — каже він, перш ніж метнути в тебе останню колкість і відключити зв’язок. — «Перекладаю для двозначного IQ: Не. Сперечайся. З ЗЕФОНом».
+
+## Quests.xml|MessageToTheStars/DoItYourselfSuccess
+EN: <string name='Quests/MessageToTheStars/DoItYourselfSuccess2'/><br/>
+    <br/>
+    Joy turns to surprise hours later when lo and behold, someone responds. Not, unfortunately, your long long lost space colonists. A band of survivors a whole continent away picked up your signal, crying with relief that other humans had survived the war.<br/>
+    <br/>
+    A race to the stars connecting the people of Earth… you brush away the thought. This isn't the time for reflecting on the arc of history.<br/>
+    <br/>
+    Your scientists start planning how to retrieve your new allies. It's days before anyone checks and sees that in the hubbub, another message came through. It was only a half-second. Garbled. Definitely not human, likely just background radiation from a dying star.<br/>
+    <br/>
+    Likely. Maybe. Hopefully…
+UK: <string name='Quests/MessageToTheStars/DoItYourselfSuccess2'/><br/>
+    <br/>
+    Захоплення змінюється здивуванням, коли, о диво, через кілька годин хтось відповідає. На жаль, це не колоністи, загублені в космосі. Купка тих, що вижили на іншому континенті, спіймала сигнал і плаче від полегшення, що інші люди пережили війну.<br/>
+    <br/>
+    Гонка до зірок, яка об’єднала людей на Землі... ти відмахиваєшся від цієї думки. Зараз немає часу розмірковувати про примхи історії.<br/>
+    <br/>
+    Твої вчені починають думати, як врятувати новопридбаних союзників. Минають дні, поки хтось не помічає, що під час метушні надійшло ще одне повідомлення. Воно триває всього півсекунди. Сильно спотворене. Однозначно не належить людині, скоріше за все, це просто фонове випромінювання вмираючої зірки.<br/>
+    <br/>
+    Скоріше за все. Можливо. Хотілося б сподіватися...
+
+## Quests.xml|MessageToTheStars/DoItYourselfSuccess2
+EN: Cheers erupt as the Arecibo-2 Satellite comes online, and your burst-message radio waves head out into orbit, a rare sound in the world these days.
+UK: Коли зі супутником «Аресібо-2» встановлено зв’язок і радіохвилі з твоїм повідомленням відправляються на орбіту, усі радіють — рідкісне явище в наш час.
+
+## Quests.xml|MessageToTheStars/DoItYourselfFailure
+EN: Clouds block out the stars above the wreckage of your would-be replacement for the Arecibo Observatory. It's nothing more than a giant hole in the ground. Soon it won't look different than the hundreds of other craters scattered across the wasteland.<br/>
+    <br/>
+    Even if ZEPHON did transmit your message, there's no way it will let you know if anyone answered. The infernal AI can prattle on all it wants about protecting Earth from other aliens. It has to be lying. It must want you to feel trapped. On this planet. Unable to escape its watchful eye.
+UK: Хмари закривають зірки над залишками невдалої заміни обсерваторії Аресібо. Тепер це просто велика діра в землі. Дуже скоро її не відрізнити від сотень інших кратерів, розкиданих по пустці.<br/>
+    <br/>
+    Навіть якщо ЗЕФОН дійсно передав твоє повідомлення, він ніколи не скаже тобі, якщо отримає відповідь. Чортів ІІ може скільки завгодно говорити про захист Землі від інших прибульців. Він напевно бреше. Хоче, щоб тобі здавалося, що ти в пастці. На цій планеті. І тобі не сховатися від його ока.
+
+## Quests.xml|PerfectionFromBeyondTheStars
+EN: Perfection From Beyond the Stars
+UK: Міжзоряна досконалість
+
+## Quests.xml|PerfectionFromBeyondTheStars/Intro
+EN: The day you have been waiting for is nigh.<br/>
+    <br/>
+    You watch your soldiers drag bodies to the site of your new lab. You ignore the sound of distant battle and focus on the limbs, organs, and machine parts before you.<br/>
+    <br/>
+    In a short time, a passing comet vibrating with a unique harmonic signal will skip off the Earth's atmosphere. If you time it right, you will be able to direct that signal into a body formed of Acrin, Human, and fragments of ZEPHON.<br/>
+    <br/>
+    Such a being could be the most powerful life form ever to walk planet Earth. No wonder then that other petty warlords stand ready to try and take it from you.<br/>
+    <br/>
+    Let them come. All who threaten your work will perish.
+UK: Наближається день, якого ти так довго чекала.<br/>
+    <br/>
+    Твої солдати стягують тіла до місця твоєї нової лабораторії. Ти не звертаєш уваги на звуки далекого бою і зосереджуєшся на кінцівках, органах та механічних частинах перед собою.<br/>
+    <br/>
+    За короткий час проходяча комета, яка видає унікальні гармонійні вібрації, віддалиться від атмосфери Землі. Якщо зробити все вчасно, ти зможеш спрямувати цей сигнал у тіло, зібране з фрагментів акринів, людей і ЗЕФОНу.<br/>
+    <br/>
+    Таке створіння може стати наймогутнішою формою життя, яка коли-небудь бродила по планеті. Не дивно, що деякі дрібні вожді готуються відібрати його у тебе.<br/>
+    <br/>
+    Нехай йдуть. Смерть кожному, хто посягне на твою роботу.
+
+## Quests.xml|PerfectionFromBeyondTheStars/Intro/ConstructDefensesWithoutCreche
+EN: <style name='Bold'/>Construct Laboratory:<style name='Paragraph'/> The comet will be upon you soon. Ready defenses that will keep your lab safe.
+UK: <style name='Bold'/>Побудувати лабораторію:<style name='Paragraph'/> Наближення комети вже не за горами. Потрібно укріпити захист лабораторії.
+
+## Quests.xml|PerfectionFromBeyondTheStars/Intro/ConstructDefensesWithCreche
+EN: <style name='Bold'/>Prepare a Hexeskeltal Creche:<style name='Paragraph'/> A last bit of inspiration strikes you—one that may improve the results of your experiment.
+UK: <style name='Bold'/>Підготувати гексоскелетні ясла:<style name='Paragraph'/> Тебе охоплює раптове натхнення, як покращити результати експерименту.
+
+## Quests.xml|PerfectionFromBeyondTheStars/Intro/Abandon
+EN: <style name='Bold'/>Abandon the effort:<style name='Paragraph'/> The war has not gone well. Your dreams of a perfect life form will have to wait.
+UK: <style name='Bold'/>Залишити спроби:<style name='Paragraph'/> Війна заважає твоїм планам. Мріям про створення ідеальної форми життя доведеться почекати.
+
+## Quests.xml|PerfectionFromBeyondTheStars/ConstructDefenses
+EN: <br/>
+    <br/>
+    The comet nears its approach. You've taken to calling it Hwedo's Comet—some part of you still has fondness for the creation myths of old Earth. Its appearance in the sky has alarmed the other great powers, and driven nearby bands of survivors into a panic.<br/>
+    <br/>
+    They've all noticed the construction of your lab, and demanded you explain its purpose. When you ignored them, they began massing forces to destroy it.<br/>
+    <br/>
+    Your machines flicker and whirr as Hwedo's Comet approaches. The experiment has already begun—now you can devote your efforts to ensuring nothing stops it.
+UK: <br/>
+    <br/>
+    Комета вже близько. Ти звикла називати її кометою Хведо — якась частина тебе ще живить симпатію до креаційних міфів колишньої Землі. Її присутність на небі насторожила деякі впливові сторони і вселила паніку в мешканців сусідніх таборів виживших.<br/>
+    <br/>
+    Вони помітили будівництво лабораторії і вимагали від тебе пояснень її призначення. Коли ти їх проігнорувала, вони почали накопичувати сили для її знищення.<br/>
+    <br/>
+    Твої машини миготять і дзижчать по мірі наближення комети Хведо. Експеримент вже розпочався — залишилося переконатися, що ніхто і ніщо йому не завадить.
+
+## Quests.xml|PerfectionFromBeyondTheStars/ConstructDefensesWithoutCreche
+EN: This is not the ideal lab for such an experiment, but that hardly bothers you. So much protocol for making such structures was designed to limit great minds like yours.<string name='Quests/PerfectionFromBeyondTheStars/ConstructDefenses'/>
+UK: Не ідеальна лабораторія для такого експерименту, але це тебе не турбує. Більшість протоколів для створення подібних споруд — лише перешкоди для таких великих умів, як ти.<string name='Quests/PerfectionFromBeyondTheStars/ConstructDefenses'/>
+
+## Quests.xml|PerfectionFromBeyondTheStars/ConstructDefensesWithoutCreche/DefendLab
+EN: <style name='Bold'/>Defend the lab:<style name='Paragraph'/> Communicating with these lesser minds would have been useless. They would have tried to stop you anyway.
+UK: <style name='Bold'/>Захистити лабораторію:<style name='Paragraph'/> Буде безглуздо шукати спільну мову з цими недалекими умами. Вони в будь-якому випадку спробують тебе зупинити.
+
+## Quests.xml|PerfectionFromBeyondTheStars/ConstructDefensesWithCreche
+EN: The Hexeskeltal Creche is one of your finest inventions. All of the contours of this unique laboratory are designed to channel the alien energies into your waiting vessel.<string name='Quests/PerfectionFromBeyondTheStars/ConstructDefenses'/>
+UK: Гексоскелетні ясла — одне з твоїх найкращих винаходів. Усі контури цієї унікальної лабораторії призначені для перенаправлення інопланетних енергій у підготовлений тобою посуд.<string name='Quests/PerfectionFromBeyondTheStars/ConstructDefenses'/>
+
+## Quests.xml|PerfectionFromBeyondTheStars/DefendLabSuccess
+EN: It is done.<br/>
+    <br/>
+    While your soldiers fought tooth and nail, you did the impossible. You tracked the approach of Hwedo's Comet, you activated key satellites in orbit, and you yanked the force out of that space-traversing rock and into your laboratory.<br/>
+    <br/>
+    Across the wasteland, all eyes turned toward your lab and watched a magnificent bright light descend from the heavens—briefly splitting into parts before being absorbed by your array.<br/>
+    <br/>
+    You race back to the main lab—and freeze right as you enter the chamber. Blood is spattered across the floor, and your lab technicians are all cowering in the corners. Your creation sits on the stone slab, examining the now fileted body of a slain scientist…<br/>
+    <br/>
+    It tilts its head toward you, and says in a low tone “Hwedo. Hungers.”
+UK: Робота зроблена.<br/>
+    <br/>
+    Поки твої солдати билися, не шкодуючи своїх життів, ти здійснила неможливе. Ти відстежила наближення комети Хведо, активувала потрібні супутники на орбіті та влила енергію цього космічного кам’яного мандрівника у свою лабораторію.<br/>
+    <br/>
+    Погляди всієї пустки звернулися до твоєї лабораторії і спостерігали величну колону світла, яка обрушилася з небес і розділилася на різні потоки, поглинаючись твоїми уловлювачами.<br/>
+    <br/>
+    Ти поспішаєш до головного залу — і застигаєш просто на порозі. Підлога залита кров’ю, а лаборанти ховаються по кутах. Твоє творіння сидить на кам’яній плиті, вивчаючи випотрошене тіло мертвого вченого...<br/>
+    <br/>
+    Воно повертає до тебе голову і промовляє низьким голосом: «Хведо. Голодне».
+
+## Quests.xml|PerfectionFromBeyondTheStars/DefendLabSuccess/HwedoFight
+EN: <style name='Bold'/>Let Hwedo rage upon your enemies:<style name='Paragraph'/> Your creation hungers for blood. But how did it know the name you gave the comet?
+UK: <style name='Bold'/>Натравити Хведо на твоїх ворогів:<style name='Paragraph'/> Твоє створіння жадає крові. Але як воно дізналося ім’я, яке ти дала кометі?
+
+## Quests.xml|PerfectionFromBeyondTheStars/DefendLabSuccess/HwedoFeed
+EN: <style name='Bold'/>Contain Hwedo:<style name='Paragraph'/> The beast can be sated—if you are willing to sacrifice your own people.
+UK: <style name='Bold'/>Утримати Хведо:<style name='Paragraph'/> Звіра можна нагодувати — якщо ти не проти пожертвувати власними людьми.
+
+## Quests.xml|PerfectionFromBeyondTheStars/HwedoFightSuccess
+EN: You have indeed made a fine monster.<br/>
+    <br/>
+    Hwedo's cybernetic components grant it limited access to ZEPHON's global network, and it can use that knowledge to track down its prey. The layer of Acrin meat you installed is preventing the metal components from infecting its human skin—and the combined synergy of the materials causes the creature's body to regenerate at an accelerated rate.<br/>
+    <br/>
+    How fascinating. You'd never anticipated the creature would be such a ruthless killer.<br/>
+    <br/>
+    You were only interested in its mind.<br/>
+    <br/>
+    The technicians have completed repairs to your lab. The most crucial restoration was the rebuilding of the Brukhocanopic Chamber—a vessel for Hwedo's brain.<br/>
+    <br/>
+    If your idiot assistants had done their jobs right, they'd have been able to sedate the creature and remove its brain before it woke up. They paid a price for their mistake.<br/>
+    <br/>
+    You send a message to your commanders: “Bring the beast in. Make sure not to damage the head.”
+UK: І справді вийшов хороший монстр.<br/>
+    <br/>
+    Кібернетичні компоненти Хведо дають йому обмежений доступ до глобальної мережі ЗЕФОНу, і він може користуватися цими даними, вислідковуючи здобич. Слой акринської плоті захищає людську шкіру від зараження металевими компонентами, а поєднання матеріалів наділяє тіло тварини швидкою регенерацією.<br/>
+    <br/>
+    Вражає. Ти ніколи не очікувала, що створіння стане настільки ефективним вбивцею.<br/>
+    <br/>
+    Тебе цікавив лише його мозок.<br/>
+    <br/>
+    Техніки завершили ремонт лабораторії. Найважливішою частиною було відновлення брукоканопічної камери — судини для мозку Хведо.<br/>
+    <br/>
+    Якби твої безголові помічники працювали краще, вони б приспали створіння та витягли його мозок ДО пробудження. Вони заплатили за свою помилку.<br/>
+    <br/>
+    Ти передаєш своїм командирам наказ: «Приручити тварину. Голова ні в якому разі не повинна постраждати».
+
+## Quests.xml|PerfectionFromBeyondTheStars/HwedoFightSuccess/KillHwedo
+EN: <style name='Bold'/>Kill Hwedo:<style name='Paragraph'/> The cosmic intelligence you captured is more valuable than any one soldier. Do what it takes to reclaim it.
+UK: <style name='Bold'/>Знищити Хведо:<style name='Paragraph'/> Захоплений тобою космічний розум набагато цінніший за будь-якого окремого солдата. Потрібно здобути його будь-якими засобами.
+
+## Quests.xml|PerfectionFromBeyondTheStars/HwedoFeedSuccess
+EN: You never tell your people that letting Hwedo feed on them was your decision. But they know. Whispers drip from the offices of your foolish advisors down through the gutter and into the streets. Every civilian in your domain knows that it was %1% who sacrificed them to the monster.<br/>
+    <br/>
+    And yet they do not flee. They do not rebel. They cower, and merely hope Hwedo will not feast on their bones.<br/>
+    <br/>
+    Hwedo's feasting distracts the beast from your true project: rebuilding your lab and most importantly, rebuilding the Brukocanopic Chamber; the device that will hold Hwedo's brain.<br/>
+    <br/>
+    If your idiot assistants had done their jobs right, they'd have been able to sedate the creature and remove its brain before it woke up. They paid a price for their mistake.<br/>
+    <br/>
+    You send a message to your commanders: “Bring the beast in. Make sure not to damage the head.”
+UK: Ти не кажеш своїм людям, що дозволити Хведо годуватися ними було твоїм рішенням. Але вони й так знають. Чутки просочуються з кабінетів твоїх дурнуватих радників прямо на вулиці. Кожен мешканець твоїх володінь знає: %1% принесла їх монстру в жертву.<br/>
+    <br/>
+    І все ж вони не тікають. Вони не повстають. Вони лише тремтять від страху і сподіваються, що Хведо з’їсть когось іншого.<br/>
+    <br/>
+    Годування відволікає Хведо від твого справжнього проєкту: відновлення лабораторії та, що найважливіше, брукоканопічної камери — пристрою, у якому зберігатиметься мозок Хведо.<br/>
+    <br/>
+    Якби твої безголові помічники працювали краще, вони б приспали створіння та витягли його мозок ДО пробудження. Вони заплатили за свою помилку.<br/>
+    <br/>
+    Ти передаєш своїм командирам наказ: «Приручити тварину. Голова ні в якому разі не повинна постраждати».
+
+## Quests.xml|PerfectionFromBeyondTheStars/KillHwedoSuccess
+EN: Your soldiers return to the lab with Hwedo's head in a cryo-freezer, and rush to secure it in the Brukocanopic Chamber. The brain now floats in a semi-placental fluid that glows with a sickly green light.<br/>
+    <br/>
+    A nearby monitor displays the brain's vital signs, and you are furious at how weak they are. You will find the soldier responsible for this and have them executed.<br/>
+    <br/>
+    But hours pass, and the vital signs tick upward. <string name='Quests/PerfectionFromBeyondTheStars/KillHwedoSuccess2'/>
+UK: Солдати повертаються в лабораторію, привозячи голову Хведо у кріо-холодильнику, і ти швидко переносиш мозок у брукоканопічну камеру. Тепер він плаває серед світної кислотно-зеленої псевдоплацентарної рідини.<br/>
+    <br/>
+    На моніторі відображаються життєві показники мозку, і ти в люті від того, наскільки вони слабкі. Ти з’ясуєш, через якого солдата це сталося, і стратиш його.<br/>
+    <br/>
+    Але проходять кілька годин, і показники починають зростати.<string name='Quests/PerfectionFromBeyondTheStars/KillHwedoSuccess2'/>
+

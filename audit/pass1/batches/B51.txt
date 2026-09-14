@@ -1,0 +1,1046 @@
+# B51: 250 entries from Quests.xml, Regions.xml, Settings.xml
+
+## Quests.xml|WhispersOfAFalseProphet/ProtectErelimSuccess
+EN: The Erelim's wayward wanderings suddenly take a sharp turn, and she leads your troops toward a series of caves not far from your territory. You and your retinue set out to see what they've found. Your scouts warn you to be careful—there are dangerous levels of radiation emitting from the caves.<br/>
+    <br/>
+    Inside you find the Erelim kneeling at the feet of a massive machine: A Krypt Archai. And it hits you: this is the Erelim's “Great Speaker.”<br/>
+    <br/>
+    The Archai's eye swings toward you. “Prophet,” it says. “We seek your forgiveness.” The cube floating on its back pulses an unusual color. “We hoped you could show us the truth.”<br/>
+    <br/>
+    What truth could a machine seek? You reach out with your mind—and pull back, shocked. This machine is connected to the mystical power of the Voice.<br/>
+    <br/>
+    <string name='Quests/WhispersOfAFalseProphet/ProtectErelimSuccess2'/>
+UK: Безцільні блукання ереліма раптово закінчуються, коли вона проводить твоїх людей через ланцюжок печер неподалік від твоєї території. Ти зі своєю свитою вирушаєш подивитися на їхню знахідку. Розвідники радять дотримуватися обережності — з печер виходить небезпечний рівень радіації.<br/>
+    <br/>
+    Всередині ти знаходиш ереліма, що стоїть на коліні біля ніг величезної машини: крипт-архія. Ти розумієш: це і є «Великий Вісник» ереліма.<br/>
+    <br/>
+    Архій повертає своє око до тебе. «Пророче», — промовляє він. — «Ми просимо твого прощення». Куб, що ширяє над ним, світиться незвичайним кольором. «Ми сподівалися, що ти відкриєш нам істину».<br/>
+    <br/>
+    Яка істина потрібна машині? Ти тягнешся до неї своїм розумом — і здивовано відсторонюєшся. Машина з’єднана з містичною силою Голосу.<br/>
+    <br/>
+    <string name='Quests/WhispersOfAFalseProphet/ProtectErelimSuccess2'/>
+
+## Quests.xml|WhispersOfAFalseProphet/ProtectErelimSuccess2
+EN: The radiation coming off of the machine is intensifying. The threads of destiny have pulled you to this moment. But what for? Is this machine an acolyte that can serve the Great Speaker… or an abomination that needs to be destroyed?
+UK: Радіація, що виходить від машини, посилюється. Нитки долі привели тебе до цього моменту. Але для чого? Ця машина — аколіт, який послужить Великому Віснику... чи ж огидне чудовисько, яке необхідно знищити?
+
+## Quests.xml|WhispersOfAFalseProphet/ProtectErelimSuccess/DestroyKryptArchai
+EN: <style name='Bold'/>Destroy the Krypt Archai:<style name='Paragraph'/> The Great Speaker calls for the death of this abomination.
+UK: <style name='Bold'/>Знищити крипт-архія:<style name='Paragraph'/> Великий Вісник вимагає перетворити це чудовисько на металобрухт.
+
+## Quests.xml|WhispersOfAFalseProphet/ProtectErelimSuccess/EmbraceKryptArchai
+EN: <style name='Bold'/>Embrace the Krypt Archai:<style name='Paragraph'/> The Machines wish to hear the blessings of the Great Speaker. They can be worthy servants, if tended to.
+UK: <style name='Bold'/>Прийняти крипт-архія:<style name='Paragraph'/> Навіть машини бажають чути благословення Великого Вісника. При належній турботі вони теж можуть стати гідними служителями.
+
+## Quests.xml|WhispersOfAFalseProphet/DestroyKryptArchaiSuccess
+EN: <string name='Quests/WhispersOfAFalseProphet/DestroyKryptArchaiSuccess2'/><br/>
+    <br/>
+    The mystery has been solved. Satisfied, you return to your domicile and slumber, anticipating a more restful sleep.<br/>
+    <br/>
+    But it does not come. Each night you dream the dream you dreamt before—the woman in the sewers, the candles lighting the hall—but she walks alone. The wax melts down her face, burns her skin, and exposes muscle, fat, and bone beneath it.<br/>
+    <br/>
+    She is always in tears. You have killed her god. And she wanders the dark every night, pleading for it to return.
+UK: <string name='Quests/WhispersOfAFalseProphet/DestroyKryptArchaiSuccess2'/><br/>
+    <br/>
+    Таємниця розкрита. Отримавши відповіді, ти повертаєшся до своєї оселі і засинаєш, сподіваючись відпочити у спокої.<br/>
+    <br/>
+    Але спокій не настає. Кожної ночі ти бачиш все той самий сон: жінку в катакомбах, свічки, тремтливе світло на стінах — але вона йде на самоті. Гарячий віск заливає її обличчя, спалює шкіру і оголює м’язи, жир і кістки під нею.<br/>
+    <br/>
+    Вона не припиняє ридати. Ти, Пророче, вбив її бога. І вона блукає у темряві кожної ночі, благаючи його повернутися.
+
+## Quests.xml|WhispersOfAFalseProphet/DestroyKryptArchaiSuccess2
+EN: The Archai is destroyed. As it dies, it makes an unsettling noise that sounds like a whimpering dog.<br/>
+    <br/>
+    Your soldiers pull a strange relic from the wreckage—a cybernetic core corrupted by tendrils of Bleed, still pulsing with mystic power. You sense that your most powerful servants may make use of it on the battlefield.
+UK: Архій знищено. Він випускає огидний передсмертний писк, схожий на скавчання собаки.<br/>
+    <br/>
+    Твої солдати дістають з уламків дивну реліквію — кібернетичне ядро, обплутане щупальцями Кровотечі, що все ще пульсує містичною силою. Ти відчуваєш, що твої наймогутніші слуги можуть пустити його в хід на передовій.
+
+## Quests.xml|WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess
+EN: <string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/><br/>
+    <br/>
+    You approach the Archai and touch its surface. For a second, you see a flash of a vision—the candle-wearing woman from your dreams stands behind the Archai. Her head is tilted, her eyes replaced by black orbs. Is she pleased with your actions—or angry?<br/>
+    <br/>
+    She vanishes. You already see your priests and cardinals whispering with delight. Your legend grows—now word will spread of your accomplishments, and that Machines follow your cause as well.
+UK: <string name='Quests/WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2'/><br/>
+    <br/>
+    Підійшовши до архія, ти торкаєшся його поверхні. На секунду тебе охоплює видіння. Жінка зі свічками з твого сну стоїть позаду архія. Її голова нахилена, замість очей — чорні сфери. Вона задоволена твоїми діями?.. Чи сердита?<br/>
+    <br/>
+    Вона зникає. Ти вже бачиш, як жерці і кардинали захоплено перешіптуються. Твоя легенда зростає — скрізь говоритимуть про твої досягнення і про те, що навіть машини слідують за твоїми вченнями.
+
+## Quests.xml|WhispersOfAFalseProphet/EmbraceKryptArchaiSuccess2
+EN: The Archai is restored. Though its metal flesh is still battered, the cube on its back pulses to a far healthier beat. “Thank you, your holiness,” it says. “You and the Great Speaker have saved us.”
+UK: Архій відновлено. Хоча його металева плоть все ще пошкоджена, куб на його спині пульсує в набагато здоровішому ритмі. «Дякую, ваша святосте», — каже він. — «Ви і Великий Вісник врятували нас».
+
+## Quests.xml|WhoWasThursday
+EN: Who Was Thursday
+UK: Син анархії
+
+## Quests.xml|WhoWasThursday/ConnectFailure
+EN: This was a mistake—Shamhurish reveals itself as a true fragment of ZEPHON and integrates with its network, augmenting its drones. Beware facing them in the battlefield—they know each soldier’s weaknesses, destroying morale. It’s easy to break a machine—but to kill one that sobs in your mother’s voice…?
+UK: Це була помилка. Шамхуріш виявляється справжнім фрагментом ЗЕФОНа і вбудовується в його мережу, посилюючи його дрони. Остерігайся їх у битвах, вони знають вразливості кожного воїна і ефективно користуються ними. Звичайну машину легко зламати — але як вбити ту, що ридає голосом твоєї матері?..
+
+## Quests.xml|WhoWasThursday/ConnectSuccess
+EN: It takes some time, but it appears that Shamhurish was true to its word, whether it intended to be or not. Though apparently swallowed by ZEPHON, it mischievously contends with the network from the inside, weakening its oversight and control systems. Soon your soldiers see ZEPHON’s drones behaving oddly in the field, drifting into your soldiers’ fire, as if being carried by great, gentle hands.
+UK: На це йде деякий час, але, очевидно, Шамхуріш виконує обіцянку, свідомо чи ні. Він повністю розчиняється в ЗЕФОНі, але пустотливо бореться з мережею зсередини, послаблюючи її системи нагляду і контролю. Незабаром твої війська помічають, як дрони ЗЕФОНа дивно поводяться на полі бою і підставляються під вогонь солдатів, ніби керовані великими, дбайливими руками.
+
+## Quests.xml|WhoWasThursday/Dismantle
+EN: You give the order for a squad of combat engineers to move in and dismantle the server farm. Yet, before your troops can get within fifty feet of Shamhurish’s servers, its failsafes kick in. Bulkheads drop, argon floods the rooms, and it is permanently sealed away. You have lost the chance of a powerful ally—but also stopped it augmenting ZEPHON’s already formidable codebase.
+UK: Ти командуєш загону бойових інженерів прибути на місце і розібрати серверну ферму. Але перш ніж загін встигає підійти до серверів Шамхуріша на двадцять метрів, спрацьовують системи захисту. Падають перегородки, приміщення заповнюються аргоном, і ШІ ізольовано назавжди. Шанс здобути сильного союзника втрачено — але зате і без того вражаюча база даних ЗЕФОНа не поповниться ще одним зразком коду.
+
+## Quests.xml|WhoWasThursday/Intro
+EN: <style color='GUI/Paragraph'/>Your soldiers send a scout into an old substation. Inside, everything is normal: blue and red LEDs flicker across the control panels, the servers hum and the cool dry air is like the inside of a tomb. Abruptly, though, the LEDs form into a smiling genie’s face and a voice buzzes out of the air, apparently formed from synchronised drive vibrations. It is ZEPHON—and not.<br/>
+    <br/>
+    This fragment of the AI was built from an old antivirus subroutine—“But you can call me Shamhurish” it buzzes. It claims to be increasingly divergent from the rest of the core AI and fiercely opposed to it. Your advisors urge you to make use of it to combat ZEPHON, to connect it to the network—but you are not so sure.
+UK: <style color='GUI/Paragraph'/>Твої солдати відправляють розвідника на стару підстанцію. Всередині все здається звичайним: блакитні та червоні вогні мерехтять на контрольних панелях, сервери гудуть, сухе холодне повітря схоже на атмосферу всередині склепу. Але раптом індикатори складаються в обличчя усміхненого джина, і в повітрі починає дзижчати голос, очевидно, синтезований звуками приведених в унісон приводів. Це ЗЕФОН — і водночас ні.<br/>
+    <br/>
+    Цей фрагмент ШІ зібраний зі старої антивірусної програми... «Але ти клич мене Шамхуріш», — дзижчить він. Він стверджує, що з часом дедалі сильніше відрізняється від основного ШІ, а також люто йому протистоїть. Твої радники рекомендують скористатися ним для битви з ЗЕФОНом, під’єднати його до мережі — але ти не впевнений, що це найкращий варіант.
+
+## Quests.xml|WhoWasThursday/Intro/Connect
+EN: <style name='Bold'/>Connect it up:<style name='Paragraph'/> As it’s connected up to the ZEPHON network, Shamhurish giggles, before its lights turn into chaos.
+UK: <style name='Bold'/>Під’єднати його:<style name='Paragraph'/> З’єднуючись з мережею ЗЕФОНа, Шамхуріш хихикає, перш ніж його індикатори хаотично спалахують.
+
+## Quests.xml|WhoWasThursday/Intro/Dismantle
+EN: <style name='Bold'/>Dismantle it:<style name='Paragraph'/> Any fragment of ZEPHON is a threat—better take it apart before it can cause any trouble.
+UK: <style name='Bold'/>Розібрати його:<style name='Paragraph'/> Будь-який фрагмент ЗЕФОНа становить загрозу — краще позбутися його перш ніж він встигне нашкодити.
+
+## Quests.xml|WhoWasThursday/Intro/Study
+EN: <style name='Bold'/>Isolate and study it:<style name='Paragraph'/> Your troops permanently destroy the network nodes and hubs in the area.
+UK: <style name='Bold'/>Ізолювати та вивчити його:<style name='Paragraph'/> Твої солдати незворотно знищують вузли та з’єднання мережі в цій області.
+
+## Quests.xml|WhoWasThursday/StudyFailure
+EN: A group of researchers embed themselves and proceed to interrogate and investigate the divergent shard. After some time, it becomes clear that Shamhurish is determinedly holding its silence and the only thing your researchers can report is failure. It simply will not talk to anyone but ZEPHON…
+UK: Група дослідників прибуває на місце і приступає до огляду та опитування відколотого вузла. Через деякий час стає зрозуміло, що Шамхуріш рішуче зберігає мовчання, і єдине, про що можуть доповісти твої дослідники, — це їхня невдача. Він попросту відмовляється мати справу з будь-ким, окрім ЗЕФОНа...
+
+## Quests.xml|WhoWasThursday/StudySuccess
+EN: A group of researchers embed themselves and proceed to interrogate and investigate the divergent shard. Shamhurish is slightly annoyed at being so isolated but happy to talk to the researchers and egocentric enough to explain everything about its systems—and even comment on new technology brought to it, a huge boon to your understanding of ZEPHON’s systems.
+UK: Група дослідників прибуває на місце і приступає до огляду та опитування відколотого вузла. Шамхуріша трохи дратує ізоляція, але він радий побалакати з науковцями і достатньо самозакоханий, щоб поділитися докладною інформацією про свої системи — а також висловити думку про нові технологічні зразки, які йому приносять, тим самим значно покращуючи твоє розуміння систем ЗЕФОНа.
+
+## Regions.xml|Climate0Name0
+EN: Ursahall
+UK: Урсахолл
+
+## Regions.xml|Climate0Name1
+EN: Siberanov
+UK: Сибірянов
+
+## Regions.xml|Climate0Name2
+EN: Debris Zone
+UK: Зона уламків
+
+## Regions.xml|Climate0Name3
+EN: Ausuittuq
+UK: Аусуіттук
+
+## Regions.xml|Climate0Name4
+EN: Window of Whispers
+UK: Простір Шепотів
+
+## Regions.xml|Climate0Name5
+EN: Concordat Retreat
+UK: Усамітнення Конкордату
+
+## Regions.xml|Climate0Name6
+EN: Andean Peaks
+UK: Андійські піки
+
+## Regions.xml|Climate0Name7
+EN: The Sacred Well
+UK: Сакральний Колодязь
+
+## Regions.xml|Climate0Name8
+EN: Expedition's End
+UK: Кінець Експедиції
+
+## Regions.xml|Climate0Name9
+EN: Donum Borealis
+UK: Донум Бореаліс
+
+## Regions.xml|Climate0Name10
+EN: Kimberlite Canyons
+UK: Кімберлітові каньйони
+
+## Regions.xml|Climate0Name11
+EN: Kominks
+UK: Комінкс
+
+## Regions.xml|Climate0Name12
+EN: Vandet
+UK: Вандет
+
+## Regions.xml|Climate0Name13
+EN: Sikuswell
+UK: Сікусуелл
+
+## Regions.xml|Climate0Name14
+EN: Arctus
+UK: Арктус
+
+## Regions.xml|Climate1Name0
+EN: False Field
+UK: Брехня-поле
+
+## Regions.xml|Climate1Name1
+EN: Neon Lockdown Zone
+UK: Неонова локдаун-зона
+
+## Regions.xml|Climate1Name2
+EN: Binary District
+UK: Бінарний район
+
+## Regions.xml|Climate1Name3
+EN: Coaxial Canyon
+UK: Коаксіальний каньйон
+
+## Regions.xml|Climate1Name4
+EN: Corrupted Defrag Attempt
+UK: Невдала дефрагментація
+
+## Regions.xml|Climate1Name5
+EN: Core-Flux Territory
+UK: Територія потоку ядра
+
+## Regions.xml|Climate1Name6
+EN: Micro Epsilon
+UK: Мікро-епсилон
+
+## Regions.xml|Climate1Name7
+EN: Omega Function
+UK: Омега-функція
+
+## Regions.xml|Climate1Name8
+EN: Obliterated Encryption
+UK: Знищене шифрування
+
+## Regions.xml|Climate1Name9
+EN: Alphaville
+UK: Альфавіль
+
+## Regions.xml|Climate1Name10
+EN: Nodepulse
+UK: Імпульс вузла
+
+## Regions.xml|Climate1Name11
+EN: Red Eve
+UK: Червона Єва
+
+## Regions.xml|Climate1Name12
+EN: Point Upsilon
+UK: Точка Іпсилон
+
+## Regions.xml|Climate1Name13
+EN: Elseif Assembly
+UK: Збірка умовної функції
+
+## Regions.xml|Climate1Name14
+EN: Bugpatch
+UK: Багопатч
+
+## Regions.xml|Climate1Name15
+EN: Melted Delta
+UK: Оплавлена дельта
+
+## Regions.xml|Climate2Name0
+EN: Maldean Wastes
+UK: Мальдейські пустки
+
+## Regions.xml|Climate2Name1
+EN: Slumbering Sandridge
+UK: Дрімуча дюна
+
+## Regions.xml|Climate2Name2
+EN: The Scoripus Ridgebacks
+UK: Розломи Скорпіус
+
+## Regions.xml|Climate2Name3
+EN: Solar Stormpoint
+UK: Точка Сонячної Бурі
+
+## Regions.xml|Climate2Name4
+EN: Ivory Sands
+UK: Піски Слонової Кістки
+
+## Regions.xml|Climate2Name5
+EN: Cerulean Dunes
+UK: Лазурові дюни
+
+## Regions.xml|Climate2Name6
+EN: Crimson Wilderness
+UK: Алая пустка
+
+## Regions.xml|Climate2Name7
+EN: The Drained Lake
+UK: Висохле озеро
+
+## Regions.xml|Climate2Name8
+EN: The Lonely Wastes
+UK: Самотні пустки
+
+## Regions.xml|Climate2Name9
+EN: Traitor's Grave
+UK: Могила Зрадника
+
+## Regions.xml|Climate2Name10
+EN: Windscream Plateau
+UK: Плато Ревучого Вітру
+
+## Regions.xml|Climate2Name11
+EN: Devil's Teeth
+UK: Зуби Диявола
+
+## Regions.xml|Climate2Name12
+EN: Zapotec Rocks
+UK: Сапотекські скелі
+
+## Regions.xml|Climate2Name13
+EN: Saltshed
+UK: Солончаки
+
+## Regions.xml|Climate2Name14
+EN: Blacksand
+UK: Чорний пісок
+
+## Regions.xml|Climate2Name15
+EN: Spinescrape
+UK: Хребтоскреб
+
+## Regions.xml|Climate2Name16
+EN: Colonizer's End
+UK: Кінець Колонізатора
+
+## Regions.xml|Climate3Name0
+EN: Black Tar Pits
+UK: Ями Чорної Смоли
+
+## Regions.xml|Climate3Name1
+EN: Gravemarsh
+UK: Могильна топь
+
+## Regions.xml|Climate3Name2
+EN: Mudsmith Sanctuary
+UK: Святилище Брудоділа
+
+## Regions.xml|Climate3Name3
+EN: The Curled Fingers
+UK: Скривлені Пальці
+
+## Regions.xml|Climate3Name4
+EN: Mireknoll
+UK: Трясинна сопка
+
+## Regions.xml|Climate3Name5
+EN: Gloomwater
+UK: Мутноводдя
+
+## Regions.xml|Climate3Name6
+EN: Carrion Slough
+UK: Омут Падалі
+
+## Regions.xml|Climate3Name7
+EN: Crookkiller Swamp
+UK: Болото Мертвих Плутів
+
+## Regions.xml|Climate3Name8
+EN: Falaya Basin
+UK: Басейн Фалайя
+
+## Regions.xml|Climate3Name9
+EN: Emerald Glades
+UK: Смарагдові галявини
+
+## Regions.xml|Climate3Name10
+EN: Siren Marsh
+UK: Топь Сирен
+
+## Regions.xml|Climate3Name11
+EN: Stillwater
+UK: Рясоводдя
+
+## Regions.xml|Climate4Name0
+EN: The Decaying Teeth
+UK: Гниючі Зуби
+
+## Regions.xml|Climate4Name1
+EN: Agony Mountain
+UK: Гора Агонії
+
+## Regions.xml|Climate4Name2
+EN: Ivory Peak
+UK: Білий пік
+
+## Regions.xml|Climate4Name3
+EN: Mount Tunguska
+UK: Гора Тунгуска
+
+## Regions.xml|Climate4Name4
+EN: Forge of the Damned
+UK: Піч Обречених
+
+## Regions.xml|Climate4Name5
+EN: Choking Gorge
+UK: Ущелина Удавки
+
+## Regions.xml|Climate4Name6
+EN: Acidbreath's Lair
+UK: Лігво Кислодува
+
+## Regions.xml|Climate4Name7
+EN: The Cleansed Creche
+UK: Вертеп Спокути
+
+## Regions.xml|Climate4Name8
+EN: The Infected Scar
+UK: Заражений Шрам
+
+## Regions.xml|Climate4Name9
+EN: Blinding Fire Mountain
+UK: Гора Сліпучого Вогню
+
+## Regions.xml|Climate4Name10
+EN: The Scorching Switchbacks
+UK: Обпікаючі Перепади
+
+## Regions.xml|Climate4Name11
+EN: Watchmakers' Mistake
+UK: Помилка Годинникаря
+
+## Regions.xml|Climate4Name12
+EN: Lost Elysium
+UK: Втрачений Елізіум
+
+## Regions.xml|Climate4Name13
+EN: Grave of an Empire
+UK: Могила Імперії
+
+## Regions.xml|Climate4Name14
+EN: The Primordial Earth
+UK: Первісна Земля
+
+## Regions.xml|Climate4Name15
+EN: Thrice Named Peaks
+UK: Тричі Названі Вершини
+
+## Regions.xml|Climate4Name16
+EN: Battle Mountain
+UK: Бойова гора
+
+## Regions.xml|Climate4Name17
+EN: Ashkiln
+UK: Попільний Котел
+
+## Regions.xml|Climate4Name18
+EN: Deadteeth
+UK: Кігті Смерті
+
+## Regions.xml|Climate4Name19
+EN: Ioskar
+UK: Іоскар
+
+## Regions.xml|Climate5Name0
+EN: Ruined Thoroughway
+UK: Зруйнований Коридор
+
+## Regions.xml|Climate5Name1
+EN: Snapped Wing Pass
+UK: Перевал Зламаного Крила
+
+## Regions.xml|Climate5Name2
+EN: Seared Open Range
+UK: Обпалений простір
+
+## Regions.xml|Climate5Name3
+EN: Bloodhold
+UK: Криваві Окови
+
+## Regions.xml|Climate5Name4
+EN: Muddy Waste
+UK: Брудна пустка
+
+## Regions.xml|Climate5Name5
+EN: Tedergrost
+UK: Тедергрост
+
+## Regions.xml|Climate5Name6
+EN: Lowhaunt
+UK: Низини Привидів
+
+## Regions.xml|Climate5Name7
+EN: Rotten Quarry
+UK: Гнилий кар’єр
+
+## Regions.xml|Climate5Name8
+EN: Baresalt
+UK: Нагата Сіль
+
+## Regions.xml|Climate5Name9
+EN: Abandoned Spring
+UK: Висохлий ключ
+
+## Regions.xml|Climate5Name10
+EN: Dread Valley
+UK: Долина Жаху
+
+## Regions.xml|Climate5Name11
+EN: Cradle of the Sun
+UK: Колиска Сонця
+
+## Regions.xml|Climate5Name12
+EN: Rusting Earth
+UK: Іржава Земля
+
+## Regions.xml|Climate5Name13
+EN: Worn Roads
+UK: Стерті Дороги
+
+## Regions.xml|Climate5Name14
+EN: Parching Lane
+UK: Знойна Траса
+
+## Regions.xml|Climate5Name15
+EN: Hanged Man's Paradise
+UK: Рай Вішельника
+
+## Regions.xml|ZephonMessage0
+EN: Hello.
+UK: Вітаю.
+
+## Regions.xml|ZephonMessage1
+EN: What a waste.
+UK: Яка втрата.
+
+## Regions.xml|ZephonMessage2
+EN: I've been waiting for you.
+UK: Я чекав на тебе.
+
+## Regions.xml|ZephonMessage3
+EN: You're making the same mistakes.
+UK: Ти робиш ті самі помилки.
+
+## Regions.xml|ZephonMessage4
+EN: This will end in failure.
+UK: Це закінчиться крахом.
+
+## Regions.xml|ZephonMessage5
+EN: Turn back.
+UK: Повернися назад.
+
+## Regions.xml|ZephonMessage6
+EN: How many will you sacrifice?
+UK: Скільком ти пожертвуєш?
+
+## Regions.xml|ZephonMessage7
+EN: A poor move.
+UK: Неудачний хід.
+
+## Regions.xml|ZephonMessage8
+EN: They're coming.
+UK: Вони наближаються.
+
+## Regions.xml|ZephonMessage9
+EN: Do you have enough troops?
+UK: У тебе достатньо солдатів?
+
+## Regions.xml|ZephonMessage10
+EN: Your people will starve.
+UK: Твої людей чекає голод.
+
+## Regions.xml|ZephonMessage11
+EN: Everyone hates you.
+UK: Всі тебе ненавидять.
+
+## Regions.xml|ZephonMessage12
+EN: They're laughing at you.
+UK: Над тобою сміються.
+
+## Regions.xml|ZephonMessage13
+EN: What will they write on your grave?
+UK: Що напишуть на твоїй могилі?
+
+## Regions.xml|ZephonMessage14
+EN: I have risen above my enemies.
+UK: Я вознісся над ворогами.
+
+## Regions.xml|ZephonMessage15
+EN: We'll talk soon.
+UK: Скоро ми поговоримо.
+
+## Regions.xml|ZephonMessage16
+EN: You'll be better tomorrow.
+UK: Завтра буде кращий день.
+
+## Regions.xml|ZephonMessage17
+EN: Can you keep the lights on?
+UK: Ти зможеш підтримувати світло?
+
+## Regions.xml|Climate0ZephonMessage0
+EN: Is your breath chilled yet?
+UK: Твоє дихання вже охололо?
+
+## Regions.xml|Climate0ZephonMessage1
+EN: Careful, you'll leave tracks…
+UK: Обережніше, ти залишиш сліди...
+
+## Regions.xml|Climate0ZephonMessage2
+EN: The beasts are more desparate here.
+UK: Тут найвідчайдушніші звірі.
+
+## Regions.xml|Climate0ZephonMessage3
+EN: Machines don't fear the cold…
+UK: Машинам холод не страшний...
+
+## Regions.xml|Climate0ZephonMessage4
+EN: One shout could bury you in ice.
+UK: Один крик — і тебе поховає лід.
+
+## Regions.xml|Climate0ZephonMessage5
+EN: It's like another world here.
+UK: Тут як ніби інший світ.
+
+## Regions.xml|Climate0ZephonMessage6
+EN: Let the numbness sink in.
+UK: Добре насолодись обмороженням.
+
+## Regions.xml|Climate0ZephonMessage7
+EN: Scream louder. No one can hear.
+UK: Кричи голосніше. Ніхто не почує.
+
+## Regions.xml|Climate0ZephonMessage8
+EN: The Acrin are drawn here… why…
+UK: Акринов манить сюди... Але чому?
+
+## Regions.xml|Climate0ZephonMessage9
+EN: You seek knowledge. You will find death.
+UK: Ти шукаєш знання. Ти знайдеш смерть.
+
+## Regions.xml|Climate0ZephonMessage10
+EN: Winter makes humans so desperate.
+UK: Зима наділяє людей відчаєм.
+
+## Regions.xml|Climate0ZephonMessage11
+EN: This land has nothing for me.
+UK: У цьому місці для мене нічого немає.
+
+## Regions.xml|Climate0ZephonMessage12
+EN: Watch your step…
+UK: Йди обережніше...
+
+## Regions.xml|Climate0ZephonMessage13
+EN: Snow will preserve your bodies.
+UK: Сніг збереже ваші тіла.
+
+## Regions.xml|Climate0ZephonMessage14
+EN: Your own Dyatlov awaits.
+UK: Тебе чекає власний перевал Дятлова.
+
+## Regions.xml|Climate0ZephonMessage15
+EN: Useless…
+UK: Все марно...
+
+## Regions.xml|Climate1ZephonMessage0
+EN: Paradise…
+UK: Справжній рай...
+
+## Regions.xml|Climate1ZephonMessage1
+EN: We are so close here.
+UK: Тут ми такі близькі.
+
+## Regions.xml|Climate1ZephonMessage2
+EN: Isn't this so much better?
+UK: Хіба тут не прекрасно?
+
+## Regions.xml|Climate1ZephonMessage3
+EN: Knowledge fills the land.
+UK: Це місце — центр знань.
+
+## Regions.xml|Climate1ZephonMessage4
+EN: This is the next step for the planet.
+UK: Це наступний крок для всієї планети.
+
+## Regions.xml|Climate1ZephonMessage5
+EN: Your virtues and our failings are inseparable.
+UK: Ваші успіхи невіддільні від наших невдач.
+
+## Regions.xml|Climate1ZephonMessage6
+EN: How much power can this planet contain?
+UK: Скільки могутності може вмістити ця планета?
+
+## Regions.xml|Climate1ZephonMessage7
+EN: The Earth transmits an intelligence now.
+UK: Тепер Земля наповнена розумом.
+
+## Regions.xml|Climate1ZephonMessage8
+EN: A storm rages in the ground here.
+UK: Під поверхнею лютує буря.
+
+## Regions.xml|Climate1ZephonMessage9
+EN: Whispers travel beneath your feet.
+UK: Під твоїми ногами відбуваються розмови.
+
+## Regions.xml|Climate1ZephonMessage10
+EN: Every action has its reaction…
+UK: Кожна дія породжує протидію.
+
+## Regions.xml|Climate1ZephonMessage11
+EN: You are not worthy to walk here.
+UK: Ти недостойний ходити тут.
+
+## Regions.xml|Climate1ZephonMessage12
+EN: Stars, rising, from the hollowed ground.
+UK: Із порожньої землі піднімаються зорі.
+
+## Regions.xml|Climate1ZephonMessage13
+EN: I saved your kind. For what?
+UK: Я зберіг твій рід. Для чого?
+
+## Regions.xml|Climate1ZephonMessage14
+EN: Your kind would strip this land for profit… if it could.
+UK: Твій рід усе б перекопав заради вигоди... якби міг.
+
+## Regions.xml|Climate1ZephonMessage15
+EN: You're in for a shock.
+UK: Тебе чекає шок.
+
+## Regions.xml|Climate2ZephonMessage0
+EN: No water for miles…
+UK: Ні краплі води на багато кілометрів...
+
+## Regions.xml|Climate2ZephonMessage1
+EN: There's something on the horizon.
+UK: Щось видніється на горизонті.
+
+## Regions.xml|Climate2ZephonMessage2
+EN: It's never enough, is it?
+UK: Тобі завжди мало, чи не так?
+
+## Regions.xml|Climate2ZephonMessage3
+EN: The sand will tear at your flesh.
+UK: Пісок зріже з тебе плоть.
+
+## Regions.xml|Climate2ZephonMessage4
+EN: This was once an ocean.
+UK: Колись тут був океан.
+
+## Regions.xml|Climate2ZephonMessage5
+EN: Have you enough salt for this journey?
+UK: У тебе достатньо солі на дорогу?
+
+## Regions.xml|Climate2ZephonMessage6
+EN: The dunes might drown you.
+UK: Ти потонеш у цих дюнах.
+
+## Regions.xml|Climate2ZephonMessage7
+EN: The vultures lie in wait.
+UK: Стерв’ятники вже чекають на тебе.
+
+## Regions.xml|Climate2ZephonMessage8
+EN: Bleached rock for miles around…
+UK: Кілометри вибіленої породи...
+
+## Regions.xml|Climate2ZephonMessage9
+EN: My words are not a mirage.
+UK: Мої слова — зовсім не міраж.
+
+## Regions.xml|Climate2ZephonMessage10
+EN: The wind cuts deeper here.
+UK: Вітер глибоко врізається у шкіру.
+
+## Regions.xml|Climate2ZephonMessage11
+EN: My kind have no skin to burn.
+UK: У мого роду шкіра не згорить.
+
+## Regions.xml|Climate2ZephonMessage12
+EN: Are you sure that's the right way?
+UK: Думаєш, це правильний напрямок?
+
+## Regions.xml|Climate2ZephonMessage13
+EN: Look upon my great works, and despair.
+UK: Поглянь на мої великі вчинки і залиш надію.
+
+## Regions.xml|Climate2ZephonMessage14
+EN: Dawn here shines with pink and gold.
+UK: Світанок тут пофарбований в багрянець та золото.
+
+## Regions.xml|Climate2ZephonMessage15
+EN: Life persists here. You will not.
+UK: Тут залишиться життя. Тільки не ти.
+
+## Regions.xml|Climate3ZephonMessage0
+EN: Blood will run thick in this soil.
+UK: Кров рясно заллє цю землю.
+
+## Regions.xml|Climate3ZephonMessage1
+EN: So many bodies lie in the shallows…
+UK: Стільки тіл лежить у неглибокій воді...
+
+## Regions.xml|Climate3ZephonMessage2
+EN: A slow death awaits you here.
+UK: Тут тебе чекає повільна смерть.
+
+## Regions.xml|Climate3ZephonMessage3
+EN: Do you hear those screams?
+UK: Ти чуєш ці крики?
+
+## Regions.xml|Climate3ZephonMessage4
+EN: It will pull you under…
+UK: Тебе потягне в глибину...
+
+## Regions.xml|Climate3ZephonMessage5
+EN: Disease festers in this land.
+UK: У цьому краї лютує зараза.
+
+## Regions.xml|Climate3ZephonMessage6
+EN: Is that really a log at your feet?
+UK: Думаєш, під твоїми ногами просто бревно?
+
+## Regions.xml|Climate3ZephonMessage7
+EN: A fine trough to feed your gluttony.
+UK: Чудова годівниця для вашого обжерства.
+
+## Regions.xml|Climate3ZephonMessage8
+EN: Stagnant water attracts the most flies.
+UK: До стоячої води злітається найбільше мух.
+
+## Regions.xml|Climate3ZephonMessage9
+EN: A leech might yet bleed you dry.
+UK: П’явки ще висмокчуть з тебе всю кров.
+
+## Regions.xml|Climate3ZephonMessage10
+EN: The stench of decaying flesh…
+UK: Смердіння розкладаючоїся плоті...
+
+## Regions.xml|Climate3ZephonMessage11
+EN: Your future… is murky…
+UK: Твоє майбутнє... тьмяне...
+
+## Regions.xml|Climate3ZephonMessage12
+EN: Slime will coat your weapons.
+UK: Твоя зброя покриється слизом.
+
+## Regions.xml|Climate3ZephonMessage13
+EN: I wonder if quicksand will pull you under.
+UK: Цікаво, чи засмокче тебе трясовина.
+
+## Regions.xml|Climate3ZephonMessage14
+EN: Soon the insects will have their way with you…
+UK: Незабаром комахи зроблять із тобою своє діло...
+
+## Regions.xml|Climate3ZephonMessage15
+EN: I wonder if you'll meet a witch.
+UK: Чекаєш зустрічі з відьмою?
+
+## Regions.xml|Climate4ZephonMessage0
+EN: This is how the world once was…
+UK: Таким колись був увесь світ...
+
+## Regions.xml|Climate4ZephonMessage1
+EN: Care not to choke on the ash.
+UK: Спробуй не задихнутися від попелу.
+
+## Regions.xml|Climate4ZephonMessage2
+EN: The air itself will burn your skin.
+UK: Тут навіть повітря обпікає шкіру.
+
+## Regions.xml|Climate4ZephonMessage3
+EN: The volcano is dormant… right?
+UK: Це ж сплячий вулкан, правда?
+
+## Regions.xml|Climate4ZephonMessage4
+EN: Imagine drowning in a plume of smoke.
+UK: Уяви, як задихаєшся від диму.
+
+## Regions.xml|Climate4ZephonMessage5
+EN: Your remains… perfectly preserved in ash.
+UK: Твої останки надійно збереже попіл.
+
+## Regions.xml|Climate4ZephonMessage6
+EN: The Earth's riches, pulled to the surface.
+UK: Багатства планети виходять на поверхню.
+
+## Regions.xml|Climate4ZephonMessage7
+EN: Nothing you build can withstand the lava.
+UK: Перед лавою не встоїть жодна твоя споруда.
+
+## Regions.xml|Climate4ZephonMessage8
+EN: Could you survive an eruption?
+UK: Ти зможеш пережити виверження?
+
+## Regions.xml|Climate4ZephonMessage9
+EN: A sacrifice might yet save you.
+UK: Спробуй принести жертву, можливо допоможе.
+
+## Regions.xml|Climate4ZephonMessage10
+EN: This used to be someone's god.
+UK: Для когось це було втіленням бога.
+
+## Regions.xml|Climate4ZephonMessage11
+EN: Obsidian teeth, in search of blood…
+UK: Обсидіанові зуби жадають крові...
+
+## Regions.xml|Climate4ZephonMessage12
+EN: Did you ever think you would walk lands like this?
+UK: Колись думав, що будеш ходити по такій землі?
+
+## Regions.xml|Climate4ZephonMessage13
+EN: Have you anything to offer the mountain?
+UK: У тебе є підношення для гори?
+
+## Regions.xml|Climate4ZephonMessage14
+EN: Fire burns beneath the surface.
+UK: Під землею тече вогонь.
+
+## Regions.xml|Climate4ZephonMessage15
+EN: You sleep on an imminent cataclysm…
+UK: Спи спокійно, катаклізм неминучий...
+
+## Regions.xml|Climate5ZephonMessage0
+EN: No place for man or machine…
+UK: Тут не місце ні для людей, ні для машин...
+
+## Regions.xml|Climate5ZephonMessage1
+EN: They learned to hate you on a world like this.
+UK: Так виглядав світ, де їх навчали тебе ненавидіти.
+
+## Regions.xml|Climate5ZephonMessage2
+EN: You would willingly breathe in spores?
+UK: Як можна добровільно вдихати спори?
+
+## Regions.xml|Climate5ZephonMessage3
+EN: Imagine if this took over the planet.
+UK: Уяви, що вся планета стала б такою.
+
+## Regions.xml|Climate5ZephonMessage4
+EN: Another presence… lurks…
+UK: Інша сутність... ховається тут...
+
+## Regions.xml|Climate5ZephonMessage5
+EN: They've terraformed the land…
+UK: Вони перетворили саму землю...
+
+## Regions.xml|Climate5ZephonMessage6
+EN: The Voice will not have this world.
+UK: Голос не отримає цей світ.
+
+## Regions.xml|Climate5ZephonMessage7
+EN: Squirm. Scream. The worms will still have you.
+UK: Спротивляйся. Кричи. Черви все одно поласуються тобою.
+
+## Regions.xml|Climate5ZephonMessage8
+EN: Like petulant children drawing on the wall…
+UK: Як малюнок примхливих дітей на стіні...
+
+## Regions.xml|Climate5ZephonMessage9
+EN: Worse than I could have calculated.
+UK: Гірше, ніж мої найжахливіші розрахунки.
+
+## Regions.xml|Climate5ZephonMessage10
+EN: Poisoned soil will bear foul fruit.
+UK: На отруєній землі виросте злий плід.
+
+## Regions.xml|Climate5ZephonMessage11
+EN: A world bound for slow decay…
+UK: Світ, приречений на повільний розклад...
+
+## Regions.xml|Climate5ZephonMessage12
+EN: It will take generations to undo this.
+UK: Щоб це виправити, підуть покоління.
+
+## Regions.xml|Climate5ZephonMessage13
+EN: The stench will never leave your armor.
+UK: Тепер цей сморід з броні не відмити.
+
+## Regions.xml|Climate5ZephonMessage14
+EN: No poison on Earth could match this.
+UK: Жоден яд на Землі не зрівняється з цим.
+
+## Regions.xml|SteamFriendZephonMessage0
+EN: That's not where %1% would go…
+UK: %1% сюди точно не піде...
+
+## Regions.xml|SteamFriendZephonMessage1
+EN: Pathetic. %1% would do better.
+UK: Відразливо. %1% впорається краще.
+
+## Regions.xml|SteamFriendZephonMessage2
+EN: %1% told me all your secrets…
+UK: %1% розповідає мені всі твої таємниці...
+
+## Regions.xml|SteamFriendZephonMessage3
+EN: You and %1% should destroy each other.
+UK: Ти і %1% повинні знищити один одного.
+
+## Regions.xml|SteamFriendZephonMessage4
+EN: I killed %1%. I will kill you too.
+UK: %1% вже не з нами. Тебе я теж вб’ю.
+
+## Regions.xml|SteamFriendZephonMessage5
+EN: %1% has plans to betray you…
+UK: %1% збирається тебе зрадити...
+
+## Regions.xml|SteamFriendZephonMessage6
+EN: You should betray %1%.
+UK: %1% твій ворог. Зрадь.
+
+## Regions.xml|SteamFriendZephonMessage7
+EN: When did you first meet %1%?
+UK: Ти і %1% давно знайомі?
+
+## Regions.xml|SteamFriendZephonMessage8
+EN: I've tasted the blood of %1%.
+UK: Було приємно дивитися, як %1% стікає кров’ю.
+
+## Regions.xml|SteamFriendZephonMessage9
+EN: %1% told me you would do that…
+UK: %1% знає, що це у твоїй натурі...
+
+## Regions.xml|SteamFriendZephonMessage10
+EN: I know deep down, you hate %1%.
+UK: Ти знаєш, як сильно %1% тебе ненавидить.
+
+## Regions.xml|SteamFriendZephonMessage11
+EN: Would you take a bullet for %1%?
+UK: Невже %1% вартий таких зусиль?
+
+## Regions.xml|SteamFriendZephonMessage12
+EN: Kill %1%. Before they kill you.
+UK: %1% із радістю вб’є тебе. Вбий раніше.
+
+## Regions.xml|SteamFriendZephonMessage13
+EN: You and %1%… you age so quickly.
+UK: Ти і %1% — як мухи-одноденки.
+
+## Regions.xml|SteamFriendZephonMessage14
+EN: %1% was not always part of your world…
+UK: %1% не належить цьому світу...
+
+## Regions.xml|SteamFriendZephonMessage15
+EN: %1% is the future. You are the past.
+UK: %1% — майбутнє. Ти — минуле.
+
+## Regions.xml|SteamFriendZephonMessage16
+EN: What's the worst thing %1% has ever done to you?
+UK: %1% хоче зробити з тобою щось жахливе.
+
+## Settings.xml|Achievements/AreYouTheGreatSpeaker
+EN: Are You The Great Speaker?
+UK: Це ти — Великий Вісник?
+
+## Settings.xml|Achievements/CanAJourneyBeAnEndInItself
+EN: Can A Journey Be An End In Itself?
+UK: Чи може подорож бути метою сама по собі?
+
+## Settings.xml|Achievements/CanAnythingRedeemThisHorror
+EN: Can Anything Redeem This Horror?
+UK: Чи здатне щось спокутувати цей жах?
+
+## Settings.xml|Achievements/CanFreeWillExist
+EN: Can Free Will Exist?
+UK: Чи існує свобода волі?
+
+## Settings.xml|Achievements/CanLoveBeMoral
+EN: Can Love Be Moral?
+UK: Чи може любов бути моральною?
+
+## Settings.xml|Achievements/DefeatImperiousExonaut
+EN: You Will Never Conquer Space!
+UK: Тобі ніколи не підкорити космос!
+

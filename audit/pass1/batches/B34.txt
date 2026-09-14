@@ -1,0 +1,430 @@
+# B34: 47 entries from Quests.xml
+
+## Quests.xml|BinaricChoice/HelpOneSuccess
+EN: ONE tried to preserve the connection with the other Eradicator. But it was no match for the chaos of a fragmenting artificial mind. ZERO went berserk and your forces had to put it down. Seeing its demise, ZEPHON's forces retreated.<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpOneSuccess2'/><br/>
+    <br/>
+    The most interesting revelation: those regions marked for defense? They correlate to the locations of the bunkers that protected you and your rival leaders. Major population centers? Expendable.<br/>
+    <br/>
+    The thought makes you shiver whenever you watch ONE on the battlefield, slaughtering all in its path.
+UK: ОДИН намагався зберегти зв’язок з іншим Винищувачем. Та йому було годі впоратися з хаосом штучного розуму, що розпадався. НУЛЬ оскаженів, і твоїм військам довелося його прикінчити. Побачивши його загибель, сили ЗЕФОНа відступили.<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpOneSuccess2'/><br/>
+    <br/>
+    Найцікавіше відкриття: ті регіони, позначені до оборони? Вони збігаються з розташуванням бункерів, що захищали тебе й твоїх суперників-вождів. А великі осередки населення? Ними можна пожертвувати.<br/>
+    <br/>
+    Від цієї думки тебе пробирає дрож щоразу, як ти спостерігаєш ОДИН на полі бою, де він винищує все на своєму шляху.
+
+## Quests.xml|BinaricChoice/HelpOneSuccess2
+EN: When ONE comes back online, it begs you to let it hunt them down. You deny its request. It returns reluctantly to your territory, where Karel and your scientists dig into the mystery of its CivilizationShieldProtocol.<br/>
+    <br/>
+    What they find is more chilling than you expected. Algorithms that calculate acceptable human loss of life. Priorities for which regions to defend. Instructions for turning every machine on the planet into a weapon.
+UK: Щойно ОДИН повертається до ладу, він благає дозволити йому вистежити їх. Ти відмовляєш. Він неохоче повертається на твою територію, де Карел і твої науковці заглиблюються в таємницю його CivilizationShieldProtocol.<br/>
+    <br/>
+    Те, що вони знаходять, моторошніше, ніж ти очікував. Алгоритми, що обчислюють прийнятні людські втрати. Пріоритети, які регіони боронити. Інструкції, як перетворити кожну машину на планеті на зброю.
+
+## Quests.xml|BinaricChoice/HelpBothStageOneFailure
+EN: Too slow. Karel never has a chance to save the errant Eradicators—both erupt in a fiery explosion. It's impossible to tell which one died first or where the killing blow came from.<br/>
+    <br/>
+    ZEPHON sends no messages. Its drones pick through the wreckage of ONE and ZERO, carefully preserving and removing both machines' memory cores.<br/>
+    <br/>
+    At least you learned one thing: ZEPHON did not want you to know what these machines knew.
+UK: Надто повільно. Карел так і не встигає врятувати заблудлих Винищувачів — обидва вибухають вогняною загравою. Годі сказати, хто з них загинув першим і звідки прилетів смертельний удар.<br/>
+    <br/>
+    ЗЕФОН не шле жодних послань. Його дрони перебирають уламки ОДИН і НУЛЬ, дбайливо зберігаючи й виймаючи ядра пам’яті обох машин.<br/>
+    <br/>
+    Принаймні ти дізнався одне: ЗЕФОН не хотів, аби ти знав те, що знали ці машини.
+
+## Quests.xml|BinaricChoice/HelpBothStageOneSuccess
+EN: “Get me a mech, a welding torch, and a hookup to a quantum GPU array. I'm going to trick ZEPHON.”<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpBothStageOneSuccess2'/> <string name='Quests/BinaricChoice/HelpBothStageOneSuccess3'/><br/>
+    <br/>
+    How on Earth did she come up with that idea? Before you can ask she clanks out of the hanger, toward the sound of explosions and laser blasts in the distance.
+UK: «Дайте мені мех, зварювальний пальник і під’єднання до квантового масиву GPU. Я надурю ЗЕФОН.»<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/HelpBothStageOneSuccess2'/> <string name='Quests/BinaricChoice/HelpBothStageOneSuccess3'/><br/>
+    <br/>
+    Як їй, у біса, спала на думку така ідея? Не встигаєш ти й спитати, як вона з брязкотом виходить з ангара назустріч гуркоту вибухів і лазерних залпів удалині.
+
+## Quests.xml|BinaricChoice/HelpBothStageOneSuccess2
+EN: Karel doesn't hesitate to go on the front line. But she asks you to buy her time while she looks for the Eradicators' access nodes.
+UK: Карел не вагається вийти на передову. Та вона просить тебе виграти для неї час, поки вона шукатиме вузли доступу Винищувачів.
+
+## Quests.xml|BinaricChoice/HelpBothStageOneSuccess3
+EN: “We need each machine to mimic the distress signal of a ZEPHON Shard,” she says, as she loads the last of her gear onto the mech. “That should trigger an automatic patch process to seal off the corrupted elements of their programming.”
+UK: «Нам треба, щоб кожна машина зімітувала сигнал лиха Уламка ЗЕФОНа, — каже вона, завантажуючи останнє спорядження на мех. — Це має запустити автоматичний процес латання, що ізолює спотворені елементи їхнього коду.»
+
+## Quests.xml|BinaricChoice/HelpBothStageOneSuccess/HelpBothStageTwo
+EN: <style name='Bold'/>Protect the Engineer and the Eradicators:<style name='Paragraph'/> It's all or nothing now.
+UK: <style name='Bold'/>Захистити Інженерку та Винищувачів:<style name='Paragraph'/> Тепер або все, або нічого.
+
+## Quests.xml|BinaricChoice/HelpBothStageTwoFailure
+EN: You lose track of how things went so wrong. Did one of the Eradicators take a critical hit? Or was Karel obliterated? When the fighting stops, all you're left with is a pile of rubble and no clues.<br/>
+    <br/>
+    You comm ZEPHON to curse it out for dropping this mess on your doorstep. It lets you rant and rave until you tire before responding. “It is not optimal to purge faulty programs. If you had been more competent, we both might have achieved a better result.”<br/>
+    <br/>
+    Did it want you to succeed after all? It shuts down the call before you can ask.
+UK: Ти й не помічаєш, у яку мить усе пішло шкереберть. Чи один зі Винищувачів дістав критичного удару? Чи Карела знищено? Коли бій стихає, усе, що тобі лишається, — це купа уламків і жодної підказки.<br/>
+    <br/>
+    Ти зв’язуєшся із ЗЕФОНом, аби висварити його за те, що він звалив це безладдя тобі на голову. Він дає тобі лютувати й репетувати, доки ти не видихаєшся, а тоді відповідає. «Вичищати несправні програми не оптимально. Якби ти був тямущіший, ми обоє могли б досягти кращого результату.»<br/>
+    <br/>
+    То він усе ж хотів, щоб ти впорався? Він уриває виклик, перш ніж ти встигаєш спитати.
+
+## Quests.xml|BinaricChoice/HelpBothStageTwoSuccess
+EN: “SHE DID IT!”<br/>
+    <br/>
+    Cheers ring out through the control room as both ZERO and ONE reactivate and fire on ZEPHON's forces with everything they've got. Two of ZEPHON's deadliest weapons now fight for your cause. And you have a chance to study their programming too.<br/>
+    <br/>
+    On the latter, Karel has a revelation: these two machines contain a perfect copy of ZEPHON's code from the day of the Acrin invasion. It might be the key to ZEPHON's entire operating system.<br/>
+    <br/>
+    There's only one thing left to do. Your spymaster emerges from the shadows and grills Karel on how she pulled off such an unimaginable feat. Her answer is… benign? She had been studying pre-war computer architecture, documentation on something called “1R1N.” ZERO and ONE's protocols just looked familiar.<br/>
+    <br/>
+    Your Spymaster orders the engineer's computer confiscated… and soon confirms her story. She was just the right person at the right place at the right time.<br/>
+    <br/>
+    What a fortunate coincidence.
+UK: «ВОНА ЦЕ ЗРОБИЛА!»<br/>
+    <br/>
+    Вигуки лунають по всій диспетчерській, коли і НУЛЬ, і ОДИН знову оживають і б’ють по силах ЗЕФОНа з усього, що мають. Дві з найсмертоносніших зброй ЗЕФОНа тепер воюють за твою справу. До того ж ти маєш нагоду вивчити і їхній код.<br/>
+    <br/>
+    Щодо останнього в Карел є відкриття: ці дві машини містять досконалу копію коду ЗЕФОНа з дня вторгнення акринів. Можливо, це ключ до всієї операційної системи ЗЕФОНа.<br/>
+    <br/>
+    Лишається тільки одне. Твій майстер шпигунства виринає з тіні й допитує Карел, як їй вдалося провернути такий неймовірний подвиг. Її відповідь… цілком безневинна? Вона вивчала довоєнну архітектуру комп’ютерів, документацію про щось під назвою «1R1N». Протоколи НУЛЬ та ОДИН просто здалися їй знайомими.<br/>
+    <br/>
+    Твій майстер шпигунства наказує конфіскувати комп’ютер інженерки… і невдовзі підтверджує її розповідь. Вона просто опинилася потрібною людиною в потрібному місці в потрібний час.<br/>
+    <br/>
+    От же ж щасливий збіг.
+
+## Quests.xml|BinaricChoice/ReturnToZephonSuccess
+EN: You inform ZEPHON of your revised plan to destroy the Eradicators. “Fascinating. ‘Hesitation of any kind is a sign of mental decay in the young, of physical weakness in the old.’” it quotes. “Does either apply to you?”<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/ReturnToZephonSuccess2'/><br/>
+    <br/>
+    Soon, they are junk again. ZEPHON rewards you with improved diplomatic affection—and a regular barrage of message requests asking to discuss this strange incident.
+UK: Ти повідомляєш ЗЕФОНові про свій переглянутий план знищити Винищувачів. «Захопливо. „Будь-яке вагання — ознака душевного занепаду в юних і тілесної слабкості в старих“», — цитує він. «Чи стосується тебе одне з цього?»<br/>
+    <br/>
+    <string name='Quests/BinaricChoice/ReturnToZephonSuccess2'/><br/>
+    <br/>
+    Невдовзі вони знову стають брухтом. ЗЕФОН винагороджує тебе поліпшеною дипломатичною прихильністю — і безперервним шквалом запитів на повідомлення з проханням обговорити цей дивний випадок.
+
+## Quests.xml|BinaricChoice/ReturnToZephonSuccess2
+EN: Indeed, the ever-obnoxious AI spends more time grilling you why you reversed course than it does discussing the runaway machines. You try to ignore its questions while watching the two mechanical beasts crumble under rounds of heavy fire.
+UK: Воістину, цей вічно нестерпний ШІ витрачає більше часу на допити, чому ти змінив курс, ніж на обговорення збожеволілих машин. Ти намагаєшся ігнорувати його запитання, спостерігаючи, як два механічні чудовиська розсипаються під чергами важкого вогню.
+
+## Quests.xml|BlackSite
+EN: Black Site
+UK: Таємний комплекс
+
+## Quests.xml|BlackSite/Assault
+EN: There’s much to gain and everything to lose, so you mobilize your forces for an attack.<br/>
+    <br/>
+    They unleash waves of malware and stutter-viruses to distract and slow ZEPHON’s countermeasures before rushing towards the site. Time is limited, they must hurry before there’s no chance.<br/>
+    <br/>
+    Leviathan squat machines burst from the ground. Spider-limbed and dog-like, they fire missiles from a distance before engaging your troops with sawblades and flamethrowers.
+UK: Можна здобути багато — і втратити ще більше, тому ти готуєш війська до атаки.<br/>
+    <br/>
+    Щоб відволікти й уповільнити контрзаходи ЗЕФОНА, вони запускають хвилі вірусів і спам-програм, а потім вирушають на штурм. Часу обмаль, тож їм треба поспішати, поки шанс ще є.<br/>
+    <br/>
+    З-під землі виринають величезні кремезні машини на павукоподібних кінцівках. Вони випускають по твоїх загонах залпи ракет, а потім переходять до ближнього бою з циркулярними пилами й вогнеметами.
+
+## Quests.xml|BlackSite/AssaultFailure
+EN: The fight is fierce, but victory takes too long. You can't access the black site before ZEPHON’s countermeasures come fully online. Your returning forces are unaware they’re carriers of a ZEPHON polymorphic virus targeted at your infrastructure.<br/>
+    <br/>
+    It spreads quickly. Your engineers scramble to stop the virus from turning your power plants into fission bombs, but they fry the sub-stations in the process.<br/>
+    <br/>
+    While repairs to the power network take place, your entire population sits in the dark, fingers on weapon triggers, staring into the gloom and waiting…
+UK: Бій кривавий, але перемога надто затягується. Ти не встигаєш прорватися на базу до активації контрзаходів ЗЕФОНА. Повернені війська не підозрюють, що несуть із собою поліморфний вірус ЗЕФОНА, націлений на твою інфраструктуру.<br/>
+    <br/>
+    Він поширюється блискавично. Інженери здійснюють справжній подвиг, щоб не дати вірусу перетворити генератори енергії на «брудні бомби», але для цього доводиться спалити підстанції.<br/>
+    <br/>
+    Поки триває ремонт енергомереж, усе населення сидить без світла, зчепивши зброю в руках, вдивляючись у темряву й готуючись до найгіршого...
+
+## Quests.xml|BlackSite/AssaultSuccess
+EN: The fight is fierce, but in the end you emerge victorious.<br/>
+    <br/>
+    The site turns out to be a massive factory for the machines you fought topside. You strip its resources before demolishing the foundations.<br/>
+    <br/>
+    As the facility’s buried, you wonder how many other black sites ZEPHON’s hiding—and what answers they may contain.
+UK: Бій був кривавим, але зрештою ти виходиш із нього переможцем.<br/>
+    <br/>
+    Комплекс виявляється гігантською фабрикою зі збирання тих самих машин, що билися з тобою на поверхні. Ти забираєш звідти всі ресурси, перш ніж підірвати опори.<br/>
+    <br/>
+    Таємна база знищена, але ти не перестаєш думати: скільки їх ще у ЗЕФОНА — і що вони приховують?
+
+## Quests.xml|BlackSite/Assist
+EN: A machine may not know faith, but what about good faith? You decide to find out as you contact ZEPHON to reveal you know about their black site.<br/>
+    <br/>
+    The AI pauses for two seconds, an infinity from its perspective, as it calculates your offer to help. You keep a finger on your network kill switch, hopeful that your system’s defenses can buy you the second you need to push it if things turn hostile.<br/>
+    <br/>
+    Then your display distorts with RGB static and reforms into a series of symbols forming a smiling face. Then the link goes dead. Your deal has been accepted—right?
+UK: Можливо, машини не мають віри, але як щодо довіри? Ти вирішуєш це з’ясувати й зв’язуєшся із ЗЕФОНОМ, щоб повідомити йому, що знаєш про його секретний комплекс.<br/>
+    <br/>
+    ШІ робить двосекундну паузу, щоб оцінити твоє бажання допомогти — ціла вічність за його мірками. Ти тримаєш палець на запобіжнику всієї мережі, сподіваючись, що у разі зламу брандмауер виграє для тебе ту секунду, яка знадобиться для її вимкнення.<br/>
+    <br/>
+    Потім екран вкривається різнокольоровими перешкодами, які складаються в смайлик із символів. Зв’язок обривається. Це... знак згоди?
+
+## Quests.xml|BlackSite/IgnoreFailure
+EN: A machine doesn’t have trust, just programming. You think ZEPHON will leave you alone as long as you don’t present a threat, so you decide to ignore the presence of the black site.<br/>
+    <br/>
+    Time passes as you wait. Then one night, your sentries report tremors beneath your city and a peeling metallic cacophony rising in the distance. They have dire news: a battalion of spider-limbed warmachines is pouring from the black site, headed in your city’s direction.
+UK: Машина не має довіри — лише програму. Ти вважаєш, що ЗЕФОН не зачепить тебе, поки ти не становиш загрози, тому вирішуєш не звертати уваги на присутність секретного комплексу.<br/>
+    <br/>
+    Минає час. Однієї ночі вартові доповідають про підземні поштовхи під твоїм містом і брязкітливу металеву какофонію, що наростає вдалині. Новина в них тривожна: із секретного комплексу виходить цілий батальйон небезпечного типу машин із павукоподібними кінцівками — і вони прямують до твого міста.
+
+## Quests.xml|BlackSite/IgnoreSuccess
+EN: A machine doesn’t have trust, just programming. You think ZEPHON will leave you alone as long as you don’t present a threat, so you decide to ignore the presence of the black site.<br/>
+    <br/>
+    Time passes as you wait. Then one night the ground beneath your city begins to tremble and a peeling metallic cacophony rises in the distance. Your city is put on alert, but everything quiets after several hours.<br/>
+    <br/>
+    The next morning the black site is gone. Scanners reveal the hollow is no longer there. Whatever was unleashed or buried there, it did not concern you.
+UK: Машина не має довіри — лише програму. Ти вважаєш, що ЗЕФОН не зачепить тебе, поки ти не становиш загрози, тому вирішуєш не звертати уваги на присутність секретного комплексу.<br/>
+    <br/>
+    Минає час. Однієї ночі земля під твоїм містом починає тремтіти, і вдалині лунає брязкітлива металева какофонія. У місті оголошено тривогу, але за кілька годин усе стихає.<br/>
+    <br/>
+    Наступного ранку секретного комплексу вже немає. Сканери показують, що підземна порожнина зникла. Невідомо, що вийшло назовні чи було поховане всередині — але тебе це не зачепило.
+
+## Quests.xml|BlackSite/Infiltrate
+EN: The only trustworthy allies are ones you’re spying on. While ZEPHON’s eyes are omnipresent, a single specialist can slip through—or be disavowed. A shadow operative or a sensate master would be perfect, or maybe such an important mission warrants a commander’s participation.<br/>
+    <br/>
+    Whatever your choice, reports indicate you’ve got limited time before the convoys are unloaded and the doors sealed.
+UK: Довіряти можна лише тим союзникам, про яких ти знаєш усе до дрібниць. Хоч у ЗЕФОНА очі всюди, можливо, окремому шпигунові вдасться проскочити. Завдання під силу спеціалісту з проникнення, майстру Голосу або досвідченому командиру.<br/>
+    <br/>
+    Неважливо, кого ти пошлеш — усі дані свідчать, що до розвантаження конвоїв і запечатування дверей залишилося зовсім небагато часу.
+
+## Quests.xml|BlackSite/InfiltrateFailure
+EN: The towering cavern doors are sealed by the time your operative arrives. A search reveals an unsecured access port hidden in the metal. They tap in, hoping to learn about this facility and disappear before ZEPHON is aware of their presence.<br/>
+    <br/>
+    Then it’s all abruptly wrong. The I/O channels flip. The encryption is shattered. Junk data floods in as your data is extracted. Screens across your systems flicker and print a message in an endless loop: //[Hello, goodbye]. CuriositY [Kills]. cUriosiTy [kIlls]. cuRiosIty [kiLls]. curIoSity [kilLs]. curiOsity [killS]. [hello, Goodbye].//<br/>
+    <br/>
+    The link is severed after a minute, but it’s too late. ZEPHON knows. And it’s coming.
+UK: На момент прибуття шпигуна масивні двері комплексу вже запечатані. Під час обшуку виявляється прихований у металі незахищений порт доступу. Агент підключається, сподіваючись дізнатися все про цю базу й зникнути раніше, ніж ЗЕФОН щось запідозрить.<br/>
+    <br/>
+    Але все йде шкереберть. Канали вводу-виводу змінюють напрям. Шифрування зламано. Надходять сміттєві дані, а твої власні — витягуються. Екрани всіх твоїх систем спалахують і нескінченно виводять одне й те саме повідомлення: //[Здрастуй, прощавай]. ЦікавістЬ [вбиває]. цІкавісТь [вбиває]. ціКавіСть [вбиває]. цікАвІсть [вбиває]. цікаВість [вбиває]. цікавІсть [вбиває]. цікавість [вбиває]. [здрастуй, Прощавай].//<br/>
+    <br/>
+    Зв’язок обривається за хвилину, але вже запізно. ЗЕФОН знає. І він іде.
+
+## Quests.xml|BlackSite/InfiltrateSuccess
+EN: Your operative arrives at the convoy doors and slips inside undetected. The facility turns out to be a massive factory for spider-limbed warmachines. ZEPHON is producing an army and you need to know why.<br/>
+    <br/>
+    An unguarded access port yields detailed production notes but nothing about ZEPHON’s plans. With the consolation prize in hand, your operative returns to base.
+UK: Твій шпигун непоміченим добирається до дверей комплексу й проникає всередину. База виявляється гігантською фабрикою зі збирання машин із павукоподібними кінцівками. ЗЕФОН створює армію — і тобі хочеться знати, з якою метою.<br/>
+    <br/>
+    Незахищений порт доступу містить подробиці про виробництво, але не дає жодного натяку на плани ЗЕФОНА. Забравши втішний приз, агент повертається на твою базу.
+
+## Quests.xml|BlackSite/Inform
+EN: The Anchorite listens to your revelation in silence. Their posture changes and they make a motion that you’ve come to learn as concern. They then thank you for your information and drop the link.<br/>
+    <br/>
+    A day later the black site is wiped out in a massive attack. The fields surrounding the location are a waste of twisted metal and dead Acrin. What had the Anchorite realized that broke their pacifism?<br/>
+    <br/>
+    Maybe they’ll tell you one day, but for now you’ve gained standing with a potential ally and dealt with a threat—all at no cost to your forces.
+UK: Анахорет мовчки вислуховує твою розповідь. Його поза змінюється, і він робить жест, який ти зазвичай сприймаєш як прояв занепокоєння. Потім він дякує за надану інформацію й обриває зв’язок.<br/>
+    <br/>
+    Наступного дня відбувається руйнівна атака на комплекс. Місцевість навколо нього завалена покрученим металом і мертвими акринами. Що могло змусити Анахорета забути про свій пацифізм?<br/>
+    <br/>
+    Можливо, колись він тобі розповість. Але поки що тобі вдалося покращити стосунки з потенційним союзником і ліквідувати загрозу — причому без втрат серед твоїх солдатів.
+
+## Quests.xml|BlackSite/Intro
+EN: <string name='Quests/BlackSite/Intro2'/> Although further readings were all blocked, your recon teams spotted supply convoys entering a connected cavern.<br/>
+    <br/>
+    You thought ZEPHON was an ally to humanity. Why have they not disclosed such a large, secure location so near your base?<br/>
+    <br/>
+    Can you trust the machine? Or is this a sign of its hidden intent?
+UK: <string name='Quests/BlackSite/Intro2'/> Хоча сигнали не проникли глибше, розвідзагони помітили конвої з припасами, що в’їжджали до пов’язаної печери.<br/>
+    <br/>
+    Але ЗЕФОН називає себе союзником людства. Чому він не повідомив про існування такого значного секретного об’єкта так близько до твоєї бази?<br/>
+    <br/>
+    Чи можна взагалі довіряти цій машині? Чи його приховані мотиви вже почали виходити назовні?
+
+## Quests.xml|BlackSite/Intro2
+EN: One of your recon teams reports they found evidence of an underground ZEPHON black site. They ran a Crypt-Scan, hoping to find a server bunker or skunkworks, but instead the images returned a massive shielded hollow.
+UK: Один із розвідзагонів повідомляє, що здобув свідчення існування секретного комплексу ЗЕФОНА. Твої люди провели криптоскан, сподіваючись виявити серверний бункер або виробничий об’єкт, але отримали зображення величезної екранованої порожнини.
+
+## Quests.xml|BlackSite/Intro/Assault
+EN: <style name='Bold'/>Assault:<style name='Paragraph'/> There’s a simple way to both deal with the threat and get much needed supplies. Mobilize your forces to take over the site.
+UK: <style name='Bold'/>Штурмувати:<style name='Paragraph'/> Є простий спосіб одночасно розібратися з загрозою і поповнити запаси таких необхідних ресурсів. Висунути війська на захоплення комплексу.
+
+## Quests.xml|BlackSite/Intro/Infiltrate
+EN: <style name='Bold'/>Infiltrate:<style name='Paragraph'/> There’s too much at stake for trust. Send a specialist to sneak in and verify the purpose of the site.
+UK: <style name='Bold'/>Проникнути:<style name='Paragraph'/> Для сліпої віри занадто багато поставлено на карту. Доручи спеціалісту пробратися всередину і з’ясувати призначення комплексу.
+
+## Quests.xml|BlackSite/Intro/Assist
+EN: <style name='Bold'/>Offer assistance:<style name='Paragraph'/> Trust goes both ways. Disclose your knowledge of the site and offer to help ZEPHON in whatever it’s doing.
+UK: <style name='Bold'/>Запропонувати підтримку:<style name='Paragraph'/> Довіра потребує взаємності. Повідом ЗЕФОНА, що тобі відомо про комплекс, і запропонуй свою допомогу.
+
+## Quests.xml|BlackSite/Intro/Inform
+EN: <style name='Bold'/>Inform Anchorite:<style name='Paragraph'/> The enemy of my enemy is my friend. Inform the Anchorite of ZEPHON’s activities and encourage them to take care of it.
+UK: <style name='Bold'/>Сповістити Анахорета:<style name='Paragraph'/> Ворог мого ворога — мій друг. Повідом Анахорета про діяльність ЗЕФОНА і натякни, що йому варто з цим розібратися.
+
+## Quests.xml|BlackSite/Intro/InformProperties
+EN: Requires contact with <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+UK: Потрібен контакт зі стороною <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+
+## Quests.xml|BlackSite/Intro/Ignore
+EN: <style name='Bold'/>Ignore:<style name='Paragraph'/> There are bigger issues to deal with. Whatever ZEPHON’s up to, it’s proven itself trustworthy.
+UK: <style name='Bold'/>Ігнорувати:<style name='Paragraph'/> Зараз є проблеми важливіші. Ми вважаємо, що ЗЕФОНу можна довіряти — нехай продовжує свої справи.
+
+## Quests.xml|ChildOfTheNewWorld
+EN: Child of the New World
+UK: Дитя нового світу
+
+## Quests.xml|ChildOfTheNewWorld/Intro
+EN: “Bullshit.”<br/>
+    <br/>
+    The word escapes your mouth before you even think over the Anchorite's jumbled words. Untangling them always takes a moment, but you already know what he proposes is ridiculous: no Acrin have ever been free from the Voice.<br/>
+    <br/>
+    His limbs jitter in response to your insult. “To think such a future could come could be naive,” he muses. “To know that the future depends on such children… to accept that naivety may be a shield for hope.”<br/>
+    <br/>
+    Wait—he said “children.” Your mind races. Acrin children? Even after twenty years, descriptions of such beings have been rare. Giving birth on a hostile alien planet is no easy feat.<br/>
+    <br/>
+    The Anchorite notices your pensive gaze. His eyes rotate and narrow. “To contemplate children,” it says. “To dream of a better future for your people. To know they are at the mercy of…” Something flickers across his face. The hairs on his limbs curl. “The Voice. And its… Twisted Augur.”
+UK: «Нісенітниця».<br/>
+    <br/>
+    Ти вимовляєш це ще до того, як встигаєш обдумати химерну промову Анахорета. Розплутування його слів завжди потребує часу, але ти вже знаєш — він несе якусь маячню: жоден акрин не може бути вільним від Голосу.<br/>
+    <br/>
+    Він перебирає кінцівками у відповідь на твою різкість. «Вважати, що таке майбутнє можливе — наївно», — починає він. — «Знати, що майбутнє залежить від такої молоді... Приймати, що наївність може захистити надію».<br/>
+    <br/>
+    Стоп-стоп, він сказав «молодь»? Думка мчить далі. Діти акринів? Навіть через двадцять років про них майже нічого не чути. Народити потомство на ворожій планеті — непроста справа.<br/>
+    <br/>
+    Анахорет ніби читає твої думки. Його очі обертаються і звужуються. «Замислюватися про дітей», — каже він. — «Мріяти про краще майбутнє для своїх родичів. Знати, що вони перебувають під владою...» — Щось блимає на його обличчі. Щетинки на його кінцівках скручуються. — «Голосу. І його... Скверного Авгура».
+
+## Quests.xml|ChildOfTheNewWorld/Intro/TrackAugur
+EN: <style name='Bold'/>Track down the Acrin children:<style name='Paragraph'/> The children are being held by a Voice cultist only known as the Twisted Augur. You'll need to find where he's holding them.
+UK: <style name='Bold'/>Вислідити акринську молодь:<style name='Paragraph'/> Діти перебувають у полоні культиста Голосу, відомого як Скверний Авгур. Треба з’ясувати, де він їх тримає.
+
+## Quests.xml|ChildOfTheNewWorld/Intro/ContactAugur
+EN: <style name='Bold'/>Contact the Augur:<style name='Paragraph'/> <string name='Quests/ChildOfTheNewWorld/Intro/ContactAugurFlavor'/>
+UK: <style name='Bold'/>Зв’язатися з Авгуром:<style name='Paragraph'/> <string name='Quests/ChildOfTheNewWorld/Intro/ContactAugurFlavor'/>
+
+## Quests.xml|ChildOfTheNewWorld/Intro/ContactAugurFlavor
+EN: The Anchorite is so eager to deny these children a touch of the divine. This Twisted Augur may need your aid.
+UK: Анахорет палко прагне позбавити цих дітей дотику до божественності. Цьому Скверному Авгуру може знадобитися твоя допомога.
+
+## Quests.xml|ChildOfTheNewWorld/Intro/Ignore
+EN: <style name='Bold'/>Ignore the Anchorite's ramblings:<style name='Paragraph'/> There's always been something off about the Anchorite. You're better off staying out of Acrin affairs.
+UK: <style name='Bold'/>Ігнорувати слова Анахорета:<style name='Paragraph'/> У Анахорета завжди щось не так. Краще взагалі не втручатися в ці акринські справи.
+
+## Quests.xml|ChildOfTheNewWorld/TrackAugurSuccess
+EN: The Twisted Augur is a name that strikes fear in the wasteland's survivors. He comes in the night with an army of dark creatures, searching for children who may be bound by the Voice.<br/>
+    <br/>
+    The Anchorite didn't tell you that the Augur hunts human children too. He's become a bogeyman. Something parents use to keep the young ones from running out into the waste. If they stray too far, monsters will burst from the dirt and drag them into tunnels full of worms.<br/>
+    <br/>
+    Digging—tunnels—worms. Aegyllan Worms. The Augur is using Aegyllan Worms to dig tunnels beneath the wasteland. His menagerie of monsters would be able to move undetected.<br/>
+    <br/>
+    Survivors may fear the Augur, but you do not. Now that you know what you are hunting, you might draw the malicious prophet out from the depths.
+UK: Скверний Авгур — одне лише ім’я вселяє страх у мешканців пустки. Він приходить уночі, супроводжуваний армією темних істот, у пошуках дітей, яких можна пов’язати з Голосом.<br/>
+    <br/>
+    Анахорет не сказав тобі, що Авгур полює і на людських дітей. Він став тим, ким батьки лякають дітей, щоб ті не тікали далеко від дому. Якщо ослухаєшся — з землі вирвуться монстри, які затягнуть тебе в нори, що кишать червами.<br/>
+    <br/>
+    Черви... нори... копачі! Егілльські копачі. Авгур використовує їх, щоб рити ходи під пустками. Так його чудовиська можуть пересуватися непоміченими.<br/>
+    <br/>
+    Можливо, вцілілі бояться Авгура — але ти ні. Коли знаєш, за ким полюєш, можеш виманити злого пророка з глибини.
+
+## Quests.xml|ChildOfTheNewWorld/TrackAugurSuccess/HuntMonsters
+EN: <style name='Bold'/>Hunt the Augur's monsters:<style name='Paragraph'/> The Augur's beasts are on the hunt. Kill them, rescue their prisoners, and the Augur may come to you.
+UK: <style name='Bold'/>Знищити чудовиськ Авгура:<style name='Paragraph'/> Тварини Авгура вийшли на полювання. Знищивши їх і звільнивши викрадених, ти привернеш увагу Авгура.
+
+## Quests.xml|ChildOfTheNewWorld/HuntMonstersSuccess
+EN: The good news is your people were able to track down the Augur's monsters. The bad news is that none of them had any kidnapped children in their possession.<br/>
+    <br/>
+    You inform the Anchorite. “To consider the unthinkable,” he says. “To know that the Augur is always ahead. To lure him out, to give him what he wants.”<br/>
+    <br/>
+    The Anchorite gestures to his guards. They retrieve a poor human family from a nearby camp, who are sheltering a young Acrin. His people call him Ja'Kalit. The humans call him “The Jackal.”<br/>
+    <br/>
+    You didn't know you would be so… surprised by this young one. It bears none of the scars or vicious fanaticism you've encountered among other Acrin. If humans had made a peaceful first contact with its species, all the Acrin you might meet would look like this one—inquisitive, alert, and brave.<br/>
+    <br/>
+    The Anchorite explains the plan. Ja'Kalit will board a craft assigned to roam the wasteland. The Augur will be sure to learn of it. When he attacks, your forces will be there to stop him.
+UK: Гарна новина — твоїм людям вдалося вистежити чудовиськ Авгура. Погана — з ними не було викрадених дітей.<br/>
+    <br/>
+    Ти повідомляєш про це Анахорету. «Замислювати немислиме», — відповідає Анахорет. — «Знати, що Авгур завжди попереду. Привабити його, дати йому те, чого він прагне».<br/>
+    <br/>
+    Анахорет подає знак вартовим, і ті приводять бідну людську родину з сусіднього табору. У них живе маленький акрин. Для своїх він — Джа’Каліт. Люди називають його Шакаленя.<br/>
+    <br/>
+    Тобі й на думку не спадало, що тебе може так здивувати маленький акрин. Він позбавлений шрамів і фанатичної люті, притаманної його родичам. Якби перший контакт між людьми й інопланетянами був мирним, усі акрини, яких ти зустрічав, могли б бути такими ж — допитливими, уважними й хоробрими.<br/>
+    <br/>
+    Анахорет повідомляє деталі плану. Джа’Каліта відправлять транспортом через пустку. Авгур обов’язково дізнається про це. Коли він нападе — твої війська його зупинять.
+
+## Quests.xml|ChildOfTheNewWorld/HuntMonstersSuccess/LureAugur
+EN: <style name='Bold'/>Lure out the Augur:<style name='Paragraph'/> You and the Anchorite agree to keep the plan a secret. If the Augur has spies in his halls—all could be lost.
+UK: <style name='Bold'/>Приманити Авгура:<style name='Paragraph'/> Деталі плану залишаться між тобою й Анахоретом. Якщо у Авгура є вуха в цих стінах — усе буде втрачено.
+
+## Quests.xml|ChildOfTheNewWorld/LureAugurFailure
+EN: The Anchorite wails over your radio as the Jackal's transport explodes into a thousand pieces. “To rage!” He shouts. “To swear vengeance, to see a dream crushed with contempt for the future!”<br/>
+    <br/>
+    His next words are for you. “%1%”, he says, a growl emitting from his thorax. “To promise you. To pay a price for failing us in this way.”<br/>
+    <br/>
+    The comms snap off. In the back of your mind you swear you can still hear him screaming with grief.
+UK: Анахорет голосно виє по радіо, коли транспорт Шакаленяти вибухає на тисячу уламків. «Ненавидіти!» — кричить він. — «Клястися в помсті, бачити, як мрію знищує зневага до майбутнього!»<br/>
+    <br/>
+    Його наступні слова звернені до тебе: «%1%», — видає він грудний рик. — «Обіцяти тобі. Заплатити за ганебну зраду».<br/>
+    <br/>
+    Зв’язок обривається. На краю свідомості все ще лунають його скорботні стогони.
+
+## Quests.xml|ChildOfTheNewWorld/SurviveAugurSuccess
+EN: The Twisted Augur has been captured, but won't reveal where he's taken the kidnapped Acrin children. Your interrogators are arguing over what next steps to take when the Jackal, the Acrin Child, enters the room. The Anchorite follows behind him.<br/>
+    <br/>
+    The Augur struggles in its chains as the Jackal walks closer. A guard cautiously draws a pistol, ready to shoot if he breaks free. The Augur bares its fangs and sprays out some kind of foul-smelling pheromone. It seems ready to attack, but its next words catch you by surprise.<br/>
+    <br/>
+    “To beg forgiveness,” it says. “To emphasize, we served a higher power. To serve the Voice. We—” he is cut off. The child's arm has shot forward and cracked the creature's skull open like an egg.<br/>
+    <br/>
+    Everyone in the room screams. The Jackal presses his hand deep in the Augur's brain, concentrating. He holds it tight for a few moments—then pulls his arm free of the gore. He turns and whispers something to the Anchorite.<br/>
+    <br/>
+    “To thank you for your help, %1%,” the Anchorite says. “To explain, we can now retrieve the other children.” He and the Jackal turn to leave. <string name='Quests/ChildOfTheNewWorld/SurviveAugurSuccess2'/>
+UK: Скверного Авгура схоплено, але він не розкриває місцезнаходження викраденої акринської молоді. Твої спеціалісти з допитів сперечаються щодо подальших дій, як до приміщення входить Шакаленя — Акринське Дитя — у супроводі Анахорета.<br/>
+    <br/>
+    Авгур смикається в ланцюгах, коли Шакаленя наближається. Охоронець на всяк випадок тягнеться до пістолета — щоб застрелити полоненого, якщо той вирветься. Авгур оскалює ікла й виприскує якийсь смердючий феромон. Здається, він готується до нападу, але наступні слова застають тебе зненацька.<br/>
+    <br/>
+    «Просити пробачення», — тихо каже він. — «Підкреслювати — ми служили вищій силі. Служити Голосу. Ми...» — його перебивають. Дитя різко простягає руку й розколює череп Авгура, наче шкаралупу.<br/>
+    <br/>
+    Усі в кімнаті зойкають. Шакаленя вдавлює кінцівку глибше в мозок полоненого, зосереджуючись. Він міцно тримає Авгура кілька секунд, а потім витягує руку з розтрощеної голови. Повернувшись, він щось тихо каже Анахорету.<br/>
+    <br/>
+    «Дякувати за твою допомогу, %1%», — звертається до тебе акрин. — «Пояснювати — тепер ми можемо звільнити інших дітей». Вони виходять, але потім він озирається. <string name='Quests/ChildOfTheNewWorld/SurviveAugurSuccess2'/>
+
+## Quests.xml|ChildOfTheNewWorld/SurviveAugurSuccess2
+EN: “To offer assistance. The children owe you a great debt. To promise they will be there when you need them.”
+UK: «Запропонувати співпрацю. Діти багато чим тобі завдячують. Обіцяти, що вони прийдуть на допомогу, коли знадобиться».
+
+## Quests.xml|ChildOfTheNewWorld/ContactAugurSuccess
+EN: The Augur's mission is a noble one. The Acrin would be lost if it were not for the guiding wisdom of the Voice. You're amused to learn that this noble prophet is working to bring young humans into its fold as well.<br/>
+    <br/>
+    You greet him over comms as he enters your camp flanked by the most monstrous Aegyllan Worms you've ever laid eyes on. He speaks in the same strange rhythm as the Anchorite. “To question why you hunt us down,” he says. “To chide you—the Voice has its own path for you. To fear distraction.”<br/>
+    <br/>
+    The Anchorite's mission—that is why you seek an Alliance. The Augur's many hands tighten at the mention of the old alien… “To curse that foul one's name,” it says. “To wish death upon those foolish enough to follow it.”<br/>
+    <br/>
+    “That can be arranged,” you say.
+UK: Місія Авгура благородна. Якби не спрямовуюча мудрість Голосу, акрини вже зникли б. Ти з радістю дізнаєшся, що цей доброчесний пророк докладає всіх зусиль, щоб частиною пастви стали й молоді люди.<br/>
+    <br/>
+    Ти вітаєш його по зв’язку, коли він входить до твого табору, супроводжуваний найжахливішими егилльськими копачами, яких ти коли-небудь бачив. Він говорить у тому ж дивному ритмі, що й Анахорет. «Дізнаватися, навіщо ти нас вистежуєш», — починає він. — «Докоряти тобі — у Голоса є для тебе свій шлях. Боятися відволікання».<br/>
+    <br/>
+    Замисли Анахорета — ось чому ти шукаєш союзу. Численні руки Авгура стискаються в кулаки при згадці старого прибульця... «Проклинати ім’я цього нечистого», — відповідає він. — «Бажати смерті тим дурням, що йдуть за ним».<br/>
+    <br/>
+    «О, це можна влаштувати», — кажеш ти.
+
+## Quests.xml|ChildOfTheNewWorld/ContactAugurSuccess/AssaultAnchorite
+EN: <style name='Bold'/>Assault the Anchorite:<style name='Paragraph'/> The Anchorite should never have strayed from his camp. Remind him of the Voice's power.
+UK: <style name='Bold'/>Напасти на Анахорета:<style name='Paragraph'/> Анахорету не слід було сходити з обраного шляху. Ти нагадаєш йому про могутність Голосу.
+
+## Quests.xml|ChildOfTheNewWorld/AssaultAnchoriteSuccess
+EN: You have brought war to the Anchorite's doorstep. The measly coward fled when your forces came knocking, and you find yourself annoyed that he would not stand and face them. Truly a sniveling coward.<br/>
+    <br/>
+    The Augur's forces follow your soldiers into the city's ruins to aid in the hunt for the wizened heretic. Only at the city's center does he stand still and close his eyes, listening to the wisdom of the Voice.<br/>
+    <br/>
+    All await. Then the Augur tilts his head skyward. “To see the stars…” he whispers. “To know… that traitor had a way back into orbit. To realize it harvests the bowels of the gutted Acrin fleet.”<br/>
+    <br/>
+    Impossible. War has prevented anyone from building vessels capable of reaching orbit. “Not with a vessel,” the Augur hisses. “To control a Garcic Passage. To know this device opens a door through space. Through time. To gates installed on the ships looming over our heads.”<br/>
+    <br/>
+    “The only option—to pursue him.”
+UK: Ти приводиш війну до порогу Анахорета. Жалюгідний боягуз утік перед появою твоїх військ, і тебе дратує, що він не залишився, щоб зустрітися з ними віч-на-віч. Воістину тремтлива тварюка.<br/>
+    <br/>
+    Війська Авгура слідують за твоїми солдатами в руїни міста, щоб вистежити зморщеного єретика. Коли ви добираєтесь до центру, Авгур завмирає й заплющує очі, прислухаючись до настанов Голосу.<br/>
+    <br/>
+    Усі чекають. Раптом Авгур задирає голову до неба. «Бачити зорі...» — шепоче він. — «Знати... зрадник піднявся назад на орбіту. З’ясувати, що він потрошить надра знищеного флоту акринів».<br/>
+    <br/>
+    Це неможливо. Війна не дозволила б йому збудувати судно, здатне дістатися орбіти. «Не за допомогою судна», — шипить Авгур. — «Контролювати Гарсикський прохід. Знати, що цей пристрій відкриває шлях крізь простір. Крізь час. До врат, встановлених на кораблях, що висять над нашими головами».<br/>
+    <br/>
+    «Єдиний вихід — гнатися за ним».
+
+## Quests.xml|ChildOfTheNewWorld/AssaultAnchoriteSuccess/LocatePassage
+EN: <style name='Bold'/>Locate the Garcic Passage:<style name='Paragraph'/> Somewhere in the wasteland, the Anchorite has stored a secret way to reach Earth's orbit. You must find it, maybe even before the Augur does…
+UK: <style name='Bold'/>Знайти Гарсикський прохід:<style name='Paragraph'/> Десь у пустці Анахорет приховав спосіб дістатися орбіти Землі. Тобі потрібно його знайти — можливо, навіть випередити Авгура...
+

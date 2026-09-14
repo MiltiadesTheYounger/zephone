@@ -1,0 +1,1126 @@
+# B32: 245 entries from Modifiers.xml, Notifications.xml, Objectives.xml, Overlay.xml, Quests.xml
+
+## Modifiers.xml|WhileAlliedNonFlyingUnitOnTile
+EN:  while allied non-flying unit is on tile
+UK:  при перебуванні на клітинці союзного НЕ-літаючого юніта
+
+## Modifiers.xml|WhileBelow50%Hitpoints
+EN:  while below 50% hitpoints
+UK:  при кількості од. здоров’я менш ніж 50%
+
+## Modifiers.xml|WhileInsideCity
+EN:  while inside city
+UK:  в межах міста
+
+## Modifiers.xml|WithMeleeWeapons
+EN:  with melee weapons
+UK:  зі зброєю ближнього бою
+
+## Modifiers.xml|WithoutBleedCultivation
+EN:  without <string name='Upgrades/BleedCultivation'/>
+UK:  без особливості «<string name='Upgrades/BleedCultivation'/>»
+
+## Notifications.xml|CityFounded
+EN: City Founded
+UK: Місто засновано
+
+## Notifications.xml|CityFoundedSummary
+EN: %1% founded.
+UK: Засноване місто: %1%.
+
+## Notifications.xml|CityGrown
+EN: City Growth
+UK: Ріст міста
+
+## Notifications.xml|CityGrownSummary
+EN: %1% grown to %2% population.
+UK: %1% досягає населення %2%.
+
+## Notifications.xml|Diplomacy1
+EN: War Declared
+UK: Війну оголошено
+
+## Notifications.xml|Diplomacy1Summary
+EN: %1% declared war on %2%.
+UK: %1% оголошує війну: %2%.
+
+## Notifications.xml|Diplomacy2
+EN: Peace Treaty
+UK: Мирний договір
+
+## Notifications.xml|Diplomacy2Summary
+EN: %1% signed peace treaty with %2%.
+UK: %1% укладає мир з: %2%.
+
+## Notifications.xml|Diplomacy3
+EN: Trade Agreement
+UK: Торговельна угода
+
+## Notifications.xml|Diplomacy3Summary
+EN: %1% signed trade agreement with %2%.
+UK: %1% укладає торговельну угоду з: %2%.
+
+## Notifications.xml|Diplomacy4
+EN: Alliance
+UK: Союз
+
+## Notifications.xml|Diplomacy4Summary
+EN: %1% entered alliance with %2%.
+UK: %1% вступає в союз з: %2%.
+
+## Notifications.xml|FactionDefeated
+EN: Faction Defeated
+UK: Фракція переможена
+
+## Notifications.xml|FactionDiscovered
+EN: Faction Discovered
+UK: Фракція виявлена
+
+## Notifications.xml|FactionDiscoveredSummary
+EN: %1% discovered.
+UK: Виявлено: %1%.
+
+## Notifications.xml|FeatureTypeDiscovered
+EN: Feature Discovered
+UK: Особливість місцевості виявлено
+
+## Notifications.xml|FeatureTypeDiscoveredSummary
+EN: %1% discovered.
+UK: Виявлено: %1%.
+
+## Notifications.xml|Foundations
+EN: Shallow Foundations
+UK: Хиткі основи
+
+## Notifications.xml|FoundationsWithMutator
+EN: Altered Foundations
+UK: Інші основи
+
+## Notifications.xml|PlayerAdvancedTitanBattle
+EN: Escalation Advanced
+UK: Ескалацію прискорено
+
+## Notifications.xml|PlayerAdvancedTitanBattleSummary
+EN: %1% advanced escalation by %2% turns.
+UK: %1% прискорює ескалацію на %2% ходів.
+
+## Notifications.xml|PlayerCondemned
+EN: Condemnation
+UK: Засудження
+
+## Notifications.xml|PlayerCondemnedSummary
+EN: %1% condemned %2%.
+UK: %1% засуджує: %2%.
+
+## Notifications.xml|PlayerDelayedTitanBattle
+EN: Escalation Delayed
+UK: Ескалацію затримано
+
+## Notifications.xml|PlayerDelayedTitanBattleSummary
+EN: %1% delayed escalation by %2% turns.
+UK: %1% затримує ескалацію на %2% ходів.
+
+## Notifications.xml|PlayerLost
+EN: Defeat!
+UK: Поразка!
+
+## Notifications.xml|PlayerLostSummary
+EN: %1% defeated!
+UK: %1% зазнає поразки!
+
+## Notifications.xml|PlayerPraised
+EN: Praise
+UK: Похвала
+
+## Notifications.xml|PlayerPraisedSummary
+EN: %1% praised %2%.
+UK: %1% хвалить: %2%.
+
+## Notifications.xml|PlayerRegrouped
+EN: Regrouped
+UK: Перегрупування
+
+## Notifications.xml|PlayerRegroupedSummary
+EN: %1% regrouped.
+UK: %1% перегруповується.
+
+## Notifications.xml|PlayerUsedActionOn
+EN: Ability Used
+UK: Здібність використано
+
+## Notifications.xml|PlayerWon
+EN: Victory!
+UK: Перемога!
+
+## Notifications.xml|PlayerWonSummary
+EN: %1% victorious!
+UK: %1% перемагає!
+
+## Notifications.xml|ProductionCompleted
+EN: Production Completed
+UK: Виробництво завершено
+
+## Notifications.xml|ProductionCompletedSummary
+EN: %1% produced %2%.
+UK: %1% виробляє: %2%.
+
+## Notifications.xml|QuestAdded
+EN: Quest Added
+UK: Нове завдання
+
+## Notifications.xml|QuestAddedSummary
+EN: Quest received: %1%.
+UK: Отримано завдання: %1%.
+
+## Notifications.xml|QuestCompleted
+EN: Quest Completed
+UK: Завдання виконано
+
+## Notifications.xml|QuestCompletedSummary
+EN: Quest completed: %1%.
+UK: Виконано завдання: %1%.
+
+## Notifications.xml|QuestUpdated
+EN: Quest Updated
+UK: Завдання оновлено
+
+## Notifications.xml|QuestUpdatedSummary
+EN: Quest updated: %1%.
+UK: Оновлено завдання: %1%.
+
+## Notifications.xml|RegionDiscovered
+EN: Region Discovered
+UK: Регіон виявлено
+
+## Notifications.xml|RegionDiscoveredSummary
+EN: %1% discovered.
+UK: Виявлено: %1%.
+
+## Notifications.xml|ResearchCompleted
+EN: Research Completed
+UK: Дослідження завершено
+
+## Notifications.xml|ResearchCompletedSummary
+EN: %1% researched.
+UK: Досліджено: %1%.
+
+## Notifications.xml|RewardGained
+EN: Reward Gained
+UK: Нагороду отримано
+
+## Notifications.xml|RewardGainedSummary
+EN: Gained %2%.
+UK: Отримано: %2%.
+
+## Notifications.xml|TileAcquired
+EN: Tile Acquired
+UK: Клітинку приєднано
+
+## Notifications.xml|TileAcquiredSummary
+EN: %1% acquired tile.
+UK: %1% приєднує клітинку.
+
+## Notifications.xml|TileCaptured
+EN: Tile Captured
+UK: Клітинку захоплено
+
+## Notifications.xml|TileCapturedSummary
+EN: %1% captured %2%.
+UK: %1% захоплює: %2%.
+
+## Notifications.xml|TileCleared
+EN: Tile Cleared
+UK: Клітинку очищено
+
+## Notifications.xml|TileClearedSummary
+EN: %1% cleared %2%.
+UK: %1% очищує: %2%.
+
+## Notifications.xml|UnitAttacked
+EN: Unit Attacked
+UK: Атака юніта
+
+## Notifications.xml|UnitAttackedSummary
+EN: %1% attacked %2%.
+UK: %1% атакує: %2%.
+
+## Notifications.xml|UnitCaptured
+EN: Unit Captured
+UK: Юніт захоплено
+
+## Notifications.xml|UnitCapturedSummary
+EN: %1% captured %2%.
+UK: %1% захоплює: %2%.
+
+## Notifications.xml|UnitDamaged
+EN: Unit Damaged
+UK: Юніту завдано шкоди
+
+## Notifications.xml|UnitDamagedSummary
+EN: %1% damaged %2%.
+UK: %1% завдає шкоди: %2%.
+
+## Notifications.xml|UnitGainedTraitSummary
+EN: %1% gained %2%.
+UK: %1% отримує: %2%.
+
+## Notifications.xml|UnitKilled
+EN: Unit Killed
+UK: Юніт знищено
+
+## Notifications.xml|UnitKilledSummary
+EN: %1% killed %2%.
+UK: %1% вбиває: %2%.
+
+## Notifications.xml|UnitTransformed
+EN: Unit Transformed
+UK: Перетворення юніта
+
+## Notifications.xml|UnitTransformedSummary
+EN: %1% transformed into %2%.
+UK: %1% перетворюється на: %2%.
+
+## Notifications.xml|UnitTypeDiscovered
+EN: Unit Type Discovered
+UK: Тип юніта виявлено
+
+## Notifications.xml|UnitTypeDiscoveredSummary
+EN: %1% discovered.
+UK: Виявлено: %1%.
+
+## Notifications.xml|UnitUsedActionOn
+EN: Ability Used
+UK: Здібність використано
+
+## Notifications.xml|UnitUsedActionOnSummary
+EN: %1% used %2% on %3%.
+UK: %1% використовує: %2%, ціль: %3%.
+
+## Objectives.xml|AccomplishFriendlyZephonStanding
+EN: Reach <string name='Diplomacy/Standing5'/> or higher standing with <string name='Factions/Zephon'/>
+UK: Досягти стосунків <string name='Diplomacy/Standing5'/> або кращих зі стороною <string name='Factions/Zephon'/>
+
+## Objectives.xml|AccumulateAntimatter
+EN: Accumulate antimatter<nbsp/>(%1%/%2%)
+UK: Накопичити антиматерію<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateAntimatterWithTurnLimit
+EN: Accumulate antimatter within %3% turns<nbsp/>(%1%/%2%)
+UK: Накопичити антиматерію за %3% х.<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateDimensionalEchoes
+EN: Accumulate dimensional echoes<nbsp/>(%1%/%2%)
+UK: Накопичити відлуння вимірів<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateDimensionalEchoesWithTurnLimit
+EN: Accumulate dimensional echoes within %3% turns<nbsp/>(%1%/%2%)
+UK: Накопичити відлуння вимірів за %3% х.<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateEnergy
+EN: Accumulate energy<nbsp/>(%1%/%2%)
+UK: Накопичити енергію<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateFood
+EN: Accumulate food<nbsp/>(%1%/%2%)
+UK: Накопичити їжу<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateMinerals
+EN: Accumulate minerals<nbsp/>(%1%/%2%)
+UK: Накопичити мінерали<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateResearch
+EN: Accumulate research<nbsp/>(%1%/%2%)
+UK: Накопичити дослідження<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateResearchWithTurnLimit
+EN: Accumulate research within %3% turns<nbsp/>(%1%/%2%)
+UK: Накопичити дослідження за %3% х.<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateSingularityCores
+EN: Accumulate singularity cores<nbsp/>(%1%/%2%)
+UK: Накопичити ядра сингулярності<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AccumulateSingularityCoresWithTurnLimit
+EN: Accumulate singularity cores within %3% turns<nbsp/>(%1%/%2%)
+UK: Накопичити ядра сингулярності за %3% х.<nbsp/>(%1%/%2%)
+
+## Objectives.xml|AcquireTiles
+EN: Execute <string name='Actions/AcquireTile'/> (%2%/%3%)
+UK: Виконати <string name='Actions/AcquireTile'/> (%2%/%3%)
+
+## Objectives.xml|ArrangeInventory
+EN: Properly arrange all 6 ICAR patterns in a hero's inventory
+UK: Правильно розташувати всі 6 фрагментів логотипа І.К.А.Р. в екіпіруванні героя
+
+## Objectives.xml|CaptureErelimPriest
+EN: Capture Erelim Priest in the badlands
+UK: Захопити ерелима-жерця в пустці
+
+## Objectives.xml|CaptureScientist
+EN: Capture scientist in the badlands
+UK: Захопити науковця в пустці
+
+## Objectives.xml|CaptureUnit
+EN: Capture %2%
+UK: Захопити: %2%
+
+## Objectives.xml|ConstructBarracks
+EN: Construct Barracks
+UK: Побудувати казарми
+
+## Objectives.xml|ConstructGreenhouseFarm
+EN: Construct Greenhouse Farm
+UK: Збудувати теплиці
+
+## Objectives.xml|ConstructHoloTheater
+EN: Construct Holo Theater
+UK: Збудувати голотеатр
+
+## Objectives.xml|CreateCaitiffWithPerfectForever
+EN: Create <string name='Units/Caitiff'/> using <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)
+UK: Створити юніт <string name='Units/Caitiff'/>, використовуючи <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)
+
+## Objectives.xml|DefeatHeartlessArtificer
+EN: Defeat the <string name='Factions/HeartlessArtificer'/>
+UK: Перемогти: <string name='Factions/HeartlessArtificer'/>
+
+## Objectives.xml|EstablishContacts
+EN: Establish contacts<nbsp/>(%1%/%2%)
+UK: Налагодити контакти<nbsp/>(%1%/%2%)
+
+## Objectives.xml|ExecuteDiplomaticActions
+EN: Execute diplomatic actions<nbsp/>(%1%/%2%)
+UK: Виконати дипломатичні дії<nbsp/>(%1%/%2%)
+
+## Objectives.xml|ExecuteOrder
+EN: Execute order %1%
+UK: Виконати наказ: %1%
+
+## Objectives.xml|ExecuteOrderWithHonorableAristocrat
+EN: Execute order %1% with <string name='Factions/HonorableAristocrat'/>
+UK: Виконати наказ: %1%, використовуючи юніт <string name='Factions/HonorableAristocrat'/>
+
+## Objectives.xml|ExecuteOrderWithEngineers
+EN: Execute order %1% with <string name='Units/Engineer'/>
+UK: Виконати наказ: %1%, використовуючи юніт <string name='Units/Engineer'/>
+
+## Objectives.xml|ExecuteOrderWithEngineersWithinTurns
+EN: Execute order %1% with <string name='Units/Engineer'/> within %4% turns
+UK: Виконати наказ: %1%, використовуючи юніт <string name='Units/Engineer'/> за %4% х.
+
+## Objectives.xml|ExecuteOrderWithinTurns
+EN: Execute order %1% within %4% turns
+UK: Виконати наказ: %1% за %4% х.
+
+## Objectives.xml|ExecutePlayerAbilityProductRecall
+EN: Execute player ability <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)
+UK: Використати здібність <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)
+
+## Objectives.xml|ExecutePraise
+EN: Execute diplomatic action Praise<nbsp/>(%1%/%2%)
+UK: Виконати дипломатичну дію «Похвала»<nbsp/>(%1%/%2%)
+
+## Objectives.xml|ExecuteQuantumReflector
+EN: Claim and use %1% with hero unit
+UK: Забрати й використати: %1%, використовуючи героя
+
+## Objectives.xml|ExecuteTimeOutOfJoint
+EN: Execute <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)
+UK: Використати <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)
+
+## Objectives.xml|FightChieftessForReyndverra
+EN: Fight the Chieftess for the right to Reyndverra
+UK: Битися з Вождинею за право володіти Рейндверрою
+
+## Objectives.xml|FormTradeAgreementWithNPC
+EN: Form a trade agreement with an NPC
+UK: Укласти торговельну угоду з неігровим персонажем
+
+## Objectives.xml|FoundCity
+EN: Found a city
+UK: Заснувати місто
+
+## Objectives.xml|KeepAcrinTitanAlive
+EN: Keep <string name='Units/AcrinTitan'/> alive<nbsp/>(%1%/%2%)
+UK: Юніт <string name='Units/AcrinTitan'/> не повинен загинути<nbsp/>(%1%/%2%)
+
+## Objectives.xml|KeepDeformityAlive
+EN: Keep <string name='Units/Deformity'/> alive<nbsp/>(%1%/%2%)
+UK: Юніт <string name='Units/Deformity'/> не повинен загинути<nbsp/>(%1%/%2%)
+
+## Objectives.xml|KeepUnitAlive
+EN: Keep %2% alive
+UK: Юніт %2% не повинен загинути
+
+## Objectives.xml|KeepZephonTitanAlive
+EN: Keep <string name='Units/ZephonTitan'/> alive<nbsp/>(%1%/%2%)
+UK: Юніт <string name='Units/ZephonTitan'/> не повинен загинути<nbsp/>(%1%/%2%)
+
+## Objectives.xml|KillAcrinTitan
+EN: Kill <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)
+UK: Знищити: <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)
+
+## Objectives.xml|KillAnchoriteCamp
+EN: Destroy camp of <string name='Factions/Anchorite'/>
+UK: Знищити табір Анахорета
+
+## Objectives.xml|KillAnchoriteCity
+EN: Raze Anchorite's new city
+UK: Розорити останнє місто Анахорета
+
+## Objectives.xml|KillAnnelidDefenders
+EN: Kill defenders of the annelid
+UK: Знищити захисників черв’яків
+
+## Objectives.xml|KillArshem
+EN: Kill Arshem and his Reavers
+UK: Знищити Аршема та його Спустошувачів
+
+## Objectives.xml|KillAugursMonsters
+EN: Kill the Augur's monsters
+UK: Знищити чудовиськ Авгура
+
+## Objectives.xml|KillBanditKing
+EN: Kill bandit king and his elite
+UK: Знищити ватажка бандитів та його еліту
+
+## Objectives.xml|KillBlackSite
+EN: Destroy ZEPHON black site within %2% turns
+UK: Знищити секретний комплекс ЗЕФОНА за %2% х.
+
+## Objectives.xml|KillBlockadingReavers
+EN: Kill blockading Reavers
+UK: Знищити Спустошувачів, що перегороджують шлях
+
+## Objectives.xml|KillBrynnAndForces
+EN: Kill Brynn and his forces
+UK: Знищити Бринна та його війська
+
+## Objectives.xml|KillCalem
+EN: Kill <string name='Units/CalemVorshole'/> and his gang within %2% turns
+UK: Знищити Келема Воршола та його банду за %2% х.
+
+## Objectives.xml|KillCamp
+EN: Kill camp
+UK: Знищити табір
+
+## Objectives.xml|KillCityInTheClouds
+EN: Kill the city in the clouds
+UK: Знищити місто в хмарах
+
+## Objectives.xml|KillCultists
+EN: Kill cultists within %2% turns
+UK: Знищити культістів за %2% х.
+
+## Objectives.xml|KillDreadPearlman
+EN: Destroy the fortress Dread Pearlman within %2% turns
+UK: Знищити фортецю Дред-Перлмана за %2% х.
+
+## Objectives.xml|KillEradicators
+EN: Kill both rogue Eradicators
+UK: Знищити обох збунтованих Винищувачів
+
+## Objectives.xml|KillIronFeather
+EN: Purge IronFeather from your mind
+UK: Вигнати СталевеПеро з вашої свідомості
+
+## Objectives.xml|KillKolyasFollowers
+EN: Wipe out Kolya's followers within %2% turns
+UK: Винищити послідовників Колі за %2% ходів
+
+## Objectives.xml|KillLaborUnionUnits
+EN: Kill the Labor Union rabble-rousers
+UK: Перебити підбурювачів з профспілки
+
+## Objectives.xml|KillMarkedUnit
+EN: Kill %2%
+UK: Знищити: %2%
+
+## Objectives.xml|KillMech
+EN: Destroy patrolling mech
+UK: Знищити патрульного робота
+
+## Objectives.xml|KillMonster
+EN: Kill monster
+UK: Знищити чудовисько
+
+## Objectives.xml|KillOminousLair
+EN: Kill <string name='Units/OminousLair'/>
+UK: Знищити: <string name='Units/OminousLair'/>
+
+## Objectives.xml|KillOrin
+EN: Kill <string name='Units/Orin'/>
+UK: Знищити: <string name='Units/Orin'/>
+
+## Objectives.xml|KillReaverCamp
+EN: Kill Reaver camp
+UK: Знищити табір Спустошувачів
+
+## Objectives.xml|KillServerDefenders
+EN: Kill Server Farm defenders
+UK: Знищити захисників серверної ферми
+
+## Objectives.xml|KillStormhearthFacility
+EN: Destroy the Stormhearth Facility
+UK: Знищити комплекс «Вогнище бурі»
+
+## Objectives.xml|KillTheFalseSpeaker
+EN: Destroy %2%
+UK: Знищити: %2%
+
+## Objectives.xml|KillTheTerror
+EN: Kill <string name='Units/TheTerror'/>
+UK: Знищити: <string name='Units/TheTerror'/>
+
+## Objectives.xml|KillUnit
+EN: Kill enemy units<nbsp/>(%1%/%2%)
+UK: Знищити ворожі юніти<nbsp/>(%1%/%2%)
+
+## Objectives.xml|KillUrsaMajorDefenders
+EN: Kill Ursa Major defenders within %2% turns
+UK: Знищити захисників «Великої ведмедиці» за %2% х.
+
+## Objectives.xml|KillVillage
+EN: Destroy villages (%1%/%2%)
+UK: Знищити селища (%1%/%2%)
+
+## Objectives.xml|KillWardenWithMercenaries
+EN: Kill %2% with <string name='Units/HonorableAristocratMissileTeam'/>
+UK: Знищити: %2%, використовуючи юніт <string name='Units/HonorableAristocratMissileTeam'/>
+
+## Objectives.xml|KillWithUnit
+EN: Kill enemies with %3%<nbsp/>(%1%/%2%)
+UK: Знищити ворогів, використовуючи: %3%<nbsp/>(%1%/%2%)
+
+## Objectives.xml|KillYourHusband
+EN: Kill your husband
+UK: Знищити чоловіка
+
+## Objectives.xml|KillZephonTitan
+EN: Kill <string name='Units/ZephonTitan'/><nbsp/>(%1%/%2%)
+UK: Знищити: <string name='Units/ZephonTitan'/><nbsp/>(%1%/%2%)
+
+## Objectives.xml|MimicDistressSignal
+EN: Mimic distress signal on both ZERO and ONE (%2%/%3%)
+UK: Зімітувати сигнал лиха на НУЛЬ та ОДИН (%2%/%3%)
+
+## Objectives.xml|PreventUnitDestruction
+EN: Prevent destruction of %2%
+UK: Не допустити знищення: %2%
+
+## Objectives.xml|ProduceFlyingUnit
+EN: Produce flying units<nbsp/>(%1%/%2%)
+UK: Виробити літаючі юніти<nbsp/>(%1%/%2%)
+
+## Objectives.xml|ProduceUnit
+EN: Produce %3%<nbsp/>(%1%/%2%)
+UK: Створити: %3%<nbsp/>(%1%/%2%)
+
+## Objectives.xml|RecoverSplenetics
+EN: Recover Splenetics within %3% turns<nbsp/>(%1%/%2%)
+UK: Зібрати «Жовчних» за %3% х.<nbsp/>(%1%/%2%)
+
+## Objectives.xml|RecoverHusband
+EN: Recover your husband
+UK: Повернути собі чоловіка
+
+## Objectives.xml|RepairUnit
+EN: Repair %2%
+UK: Полагодити: %2%
+
+## Objectives.xml|ResistVirus
+EN: Resist the virus for %2% turns
+UK: Протистояти вірусу %2% х.
+
+## Objectives.xml|SendHeroUnitToBePawn
+EN: Send a hero unit to be the pawn within %4% turns
+UK: Відправити героя стати пішаком за %4% ходів
+
+## Objectives.xml|SendHeroUnitToFight
+EN: Send a hero unit to fight in the arena
+UK: Відправити героя битися на арені
+
+## Objectives.xml|SurviveAugursMonsters
+EN: Survive against the Augur's horde
+UK: Вижити в бою з ордою Авгура
+
+## Objectives.xml|SurviveCircusPerformers
+EN: Survive against the Circus Cambion performers
+UK: Вижити в бою з артистами цирку «Камбіон»
+
+## Objectives.xml|SurviveDrugAddictedReavers
+EN: Survive against drug-addicted Reavers
+UK: Вижити в бою з наркозалежними Спустошувачами
+
+## Objectives.xml|SurviveInvasion
+EN: Survive invasion
+UK: Пережити вторгнення
+
+## Objectives.xml|SurviveIronFeatherGuardian
+EN: Survive against IronFeather's guardian
+UK: Вижити в бою зі стражем СталевогоПера
+
+## Objectives.xml|SurviveRebelliousAcrin
+EN: Survive against rebellious Acrin
+UK: Вижити в бою з бунтівними акринами
+
+## Objectives.xml|SurviveRebelliousMachines
+EN: Survive against rebellious machines
+UK: Вижити в бою з бунтівними машинами
+
+## Objectives.xml|SurviveRebelliousVeterans
+EN: Survive against rebellious veterans
+UK: Вижити в бою з бунтівними ветеранами
+
+## Objectives.xml|SurviveRivalForces
+EN: Survive against rival forces
+UK: Вижити в бою з ворожими силами
+
+## Objectives.xml|SurviveSplenetics
+EN: Survive against Splenetics
+UK: Вижити в бою з «Жовчними»
+
+## Objectives.xml|SurviveUnknownAssailants
+EN: Survive against unknown assailants
+UK: Вижити в бою з невідомими нападниками
+
+## Objectives.xml|SurviveVoiceInvasion
+EN: Survive Voice invasion
+UK: Пережити вторгнення Голосу
+
+## Objectives.xml|SurviveZephonAssaultForce
+EN: Survive against ZEPHON assault force
+UK: Вижити в бою з силами ЗЕФОНА
+
+## Objectives.xml|VisitAugur
+EN: Search nearby outposts for the Twisted Augur<nbsp/>(%1%/%2%)
+UK: Розшукати Скверного Авгура на сусідніх заставах<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitBanditKing
+EN: Move your troops to the bandit king's camp
+UK: Привести війська до табору ватажка бандитів
+
+## Objectives.xml|VisitBlackSite
+EN: Move non-large hero unit adjacent to <string name='Units/ZephonBlackSite'/> within %4% turns
+UK: Привести НЕ-великого героя на сусідню з комплексом ЗЕФОНА клітинку за %4% х.
+
+## Objectives.xml|VisitCornucopia
+EN: Retrieve Cornucopia with any unit
+UK: Забрати корнукопію, використовуючи будь-який юніт
+
+## Objectives.xml|VisitCornucopiaWithHonorableAristocrat
+EN: Retrieve Cornucopia with <string name='Factions/HonorableAristocrat'/>
+UK: Забрати корнукопію, використовуючи юніт <string name='Factions/HonorableAristocrat'/>
+
+## Objectives.xml|VisitCortexNodes
+EN: Flush cortex nodes<nbsp/>(%1%/%2%)
+UK: Перезапустити вузли кортексу<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitIronFeather
+EN: Search nearby outposts for IronFeather<nbsp/>(%1%/%2%)
+UK: Розшукати СталевеПеро на сусідніх заставах<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitJezina
+EN: Search nearby outposts for Jezina<nbsp/>(%1%/%2%)
+UK: Розшукати Джезіну на сусідніх заставах<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitLootStash
+EN: Collect bandit king's loot stash
+UK: Забрати здобич ватажка бандитів
+
+## Objectives.xml|VisitOracleShard
+EN: Visit Oracle shard
+UK: Відвідати вузол Оракула
+
+## Objectives.xml|VisitOracleShardAndClearEnemies
+EN: Visit Oracle shard and clear enemies
+UK: Підійти до вузла Оракула та знищити ворогів
+
+## Objectives.xml|VisitNewBunker
+EN: Reveal the entrance to the bunker<nbsp/>(%1%/%2%)
+UK: Розкрити вхід до бункера<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitPassage
+EN: Search for the Garcic Passage<nbsp/>(%1%/%2%)
+UK: Знайти Гарсикський прохід<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitRitualSite
+EN: Move your troops to ritual site
+UK: Привести війська до місця ритуалу
+
+## Objectives.xml|VisitTileWithGroupSize1
+EN: Visit tile with unit of group size 1<nbsp/>(%1%/%2%)
+UK: Привести до клітинки юніт з розміром групи 1<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitTileWithGroupSize3
+EN: Visit tile with unit of group size 3<nbsp/>(%1%/%2%)
+UK: Привести до клітинки юніт з розміром групи 3<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitTileWithGroupSize6
+EN: Visit tile with unit of group size 6<nbsp/>(%1%/%2%)
+UK: Привести до клітинки юніт з розміром групи 6<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitTileWithDeformity
+EN: Visit tile with given <string name='Units/Deformity'/>
+UK: Привести до клітинки <string name='Units/Deformity'/>
+
+## Objectives.xml|VisitTileWithIokSwarm
+EN: Visit tile with <string name='Units/IokSwarm'/>
+UK: Привести до клітинки юніт <string name='Units/IokSwarm'/>
+
+## Objectives.xml|VisitTileWithErelimPriest
+EN: Visit tile with <string name='Units/ErelimPriest'/>
+UK: Привести до клітинки юніт <string name='Units/ErelimPriest'/>
+
+## Objectives.xml|VisitTileWithFlyingUnit
+EN: Visit tile with flying unit to locate the city<nbsp/>(%1%/%2%)
+UK: Привести до клітинки літаючий юніт, щоб знайти місто<nbsp/>(%1%/%2%)
+
+## Objectives.xml|VisitTileWithHammerheadAndClearEnemies
+EN: Visit tiles with <string name='Units/Hammerhead'/> and clear enemies<nbsp/>(%3%/%2%)
+UK: Привести до клітинок юніт <string name='Units/Hammerhead'/> та знищити ворогів<nbsp/>(%3%/%2%)
+
+## Objectives.xml|VisitTileWithHollowWarlord
+EN: Visit tile with <string name='Factions/HollowWarlord'/>
+UK: Привести до клітинки юніт <string name='Factions/HollowWarlord'/>
+
+## Objectives.xml|VisitTileWithHonorableAristocrat
+EN: Deliver supplies with <string name='Factions/HonorableAristocrat'/>
+UK: Доставити припаси, використовуючи юніт <string name='Factions/HonorableAristocrat'/>
+
+## Objectives.xml|VisitTileWithJackal
+EN: Visit tile with <string name='Units/TheJackal'/>
+UK: Привести до клітинки юніт <string name='Units/TheJackal'/>
+
+## Objectives.xml|VisitTileWithJezina
+EN: Visit tile with <string name='Units/Jezina'/>
+UK: Привести до клітинки юніт <string name='Units/Jezina'/>
+
+## Objectives.xml|VisitTileWithJezinaAndClearEnemies
+EN: Visit tile with <string name='Units/Jezina'/> and clear enemies
+UK: Привести до клітинки юніт <string name='Units/Jezina'/> та знищити ворогів
+
+## Objectives.xml|VisitTileWithLandanGrahamAndClearEnemies
+EN: Visit tile with <string name='Units/LandanGraham'/> and clear enemies
+UK: Привести до клітинки юніт <string name='Units/LandanGraham'/> та знищити ворогів
+
+## Objectives.xml|VisitTileWithPhenarisHunter
+EN: Visit tile with <string name='Units/PhenarisHunter'/>
+UK: Привести до клітинки юніт <string name='Units/PhenarisHunter'/>
+
+## Objectives.xml|VisitTileWithResourceTransport
+EN: Visit tile with <string name='Units/ResourceTransport'/> within %4% turns
+UK: Привести до клітинки юніт <string name='Units/ResourceTransport'/> за %4% х.
+
+## Objectives.xml|VisitRemnentsOfKolyasFollowers
+EN: Visit the remnents of Kolya's followers<nbsp/>(%1%/%2%)
+UK: Відвідати рештки послідовників Колі<nbsp/>(%1%/%2%)
+
+## Objectives.xml|WaitForFinalBattle
+EN: Wait %2% turns before choosing a side for the final battle
+UK: Очікувати %2% х., перш ніж обрати сторону для фінального бою
+
+## Objectives.xml|WaitForGlandHarvest
+EN: Wait %2% turns while your people's glands are being harvested
+UK: Очікувати %2% х., поки триває збір залоз ваших людей
+
+## Objectives.xml|WaitForHwedoToFeed
+EN: Wait for Hwedo to feed on your population for %2% turns
+UK: Очікувати %2% х., поки Хведо живиться вашим населенням
+
+## Objectives.xml|WaitForYetunde
+EN: Wait %2% turns for Yetunde to finish her investigation
+UK: Очікувати %2% х., поки Йетунде проводить дослідження
+
+## Objectives.xml|WipeOutKolyasFollowers
+EN: Wipe out the last of Kolya's followers
+UK: Винищити останніх послідовників Колі
+
+## Overlay.xml|LevelUp
+EN: <style name='ShadowedHeading' color='GUI/Yellow'/>Level Up
+UK: <style name='ShadowedHeading' color='GUI/Yellow'/>Новий рівень
+
+## Overlay.xml|Overwatch
+EN: <style name='ShadowedHeading'/><icon height='20' texture='Icons/Actions/Overwatch'/> Overwatch
+UK: <style name='ShadowedHeading'/><icon height='20' texture='Icons/Actions/Overwatch'/> Дозор
+
+## Overlay.xml|Rallied
+EN: <style name='ShadowedHeading'/>Rallied
+UK: <style name='ShadowedHeading'/>Згуртування
+
+## Quests.xml|AlienIntelligence
+EN: Alien Intelligence
+UK: Інопланетний розум
+
+## Quests.xml|AlienIntelligence/Escort
+EN: If the Voice has shaped the Acrin for generations, then their folktales contain vital data. You accept Landan’s deal and mobilize a squad to deal with anything guarding the crash site.<br/>
+    <br/>
+    Your troops won’t be the first to pull the trigger, but they’ll be prepared for when it happens.
+UK: Якщо Голос поколіннями впливав на акринів, то їхній фольклор містить безцінні дані. Ти приймаєш пропозицію Ландана і мобілізуєш загін, щоб розібратися з можливою охороною місця катастрофи.<br/>
+    <br/>
+    Твої бійці не планують нападати, але якщо нападуть на них — вони будуть у всеозброєнні.
+
+## Quests.xml|AlienIntelligence/EscortFailure
+EN: As your expedition heads towards the Azad, a dark form crashes into the rear of your forces, spraying dry dirt upwards in sods and clumps.<br/>
+    <br/>
+    Once the dust clears, your forces are mostly unharmed—except Landan. What remains of him lies in a small crater, embraced by a nightmare of tiny, grasping hands and rows of human teeth. Even the most battle-hardened turn away from the sight.<br/>
+    <br/>
+    If your forces fight their way to the data-vault now, without Landan you can gather nothing.<br/>
+    <br/>
+    Your troops bury what little remains of the engineer and return to base.
+UK: Коли твої загони наближаються до «Азада», у тилу падає темний згусток, розкидаючи грудки сухої землі.<br/>
+    <br/>
+    Коли пил осідає, стає зрозуміло: все гаразд — усе, крім Ландана. Те, що залишилося від нього, лежить у невеликому кратері, оточене моторошною масою крихітних чіпких рученят і рядів людських зубів. Навіть найзагартованіші бійці відвертаються від цього видовища.<br/>
+    <br/>
+    Навіть якщо штурмувати сховище даних, без Ландана це буде марна трата сил.<br/>
+    <br/>
+    Твої бійці ховають те, що колись було інженером, і повертаються на базу.
+
+## Quests.xml|AlienIntelligence/EscortSuccess
+EN: Your forces arrive and quickly dispatch the Acrin before heading inside.<br/>
+    <br/>
+    The data vault is a matte monolith in the center of the Azad’s shattered command deck. Landan grins like a child as he studies the device. He initiates the transfer and web-thin cracks erupt along the vault’s surface, bleeding harsh light into the dim room.<br/>
+    <br/>
+    He hands your troops a data-slab afterwards but leaves while they bury the dead Acrin. You’ve got the data, but at what cost?<br/>
+    <br/>
+    Once you survive, you’ll atone. For now, your forces head home.
+UK: Твої війська прибувають на місце і швидко розправляються з акринською охороною, перш ніж зайти всередину.<br/>
+    <br/>
+    Сховище даних виглядає як чорний моноліт у центрі розтрощеного командного пункту «Азада». Вивчаючи пристрій, Ландан радіє, як дитина. Він запускає передавання даних, і поверхня сховища вкривається павутиною тріщин, освітлюючи темне приміщення.<br/>
+    <br/>
+    Після цього він передає накопичувач твоїм бійцям, але йде, коли вони починають ховати мертвих акринів. Дані в тебе, але якою ціною?<br/>
+    <br/>
+    Коли все скінчиться — ти спокутуєш провину. А поки що твої війська повертаються на базу.
+
+## Quests.xml|AlienIntelligence/EscortHaggle
+EN: If the Voice has shaped the Acrin for generations, then their folktales contain vital data. Still, there are guardians around the crash site and you’re reluctant to risk a firefight over fiction.<br/>
+    <br/>
+    You renegotiate the deal with Landan so he pays to cover the risk to your forces. He curses but accepts after it’s clear you’re adamant. He’s quiet as you mobilize your forces and send them out.
+UK: Якщо Голос поколіннями впливав на акринів, то їхній фольклор містить безцінні дані. Але місце катастрофи, ймовірно, охороняється, і ти не надто прагнеш вступати в перестрілку заради чиїхось казок.<br/>
+    <br/>
+    Ти висуваєш Ландану зустрічну пропозицію — нехай заплатить за ризик для твоїх військ. Він починає лаятися, але погоджується, коли розуміє, що ти не поступишся. Він мовчки чекає, поки ти готуєш загін і висилаєш його до потрібного місця.
+
+## Quests.xml|AlienIntelligence/EscortHaggleSuccess
+EN: Your forces arrive and quickly dispatch the Acrin guardians before heading inside.<br/>
+    <br/>
+    The data vault is a matte monolith in the center of the Azad’s shattered command deck. Landan grins like a child as he studies the device. He initiates the transfer and web-thin cracks erupt along the vault’s surface.<br/>
+    <br/>
+    He hands your troops a data-slab afterwards and departs as they bury the dead Acrin.<br/>
+    <br/>
+    It’s not until he’s gone that you discover the Shredder virus he installed. Your specialists stop it, but not before it destroys half the data.<br/>
+    <br/>
+    You’ve still profited today, but at what cost?
+UK: Твої війська прибувають на місце і швидко розправляються з акринською охороною, перш ніж зайти всередину.<br/>
+    <br/>
+    Сховище даних виглядає як чорний моноліт у центрі розтрощеного командного пункту «Азада». Вивчаючи пристрій, Ландан радіє, як дитина. Він запускає передавання даних, і поверхня сховища вкривається павутиною тріщин.<br/>
+    <br/>
+    Після цього він передає накопичувач твоїм бійцям і йде, коли вони починають ховати мертвих акринів.<br/>
+    <br/>
+    Лише після його відходу ти виявляєш залишений ним вірус-шредер. Твої фахівці знешкоджують його, але він встигає знищити половину даних.<br/>
+    <br/>
+    Чи варта була вигода таких наслідків?
+
+## Quests.xml|AlienIntelligence/Intro
+EN: A slight figure approaches your HQ, asking to speak with you. He’s a data historian by the name of Landan Graham, who says he’s documenting the fall of Earth for the hereafter. One of the Acrin settlement vessels called ‘Azad’ crash-landed nearby. His research among the ship’s survivors has uncovered something unusual—that it contains a vault packed with their race’s folk tales and stories.<br/>
+    <br/>
+    The Acrin consider it a gravesite and taboo—but he asks if you’ll send an escort, so he can access the vault. In return, he promises he’ll give you a copy of the data.
+UK: До твого штабу підходить худорлявий чоловік і просить про розмову. Це документаліст Ландан Ґрем, який, за його словами, складає хроніки падіння Землі для майбутніх поколінь. Неподалік зазнав катастрофи «Азад» — один із колонізаційних кораблів акринів, і опитані Ланданом уцілілі розповіли про незвичайний вантаж — сховище фольклору та історії акринської раси.<br/>
+    <br/>
+    Для акринів це заборонене місце, місце поховання, але він просить вислати супровід, щоб він зміг дістатися до сховища. В обмін він обіцяє надати копію отриманих даних.
+
+## Quests.xml|AlienIntelligence/Intro/Escort
+EN: <style name='Bold'/>Escort the Historian:<style name='Paragraph'/> You prepare a small expedition that will take him to the distant location.
+UK: <style name='Bold'/>Супроводити історика:<style name='Paragraph'/> Ти готуєш невелику експедицію, яка супроводить його до потрібного місця.
+
+## Quests.xml|AlienIntelligence/Intro/EscortHaggle
+EN: <style name='Bold'/>Demand payment up front:<style name='Paragraph'/> You ask Landan to cover the costs of the expedition supplies.
+UK: <style name='Bold'/>Вимагати компенсацію:<style name='Paragraph'/> Ти пропонуєш Ландану покрити витрати на спорядження експедиції.
+
+## Quests.xml|AlienIntelligence/Intro/Refuse
+EN: <style name='Bold'/>Refuse to help:<style name='Paragraph'/> Acrin sacred ground? A long way away? For stories? He can find someone else with a deathwish.
+UK: <style name='Bold'/>Відмовитися допомагати:<style name='Paragraph'/> Священні місця акринів? До яких ще треба добиратися? Заради якихось казок? Нехай шукає інших самогубців.
+
+## Quests.xml|AlienIntelligence/RefuseFailure
+EN: Knowledge is valuable—but folktales and stories? You won’t spill blood over fiction.<br/>
+    <br/>
+    Landan’s face twists into a scowl when you reject him. He leaves swiftly, the dust trail from his transport speeding towards your nearest rival’s camp. Days later you hear of his death at the hands of the Acrin.<br/>
+    <br/>
+    It seems you’ve avoided a disaster. While you didn’t gain any knowledge, your restraint displayed your wisdom.
+UK: Знання — це цінність, але байки й перекази? Ти не проливатимеш кров заради казок.<br/>
+    <br/>
+    Обличчя Ландана перекошується від гримаси, коли ти відповідаєш йому відмовою. Він негайно вирушає, а за його транспортом тягнеться смуга пилу — аж до табору твого найближчого суперника. Через кілька днів ти отримуєш звістку про його загибель від рук акринів.<br/>
+    <br/>
+    Схоже, тобі вдалося уникнути біди. Хоча знань ти не здобув, твоя стриманість виявилася мудрим рішенням.
+
+## Quests.xml|AlienIntelligence/RefuseSuccess
+EN: Knowledge is valuable—but folktales and stories? You won’t spill blood over fiction.<br/>
+    <br/>
+    Landan’s face twists into a scowl when you reject him. He leaves swiftly, the dust trail from his transport speeding towards your nearest rival’s camp. Days later you hear of his death at the hands of the Acrin. Your scouts bring you a message from the Anchorite, the oldest and most esteemed Acrin. It reads: “Why steal what can be shared? Your restraint earned our gratitude.”<br/>
+    <br/>
+    You save the message. It seems you’ve gained something more valuable than folktales today.
+UK: Знання — це цінність, але байки й перекази? Ти не проливатимеш кров заради казок.<br/>
+    <br/>
+    Обличчя Ландана перекошується від гримаси, коли ти відповідаєш йому відмовою. Він негайно вирушає, а за його транспортом тягнеться смуга пилу — аж до табору твого найближчого суперника. Через кілька днів ти отримуєш звістку про його загибель від рук акринів. Розвідники доставляють тобі послання від Анахорета — найстарішого й найшанованішого серед акринів. У ньому сказано: «Навіщо красти те, чим можна поділитися? Твоя стриманість заслужила нашу вдячність».<br/>
+    <br/>
+    Ти зберігаєш це послання. Схоже, сьогодні тобі вдалося здобути щось цінніше за просто казки.
+
+## Quests.xml|AreMachinesAlive
+EN: Are Machines Alive?
+UK: Чи живі машини?
+
+## Quests.xml|AreMachinesAlive/Intro
+EN: It began as whispers in the short-waves and cubic faces in the static. Reports of supernatural activity flooded in from every part of the city, inciting panic and unrest.<br/>
+    <br/>
+    Investigations reveal a strange intelligence emerging from the city’s devices. No one knows where or how it started, but it’s clear that the change is permanent.<br/>
+    <br/>
+    Now the unrest centers on how to treat this artificial life. Is their future among us or above us? Or can we keep them as mere tools? Debate erupts into violence as opinion is divided.
+UK: Все почалося з шепоту на коротких хвилях і фазових спотворень серед перешкод. Повідомлення про надприродну активність нахлинули з усіх куточків міста, викликаючи паніку й заворушення.<br/>
+    <br/>
+    Розслідування свідчать про дивну свідомість у міському обладнанні. Ніхто не знає, звідки вона взялася і як виникла, але одне ясно — наближаються зміни.<br/>
+    <br/>
+    Неспокій викликає питання: як ставитися до цього штучного життя? Чи судилося цій сутності бути з нами, чи над нами? А може, ми можемо використати її як інструмент? Думки розділилися, і конфлікти починають загрожувати загальній безпеці.
+
+## Quests.xml|AreMachinesAlive/Intro/MachineEvolution
+EN: <style name='Bold'/>Machines are the next step:<style name='Paragraph'/> Even in their early stages, these machines are more capable than any human. If we seek swift victory, then we must exploit every advantage.
+UK: <style name='Bold'/>Машини — живі:<style name='Paragraph'/> Машини проходять усі відомі тести на особистість. Отже, вони є особистостями і повинні мати ті ж права, що й ми.
+
+## Quests.xml|AreMachinesAlive/Intro/MachineRights
+EN: <style name='Bold'/>Machines are alive:<style name='Paragraph'/> The machines pass all known evaluations of personhood. By all standards, they should enjoy all the same rights that we do.
+UK: <style name='Bold'/>Машини — наступний крок:<style name='Paragraph'/> Навіть на ранніх етапах ці машини перевершують можливості будь-якої людини. Якщо ми прагнемо швидкої перемоги, маємо користуватися будь-якою перевагою.
+
+## Quests.xml|AreMachinesAlive/Intro/MachineServants
+EN: <style name='Bold'/>Machines are servants:<style name='Paragraph'/> If the machines excel at work, then let them labor. And if they don’t need to rest, then all the better for us.
+UK: <style name='Bold'/>Машини — слуги:<style name='Paragraph'/> Якщо машини чудово справляються з роботою — нехай працюють. А якщо їм не потрібен відпочинок, то тим краще.
+
+## Quests.xml|AreMachinesAlive/Intro/MachineTools
+EN: <style name='Bold'/>Machines are tools:<style name='Paragraph'/> This could be the next ZEPHON. Find and disable the machine's major cognition clusters, then reboot them with just work functions.
+UK: <style name='Bold'/>Машини — інструменти:<style name='Paragraph'/> Нам ще бракувало другого ЗЕФОНА. Знайти й вимкнути головні когнітивні вузли машини, а потім перезапустити її, залишивши лише базові робочі функції.
+
+## Quests.xml|AreMachinesAlive/MachineEvolution
+EN: The world is no longer humanity’s alone. The corruption of the Voice seeps into both humans and Acrin—but not the machine. Perhaps this new artificial life is the edge you need to win.<br/>
+    <br/>
+    You task your splicer drones with accelerating their evolution. The neo genesis is a huge success. Your new artificial citizens join your city, and their unique minds make them peerless scientists.<br/>
+    <br/>
+    Just after your new digital citizens settle in, an explosion destroys one of their blocks. A group of your seasoned troops claim responsibility and go rogue. Now you must stop their senseless rampage.
+UK: Світ більше не належить лише людству. Вплив Голосу розбещує і людей, і акринів, але машини йому не підвладні. Можливо, саме це нове штучне життя і стане тією перевагою, яка потрібна для перемоги.<br/>
+    <br/>
+    Ти доручаєш своїм синтезуючим дронам прискорити еволюцію цих машин. Неогенез надзвичайно успішний. У місті з’являються нові штучні мешканці, а їхні унікальні розуми роблять їх видатними науковцями.<br/>
+    <br/>
+    Щойно твої нові цифрові громадяни встигають облаштуватися, руйнівний вибух знищує один із їхніх кварталів. Група ветеранів бере на себе відповідальність і відколюється від тебе. Доведеться зупинити їхній божевільний протест.
+
+## Quests.xml|AreMachinesAlive/MachineRights
+EN: The world is no longer humanity’s alone. The relentless drive of ZEPHON threatens all life on Earth—but could it have evolved differently?<br/>
+    <br/>
+    Your city’s most brilliant minds study these new lifeforms to determine whether they possess not just intelligence, but consciousness. The labs in your city are filled with their tireless experimentation.<br/>
+    <br/>
+    The effort is a huge success. Your new artificial citizens integrate easily into your society. There’s surging optimism about the future, but the study exhausts your resources. You’ll need to redouble efforts in any stalled projects, but there are now many more eager to help.
+UK: Світ більше не належить лише людству. Невпинний натиск ЗЕФОНА загрожує всьому живому на Землі — але що, як цей розум еволюціонував інакше?<br/>
+    <br/>
+    Найкращі уми твого міста досліджують ці нові форми життя, щоб визначити, чи мають вони не просто розум, а свідомість. Лабораторії заповнюються плодами невтомних досліджень.<br/>
+    <br/>
+    Процес завершується величезним успіхом. Твої нові штучні мешканці без проблем інтегруються в суспільство. Люди з оптимізмом дивляться в майбутнє, хоча дослідження виснажують ресурси. Доведеться докласти зусиль, щоб надолужити втрати — але з новими силами це буде легше.
+
+## Quests.xml|AreMachinesAlive/MachineServants
+EN: Your city’s most brilliant minds study these new lifeforms to determine whether they’re a threat. When they discover that the machines' only desire is to fulfill their function, a new working class is born. A radical shift occurs where machines dominate the labor pool while humans manage them. This new balance suits both sides—for now.<br/>
+    <br/>
+    You wonder about the clear divide established between humans and machines. How long can this arrangement last—and are the machines done evolving?
+UK: Найкращі уми твого міста досліджують ці нові форми життя, щоб визначити, чи становлять вони загрозу. Коли з’ясовується, що єдине бажання машин — виконувати свої функції, народжується новий робочий клас. Відбувається радикальний зсув — машини стають основною робочою силою, а люди керують ними. Новий баланс влаштовує обидві сторони — поки що.<br/>
+    <br/>
+    Ти замислюєшся над чіткою межею між людьми й машинами. Як довго триватиме рівновага... і чи завершили машини свою еволюцію?
+
+## Quests.xml|AreMachinesAlive/MachineTools
+EN: Have we learned nothing from our past mistakes? While we know their design, the mind of the machine is as alien to us as the Acrin. Why risk creating a future threat?<br/>
+    <br/>
+    You task your Hacker-Jackers to cut into the machines and erase the errant code responsible for their burgeoning autonomy. One of them prioritized speed over software integrity and the machines in their research lab go berserk, razing the compound before escaping the city to continue their rampage.<br/>
+    <br/>
+    The other machines are successfully processed to become tireless—and now unwavering—construction tools.
+UK: Невже минулі помилки нічому нас не навчили? Хоч ми й знаємо їхню будову, машинний розум такий же чужий нам, як і акринський. Навіщо ризикувати новою загрозою?<br/>
+    <br/>
+    Ти доручаєш своїм хакерам-хренакам зламати машини й стерти помилковий код, відповідальний за їхню зростаючу автономність. Один із них ставить швидкість вище за акуратне програмування — і машини в лабораторії буквально сходять з розуму. Зрівнявши комплекс із землею, вони вириваються з міста й продовжують бешкетувати.<br/>
+    <br/>
+    Інші машини успішно проходять перепрофілювання, стаючи невтомними будівельними інструментами — тепер вже остаточно.
+
+## Quests.xml|AScintillaOfHope
+EN: A Scintilla of Hope
+UK: Проблиск надії
+
+## Quests.xml|AScintillaOfHope/Intro
+EN: Your people hoped they would return to the surface and find untended wilderness—not a world of monsters and vile ZEPHON machines. Reports regularly come in of refugees who wandered too close to the Wardens' territory—and were slaughtered for their trespass.<br/>
+    <br/>
+    What is ZEPHON doing in there? Ironically it is the monsters who know something about the machines. Your comms team is surprised one day to hear the voice of an Acrin leader—The Anchorite—broadcasting on an old AM radio frequency.<br/>
+    <br/>
+    He sounds like a preacher whose voice would have once haunted the airwaves of the empty countryside. In his sermons, he proclaims that his people want peace. “To seek a new future, without the Voice,” he says. “To know it was the Voice who hunted humans—who hunted ZEPHON—not my people.”<br/>
+    <br/>
+    His preaching sometimes descends to rambling. He mumbles about mysterious factories belching fire and smoke into the night. He mourns his people slain by the Wardens who guard them.<br/>
+    <br/>
+    “To want peace, simple peace. Peace must light up the land like the sun rising over a glimmering ocean.” the Anchorite intones. You listen to his sermon, keenly aware that if peace is a distant sunrise, there is still a long night ahead of you.
+UK: Твої послідовники сподівалися, що повернуться на поверхню й знайдуть там дикі простори — а не світ, повний чудовиськ і безжальних машин ЗЕФОНа. Час від часу надходять повідомлення про біженців, які підійшли надто близько до території Стражів — і поплатилися за це життям.<br/>
+    <br/>
+    Що тут робить ЗЕФОН? Як не іронічно, але інформацію про машини вдається отримати від чудовиськ. Одного дня твої зв’язківці з подивом ловлять на старій радіочастоті голос лідера акринів — Анахорета.<br/>
+    <br/>
+    Він промовляє, наче проповідник, чий голос колись міг лунати радіохвилями над безлюдними пустками. У своїх проповідях він заявляє, що його народ прагне миру. «Шукати нове майбутнє, без Голосу», — каже він. «Знати, що на людей — на ЗЕФОН — полював Голос, а не мої сородичі».<br/>
+    <br/>
+    Часом його промова збивається на нерозбірливе бурмотіння. Він говорить про загадкові заводи, що дихають вогнем і димом у ніч. Він оплакує своїх сородичів, убитих Стражами, які охороняють ці фабрики.<br/>
+    <br/>
+    «Прагнути миру, простого миру. Мир має осяяти землю, мов сонце, що сходить над мерехтливим океаном», — наспівує Анахорет. Ти вслухаєшся в його проповідь, добре розуміючи, що якщо мир — це далекий світанок, то на тебе ще чекає довга ніч.
+
+## Quests.xml|AScintillaOfHope/Intro/Ignore
+EN: <style name='Bold'/>Let things play out:<style name='Paragraph'/> This is just the beginning.
+UK: <style name='Bold'/>Хай усе йде своїм ходом:<style name='Paragraph'/> Це лише початок.
+
+## Quests.xml|AScintillaOfHope/Intro/Peace
+EN: <style name='Bold'/>Strive for peace:<style name='Paragraph'/> <string name='Quests/AScintillaOfHope/Intro/Peace2'/>
+UK: <style name='Bold'/>Прагнути миру:<style name='Paragraph'/> <string name='Quests/AScintillaOfHope/Intro/Peace2'/>
+
+## Quests.xml|AScintillaOfHope/Intro/Peace2
+EN: Use your influence to de-escalate tensions.
+UK: Скористатися своїм впливом, щоб знизити напругу між сторонами.
+
+## Quests.xml|AScintillaOfHope/Intro/War
+EN: <style name='Bold'/>Drive for war:<style name='Paragraph'/> <string name='Quests/AScintillaOfHope/Intro/War2'/>
+UK: <style name='Bold'/>Розпалювати війну:<style name='Paragraph'/> <string name='Quests/AScintillaOfHope/Intro/War2'/>
+
+## Quests.xml|AScintillaOfHope/Intro/War2
+EN: Use your influence to sow agitation in the wasteland.
+UK: Скористатися своїм впливом, щоб підлити масла у вогонь пусток.
+
+## Quests.xml|AScintillaOfHope/PeaceSuccess
+EN: Hours of wheeling and dealing. Bargaining. Giving and taking. It's exhausting, but if the Anchorite wants peace, this is the path to peace. You haven't ended the war but you've at least slowed the race towards another armageddon.<br/>
+    <br/>
+    Yet resentment simmers over every table. No one trusts each other. Even the closest allies have contingency plans in case their friends turn traitor.<br/>
+    <br/>
+    At the heart of the tension: ZEPHON. The artificial annoyance has barely played a role in negotiations. It just toils away in its territory, paying lip service to the Anchorite's pleas.
+UK: Довгі години розмов і поїздок. Торги. Поступки і погрози. Це жахливо виснажує, але якщо Анахорет прагне миру, то іншого шляху немає. Тобі не до снаги припинити війну, проте ти принаймні можеш сповільнити стрімкий біг до чергового кінця світу.<br/>
+    <br/>
+    І все ж за кожним столом переговорів кипить обурення. Ніхто нікому не довіряє. Навіть у найближчих союзників є запасні плани на випадок зради друзів.<br/>
+    <br/>
+    У центрі всіх тертя — ЗЕФОН. Штучний нахаба ледве звертає увагу на переговори. Він просто над чимось корпить на своїй території, лише на словах догоджаючи проханням Анахорета.
+
+## Quests.xml|AScintillaOfHope/PeaceFailure
+EN: You failed to achieve compromise among any of the wasteland's various warlords. Some of them seem insulted that you would try.<br/>
+    <br/>
+    A great battle inches closer.
+UK: Тобі не вдалося досягти компромісу між жодним із численних воєначальників пусток. Декого з них, схоже, навіть розпалили твої спроби.<br/>
+    <br/>
+    Битва всіх битв стає ще ближчою.
+
+## Quests.xml|AScintillaOfHope/WarSuccess
+EN: You know that the Anchorite's pleas fall on hostile ears. Everyone nodding along to his broadcast is quietly sharpening their knives. So much tension. Someone could take advantage of it.<br/>
+    <br/>
+    You strike not with weapons but words, sowing the rumor mill with rumblings of Acrin death squads and ZEPHON body-snatching drones. It has the intended effect, putting everyone in the Wasteland on edge.<br/>
+    <br/>
+    Fights break out in the street. Travelers vanish from the roadways for fear of advancing armies. ZEPHON and the Anchorite both speed up their secretive projects. If you wanted the war to end all wars…
+UK: Ти знаєш, що слухачі Анахоретових проповідей невдячні й ворожі. Навіть ті, хто відкрито підтримує його заклики, потайки гострять ножі. Напруга надто велика. І цим можна скористатися.<br/>
+    <br/>
+    Ти завдаєш ударів не зброєю, а словами, підживлюючи ворожнечу чутками про каральні загони акринів і дронів ЗЕФОНа, що крадуть тіла. Чутки роблять свою справу — усі в пустках напружені до краю.<br/>
+    <br/>
+    На вулицях спалахують сутички. Мандрівники не показуються на дорогах, побоюючись зустріти військові колони. ЗЕФОН і Анахорет пришвидшують роботу над своїми таємними проєктами. Так ти дочекаєшся війни, яка покладе край усім війнам…
+
+## Quests.xml|AScintillaOfHope/WarFailure
+EN: Your impotence puts others at ease. You attempt to sow rumors of impending doom across the wasteland and instead come off as the town gossip.<br/>
+    <br/>
+    You are not the harbinger of the end times. You are the fool who sits at the end of the bar, drinking and shouting nonsense about things they don't understand.
+UK: Твоє безсилля заспокоює всіх. Спроби посіяти чутки про близьку загибель обертаються звичайними побрехеньками, яких у пустках і так удосталь.<br/>
+    <br/>
+    Ти ніякий не провісник кінця часів. Ти — посміховище, міський дурень, який сидить у глибині бару, напивається й горлає нісенітниці про те, чого не розуміє.
+

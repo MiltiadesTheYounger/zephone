@@ -1,0 +1,50 @@
+[
+	{
+		"id": "AI.xml|EmulatedMind12",
+		"sev": "med",
+		"cat": "typo",
+		"note": "A final -ІА is not Ukrainian spelling; names ending in -ia take -ія (Отілія).",
+		"find": "ОТІЛІА",
+		"replace": "ОТІЛІЯ"
+	},
+	{
+		"id": "AI.xml|EmulatedMind15",
+		"sev": "med",
+		"cat": "typo",
+		"note": "A final -ІА is not Ukrainian spelling; the Polish name Basia is Бася in Ukrainian (or БАСІЯ if kept literal).",
+		"find": "БАСІА",
+		"replace": "БАСЯ"
+	},
+	{
+		"id": "AI.xml|FurtiveTribunal16",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "Настасья is the Russian spelling, while every other name here uses the Ukrainian form; the Ukrainian form is Настасія.",
+		"find": "Настасья",
+		"replace": "Настасія"
+	},
+	{
+		"id": "AI.xml|HeartlessArtificer18",
+		"sev": "med",
+		"cat": "russianism",
+		"note": "Руфь is the Russian form (Ukrainian never puts ь after ф); the Ukrainian name is Рут, as in EmulatedMind8.",
+		"find": "Руфь",
+		"replace": "Рут"
+	},
+	{
+		"id": "AI.xml|HeartlessArtificer27",
+		"sev": "med",
+		"cat": "typo",
+		"note": "A letter is missing: Asantewaa should be Асантева.",
+		"find": "Асантва",
+		"replace": "Асантева"
+	},
+	{
+		"id": "AI.xml|InfiniteCount0",
+		"sev": "med",
+		"cat": "term",
+		"note": "Huygens has the established Ukrainian form Гюйгенс; Гайгенс follows the English pronunciation.",
+		"find": "Гайгенс",
+		"replace": "Гюйгенс"
+	}
+]

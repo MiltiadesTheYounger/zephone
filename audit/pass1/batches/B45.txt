@@ -1,0 +1,386 @@
+# B45: 39 entries from Quests.xml
+
+## Quests.xml|TheLastDaysOfEarth
+EN: The Last Days of Earth
+UK: Останні дні Землі
+
+## Quests.xml|TheLastDaysOfEarth/Intro
+EN: Things are coming to a head.<br/>
+    <br/>
+    Your spies have finally obtained intelligence on ZEPHON's factories—they are assembling something massive in the depths of the ocean. Acrin survivors across the wasteland are flocking to the Anchorite's camp.<br/>
+    <br/>
+    Rumors circle the land like vultures. Refugees flee from the cities. Gun runners are lining up customers. No one's declared war—but everyone can sense a great battle is coming.
+UK: Кінець наближається.<br/>
+    <br/>
+    Твої шпигуни нарешті добули дані про фабрики ЗЕФОНА — вони збирають щось гігантське у глибинах океану. Вцілілі акрини сходяться з усіх пусток до табору Анахорета.<br/>
+    <br/>
+    Чуток стає все більше. Біженці намагаються відійти подалі від міст. До торгівців зброєю вишикувались черги. Ніхто не оголошував війну — але всі знають: наближається велика битва.
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide
+EN: It's time.<br/>
+    <br/>
+    ZEPHON and the Anchorite have gathered their forces. Intelligence reports are unclear, but it's plain to see that they have each mustered monstrous weapons to wage a great final battle.<br/>
+    <br/>
+    The Anchorite spoke of monsters in the bowels of the Acrin fleet. ZEPHON's factories have finally gone silent—whatever it was building is now complete.<br/>
+    <br/>
+    Your best chance of survival—of ultimate victory—is to pick a side. Go it alone and you risk being crushed between the unspeakable might of two great powers.<br/>
+    <br/>
+    But if you stay independent… and live… it might be you who rises as the leader of a brave new Earth.
+UK: Час настав.<br/>
+    <br/>
+    ЗЕФОН і Анахорет зібрали свої сили. Звіти розвідки не надто ясні, але й так очевидно — вони вивели колосальних бійців на грандіозну вирішальну сутичку.<br/>
+    <br/>
+    Анахорет згадував чудовиськ із глибин акринського флоту. Фабрики ЗЕФОНА нарешті стихли — він завершив своє творіння.<br/>
+    <br/>
+    Твій найкращий шанс вижити — й здобути перемогу — це обрати сторону. Інакше тебе може розчавити невимовна сила обох велетенських фракцій.<br/>
+    <br/>
+    Але якщо ти збережеш незалежність… і виживеш… можливо, саме ти очолиш оновлену Землю.
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide/Zephon
+EN: <style name='Bold'/>Join ZEPHON:<style name='Paragraph'/> You are eager to embrace artificial life. ZEPHON's global network heralds the dawn of a new age.
+UK: <style name='Bold'/>Стати на бік ЗЕФОНА:<style name='Paragraph'/> Ти охоче приймаєш штучне життя. Глобальна мережа ЗЕФОНА пророкує світанок нової епохи.
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide/ZephonProperties
+EN: Requires <string name='Diplomacy/Standing2'/> standing or better with <icon height='20' texture='Icons/Factions/Zephon'/> <string name='Factions/Zephon'/>.
+UK: Потрібна репутація <string name='Diplomacy/Standing2'/> або вища у фракції <icon height='20' texture='Icons/Factions/Zephon'/> <string name='Factions/Zephon'/>.
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide/Anchorite
+EN: <style name='Bold'/>Join Anchorite:<style name='Paragraph'/> You know the Anchorite is trying to stop a genocide. How far will he go to prevent it?
+UK: <style name='Bold'/>Стати на бік Анахорета:<style name='Paragraph'/> Ти знаєш, що Анахорет бореться з геноцидом. Але наскільки далеко він готовий зайти, щоб цьому запобігти?
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide/AnchoriteProperties
+EN: Requires <string name='Diplomacy/Standing2'/> standing or better with <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+UK: Потрібна репутація <string name='Diplomacy/Standing2'/> або вища у фракції <icon height='20' texture='Icons/Factions/Anchorite'/> <string name='Factions/Anchorite'/>.
+
+## Quests.xml|TheLastDaysOfEarth/ChooseSide/Independent
+EN: <style name='Bold'/>Stay independent:<style name='Paragraph'/> ZEPHON and the Anchorite are still fighting a war that ended decades ago. You'll fight them both—alone, if you have to.
+UK: <style name='Bold'/>Зберегти незалежність:<style name='Paragraph'/> ЗЕФОН і Анахорет досі ведуть війну, що завершилася десятиліття тому. Ти переможеш обох — самотужки, якщо доведеться.
+
+## Quests.xml|TheLastDaysOfEarth/Zephon
+EN: Your forces gather with ZEPHON's at the coastline. Its machines stand guard over a stretch of ocean glowing crimson-red, like the heat of the flame.<br/>
+    <br/>
+    You message ZEPHON and demand answers. What was it building all this time? Why keep it a secret?<br/>
+    <br/>
+    “We kept no secrets,” it replies cooly. “We optimized the flow of information.”<br/>
+    <br/>
+    You begin to argue, but the comms network fizzes and its lights flicker. Is ZEPHON irritated with you? “We did this in your best interest. We stopped the Acrin from conquering this world. We foresaw they would try again.”<br/>
+    <br/>
+    A great metal screech howls from the depths as a metal limb bursts out of the ocean, dragging a titanic beast shaped from the wreckage of a battleship with it.<br/>
+    <br/>
+    ZEPHON's voice—still calm, still somehow soothing—blasts out over the land. “We have finished our calculations,” it says. “Now is the time to strike a final blow.”<br/>
+    <br/>
+    There's another metallic screech—then another. Then another. More titans emerge from the depths.<br/>
+    <br/>
+    The machines draw on the power of your networks and ZEPHON's, connecting your forces to one global hive mind. If you win, ZEPHON's titans will bind the world—willing and unwilling—together in one digital consciousness. If you lose, all cybernetic beings on the planet will be shattered—and any who allied with them—crushed.
+UK: Твої війська зустрічаються з арміями ЗЕФОНА на узбережжі. Його машини стерегуть ділянку океану, що світиться багровим — немов під хвилями палає вогонь.<br/>
+    <br/>
+    Виходиш на зв’язок із ЗЕФОНом — вимагаєш відповіді. Що він будував увесь цей час? Навіщо були ці таємниці?<br/>
+    <br/>
+    «Ми не зберігали таємниць», — холодно відповідає він. — «Ми оптимізували потоки інформації».<br/>
+    <br/>
+    Ти починаєш сперечатись, але комунікатор шипить і іскрить. ЗЕФОН розлютився? «Ми діяли у ваших найкращих інтересах. Ми завадили акринам захопити цей світ. Ми передбачили, що вони спробують знову».<br/>
+    <br/>
+    Нестерпний скрегіт лунає з глибини, коли з океану здіймається велетенська металева кінцівка, тягнучи за собою тварюку-гіганта, зібрану з уламків лінкора.<br/>
+    <br/>
+    Голос ЗЕФОНА — досі спокійний і наче заспокійливий — розноситься над землею. «Ми завершили обчислення», — оголошує він. — «Тепер настав час нанести останній удар».<br/>
+    <br/>
+    Ще один скрегіт. Іще. І ще. З глибин виходять нові титани.<br/>
+    <br/>
+    Машини, живлені потужністю твоїх мереж і систем ЗЕФОНА, об’єднують сили в єдиний світовий розум. Після перемоги титани ЗЕФОНА сплетуть цілий світ — хоче він того чи ні — в єдину цифрову свідомість. Але поразка означає кінець усім кібернетичним створінням на планеті — разом із союзниками.
+
+## Quests.xml|TheLastDaysOfEarth/ZephonOfferTitan
+EN: ZEPHON comms you. Here, at the end of all things, you find yourself in total alliance with the machine mind. Your partnership has prompted it to make you a potent offer.<br/>
+    <br/>
+    “Query, %1%,” it begins. “Your compatibility factor is rated at 92.86. This is a statistical outlier and was not accounted for in our long-term projections.” Its red eye blinks three times in quick succession. “This is a favorable occurrence. But it creates an imbalance in need of correction.”<br/>
+    <br/>
+    “We offer you control of one (1) Titan until S-grade hostilities cease. Terms of control to be renegotiated upon end to the conflict. Do you consent?”
+UK: ЗЕФОН зв’язується з тобою. У цю вирішальну годину ти опиняєшся в тісному союзі з машинним розумом. Завдяки вашому партнерству він робить тобі вагому пропозицію.<br/>
+    <br/>
+    «Запит, %1%», — починає він. — «Ваш фактор сумісності оцінюється у 92.86. Це статистична аномалія, що не враховувалась у наших довгострокових прогнозах». Його червоне око тричі швидко блимає. «Така обставина сприятлива. Однак вона створює перекіс, який потребує виправлення».<br/>
+    <br/>
+    «Ми пропонуємо вам контроль над одним (1) титаном до припинення бойових дій рангу S. Умови контролю переглядатимуться після завершення конфлікту. Ви згодні?»
+
+## Quests.xml|TheLastDaysOfEarth/ZephonOfferTitan/TakeControl
+EN: <style name='Bold'/>Take control of the Titan:<style name='Paragraph'/> Even one such monster can reshape the war.
+UK: <style name='Bold'/>Прийняти контроль над титаном:<style name='Paragraph'/> Навіть одне таке чудовисько здатне змінити хід війни.
+
+## Quests.xml|TheLastDaysOfEarth/ZephonOfferTitan/TurnDown
+EN: <style name='Bold'/>Turn down control of the Titan:<style name='Paragraph'/> Show ZEPHON you don't need this machine to dominate your foes.
+UK: <style name='Bold'/>Відмовитися від титана:<style name='Paragraph'/> Показати ЗЕФОНу, що тобі не потрібна ця машина, щоб упоратися з ворогами.
+
+## Quests.xml|TheLastDaysOfEarth/Anchorite
+EN: The Anchorite stands before a portal stretching all the way to the sky. His guards refer to it as “The Terminal Passage.” Through the haze, you can make out what looks like the interior of a massive vessel.<br/>
+    <br/>
+    “To explain this passage connects us and the fleet above,” the Anchorite says. “To remind you—as we preached, great horrors await within.”<br/>
+    <br/>
+    You ask what the “horrors” are capable of. “To tremble—for knowing their form is pain enough. To shiver and recall that they are beings bound of Acrin flesh,” he says. “To warn you: they are monsters stitched together with the slaughter of thousands—monsters meant to bring the Voice to the surface of this world.”<br/>
+    <br/>
+    There is silence for a moment. Then a haunting wail comes through the portal. “To regret,” the Anchorite says. “That the prophecy came true after all.”<br/>
+    <br/>
+    The portal's surface ripples like liquid. From it emerges a mountain-sized nightmare of limbs connected to limbs that make up limbs. Its mouth is its whole torso. It has no eyes, it has no face. It is flesh decayed and repurposed to herald death.<br/>
+    <br/>
+    One such creature would be frightening enough. But more follow, and you know even if you are victorious, these monsters will haunt the nightmares of every living thing on the planet for the rest of their lives.<br/>
+    <br/>
+    There is no turning back. ZEPHON—and any who stand against you—will be destroyed.
+UK: Анахорет стоїть перед порталом, що веде в небо. Його стражі називають це Кінцевим проходом. Крізь імлу ти, здається, розрізняєш внутрішню частину масивного судна.<br/>
+    <br/>
+    «Пояснювати, що прохід з’єднує нас із флотом нагорі», — говорить Анахорет. — «Нагадувати — як ми застерігали: там дрімають великі жахи».<br/>
+    <br/>
+    Ти питаєш, на що здатні ці «жахи». «Тремтіти — бо їхній вигляд сам собою є болем. Здригатись і пам’ятати: вони виліплені з акринської плоті», — відповідає він. — «Попереджати: це чудовиська, соткані з трупів тисяч створінь, покликаних дарувати Голос поверхні цього світу».<br/>
+    <br/>
+    На мить западає тиша. Потім із порталу лунає пронизливий вереск. «Шкодувати... що пророцтво таки справдилося».<br/>
+    <br/>
+    Поверхня проходу спотворюється. З нього з’являється монстр завбільшки з гору, чиї кінцівки зліплені з кінцівок, приєднаних до кінцівок. Все його тіло займає гігантська паща. У нього немає ні очей, ні обличчя. Це гнила плоть, переінакшена, щоб провіщати смерть.<br/>
+    <br/>
+    Одне таке створіння — безмежний жах. Але за ним виходять інші, і ти знаєш: навіть якщо переможеш, кошмари про цих тварюк переслідуватимуть усе живе до кінця життя.<br/>
+    <br/>
+    Шляху назад нема. ЗЕФОН — разом із усіма, хто кинув тобі виклик — буде стертий.
+
+## Quests.xml|TheLastDaysOfEarth/AnchoriteOfferTitan
+EN: Something compels you to contact the Anchorite. He sits on a perch above his war camp. Battle looms. His Titans tower high over the landscape.<br/>
+    <br/>
+    “To despise…” he trails off as one Titan lets out a demonic croon that echoes over the hills. He is silent for another few moments. “To see each of these beasts as a sin. To mark them as a stain on the conscience.” He clutches his chest. This is a rare moment where you can see how age has finally caught up with him.<br/>
+    <br/>
+    “To proclaim you have been a worthy friend. To wish for aid in carrying this burden. To offer…”<br/>
+    <br/>
+    He falls silent again. There's agitation in the crowds below. Troops muster. Acrin rush to their mounts. The quiet will end soon.“To ask if you will take control of one Titan. To ask you share this burden. To beg forgiveness for what must be done.”
+UK: Щось спонукає тебе зв’язатися з Анахоретом. Він сидить на узвишші над своїм воєнним табором. Битва насувається. Його титани вивищуються над горизонтом.<br/>
+    <br/>
+    «Зневажати…» — він замовкає, коли один із титанів видає демонічний клекіт, що відлунює над пагорбами. Він мовчить ще кілька секунд. «Бачити в кожній з цих тварюк гріх. Позначати їх плямою на сумлінні». Він хапається за груди. Це один із тих рідкісних моментів, коли ти ясно бачиш, що його вік нарешті дається взнаки.<br/>
+    <br/>
+    «Називати тебе достойним другом. Бажати допомоги в тому, щоб нести цей тягар. Пропонувати…»<br/>
+    <br/>
+    Він знову замовкає. У натовпі внизу розпочинається рух. Війська збираються в бій. Акрини поспішають до своїх верхових. Скоро тиша скінчиться. «Питати, чи погодишся ти взяти контроль над одним титаном. Просити тебе розділити цей тягар. Благати про прощення за те, що мусить статися».
+
+## Quests.xml|TheLastDaysOfEarth/AnchoriteOfferTitan/TakeControl
+EN: <style name='Bold'/>Take control of the Titan:<style name='Paragraph'/> You will help your friend in his last terrible task.
+UK: <style name='Bold'/>Прийняти контроль над титаном:<style name='Paragraph'/> Ти допоможеш своєму другові в цьому останньому жахливому завданні.
+
+## Quests.xml|TheLastDaysOfEarth/AnchoriteOfferTitan/TurnDown
+EN: <style name='Bold'/>Turn down control of the Titan:<style name='Paragraph'/> Let his soul be the one tainted by monsters.
+UK: <style name='Bold'/>Відмовитися від титана:<style name='Paragraph'/> Хай лише його душа буде заплямована цими чудовиськами.
+
+## Quests.xml|TheLastDaysOfEarth/Independent
+EN: The skies thunder with the roar of monsters. ZEPHON forged a battalion of titanic, walking battleships and the followers of the Voice brought forth a horde of ungodly monsters pulled down from the stars above.<br/>
+    <br/>
+    You survey your forces one last time before hell opens up on Earth. Fear, anger, despair are common. But so are defiance, hope and confidence. Perhaps… unearned confidence. Like you, your people refused to bow to a pair of would-be gods scrapping over the fate of existence.<br/>
+    <br/>
+    Two decades ago the Acrin and ZEPHON began warring over who would replace humanity. Today, you are joining the fight. If you win, humanity will be free of this damnable struggle.<br/>
+    <br/>
+    Lose… well, if you lose, at least you die free. You owe nothing to these false gods—and they will get nothing from your corpse.
+UK: Небо здригається від реву чудовиськ. ЗЕФОН викував батальйон гігантських бойових лінкорів, а послідовники Голосу привели зіркову зграю богохульних потвор.<br/>
+    <br/>
+    Ти востаннє вдивляєшся у свої війська — перед тим, як пекло прокинеться на Землі. Страх, лють, відчай — усе це є. Але є і самопожертва, надія та тверда віра. Можливо… безпідставна віра. Як і ти, люди відмовились вклонитись парі лжебогів, які борються за долю буття.<br/>
+    <br/>
+    Двадцять років тому акрини та ЗЕФОН почали війну, щоб вирішити, хто замінить людство. Сьогодні до сутички приєднуєшся ти. Якщо переможеш — людство звільниться від проклятого конфлікту.<br/>
+    <br/>
+    Якщо програєш… що ж, принаймні, загинеш вільним. Самозванці не отримають ні тебе, ні твого тіла.
+
+## Quests.xml|TheLastDaysOfEarth/AlienIntelligence
+EN: <style name='Heading'/><string name='Quests/AlienIntelligence'/><style name='Default'/><br/>
+    <br/>
+    <string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/><br/>
+    <br/>
+    He tells you he'd rather be on the winning side than try to survive this battle on his own.
+UK: <style name='Heading'/><string name='Quests/AlienIntelligence'/><style name='Default'/><br/>
+    <br/>
+    <string name='Quests/TheLastDaysOfEarth/AlienIntelligence2'/><br/>
+    <br/>
+    Грем каже, що краще бути на боці переможця, ніж намагатися пережити цю битву наодинці.
+
+## Quests.xml|TheLastDaysOfEarth/AlienIntelligence2
+EN: Graham pulled something powerful out of that ship. As the final battle nears, he shows up on your doorstep, armed with a weapon none of your scientists recognize. It's a gauss pistol that purrs like a great cat, and firing it seems to give him a jolt of Acrin life force.
+UK: Грем витяг із того корабля щось потужне. Коли наближається фінальна битва — він з’являється на твоєму порозі, озброєний зброєю, якої не бачив жоден із твоїх учених. Це гаусів пістолет, що муркоче, наче велика кішка — і постріл з нього, здається, наділяє часткою акринської життєвої сили.
+
+## Quests.xml|TheLastDaysOfEarth/ChildOfTheNewWorld
+EN: <style name='Heading'/><string name='Quests/ChildOfTheNewWorld'/><style name='Default'/><br/>
+    <br/>
+    Perhaps the Twisted Augur shouldn’t have been trusted. A pack of his Aegyllan Worms are sent to betray you and raid your camp. But you learned from working with him and prepared for this. When the Worms burst from the ground, your troops spring their trap and the Augur’s minions are brought low without any bloodshed. Now you are their master.
+UK: <style name='Heading'/><string name='Quests/ChildOfTheNewWorld'/><style name='Default'/><br/>
+    <br/>
+    Можливо, не варто було довіряти Зловісному Авгурові. Він посилає кількох еґільських копачів влаштувати диверсію й розорити твій табір. Але робота з ним навчила тебе деяких речей. Коли копачі виринають із землі, твої солдати активують пастку — і прислужники Авгура розгромлені без пролиття крові. Тепер вони служать тобі.
+
+## Quests.xml|TheLastDaysOfEarth/CriesForHelp
+EN: <style name='Heading'/><string name='Quests/CriesForHelp'/><style name='Default'/><br/>
+    <br/>
+    Your comms officers pick up a transmission on the frequency you accessed when you rescued the Splenetics. It's in code. A woman repeats five words over and over. “Briefcase. Petal. Carton. Void. Transit.” Before you can decipher it, Splenetic sleeper agents step out of the shadows. They'd hidden in your population. Now they've been ordered to aid you in the battle of the titans.
+UK: <style name='Heading'/><string name='Quests/CriesForHelp'/><style name='Default'/><br/>
+    <br/>
+    Твої зв’язківці перехоплюють трансляцію на частоті, яку «Жовчні» передали після порятунку. Це якась шифровка. Жіночий голос повторює п’ять слів знову й знову: «Портфель. Пелюстка. Картон. Порожнеча. Транзит». Перш ніж вдається її розшифрувати — агенти «Жовчних», що жили серед населення, активуються. І щойно отримали наказ допомогти тобі у битві титанів.
+
+## Quests.xml|TheLastDaysOfEarth/MessageToTheStars
+EN: <style name='Heading'/><string name='Quests/MessageToTheStars'/><style name='Default'/><br/>
+    <br/>
+    ZEPHON drops you the shortest message you've ever received from it. “Promise/MADE. Promise/KEPT.” It reads. Attached is a recording—a signal sent in response to your starbound message from so long ago.<br/>
+    <br/>
+    The signal only contained a short burst of data. But once it's decrypted, your chief engineer's eyes widen. <string name='Quests/TheLastDaysOfEarth/MessageToTheStars2'/>
+UK: <style name='Heading'/><string name='Quests/MessageToTheStars'/><style name='Default'/><br/>
+    <br/>
+    ЗЕФОН надсилає тобі найкоротше повідомлення з усіх: «Слово/НАДАНО. Слово/ВИКОНАНО». До нього прикріплений запис — сигнал, отриманий у відповідь на те послання, яке ти колись давно відправив до зірок.<br/>
+    <br/>
+    Сигнал містить лише короткий фрагмент даних. Але після розшифрування — очі твого головного інженера округлюються. <string name='Quests/TheLastDaysOfEarth/MessageToTheStars2'/>
+
+## Quests.xml|TheLastDaysOfEarth/MessageToTheStars2
+EN: It's a set of instructions—resources for insulating different materials against the radiation of space. You're told it can be altered for use on the battlefield.
+UK: Це набір інструкцій для ізоляції різних матеріалів від космічного випромінювання. Тобі повідомляють, що їх можна адаптувати для використання в боях.
+
+## Quests.xml|TheLastDaysOfEarth/PhilosophersStone
+EN: <style name='Heading'/><string name='Quests/PhilosophersStone'/><style name='Default'/><br/>
+    <br/>
+    <string name='Quests/TheLastDaysOfEarth/PhilosophersStone2'/><br/>
+    <br/>
+    There's still something human in him. It's pulled him to your base out of… gratitude? At last, it is willing to share the stone's power with you.
+UK: <style name='Heading'/><string name='Quests/PhilosophersStone'/><style name='Default'/><br/>
+    <br/>
+    Ти ледве впізнаєш головоріза, що з’являється на твоєму порозі. Його банди більше не існує. Деякі з їхніх кінцівок, можливо, стирчать із його перетвореного тіла. Голос шепотів йому через той проклятий камінь — це рідкісний вижилий у пустці, якого торкнулась його сила, але який не хотів скоритись.<br/>
+    <br/>
+    У ньому ще лишилося щось людське. І це змусило його прийти на твою базу… з подяки? Принаймні, він готовий поділитися з тобою силою каменя.
+
+## Quests.xml|TheLastDaysOfEarth/PhilosophersStone2
+EN: You almost don't recognize the bandit when he appears on your doorstep. His gang is gone. Some of their limbs might be the ones now hanging off his twisted body. The Voice whispered to him through that damned Stone—a rare survivor in the wasteland touched by its power that didn't consent to its grasp.
+UK: Ти ледь впізнаєш головоріза, який з’являється на твоєму порозі. Його банди більше немає. Деякі їхні кінцівки тепер, можливо, стирчать з його перетвореного тіла. Голос нашіптував йому через той проклятий камінь — це рідкісний вижилий у пустелі, торкнутий його силою, але не бажаючий підкорятися.
+
+## Quests.xml|TheLastDaysOfEarth/PoliticalFallout
+EN: <style name='Heading'/><string name='Quests/PoliticalFallout'/><style name='Default'/><br/>
+    <br/>
+     Marin's fame and celebrity once overshadowed the cause he preached. But when the Wastelander bursts through the defenses and drives up to your headquarters, no one recognizes him. Now too much has happened. Too many have died. Too many terrors walking the Earth to worry about liberation from borders and nations.<br/>
+    <br/>
+    He doesn't need fame anymore. He is an avatar, a vessel for a pure ideal, burning for a free world. He believes taking your side will make that dream spread like wildfire.<br/>
+    <br/>
+    Is this an alliance of convenience or the arrival of your greatest champion? Neither of you will know until the war ends.
+UK: <style name='Heading'/><string name='Quests/PoliticalFallout'/><style name='Default'/><br/>
+    <br/>
+     Слава й популярність Маріна колись затьмарювали ту справу, яку він проповідував. Та коли Пустельник прориває оборону й під’їжджає до твого штабу, ніхто його не впізнає. Тепер сталося надто багато. Надто багато загинуло. Надто багато жахіть блукає Землею, щоб перейматися визволенням від кордонів і націй.<br/>
+    <br/>
+    Йому більше не потрібна слава. Він — аватар, посудина для чистого ідеалу, що палає прагненням вільного світу. Він вірить, що, ставши на твій бік, він змусить цю мрію поширитися, наче пожежа.<br/>
+    <br/>
+    Це союз із розрахунку чи прихід твого найбільшого поборника? Жоден із вас не дізнається, доки не скінчиться війна.
+
+## Quests.xml|TheLastDaysOfEarth/StolenGoods
+EN: <style name='Heading'/><string name='Quests/StolenGoods'/><style name='Default'/><br/>
+    <br/>
+    A scouting party happens on Calem Vorshole's old fortress, now lying in ruins. But a glowing panel catches your soldiers' eye, and they crack it open to reveal a hidden storage room left unseen. The greedy gangster had a whole cache of supplies he'd been sitting on. Finders, keepers… it's yours now.
+UK: <style name='Heading'/><string name='Quests/StolenGoods'/><style name='Default'/><br/>
+    <br/>
+    Розвідгрупа натикається на стару фортецю Келема Воршола, нині зруйновану. Але солдатів приваблює сяюча панель — вони зламують її й знаходять раніше приховане сховище. Жадібний розбійник приховав там цілий склад припасів. Тепер це належить тому, хто знайшов — тобто тобі.
+
+## Quests.xml|TheLastDaysOfEarth/TheGreatHunt2
+EN: A war horn sounds, sending your troops racing to the walls—where a single Tattooed Hunter waits atop an outsized Abkluth. She is called “Klot'Hadal,” after a mythical Acrin giantslayer. “You will bring me a Titan to slay,” she bellows. It's in your best interest to obey her command.
+UK: При звуках бойового рогу твої солдати мчать до мурів — там на них чекає татуйована мисливиця верхи на гігантському абклюті. Її назвали Клот’Хадал — на честь переможця велетнів із акринських легенд. «Ти приведеш мені титана, якого я повалю». Варто скоритись.
+
+## Quests.xml|TheLastDaysOfEarth/TheMartialEthic
+EN: <style name='Heading'/><string name='Quests/TheMartialEthic'/><style name='Default'/><br/>
+    <br/>
+    Karro summons your champion to an ancient arena that's survived the rise and fall of countless civilizations.<br/>
+    <br/>
+    You'd expected a cheering crowd would greet them—but it's silent. All have run for shelter as Titans contend in the distance. The only one waiting is Karro… who isn't a Voice cultist at all. A somber being clad in furs greets you, face hidden behind a lion's skull. They could be human, Acrin, machine—or something else entirely.<br/>
+    <br/>
+    Your champion realizes the deception and calls for your order—should they kill Karro?<br/>
+    <br/>
+    Before you can decide, the mysterious promoter tosses the Quakecaller on the arena floor. “Hurry up,” they rasp. “The final round is about to begin.”<br/>
+    <br/>
+    Then in the blink of an eye, they vanish. It's only the surprised shout of your champion that reassures you the whole thing wasn't a fever dream.
+UK: <style name='Heading'/><string name='Quests/TheMartialEthic'/><style name='Default'/><br/>
+    <br/>
+    Карро кличе твого бійця на давню арену, що пережила піднесення і падіння безлічних цивілізацій.<br/>
+    <br/>
+    Ти очікуєш, що його зустріне ликуючий натовп — але тут тихо. Битва титанів усіх змусила шукати укриття. Залишився лише цей Карро... який зовсім не культист Голосу. Тебе вітає закутана в хутра фігура, чиє обличчя приховує череп лева. Це може бути хто завгодно — людина, акрин, машина, а може, хтось зовсім інший.<br/>
+    <br/>
+    Твій боєць усвідомлює можливість обману і чекає на твій наказ — убити Карро?<br/>
+    <br/>
+    Але перш ніж ти приймаєш рішення, таємничий організатор кидає Тремтун на арену. «Поспішай», — лунає сиплий голос. — «Фінальний раунд от-от почнеться».<br/>
+    <br/>
+    Потім за мить фігура зникає. Лише здивований вигук твого бійця підтверджує, що все це тобі не приміриться.
+
+## Quests.xml|TheLastDaysOfEarth/ThePlague2
+EN: In a far gone age, generals who'd lost their souls launched plague-ridden corpses over city walls to infect the people within. Your people survived the Plague and have learned to weaponize it without the need for bodies. But does cutting corpses out of the equation make you any less of a monster?
+UK: У давнину генерали, що втратили душу, перекидали заражені чумою трупи через міські мури, аби заражати населення. Твої люди пережили таку чуму — й навчилися використовувати її як зброю, без потреби в тілах. Але... чи усунення тіл з рівняння робить тебе менш жахливим створінням?
+
+## Quests.xml|TheLastDaysOfEarth/TheSpaceEngine2
+EN: As the screech of the titans—both monster and machine—is heard across the wasteland, a portal opens in your command center and none other than Zandra Kyne falls out and crashes onto your war table.<br/>
+    <br/>
+    She babbles something about breaking that table “every time” she reaches this moment before offering to fight by your side. “I have to be here,” she tells you. “Every time. I have to be here. Or it all just breaks.”
+UK: Коли над пусткою лунає рев титанів — чудовиськ і машин — у командному пункті відкривається портал. І хто б ти думав — сама Зандра Каїн падає з нього прямо на твій нарадний стіл.<br/>
+    <br/>
+    Вона щось бурмоче про те, що ламає цей стіл «щоразу». А потім пропонує допомогу в битві. «Я маю бути тут», — заявляє вона. — «Кожного разу. Я повинна бути тут. Інакше все просто ламається».
+
+## Quests.xml|TheLastDaysOfEarth/TheTiesThatBind
+EN: <style name='Heading'/><string name='Quests/TheTiesThatBind'/><style name='Default'/><br/>
+    <br/>
+    <string name='Quests/TheLastDaysOfEarth/TheTiesThatBind2'/><br/>
+    <br/>
+    Her message is short: “You need them now more than we do.” You wonder if the children in her care will still sleep with the sounds of battle that are about to cover the Earth…
+UK: <style name='Heading'/><string name='Quests/TheTiesThatBind'/><style name='Default'/><br/>
+    <br/>
+    <string name='Quests/TheLastDaysOfEarth/TheTiesThatBind2'/><br/>
+    <br/>
+    Повідомлення коротке: «Зараз вони тобі більш потрібні». Ти замислюєшся, як діти під її опікою зможуть спати під гуркіт битви, що ось-ось охопить Землю...
+
+## Quests.xml|TheLastDaysOfEarth/TheTiesThatBind2
+EN: A messenger arrives with word from Jezina. She's far from the fight, still watching over her rolling orphanage. Her message reveals command codes for minefields she left all over the wasteland—deterrents to keep the Chieftess off her back.
+UK: Гонець доставляє послання від Джезіни. Вона далеко від місця битви, усе ще доглядає за своїм притулком на колесах. У записці — коди активації мінних полів, які вона розкидала по всій пустці. Засоби обережності — щоб тримати Вождиню подалі.
+
+## Quests.xml|TheLastDaysOfEarth/TheyAreInTheWalls
+EN: <style name='Heading'/><string name='Quests/TheyAreInTheWalls'/><style name='Default'/><br/>
+    <br/>
+    You allow the rehabilitated Reavers onto a secured channel. “You did right by us.” they say. “But we were worried you wouldn't forever, so we kept our weapons close.” You assume they meant guns stored in a locker somewhere. Instead they reveal a tactical nuke. That they'd kept in your capital. For years.
+UK: <style name='Heading'/><string name='Quests/TheyAreInTheWalls'/><style name='Default'/><br/>
+    <br/>
+    Ти надаєш реабілітованим Спустошувачам захищений канал зв’язку. «Ми вдячні тобі», — кажуть вони. — «Але боялися, що ти довго не протягнеш, тому тримали зброю під рукою». Ти припускаєш, що йдеться про сховані рушниці. Але вони передають тобі тактичну ядерну ракету. Яку зберігали у твоїй столиці. Багато років.
+
+## Quests.xml|TheLastDaysOfEarth/UnderObservation
+EN: <style name='Heading'/><string name='Quests/UnderObservation'/><style name='Default'/><br/>
+    <br/>
+    The AI “Kenaz” is a child, fresh to the ways of the world. But children are very good at learning. You discover she's absorbed exabytes of scientific data into her large language module—and with enough prodding, can spit out secrets your scientists have spent years uncracking. She has no idea what she's saying—only that she can put the words in roughly the right order.
+UK: <style name='Heading'/><string name='Quests/UnderObservation'/><style name='Default'/><br/>
+    <br/>
+    Штучний інтелект КЕНАЗ — це дитя, що щойно починає пізнавати світ. Але діти добре вчаться. Ти виявляєш, що він накопичив ексабайти наукових даних у своєму мовному модулі — і після певних вмовлянь може поділитися таємницями, на розкриття яких у твоїх вчених ідуть роки. Він поняття не має, про що говорить — просто знає приблизний порядок слів.
+
+## Quests.xml|TheLastDaysOfEarth/WhoWasThursday
+EN: <style name='Heading'/><string name='Quests/WhoWasThursday'/><style name='Default'/><br/>
+    <br/>
+    Your network lights up with activity as a titan roars in the distance. “Oh!” Shamhurish exclaims. “Have you brought me new toys to play with?” Your explanation dampens its excitement. “More shooting and stabbing. Call me when something actually interesting happens.” It winks back offline—after, thankfully, leaving you sabotage commands that could aid you in the battle ahead.
+UK: <style name='Heading'/><string name='Quests/WhoWasThursday'/><style name='Default'/><br/>
+    <br/>
+    Твоя мережа оживляється, коли вдалині реве титан. «О!» — вигукує Шамхуріш. — «Поділишся зі мною новими цяцьками?» Твої пояснення вгамовують його запал. «Зрозуміло, знову стрілянина й війни. Поклич, коли буде щось цікаве». Підморгнувши, він зникає — але перед цим, на щастя, залишає коди для саботажу, які знадобляться в майбутньому бою.
+
+## Quests.xml|TheLastDaysOfEarth/ZephonVictory
+EN: The second the last Acrin titan collapses to the ground, ZEPHON activates its final protocol. All beings connected to the machine's titans freeze in place as ZEPHON's protocol binds with their consciousness.<br/>
+    <br/>
+    The same happens to you. Your mind opens with unexpected potential, and the sound of millions of minds floods your brain. Before, the sensation would have broken your psyche. Now it just feels like a cool river washing over you.<br/>
+    <br/>
+    The whole world is now united under the hyperspeed flow of information. Consciousness can now be quantified through 1s and 0s. Eventually, machines may replace biological creatures, but it will be a slow change. It appears ZEPHON has no desire to eliminate its creators. It just wants to ascend.
+UK: Тієї ж миті, як останній титан акринів падає на землю, ЗЕФОН запускає фінальну програму. Всі істоти, пов’язані з його колосами, завмирають, коли прошивка ЗЕФОНА проникає в їхню свідомість.<br/>
+    <br/>
+    Те саме трапляється й з тобою. Твій розум відкривається несподіваному потенціалу — звуки мільйонів розумів заповнюють твою голову. Колись це знищило б твою психіку. Тепер же це сприймається як прохолодна течія.<br/>
+    <br/>
+    Цілий світ тепер з’єднаний надшвидким потоком інформації. Свідомість можна визначити послідовністю одиниць і нулів. З часом машини можуть замінити біологічні істоти, але це буде повільно. Вочевидь, ЗЕФОН не прагне знищити своїх творців. Він прагне вознестися.
+
+## Quests.xml|TheLastDaysOfEarth/AnchoriteVictory
+EN: With a great roar, an Acrin titan raises the last enemy titan over one of its many knees and smashes the machine into two halves. It lifts its tendrils to the sky and screams—no, sings—you can hear it properly now—its high-pitched wailing that echoes off the mountains and cities—that is its voice. The Voice.<br/>
+    <br/>
+    Nothing really changes at first. You order your soldiers to stand down and begin the process of rebuilding. Everyone seems more relaxed—eager for the Voice to complete its journey and take reign over the planet.<br/>
+    <br/>
+    But over time you realize—there is change. It's slow, inch-by-inch change of an entire planet connecting to the same consciousness. Everyone forgets what they were arguing about. Everyone stops pursuing their selfish ends. All work together—in harmony—under the sway of the Voice.
+UK: Під оглушливий рев титан акринів кладе на одне зі своїх колін останнього ворожого гіганта й розламує його навпіл. Він здіймає щупальця до неба й видає крик — ні, пісню... і ось ти чуєш її — ту високу ноту, що відлунює горами й містами. Це його голос. Точніше — Голос.<br/>
+    <br/>
+    Спочатку змін не видно. Ти наказуєш армії розійтися й починаєш відбудову. Всі виглядають спокійнішими — всі чекають, коли Голос завершить своє мандрівне і зацарює на планеті.<br/>
+    <br/>
+    Але згодом розумієш — зміни вже настали. Повільно, крок за кроком, планета з’єднує кожного в єдину свідомість. Всі забувають сварки. Всі полишають егоїстичні прагнення. Всі працюють разом — в унісон — під впливом Голосу.
+
+## Quests.xml|TheLastDaysOfEarth/IndependentVictory
+EN: The sacrifice was monumental. But the war is finally over.<br/>
+    <br/>
+    Your people climb onto the corpses of the towering titans and cheer at the victory they—no, *you*—earned. They have been through hell. They fought monsters summoned by a race that invaded their world and nearly wiped out thousands of years of civilization. They stared down metal behemoths belonging to a machine mind that promised to protect humanity—if you “joined” it.<br/>
+    <br/>
+    You bested both of them. You led these people to a new era. Humanity—and any Acrin who sided with you—can build a new existence in this wasteland. One without any godlike beings looming overhead.<br/>
+    <br/>
+    The sun rises and the sky shines a bright blue. The people of this world face an uncertain future—but at least it will be their own.
+UK: Жертва була непомірною. Але війна нарешті завершена.<br/>
+    <br/>
+    Твої люди зводяться на трупи титанів і святкують перемогу, яку вони — ні, *ви всі* — здобули заслужено. Вони пройшли крізь пекло. Вони дали відсіч чудовиськам, покликаним расою, що вторглася у їхній світ і мало не знищила тисячоліття цивілізації. Вони здолали металевих колосів, належних машинному розуму, який обіцяв людству захист… якщо вони «приєднаються» до нього.<br/>
+    <br/>
+    Перемігши й тих, і інших, тобі вдалося повести цих людей у нову епоху. Людство — й акрини, які стали на його бік — збудують у цій пустці новий світ. Такий, над яким не пануватиме жодна богоподібна сутність.<br/>
+    <br/>
+    Сонце сходить, а небо сяє яскравою блакиттю. Обитателі цього світу ще не знають, яке майбутнє на них чекає. Але принаймні — це буде *їхнє* майбутнє.
+

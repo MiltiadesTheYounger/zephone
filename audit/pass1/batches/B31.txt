@@ -1,0 +1,1006 @@
+# B31: 250 entries from Messages.xml, Modifiers.xml
+
+## Messages.xml|PreviewStartTitle
+EN: Welcome to the Preview
+UK: Ласкаво просимо — прев’ю
+
+## Messages.xml|ReceivingInfo
+EN: Receiving info …
+UK: Отримання інформації...
+
+## Messages.xml|RestartRequired
+EN: You must restart the game for the changes to take effect.
+UK: Щоб зміни набрали чинності, перезапустіть гру.
+
+## Messages.xml|RetrievingServerList
+EN: Retrieving server list …
+UK: Отримання списку серверів...
+
+## Messages.xml|ScreenShotSaved
+EN: Screen shot saved
+UK: Скріншот збережено
+
+## Messages.xml|SetBinding
+EN: Press a new key combination to bind to %1%.
+UK: %1%: введіть нову комбінацію клавіш.
+
+## Messages.xml|ScreenShotSaveError
+EN: Error saving screen shot
+UK: Помилка при збереженні скріншоту
+
+## Messages.xml|ServerUnreachable
+EN: Could not connect to server.<br/>
+    <br/>
+    To improve connectivity, ensure you have disabled your firewalls and enabled UPnP on your router or forwarded TCP port %1% to your local machine.
+UK: Не вдалося підключитися до сервера.<br/>
+    <br/>
+    Щоб покращити підключення, переконайтеся, що ви вимкнули брандмауери та ввімкнули UPnP на вашому маршрутизаторі або перенаправили TCP-порт %1% на ваш локальний пристрій.
+
+## Messages.xml|SelectTarget
+EN: Select target
+UK: Вкажіть ціль
+
+## Messages.xml|StatsExportError
+EN: Error exporting stats
+UK: Помилка при експорті статистики
+
+## Messages.xml|StatsExported
+EN: Stats exported
+UK: Статистику експортовано
+
+## Messages.xml|TerminatedWithDisableMods
+EN: Mods have been disabled because of a crash. Visit the mods screen to re-enable them.
+UK: Моди були вимкнені через збій. Відвідайте екран модів, щоб знову їх увімкнути.
+
+## Messages.xml|TermsAndConditions
+EN: Terms and Conditions
+UK: Умови та положення
+
+## Messages.xml|TurnTimerPaused
+EN: %1% paused timer.
+UK: %1% ставить таймер на паузу.
+
+## Messages.xml|TurnTimerUnpaused
+EN: %1% unpaused timer.
+UK: %1% знімає таймер з паузи.
+
+## Messages.xml|UnboundControl
+EN: Binding removed from %1%.
+UK: %1%: призначення видалено.
+
+## Messages.xml|Warning
+EN: Warning
+UK: Увага
+
+## Messages.xml|WorldSettingsChanged
+EN: World settings changed.
+UK: Налаштування світу змінено.
+
+## Modifiers.xml|AfterAttackingMechanicalUnit
+EN:  after attacking Mechanical unit
+UK:  після атаки на механічного юніта
+
+## Modifiers.xml|AfterAttackingIfNotMoved
+EN:  after attacking if unit has not moved
+UK:  після атаки, якщо юніт не рухався
+
+## Modifiers.xml|AgainstBiologicalUnits
+EN:  against biological units
+UK:  проти біологічних юнітів
+
+## Modifiers.xml|AgainstFlyingUnits
+EN:  against flying units
+UK:  проти літаючих юнітів
+
+## Modifiers.xml|AgainstFortifications
+EN:  against fortifications
+UK:  проти укріплень
+
+## Modifiers.xml|AgainstLargeUnits
+EN:  against large units
+UK:  проти великих юнітів
+
+## Modifiers.xml|AgainstNonAdjacentUnits
+EN:  against non-adjacent units
+UK:  проти НЕ-суміжних юнітів
+
+## Modifiers.xml|AgainstNonFlyingUnits
+EN:  against non-flying units
+UK:  проти НЕ-літаючих юнітів
+
+## Modifiers.xml|AgainstNonHumanUnits
+EN:  against non-Human units
+UK:  проти нелюдських юнітів
+
+## Modifiers.xml|AgainstNonLargeUnits
+EN:  against non-large units
+UK:  проти НЕ-великих юнітів
+
+## Modifiers.xml|AgainstNonSourceUnit
+EN:  against non-source unit
+UK:  проти НЕ-вихідного юніта
+
+## Modifiers.xml|AgainstRangedWeapons
+EN:  against ranged weapons
+UK:  проти дистанційної зброї
+
+## Modifiers.xml|AgainstThisUnit
+EN:  against this unit
+UK:  проти цього юніта
+
+## Modifiers.xml|AgainstThisUnitWithRangedWeapons
+EN:  against this unit with ranged weapons
+UK:  дистанційної зброї проти цього юніта
+
+## Modifiers.xml|AgainstZephonTitanUnits
+EN:  against <string name='Factions/Zephon'/> titan units
+UK:  проти титанів ЗЕФОНА
+
+## Modifiers.xml|AgainstUnitsAtRange1
+EN:  against units at range 1
+UK:  проти юнітів на дальності 1
+
+## Modifiers.xml|AgainstUnitsAtRange1Or2
+EN:  against units at range 1 or 2
+UK:  проти юнітів на дальності 1 або 2
+
+## Modifiers.xml|AgainstUnitsBelow50%Hitpoints
+EN:  against units below 50% hitpoints
+UK:  проти юнітів із менш ніж 50% од. здоров’я
+
+## Modifiers.xml|AlgaeUpgrade
+EN:  for each Greenhouse Farm in the city
+UK:  за кожну будівлю «Теплиці» в місті
+
+## Modifiers.xml|AtRange1
+EN:  at range 1
+UK:  на дальності 1
+
+## Modifiers.xml|AtRange2OrHigher
+EN:  at range 2 or higher
+UK:  на дальності 2 чи більше
+
+## Modifiers.xml|OfInvadingDreameater
+EN:  of invading Dreameater
+UK:  при вторгненні Сноїда
+
+## Modifiers.xml|AntimatterUpgrade
+EN:  in construct and desert terrain or on <string name='Features/FragmentOfTheFulcrumResource'/>
+UK:  у типах місцевості пустеля та схеми або на ресурсі <string name='Features/FragmentOfTheFulcrumResource'/>
+
+## Modifiers.xml|ArchaiConstruct
+EN:  unless healed by <string name='Actions/ParticleRepair'/>
+UK:  не від здібності «<string name='Actions/ParticleRepair'/>»
+
+## Modifiers.xml|Assassinate
+EN:  to enemy units in the area if target dies
+UK:  ворожим юнітам у області, якщо ціль гине
+
+## Modifiers.xml|AtMostPerAttack
+EN:  at most per attack
+UK:  (макс.) за атаку
+
+## Modifiers.xml|AtRank18OrHigher
+EN:  at rank 7 or higher
+UK:  при ранзі 7 або вище
+
+## Modifiers.xml|AtRank14OrHigher
+EN:  at rank 3 or higher
+UK:  при ранзі 3 або вище
+
+## Modifiers.xml|CannibalizeMachines
+EN:  for melee attacks against mechanical units
+UK:  для ближніх атак проти механічних юнітів
+
+## Modifiers.xml|CyberInfantryUpgrade
+EN:  for each Synthetic Printer in the city
+UK:  за кожну будівлю «Синтетичний принтер» у місті
+
+## Modifiers.xml|Defend
+EN:  while adjacent to allied units with <string name='Traits/Defend'/>
+UK:  коли поряд із союзними юнітами з <string name='Traits/Defend'/>
+
+## Modifiers.xml|DreamPrison
+EN:  to target broken non-headquarters enemy unit
+UK:  вказаному зламаному ворожому юніту НЕ-штабу
+
+## Modifiers.xml|DreamPrisonRestore
+EN:  when Dreameater dies
+UK:  після смерті сновидця
+
+## Modifiers.xml|EachTurn
+EN:  each turn
+UK:  кожен хід
+
+## Modifiers.xml|EachTurnForReachedLevels4710
+EN:  each turn for reached levels 4, 7 and 10
+UK:  щоходу за досягнуті рівні 4, 7 і 10
+
+## Modifiers.xml|EachTurnInBleed
+EN:  each turn in Bleed
+UK:  кожен хід на Кровотечі
+
+## Modifiers.xml|EachTurnLogisticsExperts
+EN:  each turn (<icon texture='Icons/Traits/LogisticsExperts' height='20'/><nbsp/><string name='Traits/LogisticsExperts'/>)
+UK:  кожен хід (<icon texture='Icons/Traits/LogisticsExperts' height='20'/><nbsp/><string name='Traits/LogisticsExperts'/>)
+
+## Modifiers.xml|EachTurnOnCenterTileAndOnAdjacentTiles
+EN:  each turn on center tile and with half attacks on adjacent tiles
+UK:  кожен хід на центральній клітинці та на суміжних клітинках (із силою половини атак)
+
+## Modifiers.xml|EachTurnResourceNetwork
+EN:  each turn (<icon texture='Icons/Traits/ResourceNetwork' height='20'/><nbsp/><string name='Traits/ResourceNetwork'/>)
+UK:  кожен хід (<icon texture='Icons/Traits/ResourceNetwork' height='20'/><nbsp/><string name='Traits/ResourceNetwork'/>)
+
+## Modifiers.xml|EachTurnWhileInsideCity
+EN:  each turn while inside city
+UK:  щоходу в межах міста
+
+## Modifiers.xml|Encircle
+EN:  when attacking an enemy unit that is adjacent to at least two allied units with <string name='Traits/Encircle'/>
+UK:  при атаці на ворожий юніт, що межує щонайменше з двома союзними юнітами з <string name='Traits/Encircle'/>
+
+## Modifiers.xml|EnergyUpgrade
+EN:  in arctic and swamp terrain
+UK:  у типах місцевості арктика та болото
+
+## Modifiers.xml|Every5Turns
+EN:  every 5 turns
+UK:  кожні 5 ходів
+
+## Modifiers.xml|Every10Turns
+EN:  every 10 turns
+UK:  кожні 10 ходів
+
+## Modifiers.xml|ForActions
+EN:  for actions
+UK:  від дій
+
+## Modifiers.xml|ForAdministrationComplex
+EN:  for <string name='Buildings/Influence'/>
+UK:  — <string name='Buildings/Influence'/>
+
+## Modifiers.xml|ForAlliedUnits
+EN:  for allied units
+UK:  для союзних юнітів
+
+## Modifiers.xml|ForConstructionYard
+EN:  for <string name='Buildings/Construction'/>
+UK:  — <string name='Buildings/Construction'/>
+
+## Modifiers.xml|ForControllingCity
+EN:  for controlling city
+UK:  усередині міста
+
+## Modifiers.xml|ForCyberUnits
+EN:  for Cyber units
+UK:  для юнітів кіберів
+
+## Modifiers.xml|ForCyberTechnologies
+EN:  for Cyber technologies
+UK:  кібертехнологій
+
+## Modifiers.xml|ForCyberProductionBuildings
+EN:  for Cyber production buildings
+UK:  для виробничих будівель кіберів
+
+## Modifiers.xml|ForEnemyGroundUnits
+EN:  for enemy ground units
+UK:  ворожим наземним юнітам
+
+## Modifiers.xml|ForGroundUnits
+EN:  for ground units
+UK:  для наземних юнітів
+
+## Modifiers.xml|ForHumanBiologicalUnits
+EN:  for Human biological units
+UK:  для біологічних юнітів людей
+
+## Modifiers.xml|ForLargeGroundUnits
+EN:  for large ground units
+UK:  для великих наземних юнітів
+
+## Modifiers.xml|ForMeleeWeapons
+EN:  for melee weapons
+UK:  для зброї ближнього бою
+
+## Modifiers.xml|ForNonAffinityTechnologies
+EN:  for Human, Cyber and Voice technologies that are not of your affinity
+UK:  технологій людей, кіберів і Голосу поза вашою схильністю
+
+## Modifiers.xml|ForNonAgileGroundUnits
+EN:  for non-agile ground units
+UK:  для НЕ-проворних наземних юнітів
+
+## Modifiers.xml|ForNonLargeCyberUnits
+EN:  for non-large Cyber units
+UK:  для НЕ-великих юнітів кіберів
+
+## Modifiers.xml|ForNonLargeGroundUnits
+EN:  for non-large ground units
+UK:  для НЕ-великих наземних юнітів
+
+## Modifiers.xml|ForNonLargeGroundUnitsAgainstRangedWeapons
+EN:  for non-large non-flying units against ranged weapons
+UK:  для НЕ-великих, НЕ-літаючих юнітів проти дистанційної зброї
+
+## Modifiers.xml|ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins
+EN:  for non-large non-flying units when attacking from forests or ruins
+UK:  для НЕ-великих, НЕ-літаючих юнітів під час атаки з лісів або руїн
+
+## Modifiers.xml|ForOverwatchAttacks
+EN:  for overwatch attacks
+UK:  для атак із дозору
+
+## Modifiers.xml|ForRangedWeapons
+EN:  for ranged weapons
+UK:  для дистанційної зброї
+
+## Modifiers.xml|ForResearchLaboratory
+EN:  for <string name='Buildings/Research'/>
+UK:  — <string name='Buildings/Research'/>
+
+## Modifiers.xml|ForStationedBiologicalUnitEachTurn
+EN:  for stationed biological unit each turn
+UK:  розміщеному біологічному юніту кожен хід
+
+## Modifiers.xml|ForStationedMechanicalUnitEachTurn
+EN:  for stationed mechanical unit each turn
+UK:  розміщеному механічному юніту кожен хід
+
+## Modifiers.xml|ForStationedUnit
+EN:  for stationed unit
+UK:  розміщеному юніту
+
+## Modifiers.xml|ForUnits
+EN:  for units
+UK:  юнітам
+
+## Modifiers.xml|ForVoiceUnits
+EN:  for Voice units
+UK:  для юнітів Голосу
+
+## Modifiers.xml|ForXTurns
+EN:  for %1%
+UK:  на %1%
+
+## Modifiers.xml|FromCargoOnDeath
+EN:  from cargo on death
+UK:  із завантажених юнітів під час загибелі
+
+## Modifiers.xml|FromFireDamage
+EN:  from fire damage
+UK:  від вогню
+
+## Modifiers.xml|FromGenerousContacts
+EN:  from generous contacts
+UK:  від великодушних контактів
+
+## Modifiers.xml|FromHammerheads
+EN:  from Hammerheads
+UK:  від молотоголовів
+
+## Modifiers.xml|FromTargetTile
+EN:  from target tile
+UK:  з вказаної клітинки
+
+## Modifiers.xml|FromTargetAlliedUnit
+EN:  from target allied unit
+UK:  з вказаного союзного юніта
+
+## Modifiers.xml|FromTargetAlliedUnitWithMothersFavor
+EN:  from target allied unit with <string name='Traits/MothersFavor'/>
+UK:  з вказаного союзного юніта, що має <string name='Traits/MothersFavor'/>
+
+## Modifiers.xml|FromTargetEnemyUnit
+EN:  from target enemy unit
+UK:  з вказаного ворожого юніта
+
+## Modifiers.xml|GluttonyUpgrade
+EN:  per population (only affects population 1 to 6)
+UK:  за кожну од. населення (за чисельності населення від 1 до 6)
+
+## Modifiers.xml|GluttonyUpgrade2
+EN:  per population (only affects population 7 to 12)
+UK:  за кожну од. населення (за чисельності населення від 7 до 12)
+
+## Modifiers.xml|HumanAircraftUpgrade
+EN:  for each Assembly Hangar in each other own city
+UK:  за кожну будівлю «Складальний ангар» у кожному іншому своєму місті
+
+## Modifiers.xml|HumanOperationsUpgrade
+EN:  for each Research Laboratory in the city
+UK:  за кожну будівлю «Наукова лабораторія» у місті
+
+## Modifiers.xml|HumanVehiclesUpgrade
+EN:  for each Automated Factory in the city
+UK:  за кожну будівлю «Автофабрика» у місті
+
+## Modifiers.xml|IfDamagedThisTurn
+EN:  if unit was damaged this turn
+UK:  після отримання юнітом ушкодження в цей хід
+
+## Modifiers.xml|IfMoved
+EN:  if unit has moved
+UK:  після руху юніта
+
+## Modifiers.xml|IfNotDamagedThisTurn
+EN:  if unit was not damaged this turn
+UK:  якщо юніт не отримував ушкоджень у цей хід
+
+## Modifiers.xml|IfNotMoved
+EN:  if unit has not moved
+UK:  при нерухомості юніта
+
+## Modifiers.xml|InXTurns
+EN:  in %1%
+UK:  через %1%
+
+## Modifiers.xml|InCitiesOrOutposts
+EN:  in cities or outposts
+UK:  у містах або заставах
+
+## Modifiers.xml|IndependentUpgrade
+EN:  if population between 1 and 6
+UK:  за чисельності населення від 1 до 6
+
+## Modifiers.xml|IndependentUpgrade2
+EN:  if population between 7 and 12
+UK:  за чисельності населення від 7 до 12
+
+## Modifiers.xml|InternalRepairStation
+EN:  to transported units
+UK:  транспортованим юнітам
+
+## Modifiers.xml|LoyaltyUpgrade
+EN:  each turn for each <string name='Buildings/Loyalty'/> in the city
+UK:  кожен хід за кожну будівлю «<string name='Buildings/Loyalty'/>» у місті
+
+## Modifiers.xml|OfTargetAlliedUnit
+EN:  of target allied unit
+UK:  вказаного союзного юніта
+
+## Modifiers.xml|OfTargetEnemyNonTitanNonHeroNonHeadquartersUnitWithFiniteMoraleBelow50PercentHitpoints
+EN:  of target enemy non-titan non-hero non-headquarters unit with finite morale below 50% hitpoints
+UK:  вказаного ворожого юніта НЕ-титана, НЕ-героя, НЕ-штабу зі скінченним бойовим духом і менш ніж 50% од. здоров’я
+
+## Modifiers.xml|OfTargetEnemyAbkluth
+EN:  of target enemy Abkluth
+UK:  вказаного ворожого юніта абклюта
+
+## Modifiers.xml|OnAdjacentTilesToTarget
+EN:  on adjacent tiles to target
+UK:  на суміжних із ціллю клітинках
+
+## Modifiers.xml|OnAttack
+EN:  on attack
+UK:  під час атаки
+
+## Modifiers.xml|OnBleed
+EN:  on Bleed or <string name='Features/FragmentOfTheFulcrumResource'/>
+UK:  на Кровотечі або на ресурсі <string name='Features/FragmentOfTheFulcrumResource'/>
+
+## Modifiers.xml|OnCliffs
+EN:  on cliffs
+UK:  на урвищах
+
+## Modifiers.xml|OnCoast
+EN:  on the coast
+UK:  на узбережжі
+
+## Modifiers.xml|OnDeath
+EN:  on death
+UK:  під час загибелі
+
+## Modifiers.xml|InForestRuinSmokeScreen
+EN:  in forests, ruins or smoke screens
+UK:  у лісах, руїнах або димовій завісі
+
+## Modifiers.xml|OnHeight3
+EN:  on height 3
+UK:  на висоті 3
+
+## Modifiers.xml|OnHeight4
+EN:  on height 4
+UK:  на висоті 4
+
+## Modifiers.xml|OnMoraleLossFromDeath
+EN:  on morale loss from death
+UK:  під час втрати бойового духу від смерті
+
+## Modifiers.xml|OnRemoval
+EN:  on removal
+UK:  під час видалення
+
+## Modifiers.xml|OnRivers
+EN:  on rivers
+UK:  на річках
+
+## Modifiers.xml|OnRoads
+EN:  on roads
+UK:  на дорогах
+
+## Modifiers.xml|OnTargetAndAdjacentTiles
+EN:  on target and adjacent tiles
+UK:  на вказаній і суміжних клітинках
+
+## Modifiers.xml|OnTargetTile
+EN:  on target tile
+UK:  на вказаній клітинці
+
+## Modifiers.xml|OnTargetTileAndHalfOnAdjacentTiles
+EN:  on target tile and with half attacks on adjacent tiles
+UK:  на вказаній клітинці та на суміжних клітинках (із силою половини атак)
+
+## Modifiers.xml|OnTilesAdjacentToBlackHole
+EN:  on tiles adjacent to <string name='Actions/BlackHole'/>
+UK:  на клітинках, суміжних із чорною дірою
+
+## Modifiers.xml|OnTilesInTheArea
+EN:  on tiles in the area
+UK:  на клітинках у області
+
+## Modifiers.xml|OnTilesWithOnlyThisTypeOfBuilding
+EN:  on tiles with only this type of building
+UK:  на клітинках, де є лише цей тип будівлі
+
+## Modifiers.xml|PerExperienceWhenKillingNeutralUnit
+EN:  per experience gained when killing a neutral unit
+UK:  за кожну од. досвіду під час убивства нейтрального юніта
+
+## Modifiers.xml|PerGenerousContact
+EN:  per generous contact
+UK:  за кожен великодушний контакт
+
+## Modifiers.xml|PerMissingGroupMember
+EN:  per missing group member
+UK:  за відсутнього члена групи
+
+## Modifiers.xml|PerTileInCity
+EN:  per tile in city
+UK:  за кожну клітинку в місті
+
+## Modifiers.xml|PopulationLimitUpgrade
+EN:  on tiles with a <string name='Buildings/Loyalty'/>
+UK:  на клітинках із будівлею «<string name='Buildings/Loyalty'/>»
+
+## Modifiers.xml|ResearchUpgrade
+EN:  in forests
+UK:  у лісах
+
+## Modifiers.xml|SingularityCoresUpgrade
+EN:  for each other Quantum Manipulator in each own city
+UK:  за кожну будівлю «Квантовий маніпулятор» у кожному своєму місті
+
+## Modifiers.xml|TacticalVisor
+EN:  when adjacent to other allied Ishim Enforcers
+UK:  за перебування у суміжній клітинці з іншими союзними ішімами-силовиками
+
+## Modifiers.xml|TacticalInsertion
+EN:  on target forest, ruins or smoke screen with no enemy city
+UK:  до початку битви у клітині, яку раніше займав її ворожий юніт або нейтральна застава
+
+## Modifiers.xml|TargetEnemyNonTitanNonHeroNonHeadquartersUnit
+EN:  target enemy non-titan non-hero non-headquarters unit
+UK:  вказаний ворожий юніт НЕ-титан, НЕ-герой, НЕ-штаб
+
+## Modifiers.xml|TargetNonTitanNonFortificationUnit
+EN:  target non-titan non-fortification unit
+UK:  вказаний юніт НЕ-титан, НЕ-укріплення
+
+## Modifiers.xml|TargetOwnNonTitanNonFortificationUnit
+EN:  target own non-titan non-fortification unit
+UK:  ціль — власний юніт, що не є титаном і не є укріпленням
+
+## Modifiers.xml|TargetUnit
+EN:  target unit
+UK:  вказаний юніт
+
+## Modifiers.xml|ToAdjacentAlliedBiologicalUnits
+EN:  to adjacent allied biological units
+UK:  суміжним союзним біологічним юнітам
+
+## Modifiers.xml|ToAdjacentAlliedNonLargeUnits
+EN:  to adjacent allied non-large units
+UK:  суміжним союзним НЕ-великим юнітам
+
+## Modifiers.xml|ToAdjacentAlliedUnits
+EN:  to adjacent allied units
+UK:  суміжним союзним юнітам
+
+## Modifiers.xml|ToAdjacentEnemyUnits
+EN:  to adjacent enemy units
+UK:  суміжним ворожим юнітам
+
+## Modifiers.xml|ToAdjacentEnemyUnitsEachTurn
+EN:  to adjacent enemy units each turn
+UK:  суміжним ворожим юнітам кожен хід
+
+## Modifiers.xml|ToAdjacentEnemyUnitsOnDeath
+EN:  to adjacent enemy units on death
+UK:  суміжним ворожим юнітам під час загибелі
+
+## Modifiers.xml|ToAdjacentEnemyLargeMechanicalUnits
+EN:  to adjacent enemy large mechanical units
+UK:  суміжним ворожим великим механічним юнітам
+
+## Modifiers.xml|ToAdjacentEnemyLargeMechanicalNonTitanUnits
+EN:  to adjacent enemy large mechanical non-titan units
+UK:  суміжним ворожим великим механічним юнітам НЕ-титанам
+
+## Modifiers.xml|ToAdjacentEnemyLargeMechanicalNonTitanNonHeroUnits
+EN:  to adjacent enemy large mechanical non-titan non-hero units
+UK:  суміжні ворожі великі механічні юніти без-титанів, без-героїв
+
+## Modifiers.xml|ToAdjacentTiles
+EN:  to adjacent tiles
+UK:  на прилеглі клітинки
+
+## Modifiers.xml|ToAdjacentUnits
+EN:  to adjacent units
+UK:  суміжним юнітам
+
+## Modifiers.xml|ToAdjacentUnitsWhileBelow75PercentHitpoints
+EN:  to adjacent units while below 75% hitpoints
+UK:  суміжним юнітам при кількості од. здоров’я менш ніж 75%
+
+## Modifiers.xml|ToAlliedBiologicalUnitsEachTurn
+EN:  to allied biological units each turn
+UK:  союзним біологічним юнітам кожен хід
+
+## Modifiers.xml|ToAlliedMechanicalUnitsInTheArea
+EN:  to allied mechanical units in the area
+UK:  союзним механічним юнітам у області
+
+## Modifiers.xml|ToAlliedNonLargeUnitsInTheArea
+EN:  to allied non-large units in the area
+UK:  союзним НЕ-великим юнітам у області
+
+## Modifiers.xml|ToAlliedUnits
+EN:  to allied units
+UK:  союзним юнітам
+
+## Modifiers.xml|ToAlliedUnitsEachTurn
+EN:  to allied units each turn
+UK:  союзним юнітам кожен хід
+
+## Modifiers.xml|ToAlliedUnitsInTheArea
+EN:  to allied units in the area
+UK:  союзним юнітам у області
+
+## Modifiers.xml|ToAlliedUnitsOnTargetAndAdjacentTiles
+EN:  to allied units on target and adjacent tiles
+UK:  союзним юнітам на вказаній і суміжних клітинках
+
+## Modifiers.xml|ToAlliedUnitsInTargetArea
+EN:  to allied units in the target area
+UK:  на союзні юніти в зоні цілі
+
+## Modifiers.xml|ToAnchorite
+EN:  to Anchorite
+UK:  Анахорету
+
+## Modifiers.xml|ToAttackedEnemy
+EN:  to attacked enemy
+UK:  атакованому ворогу
+
+## Modifiers.xml|ToAttacker
+EN:  to attacker
+UK:  атакуючому
+
+## Modifiers.xml|ToBuildingsOnTargetAlliedCityTile
+EN:  to buildings on target allied city tile
+UK:  будівлі на клітинці вашого союзного міста
+
+## Modifiers.xml|ToBiologicalEnemy
+EN:  to biological enemy
+UK:  біологічному ворогу
+
+## Modifiers.xml|ToBiologicalNonTitanEnemy
+EN:  to biological non-titan enemy
+UK:  біологічному ворогу НЕ-титану
+
+## Modifiers.xml|ToBiologicalUnits
+EN:  to biological units
+UK:  біологічним юнітам
+
+## Modifiers.xml|ToChieftess
+EN:  to Chieftess
+UK:  Вождині
+
+## Modifiers.xml|ToChieftessAnchoriteZephon
+EN:  to Chieftess, Anchorite and ZEPHON
+UK:  Вождині, Анахорету і ЗЕФОНу
+
+## Modifiers.xml|ToCity
+EN:  to city
+UK:  місту
+
+## Modifiers.xml|ToEnemy
+EN:  to enemy
+UK:  ворогу
+
+## Modifiers.xml|ToEnemyCity
+EN:  to enemy city
+UK:  ворожому місту
+
+## Modifiers.xml|ToEnemyUnitAndAdjacentEnemyUnitsOnRemoval
+EN:  to enemy unit and with half attacks to adjacent enemy units on removal
+UK:  ворожому юніту та суміжним ворожим юнітам (із силою половини атак) під час видалення
+
+## Modifiers.xml|ToEnemyUnits
+EN:  to enemy units
+UK:  ворожим юнітам
+
+## Modifiers.xml|ToEnemyUnitsEachTurn
+EN:  to enemy units each turn
+UK:  ворожим юнітам кожен хід
+
+## Modifiers.xml|ToEnemyUnitsOnTargetAndAdjacentTiles
+EN:  to enemy units on target and adjacent tiles
+UK:  на ворожі юніти на вказаній та прилеглих клітинках
+
+## Modifiers.xml|ToMechanicalEnemy
+EN:  to mechanical enemy
+UK:  механічному ворогу
+
+## Modifiers.xml|ToMechanicalNonTitanEnemy
+EN:  to mechanical non-titan enemy
+UK:  механічному ворогу НЕ-титану
+
+## Modifiers.xml|ToMeleeAttackers
+EN:  to melee attackers
+UK:  атакуючим у ближньому бою
+
+## Modifiers.xml|ToNonHeadquartersBuildingsOnTargetAlliedCityTile
+EN:  to non-headquarters buildings on target allied city tile
+UK:  будівлі без-штабу на клітинці вашого союзного міста
+
+## Modifiers.xml|ToNonHeadquartersBuildingsOnTargetEnemyCityTile
+EN:  to non-headquarters buildings on target enemy city tile
+UK:  на будівлі, окрім штабу, на клітинці вказаного ворожого міста
+
+## Modifiers.xml|ToNonLargeEnemy
+EN:  to non-large enemy
+UK:  НЕ-великому ворогу
+
+## Modifiers.xml|ToNonLargeAlliedUnits
+EN:  to non-large allied units
+UK:  НЕ-великим союзним юнітам
+
+## Modifiers.xml|ToNonLowPowerWeapon
+EN:  to non-Low Power weapon
+UK:  НЕ-розрядженій зброї
+
+## Modifiers.xml|ToNonTitanEnemy
+EN:  to non-titan enemy
+UK:  ворогу НЕ-титану
+
+## Modifiers.xml|ToSourceUnit
+EN:  to source unit
+UK:  вихідному юніту
+
+## Modifiers.xml|ToSpawnedUnit
+EN:  to spawned unit
+UK:  призваного юніта
+
+## Modifiers.xml|ToUnitAndAdjacentAlliedBiologicalUnits
+EN:  to unit and adjacent allied biological units
+UK:  юніту та суміжним союзним біологічним юнітам
+
+## Modifiers.xml|ToUnitAndAdjacentAlliedUnits
+EN:  to unit and adjacent allied units
+UK:  юніту і суміжним союзним юнітам
+
+## Modifiers.xml|ToUnmovedAlliedUnitsInTargetArea
+EN:  to unmoved allied units in the target area
+UK:  на союзні юніти, що не рухалися, у зоні цілі
+
+## Modifiers.xml|ToTargetAlliedBiologicalUnit
+EN:  to target allied biological unit
+UK:  вказаному союзному біологічному юніту
+
+## Modifiers.xml|ToTargetAlliedCity
+EN:  to target allied city
+UK:  вказаному союзному місту
+
+## Modifiers.xml|ToTargetAlliedCherubimTitan
+EN:  to target allied <string name='Units/CherubimTitan'/>
+UK:  союзному титану <string name='Units/CherubimTitan'/>
+
+## Modifiers.xml|ToTargetAlliedDamagedBiologicalUnit
+EN:  to target allied damaged biological unit
+UK:  вказаному пошкодженому союзному біологічному юніту
+
+## Modifiers.xml|ToTargetAlliedDamagedMechanicalUnit
+EN:  to target allied damaged mechanical unit
+UK:  вказаному пошкодженому союзному механічному юніту
+
+## Modifiers.xml|ToTargetAlliedDamagedUnit
+EN:  to target allied damaged unit
+UK:  вказаному пошкодженому союзному юніту
+
+## Modifiers.xml|ToTargetAlliedMechanicalUnit
+EN:  to target allied mechanical unit
+UK:  вказаному союзному механічному юніту
+
+## Modifiers.xml|ToTargetAlliedNonLargeUnaugmentedUnit
+EN:  to target allied non-large unaugmented unit
+UK:  вказаному союзному НЕ-великому юніту без апгрейдів
+
+## Modifiers.xml|ToTargetAlliedNonLargeUnit
+EN:  to target allied non-large unit
+UK:  союзному невеликому юніту
+
+## Modifiers.xml|ToTargetAlliedNonTitanUnit
+EN:  to target allied non-titan unit
+UK:  союзному без-титану
+
+## Modifiers.xml|ToTargetAlliedOutpost
+EN:  to target allied outpost
+UK:  союзній нейтральній заставі
+
+## Modifiers.xml|ToTargetAlliedUnit
+EN:  to target allied unit
+UK:  вказаному союзному юніту
+
+## Modifiers.xml|ToTargetAlliedUnitWithRangedWeapons
+EN:  to target allied unit with ranged weapons
+UK:  вказаному союзному юніту з дистанційною зброєю
+
+## Modifiers.xml|ToTargetAlliedUnitWithMothersFavor
+EN:  to target allied unit with <string name='Traits/MothersFavor'/>
+UK:  вказаному союзному юніту, що має <string name='Traits/MothersFavor'/>
+
+## Modifiers.xml|ToTargetAndAdjacentAlliedUnits
+EN:  to target and adjacent allied units
+UK:  вказаному та суміжним союзним юнітам
+
+## Modifiers.xml|ToTargetBiologicalUnit
+EN:  to target biological unit
+UK:  вказаному біологічному юніту
+
+## Modifiers.xml|ToTargetEnemyCity
+EN:  to target enemy city
+UK:  вказаному ворожому місту
+
+## Modifiers.xml|ToTargetEnemyNonLargeUnit
+EN:  to target enemy non-large unit
+UK:  ворожому невеликому юніту
+
+## Modifiers.xml|ToTargetEnemyNonTitanUnit
+EN:  to target enemy non-titan unit
+UK:  на вказаний ворожий юніт, що не є титаном
+
+## Modifiers.xml|ToTargetEnemyNonTitanNonHeroNonHeadquartersUnit
+EN:  to target enemy non-titan non-hero non-headquarters unit
+UK:  вказаному ворожому юніту НЕ-титану, НЕ-герою, НЕ-штабу
+
+## Modifiers.xml|ToTargetEnemyUnit
+EN:  to target enemy unit
+UK:  вказаному ворожому юніту
+
+## Modifiers.xml|ToTargetEnemyUnitAndWithHalfAttacksToEnemiesLeftAndRightOfTargetTile
+EN:  to target enemy unit and with half attacks to enemies left and right of target tile
+UK:  ворожому юніту і половину атак ворогам на клітинах зліва і справа від цілі
+
+## Modifiers.xml|ToTargetEnemyZephonUnit
+EN:  to target enemy ZEPHON unit
+UK:  вказаному ворожому юніту ЗЕФОНА
+
+## Modifiers.xml|ToTargetEnemyZephonNonTitanUnit
+EN:  to target enemy ZEPHON non-titan unit
+UK:  вказаному ворожому юніту ЗЕФОНА НЕ-титану
+
+## Modifiers.xml|ToTargetOwnUnit
+EN:  to target own unit
+UK:  підконтрольному юніту
+
+## Modifiers.xml|ToTargetOwnBiologicalUnit
+EN:  to target own biological unit
+UK:  вказаному своєму біологічному юніту
+
+## Modifiers.xml|ToTargetZephonNonTitanNonHeadquartersUnit
+EN:  to target ZEPHON non-titan non-headquarters unit
+UK:  на вказаний юніт ЗЕФОНу, що не є титаном і не є штабом
+
+## Modifiers.xml|ToWeapons
+EN:  to weapons
+UK:  зброї
+
+## Modifiers.xml|ToZephon
+EN:  to ZEPHON
+UK:  ЗЕФОНу
+
+## Modifiers.xml|ToZeroOrOneBeforeDistressSignalMimicked
+EN:  to ZERO or ONE before they have mimicked a distress signal
+UK:  на НУЛЬ чи ОДИН, доки вони не зімітували сигнал лиха
+
+## Modifiers.xml|UnitsOnDeath
+EN:  units on death
+UK:  юніти під час загибелі
+
+## Modifiers.xml|UponDiscovery
+EN:  upon discovery
+UK:  при виявленні
+
+## Modifiers.xml|UzhodaisZeal
+EN:  for each adjacent enemy unit
+UK:  за кожен суміжний ворожий юніт
+
+## Modifiers.xml|VoiceAircraftUpgrade
+EN:  for produced units for each Paean to the Dawn in each own city
+UK:  вироблених юнітів за кожну будівлю «Ода світанку» в кожному своєму місті
+
+## Modifiers.xml|VoiceVehiclesUpgrade
+EN:  is gained on death as production on each Canticle of Dusk in the city
+UK:  під час загибелі передається у вигляді виробництва кожній будівлі «Гімн заходу» в місті
+
+## Modifiers.xml|VoiceInfantryUpgrade
+EN:  for produced units for each Midnight Chorus in the city
+UK:  вироблених юнітів за кожну будівлю «Північний хор» у місті
+
+## Modifiers.xml|WhenAttackingFromForestsOrRuins
+EN:  when attacking from forests or ruins
+UK:  при атаці зі лісів або руїн
+
+## Modifiers.xml|WhenAttackingFromHighGround
+EN:  when attacking from high ground
+UK:  під час атаки з височини
+
+## Modifiers.xml|WhenDurationRunsOut
+EN:  when duration runs out
+UK:  після завершення дії
+
+## Modifiers.xml|WhenEnemyGroundUnitStopsOnTile
+EN:  when enemy ground unit stops on tile
+UK:  під час зупинки ворожого наземного юніта на клітинці
+
+## Modifiers.xml|WhenFirstCaptureFeature
+EN:  when first to capture outpost
+UK:  під час першого захоплення застави
+
+## Modifiers.xml|WhenKillingBiologicalUnit
+EN:  when killing a biological unit
+UK:  під час убивства біологічного юніта
+
+## Modifiers.xml|WhenKillingNonDeformingBiologicalUnit
+EN:  when killing a non-deforming biological unit
+UK:  під час убивства біологічного НЕ-потворного юніта
+
+## Modifiers.xml|WhenKillingUnit
+EN:  when killing a unit
+UK:  під час убивства юніта
+
+## Modifiers.xml|WhenProduced
+EN:  when produced
+UK:  при виробництві
+
+## Modifiers.xml|ForReachedLevels4710
+EN:  for reached levels 4, 7 and 10
+UK:  за досягнуті рівні 4, 7 і 10
+
+## Modifiers.xml|WhenUnitMoves
+EN:  when unit moves
+UK:  при переміщенні юніта
+
+## Modifiers.xml|WhenTakingDirectDamage
+EN:  when taking direct damage
+UK:  під час отримання прямої шкоди
+
+## Modifiers.xml|WhileAbove2Loyalty
+EN:  while above 2 loyalty
+UK:  при лояльності понад 2
+
+## Modifiers.xml|WhileAbove8Loyalty
+EN:  while above 8 loyalty
+UK:  при лояльності понад 8
+
+## Modifiers.xml|WhileAdjacentToAlliedUnits
+EN:  while adjacent to allied units
+UK:  при сусідстві з союзними юнітами
+
+## Modifiers.xml|WhileAdjacentToAlliedNonCyberUnits
+EN:  while adjacent to allied non-Cyber units
+UK:  коли поряд із союзними юнітами, що не є кіберами
+
