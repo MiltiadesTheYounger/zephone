@@ -833,7 +833,7 @@
 	<entry name="ZephonStanding" value="Права ИИ"/>
  	<entry name="ZephonStandingProperties" value="&lt;icon texture='GUI/Bullet'/&gt;Улучшает дипломатические отношения с &lt;icon height='20' texture='Icons/Factions/Zephon'/&gt; ЗЕФОНом при получении и со временем"/>
 	<entry name="ZephonVirus" value="Вирус ЗЕФОНа"/>
-	<entry name="ZephonVirusFlavor" value="&lt;string name='Quests/BinaricChoice/ReturnToZephonSuccess2'/&gt;"/>
+	<entry name="ZephonVirusFlavor" value="&lt;string name='Quests/ImpossibleConception/MotherDefendSuccess'/&gt;"/>
 	
 	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
 	<entry name="AbhorrentFlavor" value="О, у Матери никогда с переговорами не ладилось. Может быть, кто-то и сжалился бы над ней, но... будем честны. Непросто испытывать жалость, когда видишь её внешность. Может быть, она позволяла другим пользоваться ей? Позволяла им брать больше, чем давали они?"/>
