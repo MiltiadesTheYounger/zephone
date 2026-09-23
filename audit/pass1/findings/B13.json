@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTradeAgreementTerminationWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти торгуєш із ворогом. Нам це не потрібно. Припини. Або...",
+  "replace": "Ви торгуєте із ворогом. Нам це не потрібно. Припиніть. Або..."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTradeAgreementWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Mixes ви and ти for the player in the same line.",
+  "find": "Почніть співпрацю. Зв’яжіть людство узами. Інакше цей світ не вартий ламаного гроша. Тобі потрібен торговий партнер.",
+  "replace": "Почніть співпрацю. Зв’яжіть людство узами. Інакше цей світ не вартий ламаного гроша. Вам потрібен торговий партнер."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTribute",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Боюся, мені потрібна твоя підтримка. І цього разу це не прохання.",
+  "replace": "Боюся, мені потрібна ваша підтримка. І цього разу це не прохання."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTribute/DemandMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Мені потрібно все, що в тебе є. Все, що прикручене й не прикручене.",
+  "replace": "Мені потрібно все, що у вас є. Все, що прикручене й не прикручене."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTribute/DemandMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Мені потрібно ось стільки. Думаю, ти переживеш.",
+  "replace": "Мені потрібно ось стільки. Думаю, ви переживете."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ці війська... Ти або прибереш їх, або втратиш. Тобі вирішувати. Що обереш?",
+  "replace": "Ці війська... Ви або приберете їх, або втратите. Вам вирішувати. Що оберете?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/DemandWarAgainstThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered готовий goes plural.",
+  "find": "Це серйозне прохання. Але мені не обійтися без твоєї участі. Можливо, доведеться відбирати життя. Ти готовий на це піти?",
+  "replace": "Це серйозне прохання. Але мені не обійтися без вашої участі. Можливо, доведеться відбирати життя. Ви готові на це піти?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/EndCall/Friendly",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also russianism задача fixed to завдання.",
+  "find": "Радий був поговорити. І удачі тобі — цей світ потребує порятунку, і ця задача лежить на нас.",
+  "replace": "Радий був поговорити. І удачі вам — цей світ потребує порятунку, і це завдання лежить на нас."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Мені потрібні союзники. Чорт забирай, та й тобі теж. Працюватимеш зі мною, з моїми людьми?",
+  "replace": "Мені потрібні союзники. Чорт забирай, та й вам теж. Працюватимете зі мною, з моїми людьми?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferGift",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Послухай, я хочу тобі щось віддати — щось цінне — і не хочу навіть чути відмови.",
+  "replace": "Послухайте, я хочу вам щось віддати — щось цінне — і не хочу навіть чути відмови."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferGift/OfferHighAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Наші комори після цього спорожніють, але тобі доведеться все це забрати. Ти знаєш чому.",
+  "replace": "Наші комори після цього спорожніють, але вам доведеться все це забрати. Ви знаєте чому."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferGift/OfferMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Це більше, ніж я можу собі дозволити, але ти бери. Бери все.",
+  "replace": "Це більше, ніж я можу собі дозволити, але ви беріть. Беріть все."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferGift/OfferMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Мені здається, це буде справедливо для нас обох. Як думаєш?",
+  "replace": "Мені здається, це буде справедливо для нас обох. Як думаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Якщо обміркуємо все разом, то хоч якось розберемося в цьому божевільному, спотвореному до невпізнання світі, який колись називали домом. Ну, що скажеш?",
+  "replace": "Якщо обміркуємо все разом, то хоч якось розберемося в цьому божевільному, спотвореному до невпізнання світі, який колись називали домом. Ну, що скажете?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Я втомився від війни. Втомився вбивати людей, які мали б бути моїми друзями. Давай не будемо? Не тоді, коли нас з усіх боків оточують чудовиська.",
+  "replace": "Я втомився від війни. Втомився вбивати людей, які мали б бути моїми друзями. Давайте не будемо? Не тоді, коли нас з усіх боків оточують чудовиська."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/Chieftess",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered добра goes plural.",
+  "find": "А ти в цьому добра. В убивствах. Чи не так? Але, може, зробимо перепочинок, га? Можемо й далі ненавидіти одне одного.",
+  "replace": "А ви в цьому добрі. В убивствах. Чи не так? Але, може, зробимо перепочинок, га? Можемо й далі ненавидіти одне одного."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/EmulatedMind",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Прошу, зупинись. Ми не зобов’язані це робити. Ми вище цього!",
+  "replace": "Прошу, зупиніться. Ми не зобов’язані це робити. Ми вище цього!"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/FallenSoldier",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered схожий and хотів go plural.",
+  "find": "Ми з тобою однакові, ти і я. Чому ми воюємо? Якщо ти справді на мене схожий, то я знаю, що ти цього не хочеш. І ніколи не хотів.",
+  "replace": "Ми з вами однакові, ви і я. Чому ми воюємо? Якщо ви справді на мене схожі, то я знаю, що ви цього не хочете. І ніколи не хотіли."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/FurtiveTribunal",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered передбачала goes plural.",
+  "find": "А таке ти передбачала? Я вимагаю миру — з мене досить марних битв і смертей.",
+  "replace": "А таке ви передбачали? Я вимагаю миру — з мене досить марних битв і смертей."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/HeartlessArtificer",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also wrong preposition байдуже на fixed to байдуже до.",
+  "find": "Ми маємо це припинити. Я знаю, що тобі байдуже на своїх послідовників, але мені вони не байдужі. Вони заслуговують на шанс.",
+  "replace": "Ми маємо це припинити. Я знаю, що вам байдуже до своїх послідовників, але мені вони не байдужі. Вони заслуговують на шанс."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/HollowWarlord",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Я знаю, що тобі це не до вподоби. Ти з більшою радістю подивишся, як мруть твої ж солдати. Але я ставлю на те, що доведеться погодитися.",
+  "replace": "Я знаю, що вам це не до вподоби. Ви з більшою радістю подивитеся, як мруть ваші ж солдати. Але я ставлю на те, що доведеться погодитися."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/HonorableAristocrat",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти вбиваєш одного з моїх людей, я підриваю один із твоїх фургонів із тістечками... Може, ми припинимо? Це ж безглуздя.",
+  "replace": "Ви вбиваєте одного з моїх людей, я підриваю один із ваших фургонів із тістечками... Може, ми припинимо? Це ж безглуздя."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/ImperiousExonaut",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Кажеш, що любиш людей. То… може, тоді просто не вбивати їх?",
+  "replace": "Кажете, що любите людей. То… може, тоді просто не вбивати їх?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/PlatinumScion",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти, у вишуканому костюмі. Якщо не хочеш крові на ньому — моєї, твоєї — ми повинні зупинитися.",
+  "replace": "Ви, у вишуканому костюмі. Якщо не хочете крові на ньому — моєї, вашої — ми повинні зупинитися."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/PracticalRomantic",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "З усіх монстрів цього світу ми з тобою точно не повинні битися. Це невигідно для нас обох.",
+  "replace": "З усіх монстрів цього світу ми з вами точно не повинні битися. Це невигідно для нас обох."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/RogueOperative",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Так і до взаємного знищення недалеко. Краще ти припини свої таємні операції, а я відкличу своїх солдатів. Мир — це перемога для нас обох.",
+  "replace": "Так і до взаємного знищення недалеко. Краще ви припиніть свої таємні операції, а я відкличу своїх солдатів. Мир — це перемога для нас обох."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/SyncreticDeva",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ще ніколи моїх вояків не лупцювали студенти-філософи. Дякую за урок. А тепер… можеш попросити їх перестати нас навчати?",
+  "replace": "Ще ніколи моїх вояків не лупцювали студенти-філософи. Дякую за урок. А тепер… можете попросити їх перестати нас навчати?"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/TwistedMother",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Мамо. Я цього не хочу, ти ж знаєш. Відклич своїх потвор.",
+  "replace": "Мамо. Я цього не хочу, ви ж знаєте. Відкличте своїх потвор."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/UntoldProphet",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Припини це, дитино. Ти марно посилаєш на загибель своїх фанатиків. Пора з цим покінчити.",
+  "replace": "Припиніть це, дитино. Ви марно посилаєте на загибель своїх фанатиків. Пора з цим покінчити."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferPeace/Zephon",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Якщо твій розум чи алгоритм здатний прислухатись бодай на мить — ця війна нічого доброго нам не приносить. Давай закінчувати.",
+  "replace": "Якщо ваш розум чи алгоритм здатний прислухатись бодай на мить — ця війна нічого доброго нам не приносить. Давайте закінчувати."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/OfferTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Знаєш, що єднає народи, зупиняє війни? Хліб-сіль, люльки миру і все таке. Давай ділитися нашими товарами — ми обидва лише виграємо.",
+  "replace": "Знаєте, що єднає народи, зупиняє війни? Хліб-сіль, люльки миру і все таке. Давайте ділитися нашими товарами — ми обидва лише виграємо."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/Praise",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also calque робиш правильну річ replaced.",
+  "find": "Не кожен скаже це, але ти робиш правильну річ.",
+  "replace": "Не кожен скаже це, але ви чините правильно."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/Praise/PersonalVisit",
+  "sev": "high",
+  "cat": "register",
+  "note": "Addresses the player with ти; also простих робіт is nonsense for workin' Joes and becomes простих роботяг.",
+  "find": "Я б плюнув на твої блискучі черевики. Але мушу сказати, опуститися до нас, простих робіт. Це я можу поважати. Навіть якщо ти просто відвідувач.",
+  "replace": "Я б плюнув на ваші блискучі черевики. Але мушу сказати, опуститися до нас, простих роботяг. Це я можу поважати. Навіть якщо ви просто відвідувач."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/Praise/TenderMinistrations",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Я завжди хотів це сказати, і ось кажу... Ми з тобою не такі вже й різні. Хех.",
+  "replace": "Я завжди хотів це сказати, і ось кажу... Ми з вами не такі вже й різні. Хех."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/Praise/ThereIsHope",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "А ти ніколи не здаєшся, так? Щось всередині продовжує штовхати тебе вперед — крізь біль, утрати і... пхе, ти й так знаєш, про що я. Це чудово, ось про що я.",
+  "replace": "А ви ніколи не здаєтеся, так? Щось всередині продовжує штовхати вас вперед — крізь біль, утрати і... пхе, ви й так знаєте, про що я. Це чудово, ось про що я."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also дізнаюся тебе is the wrong verb and becomes пізнаю вас.",
+  "find": "Вибач, але я на таке не готовий. Можливо, коли дізнаюся тебе і твоїх краще, ми повернемося до цієї теми.",
+  "replace": "Вибачте, але я на таке не готовий. Можливо, коли краще пізнаю вас і ваших, ми повернемося до цієї теми."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectAllianceTerminationWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Вибач, але з друзями так не чинять. Без друзів ми навряд чи протримаємося ще одне коло пекла.",
+  "replace": "Вибачте, але з друзями так не чинять. Без друзів ми навряд чи протримаємося ще одне коло пекла."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectGift/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ідея була непогана, але кількість просто образлива, вибач. Повертайся, коли добре подумаєш, наскільки я цінний.",
+  "replace": "Ідея була непогана, але кількість просто образлива, вибачте. Повертайтеся, коли добре подумаєте, наскільки я цінний."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectGift/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Я не можу прийняти від тебе подарунок. Це було б неправильно. І не питай чому — ти й так знаєш. Подаруй комусь іншому.",
+  "replace": "Я не можу прийняти від вас подарунок. Це було б неправильно. І не питайте чому — ви й так знаєте. Подаруйте комусь іншому."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Вибач, але я поки притримаю цю карту у себе. Світ спотворений до невпізнання, і мені спокійніше, коли тільки мої люди знають дорогу.",
+  "replace": "Вибачте, але я поки притримаю цю карту у себе. Світ спотворений до невпізнання, і мені спокійніше, коли тільки мої люди знають дорогу."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectPaymentForDeal/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Я не можу тобі заплатити. Це було б неправильно. І не питай чому — ти й так знаєш. Вимагай свої криваві гроші з когось іншого.",
+  "replace": "Я не можу вам заплатити. Це було б неправильно. І не питайте чому — ви й так знаєте. Вимагайте свої криваві гроші з когось іншого."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectPeace",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Зараз про мир не може бути й мови. Принаймні, з тобою. Якщо не можеш продовжувати, подумай про те, щоб здатися. Умови обговоримо пізніше.",
+  "replace": "Зараз про мир не може бути й мови. Принаймні, з вами. Якщо не можете продовжувати, подумайте про те, щоб здатися. Умови обговоримо пізніше."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectPeaceWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also russianism Я-то and wrong government розуміюся в fixed.",
+  "find": "О ні, не тобі говорити про мир. У тебе на руках стільки крові, скільки іншим і не снилось. Я-то в цьому розуміюся.",
+  "replace": "О ні, не вам говорити про мир. У вас на руках стільки крові, скільки іншим і не снилось. Я на цьому розуміюся."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectPeaceWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative Повір addresses the player with ти.",
+  "find": "Боюся, війна триватиме. Ці хлопці ще не заслужили перепочинку. Повір, ми теж страждаємо.",
+  "replace": "Боюся, війна триватиме. Ці хлопці ще не заслужили перепочинку. Повірте, ми теж страждаємо."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Твої каравани, які везуть шпигунів просто в серце наших міст? Зараз нам це точно не потрібно.",
+  "replace": "Ваші каравани, які везуть шпигунів просто в серце наших міст? Зараз нам це точно не потрібно."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTradeAgreementTerminationWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Нам життєво необхідна вся торгівля, яку ми ведемо. Та й у тебе немає права вирішувати, чим нам займатися.",
+  "replace": "Нам життєво необхідна вся торгівля, яку ми ведемо. Та й у вас немає права вирішувати, чим нам займатися."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTradeAgreementWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered такий goes plural.",
+  "find": "Хто ти такий, щоб намагатися нас контролювати? Ми самі вирішуємо, з ким торгувати, а з ким ні.",
+  "replace": "Хто ви такі, щоб намагатися нас контролювати? Ми самі вирішуємо, з ким торгувати, а з ким ні."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTradeAgreementWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "З ким?! Іноді мені здається, що ти взагалі нас не знаєш. Приходь, якщо придумаєш щось краще.",
+  "replace": "З ким?! Іноді мені здається, що ви взагалі нас не знаєте. Приходьте, якщо придумаєте щось краще."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTribute/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти забагато хочеш. Це прояв неповаги. Не за таке ми помирали.",
+  "replace": "Ви забагато хочете. Це прояв неповаги. Не за таке ми помирали."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTribute/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми не збираємося від тебе відкуповуватися. Не сьогодні. Можливо, взагалі ніколи. Якщо хочеш нашої прихильності — заслужи її.",
+  "replace": "Ми не збираємося від вас відкуповуватися. Не сьогодні. Можливо, взагалі ніколи. Якщо хочете нашої прихильності — заслужіть її."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectTroopWithdrawal",
+  "sev": "high",
+  "cat": "register",
+  "note": "Addresses the player with ти; also reverses the English — the troops stay where they are and the player is told to keep out of his plans, not that the troops will move.",
+  "find": "Ні кроку назад. Ні дюйма. Вони підуть туди, куди треба, а ти підеш до біса.",
+  "replace": "Ні кроку назад. Ні дюйма. Вони залишаться там, де стоять, а ви, чорт забирай, не лізьте в наші плани."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectWarAgainstThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ні. Не проси інших людей помирати за тебе. Кажу це тобі як той, хто вже давно мертвий.",
+  "replace": "Ні. Не просіть інших людей помирати за вас. Кажу це вам як той, хто вже давно мертвий."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/RejectWarAgainstThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ні. Ми не будемо нападати заради тебе. Ти взагалі знаєш, що таке битися, програти, померти? Я знаю, і більше цього робити не збираюся. Тим паче — не заради тебе.",
+  "replace": "Ні. Ми не будемо нападати заради вас. Ви взагалі знаєте, що таке битися, програти, померти? Я знаю, і більше цього робити не збираюся. Тим паче — не заради вас."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/TerminateTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Навіщо прикидатися? Ми більше не отримуємо вигоди і не будемо гарувати, щоб у тебе побільшало багатств. Ми ледве зводимо кінці з кінцями.",
+  "replace": "Навіщо прикидатися? Ми більше не отримуємо вигоди і не будемо гарувати, щоб у вас побільшало багатств. Ми ледве зводимо кінці з кінцями."
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/FirstContact",
+  "sev": "med",
+  "cat": "punctuation",
+  "note": "The sentence break after the name placeholder was lost, running two sentences together.",
+  "find": "Я %1%Ті",
+  "replace": "Я %1%. Ті"
+ },
+ {
+  "id": "Diplomacy.xml|FallenSoldier/FirstContact",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "After хто the verb must be singular.",
+  "find": "хто виступають проти мене",
+  "replace": "хто виступає проти мене"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptActionCancel",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Спиш на ходу? Продовжуй, ми не заперечуємо.",
+  "replace": "Спите на ходу? Продовжуйте, ми не заперечуємо."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Під час нашої першої зустрічі ми спитали, хто ти — не ім’я, а покликання, і твоя відповідь стала втіхою для наших вух. Нехай доля і кров скріплять наш новий ковен.",
+  "replace": "Під час нашої першої зустрічі ми спитали, хто ви — не ім’я, а покликання, і ваша відповідь стала втіхою для наших вух. Нехай доля і кров скріплять наш новий ковен."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAllianceTermination",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми знали, що цей день настане. Ми сподівалися, що ти — Осереддя, але ти вперто залишаєшся Прогалиною. Безрідна зірка несе родині нещастя, одинаку, і тому наша родина мусить розділитися, щоб вижити.",
+  "replace": "Ми знали, що цей день настане. Ми сподівалися, що ви — Осереддя, але ви вперто залишаєтеся Прогалиною. Безрідна зірка несе родині нещастя, одинаку, і тому наша родина мусить розділитися, щоб вижити."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAllianceTerminationWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Серед усіх пауз і нот тобі вдалося виявити дисонанс. Ми вдячні тобі за підвищення благозвучності.",
+  "replace": "Серед усіх пауз і нот вам вдалося виявити дисонанс. Ми вдячні вам за підвищення благозвучності."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAllianceTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми прагнемо досягти ще більшої гармонії. Скажи нам, який розлад ти відчуваєш.",
+  "replace": "Ми прагнемо досягти ще більшої гармонії. Скажіть нам, який розлад ви відчуваєте."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAllianceWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми вислухали твій погляд на майбутнє нашого ковена... і він нам невимовно до вподоби.",
+  "replace": "Ми вислухали ваш погляд на майбутнє нашого ковена... і він нам невимовно до вподоби."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptAllianceWithThirdParty/AskParty",
+  "sev": "high",
+  "cat": "register",
+  "note": "Addresses the player with ти; also where they are was mistranslated as хто він є instead of де він є.",
+  "find": "Хтось може знати лише, хто він є, або куди прямує — але не те й інше водночас. Нам відоме перше, а чи відоме тобі останнє?",
+  "replace": "Хтось може знати лише, де він є, або куди прямує — але не те й інше водночас. Нам відоме перше, а чи відоме вам останнє?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptCall/Friendly",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Нарешті. О, як ми жадали почути твій голос.",
+  "replace": "Нарешті. О, як ми жадали почути ваш голос."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptCall/Neutral",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми чуємо твій поклик, одинаку.",
+  "replace": "Ми чуємо ваш поклик, одинаку."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptGift/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Дзвін монет, сміх принців, передзвін кришталевих дзвіночків... Це лише мала частка твого сяйливого майбутнього.",
+  "replace": "Дзвін монет, сміх принців, передзвін кришталевих дзвіночків... Це лише мала частка вашого сяйливого майбутнього."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptGift/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Гідне приношення здатне вплинути навіть на богів. Час слушний, але чи матимеш ти гідний дар?",
+  "replace": "Гідне приношення здатне вплинути навіть на богів. Час слушний, але чи матимете ви гідний дар?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Візьми наші знання, нашу надію, нашу довіру... Ти не бачиш того, що відкрите нам, тож тобі згодиться будь-яка допомога.",
+  "replace": "Візьміть наші знання, нашу надію, нашу довіру... Ви не бачите того, що відкрите нам, тож вам згодиться будь-яка допомога."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptPaymentForDeal/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Візьми, але знай — коли настане кінець, ти заплатиш усім за своє марнославство.",
+  "replace": "Візьміть, але знайте — коли настане кінець, ви заплатите усім за своє марнославство."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptPaymentForDeal/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Тобі відкриті напучування великих сутностей, але ти прагнеш додати ще міру? Яких же багатств ти бажаєш, якщо всієї долі тобі замало?",
+  "replace": "Вам відкриті напучування великих сутностей, але ви прагнете додати ще міру? Яких же багатств ви бажаєте, якщо всієї долі вам замало?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "Bloodline became мучеників (martyrs), which is not in the English.",
+  "find": "Життя цих мучеників вже позначені для Ненаситного.",
+  "replace": "Їхній рід уже позначений для Ненаситного."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative назви addresses the player with ти.",
+  "find": "Ще не настав час пробити, розірвати, скинути завісу між світами і сповістити нову епоху. Ми не відкидаємо милосердя — назви нам ім’я.",
+  "replace": "Ще не настав час пробити, розірвати, скинути завісу між світами і сповістити нову епоху. Ми не відкидаємо милосердя — назвіть нам ім’я."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Приношення кісток та іхору; гаманець дзвінких монет; павутина шляхів, виткана позолоченим павуком... Твій ритуал принадний, і ми згодні.",
+  "replace": "Приношення кісток та іхору; гаманець дзвінких монет; павутина шляхів, виткана позолоченим павуком... Ваш ритуал принадний, і ми згодні."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementTermination",
+  "sev": "low",
+  "cat": "russianism",
+  "note": "Russian-style active participle вмираючий.",
+  "find": "цього вмираючого світу",
+  "replace": "цього світу, що вмирає"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperatives address the player with ти.",
+  "find": "Подивимось, що приготувала нам доля. Розміть дошку, кинь камені й промов ім’я.",
+  "replace": "Подивимось, що приготувала нам доля. Розмітьте дошку, киньте камені й промовте ім’я."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperatives address the player with ти.",
+  "find": "Дванадцять карт у цій колоді фортуни. Візьми одну та покажи нам.",
+  "replace": "Дванадцять карт у цій колоді фортуни. Візьміть одну та покажіть нам."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTribute/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Так і бути. Насолоджуйся своєю миттєвою вигодою, бо коли настане кінець, у тебе залишиться лише смерть.",
+  "replace": "Так і бути. Насолоджуйтеся своєю миттєвою вигодою, бо коли настане кінець, у вас залишиться лише смерть."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptTribute/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also russianism Шут replaced with Блазень, the form used elsewhere in the batch.",
+  "find": "Ти ступаєш на шлях Розбійника, Жебрака, Шута. Ми вже проходили це й знаємо, що не відрадимо тебе. У що це нам обійдеться цього разу?",
+  "replace": "Ви ступаєте на шлях Розбійника, Жебрака, Блазня. Ми вже проходили це й знаємо, що не відрадимо вас. У що це нам обійдеться цього разу?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptWar",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Жага кровопролиття зіграла перший акорд твоєї згубної пісні, і ми підхопимо її приспів. Коли настане кінець, усі твої великі труди зникнуть, і не залишиться навіть реквієму за тобою!",
+  "replace": "Жага кровопролиття зіграла перший акорд вашої згубної пісні, і ми підхопимо її приспів. Коли настане кінець, усі ваші великі труди зникнуть, і не залишиться навіть реквієму за вами!"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AcceptWarAgainstThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative Дай addresses the player with ти.",
+  "find": "Дай нам ім’я, обличчя, краплю крові... під покровом тіні зачарованого місяця стане явною наша роль у цьому конфлікті.",
+  "replace": "Дайте нам ім’я, обличчя, краплю крові... під покровом тіні зачарованого місяця стане явною наша роль у цьому конфлікті."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AdmitDefeat",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also Three we were is past tense, and russianism Старуха becomes Стариця.",
+  "find": "Нас троє. Клото, Атропа, Лахесіс. Діва, Жінка, Старуха. Батько, Син, Дух. Тепер, волею твоїх вчинків, ми розділені. Перед нами лежать дві з Нас. Залишилася одна. Як і Анахорет, я замкнена у вічному теперішньому, не маючи ні пам’яті, ні провидіння. Який страшний фінал для трійці, що так багато обіцяла!",
+  "replace": "Нас було троє. Клото, Атропа, Лахесіс. Діва, Жінка, Стариця. Батько, Син, Дух. Тепер, волею ваших вчинків, ми розділені. Перед нами лежать дві з Нас. Залишилася одна. Як і Анахорет, я замкнена у вічному теперішньому, не маючи ні пам’яті, ні провидіння. Який страшний фінал для трійці, що так багато обіцяла!"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AskForProposals",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми відчуваємо твої питання, що невидимо витають довкола нас. Що. Навіщо. Як?",
+  "replace": "Ми відчуваємо ваші питання, що невидимо витають довкола нас. Що. Навіщо. Як?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AskForSupport/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative Закрий addresses the player with ти.",
+  "find": "Закрий нам роти, ми не будемо голодувати. Наш ковен живиться вищими помислами... самим подихом божеств.",
+  "replace": "Закрийте нам роти, ми не будемо голодувати. Наш ковен живиться вищими помислами... самим подихом божеств."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AskForSupport/Chieftess",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperatives address the player with ти.",
+  "find": "Розсадник скрегітного жаху, школа страждань. Збудуй це життя між землею і небом та не питай, чому. Рай було втрачено через дрібницю.",
+  "replace": "Розсадник скрегітного жаху, школа страждань. Збудуйте це життя між землею і небом та не питайте, чому. Рай було втрачено через дрібницю."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/AskForSupport/Zephon",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative Дай addresses the player with ти; also Russian-style participle сяючий replaced with сяйний.",
+  "find": "Жах високих технологій, наш лицар у сяючому металі. Приварені пальці, що обіцяють багато. Дай нам зараз, поки ще є шанс.",
+  "replace": "Жах високих технологій, наш лицар у сяйному металі. Приварені пальці, що обіцяють багато. Дайте нам зараз, поки ще є шанс."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Condemn",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти бачиш ці нитки, які ми плетемо, міряємо, ріжемо. Ми задушимо тебе ними.",
+  "replace": "Ви бачите ці нитки, які ми плетемо, міряємо, ріжемо. Ми задушимо вас ними."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Condemn/ArtificersPrecision",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Протиснути твоє роздуте его крізь вушко голки не втамує його. Людям не слід прагнути точності богів.",
+  "replace": "Протиснути ваше роздуте его крізь вушко голки не втамує його. Людям не слід прагнути точності богів."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Condemn/TimeOutOfJoint",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also нашими плутаниною does not agree and becomes нашими плутанинами.",
+  "find": "Наші мотки заплуталися! Наші карти безладні! Ти, дурень, блукаєш нашими колодами, нашими плутаниною! ТИ НАС ЗАСЛІПИВ.",
+  "replace": "Наші мотки заплуталися! Наші карти безладні! Ви, дурню, блукаєте нашими колодами, нашими плутанинами! ВИ НАС ЗАСЛІПИЛИ."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Condemn/Untrustworthy",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Для трьох один голос — відступництво, безглуздя. І хоч зло відносне, але щодо твого брехливого роздвоєного язика ми одностайні.",
+  "replace": "Для трьох один голос — відступництво, безглуздя. І хоч зло відносне, але щодо вашого брехливого роздвоєного язика ми одностайні."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Condemn/WordsOfTheProphet",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Порожній король у короні з туману. Уста ллють срібні промови, що зникають ще до того, як їх почують. Невидимий друг над кожним плечем. Ти вводиш свій народ в оману, і ми тебе за це НЕНАВИДИМО.",
+  "replace": "Порожній король у короні з туману. Уста ллють срібні промови, що зникають ще до того, як їх почують. Невидимий друг над кожним плечем. Ви вводите свій народ в оману, і ми вас за це НЕНАВИДИМО."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/CondemnInterferenceAttempt",
+  "sev": "high",
+  "cat": "meaning",
+  "note": "As he dangles was rendered as Жартуючи (joking), which is not the meaning.",
+  "find": "Жартуючи, Блазень",
+  "replace": "Погойдуючись, Блазень"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/CondemnTradeAgreement",
+  "sev": "low",
+  "cat": "punctuation",
+  "note": "The sentence-ending period after the placeholder is missing.",
+  "find": "%3% Масть монет",
+  "replace": "%3%. Масть монет"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DeclareWar/HollowWarlord",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Діра в землі. Вдивишся в неї — і твої очі згорять. За нею — паралельний світ, що тоне в сльозах, полум’я, яке палає під солоними хвилями. І все через бездіяльність.",
+  "replace": "Діра в землі. Вдивитеся в неї — і ваші очі згорять. За нею — паралельний світ, що тоне в сльозах, полум’я, яке палає під солоними хвилями. І все через бездіяльність."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DeclareWar/InfiniteCount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also the Tribunal is three, so Ми обидва (both of us) is wrong.",
+  "find": "Ми обидва кладемо карту. Маг. Імператор. Суд. Ім’я твоє з’являється на вустах мовчазної, %1%. Чаша падає.",
+  "replace": "Кожна з нас кладе карту. Маг. Імператор. Суд. Ім’я ваше з’являється на вустах мовчазної, %1%. Чаша падає."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DeclareWar/PlatinumScion",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Фенріс, Кханьяпа, Апоп. Твої предки, о Боже споживання. До падіння твій черв’ячий рід вже пронизував цей світ. Дозволь нам вирвати тебе.",
+  "replace": "Фенріс, Кханьяпа, Апоп. Ваші предки, о Боже споживання. До падіння ваш черв’ячий рід вже пронизував цей світ. Дозвольте нам вирвати вас."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DeclareWar/TwistedMother",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "Twists and contorts became лізе з усіх сил (climbs with all its might), which makes no sense here.",
+  "find": "родина лізе з усіх сил",
+  "replace": "родина звивається й викручується"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DeclareWar/UntoldProphet",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "The oracle dangles in the dark, it does not tremble.",
+  "find": "він тремтить",
+  "replace": "він звисає"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandAllianceTerminationWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти — подвійна зірка, нестійка й приречена через тяжіння, що пов’язує тебе із сусідом. Ми допоможемо тобі втекти, але лише якщо ти попросиш про це.",
+  "replace": "Ви — подвійна зірка, нестійка й приречена через тяжіння, що пов’язує вас із сусідом. Ми допоможемо вам втекти, але лише якщо ви попросите про це."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandAllianceWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Твій вплив розширюється, але хватка слабшає. Прийми нову траєкторію, прив’яжи до себе цю вільну зірку, і ти неминуче станеш центром усіх орбіт.",
+  "replace": "Ваш вплив розширюється, але хватка слабшає. Прийміть нову траєкторію, прив’яжіть до себе цю вільну зірку, і ви неминуче станете центром усіх орбіт."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandPaymentForDeal",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти намагаєшся відтягнути нас від веління долі... але що можеш запропонувати натомість?",
+  "replace": "Ви намагаєтеся відтягнути нас від веління долі... але що можете запропонувати натомість?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandPaymentForDeal/DemandLowAmount",
+  "sev": "high",
+  "cat": "meaning",
+  "note": "Reverses the English: the scale is already in perfect balance and a nudge tips it, it is not being restored to balance.",
+  "find": "Щоб повернути терези у стан рівноваги",
+  "replace": "Щоб схитнути ідеально зрівноважені терези"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandPeaceWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperatives address the player with ти.",
+  "find": "Смертельна зірка, якій судилося зіткнутися з темними небесними тілами... обери новий шлях і задовольняйся ним, перш ніж розгнівати їхніх страшних господарів.",
+  "replace": "Смертельна зірка, якій судилося зіткнутися з темними небесними тілами... оберіть новий шлях і задовольняйтеся ним, перш ніж розгнівати їхніх страшних господарів."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTradeAgreementTerminationWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти спілкуєшся з короткозорими, бездушними, зіпсованими. Тобі судилося набагато більше — варто лише звільнитися від їхнього тяжіння. Ми знаємо, що так і буде.",
+  "replace": "Ви спілкуєтеся з короткозорими, бездушними, зіпсованими. Вам судилося набагато більше — варто лише звільнитися від їхнього тяжіння. Ми знаємо, що так і буде."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTradeAgreementWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Самотня комета борознить космос, приречена лише розбитися об більші тіла. Щоб вижити, тобі доведеться узгодити свою долю з долею інших.",
+  "replace": "Самотня комета борознить космос, приречена лише розбитися об більші тіла. Щоб вижити, вам доведеться узгодити свою долю з долею інших."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTribute",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also Пари is a typo for Парі (a wager).",
+  "find": "Випробування. Пари. Доказ твого права на існування. Не звертай гніву на нас, ми лише передвісники страшної неминучості.",
+  "replace": "Випробування. Парі. Доказ вашого права на існування. Не звертайте гніву на нас, ми лише передвісники страшної неминучості."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandHighAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Тобі доведеться віддати три чверті вмісту всіх сховищ.",
+  "replace": "Вам доведеться віддати три чверті вмісту всіх сховищ."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandLowAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative addresses the player with ти.",
+  "find": "Подаруй нам знак своєї пошани.",
+  "replace": "Подаруйте нам знак своєї пошани."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ми звільнимо тебе від хибної жадібності, позбавивши всього, чого ти прагнеш.",
+  "replace": "Ми звільнимо вас від хибної жадібності, позбавивши всього, чого ви прагнете."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Подаруй нам частину того, що тобі дороге.",
+  "replace": "Подаруйте нам частину того, що вам дороге."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Твої солдати крадуться в тінях, не підозрюючи, що найкраще ми бачимо в темряві. Негайно відведи їх, інакше вони скоро виявлять, що ще бродить у мороці.",
+  "replace": "Ваші солдати крадуться в тінях, не підозрюючи, що найкраще ми бачимо в темряві. Негайно відведіть їх, інакше вони скоро виявлять, що ще бродить у мороці."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/DemandWarAgainstThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also the opening participle dangles and fate decreeing them prey was dropped.",
+  "find": "Позначена карміновим клеймом, це буде наша наступна жертва. Ти приєднаєшся до нашого полювання?",
+  "replace": "Позначені карміновим клеймом, вони за велінням долі стануть нашою наступною жертвою. Ви приєднаєтеся до нашого полювання?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/EndCall/Hostile",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Ти даремно витрачаєш забагато наших благ. Повернися, коли захочеш слухати, або не повертайся зовсім.",
+  "replace": "Ви даремно витрачаєте забагато наших благ. Поверніться, коли захочете слухати, або не повертайтеся зовсім."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/EndCall/Neutral",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also singleton is одинак elsewhere in this batch, not самітник.",
+  "find": "Доля поверне тебе до нас, самітнику.",
+  "replace": "Доля поверне вас до нас, одинаку."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/FirstContact",
+  "sev": "high",
+  "cat": "register",
+  "note": "Addresses the player with ти; also singleton normalised to одинаку, Individually we were no one was translated as нікому не потрібні, and the closing sentence about acceptable answers to the riddle was garbled.",
+  "find": "Розкрий очі, самітнику. Ти не спиш — ти й є сон. Старий світ мертвий, старого тебе немає, тож хто ти тепер? Ми були Покірною, Мовчазною та Співучасницею. Поодинці ми були нікому не потрібні, але разом ми бог у плоті.<br/><br/>Благоговій, тремти, схиляйся перед нами... Якщо ти гадаєш, що можеш зробити для нас, всі ці спроби допустимі.",
+  "replace": "Розкрийте очі, одинаку. Ви не спите — ви й є сон. Старий світ мертвий, ваше колишнє «я» мертве, тож хто ви тепер? Ми були Покірною, Мовчазною та Співучасницею. Поодинці ми були ніким, але разом ми — сам бог.<br/><br/>Благоговійте, тремтіть, схиляйтеся перед нами... Це все прийнятні відповіді на загадку про те, що ви можете для нас зробити."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also the first clause lost the sense that it is rare for all three of them to like anyone.",
+  "find": "Не всім одразу хтось подобається, але ти виняткова особистість.",
+  "replace": "Рідко буває, щоб хтось сподобався нам усім, але ви виняткова особистість."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferGift",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Доля може бути жорстокою, але може бути й доброю. Ти ж знаєш, що удача сліпа?",
+  "replace": "Доля може бути жорстокою, але може бути й доброю. Ви ж знаєте, що удача сліпа?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferGift/OfferHighAmount",
+  "sev": "low",
+  "cat": "typo",
+  "note": "Непоховані is written as two words, unlike the parallel незаплямовані and незіпсоване.",
+  "find": "Не поховані скарби",
+  "replace": "Непоховані скарби"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferGift/OfferLowAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Візьми це. Це лише частинка твоїх майбутніх багатств.",
+  "replace": "Візьміть це. Це лише частинка ваших майбутніх багатств."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferGift/OfferMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Не надто багато й не надто мало. Саме стільки, скільки тобі потрібно.",
+  "replace": "Не надто багато й не надто мало. Саме стільки, скільки вам потрібно."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also оцінеш was misspelled.",
+  "find": "Ось, спробуй частинку нашого темного бачення... ти ще більше нас оцінеш.",
+  "replace": "Ось, спробуйте частинку нашого темного бачення... ви ще більше нас оціните."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "Перестати cannot take an object, and the until-clause needs a perfective verb.",
+  "find": "Перестанемо цей безглуздий фарс доти, поки Невблаганне не потребує свого.",
+  "replace": "Припинімо цей безглуздий фарс, доки Невблаганне не зажадає свого."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; also Suns was translated as Сяйва instead of Сонця.",
+  "find": "Сяйва ростуть і перетворюються на пил. Але ти все ще живеш. Що таке війна для такого, як ти?",
+  "replace": "Сонця ростуть і перетворюються на пил. Але ви все ще живете. Що таке війна для таких, як ви?"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/FallenSoldier",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти; gendered застряг and спокійний go plural.",
+  "find": "Падай, піднімайся й падай знову. Ти застряг у замкнутому колі, яке нам не підвладне. Подолання сховане між світами. Відповідь тобі не сподобається — будь спокійний.",
+  "replace": "Падайте, піднімайтеся й падайте знову. Ви застрягли у замкнутому колі, яке нам не підвладне. Подолання сховане між світами. Відповідь вам не сподобається — будьте спокійні."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/HeartlessArtificer",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "Натовп is masculine, so the verb must be розтоптав.",
+  "find": "кого розтоптала натовп",
+  "replace": "кого розтоптав натовп"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/HollowWarlord",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Порожня, порожня людина. Всім багатствам світу й гріхам не наповнити тебе. Зупинись, задумайся про своє падіння у пекло.",
+  "replace": "Порожня, порожня людина. Всім багатствам світу й гріхам не наповнити вас. Зупиніться, задумайтеся про своє падіння у пекло."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/HonorableAristocrat",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Коронований, спи спокійно цієї ночі. Тепер ти можеш позбутися своєї війни. Жоден анархіст не завадить твоїм солодким снам...",
+  "replace": "Коронований, спіть спокійно цієї ночі. Тепер ви можете позбутися своєї війни. Жоден анархіст не завадить вашим солодким снам..."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/InfiniteCount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Крутишся, крутишся і крутишся. Більше, ніж знаєш.",
+  "replace": "Крутитеся, крутитеся і крутитеся. Більше, ніж знаєте."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/PlatinumScion",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Князь Монет, твої груди порожні. Вони споживають усе, але порожнеча залишається. Припини свої труди, і вона закриється сама.",
+  "replace": "Князь Монет, ваші груди порожні. Вони споживають усе, але порожнеча залишається. Припиніть свої труди, і вона закриється сама."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/PracticalRomantic",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperative addresses the player with ти; also we shall speak in tongues again was garbled into за нас знову говоритимуть слова.",
+  "find": "З романтиками потрібно говорити обережно. Макбет був романтиком і не послухав тієї трійці. Принеси нам мир, Романтику, і за нас знову говоритимуть слова.",
+  "replace": "З романтиками потрібно говорити обережно. Макбет був романтиком і не послухав тієї трійці. Принесіть нам мир, Романтику, і ми знову заговоримо мовами."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/RogueOperative",
+  "sev": "med",
+  "cat": "register",
+  "note": "Imperatives address the player with ти; also villain is лиходій not злодій, and перестати cannot take an object.",
+  "find": "Злодій з усмішкою й гострими лацканами з’їв увесь світ, а потім заснув під своїм будинком, маючи намір повернутися, коли ми опинимося в достатньому відчаї. Перестань нашу ворожнечу, займися своїми проблемами.",
+  "replace": "Лиходій з усмішкою й гострими лацканами з’їв увесь світ, а потім заснув під своїм будинком, маючи намір повернутися, коли ми опинимося в достатньому відчаї. Припиніть нашу ворожнечу, займіться своїми проблемами."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferPeace/TwistedMother",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "Семечко is a Russian word.",
+  "find": "Семечко бога",
+  "replace": "Сім’я бога"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/OfferTradeAgreement",
+  "sev": "med",
+  "cat": "term",
+  "note": "The omens are знаки elsewhere in this batch, and ознаки means characteristics.",
+  "find": "Ознаки не брешуть",
+  "replace": "Знаки не брешуть"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Praise",
+  "sev": "med",
+  "cat": "register",
+  "note": "Addresses the player with ти.",
+  "find": "Чотири серця, два розуми, рухаються як одне. Ми троє піднімаємо тебе до зірок, %1%!",
+  "replace": "Чотири серця, два розуми, рухаються як одне. Ми троє піднімаємо вас до зірок, %1%!"
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Praise/ArmorOfFaith",
+  "sev": "high",
+  "cat": "register",
+  "note": "Addresses the player with ти; also more than a mere confidence trick was flipped, дитя was invented, something has taken hold became щось заволоділо тобою, and They need not fear was reversed.",
+  "find": "Це не шарлатанство. Ти тричі обернув цю душу проти течії, дитя, і щось заволоділо тобою. Якщо поки тебе не бояться, це зміниться.",
+  "replace": "Це більше, ніж просто шарлатанство. Ви тричі обернули цю душу проти течії, і щось у ній вкоренилося. Їм поки нема чого боятися."
+ },
+ {
+  "id": "Diplomacy.xml|FurtiveTribunal/Praise/MothersFavor",
+  "sev": "med",
+  "cat": "typo",
+  "note": "Infinitive набути used where the passive participle набуту is needed.",
+  "find": "набути мудрість",
+  "replace": "набуту мудрість"
+ }
+]

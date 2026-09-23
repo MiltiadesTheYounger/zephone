@@ -32,6 +32,7 @@ Your prompt may tell you to do only some of the jobs.
 - russianisms and surzhyk: calques, Russian words and spellings
 - typos, missing or extra letters, missing apostrophe (обєкт instead of об’єкт)
 - a term rendered differently from the canon below, or from another entry in your batch without a reason
+- an English pun inside a Ukrainian word, or Latin lookalike letters standing in for Cyrillic ones: «заDOOMив» for задумав, «pagu» for ради. The Emulated Mind keeps her dots, dashes, caps and digits for letters (в4ше), but every word must read as Ukrainian. Latin that the English itself uses stays: foreign words, homo sapiens, brand and code names.
 
 **low**
 - clearly clumsy or unnatural Ukrainian that a native reader would stumble over
@@ -75,7 +76,6 @@ Rewrite Russian-style active participles in -ючий / -учий and their case
 - A `<string name='...'/>` in EN written out as an inflected name in UK. That is deliberate, because `<string/>` can only give the nominative form.
 - `%%` in UK where EN spells out "percent".
 - ЗЕФОН in Cyrillic, declined (ЗЕФОНа, ЗЕФОНом). That is the in-game form. Only `Messages.xml|DemoEndShared` keeps Latin ZEPHON as the store name.
-- «заDOOMив» and «DOOM.ати» in EmulatedMind's lines, which are deliberate wordplay.
 - The capitalised prefix «НЕ-» (НЕ-великі юніти). It is a deliberate convention across the game.
 - Brand and technical words kept in Latin: Steam, Proxy Studios, Discord, DLC, HUD, FPS, FXAA, SMAA, SSAO, BIOS, Intel, key names such as Shift, Alt, Tab.
 - Differences in markup or `<br/>` counts on their own. A validator already checks those; report only when the words around them are wrong.

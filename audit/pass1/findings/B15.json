@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptActionCancel",
+  "sev": "low",
+  "cat": "register",
+  "note": "Leader addresses the player with «ти»; switched to «ви».",
+  "find": "Що там у тебе? Вбиваєш час?",
+  "replace": "Що там у вас? Вбиваєте час?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptAllianceTermination",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed «Прольємо» to «Проллємо».",
+  "find": "А, зрозумів! Ти хочеш війни зі МНОЮ? Так! Випробуємо нашу лють! Нашу витривалість! Прольємо кров!",
+  "replace": "А, зрозумів! Ви хочете війни зі МНОЮ? Так! Випробуємо нашу лють! Нашу витривалість! Проллємо кров!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptAllianceTerminationWithThirdParty/AskParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Пф-ф! Позбутися товариша по залі? Або двох? Гаразд, і хто, на твою думку, слабкіший за мене?",
+  "replace": "Пф-ф! Позбутися товариша по залі? Або двох? Гаразд, і хто, на вашу думку, слабкіший за мене?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptAllianceWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "«тяжковаговик» is a calque of Russian «тяжеловес»; Ukrainian is «важковаговик».",
+  "find": "тяжковаговик",
+  "replace": "важковаговик"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptCall/Neutral",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Тебе в клуб не запрошували. Гаразд, говори.",
+  "replace": "Вас в клуб не запрошували. Гаразд, говоріть."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptCondemn",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Їб тебе. Ти не маєш права мене судити.",
+  "replace": "Їб вас. Ви не маєте права мене судити."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptGift/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "І що у тебе є такого, що я не можу взяти сам?",
+  "replace": "І що у вас є такого, що я не можу взяти сам?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptMapSharing",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "О, можна ще щось завоювати? Розкажи мені.",
+  "replace": "О, можна ще щось завоювати? Розкажіть мені."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptPaymentForDeal/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О-о. Торгуєшся? Зі мною? Бачу, все-таки є в тобі жилка.",
+  "replace": "О-о. Торгуєтеся? Зі мною? Бачу, все-таки є у вас жилка."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptPeace",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianism «Дай-ка» and the two-dot ellipsis.",
+  "find": "Дай-ка я проясню. Я цього не хочу. Я вічно буду ненавидіти тебе за ці слова, але.. Ну гаразд. Мир.",
+  "replace": "Дайте-но я проясню. Я цього не хочу. Я вічно буду ненавидіти вас за ці слова, але... Ну гаразд. Мир."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptPraise",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Звісно, я найкращий! Давай, вдар мене грудьми! ВДАР МЕНЕ ГРУДЬМИ!",
+  "replace": "Звісно, я найкращий! Давайте, вдарте мене грудьми! ВДАРТЕ МЕНЕ ГРУДЬМИ!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptTribute/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; past tense goes plural.",
+  "find": "Розумно. Скористався миттю моєї слабкості. Ну і за скільки ти забудеш, що це взагалі сталося?",
+  "replace": "Розумно. Скористалися миттю моєї слабкості. Ну і за скільки ви забудете, що це взагалі сталося?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AcceptTroopWithdrawal",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "EN says the troops were pulling back; «стримувалися» means they were holding back, not withdrawing.",
+  "find": "Вони все одно стримувалися.",
+  "replace": "Вони все одно відходили."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AdmitDefeat",
+  "sev": "high",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the feminine «живою» for this male leader, the russianism «досчитаю» and the spelling «Верцингеторікса».",
+  "find": "О, тільки подивіться. Які ми дорослі. І, звісно, всі гармати спрямовані на мене. Чудова гра.<br/><br/>Але ти знаєш, я все одно не здамся живою. Не дозволю водити себе містами, як нового Верцингеторікса, вождя в ланцюгах.<br/><br/>Тому. Я зараз відкрию кобуру. А коли досчитаю до п’яти, потягнуся до зброї. І тоді ти станеш героєм, що особисто вбив чудовисько. А я продовжу жити в легендах та казках.<br/><br/>Раз. Два. Три. Чот...",
+  "replace": "О, тільки подивіться. Які ми дорослі. І, звісно, всі гармати спрямовані на мене. Чудова гра.<br/><br/>Але ви знаєте, я все одно не здамся живим. Не дозволю водити себе містами, як нового Верцингеторикса, вождя в ланцюгах.<br/><br/>Тому. Я зараз відкрию кобуру. А коли дорахую до п’яти, потягнуся до зброї. І тоді ви станете героєм, що особисто вбив чудовисько. А я продовжу жити в легендах та казках.<br/><br/>Раз. Два. Три. Чот..."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AskForProposals",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the broken agreement «якимось своїм думкою».",
+  "find": "Ще якимось своїм думкою поділишся?",
+  "replace": "Ще якоюсь своєю думкою поділитеся?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AskForSupport/Anchorite",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "А-нахо-рет. Як тобі життя на наших каменях? Слухай, а ти не міг би позичити пару своїх вояк для мого хрестового походу? Не розчаровуй мене...",
+  "replace": "А-нахо-рет. Як вам життя на наших каменях? Слухайте, а ви не могли б позичити пару своїх вояк для мого хрестового походу? Не розчаровуйте мене..."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AskForSupport/Chieftess",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Так, так, вже чую, як ти кричиш про моє «приниження», гризучи свій ножичок. Але я-то знаю, що ти завжди допоможеш спорідненій душі.",
+  "replace": "Так, так, вже чую, як ви кричите про моє «приниження», гризучи свій ножичок. Але я-то знаю, що ви завжди допоможете спорідненій душі."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/AskForSupport/Zephon",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the missing vocative «Залізяко».",
+  "find": "Ти мені завжди подобався, Залізяка. Весь з відмінних запчастин, хромований, прямо як моя «Бесс». А що ти про мене думаєш?",
+  "replace": "Ви мені завжди подобалися, Залізяко. Весь з відмінних запчастин, хромований, прямо як моя «Бесс». А що ви про мене думаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CancelAction",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Ей, тримай моє пиво!",
+  "replace": "Ей, тримайте моє пиво!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Гей, припини. ПРЯМО ЗАРАЗ. Інакше я… Я вб’ю тебе! Голими руками! ЧУЄШ?!",
+  "replace": "Гей, припиніть. ПРЯМО ЗАРАЗ. Інакше я… Я вб’ю вас! Голими руками! ЧУЄТЕ?!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn/DarkOmen",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also restored the dropped «before the gates get shut» and fixed «психи» (psychos) for EN psychics.",
+  "find": "Якщо чоловік хоче переможно проїхатися містом, йому не дуже-то подобається, коли чортові психи псують сюрприз. Це, мати твою, чесно, чи що?",
+  "replace": "Якщо чоловік хоче захопити місто, доки не зачинили ворота, йому не дуже подобається, коли чортові екстрасенси псують сюрприз. Це, мати вашу, чесно, чи що?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn/Gluttony",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianism «слинки» to «слинка».",
+  "find": "Ти людина чи величезний шніцель на ніжках? У пустелі ти й дня не протягнеш... Ей, у тебе що, слинки потекли при одному слові «шніцель»?",
+  "replace": "Ви людина чи величезний шніцель на ніжках? У пустелі ви й дня не протягнете... Ей, у вас що, слинка потекла при одному слові «шніцель»?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn/MilitaryBackground",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the agreement «своєю гівняною життям».",
+  "find": "Ха! Ти просто хлопчик для биття! Носиш броню і гармати під колір трусів, стрибаєш, тільки тобі скажуть стрибати. Насолоджуйся своєю гівняною життям.",
+  "replace": "Ха! Ви просто хлопчик для биття! Носите броню і гармати під колір трусів, стрибаєте, тільки вам скажуть стрибати. Насолоджуйтеся своїм гівняним життям."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn/Trapped",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Що, шваль, рухатися взагалі не можеш? І навіть зад собі не почешеш? Що ти тоді зробиш, якщо я на тебе ядерку скину?",
+  "replace": "Що, шваль, рухатися взагалі не можете? І навіть зад собі не почешете? Що ви тоді зробите, якщо я на вас ядерку скину?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Condemn/Untrustworthy",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Думаєш, ніхто не помітить? Ніхто не пригадає? Та в тебе тепер буквально мішень на голові.",
+  "replace": "Думаєте, ніхто не помітить? Ніхто не пригадає? Та у вас тепер буквально мішень на голові."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CondemnAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Хо-хо. Ти і %3%. Мені тепер вас обох розмазати?",
+  "replace": "Хо-хо. Ви і %3%. Мені тепер вас обох розмазати?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CondemnCityDestruction",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "«цей місто» does not agree; «місто» is neuter.",
+  "find": "цей місто",
+  "replace": "це місто"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CondemnInterferenceAttempt",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianism «Звали» to «Звалюйте».",
+  "find": "Звали, нікчемо. Навіть слухати твої ухиляння не хочу.",
+  "replace": "Звалюйте, нікчемо. Навіть слухати ваші ухиляння не хочу."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CondemnTradeAgreement",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "%3%? А що, зі мною всяким лайном обмінюватися не хочеш? Я тебе своїм лайном до смерті напхаю.",
+  "replace": "%3%? А що, зі мною всяким лайном обмінюватися не хочете? Я вас своїм лайном до смерті напхаю."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/CondemnWar",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Починаєш війну, а мене навіть не думаєш запрошувати?!",
+  "replace": "Починаєте війну, а мене навіть не думаєте запрошувати?!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the missing vocative «дідку».",
+  "find": "Твоя війна мене створила, дідок. Звільнила мене від сраної рутини, зробила мене великим собою. Справедливо буде відплатити тобі тією ж... можливістю особистісного зростання.",
+  "replace": "Ваша війна мене створила, дідку. Звільнила мене від сраної рутини, зробила мене великим собою. Справедливо буде відплатити вам тією ж... можливістю особистісного зростання."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/Chieftess",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ти цього хочеш. Я цього хочу. Забий вже на цю балаканину.",
+  "replace": "Ви цього хочете. Я цього хочу. Забийте вже на цю балаканину."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/EmulatedMind",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я надам тобі таку ж милість, як і справжньому людському створінню. Тобто, оголошу війну.",
+  "replace": "Я надам вам таку ж милість, як і справжньому людському створінню. Тобто, оголошу війну."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/FallenSoldier",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Хо-хо, жалюгідний шматок м’яса, я йду за тобою. Ми з тобою створені одне для одного — ти не можеш перестати жити, а я не можу перестати вбивати!",
+  "replace": "Хо-хо, жалюгідний шматок м’яса, я йду за вами. Ми з вами створені одне для одного — ви не можете перестати жити, а я не можу перестати вбивати!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/HeartlessArtificer",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Дурепо, ти все ще шукаєш ідеал? Я прямо перед тобою. І я надеру дупу будь-кому, хто не згоден. Починаючи з тебе!",
+  "replace": "Дурепо, ви все ще шукаєте ідеал? Я прямо перед вами. І я надеру дупу будь-кому, хто не згоден. Починаючи з вас!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/HollowWarlord",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ей, не хочеш війни?",
+  "replace": "Ей, не хочете війни?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/HonorableAristocrat",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Якщо виглядаєш як боксерська груша, то не скаржся, що тебе так використовують. Повішу тебе біля своїх воріт — для всіх охочих.",
+  "replace": "Якщо виглядаєте як боксерська груша, то не скаржтеся, що вас так використовують. Повішу вас біля своїх воріт — для всіх охочих."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/ImperiousExonaut",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Бабуся казала завжди гамселити фашистів. Спускайся сюди, де я зможу тебе відгамселити!",
+  "replace": "Бабуся казала завжди гамселити фашистів. Спускайтеся сюди, де я зможу вас відгамселити!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/InfiniteCount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Граф, так? Я дам тобі відлік, тоді почну полювання. Раз. Два… Я йду!",
+  "replace": "Граф, так? Я дам вам відлік, тоді почну полювання. Раз. Два… Я йду!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/PlatinumScion",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Їб твій податок на свободу. Свобода хоче бути вільною!",
+  "replace": "Їб ваш податок на свободу. Свобода хоче бути вільною!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/PracticalRomantic",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched the imperative to «ви»; the last line also replaced EN \"It comes for you\" with an unrelated insult.",
+  "find": "Кістки червоні, жорстокість синя, війна — найкраща річ,<br/>Здихай, відро.",
+  "replace": "Кістки червоні, жорстокість синя, війна — найкраща річ,<br/>Вона прийде по вас."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/RogueOperative",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianisms «копиш» and «вскрити».",
+  "find": "Мені трохи набридло, що ти копиш усе це лайно й ховаєшся у своїй норі. Доведеться її вскрити, витягти тебе й змусити поділитися.",
+  "replace": "Мені трохи набридло, що ви збираєте усе це лайно й ховаєтеся у своїй норі. Доведеться її розкрити, витягти вас і змусити поділитися."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/SyncreticDeva",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Пацифіст — це просто мрець, якого ти ще недостатньо затоптав.",
+  "replace": "Пацифіст — це просто мрець, якого ви ще недостатньо затоптали."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/TwistedMother",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; the description of the player goes plural.",
+  "find": "Чортова відьмо! Виглядаєш м’якою та слабкою, але б’юся об заклад, що з тобою я гарненько повоюю! Хоч з кимось треба ж.",
+  "replace": "Чортова відьмо! Виглядаєте м’якими та слабкими, але б’юся об заклад, що з вами я гарненько повоюю! Хоч з кимось треба ж."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/UntoldProphet",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Геть відійди, малятко. А то дорослий дядько тобі покаже, як влаштований цей світ.",
+  "replace": "Геть відійдіть, малятко. А то дорослий дядько вам покаже, як влаштований цей світ."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DeclareWar/Zephon",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Сорян, електроніку. Доведеться розібрати тебе й твої іграшки на запчастини.",
+  "replace": "Сорян, електроніку. Доведеться розібрати вас і ваші іграшки на запчастини."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandAllianceTerminationWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Уяви. Якщо когось із твоїх корешів почнуть бити, ти так і стоятимеш осторонь? Чи кинеш слабака?",
+  "replace": "Уявіть. Якщо когось із ваших корешів почнуть бити, ви так і стоятимете осторонь? Чи кинете слабака?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandAllianceWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Тебе навіть вбивати лінь. Може, об’єднаєшся з кимось, щоб мені було веселіше битися?",
+  "replace": "Вас навіть вбивати лінь. Може, об’єднаєтеся з кимось, щоб мені було веселіше битися?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandPaymentForDeal",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Гаразд, але в мене є список вимог. Пляшкою віскі ти не відбудешся.",
+  "replace": "Гаразд, але в мене є список вимог. Пляшкою віскі ви не відбудетеся."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandHighAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Знаєш, які зараз ціни на бензин? А в мене бак вже порожній.",
+  "replace": "Знаєте, які зараз ціни на бензин? А в мене бак вже порожній."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandMaxAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Слухай. Або ти віддаєш мені все. Або я сам прийду й заберу, а заодно й твоє життя.",
+  "replace": "Слухайте. Або ви віддаєте мені все. Або я сам прийду й заберу, а заодно й ваше життя."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandMediumAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Коротше, мені все одно. Нахрен ці торги. Давай навпіл.",
+  "replace": "Коротше, мені все одно. Нахрен ці торги. Давайте навпіл."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandPeaceWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Годі нападати. Нехай хоч переведе дух. Коли даєш надію на реванш, потім веселіше її відбирати.",
+  "replace": "Годі нападати. Нехай хоч переведе дух. Коли даєте надію на реванш, потім веселіше її відбирати."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandTradeAgreementTerminationWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Бачиш той торговий шлях? Мені треба там проїхати.",
+  "replace": "Бачите той торговий шлях? Мені треба там проїхати."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandTribute",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched the imperative to «ви»; also fixed the russianism «падшого» to «полеглого».",
+  "find": "Данина! Золота для падшого короля! Ха-ха! Давай, давай.",
+  "replace": "Данина! Золота для полеглого короля! Ха-ха! Давайте, давайте."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandTribute/DemandHighAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я тобі трохи залишу. Щоб на життя вистачило.",
+  "replace": "Я вам трохи залишу. Щоб на життя вистачило."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandTroopWithdrawal",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Якщо ти трохи відведеш своїх хлопців, наш мотопробіг виглядатиме просто о-ху-ху!",
+  "replace": "Якщо ви трохи відведете своїх хлопців, наш мотопробіг виглядатиме просто о-ху-ху!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/DemandWarAgainstThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the Russian word «тряпка».",
+  "find": "Як взагалі можна відмовлятися від війни? Ти що, тряпка? Давай, бийся!",
+  "replace": "Як взагалі можна відмовлятися від війни? Ви що, ганчірка? Давайте, бийтеся!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/EndCall/Friendly",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Лети, гуляй! Вбивай!",
+  "replace": "Летіть, гуляйте! Вбивайте!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/EndCall/Hostile",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Мій черевик допоможе тобі знайти вихід.",
+  "replace": "Мій черевик допоможе вам знайти вихід."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/EndCall/Neutral",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the farewell to «ви».",
+  "find": "Все одно, бувай.",
+  "replace": "Все одно, бувайте."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/FirstContact",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also restored EN \"It just crushed you\" (was «Повна нудьга»), fixed the calque «Як на тебе» and the russianism «жижі».",
+  "find": "Що? Чого тобі? Як на тебе, я схильний до балачок? Я ж дивлюся в прямому ефірі, як мої хлопці обстрілюють твій...<br/><br/>Гаразд, гаразд. Поговоримо. Я %1%. І тут для мене... справжній рай!<br/><br/>Пам’ятаєш той старий світ з його бетоном, кредитами, бюрократами, звітами, розкладами... Пф-ф! Повна нудьга.<br/><br/>Сідай на свій байк, ковтни кольорової жижі, розстріляй будь-кого, хто стоїть на твоєму шляху.<br/><br/>Ти ж не стоїш на моєму шляху, правда?",
+  "replace": "Що? Чого вам? Я що, схожий на любителя побалакати? Я ж дивлюся в прямому ефірі, як мої хлопці обстрілюють ваш...<br/><br/>Гаразд, гаразд. Поговоримо. Я %1%. І тут для мене... справжній рай!<br/><br/>Пам’ятаєте той старий світ з його бетоном, кредитами, бюрократами, звітами, розкладами... Пф-ф! Він же просто вас розчавив.<br/><br/>Сідайте на свій байк, ковтніть кольорової бурди, розстріляйте будь-кого, хто стоїть на вашому шляху.<br/><br/>Ви ж не стоїте на моєму шляху, правда?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я вражений, твої хлопці хороші у всьому — б’ються, вбивають... навіть залізо тягають. З тебе міг би вийти толк. Будеш допомагати мені шукати цілі, наприклад. Ну, що скажеш?",
+  "replace": "Я вражений, ваші хлопці хороші у всьому — б’ються, вбивають... навіть залізо тягають. З вас міг би вийти толк. Будете допомагати мені шукати цілі, наприклад. Ну, що скажете?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferGift",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Тільки не приймай це за слабкість.",
+  "replace": "Тільки не приймайте це за слабкість."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferGift/OfferHighAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Тобі це знадобиться. Цілком заслужено. Але не забувай, хто тобі допоміг.",
+  "replace": "Вам це знадобиться. Цілком заслужено. Але не забувайте, хто вам допоміг."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferGift/OfferMaxAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Мені це лайно не потрібне. Мені взагалі нічого не потрібно! Тільки байк і мій кулак! Забирай усе!",
+  "replace": "Мені це лайно не потрібне. Мені взагалі нічого не потрібно! Тільки байк і мій кулак! Забирайте усе!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferMapSharing",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ми тут вже всюди побували. Потрібно тобі це показати!",
+  "replace": "Ми тут вже всюди побували. Потрібно вам це показати!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the wrong imperative «постояйте», the russianism «сбігаю» and «покрупніше».",
+  "find": "Якось не в кайф битися з твоїми хлопцями. Ви тут постояйте, а я сбігаю за гарматами покрупніше.",
+  "replace": "Якось не в кайф битися з вашими хлопцями. Ви тут постійте, а я збігаю за більшими гарматами."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/Chieftess",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Годі, годі... Дай-но я переведу дух, а потім продовжимо.",
+  "replace": "Годі, годі... Дайте-но я переведу дух, а потім продовжимо."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/EmulatedMind",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Хм-м. Навіть не думав, що ти так довго витримаєш. Нерухомий предмет витримав непереборну силу. Гаразд. Спробую пізніше.",
+  "replace": "Хм-м. Навіть не думав, що ви так довго витримаєте. Нерухомий предмет витримав непереборну силу. Гаразд. Спробую пізніше."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/FallenSoldier",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Як же з тобою нудно. Чого ж ти не вмираєш? Краще знайду когось, з ким веселіше битися.",
+  "replace": "Як же з вами нудно. Чого ж ви не вмираєте? Краще знайду когось, з ким веселіше битися."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/HeartlessArtificer",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Безсердечна. Ти почула мої слова про ідеал? Зрозуміла? Тоді давай вже закінчуймо.",
+  "replace": "Безсердечна. Ви почули мої слова про ідеал? Зрозуміли? Тоді давайте вже закінчуймо."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/HollowWarlord",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "М-да, це все одно що битися зі свинцевим дзеркалом. Гаразд, годі, стоп. Давай краще розіб’ємо щось інше.",
+  "replace": "М-да, це все одно що битися зі свинцевим дзеркалом. Гаразд, годі, стоп. Давайте краще розіб’ємо щось інше."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/HonorableAristocrat",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Гаразд, гаразд, спробую я твій стейк. Картопля фрі буде?",
+  "replace": "Гаразд, гаразд, спробую я ваш стейк. Картопля фрі буде?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/ImperiousExonaut",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "ПРИПИНИ ЗА МНОЮ СТЕЖИТИ. Я не можу робити це, поки ти дивишся.",
+  "replace": "ПРИПИНІТЬ ЗА МНОЮ СТЕЖИТИ. Я не можу робити це, поки ви дивитеся."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/InfiniteCount",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the missing vocative «Дідусю» and the adverb «якось» used with an instrumental.",
+  "find": "Дідусь, ти стаєш якось нудним. Хотів би спробувати свій кулак на комусь міцнішому. Розумієш?",
+  "replace": "Дідусю, з вами стає якось нудно. Хотів би спробувати свій кулак на комусь міцнішому. Розумієте?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/PlatinumScion",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Боягузливий, підлий, золотошукацький слабак… повернуся пізніше, щоб вибити тобі зуби в горло.",
+  "replace": "Боягузливий, підлий, золотошукацький слабак… повернуся пізніше, щоб вибити вам зуби в горло."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/PracticalRomantic",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the past tense addressed to the player to «ви»; the quoted mottos keep «ти».",
+  "find": "Вже набрав матеріалу для саги про мене? Що там, «прославись або згинь» чи «співай про гнів Ахілла»? Потрібно більше часу?",
+  "replace": "Вже набрали матеріалу для саги про мене? Що там, «прославись або згинь» чи «співай про гнів Ахілла»? Потрібно більше часу?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/RogueOperative",
+  "sev": "med",
+  "cat": "typo",
+  "note": "«побиюся» is missing the apostrophe.",
+  "find": "побиюся",
+  "replace": "поб’юся"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/SyncreticDeva",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Не маю звички просити миру в пацифістів, але… е-е. Ну, ти розумієш.<br/><br/>(Будь ласка, нікому не кажи.)",
+  "replace": "Не маю звички просити миру в пацифістів, але… е-е. Ну, ви розумієте.<br/><br/>(Будь ласка, нікому не кажіть.)"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/TwistedMother",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianism «послідую».",
+  "find": "Може, послідую твоїй пораді. Знайду собі іншу дорогу.",
+  "replace": "Може, послухаюся вашої поради. Знайду собі іншу дорогу."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/OfferPeace/Zephon",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давай вже закінчуймо, гаразд?",
+  "replace": "Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давайте вже закінчуймо, гаразд?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Praise",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "БЛЯ ТАК. Давай! Ти можеш це зробити! Вибий їм зуби!",
+  "replace": "БЛЯ ТАК. Давайте! Ви можете це зробити! Вибийте їм зуби!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Praise/FoundationOfBlood",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; past tense goes plural.",
+  "find": "Чорт, дівчино. Ти пролила більше крові, ніж я. Ніби то просто вода. Навіть своїх людей!",
+  "replace": "Чорт, дівчино. Ви пролили більше крові, ніж я. Ніби то просто вода. Навіть своїх людей!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Praise/HitAndRun",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "І-ха! Оце ти ганяєш! Як тобі вдається цей трюк? Мені б теж навчитися...",
+  "replace": "І-ха! Оце ви ганяєте! Як вам вдається цей трюк? Мені б теж навчитися..."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/Praise/Tactics",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched the imperative to «ви»; also fixed «вождіння», which is the Russian word for driving, not leadership.",
+  "find": "Оце вождіння. Уяви, на що була б здатна моя орда з таким баченням.",
+  "replace": "Оце лідерство. Уявіть, на що була б здатна моя орда з таким баченням."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/PraiseWar",
+  "sev": "high",
+  "cat": "meaning",
+  "note": "The line drops the English entirely and substitutes a Russian literary quotation.",
+  "find": "Як багато в цьому звуку для серця нашого злилося!",
+  "replace": "Так. Яка з неї користь? Абсолютно всяка!"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ні-ні-ні. Я ж після цього не зможу привести орду до твоїх воріт. А цей день обов’язково настане.",
+  "replace": "Ні-ні-ні. Я ж після цього не зможу привести орду до ваших воріт. А цей день обов’язково настане."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectAllianceTerminationWithThirdParty/RejectOutright",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Мої друзі — це все для мене. А я — для них. Я не відмовлюся від них через твої накази.",
+  "replace": "Мої друзі — це все для мене. А я — для них. Я не відмовлюся від них через ваші накази."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectMapSharing",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Та ми вже всюди побували! Ха-ха! Нічого ти від мене не отримаєш.",
+  "replace": "Та ми вже всюди побували! Ха-ха! Нічого ви від мене не отримаєте."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectPaymentForDeal/RejectAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Навчися спершу просити по-хорошому. За таке ніхто навіть не почешеться.",
+  "replace": "Навчіться спершу просити по-хорошому. За таке ніхто навіть не почешеться."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectPaymentForDeal/RejectOutright",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ми все ще це обговорюємо? Ні. Не переконаєш. Занадто хитромудро.",
+  "replace": "Ми все ще це обговорюємо? Ні. Не переконаєте. Занадто хитромудро."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectTradeAgreement",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "«грібаний» is a Russian borrowing; Ukrainian is «довбаний».",
+  "find": "грібаний",
+  "replace": "довбаний"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectTribute/RejectAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я тобі стільки не дам! Мені усе це потрібне для... мене. Для кайфу.",
+  "replace": "Я вам стільки не дам! Мені усе це потрібне для... мене. Для кайфу."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectTribute/RejectOutright",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Та ні, хай йому грець. Почнеш платити данину — то й не зупинишся.",
+  "replace": "Та ні, хай йому грець. Почнете платити данину — то й не зупинитеся."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectWarAgainstThirdParty/RejectOutright",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ти мені будеш казати, з ким битися, а з ким ні? Дивись, напросишся.",
+  "replace": "Ви мені будете казати, з ким битися, а з ким ні? Дивіться, напроситеся."
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/RejectWarAgainstThirdParty/RejectParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ти навіть не розумієш, яка зараз розстановка сил. Тебе хто на війну випустив, дитинко?",
+  "replace": "Ви навіть не розумієте, яка зараз розстановка сил. Вас хто на війну випустив, дитинко?"
+ },
+ {
+  "id": "Diplomacy.xml|HollowWarlord/TerminateAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Сорян, брате. Мене кличе дорога! А ти мене тягнеш назад.",
+  "replace": "Сорян, брате. Мене кличе дорога! А ви мене тягнете назад."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я завжди думав, що ми з тобою з одного тіста. Нам давно пора створити власну коаліцію...",
+  "replace": "Я завжди думав, що ми з вами з одного тіста. Нам давно пора створити власну коаліцію..."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptAllianceTerminationWithThirdParty/AcceptParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Хм-м... %3% і справді залишає бажати кращого. Я послухаю твоєї мудрої поради.",
+  "replace": "Хм-м... %3% і справді залишає бажати кращого. Я послухаю вашої мудрої поради."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptAllianceTerminationWithThirdParty/AskParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "За моїм столом і справді тіснувато... але кого, на твою думку, мені варто попросити піти?",
+  "replace": "За моїм столом і справді тіснувато... але кого, на вашу думку, мені варто попросити піти?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptAllianceWithThirdParty/AcceptParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О-о, я й %3% — справді чудовий рецепт! Я приймаю твоє запрошення!",
+  "replace": "О-о, я й %3% — справді чудовий рецепт! Я приймаю ваше запрошення!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptAllianceWithThirdParty/AskParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ну-ну, їсти з першим-ліпшим я не стану! Кого, на твою думку, мені запросити на бенкет?",
+  "replace": "Ну-ну, їсти з першим-ліпшим я не стану! Кого, на вашу думку, мені запросити на бенкет?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptCall/Friendly",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О-о, мій друже! Скажи, що прийдеш на вечерю!",
+  "replace": "О-о, мій друже! Скажіть, що прийдете на вечерю!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptCall/Hostile",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Тільки швидше. Ти псуєш мені обід.",
+  "replace": "Тільки швидше. Ви псуєте мені обід."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptGift/AcceptAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Тост, тост! Вип’ємо за твою щедрість і благородний дух!",
+  "replace": "Тост, тост! Вип’ємо за вашу щедрість і благородний дух!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptGift/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О! А я вже почав нудьгувати — з якими делікатесами ти до мене?",
+  "replace": "О! А я вже почав нудьгувати — з якими делікатесами ви до мене?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptMapSharing",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Дуже добре, краще ти оглянеш мої володіння здалеку, ніж твої армії будуть топтати мої поля.",
+  "replace": "Дуже добре, краще ви оглянете мої володіння здалеку, ніж ваші армії будуть топтати мої поля."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptPaymentForDeal/AcceptAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "О-о, таке в моїх коморах знайдеться! Що ж, добре, я додам цю закуску — тільки не забудь прийти на вечерю!",
+  "replace": "О-о, таке в моїх коморах знайдеться! Що ж, добре, я додам цю закуску — тільки не забудьте прийти на вечерю!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptPaymentForDeal/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "У моїй пропозиції щось здається тобі неапетитним? Можливо, в мене знайдеться потрібна приправа...",
+  "replace": "У моїй пропозиції щось здається вам неапетитним? Можливо, в мене знайдеться потрібна приправа..."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed the russianism «від чиєї особи» to «від чийого імені».",
+  "find": "Ти застаєш мене зненацька, коли я ситий! Від чиєї особи ти просиш миру?",
+  "replace": "Ви застаєте мене зненацька, коли я ситий! Від чийого імені ви просите миру?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreement",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "«потребувати» takes the genitive, not «ні в чому».",
+  "find": "ні в чому не потребують",
+  "replace": "нічого не потребують"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTermination",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Значить, хочеш усе перетерпіти сам, так? Тоді не приходь скаржитися, коли твої комори спорожніють.",
+  "replace": "Значить, хочете усе перетерпіти самі, так? Тоді не приходьте скаржитися, коли ваші комори спорожніють."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Щось %3% своїми угодами приносить мені лише лимони, а я вже стомився від лимонаду. Ти правий, пора мені перенести бізнес в інше місце.",
+  "replace": "Щось %3% своїми угодами приносить мені лише лимони, а я вже стомився від лимонаду. Ви праві, пора мені перенести бізнес в інше місце."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AskParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Правильно кажеш! Забагато голодних ротів... але чиє запрошення мені скасувати?",
+  "replace": "Правильно кажете! Забагато голодних ротів... але чиє запрошення мені скасувати?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementWithThirdParty/AskParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О-о, я завжди готовий для чогось екзотичного! Є надійний постачальник, якого ти можеш порекомендувати?",
+  "replace": "О-о, я завжди готовий для чогось екзотичного! Є надійний постачальник, якого ви можете порекомендувати?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTribute/AcceptAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "А мені здавалося, що це я люблю поїсти! Сподіваюся, ти в змозі контролювати свій апетит.",
+  "replace": "А мені здавалося, що це я люблю поїсти! Сподіваюся, ви в змозі контролювати свій апетит."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptTribute/AskAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed «й» before a consonant.",
+  "find": "Вигляд у тебе й справді голодний... скільки потрібно, щоб тебе нагодувати?",
+  "replace": "Вигляд у вас і справді голодний... скільки потрібно, щоб вас нагодувати?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptWar",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Так хочеться побачити, хто з’їв... собаку на цій справі? Гаразд. Коли я з тобою закінчу, ти будеш їсти через трубочку.",
+  "replace": "Так хочеться побачити, хто з’їв... собаку на цій справі? Гаразд. Коли я з вами закінчу, ви будете їсти через трубочку."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AcceptWarAgainstThirdParty/AskParty",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "«нанести удар» is a calque; Ukrainian is «завдати удару».",
+  "find": "не наніс удар",
+  "replace": "не завдав удару"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AskForSupport/Anchorite",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Анахорете, ти розумієш злидні так, як я не здатен. Чи можеш ти залишатися осторонь, знаючи, як страждає мій народ?",
+  "replace": "Анахорете, ви розумієте злидні так, як я не здатен. Чи можете ви залишатися осторонь, знаючи, як страждає мій народ?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AskForSupport/Chieftess",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Мені цікаво, куди приведе тебе твій норов сьогодні, коли я попрошу про допомогу. До великодушності чи до підлості?",
+  "replace": "Мені цікаво, куди приведе вас ваш норов сьогодні, коли я попрошу про допомогу. До великодушності чи до підлості?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/AskForSupport/Zephon",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also restored EN \"honour my debts\", which had become «виконувати обов’язки», and the link \"To do this\".",
+  "find": "Машино. Ти краще за інших розумієш важливість протоколів. Правил. Я зобов’язаний виконувати обов’язки. Але мені потрібна допомога.",
+  "replace": "Машино. Ви краще за інших розумієте важливість протоколів. Правил. Я зобов’язаний сплачувати свої борги. Для цього мені потрібна допомога."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/Condemn/Abhorrent",
+  "sev": "med",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also fixed «сніданок» (breakfast) for EN supper.",
+  "find": "Я... е-м-м... Гм-гм... Я не можу дивитися на тебе й утримати всередині навіть легкий сніданок. Ти викликаєш надто марнотратні відчуття!",
+  "replace": "Я... е-м-м... Гм-гм... Я не можу дивитися на вас і утримати всередині навіть легку вечерю. Ви викликаєте надто марнотратні відчуття!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/Condemn/Independent",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Ні, так не піде. Світ сплетений з угод, послуг і домовленостей. Будь-хто, хто стоїть осторонь, наодинці, перешкоджає плину речей і подає поганий приклад іншим. Попереджаю — краще приєднуйся до нашої мережі.",
+  "replace": "Ні, так не піде. Світ сплетений з угод, послуг і домовленостей. Будь-хто, хто стоїть осторонь, наодинці, перешкоджає плину речей і подає поганий приклад іншим. Попереджаю — краще приєднуйтеся до нашої мережі."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnAlliance",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я мушу похвалити твоє прагнення працювати з іншими, але не можу не засудити вибір союзника... %3%? Справді? О боже...",
+  "replace": "Я мушу похвалити ваше прагнення працювати з іншими, але не можу не засудити вибір союзника... %3%? Справді? О боже..."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnCityDestruction",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "О боже, де %3%? Міста більше немає? Де твоя людяність? Твоя емпатія?",
+  "replace": "О боже, де %3%? Міста більше немає? Де ваша людяність? Ваша емпатія?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnInterferenceAttempt",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ні, ні, ні! Це абсолютно неправильно. Тобі незнайома честь?!",
+  "replace": "Ні, ні, ні! Це абсолютно неправильно. Вам незнайома честь?!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnTradeAgreement",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я що, виїденого яйця не варт? Звісно, торгуй з ким хочеш... Але %3%?..",
+  "replace": "Я що, виїденого яйця не варт? Звісно, торгуйте з ким хочете... Але %3%?.."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/CondemnWar",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Невже нас лишилося так багато живих, що ти і %3% вирішили ще більше відправити в могилу? Подорослішайте.",
+  "replace": "Невже нас лишилося так багато живих, що ви і %3% вирішили ще більше відправити в могилу? Подорослішайте."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/Anchorite",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; the description of the player goes plural.",
+  "find": "О древній, я, як завжди, висловлюю тобі свою повагу. А водночас і оголошення війни. Гадаю, ти не настільки дурний, щоб цьому дивуватися. Прекрасно.",
+  "replace": "О древній, я, як завжди, висловлюю вам свою повагу. А водночас і оголошення війни. Гадаю, ви не настільки дурні, щоб цьому дивуватися. Прекрасно."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/Chieftess",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; past tense goes plural.",
+  "find": "Ти з’їла ЩО??? Майн готт, я зобов’язаний кинути тобі виклик від імені всіх гурманів!",
+  "replace": "Ви з’їли ЩО??? Майн готт, я зобов’язаний кинути вам виклик від імені всіх гурманів!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/EmulatedMind",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Я мушу заздалегідь вибачитися за те, що доведеться зробити. Я щиро шкодую, але якби я піддавався жалю, то завжди був би паралізований. Готуйся до війни, розуме.",
+  "replace": "Я мушу заздалегідь вибачитися за те, що доведеться зробити. Я щиро шкодую, але якби я піддавався жалю, то завжди був би паралізований. Готуйтеся до війни, розуме."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/FallenSoldier",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Гадаю, тобі знайоме поняття гідності, чи не так? Отже, ти інтуїтивно зрозумієш, який ланцюг обов’язків до цього привів. Я не обираю війну — мене до неї змушує гідність. Сподіваюся, це стане тобі втіхою.",
+  "replace": "Гадаю, вам знайоме поняття гідності, чи не так? Отже, ви інтуїтивно зрозумієте, який ланцюг обов’язків до цього привів. Я не обираю війну — мене до неї змушує гідність. Сподіваюся, це стане вам втіхою."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/FurtiveTribunal",
+  "sev": "med",
+  "cat": "meaning",
+  "note": "«цнотлива романтика у плоті» renders EN \"chaste romance indeed\" as \"in the flesh\", which contradicts \"chaste\".",
+  "find": "цнотлива романтика у плоті",
+  "replace": "справді цнотлива романтика"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/HeartlessArtificer",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ти можеш не розуміти моїх обов’язків, Майстрине, і не відчувати співчуття до переплетення взаємин, які до них привели. Але ти, принаймні, зрозумієш механізми, що призвели до цього — до війни між нами.",
+  "replace": "Ви можете не розуміти моїх обов’язків, Майстрине, і не відчувати співчуття до переплетення взаємин, які до них привели. Але ви, принаймні, зрозумієте механізми, що призвели до цього — до війни між нами."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/HollowWarlord",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; past tense goes plural.",
+  "find": "В ім’я дружби я можу пробачити майже будь-що. Але те, як ти їв ці канапе... Навіть не знявши брудну рукавицю, запустив кулак у цілу страву! Айву та квашену капусту — за один прийом? Ти... Ти маєш бути знищений!",
+  "replace": "В ім’я дружби я можу пробачити майже будь-що. Але те, як ви їли ці канапе... Навіть не знявши брудну рукавицю, запустили кулак у цілу страву! Айву та квашену капусту — за один прийом? Ви... Ви маєте бути знищені!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/HonorableAristocrat",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ось той, хто розуміє мою точку зору. Я не проситиму титулів чи рекомендаційного листа. Але ти ж розумієш, що може бути лише один з нас? Прекрасно.",
+  "replace": "Ось той, хто розуміє мою точку зору. Я не проситиму титулів чи рекомендаційного листа. Але ви ж розумієте, що може бути лише один з нас? Прекрасно."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/ImperiousExonaut",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; the description of the player goes plural.",
+  "find": "Як ти досі жива? Після двадцяти років сушеного північного оленя? Я мушу вбити тебе — заради всіх гурманів світу.",
+  "replace": "Як ви досі живі? Після двадцяти років сушеного північного оленя? Я мушу вбити вас — заради всіх гурманів світу."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/PracticalRomantic",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; past tense goes plural.",
+  "find": "Друже мій, боюся, ти дозволив своїм емоційним прив’язаностям взяти гору над практичними спонуканнями. Гідність змушує мене викликати тебе на бій і виправити твій прорахунок. Так, це особисте.",
+  "replace": "Друже мій, боюся, ви дозволили своїм емоційним прив’язаностям взяти гору над практичними спонуканнями. Гідність змушує мене викликати вас на бій і виправити ваш прорахунок. Так, це особисте."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/RogueOperative",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "За честь тримаються лише негідники... так кажуть негідники. Я ж віддаю перевагу чесності та відкритості, сидіти з союзниками за одним столом, а не ховатися наодинці в тіні. Сподіваюся, невелика війна змінить твої звички...",
+  "replace": "За честь тримаються лише негідники... так кажуть негідники. Я ж віддаю перевагу чесності та відкритості, сидіти з союзниками за одним столом, а не ховатися наодинці в тіні. Сподіваюся, невелика війна змінить ваші звички..."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/SyncreticDeva",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Забагато смаків! Переперчено, пересолено, переборщено з маслом! І це ти називаєш мудрістю!?",
+  "replace": "Забагато смаків! Переперчено, пересолено, переборщено з маслом! І це ви називаєте мудрістю!?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/TwistedMother",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Пані, прошу вибачення. Твої частування були чудові, але обставини змушують мене перейти до ворожих дій. Я глибоко шкодую про це.",
+  "replace": "Пані, прошу вибачення. Ваші частування були чудові, але обставини змушують мене перейти до ворожих дій. Я глибоко шкодую про це."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/UntoldProphet",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Навіть зараз мене засмучує, що ми не можемо співіснувати. Давай-но з’ясуємо, хто править усім під небесами — дворянство чи духовенство.",
+  "replace": "Навіть зараз мене засмучує, що ми не можемо співіснувати. Давайте-но з’ясуємо, хто править усім під небесами — дворянство чи духовенство."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DeclareWar/Zephon",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Машино, розуме... ким би ти не був. Моральність спонукає мене виступити проти тебе, хай навіть це завадить моїм лініям постачання.",
+  "replace": "Машино, розуме... ким би ви не були. Моральність спонукає мене виступити проти вас, хай навіть це завадить моїм лініям постачання."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandAllianceTerminationWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "За звичайних обставин я б не став піддавати сумніву твої зв’язки... але зараз ти ризикуєш своєю доброю репутацією. Розірви цю угоду, щоб не заплямувати свої благородні традиції.",
+  "replace": "За звичайних обставин я б не став піддавати сумніву ваші зв’язки... але зараз ви ризикуєте своєю доброю репутацією. Розірвіть цю угоду, щоб не заплямувати свої благородні традиції."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandAllianceWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Бувають часи, коли ми повинні робити те, що найкраще для всього суспільства. Щоб зберегти процвітання країни, я змушений наполягти — приєднайся до коаліції.",
+  "replace": "Бувають часи, коли ми повинні робити те, що найкраще для всього суспільства. Щоб зберегти процвітання країни, я змушений наполягти — приєднайтеся до коаліції."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "На жаль, хотів би я сказати «так», але я страшенно голодний. От якби ти запропонував щось, що вгамує мій апетит...",
+  "replace": "На жаль, хотів би я сказати «так», але я страшенно голодний. От якби ви запропонували щось, що вгамує мій апетит..."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandHighAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Я б з’їв щось ситне. Що ти подаси мені як основну страву?",
+  "replace": "Я б з’їв щось ситне. Що ви подасте мені як основну страву?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandLowAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Досить і закуски, як ти вважаєш?",
+  "replace": "Досить і закуски, як ви вважаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandMaxAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Не шкодуй. Спустош усі запаси — мене влаштує лише справжнє бенкетування!",
+  "replace": "Не шкодуйте. Спустошіть усі запаси — мене влаштує лише справжнє бенкетування!"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandMediumAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperative to «ви».",
+  "find": "Сьогодні мені хочеться почати з десерту... запропонуй мені щось солодке.",
+  "replace": "Сьогодні мені хочеться почати з десерту... запропонуйте мені щось солодке."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandPeaceWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Знаєш, що таке поганий бізнес? Платити кров’ю, а не монетою. Вимагай миру, поки тебе не знекровили.",
+  "replace": "Знаєте, що таке поганий бізнес? Платити кров’ю, а не монетою. Вимагайте миру, поки вас не знекровили."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTradeAgreementTerminationWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Як ти можеш задовольнятися таким малим? Як щодо того, щоб закрити лавочку й пошукати партнера, який пропонує вигідніші умови?",
+  "replace": "Як ви можете задовольнятися таким малим? Як щодо того, щоб закрити лавочку й пошукати партнера, який пропонує вигідніші умови?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTradeAgreementWithThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "У всіх твоїх стравах завжди одні й ті самі інгредієнти... Може, час поторгувати з кимось новим, м-м?",
+  "replace": "У всіх ваших стравах завжди одні й ті самі інгредієнти... Може, час поторгувати з кимось новим, м-м?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTribute",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Ти вже давно живеш не за статками. Певно, час повернути борг.",
+  "replace": "Ви вже давно живете не за статками. Певно, час повернути борг."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandHighAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Надішли мені значну допомогу. Не змушуй мене повертати борг силою.",
+  "replace": "Надішліть мені значну допомогу. Не змушуйте мене повертати борг силою."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandLowAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Надішли мені невелику допомогу. Не змушуй мене повертати борг силою.",
+  "replace": "Надішліть мені невелику допомогу. Не змушуйте мене повертати борг силою."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandMaxAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Надішли мені всі свої запаси. Не зволікай — мої війська із задоволенням заберуть усе самі.",
+  "replace": "Надішліть мені всі свої запаси. Не зволікайте — мої війська із задоволенням заберуть усе самі."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandMediumAmount",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the imperatives to «ви».",
+  "find": "Надішли мені гідну допомогу. Не змушуй мене повертати борг силою.",
+  "replace": "Надішліть мені гідну допомогу. Не змушуйте мене повертати борг силою."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandTroopWithdrawal",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Боюся, з тобою прибуло забагато гостей. Відправ їх назад, доки я ще залишаюся гостинним.",
+  "replace": "Боюся, з вами прибуло забагато гостей. Відправте їх назад, доки я ще залишаюся гостинним."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/DemandWarAgainstThirdParty",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Кажуть, що підходить для гусака, те підходить і для гуски, але дехто переріс нас обох. Я мало що люблю більше, ніж готувати жирного гусака... Що скажеш?",
+  "replace": "Кажуть, що підходить для гусака, те підходить і для гуски, але дехто переріс нас обох. Я мало що люблю більше, ніж готувати жирного гусака... Що скажете?"
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/EndCall/Hostile",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched «ти» to «ви».",
+  "find": "Пф! Розмови з тобою завжди залишають неприємний післясмак... Потрібно чимось його перебити.",
+  "replace": "Пф! Розмови з вами завжди залишають неприємний післясмак... Потрібно чимось його перебити."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/EndCall/Neutral",
+  "sev": "low",
+  "cat": "register",
+  "note": "Switched the farewell to «ви».",
+  "find": "Прощавай.",
+  "replace": "Прощавайте."
+ },
+ {
+  "id": "Diplomacy.xml|HonorableAristocrat/FirstContact",
+  "sev": "high",
+  "cat": "register",
+  "note": "Switched «ти» to «ви»; also restored the reversed meaning (EN says his allies share in HIS wealth) and fixed the russianism «неприятель».",
+  "find": "Мій неприятель, яка зустріч!<br/><br/>Хоч ми й не в ладах, та в мені ти знайдеш надійного, гідного супротивника. А мої союзники завжди діляться зі мною своїми багатствами. О, тобі обов’язково слід завітати в гості й спробувати фаршировані гляйяйця абклюта!<br/><br/>Я дуже сподіваюся, що ми зможемо залишити позаду цей невеликий конфлікт і з честю ставитися один до одного.",
+  "replace": "Мій вороже, яка зустріч!<br/><br/>Хоч ми й не в ладах, та в мені ви знайдете надійного, гідного супротивника. А мої союзники завжди мають частку в моїх багатствах. О, вам обов’язково слід завітати в гості й спробувати фаршировані гляйяйця абклюта!<br/><br/>Я дуже сподіваюся, що ми зможемо залишити позаду цей невеликий конфлікт і з честю ставитися один до одного."
+ }
+]

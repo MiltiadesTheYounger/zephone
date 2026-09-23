@@ -1,0 +1,26 @@
+[
+ {
+  "id": "Diplomacy.xml|EmulatedMind/RejectGift/RejectAmount",
+  "sev": "med",
+  "cat": "untranslated",
+  "note": "English DOOM pun inside a Ukrainian verb does not read in Ukrainian; EN is (Whatever-you're-PLOT.ting)",
+  "find": "(Не-знаю-що-ви-там-заDOOMили)",
+  "replace": "(Що-б-ви-там-не-ЗАМИШ.ляли)"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "untranslated",
+  "note": "English DOOM pun inside a Ukrainian verb does not read in Ukrainian; EN is THINK.ing",
+  "find": "DOOM.ати",
+  "replace": "ДУМ.ати"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "untranslated",
+  "note": "Latin lookalike letters spelling ради do not read in Ukrainian; EN is leet f4or, so use a Cyrillic leet form",
+  "find": ">pagu>",
+  "replace": ">з4ради>"
+ }
+]

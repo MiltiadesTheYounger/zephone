@@ -7,7 +7,9 @@
 		"Address the player and reader with lowercase ви everywhere: quest narration, characters in quests, Diplomacy leader lines, faction and flavor texts (scanner job 2).",
 		"Icarus ScreamTroopers line restored (part of the applied wave 1 fixes).",
 		"Wave 2: applied (116 fixes) plus PSCITIES.json (21 PlatinumScion city names from the current English); then pause before wave 3.",
-		"The zephon-localization-update skill canon was updated with the 13.09.2026 rules."
+		"The zephon-localization-update skill canon was updated with the 13.09.2026 rules.",
+		"Wave 3: applied (806 fixes). Impersonal «ти» that means anyone, not the player, stays («ніколи не знаєш», «на все підеш»).",
+		"No English puns inside Ukrainian words (23.09.2026): PUNS.json rewrote «заDOOMили», «DOOM.ати» and «>pagu>»; BRIEF.md, the skill canon and the Find-MixedScript.py allow list were updated."
 	],
 	"B01": { "drop": [4] },
 	"B02": { "drop": [9] },
@@ -45,5 +47,38 @@
 				"replace": "Влучання"
 			}
 		]
+	},
+	"B10": {
+		"edit": {
+			"5": { "replace": "ваша квітуча економіка" },
+			"7": { "replace": "квітуча економіка сторони" }
+		}
+	},
+	"B11": {
+		"edit": {
+			"44": { "replace": "Певна річ? Де в цьому веселощі, ви, блідолиця офісна відьмо? Саме азарт робить життя життям — ніколи не знаєш, хто чиїми зубами рватиме чиє горло!" },
+			"59": { "replace": "Ви що, в небі, голубонько? Гм. Тоді мені знадобиться ніж подовше." },
+			"82": { "replace": "Доброго дня, мертвячино. Любите битися з моїми хлопцями?<br/><br/>Бачите, поки ви, бункерні щури, ховалися по казематах і норах, ми стирчали на поверхні. Таке змінює людей. Марші смерті, епідемії, розправи, голод. На все підеш заради виживання.<br/><br/>Коротше, до чого я веду. Ви начебто нічого. Але не факт, що я вас не приріжу... У нинішньому світі вас замочать за будь-якого розкладу — то, може, це буду я?" }
+		}
+	},
+	"B13": {
+		"edit": {
+			"81": { "replace": "Нас було троє. Клото, Атропа, Лахесіс. Діва, Жінка, Стара. Батько, Син, Дух. Тепер, волею ваших вчинків, ми розділені. Перед нами лежать дві з Нас. Залишилася одна. Як і Анахорет, я замкнена у вічному теперішньому, не маючи ні пам’яті, ні провидіння. Який страшний фінал для трійці, що так багато обіцяла!" },
+			"101": { "replace": "Щоб похитнути ідеально зрівноважені терези" },
+			"131": { "replace": "Насіння бога" }
+		}
+	},
+	"B14": {
+		"edit": {
+			"12": { "replace": "прибуття Ненаситного" },
+			"77": { "replace": "Позбудьтеся вузлів... не можна дозволяти чужим іржавим оковам стримувати вас, затьмарювати ваші власні якості." },
+			"102": { "replace": "така мітраїстська триєдність" }
+		}
+	},
+	"B15": {
+		"edit": {
+			"42": { "replace": "Мені трохи набридло, що ви збираєте все це лайно й ховаєтеся у своїй норі. Доведеться її розкрити, витягти вас і змусити поділитися." },
+			"87": { "replace": "Так. Для чого вона потрібна? Абсолютно для всього!" }
+		}
 	}
 }

@@ -11,12 +11,15 @@
 - [x] B07 | Branches.xml, Buildings.xml, Cities.xml | 250 entries | 31,262 chars
 - [x] B08 | Cities.xml | 250 entries | 4,692 chars
 - [x] B09 | Cities.xml, Colors.xml, Controls.xml, Credits.xml, Diplomacy.xml | 250 entries | 10,693 chars
-- [ ] B10 | Diplomacy.xml | 250 entries | 38,552 chars
-- [ ] B11 | Diplomacy.xml | 215 entries | 39,730 chars
-- [ ] B12 | Diplomacy.xml | 172 entries | 39,891 chars
-- [ ] B13 | Diplomacy.xml | 185 entries | 39,970 chars
-- [ ] B14 | Diplomacy.xml | 171 entries | 37,866 chars
-- [ ] B15 | Diplomacy.xml | 229 entries | 39,951 chars
+- [x] R01 | Actions.xml | 58 entries | 34,615 chars
+- [x] R02 | Actions.xml | 57 entries | 34,266 chars
+- [x] R03 | Actions.xml, Attributes.xml | 49 entries | 28,278 chars
+- [x] B10 | Diplomacy.xml | 250 entries | 38,552 chars
+- [x] B11 | Diplomacy.xml | 215 entries | 39,730 chars
+- [x] B12 | Diplomacy.xml | 172 entries | 39,891 chars
+- [x] B13 | Diplomacy.xml | 185 entries | 39,970 chars
+- [x] B14 | Diplomacy.xml | 171 entries | 37,866 chars
+- [x] B15 | Diplomacy.xml | 229 entries | 39,951 chars
 - [ ] B16 | Diplomacy.xml | 197 entries | 39,409 chars
 - [ ] B17 | Diplomacy.xml | 202 entries | 39,874 chars
 - [ ] B18 | Diplomacy.xml | 182 entries | 39,889 chars
@@ -69,6 +72,3 @@
 - [ ] B65 | Weapons.xml | 62 entries | 34,266 chars
 - [ ] B66 | Weapons.xml, WorldParameters.xml | 250 entries | 22,491 chars
 - [ ] B67 | WorldParameters.xml | 245 entries | 9,949 chars
-- [x] R01 | Actions.xml | 58 entries | 34,615 chars
-- [x] R02 | Actions.xml | 57 entries | 34,266 chars
-- [x] R03 | Actions.xml, Attributes.xml | 49 entries | 28,278 chars

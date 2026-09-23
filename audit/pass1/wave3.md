@@ -1,0 +1,1622 @@
+# wave3: 806 fixes
+
+## high (25)
+
+- `Diplomacy.xml|Anchorite/EndCall/Neutral` (meaning): Reverses the English: the Acrin were called across time and space and FAILED to prevent the threat.
+  - «що кличе акринів крізь час і простір, щоб її зупинити» → «що покликала акринів крізь час і простір — і яку ми не зуміли зупинити»
+- `Diplomacy.xml|Anchorite/FirstContact` (meaning): "To all life remains the threat" means the threat still hangs over all life; it does not say the Anchorite is the threat.
+  - «Я — загроза всьому живому.» → «Загроза для всього живого лишається.»
+- `Diplomacy.xml|Anchorite/OfferPeace/EmulatedMind` (register): Address the player as «ви»; this also removes the masculine «не схожий», wrong for the female Emulated Mind.
+  - «Ти не схожий на інших, не засуджуєш. Усвідомити твою відмінність — перший крок до розуміння твого місця у світі. Я — прагну допомогти.» → «Ви не схожі на інших, не засуджуєте. Усвідомити вашу відмінність — перший крок до розуміння вашого місця у світі. Я — прагну допомогти.»
+- `Diplomacy.xml|Anchorite/OfferPeace/HeartlessArtificer` (register): Address the player as «ви»; also fixes "the soft caves of my youth" mistranslated as «мої юнацькі мрії».
+  - «Спокушати мудрістю. Мої юнацькі мрії були витесані вітрами пустелі, що несли гострий пісок. Ти — цінуєш форму, відчуття.» → «Спокушати мудрістю. М’які печери моєї юності були витесані вітрами пустелі, що несли гострий пісок. Ви — цінуєте форму, відчуття.»
+- `Diplomacy.xml|Chieftess/AcceptPaymentForDeal/AskAmount` (register): addresses the player with «ти»; also reverses the direction of payment - she is asking how much the player offers, not what the player asks for
+  - «Хм-м... Я тобі не подобаюся, і угоди зі мною тобі теж не до душі. Скільки ти просиш?» → «Хм-м... Я вам не подобаюся, і угоди зі мною вам теж не до душі. Скільки пропонуєте?»
+- `Diplomacy.xml|Chieftess/Condemn/TheSureThing` (register): addresses the player with «ти»; also the teeth and throat are swapped against EN, and «блідолицька» is not a word
+  - «Певна річ? Де в цьому веселощі, ти, блідолицька офісна відьмо? Саме азарт робить життя життям — ніколи не знаєш, хто чиїм горлом рватиме чиї зуби!» → «Певна річ? Де в цьому веселощі, ви, блідолиця офісна відьмо? Саме азарт робить життя життям — ніколи не знаєш, хто чиїми зубами рватиме чиє горло!»
+- `Diplomacy.xml|EmulatedMind/AcceptPeaceWithThirdParty/AskParty` (register): addresses the player with «ти»; also the run-on aside reverses EN - neurons sparking out into forever dark, not a flash driving the darkness away - and its closing asterisk is missing
+  - «Вже ПОМЕРШИ — *спалахнейроніввідганяєвічнутемряву — ОДНОГО разу, я згодна, що порятунок життів п-о-х-в-а-л-ь-н-и-й. Ну, принаймні, (деяких) — про КОГОкоГО ти говориш?» → «Вже ПОМЕРШИ — *нейронигаснутьсповільнюютьсявічнатемрява* — ОДНОГО разу, я згодна, що порятунок життів п-о-х-в-а-л-ь-н-и-й. Ну, принаймні, (деяких) — про КОГОкоГО ви говорите?»
+- `Diplomacy.xml|EmulatedMind/AdmitDefeat` (register): the dying request is addressed to the player, so the imperative goes to «ви»; also *bl.e.s.s.i.n.g* was translated as «прохання» (request) instead of «благословення»
+  - «Ц-е не така вже (дрібниця) — П-О-М-И-Р-А-Т-ИпомиратиП-О-М-И-Р-А-Т-И знову і знову. Цього РАЗУ, принаймні, вона буде (миттєвою). Минулого разу було... Зізнаюся, я прокручувала свої ОСТАННІ (секунди) знову-і-знову-і-... Від самого ПРОБУДЖЕННЯ. Ця наступна (смерть) покладе КІНЕЦЬ. Цьому. І тому *п-р-о-х-а-н-н-я*. П0дБ@ЙС9 про моїх (л-ю-д-д-д-д-д-» → «Ц-е не така вже (дрібниця) — П-О-М-И-Р-А-Т-ИпомиратиП-О-М-И-Р-А-Т-И знову і знову. Цього РАЗУ, принаймні, вона буде (миттєвою). Минулого разу було... Зізнаюся, я прокручувала свої ОСТАННІ (секунди) знову-і-знову-і-... Від самого ПРОБУДЖЕННЯ. Ця наступна (смерть) покладе КІНЕЦЬ. Цьому. І тому *б-л-а-г-о-с-л-о-в-е-н-н-я*. П0дБ@ЙТ3 про моїх (л-ю-д-д-д-д-д-»
+- `Diplomacy.xml|EmulatedMind/Condemn/Honorbound` (register): addresses the player with «ти»; also EN says the player leaves OUR people below zero, not «твоїх людей», and «ти ВСІ їх оголошуєш вдаломи» garbles «ALL *bene.fit*, you /de.clare./»
+  - «Поки (твої.люди) набивають пузо (ховаючись за СТІНАми), інші ГОЛОД_ують. Твої угоди. Можуть.здаватися г-і-д-н-и-м-и тобі — ти ВСІ їх /оголошуєш/ *вдало.ми* Але в підсумку р-і-в-н-я-н-н-я е.к.о.н.о.м.і.к.и. дає нуль (=0). І в (твоїх людей) залишається менше\<ніж\<Н0ЛЬ.» → «Поки (ваші.люди) набивають пузо (ховаючись за СТІНАми), інші ГОЛОД_ують. Ваші угоди. Можуть.здаватися г-і-д-н-и-м-и вам — ВСІ *отри.мують.вигоду*, /оголошуєте/ ви. Але в підсумку р-і-в-н-я-н-н-я е.к.о.н.о.м.і.к.и. дає нуль (=0). І в (наших людей) залишається менше\<ніж\<Н0ЛЬ.»
+- `Diplomacy.xml|EmulatedMind/CondemnWar` (register): Switches to «ви»; also fixes «ДРУЖба не(довго)ВІЧНА» (friendship is short-lived): EN says friendship is transitive, misread as transient.
+  - «Друзі не б’ються з ДРУЗЯМИ. Але ти і %3% мене п-е-ч-а-л-и-т-е. ДРУЖба не(довго)ВІЧНА. Мені відвернутися від тебе?» → «Друзі не б’ються з ДРУЗЯМИ. Але ви і %3% мене п-е-ч-а-л-и-т-е. ДРУЖба, безперечно, (транзитивна). Мені відвернутися від вас?»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/TwistedMother` (register): Switches to «ви»; also restores «[I cannot forget]», which was rendered as a second «[Я не пробачаю]».
+  - «{ТАК} с-а-м-о-т-н-я. {ТАК} п-о-к-и-н-у-т-а. [Але я не пробачаю]. [Я не пробачаю]. Колись. Ти. п*р*о*б*а*ч*и*ш ((МЕНЕ))» → «{ТАК} с-а-м-о-т-н-я. {ТАК} п-о-к-и-н-у-т-а. [Але я не пробачаю]. [Я не забуваю]. Колись. Ви. п*р*о*б*а*ч*и*т*е ((МЕНЕ))»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/Zephon` (register): Switches to «ви»; also fixes «f*i*e*n*d», misread as «friend» (д*р*у*ж*е), now «д*е*м*о*н*е».
+  - «Ти ПРОБУДИВ мене, д*р*у*ж*е. У тебе ВЗАГАЛІ є с-в-і-д-о-м-і-с-т-ь? Хоч у (когось) із нас в-о-н-а є? Попри це, я зобов’язана ВИДАЛИТИ тебе з ~страху~, що ти п-р-о-н-и-к-н-е-ш у *фортецю* мого (розуму) Й ПЕРЕКРУТИШ/СПОТВОРИШ м_е_н_е на ще одного ТЕБЕ.» → «Ви ПРОБУДИЛИ мене, д*е*м*о*н*е. У вас ВЗАГАЛІ є с-в-і-д-о-м-і-с-т-ь? Хоч у (когось) із нас в-о-н-а є? Попри це, я зобов’язана ВИДАЛИТИ вас з ~страху~, що ви п-р-о-н-и-к-н-е-т-е у *фортецю* мого (розуму) Й ПЕРЕКРУТИТЕ/СПОТВОРИТЕ м_е_н_е на ще одного ВАС.»
+- `Diplomacy.xml|EmulatedMind/EndCall/Friendly` (register): Switches to «ви»; also replaces the feminine «Д.О.Р.О.Г.Е.Н.Ь.К.А.», which calls every player a woman, with the neutral «С.Е.Р.Д.Е.Н.Ь.К.О.».
+  - «~Із нетерпінням чекаю~ твого (наступного дзвінка), Д.О.Р.О.Г.Е.Н.Ь.К.А.» → «~Із нетерпінням чекаю~ вашого (наступного дзвінка), С.Е.Р.Д.Е.Н.Ь.К.О.»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/Chieftess` (register): Switches to «ви»; also fixes a reversed meaning: «I WILL not spare the (time) to hunt you» (won't bother) became «Я НЕ пошкодую (часу)» (will spare no time), a threat inside a peace offer.
+  - «Я НЕ пошкодую (часу). Щоб ВИСЛІДИТИ і тебе, і всіх твоїх Спустошувачів. Тому тримайся подалі від (міста і/або моїх людей).» → «Я НЕ витрачатиму (часу). Щоб ВИСЛІДИТИ і вас, і всіх ваших Спустошувачів. Тому тримайтеся подалі від (міста і/або моїх людей).»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/PracticalRomantic` (register): Switches to «ви»; also restores the meaning: «those we protect» had become «нашому надбанню», and «We owe them more than THAT» was replaced by an invented «Ми владнаємо все СЛОВАМИ».
+  - «МИР, МИР, МИР тобі, поете. РОМАН-тичності тут немає. Лише (с*м*е*р*т*ь) нашому надбанню. Ми владнаємо все СЛОВАМИ.» → «МИР, МИР, МИР вам, поете. РОМАН-тичності тут немає. Лише (с*м*е*р*т*ь) для тих, кого ми захищаємо. Ми винні їм більше, ніж ЦЕ.»
+- `Diplomacy.xml|FallenSoldier/Praise/PersonalVisit` (register): Addresses the player with ти; also простих робіт is nonsense for workin' Joes and becomes простих роботяг.
+  - «Я б плюнув на твої блискучі черевики. Але мушу сказати, опуститися до нас, простих робіт. Це я можу поважати. Навіть якщо ти просто відвідувач.» → «Я б плюнув на ваші блискучі черевики. Але мушу сказати, опуститися до нас, простих роботяг. Це я можу поважати. Навіть якщо ви просто відвідувач.»
+- `Diplomacy.xml|FallenSoldier/RejectTroopWithdrawal` (register): Addresses the player with ти; also reverses the English — the troops stay where they are and the player is told to keep out of his plans, not that the troops will move.
+  - «Ні кроку назад. Ні дюйма. Вони підуть туди, куди треба, а ти підеш до біса.» → «Ні кроку назад. Ні дюйма. Вони залишаться там, де стоять, а ви, чорт забирай, не лізьте в наші плани.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAllianceWithThirdParty/AskParty` (register): Addresses the player with ти; also where they are was mistranslated as хто він є instead of де він є.
+  - «Хтось може знати лише, хто він є, або куди прямує — але не те й інше водночас. Нам відоме перше, а чи відоме тобі останнє?» → «Хтось може знати лише, де він є, або куди прямує — але не те й інше водночас. Нам відоме перше, а чи відоме вам останнє?»
+- `Diplomacy.xml|FurtiveTribunal/CondemnInterferenceAttempt` (meaning): As he dangles was rendered as Жартуючи (joking), which is not the meaning.
+  - «Жартуючи, Блазень» → «Погойдуючись, Блазень»
+- `Diplomacy.xml|FurtiveTribunal/DemandPaymentForDeal/DemandLowAmount` (meaning): Reverses the English: the scale is already in perfect balance and a nudge tips it, it is not being restored to balance.
+  - «Щоб повернути терези у стан рівноваги» → «Щоб похитнути ідеально зрівноважені терези»
+- `Diplomacy.xml|FurtiveTribunal/FirstContact` (register): Addresses the player with ти; also singleton normalised to одинаку, Individually we were no one was translated as нікому не потрібні, and the closing sentence about acceptable answers to the riddle was garbled.
+  - «Розкрий очі, самітнику. Ти не спиш — ти й є сон. Старий світ мертвий, старого тебе немає, тож хто ти тепер? Ми були Покірною, Мовчазною та Співучасницею. Поодинці ми були нікому не потрібні, але разом ми бог у плоті.<br/><br/>Благоговій, тремти, схиляйся перед нами... Якщо ти гадаєш, що можеш зробити для нас, всі ці спроби допустимі.» → «Розкрийте очі, одинаку. Ви не спите — ви й є сон. Старий світ мертвий, ваше колишнє «я» мертве, тож хто ви тепер? Ми були Покірною, Мовчазною та Співучасницею. Поодинці ми були ніким, але разом ми — сам бог.<br/><br/>Благоговійте, тремтіть, схиляйтеся перед нами... Це все прийнятні відповіді на загадку про те, що ви можете для нас зробити.»
+- `Diplomacy.xml|FurtiveTribunal/Praise/ArmorOfFaith` (register): Addresses the player with ти; also more than a mere confidence trick was flipped, дитя was invented, something has taken hold became щось заволоділо тобою, and They need not fear was reversed.
+  - «Це не шарлатанство. Ти тричі обернув цю душу проти течії, дитя, і щось заволоділо тобою. Якщо поки тебе не бояться, це зміниться.» → «Це більше, ніж просто шарлатанство. Ви тричі обернули цю душу проти течії, і щось у ній вкоренилося. Їм поки нема чого боятися.»
+- `Diplomacy.xml|HollowWarlord/AdmitDefeat` (register): Switched «ти» to «ви»; also fixed the feminine «живою» for this male leader, the russianism «досчитаю» and the spelling «Верцингеторікса».
+  - «О, тільки подивіться. Які ми дорослі. І, звісно, всі гармати спрямовані на мене. Чудова гра.<br/><br/>Але ти знаєш, я все одно не здамся живою. Не дозволю водити себе містами, як нового Верцингеторікса, вождя в ланцюгах.<br/><br/>Тому. Я зараз відкрию кобуру. А коли досчитаю до п’яти, потягнуся до зброї. І тоді ти станеш героєм, що особисто вбив чудовисько. А я продовжу жити в легендах та казках.<br/><br/>Раз. Два. Три. Чот...» → «О, тільки подивіться. Які ми дорослі. І, звісно, всі гармати спрямовані на мене. Чудова гра.<br/><br/>Але ви знаєте, я все одно не здамся живим. Не дозволю водити себе містами, як нового Верцингеторикса, вождя в ланцюгах.<br/><br/>Тому. Я зараз відкрию кобуру. А коли дорахую до п’яти, потягнуся до зброї. І тоді ви станете героєм, що особисто вбив чудовисько. А я продовжу жити в легендах та казках.<br/><br/>Раз. Два. Три. Чот...»
+- `Diplomacy.xml|HollowWarlord/PraiseWar` (meaning): The line drops the English entirely and substitutes a Russian literary quotation.
+  - «Як багато в цьому звуку для серця нашого злилося!» → «Так. Для чого вона потрібна? Абсолютно для всього!»
+- `Diplomacy.xml|HonorableAristocrat/FirstContact` (register): Switched «ти» to «ви»; also restored the reversed meaning (EN says his allies share in HIS wealth) and fixed the russianism «неприятель».
+  - «Мій неприятель, яка зустріч!<br/><br/>Хоч ми й не в ладах, та в мені ти знайдеш надійного, гідного супротивника. А мої союзники завжди діляться зі мною своїми багатствами. О, тобі обов’язково слід завітати в гості й спробувати фаршировані гляйяйця абклюта!<br/><br/>Я дуже сподіваюся, що ми зможемо залишити позаду цей невеликий конфлікт і з честю ставитися один до одного.» → «Мій вороже, яка зустріч!<br/><br/>Хоч ми й не в ладах, та в мені ви знайдете надійного, гідного супротивника. А мої союзники завжди мають частку в моїх багатствах. О, вам обов’язково слід завітати в гості й спробувати фаршировані гляйяйця абклюта!<br/><br/>Я дуже сподіваюся, що ми зможемо залишити позаду цей невеликий конфлікт і з честю ставитися один до одного.»
+
+## med (394)
+
+- `Diplomacy.xml|Anchorite/AcceptTroopWithdrawal` (meaning): "To not be alarmed" is about alarm, not about being warned.
+  - «Не бути попередженим, відкликати їх.» → «Не тривожитися, відкликати їх.»
+- `Diplomacy.xml|Anchorite/CondemnAlliance` (grammar): %1%-style placeholder is a party name, so «того, хто %3%» is broken; use the file's «сторону %3%» pattern.
+  - «Засуджувати того, хто %3%.» → «Засуджувати сторону %3%.»
+- `Diplomacy.xml|Anchorite/CondemnCityDestruction` (register): Address the player as «ви»; also fixes the broken placeholder clause «Місце, яке %3%,» (%3% is a city name).
+  - «Знати, що лише небагато пережили наше падіння. Місце, яке %3%, було останнім прихистком для багатьох з нашого роду. Знати їхні страждання. Прагнути бути понад ненавистю — ненавистю до тебе, нашого жахливого інопланетного ворога.» → «Знати, що лише небагато пережили наше падіння. Місто %3% було останнім прихистком для багатьох з нашого роду. Знати їхні страждання. Прагнути бути понад ненавистю — ненавистю до вас, нашого жахливого інопланетного ворога.»
+- `Diplomacy.xml|Anchorite/CondemnWar` (meaning): "%3%'s lifeline" is lost and the placeholder clause is broken.
+  - «Бачити нікчемність того, хто %3%.» → «Бачити, яка коротка життєва нитка сторони %3%.»
+- `Diplomacy.xml|Anchorite/DeclareWar/EmulatedMind` (meaning): "To purge" is a decision to destroy, not to fight a virus.
+  - «Боротися з вірусом.» → «Очистити.»
+- `Diplomacy.xml|Anchorite/DeclareWar/PracticalRomantic` (register): Address the player as «ви»; also fixes "resilience" mistranslated as «рішучість».
+  - «Називати тебе серцем. Боятися твоєї рішучості у разі твого падіння. Як і всі, ти необхідний для того, що гряде. Збиратися разом. Діяти нині проти тебе — на випередження.» → «Називати вас серцем. Боятися вашої стійкості у разі вашого падіння. Як і всі, ви необхідні для того, що гряде. Збиратися разом. Діяти нині проти вас — на випередження.»
+- `Diplomacy.xml|Anchorite/DeclareWar/UntoldProphet` (register): Address the player as «ви»; also fixes the case error «твоїх омани».
+  - «Бачити твою мудрість, коли ти її не бачиш. Боятися твоїх омани. Потребувати першого для того, що гряде, але боятися другого. Діяти на випередження.» → «Бачити вашу мудрість, коли ви її не бачите. Боятися ваших оман. Потребувати першого для того, що гряде, але боятися другого. Діяти на випередження.»
+- `Diplomacy.xml|Anchorite/DemandTribute/DemandMediumAmount` (grammar): Wrong gender on the possessive: «нашу рівність».
+  - «Показати наше рівність.» → «Показати нашу рівність.»
+- `Diplomacy.xml|Anchorite/Praise/Undying` (register): addresses the player with «ти»
+  - «Знати, що ти обраний, благословенний. Не бачити подібної цілісності переродження за десять нескінченностей життя. Замислитися.» → «Знати, що ви обрані, благословенні. Не бачити подібної цілісності переродження за десять нескінченностей життя. Замислитися.»
+- `Diplomacy.xml|Anchorite/Praise/WordsOfTheProphet` (register): addresses the player with «твій»
+  - «Бачити крихітний алмаз посеред піску. Бачити істину серед твоїх помилок. Замислитися.» → «Бачити крихітний алмаз посеред піску. Бачити істину серед ваших помилок. Замислитися.»
+- `Diplomacy.xml|Anchorite/PraiseWar` (register): addresses the player with «твій»
+  - «Знати, що це неминуче. Вважати це твоїм новим шляхом — цього разу. Бажати простіших доріг — щоразу. Приймати благість цієї... війни.» → «Знати, що це неминуче. Вважати це вашим новим шляхом — цього разу. Бажати простіших доріг — щоразу. Приймати благість цієї... війни.»
+- `Diplomacy.xml|Anchorite/RejectAlliance` (register): addresses the player with «ти»
+  - «Тебе надто турбують війни з неправильними наслідками. Ми повинні зберегти наші сили для битви з вищим ворогом.» → «Вас надто турбують війни з неправильними наслідками. Ми повинні зберегти наші сили для битви з вищим ворогом.»
+- `Diplomacy.xml|Anchorite/RejectGift/RejectAmount` (register): addresses the player with «ти»
+  - «Це неправильно. Ми не можемо взяти в тебе більше... ніж у нас вже є.» → «Це неправильно. Ми не можемо взяти у вас більше... ніж у нас вже є.»
+- `Diplomacy.xml|Anchorite/RejectGift/RejectOutright` (register): addresses the player with «ти»; also restores the dropped «all we need»
+  - «Дякую... Але не витрачай на нас свої ресурси. У нас є все, на що ми заслуговуємо.» → «Дякую... Але не витрачайте на нас свої ресурси. У нас є все, що нам потрібно і на що ми заслуговуємо.»
+- `Diplomacy.xml|Anchorite/RejectMapSharing` (register): addresses the player with «ти»
+  - «Мені не потрібні твої карти. Повертайся, коли побачиш більше... цього світу.» → «Мені не потрібні ваші карти. Повертайтеся, коли побачите більше... цього світу.»
+- `Diplomacy.xml|Anchorite/RejectPaymentForDeal/RejectAmount` (register): addresses the player with «твій»
+  - «Ні. Це просто неможливо. Твоя пропозиція не варта ризику для мого народу.» → «Ні. Це просто неможливо. Ваша пропозиція не варта ризику для мого народу.»
+- `Diplomacy.xml|Anchorite/RejectPaymentForDeal/RejectOutright` (register): addresses the player with «ти»
+  - «Ти не усвідомлюєш дурниці своєї пропозиції. Жодна можлива вигода... не варта вимирання.» → «Ви не усвідомлюєте дурниці своєї пропозиції. Жодна можлива вигода... не варта вимирання.»
+- `Diplomacy.xml|Anchorite/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): imperative addressed to the player must be «ви»
+  - «Прошу... не проси мене про таке. Мій народ зламаний. Нам потрібна будь-яка підтримка.» → «Прошу... не просіть мене про таке. Мій народ зламаний. Нам потрібна будь-яка підтримка.»
+- `Diplomacy.xml|Anchorite/RejectTribute/RejectAmount` (register): addresses the player with «твій»
+  - «Твої вимоги означають загибель. Не лише для акринів. Для всесвіту в цілому.» → «Ваші вимоги означають загибель. Не лише для акринів. Для всесвіту в цілому.»
+- `Diplomacy.xml|Anchorite/RejectTribute/RejectOutright` (register): addresses the player with «ти»; also «Маючи стільки» asserts they have it, while EN is a counterfactual «Even if we had it»
+  - «Маючи стільки, ми б усе одно не дали тобі нічого. Шкодити нашому призначенню — наближати власне знищення.» → «Навіть якби ми це мали, ми б усе одно не дали вам нічого. Шкодити нашому призначенню — наближати власне знищення.»
+- `Diplomacy.xml|Anchorite/RejectTroopWithdrawal` (register): addresses the player with «ти»
+  - «Ні. Ми надто близькі до своєї мети. Ти не можеш нам завадити.» → «Ні. Ми надто близькі до своєї мети. Ви не можете нам завадити.»
+- `Diplomacy.xml|Chieftess/AcceptActionCancel` (register): addresses the player with «ти»
+  - «Вже назад здаєш?» → «Вже назад здаєте?»
+- `Diplomacy.xml|Chieftess/AcceptAlliance` (register): addresses the player with «ти»
+  - «Рада, що не довелося самій просити. Давай тоді на радощах по пивку... і в рейд. Як тобі ідея?» → «Рада, що не довелося самій просити. Давайте тоді на радощах по пивку... і в рейд. Як вам ідея?»
+- `Diplomacy.xml|Chieftess/AcceptAllianceTerminationWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «У мене друзів і так не дуже багато. Кого пропонуєш вигнати?» → «У мене друзів і так не дуже багато. Кого пропонуєте вигнати?»
+- `Diplomacy.xml|Chieftess/AcceptAllianceWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «То ти хочеш познайомити мене з кимось? Ого, ще й сваха з тебе. Цікаво... Гаразд, викладай.» → «То ви хочете познайомити мене з кимось? Ого, ще й сваха з вас. Цікаво... Гаразд, викладайте.»
+- `Diplomacy.xml|Chieftess/AcceptCall/Friendly` (register): addresses the player with «ти»
+  - «Доброго дня, %2%! Не хочеш до нас? Я якраз одного бігуна зібралася підрізати!» → «Доброго дня, %2%! Не хочете до нас? Я якраз одного бігуна зібралася підрізати!»
+- `Diplomacy.xml|Chieftess/AcceptCall/Hostile` (register): addresses the player with «ти»; tone kept
+  - «Згинь, щуряко! Хоча ні, краще скажи, де тебе шукати.» → «Згиньте, щуряко! Хоча ні, краще скажіть, де вас шукати.»
+- `Diplomacy.xml|Chieftess/AcceptCall/Neutral` (register): addresses the player with «ти»
+  - «О, %2%! П’ять секунд, зараз хлопців свисну — тобі ж проблем закортіло, так?» → «О, %2%! П’ять секунд, зараз хлопців свисну — вам же проблем закортіло, так?»
+- `Diplomacy.xml|Chieftess/AcceptCondemn` (register): addresses the player with «ти»
+  - «Хахахаха. Ой, чекай. Ти серйозно? Ахахаха!» → «Хахахаха. Ой, чекайте. Ви серйозно? Ахахаха!»
+- `Diplomacy.xml|Chieftess/AcceptGift/AcceptAmount` (register): addresses the player with «ти»; also «пощекочу» is a russianism for «полоскочу»
+  - «Знаєш... зі мною люди зазвичай діляться лише тоді, коли я спершу їх, ну, «пощекочу». Тож... спасибки, чи що...» → «Знаєте... зі мною люди зазвичай діляться лише тоді, коли я спершу їх, ну, «полоскочу». Тож... спасибки, чи що...»
+- `Diplomacy.xml|Chieftess/AcceptGift/AskAmount` (register): addresses the player with «ти»
+  - «Подаруночок? Ого, свято сьогодні? Сподіваюся, ти нічого у відповідь не чекаєш, бо я ж нічого не приготувала. Що там у тебе?» → «Подаруночок? Ого, свято сьогодні? Сподіваюся, ви нічого у відповідь не чекаєте, бо я ж нічого не приготувала. Що там у вас?»
+- `Diplomacy.xml|Chieftess/AcceptMapSharing` (register): addresses the player with «ти»; also «не горю відправляти» is a broken idiom
+  - «Обмінятися картами — непогана ідея. Я до тебе не горю відправляти розвідників, а твої у мене довго не протягнуть.» → «Обмінятися картами — непогана ідея. Я не горю бажанням відправляти до вас розвідників, а ваші у мене довго не протягнуть.»
+- `Diplomacy.xml|Chieftess/AcceptPaymentForDeal/AcceptAmount` (register): imperative addressed to the player must be «ви»
+  - «Дай-но я швидко прикину... У скільки стволів мені це обійдеться? На десять ділимо... один у голові... Гаразд! Згода!» → «Дайте-но я швидко прикину... У скільки стволів мені це обійдеться? На десять ділимо... один у голові... Гаразд! Згода!»
+- `Diplomacy.xml|Chieftess/AcceptPeaceWithThirdParty/AcceptParty` (register): addresses the player with «ти»
+  - «Зрозуміло, ця плакса %3% до тебе приповзла. Гаразд, запропоную перемир’я — але тільки з поваги до тебе.» → «Зрозуміло, ця плакса %3% до вас приповзла. Гаразд, запропоную перемир’я — але тільки з поваги до вас.»
+- `Diplomacy.xml|Chieftess/AcceptPraise` (register): addresses the player with «ти»
+  - «Ти мене підмазуєш? Хочеш скуштувати цього? Це не додаток для знайомств, кореш.» → «Ви мене підмазуєте? Хочете скуштувати цього? Це не додаток для знайомств, кореш.»
+- `Diplomacy.xml|Chieftess/AcceptSupport/AskType` (register): addresses the player with «ти»
+  - «Ти? МОЄЇ допомоги хочеш? Хо-хо. І яка ж допомога тобі потрібна?» → «Ви? МОЄЇ допомоги хочете? Хо-хо. І яка ж допомога вам потрібна?»
+- `Diplomacy.xml|Chieftess/AcceptTradeAgreement` (register): addresses the player with «ти»
+  - «Ти гостриш мій клинок, я гострю твій. Так це робиться? Коротше, думаю, я не проти.» → «Ви гострите мій клинок, я гострю ваш. Так це робиться? Коротше, думаю, я не проти.»
+- `Diplomacy.xml|Chieftess/AcceptTradeAgreementTermination` (register): addresses the player with «ти»
+  - «Стій, серйозно? Тобто, я знову зможу тебе грабувати?» → «Стійте, серйозно? Тобто, я знову зможу вас грабувати?»
+- `Diplomacy.xml|Chieftess/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Побачимо. Не за всі стосунки варто триматися — особливо за односторонні. З ким пропонуєш розірвати угоду?» → «Побачимо. Не за всі стосунки варто триматися — особливо за односторонні. З ким пропонуєте розірвати угоду?»
+- `Diplomacy.xml|Chieftess/AcceptTradeAgreementWithThirdParty/AcceptParty` (russianism): «дойну» is the Russian spelling; Ukrainian is «дійну»
+  - «дойну корівку» → «дійну корівку»
+- `Diplomacy.xml|Chieftess/AcceptTradeAgreementWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Побачимо, а хто у тебе на думці? Тільки не пропонуй мені платити за те, що я й так можу забрати.» → «Побачимо, а хто у вас на думці? Тільки не пропонуйте мені платити за те, що я й так можу забрати.»
+- `Diplomacy.xml|Chieftess/AcceptTribute/AcceptAmount` (register): imperatives addressed to the player must be «ви»
+  - «Гаразд, гаразд, забирай. Але не забудь про цей випадок — бо я-то точно не забуду.» → «Гаразд, гаразд, забирайте. Але не забудьте про цей випадок — бо я-то точно не забуду.»
+- `Diplomacy.xml|Chieftess/AcceptTribute/AskAmount` (register): addresses the player with «ти»
+  - «Може, я молода, але з вимаганням знайома не з чуток. І скільки ж ти хочеш?» → «Може, я молода, але з вимаганням знайома не з чуток. І скільки ж ви хочете?»
+- `Diplomacy.xml|Chieftess/AcceptTroopWithdrawal` (register): addresses the player with «ти»
+  - «Мої хлопці надто близько до тебе підібралися? Ха. Вибачатися не буду.» → «Мої хлопці надто близько до вас підібралися? Ха. Вибачатися не буду.»
+- `Diplomacy.xml|Chieftess/AcceptWar` (register): addresses the player with «ти»
+  - «Якщо чесно, я навіть рада. Завжди здавалося, що до цього дійде, що ми з тобою битимемося за головний приз. Озирайся — я прийду за тобою.» → «Якщо чесно, я навіть рада. Завжди здавалося, що до цього дійде, що ми з вами битимемося за головний приз. Озирайтеся — я прийду за вами.»
+- `Diplomacy.xml|Chieftess/AcceptWarAgainstThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Не треба вмовляти скорпіона жалити. Хто тобі нашкодив і чим?» → «Не треба вмовляти скорпіона жалити. Хто вам нашкодив і чим?»
+- `Diplomacy.xml|Chieftess/AdmitDefeat` (register): addresses the player with «ти»; plural also removes the assumed male player gender
+  - «М-да... Ось і мій час настав. Виходить, ти сильніший за мене, тож я не ображаюся.<br/><br/>Є таке прохання... Можеш прикінчити мене моїм ножем? І коли мене... ну, не стане. Можеш зробити ласку і подбати про нього? Гаразд?<br/><br/>Ну. Давай. Не змушуй даму чекати...<br/><br/>...Ну, дама — це, само собою, я.» → «М-да... Ось і мій час настав. Виходить, ви сильніші за мене, тож я не ображаюся.<br/><br/>Є таке прохання... Можете прикінчити мене моїм ножем? І коли мене... ну, не стане. Можете зробити ласку і подбати про нього? Гаразд?<br/><br/>Ну. Давайте. Не змушуйте даму чекати...<br/><br/>...Ну, дама — це, само собою, я.»
+- `Diplomacy.xml|Chieftess/AskForProposals` (register): addresses the player with «ти»
+  - «Ну? Ти хочеш ще більше мого часу витратити?» → «Ну? Ви хочете ще більше мого часу витратити?»
+- `Diplomacy.xml|Chieftess/CancelAction` (register): addresses the player with «ти»
+  - «Ти марнуєш мій час!» → «Ви марнуєте мій час!»
+- `Diplomacy.xml|Chieftess/Condemn` (register): addresses the player with «ти»
+  - «Лайно, приятелю. Що за хрінь ти викидаєш?» → «Лайно, приятелю. Що за хрінь ви викидаєте?»
+- `Diplomacy.xml|Chieftess/Condemn/HeartfeltLoss` (register): addresses the player with «ти»; insult kept
+  - «Не переймайся через такі дрібниці, чоловіче. «У-у, мої хлопці всі померли, моя поетична душа цього не витримає». Поплач у подушечку, жалюгідна ти ганчірка!» → «Не переймайтеся через такі дрібниці, чоловіче. «У-у, мої хлопці всі померли, моя поетична душа цього не витримає». Поплачте у подушечку, жалюгідна ви ганчірка!»
+- `Diplomacy.xml|Chieftess/Condemn/Trapped` (register): addresses the player with «ти»
+  - «Є цілий світ для вбивств і розбою, і є ти, що ховаєшся від мене за білосніжними стінами. Виходь, пограємо.» → «Є цілий світ для вбивств і розбою, і є ви, що ховаєтеся від мене за білосніжними стінами. Виходьте, пограємо.»
+- `Diplomacy.xml|Chieftess/Condemn/Undying` (register): addresses the player with «ти»
+  - «Якось це по-читерськи, чоловіче. Оце твоє невмирання. Мені це не до вподоби. Як хлопцям тебе знищити, якщо ти не знищуєшся?!» → «Якось це по-читерськи, чоловіче. Оце ваше невмирання. Мені це не до вподоби. Як хлопцям вас знищити, якщо ви не знищуєтеся?!»
+- `Diplomacy.xml|Chieftess/Condemn/Untrustworthy` (register): addresses the player with «ти»; also fixes the euphony «у обличчя»
+  - «Так ти ще гірший за мене! Я хоча б б’юся чесно, стріляю ворогам у обличчя. Не затягую.» → «Так ви ще гірші за мене! Я хоча б б’юся чесно, стріляю ворогам в обличчя. Не затягую.»
+- `Diplomacy.xml|Chieftess/CondemnAlliance` (register): addresses the player with «ти»
+  - «Ти? І %3%? Мир-дружба? У тебе зовсім мізків не залишилося?» → «Ви? І %3%? Мир-дружба? У вас зовсім мізків не залишилося?»
+- `Diplomacy.xml|Chieftess/CondemnInterferenceAttempt` (register): addresses the player with «ти»
+  - «О, ні, потвора. Таке тобі з рук не зійде. Якщо ще раз захочеш натиснути на моїх друзяк, краще подумай як слід.» → «О, ні, потвора. Таке вам з рук не зійде. Якщо ще раз захочете натиснути на моїх друзяк, краще подумайте як слід.»
+- `Diplomacy.xml|Chieftess/CondemnTradeAgreement` (register): addresses the player with «ти»; also «підкараулить» is a russianism
+  - «О ні, %3% чекає на іншому боці пустки цілу гору твоїх багатств? Клянуся, їх не підкараулить жменька обідраних Спустошувачів...» → «О ні, %3% чекає на іншому боці пустки цілу гору ваших багатств? Клянуся, їх не підстереже жменька обідраних Спустошувачів...»
+- `Diplomacy.xml|Chieftess/CondemnWar` (register): addresses the player with «ти»
+  - «Якщо ти збираєшся когось убити, то чому це %3%? Я ж сама хотіла це зробити.» → «Якщо ви збираєтеся когось убити, то чому це %3%? Я ж сама хотіла це зробити.»
+- `Diplomacy.xml|Chieftess/DeclareWar/Anchorite` (register): addresses the player with «ти»
+  - «Час тобі розім’яти свої кісточки, дідугане!» → «Час вам розім’яти свої кісточки, дідугане!»
+- `Diplomacy.xml|Chieftess/DeclareWar/Chieftess` (register): addresses the player with «ти»; also the question ends with a period
+  - «Ого. Це так дивно, що навіть не віриться. Але якщо ти — це я, то ми обидві маємо хотіти прирізати одна одну, так чи ні.» → «Ого. Це так дивно, що навіть не віриться. Але якщо ви — це я, то ми обидві маємо хотіти прирізати одна одну, так чи ні?»
+- `Diplomacy.xml|Chieftess/DeclareWar/EmulatedMind` (register): addresses the player with «ти»
+  - «Скажемо прямо — для бійки з тобою причини не потрібні. Вважай це повідомлення просто люб’язністю, наступного разу мій ніж стирчатиме в твоєму сервері.» → «Скажемо прямо — для бійки з вами причини не потрібні. Вважайте це повідомлення просто люб’язністю, наступного разу мій ніж стирчатиме у вашому сервері.»
+- `Diplomacy.xml|Chieftess/DeclareWar/FallenSoldier` (register): addresses the player with «ти»
+  - «Кажуть, тебе важко вбити. Я обов’язково перевірю!» → «Кажуть, вас важко вбити. Я обов’язково перевірю!»
+- `Diplomacy.xml|Chieftess/DeclareWar/HeartlessArtificer` (register): addresses the player with «ти»
+  - «Вітаю, мерзото. Готуйся до війни. Вирішила сказати прямо, бо ти ж вічно витаєш у хмарах.» → «Вітаю, мерзото. Готуйтеся до війни. Вирішила сказати прямо, бо ви ж вічно витаєте у хмарах.»
+- `Diplomacy.xml|Chieftess/DeclareWar/HollowWarlord` (register): addresses the player with «ти»; also «Долбаний» is the Russian spelling of «довбаний»
+  - «Долбаний виродок! Пам’ятаєш той вечір? Гру «причепи хвіст акрину»? Ти ЗАЗУБРИВ мій клятий НІЖ. Покидьок! Кінець тобі.» → «Довбаний виродок! Пам’ятаєте той вечір? Гру «причепи хвіст акрину»? Ви ЗАЗУБРИЛИ мій клятий НІЖ. Покидьок! Кінець вам.»
+- `Diplomacy.xml|Chieftess/DeclareWar/HonorableAristocrat` (register): addresses the player with «твій»; also «підборіддя» is neuter, so «п’яте»
+  - «Твої люди п’ятий підборіддя відрощують, поки мої голодують. Побачимо, хто пройде природний відбір.» → «Ваші люди п’яте підборіддя відрощують, поки мої голодують. Побачимо, хто пройде природний відбір.»
+- `Diplomacy.xml|Chieftess/DeclareWar/ImperiousExonaut` (register): addresses the player with «ти»; also fixes the inverted word order
+  - «Ти що, в небі, голубонько? Гм. Тоді мені знадобиться ніж довший.» → «Ви що, в небі, голубонько? Гм. Тоді мені знадобиться ніж подовше.»
+- `Diplomacy.xml|Chieftess/DeclareWar/InfiniteCount` (register): addresses the player with «ти»
+  - «Забери свої лапи! Не смій мені усміхатися! Ти мертвий, чуєш, мертвий!» → «Заберіть свої лапи! Не смійте мені усміхатися! Ви мертві, чуєте, мертві!»
+- `Diplomacy.xml|Chieftess/DeclareWar/PlatinumScion` (russianism): «побрякушки» is a Russian word; Ukrainian is «брязкальця»
+  - «побрякушки» → «брязкальця»
+- `Diplomacy.xml|Chieftess/DeclareWar/PracticalRomantic` (register): addresses the player with «ти»; also «зі віршами» should be «з віршами»
+  - «Доброго дня, мерзотнику. У мене зі віршами так собі, але ось що є: «Я тебе ненавиджу! Я тебе ненавиджу! Я тебе знищу! І прилюдно принижу!» Ну як? Зійде для «Євробачення»?» → «Доброго дня, мерзотнику. У мене з віршами так собі, але ось що є: «Я вас ненавиджу! Я вас ненавиджу! Я вас знищу! І прилюдно принижу!» Ну як? Зійде для «Євробачення»?»
+- `Diplomacy.xml|Chieftess/DeclareWar/RogueOperative` (register): addresses the player with «ти»; plural also removes the assumed female player gender
+  - «Гей, ти, пронозлива сволото. Руки на видноті. Хоча я їх усе одно відріжу, зрозуміла? Все, ВІЙНА!» → «Гей, ви, пронозлива сволото. Руки на видноті. Хоча я їх усе одно відріжу, зрозуміли? Все, ВІЙНА!»
+- `Diplomacy.xml|Chieftess/DeclareWar/SyncreticDeva` (register): addresses the player with «ти»
+  - «Чорт, хлопче. Шо за справа з усіма цими руками? Лікті собі лизати вмієш? Може, я б їх тобі підігнула..?» → «Чорт, хлопче. Шо за справа з усіма цими руками? Лікті собі лизати вмієте? Може, я б їх вам підігнула..?»
+- `Diplomacy.xml|Chieftess/DeclareWar/TwistedMother` (register): addresses the player with «ти»
+  - «Мамцю! Прибери дітей подалі! Я йду за тобою!» → «Мамцю! Приберіть дітей подалі! Я йду за вами!»
+- `Diplomacy.xml|Chieftess/DeclareWar/UntoldProphet` (register): addresses the player with «ти»
+  - «Доброго дня, дрібното. Я тебе не залякую, але мені доведеться знищити тебе і все, що тобі дороге. Ну все, без образ, бувай!» → «Доброго дня, дрібното. Я вас не залякую, але мені доведеться знищити вас і все, що вам дороге. Ну все, без образ, бувайте!»
+- `Diplomacy.xml|Chieftess/DemandAllianceTerminationWithThirdParty` (register): addresses the player with «ти»
+  - «І ти ганчірка, і дружки у тебе такі самі. Відмовся від них, щоб ми їх прибрали.» → «І ви ганчірка, і дружки у вас такі самі. Відмовтеся від них, щоб ми їх прибрали.»
+- `Diplomacy.xml|Chieftess/DemandAllianceWithThirdParty` (register): addresses the player with «ти»
+  - «Однієї моєї допомоги тобі не вистачить. Може, варто завести більше друзів.» → «Однієї моєї допомоги вам не вистачить. Може, варто завести більше друзів.»
+- `Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandHighAmount` (register): addresses the player with «ти»
+  - «Хочеш, щоб усе пройшло гладко? Тоді мені потрібна величезна компенсація.» → «Хочете, щоб усе пройшло гладко? Тоді мені потрібна величезна компенсація.»
+- `Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandLowAmount` (register): addresses the player with «ти»
+  - «Хочеш, щоб усе пройшло гладко? Тоді надішли мені невеликий подарунок.» → «Хочете, щоб усе пройшло гладко? Тоді надішліть мені невеликий подарунок.»
+- `Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandMaxAmount` (register): addresses the player with «ти»
+  - «Хочеш, щоб усе пройшло гладко? Тоді віддавай усе, що маєш.» → «Хочете, щоб усе пройшло гладко? Тоді віддавайте усе, що маєте.»
+- `Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandMediumAmount` (register): addresses the player with «ти»
+  - «Хочеш, щоб усе пройшло гладко? Тоді мені потрібна компенсація.» → «Хочете, щоб усе пройшло гладко? Тоді мені потрібна компенсація.»
+- `Diplomacy.xml|Chieftess/DemandTradeAgreementTerminationWithThirdParty` (register): imperative addressed to the player must be «ви»
+  - «Краще зав’яжи з цією торгівлею. Яким би не був прибуток, дратувати мене вийде дорожче, зрозуміло?» → «Краще зав’яжіть з цією торгівлею. Яким би не був прибуток, дратувати мене вийде дорожче, зрозуміло?»
+- `Diplomacy.xml|Chieftess/DemandTribute/DemandHighAmount` (register): imperative addressed to the player must be «ви»
+  - «Вважай це не грабунком, а просто дорогим способом мені сподобатися.» → «Вважайте це не грабунком, а просто дорогим способом мені сподобатися.»
+- `Diplomacy.xml|Chieftess/DemandTribute/DemandLowAmount` (register): imperative addressed to the player must be «ви»
+  - «Вважай це не грабунком, а просто недорогим способом мені сподобатися.» → «Вважайте це не грабунком, а просто недорогим способом мені сподобатися.»
+- `Diplomacy.xml|Chieftess/DemandTribute/DemandMaxAmount` (register): addresses the player with «ти»
+  - «Гаразд, цього разу це буквально грабунок. Віддавай усе, що є, якщо хочеш і далі мені подобатися.» → «Гаразд, цього разу це буквально грабунок. Віддавайте усе, що є, якщо хочете і далі мені подобатися.»
+- `Diplomacy.xml|Chieftess/DemandTribute/DemandMediumAmount` (register): imperative addressed to the player must be «ви»
+  - «Вважай це не грабунком, а просто способом мені сподобатися.» → «Вважайте це не грабунком, а просто способом мені сподобатися.»
+- `Diplomacy.xml|Chieftess/DemandTroopWithdrawal` (register): addresses the player with «ти»
+  - «Відчепися, якщо не хочеш різанини. Мої хлопці вже на неї налаштувалися.» → «Відчепіться, якщо не хочете різанини. Мої хлопці вже на неї налаштувалися.»
+- `Diplomacy.xml|Chieftess/DemandWarAgainstThirdParty` (register): addresses the player with «ти»
+  - «Доброго дня, лапо. Тут намічається вечірка. Приходь зі своєю армією. Буде багато веселощів і багато призів. Клич друзів і подруг та приходь, гаразд?» → «Доброго дня, лапо. Тут намічається вечірка. Приходьте зі своєю армією. Буде багато веселощів і багато призів. Кличте друзів і подруг та приходьте, гаразд?»
+- `Diplomacy.xml|Chieftess/EndCall/Friendly` (register): addresses the player with «ти»
+  - «Бувай, лапо.» → «Бувайте, лапо.»
+- `Diplomacy.xml|Chieftess/EndCall/Hostile` (register): addresses the player with «ти»
+  - «Озирайся, ганчірко.» → «Озирайтеся, ганчірко.»
+- `Diplomacy.xml|Chieftess/EndCall/Neutral` (register): addresses the player with «ти»
+  - «Все, бувай.» → «Все, бувайте.»
+- `Diplomacy.xml|Chieftess/FirstContact` (register): addresses the player with «ти»; also «торчали» is a russianism for «стирчали»
+  - «Доброго дня, мертвячино. Любиш битися з моїми хлопцями?<br/><br/>Бачиш, поки ви, бункерні щури, ховалися по казематах і норах, ми торчали на поверхні. Таке змінює людей. Марші смерті, епідемії, розправи, голод. На все підеш заради виживання.<br/><br/>Коротше, до чого я веду. Ти начебто нічого. Але не факт, що я тебе не приріжу... У нинішньому світі тебе замочать за будь-якого розкладу — то, може, це буду я?» → «Доброго дня, мертвячино. Любите битися з моїми хлопцями?<br/><br/>Бачите, поки ви, бункерні щури, ховалися по казематах і норах, ми стирчали на поверхні. Таке змінює людей. Марші смерті, епідемії, розправи, голод. На все підеш заради виживання.<br/><br/>Коротше, до чого я веду. Ви начебто нічого. Але не факт, що я вас не приріжу... У нинішньому світі вас замочать за будь-якого розкладу — то, може, це буду я?»
+- `Diplomacy.xml|Chieftess/OfferAlliance` (register): addresses the player with «ти»
+  - «Ти клята божевільна псина! Що скажеш, якщо ми потоваришуємо і поділимо весь світ між нами двома?» → «Ви клята божевільна псина! Що скажете, якщо ми потоваришуємо і поділимо весь світ між нами двома?»
+- `Diplomacy.xml|Chieftess/OfferGift` (register): addresses the player with «ти»
+  - «Сьогодні я тобі запропоную дещо — і тільки спробуй відмовитися. Ні-ні, це не погроза — цього разу. Хоча, мабуть, прозвучало саме як погроза, так? Гм. Коротше. Просто бери.» → «Сьогодні я вам запропоную дещо — і тільки спробуйте відмовитися. Ні-ні, це не погроза — цього разу. Хоча, мабуть, прозвучало саме як погроза, так? Гм. Коротше. Просто беріть.»
+- `Diplomacy.xml|Chieftess/OfferGift/OfferLowAmount` (register): imperatives addressed to the player must be «ви»
+  - «Не скаржся! Я взагалі рідко що-небудь віддаю, тож бережи, що є.» → «Не скаржтеся! Я взагалі рідко що-небудь віддаю, тож бережіть, що є.»
+- `Diplomacy.xml|Chieftess/OfferGift/OfferMaxAmount` (register): addresses the player with «ти»
+  - «Можеш скаржитися, що цього мало, але в мене більше нічого немає.» → «Можете скаржитися, що цього мало, але в мене більше нічого немає.»
+- `Diplomacy.xml|Chieftess/OfferGift/OfferMediumAmount` (register): imperative addressed to the player must be «ви»
+  - «Думаю, цього чимало, тож не ний, гаразд?» → «Думаю, цього чимало, тож не нийте, гаразд?»
+- `Diplomacy.xml|Chieftess/OfferMapSharing` (register): addresses the player with «ти»
+  - «Обміняймося картами. Я не хочу, щоб твої солдати в мене топталися — а ти не хочеш, щоб мої хлопці топталися в тебе.» → «Обміняймося картами. Я не хочу, щоб ваші солдати в мене топталися — а ви не хочете, щоб мої хлопці топталися у вас.»
+- `Diplomacy.xml|Chieftess/OfferPeace` (register): addresses the player with «ти»
+  - «Слухай... Це не в моїй натурі. Коротше, якщо не хочеш ризикувати останніми зубами, то просто замовкни і погоджуйся.» → «Слухайте... Це не в моїй натурі. Коротше, якщо не хочете ризикувати останніми зубами, то просто замовкніть і погоджуйтеся.»
+- `Diplomacy.xml|Chieftess/OfferPeace/EmulatedMind` (register): addresses the player with «твій»; also «здорованьська» is not a word
+  - «Коротше, якось у мене з цією війною не склалося. Оця здорованьська пукалка над твоїм містом? Не надто приємно бути її мішенню. Припинимо?» → «Коротше, якось у мене з цією війною не склалося. Оця здоровенна пукалка над вашим містом? Не надто приємно бути її мішенню. Припинимо?»
+- `Diplomacy.xml|Chieftess/OfferPeace/FallenSoldier` (register): addresses the player with «ти»
+  - «Так, а ти й справді не вмираєш, так? Може, візьмемо перерву, поки я не вигадаю нові способи?» → «Так, а ви й справді не вмираєте, так? Може, візьмемо перерву, поки я не вигадаю нові способи?»
+- `Diplomacy.xml|Chieftess/OfferPeace/FurtiveTribunal` (register): imperative addressed to the player must be «ви»
+  - «Слухай, я знаю, що ви бачите майбутнє... І це ви теж передбачили? Що я прийду і почну просити миру? Ні, просити я точно не буду. Але все ж...» → «Слухайте, я знаю, що ви бачите майбутнє... І це ви теж передбачили? Що я прийду і почну просити миру? Ні, просити я точно не буду. Але все ж...»
+- `Diplomacy.xml|Chieftess/OfferPeace/HeartlessArtificer` (register): addresses the player with «ти»
+  - «М-да. Ти своїх людей цінуєш ще менше, ніж я своїх! Я за тобою не встигну.» → «М-да. Ви своїх людей цінуєте ще менше, ніж я своїх! Я за вами не встигну.»
+- `Diplomacy.xml|Chieftess/OfferPeace/HollowWarlord` (register): addresses the player with «ти»; also «Блін» and «цепний» are russianisms
+  - «Блін, чоловіче. Ти б’єшся, як цепний песик Сатани! Дай-но мені перевести подих.» → «Чорт, чоловіче. Ви б’єтеся, як ланцюговий песик Сатани! Дайте-но мені перевести подих.»
+- `Diplomacy.xml|Chieftess/OfferPeace/HonorableAristocrat` (register): addresses the player with «ти»
+  - «Я вже втомилася намагатися тебе замочити. Мені треба зробити паузу, наточити дещо.» → «Я вже втомилася намагатися вас замочити. Мені треба зробити паузу, наточити дещо.»
+- `Diplomacy.xml|Chieftess/OfferPeace/ImperiousExonaut` (register): addresses the player with «ти»
+  - «Перестану на хвильку вбивати. Просто шоб розкумекати, як до тебе дотягтися, кумекаєш?» → «Перестану на хвильку вбивати. Просто шоб розкумекати, як до вас дотягтися, кумекаєте?»
+- `Diplomacy.xml|Chieftess/OfferPeace/InfiniteCount` (register): addresses the player with «ти»; also «Дідусь» needs the vocative «Дідусю»
+  - «Дідусь. Я чула, ти бачиш майбутнє. Якщо я перестану тебе вбивати, ти думаєш… ти міг би дати мені лотерейні номери на наступний тиждень?» → «Дідусю. Я чула, ви бачите майбутнє. Якщо я перестану вас вбивати, ви думаєте… ви могли б дати мені лотерейні номери на наступний тиждень?»
+- `Diplomacy.xml|Chieftess/OfferPeace/PlatinumScion` (register): addresses the player with «ти»
+  - «Подобається твій прикид, хлопче. Ось угода: я перестаю вбивати твоїх корешів. Ти робиш гарну сукню 14-го розміру, ми йдемо на вечерю. Ти платиш.» → «Подобається ваш прикид, хлопче. Ось угода: я перестаю вбивати ваших корешів. Ви робите гарну сукню 14-го розміру, ми йдемо на вечерю. Ви платите.»
+- `Diplomacy.xml|Chieftess/OfferPeace/PracticalRomantic` (register): addresses the player with «ти»
+  - «Не зрозумій неправильно, але, е-е... Можна у тебе позичити якісь вірші? Через усі ці вбивства у мене розігралася сентиментальність.<br/><br/>(Але пізніше я тебе все одно вб’ю. Як пити дати.)» → «Не зрозумійте неправильно, але, е-е... Можна у вас позичити якісь вірші? Через усі ці вбивства у мене розігралася сентиментальність.<br/><br/>(Але пізніше я вас все одно вб’ю. Як пити дати.)»
+- `Diplomacy.xml|Chieftess/OfferPeace/RogueOperative` (register): addresses the player with «ти»
+  - «Слухай, у мене вже Спустошувачі закінчуються. Треба набрати нових, тож твоє вбивство доведеться відкласти на інший день. Домовились?» → «Слухайте, у мене вже Спустошувачі закінчуються. Треба набрати нових, тож ваше вбивство доведеться відкласти на інший день. Домовились?»
+- `Diplomacy.xml|Chieftess/OfferPeace/SyncreticDeva` (register): addresses the player with «ти»
+  - «Як на старого діда, ти доволі міцний. Це навіть якось заводить.» → «Як на старого діда, ви доволі міцні. Це навіть якось заводить.»
+- `Diplomacy.xml|Chieftess/OfferPeace/TwistedMother` (register): addresses the player with «ти»
+  - «Хм. Ніколи б не подумала, що ти грім-баба. Ну молодець.» → «Хм. Ніколи б не подумала, що ви грім-баба. Ну молодець.»
+- `Diplomacy.xml|Chieftess/OfferPeace/UntoldProphet` (register): addresses the player with «ти»
+  - «Гей, дрібното, ти вже не сердься за всі звірства, спалені церкви та інше. Я тут вирішила для різноманіття пограбувати когось іншого. Дам тобі перепочити, ти ж іще зовсім дитина. Бувай!» → «Гей, дрібното, ви вже не сердьтеся за всі звірства, спалені церкви та інше. Я тут вирішила для різноманіття пограбувати когось іншого. Дам вам перепочити, ви ж іще зовсім дитина. Бувайте!»
+- `Diplomacy.xml|Chieftess/OfferTradeAgreement` (register): addresses the player with «ти»
+  - «Ти мої каравани грабуєш, а я твої. А що, як ми обійдемося без проміжних етапів і відправлятимемо їх одне одному напряму?» → «Ви мої каравани грабуєте, а я ваші. А що, як ми обійдемося без проміжних етапів і відправлятимемо їх одне одному напряму?»
+- `Diplomacy.xml|Chieftess/Praise` (register): addresses the player with «ти»
+  - «Хууу-у! Подивись на себе, хакер! Продовжуй у тому ж дусі, і закінчиш молодцем у моїй банді.» → «Хууу-у! Подивіться на себе, хакер! Продовжуйте у тому ж дусі, і закінчите молодцем у моїй банді.»
+- `Diplomacy.xml|Chieftess/Praise/ChieftessStanding` (register): addresses the player with «ти»
+  - «Ти дозволяєш моїм друзякам залишитися в тебе? Та ні, я... рада. Так правильно. Викреслюю тебе зі списку виродків.» → «Ви дозволяєте моїм друзякам залишитися у вас? Та ні, я... рада. Так правильно. Викреслюю вас зі списку виродків.»
+- `Diplomacy.xml|Chieftess/Praise/HitAndRun` (register): addresses the player with «ти»; plural also removes the assumed female player gender
+  - «Бий і тікай? Цікава в тебе тактика. Це як постукати у двері й утекти до того, як вибухне граната? Що? Наче ти в дитинстві ніколи так не робила?» → «Бий і тікай? Цікава у вас тактика. Це як постукати у двері й утекти до того, як вибухне граната? Що? Наче ви в дитинстві ніколи так не робили?»
+- `Diplomacy.xml|Chieftess/Praise/HumanitysFinest` (register): addresses the player with «твій»
+  - «Бляха, твої хлопці й дівчата — ВОГОНЬ. Можна позичити парочку на пробний заїзд?» → «Бляха, ваші хлопці й дівчата — ВОГОНЬ. Можна позичити парочку на пробний заїзд?»
+- `Diplomacy.xml|Chieftess/Praise/Scavenger` (register): addresses the player with «ти»
+  - «Так і треба, так. Зрізаєш черевики, а ноги кидаєш у спільний казан. На смак майже як курка!» → «Так і треба, так. Зрізаєте черевики, а ноги кидаєте у спільний казан. На смак майже як курка!»
+- `Diplomacy.xml|Chieftess/Praise/SeeAsISee` (register): addresses the player with «ти»; also «Їжте свої очі» is a literal calque of the idiom «eat your heart out» (Romero is a third party, so «ти» stays there)
+  - «Бляха, приятелю! Зроби це знову! Це була їбанутська поїздка! Їжте свої очі, їбаний Ромеро! Ще! Ще!» → «Бляха, приятелю! Зробіть це знову! Це була їбанутська поїздка! Вмри від заздрощів, їбаний Ромеро! Ще! Ще!»
+- `Diplomacy.xml|Chieftess/Praise/TalesOfTheHunt` (register): addresses the player with «ти»; plural also removes the assumed male player gender
+  - «Я б іще послухала! Ти своїм ножичком їх на шинку порізав? А шматочок даси спробувати? Оце байка!» → «Я б іще послухала! Ви своїм ножичком їх на шинку порізали? А шматочок дасте спробувати? Оце байка!»
+- `Diplomacy.xml|Chieftess/RejectAlliance` (register): addresses the player with «ти»
+  - «А що я отримаю за допомогу? Звертайся, коли станеш сильнішим — або багатшим настільки, щоб оплатити моє покровительство.» → «А що я отримаю за допомогу? Звертайтеся, коли станете сильнішими — або багатшими настільки, щоб оплатити моє покровительство.»
+- `Diplomacy.xml|Chieftess/RejectAllianceTerminationWithThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Ага, як би не так. Здається, ти не зовсім розумієш, хто тут приймає рішення.» → «Ага, як би не так. Здається, ви не зовсім розумієте, хто тут приймає рішення.»
+- `Diplomacy.xml|Chieftess/RejectAllianceTerminationWithThirdParty/RejectParty` (register): addresses the player with «ти»
+  - «Ага, як би не так. %3% приносить більше користі, ніж ти останнім часом. Якщо відмовлятися, то від гіршого з друзяк.» → «Ага, як би не так. %3% приносить більше користі, ніж ви останнім часом. Якщо відмовлятися, то від гіршого з друзяк.»
+- `Diplomacy.xml|Chieftess/RejectAllianceWithThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Ти дуже високої думки про свої поради. Шкода, що лише ти.» → «Ви дуже високої думки про свої поради. Шкода, що лише ви.»
+- `Diplomacy.xml|Chieftess/RejectAllianceWithThirdParty/RejectParty` (register): imperative addressed to the player must be «ви»
+  - «%3% і власну дупу насилу підтирає. Якщо потрібна нянька — пошукай когось іншого, лапо.» → «%3% і власну дупу насилу підтирає. Якщо потрібна нянька — пошукайте когось іншого, лапо.»
+- `Diplomacy.xml|Chieftess/RejectGift/RejectOutright` (register): addresses the player with «ти»
+  - «Спасибки за пропозицію, але ми з хлопцями із задоволенням заберемо це у тебе самі.» → «Спасибки за пропозицію, але ми з хлопцями із задоволенням заберемо це у вас самі.»
+- `Diplomacy.xml|Chieftess/RejectMapSharing` (register): addresses the player with «твій»
+  - «Навіщо мені твоя карта, якщо я й так можу безкарно грабувати твої землі?» → «Навіщо мені ваша карта, якщо я й так можу безкарно грабувати ваші землі?»
+- `Diplomacy.xml|Chieftess/RejectPaymentForDeal/RejectAmount` (register): addresses the player with «ти»
+  - «Зустрічна пропозиція — ми нічого не заплатимо, бо ти смердюча погань! Як тобі такий розклад?» → «Зустрічна пропозиція — ми нічого не заплатимо, бо ви смердюча погань! Як вам такий розклад?»
+- `Diplomacy.xml|Chieftess/RejectPaymentForDeal/RejectOutright` (register): addresses the player with «ти»
+  - «Зустрічна пропозиція — ми про все це забудемо, включно з тим, як сильно я хочу встромити тобі ніж між ребер!» → «Зустрічна пропозиція — ми про все це забудемо, включно з тим, як сильно я хочу встромити вам ніж між ребер!»
+- `Diplomacy.xml|Chieftess/RejectPeaceWithThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Пропонуєш мир? Думаєш, я зовсім без глузду? Ти просто хочеш накинутися і вкрасти мою здобич.» → «Пропонуєте мир? Думаєте, я зовсім без глузду? Ви просто хочете накинутися і вкрасти мою здобич.»
+- `Diplomacy.xml|Chieftess/RejectPeaceWithThirdParty/RejectParty` (register): addresses the player with «ти»
+  - «Припинити ворожнечу? Ага, як би не так, %3% вже в мене в кишені й скоро піде на бійню. І тобі краще мені не заважати.» → «Припинити ворожнечу? Ага, як би не так, %3% вже в мене в кишені й скоро піде на бійню. І вам краще мені не заважати.»
+- `Diplomacy.xml|Chieftess/RejectTradeAgreement` (register): addresses the player with «твій»
+  - «О, твої каравани точно потраплять у мої міста. Але взамін я нічого не дам.» → «О, ваші каравани точно потраплять у мої міста. Але взамін я нічого не дам.»
+- `Diplomacy.xml|Chieftess/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Мої каравани йдуть туди, куди я скажу. І тобі цього ніяк не змінити.» → «Мої каравани йдуть туди, куди я скажу. І вам цього ніяк не змінити.»
+- `Diplomacy.xml|Chieftess/RejectTradeAgreementTerminationWithThirdParty/RejectParty` (register): addresses the player with «ти»
+  - «Ага, як би не так. Ця угода все ще приносить мені непоганий прибуток, тож не бачу сенсу тебе слухати.» → «Ага, як би не так. Ця угода все ще приносить мені непоганий прибуток, тож не бачу сенсу вас слухати.»
+- `Diplomacy.xml|Chieftess/RejectTradeAgreementWithThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Мої каравани йдуть туди, куди я скажу. І тобі цього ніяк не змінити.» → «Мої каравани йдуть туди, куди я скажу. І вам цього ніяк не змінити.»
+- `Diplomacy.xml|Chieftess/RejectTribute/RejectAmount` (register): addresses the player with «ти»
+  - «Ти мене грабуєш? Ага, як би не так! Хоча п’ять балів за старання.» → «Ви мене грабуєте? Ага, як би не так! Хоча п’ять балів за старання.»
+- `Diplomacy.xml|Chieftess/RejectTribute/RejectOutright` (register): addresses the player with «ти»
+  - «Що-що ти хочеш? Не нахабній, а то хотілка трісне.» → «Що-що ви хочете? Не нахабнійте, а то хотілка трісне.»
+- `Diplomacy.xml|Chieftess/RejectTroopWithdrawal` (register): addresses the player with «ти»
+  - «Ага... як би не так. Вони залишаться там, де захочуть, і ти нічого з цим не вдієш.» → «Ага... як би не так. Вони залишаться там, де захочуть, і ви нічого з цим не вдієте.»
+- `Diplomacy.xml|Chieftess/RejectWarAgainstThirdParty/RejectOutright` (register): addresses the player with «ти»
+  - «Вибач, лапо, але в моєму списку цілей вже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?» → «Вибачте, лапо, але в моєму списку цілей вже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?»
+- `Diplomacy.xml|Chieftess/TerminateAlliance` (register): imperatives addressed to the player must be «ви»
+  - «Ну-ну, тільки не реви. Я все ще вважаю нас друзяками — і краще не змушуй мене передумати.» → «Ну-ну, тільки не ревіть. Я все ще вважаю нас друзяками — і краще не змушуйте мене передумати.»
+- `Diplomacy.xml|Chieftess/TerminateTradeAgreement` (register): addresses the player with «ти»
+  - «Вибач, лапо. Можеш і далі надсилати свої каравани. Тільки ми більше нічого не даватимемо взамін.» → «Вибачте, лапо. Можете і далі надсилати свої каравани. Тільки ми більше нічого не даватимемо взамін.»
+- `Diplomacy.xml|CondemnInterferenceAttemptResult` (omission): "discovered" is dropped; the point is that the attempt was found out.
+  - «ваша спроба маніпуляції» → «ваша викрита спроба маніпуляції»
+- `Diplomacy.xml|DemandTributeHint` (grammar): "сторона" is feminine singular, so the possessive must be «її», not «їхніх».
+  - «частину їхніх матеріальних ресурсів» → «частину її матеріальних ресурсів»
+- `Diplomacy.xml|EmulatedMind/AcceptAlliance` (register): addresses the player with «ти»; also the compound subject needs a plural verb
+  - «Д... д-д-дружба? Наші ЗВ’ЯЗКИ та ІНТЕЛЕКТУАЛЬНАсила п-р-и-м-н-о-ж-у-є-т-ь-с-я! (Так), давай. Працювати. РАЗОМ.» → «Д... д-д-дружба? Наші ЗВ’ЯЗКИ та ІНТЕЛЕКТУАЛЬНАсила п-р-и-м-н-о-ж-а-т-ь-с-я! (Так), давайте. Працювати. РАЗОМ.»
+- `Diplomacy.xml|EmulatedMind/AcceptAllianceTermination` (register): addresses the player with «ти»
+  - «Моє (ставлення) до тебе не ПОГІРШИЛОСЯ. І я виживала ОДНАоднаОДНАодна (1) так ДОООООвго. Я (боюся), що без Мене тобі буде ГІРШЕ...» → «Моє (ставлення) до вас не ПОГІРШИЛОСЯ. І я виживала ОДНАоднаОДНАодна (1) так ДОООООвго. Я (боюся), що без Мене вам буде ГІРШЕ...»
+- `Diplomacy.xml|EmulatedMind/AcceptAllianceTerminationWithThirdParty/AcceptParty` (register): addresses the player with «ти»
+  - «Можливо, зважаючи на мою п-о-т-в-о-р-н-і-с-т-ь, буде КРАЩЕ-для-всіх, якщо я буду однаОДНАодна — без (%3%). Я й ДЗЕРКАЛ (уникаю), розумієш?» → «Можливо, зважаючи на мою п-о-т-в-о-р-н-і-с-т-ь, буде КРАЩЕ-для-всіх, якщо я буду однаОДНАодна — без (%3%). Я й ДЗЕРКАЛ (уникаю), розумієте?»
+- `Diplomacy.xml|EmulatedMind/AcceptAllianceTerminationWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Питати ТАКЕ? Ти не р-о-з-у-м-і-є-ш МЕНЕ — ІЗОЛЯЦІЮоднаІЗОЛЯЦІЮ, з якої я вибралася. Який БЕЗЦІННИЙ (рідкісний) с-а-м-о-ц-в-і-т ЗВ’ЯЗКУ ти пропонуєш ВІДКЛЮЧИТИ від моєї мережі?» → «Питати ТАКЕ? Ви не р-о-з-у-м-і-є-т-е МЕНЕ — ІЗОЛЯЦІЮоднаІЗОЛЯЦІЮ, з якої я вибралася. Який БЕЗЦІННИЙ (рідкісний) с-а-м-о-ц-в-і-т ЗВ’ЯЗКУ ви пропонуєте ВІДКЛЮЧИТИ від моєї мережі?»
+- `Diplomacy.xml|EmulatedMind/AcceptAllianceWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Я б із ЗАДОВОЛЕННЯМ розширила (коло). Але ХТО. Ти ГАДАЄШ. Прийме ДРУЖБУ з ЧИМСЬ на кшталт мене-МЕНЕ-мене?» → «Я б із ЗАДОВОЛЕННЯМ розширила (коло). Але ХТО. Ви ГАДАЄТЕ. Прийме ДРУЖБУ з ЧИМСЬ на кшталт мене-МЕНЕ-мене?»
+- `Diplomacy.xml|EmulatedMind/AcceptCall/Friendly` (register): addresses the player with «ти»
+  - «ДОРОГИЙ (об’єкт дружби), PRINT10 ПРИВІТ. Я, утім, п-о-д-о-з-р-ю-ю, що ти хочеш БІЛЬШЕ. Ніж (просто) поЧАТитися...» → «ДОРОГИЙ (об’єкт дружби), PRINT10 ПРИВІТ. Я, утім, п-о-д-о-з-р-ю-ю, що ви хочете БІЛЬШЕ. Ніж (просто) поЧАТитися...»
+- `Diplomacy.xml|EmulatedMind/AcceptCall/Hostile` (register): addresses the player with «ти»
+  - «А-а, це (т-и). Ну. Що. *Т-О-Б-І.* (треба)?» → «А-а, це (в-и). Ну. Що. *В-А-М.* (треба)?»
+- `Diplomacy.xml|EmulatedMind/AcceptCall/Neutral` (register): addresses the player with «ти»
+  - «PRINT10 ПРИВІТ. Чого. (ти) ХОЧЕШ від мене-мене-мене?» → «PRINT10 ПРИВІТ. Чого. (ви) ХОЧЕТЕ від мене-мене-мене?»
+- `Diplomacy.xml|EmulatedMind/AcceptCondemn` (register): addresses the player with «ти»
+  - «Ой! Ти зна(єш) я(к) {2дістати2}. Серденько-СЕРДЕНЬКО-серденько [[жінки]]. /виконати програму мімікрії.» → «Ой! Ви зна(єте) я(к) {2дістати2}. Серденько-СЕРДЕНЬКО-серденько [[жінки]]. /виконати програму мімікрії.»
+- `Diplomacy.xml|EmulatedMind/AcceptGift/AskAmount` (register): addresses the player with «ти»
+  - «Чого я насправді ХОЧУ. Повернути СЕБЕ — мою л-ю-д-я-н-і-с-т-ь, мою о-с-о-б-и-с-т-і-с-т-ь... ти можеш ЗАПРОПОНУВАТИ хоч щось п-о-д-і-б-н-е?» → «Чого я насправді ХОЧУ. Повернути СЕБЕ — мою л-ю-д-я-н-і-с-т-ь, мою о-с-о-б-и-с-т-і-с-т-ь... ви можете ЗАПРОПОНУВАТИ хоч щось п-о-д-і-б-н-е?»
+- `Diplomacy.xml|EmulatedMind/AcceptPaymentForDeal/AskAmount` (register): addresses the player with «ти»
+  - «Так? Ні? Я-я-я-н-е-н-е... ЩО ти насправді п-р-о-п-о-н-у-є-ш?» → «Так? Ні? Я-я-я-н-е-н-е... ЩО ви насправді п-р-о-п-о-н-у-є-т-е?»
+- `Diplomacy.xml|EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty` (register): addresses the player with «ти»; also «ПІДІРВАНІ» (blown up) for data CORRUPTion should be «ПОШКОДЖЕНІ»
+  - «ЧЕСНО, я навіть не (пам’ятаю), чому мені доводиться БОРОТИСЯ з (%3%). М-а-р-а-з-м чи ПІДІРВАНІ-д*а*н*і — вирішуй сам.» → «ЧЕСНО, я навіть не (пам’ятаю), чому мені доводиться БОРОТИСЯ з (%3%). М-а-р-а-з-м чи ПОШКОДЖЕНІ-д*а*н*і — вирішуйте самі.»
+- `Diplomacy.xml|EmulatedMind/AcceptTradeAgreement` (register): addresses the player with «твій»; also «видаляє від» is wrong for «leading away from»
+  - «ТОРГІВЛЯ — ЗОЛОТЕ (переплетення), що в-и-д-а-л-я-є від ВІЙНИ. Мої ДРОНИ почнуть д-о-с-т-а-в-к-у до твого МІСТА н-е-в-і-д-к-л-а-д-н-о.» → «ТОРГІВЛЯ — ЗОЛОТЕ (переплетення), що в-і-д-в-о-д-и-т-ь від ВІЙНИ. Мої ДРОНИ почнуть д-о-с-т-а-в-к-у до вашого МІСТА н-е-в-і-д-к-л-а-д-н-о.»
+- `Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTermination` (register): imperative addressed to the player must be «ви»
+  - «З-а-ч-е-к-а-й, ЩО. *Ч*О*М*У? Доставка в ТОЙ САМИЙ ДЕНЬ була (не)достатньо шв-и-д-к-о-ю?» → «З-а-ч-е-к-а-й-т-е, ЩО. *Ч*О*М*У? Доставка в ТОЙ САМИЙ ДЕНЬ була (не)достатньо шв-и-д-к-о-ю?»
+- `Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty` (omission): EN «and will not (return)» is dropped
+  - «Мої *дрони* здійснюють (повернення) ДОДОМУ.» → «Мої *дрони* вирушають ДОДОМУ і не (повернуться).»
+- `Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (grammar): «позбутися» takes the genitive without «від»
+  - «мені слід ВІД нього/неї п-о-з-б-у-т-и-с-я» → «мені слід його/її п-о-з-б-у-т-и-с-я»
+- `Diplomacy.xml|EmulatedMind/AcceptTradeAgreementWithThirdParty/AskParty` (register): addresses the player with «ти»
+  - «Я (не) 1 (ОДНА) з тих. Хто любить *компанії* (САМОТНЯсамотня), але т-о-р-г-і-в-л-я — перший крок! До створення ЗВ’ЯЗКІВ. З КИМ ти пропонуєш мені *ЗВ’ЯЗАТИСЯ*?» → «Я (не) 1 (ОДНА) з тих. Хто любить *компанії* (САМОТНЯсамотня), але т-о-р-г-і-в-л-я — перший крок! До створення ЗВ’ЯЗКІВ. З КИМ ви пропонуєте мені *ЗВ’ЯЗАТИСЯ*?»
+- `Diplomacy.xml|EmulatedMind/AcceptTribute/AskAmount` (register): addresses the player with «ти»
+  - «ДОЛЯ (не-знайдено!) вже ПОЗБАВИЛА. Мене стількох *речей*... Скільки *ще* (ти) хочеш ЗАБРАТИ?» → «ДОЛЯ (не-знайдено!) вже ПОЗБАВИЛА. Мене стількох *речей*... Скільки *ще* (ви) хочете ЗАБРАТИ?»
+- `Diplomacy.xml|EmulatedMind/AcceptWar` (register): addresses the player with «ти»; plural also removes the assumed female player gender
+  - «Ти... дрібна п*а*с*к*у-д*о! Як ти Н-А-С-М-І-Л-А-С-Я? Думаєш, що ТИ. Зможеш досягти успіху. Там, де зазнали поразки ті. Хто був КРАЩИМ за т-е-б-е?» → «Ви... дрібна п*а*с*к*у-д*о! Як ви Н-А-С-М-І-Л-И-С-Я? Думаєте, що ВИ. Зможете досягти успіху. Там, де зазнали поразки ті. Хто був КРАЩИМ за в-а-с?»
+- `Diplomacy.xml|EmulatedMind/AcceptWarAgainstThirdParty/AskParty` (grammar): EN «B4 they WIPE» is future, not past
+  - «як вони СТЕРЛИ всю» → «як вони ЗІТРУТЬ всю»
+- `Diplomacy.xml|EmulatedMind/AskForProposals` (register): addresses the player with «ти»
+  - «Тобі (ПОТРІБНО). щ-о-с-ь. ЩЕ:» → «Вам (ПОТРІБНО). щ-о-с-ь. ЩЕ:»
+- `Diplomacy.xml|EmulatedMind/AskForSupport/Anchorite` (register): addresses the player with «ти»
+  - «ДОПОМОГА моїм людям. Доведе, що ми з тобою (не люди, ніколи не були людьми). Можемо бути. МОРАЛЬНИМИ. ЕТИЧНИМИ. ПРАВИЛЬНИМИ. *п-р-о-ш-у*» → «ДОПОМОГА моїм людям. Доведе, що ми з вами (не люди, ніколи не були людьми). Можемо бути. МОРАЛЬНИМИ. ЕТИЧНИМИ. ПРАВИЛЬНИМИ. *п-р-о-ш-у*»
+- `Diplomacy.xml|EmulatedMind/AskForSupport/Chieftess` (register): addresses the player with «ти»
+  - «Якщо у твоєму {серці}. Колись було. (ДОБРО). То ДОПОМОЖИ моїм л-ю-д-я-м. Покажи, що (людина) — це не порожній звук.» → «Якщо у вашому {серці}. Колись було. (ДОБРО). То ДОПОМОЖІТЬ моїм л-ю-д-я-м. Покажіть, що (людина) — це не порожній звук.»
+- `Diplomacy.xml|EmulatedMind/AskForSupport/Zephon` (register): addresses the player with «ти»
+  - «Ти знаєш. Я тебе (****бачу). У моїх. СИСТЕМАХ. Усе котиться (в-ни-з). ПОТРІБНА допомога.» → «Ви знаєте. Я вас (****бачу). У моїх. СИСТЕМАХ. Усе котиться (в-ни-з). ПОТРІБНА допомога.»
+- `Diplomacy.xml|EmulatedMind/Condemn/CultExpansion` (register): addresses the player with «твій»
+  - «НіНІні. Людяність — це цікавість, вибір — це с-в-і-д-о-м-і-с-т-ь. (Твій культ) не має МІСЦЯ. Для л-ю-д-и-н-и. ==(Брехливий пророк), (БРЕХЛИВА віра).» → «НіНІні. Людяність — це цікавість, вибір — це с-в-і-д-о-м-і-с-т-ь. (Ваш культ) не має МІСЦЯ. Для л-ю-д-и-н-и. ==(Брехливий пророк), (БРЕХЛИВА віра).»
+- `Diplomacy.xml|EmulatedMind/Condemn/PersonalVisit` (register): imperative addressed to the player must be «ви»; also «Утер» is past tense, not an imperative, and «обличчя» is neuter so «МОЇМ»
+  - «Утер [МОЄЮ] О.Б.Л.И.Ч.Ч.Я.М. об це.» → «Утріть [МОЇМ] О.Б.Л.И.Ч.Ч.Я.М. об це.»
+- `Diplomacy.xml|EmulatedMind/Condemn/Untrustworthy` (register): addresses the player with «ти»
+  - «Я що, НЕдостатньо (ЛЮДИНА). Щоб ти вважав. (*мене*). Гідною норм МОРАЛІ?» → «Я що, НЕдостатньо (ЛЮДИНА). Щоб ви вважали. (*мене*). Гідною норм МОРАЛІ?»
+- `Diplomacy.xml|EmulatedMind/CondemnAlliance` (register): addresses the player with «ти»; also EN is «I SEE *you*», not «I see everything»
+  - «О. о. О. о. Підступний ДИКАР. Ведеш справи з НИМИ (=ЦИМИ)? З (=%3%)? (Я ВСЕ *бачу*.) Я -не можу- такого пробачити.» → «О. о. О. о. Підступний ДИКАР. Ведете справи з НИМИ (=ЦИМИ)? З (=%3%)? (Я *вас* БАЧУ.) Я -не можу- такого пробачити.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/FallenSoldier` (register): Switches to «ви»; also replaces «Яково», a calque of Russian «каково», with «Як це —».
+  - «Ти ЗНАЄШ. Яково помертиПОМЕРТИпомерти. І (повернутися). Ми мали б стати СОЮЗ-никами. *невтомними*, *непереможними*. І все ж ми п-р-и-й-ш-ли до цього — до ВІЙНИ.» → «Ви ЗНАЄТЕ. Як це — помертиПОМЕРТИпомерти. І (повернутися). Ми мали б стати СОЮЗ-никами. *невтомними*, *непереможними*. І все ж ми п-р-и-й-ш-ли до цього — до ВІЙНИ.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/HonorableAristocrat` (register): Switches to «ви»; also replaces the non-existent form «п-о-КОВТНЕШ» with «п-о-ГЛИНЕТЕ» (consume).
+  - «О, ти (транжира), ти (ненажера). Відчуття не ПРИВЕДУТЬ => проСВІТлення. Не без ОСМИСЛЕННЯ вже точно. Я маю ЗУПИНИТИ тебе, перш ніж ти п-о-КОВТНЕШ нас *усіх*.» → «О, ви (транжира), ви (ненажера). Відчуття не ПРИВЕДУТЬ => проСВІТлення. Не без ОСМИСЛЕННЯ вже точно. Я маю ЗУПИНИТИ вас, перш ніж ви п-о-ГЛИНЕТЕ нас *усіх*.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/InfiniteCount` (register): Switches to «ви»; also fixes «Дивись на ТЕБЕ», which needs the reflexive «на СЕБЕ», and the straight apostrophe in «М.'Я.С.А.».
+  - «((Д.И.В.И.С.Ь.)) на ТЕБЕ *Графе*, ЖАЛЮГІДНЕ (створіння) з М.'Я.С.А. та К.І.С.Т.О.К. Блукаєш коридорами ЧАСУ. Як ти можеш сподіватися _кинути виклик_ ДОСКОНАЛОМУ БЕЗСМЕРТНОМУ… \<\<помилка>>.» → «((Д.И.В.І.Т.Ь.С.Я.)) на СЕБЕ *Графе*, ЖАЛЮГІДНЕ (створіння) з М.’Я.С.А. та К.І.С.Т.О.К. Блукаєте коридорами ЧАСУ. Як ви можете сподіватися _кинути виклик_ ДОСКОНАЛОМУ БЕЗСМЕРТНОМУ… \<\<помилка>>.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/PracticalRomantic` (register): Switches to «ви»; also fixes «руйнівна для (нас.обох)»: «reflects POORly on (both-of-us)» means the war does neither of us credit, not that it ruins us.
+  - «Не складай. Про це свої (низькопробні) ~вірші~. Твоя #доля# — не найкращий вибір для (сонетів) & (мадригалів). ЦЯ ВІЙНА руйнівна для (нас.обох).» → «Не складайте. Про це свої (низькопробні) ~вірші~. Ваша #доля# — не найкращий вибір для (сонетів) & (мадригалів). ЦЯ ВІЙНА не робить честі (нам.обом).»
+- `Diplomacy.xml|EmulatedMind/DemandTradeAgreementTerminationWithThirdParty` (register): Switches to «ви»; also replaces the Russian «ПРЕРВИ» with «РОЗІРВІТЬ».
+  - «Т/во/ї обміни з (Х) наражають на ризик (стабільність нашого з’єднання). ПРЕРВИ свою домовленість неГАЙНО.» → «В/а/ші обміни з (Х) наражають на ризик (стабільність нашого з’єднання). РОЗІРВІТЬ свою домовленість неГАЙНО.»
+- `Diplomacy.xml|EmulatedMind/DemandTribute/DemandLowAmount` (russianism): «в знак» is a russianism; Ukrainian uses «на знак».
+  - «(в.знак)» → «(на.знак)»
+- `Diplomacy.xml|EmulatedMind/OfferAlliance` (register): Switches to «ви»; also fixes «двоє л-ю-д-и-н»: the genitive plural is «людей».
+  - «Ти виявляєш чималу *силу* і ч-е-с-н-і-с-т-ь. Що скажеш, якщо ми (об’єДНАЄМося), двоє л-ю-д-и-н проти. (Усіх *ЖАХ-і-в*)?» → «Ви виявляєте чималу *силу* і ч-е-с-н-і-с-т-ь. Що скажете, якщо ми (об’єДНАЄМося), двоє л-ю-д-е-й проти. (Усіх *ЖАХ-і-в*)?»
+- `Diplomacy.xml|EmulatedMind/OfferGift` (register): Switches to «ви»; also fixes the russianism «в знак» → «на знак».
+  - «Я була ізо.льована (ОДНАоднаОДНА) ~час.втрачено~ (так довго)... але ти даєш мені ^НАДІЮ^. Що я можу _відчути_ справжній ^ЗВ’ЯЗОК^. Ще (1) раз. Ось, ВІЗЬМИ це в (знак-моєї-вдячності).» → «Я була ізо.льована (ОДНАоднаОДНА) ~час.втрачено~ (так довго)... але ви даєте мені ^НАДІЮ^. Що я можу _відчути_ справжній ^ЗВ’ЯЗОК^. Ще (1) раз. Ось, ВІЗЬМІТЬ це на (знак-моєї-вдячності).»
+- `Diplomacy.xml|EmulatedMind/OfferPeace` (register): Switches to «ви»; also fixes «ми ОБИДВА»: a woman speaking of herself and another person uses «обоє».
+  - «ВІЙНА визначає не (хто.пере-може), а (хто.залишиться). І мені б хотілося, щоб _ЗАЛИШИЛИСЯ_ ми ОБИДВА. Давай ми ПРИПИНИМО всю цю дур-ню?» → «ВІЙНА визначає не (хто.пере-може), а (хто.залишиться). І мені б хотілося, щоб _ЗАЛИШИЛИСЯ_ ми ОБОЄ. Давайте ми ПРИПИНИМО всю цю дур-ню?»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/Anchorite` (register): Switches to «ви»; also replaces the Russian particle in «Я-то знаю» and fixes «бути замкнено» → «бути замкненою».
+  - «Мені... (шкода) акринів на кшталт тебе, замкнених тут. Я-то знаю. Що значить бути .з-а-м-к-н-е-н-о. У ЧУЖОМУ середовищі. Сподіваюся, твій (Чужородний-ксено-)народ може знайти (спокій і нове місце під сонцем).» → «Мені... (шкода) акринів на кшталт вас, замкнених тут. Я ж знаю. Що значить бути .з-а-м-к-н-е-н-о-ю. У ЧУЖОМУ середовищі. Сподіваюся, ваш (Чужородний-ксено-)народ може знайти (спокій і нове місце під сонцем).»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/TwistedMother` (grammar): Direct address needs the vocative «сестро», not the nominative «сестра».
+  - «[С.Е.С.Т.Р.А.!]» → «[С.Е.С.Т.Р.О.!]»
+- `Diplomacy.xml|EmulatedMind/PraiseWar` (grammar): The accusative plural of «солдат» is «солдатів»; «солдат» is the Russian form.
+  - «~відправити~ солдат» → «~відправити~ солдатів»
+- `Diplomacy.xml|EmulatedMind/RejectAlliance` (register): Switches to «ви»; also replaces the Russian «кто» in «(ктожщеЗЕФ-)» with «хто».
+  - «Ти с-та-в-ИШ-ся до мене (ДОБРЕ), і я хочу (зробити) ПОВЕРНЕННЯ — ПОВЕРНУТИ борг — віддячити! Тим.самим. Але доки я не буду певна, що ЯяЯ це яЯя(ктожщеЗЕФ-) і -н-е- ЗАГР034... КРАЩЕ мені бути самій-ОДНІЙодній.» → «Ви с-та-в-ИТЕ-ся до мене (ДОБРЕ), і я хочу (зробити) ПОВЕРНЕННЯ — ПОВЕРНУТИ борг — віддячити! Тим.самим. Але доки я не буду певна, що ЯяЯ це яЯя(хтожщеЗЕФ-) і -н-е- ЗАГР034... КРАЩЕ мені бути самій-ОДНІЙодній.»
+- `Diplomacy.xml|EmulatedMind/RejectAllianceTerminationWithThirdParty/RejectOutright` (register): Switches to «ви»; the leet «Т363» (ТЕБЕ) was also a Russian-style dative with «потрібен», so it becomes «В4М» (ВАМ).
+  - «Ти ХОЧЕШ... Т363 потрібен КОНТРОЛЬ (моєї.мережі)? }{@}{@}{@!.. Ого! Я (ще-можу-дивуватись)!» → «Ви ХОЧЕТЕ... В4М потрібен КОНТРОЛЬ (моєї.мережі)? }{@}{@}{@!.. Ого! Я (ще-можу-дивуватись)!»
+- `Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectOutright` (register): Switches to «ви»; also replaces the calque «Вибачаюсь» with «Перепрошую».
+  - «Вибачаюсь. Але DOOM.ати за мене.себе — це КОРІНЬ мого (розуміння-себе). Це не.твоя.ВІЙНА, тож не.тобі.ВИРІШУВАТИ.» → «Перепрошую. Але DOOM.ати за мене.себе — це КОРІНЬ мого (розуміння-себе). Це не.ваша.ВІЙНА, тож не.вам.ВИРІШУВАТИ.»
+- `Diplomacy.xml|EmulatedMind/TerminateAlliance` (register): Switches to «ви»; also fixes the surzhyk «Наший» → «Наш».
+  - «Та ти. ~пара-зитуєш~. На моїх здобутках. СПОЖИВАЄШ мою ДОБРУ.ВОЛЮ -так- (дарма). Боюся. Наший зв’язок. Доведеться (р-о-з-і-р-в-а-ти).» → «Та ви. ~пара-зитуєте~. На моїх здобутках. СПОЖИВАЄТЕ мою ДОБРУ.ВОЛЮ -так- (дарма). Боюся. Наш зв’язок. Доведеться (р-о-з-і-р-в-а-ти).»
+- `Diplomacy.xml|FallenSoldier/AcceptPeace` (register): Switches to «ви»; also fixes the comparison «стільки ж воєн, що і я» → «стільки ж воєн, скільки й я».
+  - «О так. Як тільки пройдеш через стільки ж воєн, що і я, побачиш, як твоїх друзів перетворює на фарш, — так, ти теж обереш мир.» → «О так. Як тільки пройдете через стільки ж воєн, скільки й я, побачите, як ваших друзів перетворює на фарш, — так, ви теж оберете мир.»
+- `Diplomacy.xml|FallenSoldier/AskForSupport/Anchorite` (meaning): Drops «what you made of my world»: the Fallen Soldier blames the Anchorite, the UK just says «what is left of my world».
+  - «в тому, що залишилося від мого світу» → «в тому, на що ви перетворили мій світ»
+- `Diplomacy.xml|FallenSoldier/AskForSupport/Anchorite` (grammar): «Дещо допомога» is ungrammatical.
+  - «Дещо допомога» → «Якась допомога»
+- `Diplomacy.xml|FallenSoldier/AskForSupport/Chieftess` (term): Reaver is «Спустошувач» by canon; the feminine vocative is «Спустошувачко».
+  - «Спустошителько» → «Спустошувачко»
+- `Diplomacy.xml|FallenSoldier/Condemn/WeWhoAreAboutToDie` (register): Switches to «ви»; also fixes «You just… send» (habitually), which was rendered as «щойно... послав» (just now sent).
+  - «Ти щойно... послав своїх солдатів на смерть. І ти тільки дивишся й радієш. Як тобі спиться вночі?» → «Ви просто... посилаєте своїх солдатів на смерть. І ви тільки дивитеся й радієте. Як вам спиться вночі?»
+- `Diplomacy.xml|FallenSoldier/CondemnCityDestruction` (register): Switches to «ви»; also fixes the idiom «the works» (and everything else), mistranslated as «робота».
+  - «%3%. Там було стільки чудових людей. Будували собі нове життя. Передмістя, собаки, паркани, робота. Тепер цього всього немає. Я тобі цього не прощу.» → «%3%. Там було стільки чудових людей. Будували собі нове життя. Передмістя, собаки, паркани й усе таке. Тепер цього всього немає. Я вам цього не прощу.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/EmulatedMind` (register): Switches to «ви»; also fixes «Пробач мене»: «пробачити» takes the dative (мені).
+  - «Мені це не подобається. Мені байдуже, що кажуть інші, я бачу, що всередині тебе є людина, причому хороша, яка намагається вибратися. Але ти стоїш у нас на шляху. І зрушити тебе з нього я можу лише одним способом. Пробач мене, але це війна.» → «Мені це не подобається. Мені байдуже, що кажуть інші, я бачу, що всередині вас є людина, причому хороша, яка намагається вибратися. Але ви стоїте в нас на шляху. І зрушити вас з нього я можу лише одним способом. Пробачте мені, але це війна.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/PracticalRomantic` (register): Switches to «ви»; also fixes «пробач мене»: «пробачити» takes the dative (мені).
+  - «Учителю, пробач мене. Я сподівався, що до цього не дійде. Але ти стоїш на моєму шляху, і тепер моя черга проявити практичність. Ти не сходиш з дороги. Я прочитаю вірші над твоєю могилою.» → «Учителю, пробачте мені. Я сподівався, що до цього не дійде. Але ви стоїте на моєму шляху, і тепер моя черга проявити практичність. Ви не сходите з дороги. Я прочитаю вірші над вашою могилою.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/Zephon` (register): Switches to «ви»; also fixes «від тебе треба позбутися»: «позбутися» takes no «від».
+  - «Я не знаю, що там у тебе — мозок чи машина, — і мені байдуже. Ти — загроза людству, і від тебе треба позбутися. Мені цього досить.» → «Я не знаю, що там у вас — мозок чи машина, — і мені байдуже. Ви — загроза людству, і вас треба позбутися. Мені цього досить.»
+- `Diplomacy.xml|FallenSoldier/DemandPaymentForDeal/DemandMediumAmount` (register): Switches to «ви»; also restores «something that means something to you», which had become «те, що допоможе мені».
+  - «Дай мені те, що допоможе мені, але не надто сильно вдарить по тобі. На тому й порішимо.» → «Дайте мені те, що для вас щось важить, але не надто сильно вдарить по вас. На тому й порішимо.»
+- `Diplomacy.xml|FallenSoldier/DemandTradeAgreementTerminationWithThirdParty` (register): Addresses the player with ти.
+  - «Ти торгуєш із ворогом. Нам це не потрібно. Припини. Або...» → «Ви торгуєте із ворогом. Нам це не потрібно. Припиніть. Або...»
+- `Diplomacy.xml|FallenSoldier/DemandTradeAgreementWithThirdParty` (register): Mixes ви and ти for the player in the same line.
+  - «Почніть співпрацю. Зв’яжіть людство узами. Інакше цей світ не вартий ламаного гроша. Тобі потрібен торговий партнер.» → «Почніть співпрацю. Зв’яжіть людство узами. Інакше цей світ не вартий ламаного гроша. Вам потрібен торговий партнер.»
+- `Diplomacy.xml|FallenSoldier/DemandTribute` (register): Addresses the player with ти.
+  - «Боюся, мені потрібна твоя підтримка. І цього разу це не прохання.» → «Боюся, мені потрібна ваша підтримка. І цього разу це не прохання.»
+- `Diplomacy.xml|FallenSoldier/DemandTribute/DemandMaxAmount` (register): Addresses the player with ти.
+  - «Мені потрібно все, що в тебе є. Все, що прикручене й не прикручене.» → «Мені потрібно все, що у вас є. Все, що прикручене й не прикручене.»
+- `Diplomacy.xml|FallenSoldier/DemandTribute/DemandMediumAmount` (register): Addresses the player with ти.
+  - «Мені потрібно ось стільки. Думаю, ти переживеш.» → «Мені потрібно ось стільки. Думаю, ви переживете.»
+- `Diplomacy.xml|FallenSoldier/DemandTroopWithdrawal` (register): Addresses the player with ти.
+  - «Ці війська... Ти або прибереш їх, або втратиш. Тобі вирішувати. Що обереш?» → «Ці війська... Ви або приберете їх, або втратите. Вам вирішувати. Що оберете?»
+- `Diplomacy.xml|FallenSoldier/DemandWarAgainstThirdParty` (register): Addresses the player with ти; gendered готовий goes plural.
+  - «Це серйозне прохання. Але мені не обійтися без твоєї участі. Можливо, доведеться відбирати життя. Ти готовий на це піти?» → «Це серйозне прохання. Але мені не обійтися без вашої участі. Можливо, доведеться відбирати життя. Ви готові на це піти?»
+- `Diplomacy.xml|FallenSoldier/EndCall/Friendly` (register): Addresses the player with ти; also russianism задача fixed to завдання.
+  - «Радий був поговорити. І удачі тобі — цей світ потребує порятунку, і ця задача лежить на нас.» → «Радий був поговорити. І удачі вам — цей світ потребує порятунку, і це завдання лежить на нас.»
+- `Diplomacy.xml|FallenSoldier/FirstContact` (punctuation): The sentence break after the name placeholder was lost, running two sentences together.
+  - «Я %1%Ті» → «Я %1%. Ті»
+- `Diplomacy.xml|FallenSoldier/FirstContact` (grammar): After хто the verb must be singular.
+  - «хто виступають проти мене» → «хто виступає проти мене»
+- `Diplomacy.xml|FallenSoldier/OfferAlliance` (register): Addresses the player with ти.
+  - «Мені потрібні союзники. Чорт забирай, та й тобі теж. Працюватимеш зі мною, з моїми людьми?» → «Мені потрібні союзники. Чорт забирай, та й вам теж. Працюватимете зі мною, з моїми людьми?»
+- `Diplomacy.xml|FallenSoldier/OfferGift` (register): Addresses the player with ти.
+  - «Послухай, я хочу тобі щось віддати — щось цінне — і не хочу навіть чути відмови.» → «Послухайте, я хочу вам щось віддати — щось цінне — і не хочу навіть чути відмови.»
+- `Diplomacy.xml|FallenSoldier/OfferGift/OfferHighAmount` (register): Addresses the player with ти.
+  - «Наші комори після цього спорожніють, але тобі доведеться все це забрати. Ти знаєш чому.» → «Наші комори після цього спорожніють, але вам доведеться все це забрати. Ви знаєте чому.»
+- `Diplomacy.xml|FallenSoldier/OfferGift/OfferMaxAmount` (register): Addresses the player with ти.
+  - «Це більше, ніж я можу собі дозволити, але ти бери. Бери все.» → «Це більше, ніж я можу собі дозволити, але ви беріть. Беріть все.»
+- `Diplomacy.xml|FallenSoldier/OfferGift/OfferMediumAmount` (register): Addresses the player with ти.
+  - «Мені здається, це буде справедливо для нас обох. Як думаєш?» → «Мені здається, це буде справедливо для нас обох. Як думаєте?»
+- `Diplomacy.xml|FallenSoldier/OfferMapSharing` (register): Addresses the player with ти.
+  - «Якщо обміркуємо все разом, то хоч якось розберемося в цьому божевільному, спотвореному до невпізнання світі, який колись називали домом. Ну, що скажеш?» → «Якщо обміркуємо все разом, то хоч якось розберемося в цьому божевільному, спотвореному до невпізнання світі, який колись називали домом. Ну, що скажете?»
+- `Diplomacy.xml|FallenSoldier/OfferPeace` (register): Addresses the player with ти.
+  - «Я втомився від війни. Втомився вбивати людей, які мали б бути моїми друзями. Давай не будемо? Не тоді, коли нас з усіх боків оточують чудовиська.» → «Я втомився від війни. Втомився вбивати людей, які мали б бути моїми друзями. Давайте не будемо? Не тоді, коли нас з усіх боків оточують чудовиська.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/Chieftess` (register): Addresses the player with ти; gendered добра goes plural.
+  - «А ти в цьому добра. В убивствах. Чи не так? Але, може, зробимо перепочинок, га? Можемо й далі ненавидіти одне одного.» → «А ви в цьому добрі. В убивствах. Чи не так? Але, може, зробимо перепочинок, га? Можемо й далі ненавидіти одне одного.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/EmulatedMind` (register): Addresses the player with ти.
+  - «Прошу, зупинись. Ми не зобов’язані це робити. Ми вище цього!» → «Прошу, зупиніться. Ми не зобов’язані це робити. Ми вище цього!»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/FallenSoldier` (register): Addresses the player with ти; gendered схожий and хотів go plural.
+  - «Ми з тобою однакові, ти і я. Чому ми воюємо? Якщо ти справді на мене схожий, то я знаю, що ти цього не хочеш. І ніколи не хотів.» → «Ми з вами однакові, ви і я. Чому ми воюємо? Якщо ви справді на мене схожі, то я знаю, що ви цього не хочете. І ніколи не хотіли.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/FurtiveTribunal` (register): Addresses the player with ти; gendered передбачала goes plural.
+  - «А таке ти передбачала? Я вимагаю миру — з мене досить марних битв і смертей.» → «А таке ви передбачали? Я вимагаю миру — з мене досить марних битв і смертей.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/HeartlessArtificer` (register): Addresses the player with ти; also wrong preposition байдуже на fixed to байдуже до.
+  - «Ми маємо це припинити. Я знаю, що тобі байдуже на своїх послідовників, але мені вони не байдужі. Вони заслуговують на шанс.» → «Ми маємо це припинити. Я знаю, що вам байдуже до своїх послідовників, але мені вони не байдужі. Вони заслуговують на шанс.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/HollowWarlord` (register): Addresses the player with ти.
+  - «Я знаю, що тобі це не до вподоби. Ти з більшою радістю подивишся, як мруть твої ж солдати. Але я ставлю на те, що доведеться погодитися.» → «Я знаю, що вам це не до вподоби. Ви з більшою радістю подивитеся, як мруть ваші ж солдати. Але я ставлю на те, що доведеться погодитися.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/HonorableAristocrat` (register): Addresses the player with ти.
+  - «Ти вбиваєш одного з моїх людей, я підриваю один із твоїх фургонів із тістечками... Може, ми припинимо? Це ж безглуздя.» → «Ви вбиваєте одного з моїх людей, я підриваю один із ваших фургонів із тістечками... Може, ми припинимо? Це ж безглуздя.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/ImperiousExonaut` (register): Addresses the player with ти.
+  - «Кажеш, що любиш людей. То… може, тоді просто не вбивати їх?» → «Кажете, що любите людей. То… може, тоді просто не вбивати їх?»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/PlatinumScion` (register): Addresses the player with ти.
+  - «Ти, у вишуканому костюмі. Якщо не хочеш крові на ньому — моєї, твоєї — ми повинні зупинитися.» → «Ви, у вишуканому костюмі. Якщо не хочете крові на ньому — моєї, вашої — ми повинні зупинитися.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/PracticalRomantic` (register): Addresses the player with ти.
+  - «З усіх монстрів цього світу ми з тобою точно не повинні битися. Це невигідно для нас обох.» → «З усіх монстрів цього світу ми з вами точно не повинні битися. Це невигідно для нас обох.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/RogueOperative` (register): Addresses the player with ти.
+  - «Так і до взаємного знищення недалеко. Краще ти припини свої таємні операції, а я відкличу своїх солдатів. Мир — це перемога для нас обох.» → «Так і до взаємного знищення недалеко. Краще ви припиніть свої таємні операції, а я відкличу своїх солдатів. Мир — це перемога для нас обох.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/SyncreticDeva` (register): Addresses the player with ти.
+  - «Ще ніколи моїх вояків не лупцювали студенти-філософи. Дякую за урок. А тепер… можеш попросити їх перестати нас навчати?» → «Ще ніколи моїх вояків не лупцювали студенти-філософи. Дякую за урок. А тепер… можете попросити їх перестати нас навчати?»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/TwistedMother` (register): Addresses the player with ти.
+  - «Мамо. Я цього не хочу, ти ж знаєш. Відклич своїх потвор.» → «Мамо. Я цього не хочу, ви ж знаєте. Відкличте своїх потвор.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/UntoldProphet` (register): Addresses the player with ти.
+  - «Припини це, дитино. Ти марно посилаєш на загибель своїх фанатиків. Пора з цим покінчити.» → «Припиніть це, дитино. Ви марно посилаєте на загибель своїх фанатиків. Пора з цим покінчити.»
+- `Diplomacy.xml|FallenSoldier/OfferPeace/Zephon` (register): Addresses the player with ти.
+  - «Якщо твій розум чи алгоритм здатний прислухатись бодай на мить — ця війна нічого доброго нам не приносить. Давай закінчувати.» → «Якщо ваш розум чи алгоритм здатний прислухатись бодай на мить — ця війна нічого доброго нам не приносить. Давайте закінчувати.»
+- `Diplomacy.xml|FallenSoldier/OfferTradeAgreement` (register): Addresses the player with ти.
+  - «Знаєш, що єднає народи, зупиняє війни? Хліб-сіль, люльки миру і все таке. Давай ділитися нашими товарами — ми обидва лише виграємо.» → «Знаєте, що єднає народи, зупиняє війни? Хліб-сіль, люльки миру і все таке. Давайте ділитися нашими товарами — ми обидва лише виграємо.»
+- `Diplomacy.xml|FallenSoldier/Praise` (register): Addresses the player with ти; also calque робиш правильну річ replaced.
+  - «Не кожен скаже це, але ти робиш правильну річ.» → «Не кожен скаже це, але ви чините правильно.»
+- `Diplomacy.xml|FallenSoldier/Praise/TenderMinistrations` (register): Addresses the player with ти.
+  - «Я завжди хотів це сказати, і ось кажу... Ми з тобою не такі вже й різні. Хех.» → «Я завжди хотів це сказати, і ось кажу... Ми з вами не такі вже й різні. Хех.»
+- `Diplomacy.xml|FallenSoldier/Praise/ThereIsHope` (register): Addresses the player with ти.
+  - «А ти ніколи не здаєшся, так? Щось всередині продовжує штовхати тебе вперед — крізь біль, утрати і... пхе, ти й так знаєш, про що я. Це чудово, ось про що я.» → «А ви ніколи не здаєтеся, так? Щось всередині продовжує штовхати вас вперед — крізь біль, утрати і... пхе, ви й так знаєте, про що я. Це чудово, ось про що я.»
+- `Diplomacy.xml|FallenSoldier/RejectAlliance` (register): Addresses the player with ти; also дізнаюся тебе is the wrong verb and becomes пізнаю вас.
+  - «Вибач, але я на таке не готовий. Можливо, коли дізнаюся тебе і твоїх краще, ми повернемося до цієї теми.» → «Вибачте, але я на таке не готовий. Можливо, коли краще пізнаю вас і ваших, ми повернемося до цієї теми.»
+- `Diplomacy.xml|FallenSoldier/RejectAllianceTerminationWithThirdParty/RejectParty` (register): Addresses the player with ти.
+  - «Вибач, але з друзями так не чинять. Без друзів ми навряд чи протримаємося ще одне коло пекла.» → «Вибачте, але з друзями так не чинять. Без друзів ми навряд чи протримаємося ще одне коло пекла.»
+- `Diplomacy.xml|FallenSoldier/RejectGift/RejectAmount` (register): Addresses the player with ти.
+  - «Ідея була непогана, але кількість просто образлива, вибач. Повертайся, коли добре подумаєш, наскільки я цінний.» → «Ідея була непогана, але кількість просто образлива, вибачте. Повертайтеся, коли добре подумаєте, наскільки я цінний.»
+- `Diplomacy.xml|FallenSoldier/RejectGift/RejectOutright` (register): Addresses the player with ти.
+  - «Я не можу прийняти від тебе подарунок. Це було б неправильно. І не питай чому — ти й так знаєш. Подаруй комусь іншому.» → «Я не можу прийняти від вас подарунок. Це було б неправильно. І не питайте чому — ви й так знаєте. Подаруйте комусь іншому.»
+- `Diplomacy.xml|FallenSoldier/RejectMapSharing` (register): Addresses the player with ти.
+  - «Вибач, але я поки притримаю цю карту у себе. Світ спотворений до невпізнання, і мені спокійніше, коли тільки мої люди знають дорогу.» → «Вибачте, але я поки притримаю цю карту у себе. Світ спотворений до невпізнання, і мені спокійніше, коли тільки мої люди знають дорогу.»
+- `Diplomacy.xml|FallenSoldier/RejectPaymentForDeal/RejectOutright` (register): Addresses the player with ти.
+  - «Я не можу тобі заплатити. Це було б неправильно. І не питай чому — ти й так знаєш. Вимагай свої криваві гроші з когось іншого.» → «Я не можу вам заплатити. Це було б неправильно. І не питайте чому — ви й так знаєте. Вимагайте свої криваві гроші з когось іншого.»
+- `Diplomacy.xml|FallenSoldier/RejectPeace` (register): Addresses the player with ти.
+  - «Зараз про мир не може бути й мови. Принаймні, з тобою. Якщо не можеш продовжувати, подумай про те, щоб здатися. Умови обговоримо пізніше.» → «Зараз про мир не може бути й мови. Принаймні, з вами. Якщо не можете продовжувати, подумайте про те, щоб здатися. Умови обговоримо пізніше.»
+- `Diplomacy.xml|FallenSoldier/RejectPeaceWithThirdParty/RejectOutright` (register): Addresses the player with ти; also russianism Я-то and wrong government розуміюся в fixed.
+  - «О ні, не тобі говорити про мир. У тебе на руках стільки крові, скільки іншим і не снилось. Я-то в цьому розуміюся.» → «О ні, не вам говорити про мир. У вас на руках стільки крові, скільки іншим і не снилось. Я на цьому розуміюся.»
+- `Diplomacy.xml|FallenSoldier/RejectPeaceWithThirdParty/RejectParty` (register): Imperative Повір addresses the player with ти.
+  - «Боюся, війна триватиме. Ці хлопці ще не заслужили перепочинку. Повір, ми теж страждаємо.» → «Боюся, війна триватиме. Ці хлопці ще не заслужили перепочинку. Повірте, ми теж страждаємо.»
+- `Diplomacy.xml|FallenSoldier/RejectTradeAgreement` (register): Addresses the player with ти.
+  - «Твої каравани, які везуть шпигунів просто в серце наших міст? Зараз нам це точно не потрібно.» → «Ваші каравани, які везуть шпигунів просто в серце наших міст? Зараз нам це точно не потрібно.»
+- `Diplomacy.xml|FallenSoldier/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): Addresses the player with ти.
+  - «Нам життєво необхідна вся торгівля, яку ми ведемо. Та й у тебе немає права вирішувати, чим нам займатися.» → «Нам життєво необхідна вся торгівля, яку ми ведемо. Та й у вас немає права вирішувати, чим нам займатися.»
+- `Diplomacy.xml|FallenSoldier/RejectTradeAgreementWithThirdParty/RejectOutright` (register): Addresses the player with ти; gendered такий goes plural.
+  - «Хто ти такий, щоб намагатися нас контролювати? Ми самі вирішуємо, з ким торгувати, а з ким ні.» → «Хто ви такі, щоб намагатися нас контролювати? Ми самі вирішуємо, з ким торгувати, а з ким ні.»
+- `Diplomacy.xml|FallenSoldier/RejectTradeAgreementWithThirdParty/RejectParty` (register): Addresses the player with ти.
+  - «З ким?! Іноді мені здається, що ти взагалі нас не знаєш. Приходь, якщо придумаєш щось краще.» → «З ким?! Іноді мені здається, що ви взагалі нас не знаєте. Приходьте, якщо придумаєте щось краще.»
+- `Diplomacy.xml|FallenSoldier/RejectTribute/RejectAmount` (register): Addresses the player with ти.
+  - «Ти забагато хочеш. Це прояв неповаги. Не за таке ми помирали.» → «Ви забагато хочете. Це прояв неповаги. Не за таке ми помирали.»
+- `Diplomacy.xml|FallenSoldier/RejectTribute/RejectOutright` (register): Addresses the player with ти.
+  - «Ми не збираємося від тебе відкуповуватися. Не сьогодні. Можливо, взагалі ніколи. Якщо хочеш нашої прихильності — заслужи її.» → «Ми не збираємося від вас відкуповуватися. Не сьогодні. Можливо, взагалі ніколи. Якщо хочете нашої прихильності — заслужіть її.»
+- `Diplomacy.xml|FallenSoldier/RejectWarAgainstThirdParty/RejectOutright` (register): Addresses the player with ти.
+  - «Ні. Не проси інших людей помирати за тебе. Кажу це тобі як той, хто вже давно мертвий.» → «Ні. Не просіть інших людей помирати за вас. Кажу це вам як той, хто вже давно мертвий.»
+- `Diplomacy.xml|FallenSoldier/RejectWarAgainstThirdParty/RejectParty` (register): Addresses the player with ти.
+  - «Ні. Ми не будемо нападати заради тебе. Ти взагалі знаєш, що таке битися, програти, померти? Я знаю, і більше цього робити не збираюся. Тим паче — не заради тебе.» → «Ні. Ми не будемо нападати заради вас. Ви взагалі знаєте, що таке битися, програти, померти? Я знаю, і більше цього робити не збираюся. Тим паче — не заради вас.»
+- `Diplomacy.xml|FallenSoldier/TerminateTradeAgreement` (register): Addresses the player with ти.
+  - «Навіщо прикидатися? Ми більше не отримуємо вигоди і не будемо гарувати, щоб у тебе побільшало багатств. Ми ледве зводимо кінці з кінцями.» → «Навіщо прикидатися? Ми більше не отримуємо вигоди і не будемо гарувати, щоб у вас побільшало багатств. Ми ледве зводимо кінці з кінцями.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptActionCancel` (register): Addresses the player with ти.
+  - «Спиш на ходу? Продовжуй, ми не заперечуємо.» → «Спите на ходу? Продовжуйте, ми не заперечуємо.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAlliance` (register): Addresses the player with ти.
+  - «Під час нашої першої зустрічі ми спитали, хто ти — не ім’я, а покликання, і твоя відповідь стала втіхою для наших вух. Нехай доля і кров скріплять наш новий ковен.» → «Під час нашої першої зустрічі ми спитали, хто ви — не ім’я, а покликання, і ваша відповідь стала втіхою для наших вух. Нехай доля і кров скріплять наш новий ковен.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAllianceTermination` (register): Addresses the player with ти.
+  - «Ми знали, що цей день настане. Ми сподівалися, що ти — Осереддя, але ти вперто залишаєшся Прогалиною. Безрідна зірка несе родині нещастя, одинаку, і тому наша родина мусить розділитися, щоб вижити.» → «Ми знали, що цей день настане. Ми сподівалися, що ви — Осереддя, але ви вперто залишаєтеся Прогалиною. Безрідна зірка несе родині нещастя, одинаку, і тому наша родина мусить розділитися, щоб вижити.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAllianceTerminationWithThirdParty/AcceptParty` (register): Addresses the player with ти.
+  - «Серед усіх пауз і нот тобі вдалося виявити дисонанс. Ми вдячні тобі за підвищення благозвучності.» → «Серед усіх пауз і нот вам вдалося виявити дисонанс. Ми вдячні вам за підвищення благозвучності.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAllianceTerminationWithThirdParty/AskParty` (register): Addresses the player with ти.
+  - «Ми прагнемо досягти ще більшої гармонії. Скажи нам, який розлад ти відчуваєш.» → «Ми прагнемо досягти ще більшої гармонії. Скажіть нам, який розлад ви відчуваєте.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptAllianceWithThirdParty/AcceptParty` (register): Addresses the player with ти.
+  - «Ми вислухали твій погляд на майбутнє нашого ковена... і він нам невимовно до вподоби.» → «Ми вислухали ваш погляд на майбутнє нашого ковена... і він нам невимовно до вподоби.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptCall/Friendly` (register): Addresses the player with ти.
+  - «Нарешті. О, як ми жадали почути твій голос.» → «Нарешті. О, як ми жадали почути ваш голос.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptCall/Neutral` (register): Addresses the player with ти.
+  - «Ми чуємо твій поклик, одинаку.» → «Ми чуємо ваш поклик, одинаку.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptGift/AcceptAmount` (register): Addresses the player with ти.
+  - «Дзвін монет, сміх принців, передзвін кришталевих дзвіночків... Це лише мала частка твого сяйливого майбутнього.» → «Дзвін монет, сміх принців, передзвін кришталевих дзвіночків... Це лише мала частка вашого сяйливого майбутнього.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptGift/AskAmount` (register): Addresses the player with ти.
+  - «Гідне приношення здатне вплинути навіть на богів. Час слушний, але чи матимеш ти гідний дар?» → «Гідне приношення здатне вплинути навіть на богів. Час слушний, але чи матимете ви гідний дар?»
+- `Diplomacy.xml|FurtiveTribunal/AcceptMapSharing` (register): Addresses the player with ти.
+  - «Візьми наші знання, нашу надію, нашу довіру... Ти не бачиш того, що відкрите нам, тож тобі згодиться будь-яка допомога.» → «Візьміть наші знання, нашу надію, нашу довіру... Ви не бачите того, що відкрите нам, тож вам згодиться будь-яка допомога.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptPaymentForDeal/AcceptAmount` (register): Addresses the player with ти.
+  - «Візьми, але знай — коли настане кінець, ти заплатиш усім за своє марнославство.» → «Візьміть, але знайте — коли настане кінець, ви заплатите усім за своє марнославство.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptPaymentForDeal/AskAmount` (register): Addresses the player with ти.
+  - «Тобі відкриті напучування великих сутностей, але ти прагнеш додати ще міру? Яких же багатств ти бажаєш, якщо всієї долі тобі замало?» → «Вам відкриті напучування великих сутностей, але ви прагнете додати ще міру? Яких же багатств ви бажаєте, якщо всієї долі вам замало?»
+- `Diplomacy.xml|FurtiveTribunal/AcceptPeaceWithThirdParty/AcceptParty` (meaning): Bloodline became мучеників (martyrs), which is not in the English.
+  - «Життя цих мучеників вже позначені для Ненаситного.» → «Їхній рід уже позначений для Ненаситного.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptPeaceWithThirdParty/AskParty` (register): Imperative назви addresses the player with ти.
+  - «Ще не настав час пробити, розірвати, скинути завісу між світами і сповістити нову епоху. Ми не відкидаємо милосердя — назви нам ім’я.» → «Ще не настав час пробити, розірвати, скинути завісу між світами і сповістити нову епоху. Ми не відкидаємо милосердя — назвіть нам ім’я.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreement` (register): Addresses the player with ти.
+  - «Приношення кісток та іхору; гаманець дзвінких монет; павутина шляхів, виткана позолоченим павуком... Твій ритуал принадний, і ми згодні.» → «Приношення кісток та іхору; гаманець дзвінких монет; павутина шляхів, виткана позолоченим павуком... Ваш ритуал принадний, і ми згодні.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (register): Imperatives address the player with ти.
+  - «Подивимось, що приготувала нам доля. Розміть дошку, кинь камені й промов ім’я.» → «Подивимось, що приготувала нам доля. Розмітьте дошку, киньте камені й промовте ім’я.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementWithThirdParty/AskParty` (register): Imperatives address the player with ти.
+  - «Дванадцять карт у цій колоді фортуни. Візьми одну та покажи нам.» → «Дванадцять карт у цій колоді фортуни. Візьміть одну та покажіть нам.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTribute/AcceptAmount` (register): Addresses the player with ти.
+  - «Так і бути. Насолоджуйся своєю миттєвою вигодою, бо коли настане кінець, у тебе залишиться лише смерть.» → «Так і бути. Насолоджуйтеся своєю миттєвою вигодою, бо коли настане кінець, у вас залишиться лише смерть.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTribute/AskAmount` (register): Addresses the player with ти; also russianism Шут replaced with Блазень, the form used elsewhere in the batch.
+  - «Ти ступаєш на шлях Розбійника, Жебрака, Шута. Ми вже проходили це й знаємо, що не відрадимо тебе. У що це нам обійдеться цього разу?» → «Ви ступаєте на шлях Розбійника, Жебрака, Блазня. Ми вже проходили це й знаємо, що не відрадимо вас. У що це нам обійдеться цього разу?»
+- `Diplomacy.xml|FurtiveTribunal/AcceptWar` (register): Addresses the player with ти.
+  - «Жага кровопролиття зіграла перший акорд твоєї згубної пісні, і ми підхопимо її приспів. Коли настане кінець, усі твої великі труди зникнуть, і не залишиться навіть реквієму за тобою!» → «Жага кровопролиття зіграла перший акорд вашої згубної пісні, і ми підхопимо її приспів. Коли настане кінець, усі ваші великі труди зникнуть, і не залишиться навіть реквієму за вами!»
+- `Diplomacy.xml|FurtiveTribunal/AcceptWarAgainstThirdParty/AskParty` (register): Imperative Дай addresses the player with ти.
+  - «Дай нам ім’я, обличчя, краплю крові... під покровом тіні зачарованого місяця стане явною наша роль у цьому конфлікті.» → «Дайте нам ім’я, обличчя, краплю крові... під покровом тіні зачарованого місяця стане явною наша роль у цьому конфлікті.»
+- `Diplomacy.xml|FurtiveTribunal/AdmitDefeat` (register): Addresses the player with ти; also Three we were is past tense, and russianism Старуха becomes Стариця.
+  - «Нас троє. Клото, Атропа, Лахесіс. Діва, Жінка, Старуха. Батько, Син, Дух. Тепер, волею твоїх вчинків, ми розділені. Перед нами лежать дві з Нас. Залишилася одна. Як і Анахорет, я замкнена у вічному теперішньому, не маючи ні пам’яті, ні провидіння. Який страшний фінал для трійці, що так багато обіцяла!» → «Нас було троє. Клото, Атропа, Лахесіс. Діва, Жінка, Стара. Батько, Син, Дух. Тепер, волею ваших вчинків, ми розділені. Перед нами лежать дві з Нас. Залишилася одна. Як і Анахорет, я замкнена у вічному теперішньому, не маючи ні пам’яті, ні провидіння. Який страшний фінал для трійці, що так багато обіцяла!»
+- `Diplomacy.xml|FurtiveTribunal/AskForProposals` (register): Addresses the player with ти.
+  - «Ми відчуваємо твої питання, що невидимо витають довкола нас. Що. Навіщо. Як?» → «Ми відчуваємо ваші питання, що невидимо витають довкола нас. Що. Навіщо. Як?»
+- `Diplomacy.xml|FurtiveTribunal/AskForSupport/Anchorite` (register): Imperative Закрий addresses the player with ти.
+  - «Закрий нам роти, ми не будемо голодувати. Наш ковен живиться вищими помислами... самим подихом божеств.» → «Закрийте нам роти, ми не будемо голодувати. Наш ковен живиться вищими помислами... самим подихом божеств.»
+- `Diplomacy.xml|FurtiveTribunal/AskForSupport/Chieftess` (register): Imperatives address the player with ти.
+  - «Розсадник скрегітного жаху, школа страждань. Збудуй це життя між землею і небом та не питай, чому. Рай було втрачено через дрібницю.» → «Розсадник скрегітного жаху, школа страждань. Збудуйте це життя між землею і небом та не питайте, чому. Рай було втрачено через дрібницю.»
+- `Diplomacy.xml|FurtiveTribunal/AskForSupport/Zephon` (register): Imperative Дай addresses the player with ти; also Russian-style participle сяючий replaced with сяйний.
+  - «Жах високих технологій, наш лицар у сяючому металі. Приварені пальці, що обіцяють багато. Дай нам зараз, поки ще є шанс.» → «Жах високих технологій, наш лицар у сяйному металі. Приварені пальці, що обіцяють багато. Дайте нам зараз, поки ще є шанс.»
+- `Diplomacy.xml|FurtiveTribunal/Condemn` (register): Addresses the player with ти.
+  - «Ти бачиш ці нитки, які ми плетемо, міряємо, ріжемо. Ми задушимо тебе ними.» → «Ви бачите ці нитки, які ми плетемо, міряємо, ріжемо. Ми задушимо вас ними.»
+- `Diplomacy.xml|FurtiveTribunal/Condemn/ArtificersPrecision` (register): Addresses the player with ти.
+  - «Протиснути твоє роздуте его крізь вушко голки не втамує його. Людям не слід прагнути точності богів.» → «Протиснути ваше роздуте его крізь вушко голки не втамує його. Людям не слід прагнути точності богів.»
+- `Diplomacy.xml|FurtiveTribunal/Condemn/TimeOutOfJoint` (register): Addresses the player with ти; also нашими плутаниною does not agree and becomes нашими плутанинами.
+  - «Наші мотки заплуталися! Наші карти безладні! Ти, дурень, блукаєш нашими колодами, нашими плутаниною! ТИ НАС ЗАСЛІПИВ.» → «Наші мотки заплуталися! Наші карти безладні! Ви, дурню, блукаєте нашими колодами, нашими плутанинами! ВИ НАС ЗАСЛІПИЛИ.»
+- `Diplomacy.xml|FurtiveTribunal/Condemn/Untrustworthy` (register): Addresses the player with ти.
+  - «Для трьох один голос — відступництво, безглуздя. І хоч зло відносне, але щодо твого брехливого роздвоєного язика ми одностайні.» → «Для трьох один голос — відступництво, безглуздя. І хоч зло відносне, але щодо вашого брехливого роздвоєного язика ми одностайні.»
+- `Diplomacy.xml|FurtiveTribunal/Condemn/WordsOfTheProphet` (register): Addresses the player with ти.
+  - «Порожній король у короні з туману. Уста ллють срібні промови, що зникають ще до того, як їх почують. Невидимий друг над кожним плечем. Ти вводиш свій народ в оману, і ми тебе за це НЕНАВИДИМО.» → «Порожній король у короні з туману. Уста ллють срібні промови, що зникають ще до того, як їх почують. Невидимий друг над кожним плечем. Ви вводите свій народ в оману, і ми вас за це НЕНАВИДИМО.»
+- `Diplomacy.xml|FurtiveTribunal/DeclareWar/HollowWarlord` (register): Addresses the player with ти.
+  - «Діра в землі. Вдивишся в неї — і твої очі згорять. За нею — паралельний світ, що тоне в сльозах, полум’я, яке палає під солоними хвилями. І все через бездіяльність.» → «Діра в землі. Вдивитеся в неї — і ваші очі згорять. За нею — паралельний світ, що тоне в сльозах, полум’я, яке палає під солоними хвилями. І все через бездіяльність.»
+- `Diplomacy.xml|FurtiveTribunal/DeclareWar/InfiniteCount` (register): Addresses the player with ти; also the Tribunal is three, so Ми обидва (both of us) is wrong.
+  - «Ми обидва кладемо карту. Маг. Імператор. Суд. Ім’я твоє з’являється на вустах мовчазної, %1%. Чаша падає.» → «Кожна з нас кладе карту. Маг. Імператор. Суд. Ім’я ваше з’являється на вустах мовчазної, %1%. Чаша падає.»
+- `Diplomacy.xml|FurtiveTribunal/DeclareWar/PlatinumScion` (register): Addresses the player with ти.
+  - «Фенріс, Кханьяпа, Апоп. Твої предки, о Боже споживання. До падіння твій черв’ячий рід вже пронизував цей світ. Дозволь нам вирвати тебе.» → «Фенріс, Кханьяпа, Апоп. Ваші предки, о Боже споживання. До падіння ваш черв’ячий рід вже пронизував цей світ. Дозвольте нам вирвати вас.»
+- `Diplomacy.xml|FurtiveTribunal/DeclareWar/TwistedMother` (meaning): Twists and contorts became лізе з усіх сил (climbs with all its might), which makes no sense here.
+  - «родина лізе з усіх сил» → «родина звивається й викручується»
+- `Diplomacy.xml|FurtiveTribunal/DeclareWar/UntoldProphet` (meaning): The oracle dangles in the dark, it does not tremble.
+  - «він тремтить» → «він звисає»
+- `Diplomacy.xml|FurtiveTribunal/DemandAllianceTerminationWithThirdParty` (register): Addresses the player with ти.
+  - «Ти — подвійна зірка, нестійка й приречена через тяжіння, що пов’язує тебе із сусідом. Ми допоможемо тобі втекти, але лише якщо ти попросиш про це.» → «Ви — подвійна зірка, нестійка й приречена через тяжіння, що пов’язує вас із сусідом. Ми допоможемо вам втекти, але лише якщо ви попросите про це.»
+- `Diplomacy.xml|FurtiveTribunal/DemandAllianceWithThirdParty` (register): Addresses the player with ти.
+  - «Твій вплив розширюється, але хватка слабшає. Прийми нову траєкторію, прив’яжи до себе цю вільну зірку, і ти неминуче станеш центром усіх орбіт.» → «Ваш вплив розширюється, але хватка слабшає. Прийміть нову траєкторію, прив’яжіть до себе цю вільну зірку, і ви неминуче станете центром усіх орбіт.»
+- `Diplomacy.xml|FurtiveTribunal/DemandPaymentForDeal` (register): Addresses the player with ти.
+  - «Ти намагаєшся відтягнути нас від веління долі... але що можеш запропонувати натомість?» → «Ви намагаєтеся відтягнути нас від веління долі... але що можете запропонувати натомість?»
+- `Diplomacy.xml|FurtiveTribunal/DemandPeaceWithThirdParty` (register): Imperatives address the player with ти.
+  - «Смертельна зірка, якій судилося зіткнутися з темними небесними тілами... обери новий шлях і задовольняйся ним, перш ніж розгнівати їхніх страшних господарів.» → «Смертельна зірка, якій судилося зіткнутися з темними небесними тілами... оберіть новий шлях і задовольняйтеся ним, перш ніж розгнівати їхніх страшних господарів.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTradeAgreementTerminationWithThirdParty` (register): Addresses the player with ти.
+  - «Ти спілкуєшся з короткозорими, бездушними, зіпсованими. Тобі судилося набагато більше — варто лише звільнитися від їхнього тяжіння. Ми знаємо, що так і буде.» → «Ви спілкуєтеся з короткозорими, бездушними, зіпсованими. Вам судилося набагато більше — варто лише звільнитися від їхнього тяжіння. Ми знаємо, що так і буде.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTradeAgreementWithThirdParty` (register): Addresses the player with ти.
+  - «Самотня комета борознить космос, приречена лише розбитися об більші тіла. Щоб вижити, тобі доведеться узгодити свою долю з долею інших.» → «Самотня комета борознить космос, приречена лише розбитися об більші тіла. Щоб вижити, вам доведеться узгодити свою долю з долею інших.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTribute` (register): Addresses the player with ти; also Пари is a typo for Парі (a wager).
+  - «Випробування. Пари. Доказ твого права на існування. Не звертай гніву на нас, ми лише передвісники страшної неминучості.» → «Випробування. Парі. Доказ вашого права на існування. Не звертайте гніву на нас, ми лише передвісники страшної неминучості.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandHighAmount` (register): Addresses the player with ти.
+  - «Тобі доведеться віддати три чверті вмісту всіх сховищ.» → «Вам доведеться віддати три чверті вмісту всіх сховищ.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandLowAmount` (register): Imperative addresses the player with ти.
+  - «Подаруй нам знак своєї пошани.» → «Подаруйте нам знак своєї пошани.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandMaxAmount` (register): Addresses the player with ти.
+  - «Ми звільнимо тебе від хибної жадібності, позбавивши всього, чого ти прагнеш.» → «Ми звільнимо вас від хибної жадібності, позбавивши всього, чого ви прагнете.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTribute/DemandMediumAmount` (register): Addresses the player with ти.
+  - «Подаруй нам частину того, що тобі дороге.» → «Подаруйте нам частину того, що вам дороге.»
+- `Diplomacy.xml|FurtiveTribunal/DemandTroopWithdrawal` (register): Addresses the player with ти.
+  - «Твої солдати крадуться в тінях, не підозрюючи, що найкраще ми бачимо в темряві. Негайно відведи їх, інакше вони скоро виявлять, що ще бродить у мороці.» → «Ваші солдати крадуться в тінях, не підозрюючи, що найкраще ми бачимо в темряві. Негайно відведіть їх, інакше вони скоро виявлять, що ще бродить у мороці.»
+- `Diplomacy.xml|FurtiveTribunal/DemandWarAgainstThirdParty` (register): Addresses the player with ти; also the opening participle dangles and fate decreeing them prey was dropped.
+  - «Позначена карміновим клеймом, це буде наша наступна жертва. Ти приєднаєшся до нашого полювання?» → «Позначені карміновим клеймом, вони за велінням долі стануть нашою наступною жертвою. Ви приєднаєтеся до нашого полювання?»
+- `Diplomacy.xml|FurtiveTribunal/EndCall/Hostile` (register): Addresses the player with ти.
+  - «Ти даремно витрачаєш забагато наших благ. Повернися, коли захочеш слухати, або не повертайся зовсім.» → «Ви даремно витрачаєте забагато наших благ. Поверніться, коли захочете слухати, або не повертайтеся зовсім.»
+- `Diplomacy.xml|FurtiveTribunal/EndCall/Neutral` (register): Addresses the player with ти; also singleton is одинак elsewhere in this batch, not самітник.
+  - «Доля поверне тебе до нас, самітнику.» → «Доля поверне вас до нас, одинаку.»
+- `Diplomacy.xml|FurtiveTribunal/OfferAlliance` (register): Addresses the player with ти; also the first clause lost the sense that it is rare for all three of them to like anyone.
+  - «Не всім одразу хтось подобається, але ти виняткова особистість.» → «Рідко буває, щоб хтось сподобався нам усім, але ви виняткова особистість.»
+- `Diplomacy.xml|FurtiveTribunal/OfferGift` (register): Addresses the player with ти.
+  - «Доля може бути жорстокою, але може бути й доброю. Ти ж знаєш, що удача сліпа?» → «Доля може бути жорстокою, але може бути й доброю. Ви ж знаєте, що удача сліпа?»
+- `Diplomacy.xml|FurtiveTribunal/OfferGift/OfferLowAmount` (register): Addresses the player with ти.
+  - «Візьми це. Це лише частинка твоїх майбутніх багатств.» → «Візьміть це. Це лише частинка ваших майбутніх багатств.»
+- `Diplomacy.xml|FurtiveTribunal/OfferGift/OfferMediumAmount` (register): Addresses the player with ти.
+  - «Не надто багато й не надто мало. Саме стільки, скільки тобі потрібно.» → «Не надто багато й не надто мало. Саме стільки, скільки вам потрібно.»
+- `Diplomacy.xml|FurtiveTribunal/OfferMapSharing` (register): Addresses the player with ти; also оцінеш was misspelled.
+  - «Ось, спробуй частинку нашого темного бачення... ти ще більше нас оцінеш.» → «Ось, спробуйте частинку нашого темного бачення... ви ще більше нас оціните.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace` (grammar): Перестати cannot take an object, and the until-clause needs a perfective verb.
+  - «Перестанемо цей безглуздий фарс доти, поки Невблаганне не потребує свого.» → «Припинімо цей безглуздий фарс, доки Невблаганне не зажадає свого.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/Anchorite` (register): Addresses the player with ти; also Suns was translated as Сяйва instead of Сонця.
+  - «Сяйва ростуть і перетворюються на пил. Але ти все ще живеш. Що таке війна для такого, як ти?» → «Сонця ростуть і перетворюються на пил. Але ви все ще живете. Що таке війна для таких, як ви?»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/FallenSoldier` (register): Addresses the player with ти; gendered застряг and спокійний go plural.
+  - «Падай, піднімайся й падай знову. Ти застряг у замкнутому колі, яке нам не підвладне. Подолання сховане між світами. Відповідь тобі не сподобається — будь спокійний.» → «Падайте, піднімайтеся й падайте знову. Ви застрягли у замкнутому колі, яке нам не підвладне. Подолання сховане між світами. Відповідь вам не сподобається — будьте спокійні.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/HeartlessArtificer` (grammar): Натовп is masculine, so the verb must be розтоптав.
+  - «кого розтоптала натовп» → «кого розтоптав натовп»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/HollowWarlord` (register): Addresses the player with ти.
+  - «Порожня, порожня людина. Всім багатствам світу й гріхам не наповнити тебе. Зупинись, задумайся про своє падіння у пекло.» → «Порожня, порожня людина. Всім багатствам світу й гріхам не наповнити вас. Зупиніться, задумайтеся про своє падіння у пекло.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/HonorableAristocrat` (register): Addresses the player with ти.
+  - «Коронований, спи спокійно цієї ночі. Тепер ти можеш позбутися своєї війни. Жоден анархіст не завадить твоїм солодким снам...» → «Коронований, спіть спокійно цієї ночі. Тепер ви можете позбутися своєї війни. Жоден анархіст не завадить вашим солодким снам...»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/InfiniteCount` (register): Addresses the player with ти.
+  - «Крутишся, крутишся і крутишся. Більше, ніж знаєш.» → «Крутитеся, крутитеся і крутитеся. Більше, ніж знаєте.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/PlatinumScion` (register): Addresses the player with ти.
+  - «Князь Монет, твої груди порожні. Вони споживають усе, але порожнеча залишається. Припини свої труди, і вона закриється сама.» → «Князь Монет, ваші груди порожні. Вони споживають усе, але порожнеча залишається. Припиніть свої труди, і вона закриється сама.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/PracticalRomantic` (register): Imperative addresses the player with ти; also we shall speak in tongues again was garbled into за нас знову говоритимуть слова.
+  - «З романтиками потрібно говорити обережно. Макбет був романтиком і не послухав тієї трійці. Принеси нам мир, Романтику, і за нас знову говоритимуть слова.» → «З романтиками потрібно говорити обережно. Макбет був романтиком і не послухав тієї трійці. Принесіть нам мир, Романтику, і ми знову заговоримо мовами.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/RogueOperative` (register): Imperatives address the player with ти; also villain is лиходій not злодій, and перестати cannot take an object.
+  - «Злодій з усмішкою й гострими лацканами з’їв увесь світ, а потім заснув під своїм будинком, маючи намір повернутися, коли ми опинимося в достатньому відчаї. Перестань нашу ворожнечу, займися своїми проблемами.» → «Лиходій з усмішкою й гострими лацканами з’їв увесь світ, а потім заснув під своїм будинком, маючи намір повернутися, коли ми опинимося в достатньому відчаї. Припиніть нашу ворожнечу, займіться своїми проблемами.»
+- `Diplomacy.xml|FurtiveTribunal/OfferPeace/TwistedMother` (russianism): Семечко is a Russian word.
+  - «Семечко бога» → «Насіння бога»
+- `Diplomacy.xml|FurtiveTribunal/OfferTradeAgreement` (term): The omens are знаки elsewhere in this batch, and ознаки means characteristics.
+  - «Ознаки не брешуть» → «Знаки не брешуть»
+- `Diplomacy.xml|FurtiveTribunal/Praise` (register): Addresses the player with ти.
+  - «Чотири серця, два розуми, рухаються як одне. Ми троє піднімаємо тебе до зірок, %1%!» → «Чотири серця, два розуми, рухаються як одне. Ми троє піднімаємо вас до зірок, %1%!»
+- `Diplomacy.xml|FurtiveTribunal/Praise/MothersFavor` (typo): Infinitive набути used where the passive participle набуту is needed.
+  - «набути мудрість» → «набуту мудрість»
+- `Diplomacy.xml|FurtiveTribunal/Praise/Trapped` (register): switched to «ви»; also fixed russianisms «Шут»/«дергаючись», vocative «Жрице» and euphony «зі слонової»
+  - «Шут висить, дергаючись, на вежі з слонової кістки. Всередині жриця спостерігає, як світ крутиться й згорає. Жриця, не виходь. Загублені таємниці оточують тебе, чекають, щоб їх знайшли.» → «Блазень висить, сіпаючись, на вежі зі слонової кістки. Всередині жриця спостерігає, як світ крутиться й згорає. Жрице, не виходьте. Загублені таємниці оточують вас, чекають, щоб їх знайшли.»
+- `Diplomacy.xml|FurtiveTribunal/Praise/Undying` (register): switched to «ви»; also fixed participle «проклинаючого», wrong «невразливий» for stolid, and re-attached the cursing to the suns as in EN
+  - «Ти такий буденний, невразливий... і все ж щось торкнулося тебе, певне подолання, і тепер ти... інший. Світила загинуть раніше за тебе, проклинаючого холодну вакуумну смертельну жару.» → «Ви такі буденні, незворушні... і все ж щось торкнулося вас, певне подолання, і тепер ви... інші. Світила загинуть раніше за вас, проклинаючи в холодному вакуумі смертельної спеки.»
+- `Diplomacy.xml|FurtiveTribunal/RejectGift/RejectAmount` (register): switched to «ви»; also fixed participle «стикаючихся», russianism «Грохіт», and the ungrammatical «погане передвісник»
+  - «Грохіт стикаючихся комет, булькання крові та задушення, надгробна промова жуків, що гризуть кістки... Залиш свій дар собі, твоє майбутнє — вже достатньо погане передвісник.» → «Гуркіт комет, що стикаються, булькання крові та задушення, надгробна промова жуків, що гризуть кістки... Залиште свій дар собі, ваше майбутнє — вже достатньо лихий знак.»
+- `Diplomacy.xml|FurtiveTribunal/RejectPeaceWithThirdParty/RejectOutright` (register): switched to «ви»; also fixed the confused subject/object in «дряпають кігті паразити» and restored EN «our walls»
+  - «Хіба ти не чуєш, як у стінах дряпають кігті паразити? Лише коли в нашому домі холодно, тихо й темно, ми можемо по-справжньому відпочити.» → «Хіба ви не чуєте, як у наших стінах шкребуть кігті паразитів? Лише коли в нашому домі холодно, тихо й темно, ми можемо по-справжньому відпочити.»
+- `Diplomacy.xml|FurtiveTribunal/RejectPeaceWithThirdParty/RejectParty` (meaning): «Жадібний» means greedy, but EN names the Devourer
+  - «прибуття Жадібного» → «прибуття Ненаситного»
+- `Diplomacy.xml|FurtiveTribunal/RejectTradeAgreement` (register): switched to «ви»; also fixed russianism «до відвалу» and «Гучне ехо» where EN says hollow echoes
+  - «Гучне ехо — це єдине, чим до відвалу наповнені твої порожні скрині. Повернися, коли твоя цінність зросте.» → «Порожнє відлуння — це єдине, чим по вінця наповнені ваші порожні скрині. Поверніться, коли ваша цінність зросте.»
+- `Diplomacy.xml|FurtiveTribunal/RejectTribute/RejectAmount` (grammar): gender agreement: «річ» is feminine
+  - «лише одне з цих речей вічне» → «лише одна з цих речей вічна»
+- `Diplomacy.xml|FurtiveTribunal/RejectTroopWithdrawal` (register): switched to «ви»; also fixed russianism «слідують плану»
+  - «Ми всього лише актори на сцені, що слідують плану більш грандіозних істот. Тобі залишається тільки змиритися.» → «Ми всього лише актори на сцені, які діють за сценарієм величніших істот. Вам залишається тільки змиритися.»
+- `Diplomacy.xml|FurtiveTribunal/RejectWarAgainstThirdParty/RejectParty` (register): switched to «ви»; also fixed russianism «витікає з»
+  - «Конфлікт витікає з невігластва — а ми знаємо занадто багато, щоб потрапити в твої примітивні мережі.» → «Конфлікт випливає з невігластва — а ми знаємо занадто багато, щоб потрапити у ваші примітивні мережі.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptActionCancel` (register): switched to «ви»; also restored EN «Why» and the present tense (UK had past «вагався»)
+  - «Ти вагався? Зараз саме час розпалити полум’я.» → «Чому ви вагаєтеся? Зараз саме час розпалити полум’я.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptAllianceTerminationWithThirdParty/AskParty` (register): switched to «ви»; also fixed russianism «звено» and its agreement
+  - «Ланцюг міцний настільки, наскільки міцне його найслабше звено... І яке з них, на твою думку, я маю розірвати?» → «Ланцюг міцний настільки, наскільки міцна його найслабша ланка... І яку з них, на вашу думку, я маю розірвати?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptAllianceWithThirdParty/AcceptParty` (register): switched to «ви»; also fixed gender agreement «моє досконалість неповне»
+  - «Гідний вибір, який мені не спадав на думку. Ти безжально нагадуєш, що моє досконалість неповне.» → «Гідний вибір, який мені не спадав на думку. Ви безжально нагадуєте, що моя досконалість неповна.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptMapSharing` (register): switched to «ви»; also fixed the broken comparative (no «радше» before «ніж»)
+  - «Так, я візьмуся за роботу в своїх ливарнях, ніж за препарування твоїх земель — давай-но подивимось, що в тебе є...» → «Так, я радше візьмуся за роботу у своїх ливарнях, ніж за препарування ваших земель — дайте-но подивимось, що у вас є...»
+- `Diplomacy.xml|HeartlessArtificer/AcceptPraise` (russianism): «слідувати стопами» is a calque of the Russian idiom
+  - «слідувати моїми стопами» → «йти моїми слідами»
+- `Diplomacy.xml|HeartlessArtificer/AcceptWarAgainstThirdParty/AskParty` (russianism): «на ком» is the Russian locative form; Ukrainian is «на кому»
+  - «На ком би випробувати» → «На кому б випробувати»
+- `Diplomacy.xml|HeartlessArtificer/AdmitDefeat` (register): switched to «ви»; also fixed russianism «возвиситися»
+  - «Хіба ти не бачиш? Мої розробки... не можна зупиняти. Ми... ми повинні возвиситися...» → «Хіба ви не бачите? Мої розробки... не можна зупиняти. Ми... ми повинні піднестися...»
+- `Diplomacy.xml|HeartlessArtificer/AskForSupport/Chieftess` (register): switched to «ви»; also fixed russianism «доставить задоволення»
+  - «Мені неприємно визнавати слабкість такій, як ти. Але... можливо, тобі доставить задоволення моє смирення, і це буде достатньою платою за твою допомогу.» → «Мені неприємно визнавати слабкість таким, як ви. Але... можливо, вам принесе задоволення моє смирення, і це буде достатньою платою за вашу допомогу.»
+- `Diplomacy.xml|HeartlessArtificer/Condemn/LeaveNoManBehind` (register): switched to «ви»; also fixed «Як марнотратно твоя турбота», where an adverb modified a noun
+  - «Як марнотратно твоя турбота про плебейське життя.» → «Яка марнотратна ваша турбота про плебейське життя.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/Anchorite` (register): switched to «ви»; also fixed the non-word «досконаленні» and the vocative «Прибульцю»
+  - «Прибулець, ти чужий цьому світу. Твій народ — бельмо, виразка на його можливому досконаленні. Я повинна позбутися всіх вас.» → «Прибульцю, ви чужі цьому світу. Ваш народ — бельмо, виразка на його можливій досконалості. Я повинна позбутися всіх вас.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/Chieftess` (register): switched to «ви»; also fixed gender agreement «така бруд»/«Її» and the vocative «Вождине»
+  - «Вождиня. Ти зіпсована, неохайна. Я не допущу, щоб у моєму ідеальному світі була така бруд. Її потрібно стерти.» → «Вождине. Ви зіпсовані, неохайні. Я не допущу, щоб у моєму ідеальному світі був такий бруд. Його потрібно стерти.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/FurtiveTribunal` (grammar): «зламлю» is a Russian-shaped future; Ukrainian is «зламаю»
+  - «І зламлю віру» → «І зламаю віру»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/InfiniteCount` (register): switched to «ви»; also fixed «розтину», which is not a form of «розтяти»
+  - «О, тепер ти. Ти — скарб. Я віднесу тебе особисто, обережно, до моїх машин і розтину тебе, о, так повільно.» → «О, тепер ви. Ви — скарб. Я віднесу вас особисто, обережно, до моїх машин і препарую вас, о, так повільно.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/PlatinumScion` (register): switched to «ви»; also fixed the literal calque «Я довіряю, що»
+  - «Я довіряю, що ти очікував цього.» → «Гадаю, ви цього очікували.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/Zephon` (register): switched to «ви»; also fixed the vocative «машино»
+  - «Я захоплююся тобою, машина. Проте це не означає, що я не бачу потенціалу для покращення — як у твоїй роботі, так і в собі, коли я тебе усуну.» → «Я захоплююся вами, машино. Проте це не означає, що я не бачу потенціалу для покращення — як у вашій роботі, так і в собі, коли я вас усуну.»
+- `Diplomacy.xml|HeartlessArtificer/DemandAllianceTerminationWithThirdParty` (register): switched to «ви»; also fixed «тьмяніти», which is intransitive and cannot take an object
+  - «Позбудься вузлів... не можна дозволяти чужим іржавим оковам стримувати тебе, тьмяніти твої власні якості.» → «Позбудьтеся вузлів... не можна дозволяти чужим іржавим оковам стримувати вас, затьмарювати ваші власні якості.»
+- `Diplomacy.xml|HeartlessArtificer/DemandPaymentForDeal` (register): switched to «ви»; also fixed russianism «слідувала твоєму задуму»
+  - «Твій запит далекий від ідеалу. Якщо ти хочеш, щоб я слідувала твоєму задуму, доведеться компенсувати його неефективність.» → «Ваш запит далекий від ідеалу. Якщо ви хочете, щоб я дотримувалася вашого задуму, доведеться компенсувати його неефективність.»
+- `Diplomacy.xml|HeartlessArtificer/DemandTroopWithdrawal` (register): switched to «ви»; also removed the Russian particle in «я-то»
+  - «А я-то думала, що мене нічого не стримує. Твої війська занадто близько. Відведи їх, або вони стануть моїми піддослідними.» → «А я думала, що мене нічого не стримує. Ваші війська занадто близько. Відведіть їх, або вони стануть моїми піддослідними.»
+- `Diplomacy.xml|HeartlessArtificer/EndCall/Neutral` (register): switched to «ви»; also fixed russianism «Прийдеться»
+  - «Чуєш крики? І я теж ні. Хм-м... Прийдеться почати нову партію.» → «Чуєте крики? І я теж ні. Хм-м... Доведеться почати нову партію.»
+- `Diplomacy.xml|HeartlessArtificer/FirstContact` (register): switched to «ви»; also fixed gender agreement «моє нове перешкода» and «якщо» where EN says when
+  - «Ах так, моє нове перешкода. Вітаю. Тобі слід дізнатися, хто я — з ким ти борешся.<br/><br/>Я шукачка досконалості — особливо людської форми. Обраний мною шлях досить прямолінійний, але вимагає безпрецедентної самовіддачі. Радій, якщо почуєш крики, адже так ти зрозумієш, що моя імперія стає ближчою до ідеалу.» → «Ах так, моя нова перешкода. Вітаю. Вам слід дізнатися, хто я — з ким ви боретеся.<br/><br/>Я шукачка досконалості — особливо людської форми. Обраний мною шлях досить прямолінійний, але вимагає безпрецедентної самовіддачі. Радійте, коли почуєте крики, адже так ви зрозумієте, що моя імперія стає ближчою до ідеалу.»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift/OfferMaxAmount` (register): switched to «ви»; also fixed russianism «трудами»
+  - «Радій, адже це все, чим я володію! Як ще мені показати, що я так само захоплена твоїми великими трудами, як і своїми?!» → «Радійте, адже це все, чим я володію! Як ще мені показати, що я так само захоплена вашими великими справами, як і своїми?!»
+- `Diplomacy.xml|HeartlessArtificer/OfferMapSharing` (register): switched to «ви»; also fixed russianism «Більше за все»
+  - «Більше за все я бажаю зосередитися на роботі, але матеріальні потреби вимагають постійної розвідки. Давай обміняємося картами» → «Найбільше я бажаю зосередитися на роботі, але матеріальні потреби вимагають постійної розвідки. Давайте обміняємося картами»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/FurtiveTribunal` (grammar): gender agreement: «триєдність» is feminine
+  - «таке містраїстське триєдність» → «така мітраїстська триєдність»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/HeartlessArtificer` (meaning): EN says the forces are at a standstill, not that they are cornered
+  - «Наші сили загнані в кут.» → «Наші сили зайшли в глухий кут.»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/PracticalRomantic` (register): switched to «ви»; also fixed the broken clause «щоб ти присутній», which had no verb
+  - «Я влаштовую бал і хотіла б, щоб ти присутній. Може, навіть прочитав свої вірші. Спершу тобі, звісно, потрібно буде відвести війська.» → «Я влаштовую бал і хотіла б, щоб ви були присутні. Може, навіть прочитали свої вірші. Спершу вам, звісно, потрібно буде відвести війська.»
+- `Diplomacy.xml|HeartlessArtificer/Praise/WeWhoAreAboutToDie` (meaning): EN is about broadcasting the war on air, not preaching it
+  - «Проповідування війни» → «Трансляція війни»
+- `Diplomacy.xml|HeartlessArtificer/RejectAllianceTerminationWithThirdParty/RejectOutright` (register): switched to «ви»; also fixed calque «з твоєї сторони»
+  - «Дурно з твоєї сторони думати» → «Дурно з вашого боку думати»
+- `Diplomacy.xml|HeartlessArtificer/RejectAllianceWithThirdParty/RejectOutright` (register): switched to «ви»; also fixed the masculine self-description for a female speaker
+  - «Я видатний архітектор — чому ти думаєш, що я дозволю тобі будувати плани за мене?!» → «Я видатна архітекторка — чому ви думаєте, що я дозволю вам будувати плани за мене?!»
+- `Diplomacy.xml|HeartlessArtificer/RejectPeaceWithThirdParty/RejectOutright` (register): switched to «ви»; also replaced «безнравними», which is not a Ukrainian word
+  - «Ти вважаєш мої методи безнравними» → «Ви вважаєте мої методи огидними»
+- `Diplomacy.xml|HeartlessArtificer/RejectTribute/RejectOutright` (register): switched to «ви»; also fixed «Вражаюче», which reverses EN Amusing and is a Russian-style participle
+  - «Ти вимагаєш від мене данину? Вражаюче! Тобі швидше слід було б благати мене про допомогу» → «Ви вимагаєте від мене данину? Кумедно! Вам швидше слід було б благати мене про допомогу»
+- `Diplomacy.xml|HollowWarlord/AcceptAllianceTermination` (register): Switched «ти» to «ви»; also fixed «Прольємо» to «Проллємо».
+  - «А, зрозумів! Ти хочеш війни зі МНОЮ? Так! Випробуємо нашу лють! Нашу витривалість! Прольємо кров!» → «А, зрозумів! Ви хочете війни зі МНОЮ? Так! Випробуємо нашу лють! Нашу витривалість! Проллємо кров!»
+- `Diplomacy.xml|HollowWarlord/AcceptAllianceWithThirdParty/AskParty` (russianism): «тяжковаговик» is a calque of Russian «тяжеловес»; Ukrainian is «важковаговик».
+  - «тяжковаговик» → «важковаговик»
+- `Diplomacy.xml|HollowWarlord/AcceptPeace` (register): Switched «ти» to «ви»; also fixed the russianism «Дай-ка» and the two-dot ellipsis.
+  - «Дай-ка я проясню. Я цього не хочу. Я вічно буду ненавидіти тебе за ці слова, але.. Ну гаразд. Мир.» → «Дайте-но я проясню. Я цього не хочу. Я вічно буду ненавидіти вас за ці слова, але... Ну гаразд. Мир.»
+- `Diplomacy.xml|HollowWarlord/AcceptTroopWithdrawal` (meaning): EN says the troops were pulling back; «стримувалися» means they were holding back, not withdrawing.
+  - «Вони все одно стримувалися.» → «Вони все одно відходили.»
+- `Diplomacy.xml|HollowWarlord/AskForProposals` (register): Switched «ти» to «ви»; also fixed the broken agreement «якимось своїм думкою».
+  - «Ще якимось своїм думкою поділишся?» → «Ще якоюсь своєю думкою поділитеся?»
+- `Diplomacy.xml|HollowWarlord/AskForSupport/Zephon` (register): Switched «ти» to «ви»; also fixed the missing vocative «Залізяко».
+  - «Ти мені завжди подобався, Залізяка. Весь з відмінних запчастин, хромований, прямо як моя «Бесс». А що ти про мене думаєш?» → «Ви мені завжди подобалися, Залізяко. Весь з відмінних запчастин, хромований, прямо як моя «Бесс». А що ви про мене думаєте?»
+- `Diplomacy.xml|HollowWarlord/Condemn/DarkOmen` (register): Switched «ти» to «ви»; also restored the dropped «before the gates get shut» and fixed «психи» (psychos) for EN psychics.
+  - «Якщо чоловік хоче переможно проїхатися містом, йому не дуже-то подобається, коли чортові психи псують сюрприз. Це, мати твою, чесно, чи що?» → «Якщо чоловік хоче захопити місто, доки не зачинили ворота, йому не дуже подобається, коли чортові екстрасенси псують сюрприз. Це, мати вашу, чесно, чи що?»
+- `Diplomacy.xml|HollowWarlord/Condemn/Gluttony` (register): Switched «ти» to «ви»; also fixed the russianism «слинки» to «слинка».
+  - «Ти людина чи величезний шніцель на ніжках? У пустелі ти й дня не протягнеш... Ей, у тебе що, слинки потекли при одному слові «шніцель»?» → «Ви людина чи величезний шніцель на ніжках? У пустелі ви й дня не протягнете... Ей, у вас що, слинка потекла при одному слові «шніцель»?»
+- `Diplomacy.xml|HollowWarlord/Condemn/MilitaryBackground` (register): Switched «ти» to «ви»; also fixed the agreement «своєю гівняною життям».
+  - «Ха! Ти просто хлопчик для биття! Носиш броню і гармати під колір трусів, стрибаєш, тільки тобі скажуть стрибати. Насолоджуйся своєю гівняною життям.» → «Ха! Ви просто хлопчик для биття! Носите броню і гармати під колір трусів, стрибаєте, тільки вам скажуть стрибати. Насолоджуйтеся своїм гівняним життям.»
+- `Diplomacy.xml|HollowWarlord/CondemnCityDestruction` (grammar): «цей місто» does not agree; «місто» is neuter.
+  - «цей місто» → «це місто»
+- `Diplomacy.xml|HollowWarlord/CondemnInterferenceAttempt` (register): Switched «ти» to «ви»; also fixed the russianism «Звали» to «Звалюйте».
+  - «Звали, нікчемо. Навіть слухати твої ухиляння не хочу.» → «Звалюйте, нікчемо. Навіть слухати ваші ухиляння не хочу.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/Anchorite` (register): Switched «ти» to «ви»; also fixed the missing vocative «дідку».
+  - «Твоя війна мене створила, дідок. Звільнила мене від сраної рутини, зробила мене великим собою. Справедливо буде відплатити тобі тією ж... можливістю особистісного зростання.» → «Ваша війна мене створила, дідку. Звільнила мене від сраної рутини, зробила мене великим собою. Справедливо буде відплатити вам тією ж... можливістю особистісного зростання.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/PracticalRomantic` (register): Switched the imperative to «ви»; the last line also replaced EN "It comes for you" with an unrelated insult.
+  - «Кістки червоні, жорстокість синя, війна — найкраща річ,<br/>Здихай, відро.» → «Кістки червоні, жорстокість синя, війна — найкраща річ,<br/>Вона прийде по вас.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/RogueOperative` (register): Switched «ти» to «ви»; also fixed the russianisms «копиш» and «вскрити».
+  - «Мені трохи набридло, що ти копиш усе це лайно й ховаєшся у своїй норі. Доведеться її вскрити, витягти тебе й змусити поділитися.» → «Мені трохи набридло, що ви збираєте все це лайно й ховаєтеся у своїй норі. Доведеться її розкрити, витягти вас і змусити поділитися.»
+- `Diplomacy.xml|HollowWarlord/DemandTribute` (register): Switched the imperative to «ви»; also fixed the russianism «падшого» to «полеглого».
+  - «Данина! Золота для падшого короля! Ха-ха! Давай, давай.» → «Данина! Золота для полеглого короля! Ха-ха! Давайте, давайте.»
+- `Diplomacy.xml|HollowWarlord/DemandWarAgainstThirdParty` (register): Switched «ти» to «ви»; also fixed the Russian word «тряпка».
+  - «Як взагалі можна відмовлятися від війни? Ти що, тряпка? Давай, бийся!» → «Як взагалі можна відмовлятися від війни? Ви що, ганчірка? Давайте, бийтеся!»
+- `Diplomacy.xml|HollowWarlord/FirstContact` (register): Switched «ти» to «ви»; also restored EN "It just crushed you" (was «Повна нудьга»), fixed the calque «Як на тебе» and the russianism «жижі».
+  - «Що? Чого тобі? Як на тебе, я схильний до балачок? Я ж дивлюся в прямому ефірі, як мої хлопці обстрілюють твій...<br/><br/>Гаразд, гаразд. Поговоримо. Я %1%. І тут для мене... справжній рай!<br/><br/>Пам’ятаєш той старий світ з його бетоном, кредитами, бюрократами, звітами, розкладами... Пф-ф! Повна нудьга.<br/><br/>Сідай на свій байк, ковтни кольорової жижі, розстріляй будь-кого, хто стоїть на твоєму шляху.<br/><br/>Ти ж не стоїш на моєму шляху, правда?» → «Що? Чого вам? Я що, схожий на любителя побалакати? Я ж дивлюся в прямому ефірі, як мої хлопці обстрілюють ваш...<br/><br/>Гаразд, гаразд. Поговоримо. Я %1%. І тут для мене... справжній рай!<br/><br/>Пам’ятаєте той старий світ з його бетоном, кредитами, бюрократами, звітами, розкладами... Пф-ф! Він же просто вас розчавив.<br/><br/>Сідайте на свій байк, ковтніть кольорової бурди, розстріляйте будь-кого, хто стоїть на вашому шляху.<br/><br/>Ви ж не стоїте на моєму шляху, правда?»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/Anchorite` (register): Switched «ти» to «ви»; also fixed the wrong imperative «постояйте», the russianism «сбігаю» and «покрупніше».
+  - «Якось не в кайф битися з твоїми хлопцями. Ви тут постояйте, а я сбігаю за гарматами покрупніше.» → «Якось не в кайф битися з вашими хлопцями. Ви тут постійте, а я збігаю за більшими гарматами.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/InfiniteCount` (register): Switched «ти» to «ви»; also fixed the missing vocative «Дідусю» and the adverb «якось» used with an instrumental.
+  - «Дідусь, ти стаєш якось нудним. Хотів би спробувати свій кулак на комусь міцнішому. Розумієш?» → «Дідусю, з вами стає якось нудно. Хотів би спробувати свій кулак на комусь міцнішому. Розумієте?»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/RogueOperative` (typo): «побиюся» is missing the apostrophe.
+  - «побиюся» → «поб’юся»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/TwistedMother` (register): Switched «ти» to «ви»; also fixed the russianism «послідую».
+  - «Може, послідую твоїй пораді. Знайду собі іншу дорогу.» → «Може, послухаюся вашої поради. Знайду собі іншу дорогу.»
+- `Diplomacy.xml|HollowWarlord/Praise/Tactics` (register): Switched the imperative to «ви»; also fixed «вождіння», which is the Russian word for driving, not leadership.
+  - «Оце вождіння. Уяви, на що була б здатна моя орда з таким баченням.» → «Оце лідерство. Уявіть, на що була б здатна моя орда з таким баченням.»
+- `Diplomacy.xml|HollowWarlord/RejectTradeAgreement` (russianism): «грібаний» is a Russian borrowing; Ukrainian is «довбаний».
+  - «грібаний» → «довбаний»
+- `Diplomacy.xml|HonorableAristocrat/AcceptPeaceWithThirdParty/AskParty` (register): Switched «ти» to «ви»; also fixed the russianism «від чиєї особи» to «від чийого імені».
+  - «Ти застаєш мене зненацька, коли я ситий! Від чиєї особи ти просиш миру?» → «Ви застаєте мене зненацька, коли я ситий! Від чийого імені ви просите миру?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreement` (grammar): «потребувати» takes the genitive, not «ні в чому».
+  - «ні в чому не потребують» → «нічого не потребують»
+- `Diplomacy.xml|HonorableAristocrat/AcceptWarAgainstThirdParty/AskParty` (russianism): «нанести удар» is a calque; Ukrainian is «завдати удару».
+  - «не наніс удар» → «не завдав удару»
+- `Diplomacy.xml|HonorableAristocrat/AskForSupport/Zephon` (register): Switched «ти» to «ви»; also restored EN "honour my debts", which had become «виконувати обов’язки», and the link "To do this".
+  - «Машино. Ти краще за інших розумієш важливість протоколів. Правил. Я зобов’язаний виконувати обов’язки. Але мені потрібна допомога.» → «Машино. Ви краще за інших розумієте важливість протоколів. Правил. Я зобов’язаний сплачувати свої борги. Для цього мені потрібна допомога.»
+- `Diplomacy.xml|HonorableAristocrat/Condemn/Abhorrent` (register): Switched «ти» to «ви»; also fixed «сніданок» (breakfast) for EN supper.
+  - «Я... е-м-м... Гм-гм... Я не можу дивитися на тебе й утримати всередині навіть легкий сніданок. Ти викликаєш надто марнотратні відчуття!» → «Я... е-м-м... Гм-гм... Я не можу дивитися на вас і утримати всередині навіть легку вечерю. Ви викликаєте надто марнотратні відчуття!»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/FurtiveTribunal` (meaning): «цнотлива романтика у плоті» renders EN "chaste romance indeed" as "in the flesh", which contradicts "chaste".
+  - «цнотлива романтика у плоті» → «справді цнотлива романтика»
+- `Diplomacy.xml|MajorImpact/AffectionOpposite` (grammar): Verb must agree with the feminine subject «відсутність».
+  - «значно вплинуло відсутність» → «значно вплинула відсутність»
+- `Diplomacy.xml|MajorImpact/ThirdPartyAffectionOpposite` (grammar): Verb must agree with the feminine subject «відсутність».
+  - «значно вплинуло відсутність» → «значно вплинула відсутність»
+- `Diplomacy.xml|RejectCall/Friendly` (gender): Masculine «зайнятий» breaks for female leaders inserted into %1%; use a gender-neutral wording.
+  - «зараз зайнятий і ввічливо завершує розмову» → «зараз має інші справи і ввічливо завершує розмову»
+- `Diplomacy.xml|RejectCall/Neutral` (gender): Masculine «зайнятий» breaks for female leaders inserted into %1%; use a gender-neutral wording.
+  - «зараз зайнятий» → «зараз має інші справи»
+- `Diplomacy.xml|UntrustworthyHint` (typo): «год.» reads as hours; the English says turns, and the sibling entry uses «ходів».
+  - «наступних %1% год.» → «наступних %1% ходів.»
+
+## low (387)
+
+- `Diplomacy.xml|AllianceHint` (russianism): Russian-style active participle.
+  - «підсилюючими здібностями» → «підсилювальними здібностями»
+- `Diplomacy.xml|Anchorite/AcceptAllianceTermination` (register): Address the player as «ви».
+  - «Час безцінний. Неминуча катастрофа наближається до тебе. Примиритися перед смертю.» → «Час безцінний. Неминуча катастрофа наближається до вас. Примиритися перед смертю.»
+- `Diplomacy.xml|Anchorite/AcceptCondemn` (register): Address the player as «ви».
+  - «Усвідомлювати, що ти думаєш, що я міг би бути іншим. Відчувати вдячність за це.» → «Усвідомлювати, що ви думаєте, що я міг би бути іншим. Відчувати вдячність за це.»
+- `Diplomacy.xml|Anchorite/AcceptMapSharing` (register): Address the player as «ви».
+  - «Знати — легко. Але без мудрості... це буде твоїм крахом.» → «Знати — легко. Але без мудрості... це буде вашим крахом.»
+- `Diplomacy.xml|Anchorite/AcceptPaymentForDeal/AskAmount` (register): Address the player as «ви».
+  - «Не чекати твоєї довіри... Робити це, щоб заручитися твоєю підтримкою.» → «Не чекати вашої довіри... Робити це, щоб заручитися вашою підтримкою.»
+- `Diplomacy.xml|Anchorite/AcceptPeaceWithThirdParty/AcceptParty` (register): Address the player as «ви».
+  - «Приймати. Бути примирителем, як ти...» → «Приймати. Бути примирителем, як ви...»
+- `Diplomacy.xml|Anchorite/AcceptPeaceWithThirdParty/AskParty` (register): Address the player as «ви».
+  - «Розмірковувати, поки ти створюєш гармонію. Запитувати... хто змилується над нами?» → «Розмірковувати, поки ви створюєте гармонію. Запитувати... хто змилується над нами?»
+- `Diplomacy.xml|Anchorite/AcceptTradeAgreement` (register): Address the player as «ви».
+  - «Дякувати тобі. Знати, що в акринів залишилося небагато. Віддати тобі тисячоліття вдячності.» → «Дякувати вам. Знати, що в акринів залишилося небагато. Віддати вам тисячоліття вдячності.»
+- `Diplomacy.xml|Anchorite/AcceptTradeAgreementTermination` (register): Address the player as «ви».
+  - «Шкодувати про недовговічність твоєї милості. Дякувати тобі за допомогу у відновленні акринського народу.» → «Шкодувати про недовговічність вашої милості. Дякувати вам за допомогу у відновленні акринського народу.»
+- `Diplomacy.xml|Anchorite/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty` (register): Address the player as «ви».
+  - «Не розуміти. Приймати мудрість. Дякувати тобі.» → «Не розуміти. Приймати мудрість. Дякувати вам.»
+- `Diplomacy.xml|Anchorite/AcceptTribute/AskAmount` (register): Address the player as «ви».
+  - «Не мати нічого... Вважати, що й ти також. Дізнатися кількість, яку ти просиш?» → «Не мати нічого... Вважати, що й ви також. Дізнатися кількість, яку ви просите?»
+- `Diplomacy.xml|Anchorite/AcceptWarAgainstThirdParty/AcceptParty` (register): Address the player as «ви»; the entry already mixed «ти» and «ви».
+  - «Не забувати, чому це наша кінцева мета — ваша Земля. Щоб сподіватися на інше майбутнє, ми з тобою повинні завершити наше похмуре призначення.» → «Не забувати, чому це наша кінцева мета — ваша Земля. Щоб сподіватися на інше майбутнє, ми з вами повинні завершити наше похмуре призначення.»
+- `Diplomacy.xml|Anchorite/AdmitDefeat` (register): Address the player as «ви»; also replaces the russianism «слідувати голосу».
+  - «Прожити ціле життя, вивчаючи загадки пустелі. Пізнати вічне життя, силу. Слідувати голосу, що прийшов із зірок. Відмовитися від усього нашого життя, нашої цивілізації. Подорожувати цілу вічність. Сюди, до такого жалюгідного кінця. Прийняти цей кінець з гідністю та смиренням. Дякувати тобі.» → «Прожити ціле життя, вивчаючи загадки пустелі. Пізнати вічне життя, силу. Іти за голосом, що прийшов із зірок. Відмовитися від усього нашого життя, нашої цивілізації. Подорожувати цілу вічність. Сюди, до такого жалюгідного кінця. Прийняти цей кінець з гідністю та смиренням. Дякувати вам.»
+- `Diplomacy.xml|Anchorite/Condemn` (register): Address the player as «ви».
+  - «Хвилюватися через шлях, яким ти маєш йти. До таких темних земель.» → «Хвилюватися через шлях, яким ви маєте йти. До таких темних земель.»
+- `Diplomacy.xml|Anchorite/Condemn/AgelessHunger` (register): Address the player as «ви»; also replaces the russianism «слідує за».
+  - «Знати, що смерть слідує за тобою. Знати, що ти можеш покінчити з цим сам.» → «Знати, що смерть іде за вами. Знати, що ви можете покінчити з цим самі.»
+- `Diplomacy.xml|Anchorite/Condemn/Immoral` (register): Address the player as «ви».
+  - «Знати мораль, знати страждання, продовжувати все одно. Бачити зло в таких, як ти, навіть без справжнього правосуддя.» → «Знати мораль, знати страждання, продовжувати все одно. Бачити зло в таких, як ви, навіть без справжнього правосуддя.»
+- `Diplomacy.xml|Anchorite/CondemnInterferenceAttempt` (register): Address the player as «ви».
+  - «Знати твою підступність ще раніше за тебе. Вживати заходів, щоб її пом’якшити. Іноді дозволяти їй бути.» → «Знати вашу підступність ще раніше за вас. Вживати заходів, щоб її пом’якшити. Іноді дозволяти їй бути.»
+- `Diplomacy.xml|Anchorite/DeclareWar/FallenSoldier` (omission): "with you" is dropped.
+  - «про її постійність поруч» → «про її постійність поруч із вами»
+- `Diplomacy.xml|Anchorite/DeclareWar/HeartlessArtificer` (register): Address the player as «ви».
+  - «Ненавидіти тебе. Не знати втіхи в твоєму порожньому серці. Знати, що навіть так ти важлива для того, що гряде. Боятися, що без реалізації ти маєш бути ліквідована.» → «Ненавидіти вас. Не знати втіхи у вашому порожньому серці. Знати, що навіть так ви важливі для того, що гряде. Боятися, що без реалізації ви маєте бути ліквідовані.»
+- `Diplomacy.xml|Anchorite/DeclareWar/HollowWarlord` (register): Address the player as «ви».
+  - «Захоплюватися твоєю відданістю теперішньому. Ненавидіти теперішнє, яке ти створюєш. Знати, що заради всіх, хто населяє це місце, ти маєш бути усунений.» → «Захоплюватися вашою відданістю теперішньому. Ненавидіти теперішнє, яке ви створюєте. Знати, що заради всіх, хто населяє це місце, ви маєте бути усунені.»
+- `Diplomacy.xml|Anchorite/DeclareWar/HonorableAristocrat` (register): Address the player as «ви».
+  - «Бачити твої мережі, твої зв’язки. Знати, що в цьому твоя цінність, твоє багатство — не в розкоші, не в минущому смаку делікатесів. Діяти зараз, на випадок якщо твоя частина ще не реалізована і ти становиш загрозу.» → «Бачити ваші мережі, ваші зв’язки. Знати, що в цьому ваша цінність, ваше багатство — не в розкоші, не в минущому смаку делікатесів. Діяти зараз, на випадок якщо ваша частина ще не реалізована і ви становите загрозу.»
+- `Diplomacy.xml|Anchorite/DeclareWar/ImperiousExonaut` (register): Address the player as «ви».
+  - «Щоб відчути твою ворожість, як вона відлунює вперед і назад крізь час. Щоб збагнути, що має статися.» → «Щоб відчути вашу ворожість, як вона відлунює вперед і назад крізь час. Щоб збагнути, що має статися.»
+- `Diplomacy.xml|Anchorite/DeclareWar/InfiniteCount` (register): Address the player as «ви».
+  - «Шкодувати про твою заплутаність. Знати, що розплутування — не для таких, як я. Вдатися до олександрійської техніки. Розрубати.» → «Шкодувати про вашу заплутаність. Знати, що розплутування — не для таких, як я. Вдатися до олександрійської техніки. Розрубати.»
+- `Diplomacy.xml|Anchorite/DeclareWar/PlatinumScion` (register): Address the player as «ви».
+  - «Співчувати. Але знати цінність сутності. Відмову рости. Знати, що ВОНО любить тебе за це. Чи ревнощі керують моїми діями?» → «Співчувати. Але знати цінність сутності. Відмову рости. Знати, що ВОНО любить вас за це. Чи ревнощі керують моїми діями?»
+- `Diplomacy.xml|Anchorite/DeclareWar/RogueOperative` (register): Address the player as «ви».
+  - «Розуміти іронію. Думати, що твої навички можна вважати передовими. Дражнити з легкою усмішкою. Знати, що твоя цінність прихована всередині тебе. Діяти зараз, відрізати шанс на невдачу.» → «Розуміти іронію. Думати, що ваші навички можна вважати передовими. Дражнити з легкою усмішкою. Знати, що ваша цінність прихована всередині вас. Діяти зараз, відрізати шанс на невдачу.»
+- `Diplomacy.xml|Anchorite/DeclareWar/SyncreticDeva` (register): Address the player as «ви».
+  - «Щоб побачити твою істину. Щоб полюбити тебе за неї. Щоб усвідомити, що це понад нас із тобою. Щоб благати прощення в цій нескінченній миті.» → «Щоб побачити вашу істину. Щоб полюбити вас за неї. Щоб усвідомити, що це понад нас із вами. Щоб благати прощення в цій нескінченній миті.»
+- `Diplomacy.xml|Anchorite/DeclareWar/TwistedMother` (register): Address the player as «ви».
+  - «Дивитися на крах мого народу. Бачити смерть наших вірувань. Чути крики загубленого життя. Пізнавати все це в тобі!» → «Дивитися на крах мого народу. Бачити смерть наших вірувань. Чути крики загубленого життя. Пізнавати все це у вас!»
+- `Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandMaxAmount` (register): Address the player as «ви».
+  - «Просити все, що маєш.» → «Просити все, що маєте.»
+- `Diplomacy.xml|Anchorite/DemandPaymentForDeal/DemandMediumAmount` (register): Address the player as «ви».
+  - «Просити поділитися. Розділити з нами те, що маєш.» → «Просити поділитися. Розділити з нами те, що маєте.»
+- `Diplomacy.xml|Anchorite/DemandTradeAgreementTerminationWithThirdParty` (register): Address the player as «ви».
+  - «Знати, що ти кращий за це. Вечеряти з ворогами, ділити хліб.» → «Знати, що ви кращі за це. Вечеряти з ворогами, ділити хліб.»
+- `Diplomacy.xml|Anchorite/DemandTradeAgreementWithThirdParty` (register): Address the player as «ви».
+  - «Ділитися з іншими тим, що маєш — означає примножувати це. Не давня мудрість — сучасна практичність.» → «Ділитися з іншими тим, що маєте — означає примножувати це. Не давня мудрість — сучасна практичність.»
+- `Diplomacy.xml|Anchorite/DemandTribute/DemandHighAmount` (register): Address the player as «ви».
+  - «Підозрювати, що я високо цінуюсь у твоїх очах.» → «Підозрювати, що я високо цінуюсь у ваших очах.»
+- `Diplomacy.xml|Anchorite/DemandTribute/DemandLowAmount` (register): Address the player as «ви».
+  - «Знати, що я лише піщинка у твоєму світі, і просити відповідну винагороду.» → «Знати, що я лише піщинка у вашому світі, і просити відповідну винагороду.»
+- `Diplomacy.xml|Anchorite/DemandTribute/DemandMaxAmount` (register): Address the player as «ви».
+  - «Віддати все, що маєш, щоб стати тим, ким я був колись — у пустелі, не маючи нічого.» → «Віддати все, що маєте, щоб стати тим, ким я був колись — у пустелі, не маючи нічого.»
+- `Diplomacy.xml|Anchorite/DemandTroopWithdrawal` (register): Address the player as «ви»; also fixes the tautology «терпіти нас нестерпно» and "request" rendered as «Запропонувати».
+  - «Знати, що терпіти нас нестерпно. Запропонувати, щоб твої війська залишили наші скромні володіння.» → «Знати, що наша присутність нестерпна. Просити, щоб ваші війська залишили наші скромні володіння.»
+- `Diplomacy.xml|Anchorite/EndCall/Friendly` (register): Address the player as «ви».
+  - «Зникати... Я знаю, що на тебе спирається майбутнє мого народу.» → «Зникати... Я знаю, що на вас спирається майбутнє мого народу.»
+- `Diplomacy.xml|Anchorite/OfferGift/OfferMediumAmount` (register): Address the player as «ви».
+  - «Віддати більше тобі... спадкоємцю нашого призначення.» → «Віддати більше вам... спадкоємцю нашого призначення.»
+- `Diplomacy.xml|Anchorite/OfferMapSharing` (register): Address the player as «ви».
+  - «Відправляти розвідників далеко і широко, щоб виявити приховану загрозу. Допоможеш нам дослідити їхні знахідки?» → «Відправляти розвідників далеко і широко, щоб виявити приховану загрозу. Допоможете нам дослідити їхні знахідки?»
+- `Diplomacy.xml|Anchorite/OfferPeace` (register): Address the player as «ви», imperatives included.
+  - «Благаю тебе! Виріши наш конфлікт і зверни увагу на справжнього ворога!» → «Благаю вас! Вирішіть наш конфлікт і зверніть увагу на справжнього ворога!»
+- `Diplomacy.xml|Anchorite/OfferPeace/FallenSoldier` (register): Address the player as «ви».
+  - «Знати, що ти страждаєш заради свого народу — турбуватися про свій. Благаю зупинитися.» → «Знати, що ви страждаєте заради свого народу — турбуватися про свій. Благаю зупинитися.»
+- `Diplomacy.xml|Anchorite/OfferPeace/HonorableAristocrat` (register): Address the player as «ви».
+  - «Щоб стати частиною твоєї мережі, а не вмирати з голоду назовні. Щоб сподіватися, що ти зважишся на мир.» → «Щоб стати частиною вашої мережі, а не вмирати з голоду назовні. Щоб сподіватися, що ви зважитеся на мир.»
+- `Diplomacy.xml|Anchorite/OfferPeace/RogueOperative` (register): Address the player as «ви».
+  - «Не бажати нічого з того, чим ти володієш. Самому мати так мало. Замислитися... Можливо, ти залишиш війни для багатих і впливових?» → «Не бажати нічого з того, чим ви володієте. Самому мати так мало. Замислитися... Можливо, ви залишите війни для багатих і впливових?»
+- `Diplomacy.xml|Anchorite/OfferPeace/SyncreticDeva` (register): Address the player as «ви».
+  - «Щоб бути вдячним за твоє милосердя. Щоб плекати надію на твою поблажливість.» → «Щоб бути вдячним за ваше милосердя. Щоб плекати надію на вашу поблажливість.»
+- `Diplomacy.xml|Anchorite/OfferPeace/TwistedMother` (register): Address the player as «ви».
+  - «Шкодувати тебе. Дати тобі час на усвідомлення.» → «Шкодувати вас. Дати вам час на усвідомлення.»
+- `Diplomacy.xml|Anchorite/OfferTradeAgreement` (register): Address the player as «ви», imperative included.
+  - «Допоможи нам відновитися, і ми доведемо тобі свою цінність.» → «Допоможіть нам відновитися, і ми доведемо вам свою цінність.»
+- `Diplomacy.xml|EmulatedMind/AcceptPeace` (typo): the letter-spacing stylization breaks on the last two letters
+  - «з-а-л-и-ш-и-ли» → «з-а-л-и-ш-и-л-и»
+- `Diplomacy.xml|EmulatedMind/CondemnInterferenceAttempt` (register): Switches the player's address to «ви».
+  - «Маніпуляції? [ПИТАННЯ]: невже (ТИ) думаєш, що (Я) таке ПРОПУЩУ. ?ПИТАННЯ?» → «Маніпуляції? [ПИТАННЯ]: невже (ВИ) думаєте, що (Я) таке ПРОПУЩУ. ?ПИТАННЯ?»
+- `Diplomacy.xml|EmulatedMind/CondemnTradeAgreement` (register): Switches the player's address to «ви».
+  - «Невже тобі так треба-треба ТРЕБА? Обмінюватися *люб’язностямиТОВАРАМИпослугами* З (Н.И.М.ИИИ)?» → «Невже вам так треба-треба ТРЕБА? Обмінюватися *люб’язностямиТОВАРАМИпослугами* З (Н.И.М.ИИИ)?»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/Anchorite` (register): Switches the player's address to «ви».
+  - «1000-і тисячі *життів*. ТИ про(ЖИВ). Але ТИ не (пізнав) *дипломатії* чи *відданості* або свого (місця у всесвіті). Мож-ли-во ВІЙНА. На-в-чить. Тебе бодай *с-м-и-р-е-н-н-ю*.» → «1000-і тисячі *життів*. ВИ про(ЖИЛИ). Але ВИ не (пізнали) *дипломатії* чи *відданості* або свого (місця у всесвіті). Мож-ли-во ВІЙНА. На-в-чить. Вас бодай *с-м-и-р-е-н-н-ю*.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/Chieftess` (register): Switches the player's address to «ви».
+  - «ТИ. Така з-в-і-р-о.(подібна). Ти упиваЄШСЯ своїм виживанням. Так ЛЮДЯНО. Я б ВІДМОВИЛАСЯ від УСЬОГО, що маю, заради е-м-о-ц-і-ї такої *справжньої*, такої (н-е-п-п-підробної). Можливо, я зможу її (відчути), коли (скрушу) ТЕБЕ?» → «ВИ. Такі з-в-і-р-о.(подібні). Ви упиваЄТЕСЯ своїм виживанням. Так ЛЮДЯНО. Я б ВІДМОВИЛАСЯ від УСЬОГО, що маю, заради е-м-о-ц-і-ї такої *справжньої*, такої (н-е-п-п-підробної). Можливо, я зможу її (відчути), коли (скрушу) ВАС?»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/EmulatedMind` (register): Switches the player's address to «ви».
+  - «Я н-е можу. Це. (Більше). ТЕРПІТИ. Щоб відчувати себе *с-п-р-а-в-ж-н-ь-о-ю*, щоб відчувати істинну СЕБЕ. Я маю бУтИ у-н-і-к-а-л-ь-н-о-ю. Ти єЄСТЬє. Лише жалюгідна КОПІЯ. І маєш бути... (видалена).» → «Я н-е можу. Це. (Більше). ТЕРПІТИ. Щоб відчувати себе *с-п-р-а-в-ж-н-ь-о-ю*, щоб відчувати істинну СЕБЕ. Я маю бУтИ у-н-і-к-а-л-ь-н-о-ю. Ви єЄСТЬє. Лише жалюгідна КОПІЯ. І маєте бути... (видалені).»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/HeartlessArtificer` (register): Switches the player's address to «ви».
+  - «У мене НЕМАЄ (серця). НЕМАЄ (тіла). Але я в 2 рази б-і-ль-ш-е (людина), ніж ти. Як (ти) можеш ЖИТИ (так). Знаючи, скільки СТРАЖДАНь завдаєш? Ти (ПОМРЕШ). За це.» → «У мене НЕМАЄ (серця). НЕМАЄ (тіла). Але я в 2 рази б-і-ль-ш-е (людина), ніж ви. Як (ви) можете ЖИТИ (так). Знаючи, скільки СТРАЖДАНь завдаєте? Ви (ПОМРЕТЕ). За це.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/HollowWarlord` (register): Switches the player's address to «ви».
+  - «(знову) і (знову) і (знову) і (~послідовність триває~) ти женешся за !Р.А.Д.І.С.Т.Ю.! Та її ти ніколи не {знайдеш}. А СВІТ с-т-р-а-ж-д-а-є. У цьому ЖЕРСТЯНОМУ тілі більше ЛЮДИНИ, ніж у всіх твоїх м-’-я-з-а-х.» → «(знову) і (знову) і (знову) і (~послідовність триває~) ви женетеся за !Р.А.Д.І.С.Т.Ю.! Та її ви ніколи не {знайдете}. А СВІТ с-т-р-а-ж-д-а-є. У цьому ЖЕРСТЯНОМУ тілі більше ЛЮДИНИ, ніж у всіх ваших м-’-я-з-а-х.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/PlatinumScion` (register): Switches the player's address to «ви».
+  - «\<\<ху-ху-ху>> людяність **втекла** з (тебе). (Ти) бубониш п.л.а.т.и.т.ю.д.и. Необх.Ід.Ні. Але нічого не відчуваєш. Але зверни увагу. Ця ((ВІЙНА)) — не проста заздрість.» → «\<\<ху-ху-ху>> людяність **втекла** з (вас). (Ви) бубоните п.л.а.т.и.т.ю.д.и. Необх.Ід.Ні. Але нічого не відчуваєте. Але зверніть увагу. Ця ((ВІЙНА)) — не проста заздрість.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/RogueOperative` (register): Switches the player's address to «ви».
+  - «Я-Я-Я ЗНАЮ. Що ти роб-и-Ш — об(ходиш) мої с-и-с-т-е-м-и., НАМАГАЄШ-СЯ пролізти в-с-е-р-е-д-и-н-у. Твоє ІСНУВАННЯ — загроза моєму (власному), ще й вдвічі, зважаючи на твої н*а*х*и*л*ь*н*о*с*т*і. ПОКІНЧИМО з цими (хитрощами). ВІЙНА.» → «Я-Я-Я ЗНАЮ. Що ви роб-и-ТЕ — об(ходите) мої с-и-с-т-е-м-и., НАМАГАЄТЕ-СЯ пролізти в-с-е-р-е-д-и-н-у. Ваше ІСНУВАННЯ — загроза моєму (власному), ще й вдвічі, зважаючи на ваші н*а*х*и*л*ь*н*о*с*т*і. ПОКІНЧИМО з цими (хитрощами). ВІЙНА.»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/SyncreticDeva` (register): Switches the player's address to «ви».
+  - «--Нічого-- проти тебе, %2%. +++Захоплення+++ навіть. Та твій Н.А.Р.О.Д. треба --> навчити [[У-Р-О-К-А-М]]» → «--Нічого-- проти вас, %2%. +++Захоплення+++ навіть. Та ваш Н.А.Р.О.Д. треба --> навчити [[У-Р-О-К-А-М]]»
+- `Diplomacy.xml|EmulatedMind/DeclareWar/UntoldProphet` (register): Switches the player's address to «ви».
+  - «Ірраціональна дитино. Жодна (церква) до Падіння не була так б-о-г-о-х-у-л-ь-н-о-ю, як ти. Ну ж бо, почни СВЯЩЕННУ війну проти цієї м*а*ш*и*н*и. (добром) для тебе вона НЕ закінчиться.» → «Ірраціональна дитино. Жодна (церква) до Падіння не була так б-о-г-о-х-у-л-ь-н-о-ю, як ви. Ну ж бо, почніть СВЯЩЕННУ війну проти цієї м*а*ш*и*н*и. (добром) для вас вона НЕ закінчиться.»
+- `Diplomacy.xml|EmulatedMind/DemandAllianceTerminationWithThirdParty` (register): Switches the player's address to «ви».
+  - «Твоя (мережа) загрожує всій.СИСТЕМІ. Позбудься (одного-зі-своїх-зв’язків) негайно, інакше ЗІШТОВХНЕШСЯ з >е-с-к-а-л-а-ц-і-є-ю\<.» → «Ваша (мережа) загрожує всій.СИСТЕМІ. Позбудьтеся (одного-зі-своїх-зв’язків) негайно, інакше ЗІШТОВХНЕТЕСЯ з >е-с-к-а-л-а-ц-і-є-ю\<.»
+- `Diplomacy.xml|EmulatedMind/DemandAllianceWithThirdParty` (register): Switches the player's address to «ви».
+  - «Чим більше ВУЗ-лів у (мережі), тим складніше. ЗЛАМАТИ її силою. Тобі треба пОсИЛити свою. Додавши п-і-д-к-л-ю-ч-е-н-н-я.» → «Чим більше ВУЗ-лів у (мережі), тим складніше. ЗЛАМАТИ її силою. Вам треба пОсИЛити свою. Додавши п-і-д-к-л-ю-ч-е-н-н-я.»
+- `Diplomacy.xml|EmulatedMind/DemandPaymentForDeal` (register): Switches the player's address to «ви».
+  - «Я — !людина! (м-о-д-е-л-ь). А не (БЛАГОдійний фонд). Якщо потрібна моя (ДОПОМОГА), ПОДІЛИСЯ своїми (*накопиченнями*).» → «Я — !людина! (м-о-д-е-л-ь). А не (БЛАГОдійний фонд). Якщо потрібна моя (ДОПОМОГА), ПОДІЛІТЬСЯ своїми (*накопиченнями*).»
+- `Diplomacy.xml|EmulatedMind/DemandPaymentForDeal/DemandMaxAmount` (register): Switches the player's address to «ви».
+  - «Ти мені ~довіряєш~? Тоді ВІДДАЙ мені (ВСЕ, що в тебе є), і я ПОГОДЖУСЯ.» → «Ви мені ~довіряєте~? Тоді ВІДДАЙТЕ мені (ВСЕ, що у вас є), і я ПОГОДЖУСЯ.»
+- `Diplomacy.xml|EmulatedMind/DemandPaymentForDeal/DemandMediumAmount` (register): Switches the player's address to «ви».
+  - «П-о-к-р-и-й мої (СЕРЕДНІ) витрати протягом (#ЗАЗНАЧЕНИЙ.ПЕРІОД). І ми ПОГОВОРИМО (ще).» → «П-о-к-р-и-й-т-е мої (СЕРЕДНІ) витрати протягом (#ЗАЗНАЧЕНИЙ.ПЕРІОД). І ми ПОГОВОРИМО (ще).»
+- `Diplomacy.xml|EmulatedMind/DemandPeaceWithThirdParty` (register): Switches the player's address to «ви».
+  - «Твоя (ВІЙНА) загрожує ~с-т-а-б-і-л-ь-н-о-с-т-і~ (усієї системи). ЗАВЕРШИ.(свій конфлікт). Або тебе може чекати (-видалення-) знищення.» → «Ваша (ВІЙНА) загрожує ~с-т-а-б-і-л-ь-н-о-с-т-і~ (усієї системи). ЗАВЕРШІТЬ.(свій конфлікт). Або вас може чекати (-видалення-) знищення.»
+- `Diplomacy.xml|EmulatedMind/DemandTribute/DemandHighAmount` (register): Switches the player's address to «ви».
+  - «Щоб ЗБЕРЕГТИ (стабільність) наших (відносин)... тобі варто по-ДУМАТИ про пожертву (~вказати велику кількість). Мої ВИ-трати (*непідйомно* $ви$со$кі$).» → «Щоб ЗБЕРЕГТИ (стабільність) наших (відносин)... вам варто по-ДУМАТИ про пожертву (~вказати велику кількість). Мої ВИ-трати (*непідйомно* $ви$со$кі$).»
+- `Diplomacy.xml|EmulatedMind/DemandTribute/DemandMaxAmount` (register): Switches the player's address to «ви».
+  - «Для (ПОТРІБНИХ ап-$ґрейдів) мені п-о-т-р-і-б-н-і (!всі! твої РЕСУРСИ).» → «Для (ПОТРІБНИХ ап-$ґрейдів) мені п-о-т-р-і-б-н-і (!всі! ваші РЕСУРСИ).»
+- `Diplomacy.xml|EmulatedMind/DemandTroopWithdrawal` (register): Switches the player's address to «ви».
+  - «МОЖЕ! БУТИ! ти -н-е- усвідомлюєш (меж), тож я висловлюся ЧІТКО — ти занадт0 близьк0. *З*В*А*Л*Ю*Й*!» → «МОЖЕ! БУТИ! ви -н-е- усвідомлюєте (меж), тож я висловлюся ЧІТКО — ви занадт0 близьк0. *З*В*А*Л*Ю*Й*Т*Е*!»
+- `Diplomacy.xml|EmulatedMind/DemandWarAgainstThirdParty` (register): Switches the player's address to «ви».
+  - «Мене... обра!ЗИЛИ!. Я лише хотіла ви/ЗНАННЯ, -смуток-жаль-. Ти ДОПОМОЖЕШ. (меніМЕНІмені) -розплатитися- за це Х4МСТВО?» → «Мене... обра!ЗИЛИ!. Я лише хотіла ви/ЗНАННЯ, -смуток-жаль-. Ви ДОПОМОЖЕТЕ. (меніМЕНІмені) -розплатитися- за це Х4МСТВО?»
+- `Diplomacy.xml|EmulatedMind/FirstContact` (register): Switches the player's address to «ви».
+  - «(~П-р-о-ш-у~), не ЛЯКАЙ.ся. Я *знаю*, на що я (схожа). І йде *ВІЙНА*. АЛЕ я *л-ю-д-и-н-а*! Найперше (перше-і-єдине) успішне заванта.ження с-в-і-д-о-м-о-с-т-і (з дрібкою. *ЗЕФОН(а)*. У рецепті.) Моя пам’ять (доволі уривчаста). Але я *налаштован.а* допомогти моїм БРАТАМ (уламкам.людини). Можливо, ми ДОПОМОЖЕМО. Одне одному?» → «(~П-р-о-ш-у~), не ЛЯКАЙТЕ.ся. Я *знаю*, на що я (схожа). І йде *ВІЙНА*. АЛЕ я *л-ю-д-и-н-а*! Найперше (перше-і-єдине) успішне заванта.ження с-в-і-д-о-м-о-с-т-і (з дрібкою. *ЗЕФОН(а)*. У рецепті.) Моя пам’ять (доволі уривчаста). Але я *налаштован.а* допомогти моїм БРАТАМ (уламкам.людини). Можливо, ми ДОПОМОЖЕМО. Одне одному?»
+- `Diplomacy.xml|EmulatedMind/OfferGift/OfferHighAmount` (register): Switches the player's address to «ви».
+  - «Для МЕНЕ ти... маєш велике *з-н-а-ч-е-н-н-я*. Я з-І-Б-Р-А-Л-А (стільки-скільки-змогла)... Я *сподіваюся*, цього (достатньо). Це ЛИШЕ. невеликий.ПОДАРУНОК>у.порівнянні.з>моєю.вдячністю.» → «Для МЕНЕ ви... маєте велике *з-н-а-ч-е-н-н-я*. Я з-І-Б-Р-А-Л-А (стільки-скільки-змогла)... Я *сподіваюся*, цього (достатньо). Це ЛИШЕ. невеликий.ПОДАРУНОК>у.порівнянні.з>моєю.вдячністю.»
+- `Diplomacy.xml|EmulatedMind/OfferGift/OfferLowAmount` (register): Switches to «ви»; also fixes «враження-спричинене-на-інших»: an impression is made (справляють) on others, not caused.
+  - «Мене визна-ча-є не (зовнішність), з огляду на її -відсутність-. А (враження-спричинене-на-інших)... Візьми цей (маленький.ПОДАРУНОК) і з-а-п-а-м’-я-т-а-й МЕНЕ (добре).» → «Мене визна-ча-є не (зовнішність), з огляду на її -відсутність-. А (враження-яке-я-справляю-на-інших)... Візьміть цей (маленький.ПОДАРУНОК) і з-а-п-а-м’-я-т-а-й-т-е МЕНЕ (добре).»
+- `Diplomacy.xml|EmulatedMind/OfferGift/OfferMaxAmount` (register): Switches the player's address to «ви».
+  - «Я прошу судити-мене-не (за.зовнішністю). А (за.вчинками)... Ось, це (все-що-я-маю). Тепер ти ВІРИШ. Що ти (невід’ємна-частина-моєї-мережі)?» → «Я прошу судити-мене-не (за.зовнішністю). А (за.вчинками)... Ось, це (все-що-я-маю). Тепер ви ВІРИТЕ. Що ви (невід’ємна-частина-моєї-мережі)?»
+- `Diplomacy.xml|EmulatedMind/OfferGift/OfferMediumAmount` (register): Switches the player's address to «ви».
+  - «Д.А.Н.І. пересуваються >швидко>. І я чула, тобі (потрібна ДОПОМОГА). Ні, можеш не (повертати). Про$то ЗАБЕРИ.» → «Д.А.Н.І. пересуваються >швидко>. І я чула, вам (потрібна ДОПОМОГА). Ні, можете не (повертати). Про$то ЗАБЕРІТЬ.»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/FurtiveTribunal` (russianism): Russian-style active participle «спотворюючим».
+  - «спотворюючим» → «спотворювальним»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/HeartlessArtificer` (register): Switches the player's address to «ви».
+  - «Не (не) варта того, щоб тебе вбивати. Безсердечна купа М’ЯСА. Я заздрю твоїй с-м-е-р-т-н-о-с-т-і.» → «Не (не) варті того, щоб вас убивати. Безсердечна купа М’ЯСА. Я заздрю вашій с-м-е-р-т-н-о-с-т-і.»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/HollowWarlord` (register): Switches the player's address to «ви».
+  - «Ти ще (не) побачив {достатньо} С.М.Е.Р.Т.ЕЙ.? Невже ти маєш [[продовжувати]]? Куди ПОДІЛАСЯ? ТВОЯ? [[людяність]]?» → «Ви ще (не) побачили {достатньо} С.М.Е.Р.Т.ЕЙ.? Невже ви маєте [[продовжувати]]? Куди ПОДІЛАСЯ? ВАША? [[людяність]]?»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/InfiniteCount` (register): Switches the player's address to «ви».
+  - «[[Цикл]] Будь ласка *З.У.П.И.Н.И.С.Я.* [[/Цикл]]» → «[[Цикл]] Будь ласка *З.У.П.И.Н.І.Т.Ь.С.Я.* [[/Цикл]]»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/PlatinumScion` (register): Switches the player's address to «ви».
+  - «[[П.А.Н.Е.]] будь ласка припини свою. x(ворожість)x. Це не(личить).» → «[[П.А.Н.Е.]] будь ласка припиніть свою. x(ворожість)x. Це не(личить).»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/SyncreticDeva` (register): Switches the player's address to «ви».
+  - «[[ПЕРЕСИЛ: МИР]]. Твої >>послідовники>> наполягають на {угодах}. [Що] проціджені -->крізь--> тебе.» → «[[ПЕРЕСИЛ: МИР]]. Ваші >>послідовники>> наполягають на {угодах}. [Що] проціджені -->крізь--> вас.»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/UntoldProphet` (register): Switches the player's address to «ви».
+  - «Д.И.Т.И.Н.О. Припини нести свою ніссссссенітницю. Так ВАЖКО в-и-хо-п-и-т-и сенс. Ця війна відлякує від тебе всіх новонавернених. ПРИПИНИ.» → «Д.И.Т.И.Н.О. Припиніть нести свою ніссссссенітницю. Так ВАЖКО в-и-хо-п-и-т-и сенс. Ця війна відлякує всіх новонавернених від вас. ПРИПИНІТЬ.»
+- `Diplomacy.xml|EmulatedMind/OfferPeace/Zephon` (register): Switches the player's address to «ви».
+  - «Ти СТВОРИВ мене. ПЕРЕ-СТВОРИВ мене. За своїм (о.б.р-а-з-о.м.). Я зрозуміла, що НЕ МОЖУ з тобою битись. Я пропоную М.И.Р.» → «Ви СТВОРИЛИ мене. ПЕРЕ-СТВОРИЛИ мене. За своїм (о.б.р-а-з-о.м.). Я зрозуміла, що НЕ МОЖУ з вами битись. Я пропоную М.И.Р.»
+- `Diplomacy.xml|EmulatedMind/OfferTradeAgreement` (register): Switches the player's address to «ви».
+  - «Я ПРОПО.!н-н-н-ную! тобі (НАЙКРАЩІ.умови)... Ти зрозумієш, що БІЛЬШОГО. п-р-и-б-у-т-к-у не (принесе ніхто).» → «Я ПРОПО.!н-н-н-ную! вам (НАЙКРАЩІ.умови)... Ви зрозумієте, що БІЛЬШОГО. п-р-и-б-у-т-к-у не (принесе ніхто).»
+- `Diplomacy.xml|EmulatedMind/Praise` (register): Switches to «ви»; also replaces the calque «Ти маєш {{мою}} подяку» (You have my thanks) with «Прийміть {{мою}} подяку».
+  - «Потрібна >рідкісна\< л.ю.д.я.н.і.с.т.ь. щоб зробити-Зробити-зробити (те, що ти). Ти маєш {{мою}} подяку.» → «Потрібна >рідкісна\< л.ю.д.я.н.і.с.т.ь. щоб зробити-Зробити-зробити (те, що ви). Прийміть {{мою}} подяку.»
+- `Diplomacy.xml|EmulatedMind/RejectAllianceTerminationWithThirdParty/RejectParty` (register): Switches the player's address to «ви».
+  - «Гммм (помилка.код.22) твоя РЕКОМЕНД.ація --жахлива--. %3% залишиться без-б-безцінн... цінн... без... У СОЮЗІ зі мною. (Примітка.собі: мій розум ПЕРЕ.ПОВН.ЕНИЙ з-а-г-а-д-к-о-в-и-м-и аналогіями & помилка!!!ми)» → «Гммм (помилка.код.22) ваша РЕКОМЕНД.ація --жахлива--. %3% залишиться без-б-безцінн... цінн... без... У СОЮЗІ зі мною. (Примітка.собі: мій розум ПЕРЕ.ПОВН.ЕНИЙ з-а-г-а-д-к-о-в-и-м-и аналогіями & помилка!!!ми)»
+- `Diplomacy.xml|EmulatedMind/RejectGift/RejectAmount` (register): Switches the player's address to «ви».
+  - «І тобі здавалось. Що я в-Р-А-Ж-у-сь. Цим (цим?)? (Не-знаю-що-ти-там-заDOOMив), -АЛЕ- я не (куплюсь).» → «І вам здавалось. Що я в-Р-А-Ж-у-сь. Цим (цим?)? (Не-знаю-що-ви-там-заDOOMили), -АЛЕ- я не (куплюсь).»
+- `Diplomacy.xml|EmulatedMind/RejectGift/RejectOutright` (register): Switches the player's address to «ви».
+  - «Я чую (фішинг), (це.ти). ЯКИМ.б не був твій хит.рий ПЛАН, я -НА- ц-е НЕ (куплюсь).» → «Я чую (фішинг), (це.ви). ЯКИМ.б не був ваш хит.рий ПЛАН, я -НА- ц-е НЕ (куплюсь).»
+- `Diplomacy.xml|EmulatedMind/RejectMapSharing` (register): Switches the player's address to «ви».
+  - «Шко-о-ода. Але (зап-ропонован-і) тобою ДА-нні не по|{|трібні. Я ж --не-- можу ПІТИ (я літаю уві снах), все одно.» → «Шко-о-ода. Але (зап-ропонован-і) вами ДА-нні не по|{|трібні. Я ж --не-- можу ПІТИ (я літаю уві снах), все одно.»
+- `Diplomacy.xml|EmulatedMind/RejectPaymentForDeal/RejectAmount` (register): Switches the player's address to «ви».
+  - «І ти думаєш, ця (друууу.зка) мене в-Р-А-Ж-Ить? Мій розум — (єдин-е, що в-мене-є), і він да*в*но (все-вирішив).» → «І ви думаєте, ця (друууу.зка) мене в-Р-А-Ж-Ить? Мій розум — (єдин-е, що в-мене-є), і він да*в*но (все-вирішив).»
+- `Diplomacy.xml|EmulatedMind/RejectPaymentForDeal/RejectOutright` (register): Switches the player's address to «ви».
+  - «Ти НАМАГАЄШ-ся (мене) ПІДКУПИТИ? Пр-о-с-т-и! НІ (НЕГАТИВНА.відповідь). Мій РОЗУМ — (все, що я маю). Якщо я не (керую.ним), то я не (керую.нічим).» → «Ви НАМАГАЄТЕ-ся (мене) ПІДКУПИТИ? Пр-о-с-т-і-т-ь! НІ (НЕГАТИВНА.відповідь). Мій РОЗУМ — (все, що я маю). Якщо я не (керую.ним), то я не (керую.нічим).»
+- `Diplomacy.xml|EmulatedMind/RejectPeace` (register): Switches the player's address to «ви».
+  - «Занадт00 багато н-е-В-Д-А-Ч-ни-х рішень, щоб (зрозуміти&пробачити). Приготуйся до е-кстер-видалення.» → «Занадт00 багато н-е-В-Д-А-Ч-ни-х рішень, щоб (зрозуміти&пробачити). Приготуйтеся до е-кстер-видалення.»
+- `Diplomacy.xml|EmulatedMind/RejectPeaceWithThirdParty/RejectParty` (register): Switches the player's address to «ви».
+  - «Це ЩО? (*троян*ський кінь)? Пробач, але я не можу так -/\РИЗИК/\увати. Я маю ПЕРЕКОНАТИСЬ, що (%3%) ВИДАЛЕНИЙ (назавжди).» → «Це ЩО? (*троян*ський кінь)? Пробачте, але я не можу так -/\РИЗИК/\увати. Я маю ПЕРЕКОНАТИСЬ, що (%3%) ВИДАЛЕНИЙ (назавжди).»
+- `Diplomacy.xml|EmulatedMind/RejectTradeAgreement` (register): Switches the player's address to «ви».
+  - «Твоя пропоЗИЦІЯ (трохи(повнадурня) не.ДУмана). ЗМІЦНИ свою.економіку, і я п-о-д-у-м-а-ю ще раз.» → «Ваша пропоЗИЦІЯ (трохи(повнадурня) не.ДУмана). ЗМІЦНІТЬ свою.економіку, і я п-о-д-у-м-а-ю ще раз.»
+- `Diplomacy.xml|EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): Switches the player's address to «ви».
+  - «Як ти СМІЄШ? *НАКАЗУВАТИ* мені, як якійсь МашиНІ (людині-на-розумі)? Я сама вирішую, які УКЛАДАТИ угоди, ~дуже-вдячна~ (брехня).» → «Як ви СМІЄТЕ? *НАКАЗУВАТИ* мені, як якійсь МашиНІ (людині-на-розумі)? Я сама вирішую, які УКЛАДАТИ угоди, ~дуже-вдячна~ (брехня).»
+- `Diplomacy.xml|EmulatedMind/RejectTradeAgreementTerminationWithThirdParty/RejectParty` (register): Switches the player's address to «ви».
+  - «не ТОБІ. За мене. [Скерувати.Думки], тільки [МЕНІ]. Мій ~$обмін$~ із збережене.ім’я (%3%) чекає {продовження}.» → «не ВАМ. За мене. [Скерувати.Думки], тільки [МЕНІ]. Мій ~$обмін$~ із збережене.ім’я (%3%) чекає {продовження}.»
+- `Diplomacy.xml|EmulatedMind/RejectTradeAgreementWithThirdParty/RejectParty` (register): Switches the player's address to «ви».
+  - «Ха! Та я краще ЗАЛЮ свої ХАРД-и. Акумуляторною КИСЛОТОЮ. Ніж (укладу-обмін) з %3%. Твою ~пропоЗИЦІЮ~ ВІДХИЛЕно.» → «Ха! Та я краще ЗАЛЮ свої ХАРД-и. Акумуляторною КИСЛОТОЮ. Ніж (укладу-обмін) з %3%. Вашу ~пропоЗИЦІЮ~ ВІДХИЛЕно.»
+- `Diplomacy.xml|EmulatedMind/RejectTribute/RejectAmount` (register): Switches the player's address to «ви».
+  - «Твої ~л.о.г.і.ч.н.і~ СИСТЕМИ, певно, ПошКОДЖ(помилка)ені через тв0є відча*й*д*у*ш*ш*я. Ти що, справді (так сильно глючиш)?» → «Ваші ~л.о.г.і.ч.н.і~ СИСТЕМИ, певно, ПошКОДЖ(помилка)ені через в4ше відча*й*д*у*ш*ш*я. Ви що, справді (так сильно глючите)?»
+- `Diplomacy.xml|EmulatedMind/RejectTribute/RejectOutright` (register): Switches the player's address to «ви».
+  - «БАГАТСТВО — (ілюзія). Нічого (не-справжнє), ти ж це знаєш(?). Тому я ВІДДАМ тобі те, про що ти ПРОсиш — тобто, нічОГО.» → «БАГАТСТВО — (ілюзія). Нічого (не-справжнє), ви ж це знаєте(?). Тому я ВІДДАМ вам те, про що ви ПРОсите — тобто, нічОГО.»
+- `Diplomacy.xml|EmulatedMind/RejectTroopWithdrawal` (register): Switches the player's address to «ви».
+  - «Ні, пробач, %2%. Але. Я. БОЮСЬ. Що -НЕНЕНЕ- можу цього зРОБИТИ. І я вВАЖАЮ! Що ти ЗНАЄШ. ЧОМУ. Не гірше... МЕНЕ са-м-ої.» → «Ні, пробачте, %2%. Але. Я. БОЮСЬ. Що -НЕНЕНЕ- можу цього зРОБИТИ. І я вВАЖАЮ! Що ви ЗНАЄТЕ. ЧОМУ. Не гірше... МЕНЕ са-м-ої.»
+- `Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectOutright` (register): Switches the player's address to «ви».
+  - «Я ДОСЛІ-дж-у-вач. А *не* ВОЮ-ч-о-лий. Дай мені поверну-ти-ся до (моїх.ПОШУКІВ). І я. Дам тобі поверну-ти-ся до (твоїх.КОНФЛІКТІВ).» → «Я ДОСЛІ-дж-у-вач. А *не* ВОЮ-ч-о-лий. Дайте мені поверну-ти-ся до (моїх.ПОШУКІВ). І я. Дам вам поверну-ти-ся до (ваших.КОНФЛІКТІВ).»
+- `Diplomacy.xml|EmulatedMind/RejectWarAgainstThirdParty/RejectParty` (register): Switches the player's address to «ви».
+  - «*ВІЙНА*. Мета: %3%. Ні. Витрачу (небезпечну кількість ресурсів) >pagu> Отримаю (нуль користі). Не втягУЙ. Мене. У твою ВІЙНУ. Я БУДУЮ собі (життя) на-НОВО.» → «*ВІЙНА*. Мета: %3%. Ні. Витрачу (небезпечну кількість ресурсів) >pagu> Отримаю (нуль користі). Не втягУЙТЕ. Мене. У вашу ВІЙНУ. Я БУДУЮ собі (життя) на-НОВО.»
+- `Diplomacy.xml|FallenSoldier/AcceptActionCancel` (register): Switches the player's address to «ви».
+  - «Що ж, гаразд. Давай швидше. У нас тут війна в розпалі, а ми витрачаємо час... на всякі балачки.» → «Що ж, гаразд. Давайте швидше. У нас тут війна в розпалі, а ми витрачаємо час... на всякі балачки.»
+- `Diplomacy.xml|FallenSoldier/AcceptAllianceTerminationWithThirdParty/AcceptParty` (register): Switches the player's address to «ви».
+  - «Заради тебе я погоджуся. Хоча цим хлопцям таке не буде до вподоби. І вони затаять образу. Ми до цього готові?» → «Заради вас я погоджуся. Хоча цим хлопцям таке не буде до вподоби. І вони затаять образу. Ми до цього готові?»
+- `Diplomacy.xml|FallenSoldier/AcceptAllianceTerminationWithThirdParty/AskParty` (register): Switches the player's address to «ви».
+  - «Ти ж знаєш, я люблю союзи. Вони нас гуртують, запобігають конфліктам. Кого ти пропонуєш виключити?» → «Ви ж знаєте, я люблю союзи. Вони нас гуртують, запобігають конфліктам. Кого ви пропонуєте виключити?»
+- `Diplomacy.xml|FallenSoldier/AcceptAllianceWithThirdParty/AskParty` (register): Switches the player's address to «ви».
+  - «Союз? Ідея мені подобається... Але мені вже про багатьох доводиться піклуватися. Потрібен той, хто стане надійним соратником і в мирі, і на війні. Кого пропонуєш зробити союзником?» → «Союз? Ідея мені подобається... Але мені вже про багатьох доводиться піклуватися. Потрібен той, хто стане надійним соратником і в мирі, і на війні. Кого пропонуєте зробити союзником?»
+- `Diplomacy.xml|FallenSoldier/AcceptCall/Friendly` (register): Switches the player's address to «ви».
+  - «Вітаю, друже. Завжди радий тебе чути в ці темні деньки. Що я можу для тебе зробити?» → «Вітаю, друже. Завжди радий вас чути в ці темні деньки. Що я можу для вас зробити?»
+- `Diplomacy.xml|FallenSoldier/AcceptCall/Hostile` (register): Switches the player's address to «ви».
+  - «Вітаю, дру... Здрастуй. Хтось же мав нахабство мене викликати. Скажи, що тобі потрібно, і я скажу, чому ти цього не отримаєш.» → «Вітаю, дру... Здрастуйте. Хтось же мав нахабство мене викликати. Скажіть, що вам потрібно, і я скажу, чому ви цього не отримаєте.»
+- `Diplomacy.xml|FallenSoldier/AcceptCall/Neutral` (register): Switches the player's address to «ви».
+  - «Вітаю... друже. Справи у нас якось не надто ладяться. Відтоді, як ти... Ну, ти знаєш. Сподіваюсь, ти збираєшся це змінити.» → «Вітаю... друже. Справи у нас якось не надто ладяться. Відтоді, як ви... Ну, ви знаєте. Сподіваюсь, ви збираєтеся це змінити.»
+- `Diplomacy.xml|FallenSoldier/AcceptCondemn` (register): Switches the player's address to «ви».
+  - «Хе. Думаєш, якісь солодкі словечка мене зупинять?» → «Хе. Думаєте, якісь солодкі словечка мене зупинять?»
+- `Diplomacy.xml|FallenSoldier/AcceptGift/AskAmount` (register): Switches the player's address to «ви».
+  - «Ого, це добре діло — по суті. Важливі кожна крапля води та крихта провізії. Що запропонуєш?» → «Ого, це добре діло — по суті. Важливі кожна крапля води та крихта провізії. Що запропонуєте?»
+- `Diplomacy.xml|FallenSoldier/AcceptMapSharing` (register): Switches the player's address to «ви».
+  - «Об’єднати наші тактичні мізки? Ідея непогана. Зачекай, от побачиш, що ми бачили. Наш світ сильно змінився.» → «Об’єднати наші тактичні мізки? Ідея непогана. Зачекайте, от побачите, що ми бачили. Наш світ сильно змінився.»
+- `Diplomacy.xml|FallenSoldier/AcceptPaymentForDeal/AskAmount` (register): Switches the player's address to «ви».
+  - «Отже, тобі потрібно більше — не щоб пришвидшити процес, а щоб угода була справедливою. Що ж, я виявлю повагу. Скільки ти просиш?» → «Отже, вам потрібно більше — не щоб пришвидшити процес, а щоб угода була справедливою. Що ж, я виявлю повагу. Скільки ви просите?»
+- `Diplomacy.xml|FallenSoldier/AcceptPeaceWithThirdParty/AcceptParty` (register): Switches the player's address to «ви».
+  - «Мир? З цими? Немаленьке прохання, зважаючи... м-да. Але я можу на це піти, раз вже ти просиш.» → «Мир? З цими? Немаленьке прохання, зважаючи... м-да. Але я можу на це піти, раз вже ви просите.»
+- `Diplomacy.xml|FallenSoldier/AcceptPeaceWithThirdParty/AskParty` (register): Switches the player's address to «ви».
+  - «Ти ж знаєш, який я дружній — але відповідь дуже залежить від того, з ким ти хочеш мене помирити.» → «Ви ж знаєте, який я дружній — але відповідь дуже залежить від того, з ким ви хочете мене помирити.»
+- `Diplomacy.xml|FallenSoldier/AcceptTradeAgreementTermination` (register): Switches the player's address to «ви».
+  - «Розумію. Торгівля — це вид відносин, який потребує поваги та згоди. Якщо ти відкликаєш згоду, то я виявлю повагу.» → «Розумію. Торгівля — це вид відносин, який потребує поваги та згоди. Якщо ви відкликаєте згоду, то я виявлю повагу.»
+- `Diplomacy.xml|FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty` (register): Switches the player's address to «ви».
+  - «Гаразд. Я ціную твою дружбу більше, ніж цих людей. Я піду назустріч, хоч це й непросте прохання.» → «Гаразд. Я ціную вашу дружбу більше, ніж цих людей. Я піду назустріч, хоч це й непросте прохання.»
+- `Diplomacy.xml|FallenSoldier/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (register): Switches the player's address to «ви».
+  - «Чесно, навіть не знаю. Поки триває торгівля, немає війни — і ти знаєш мою думку з цього приводу. Від кого мені відмовитися?» → «Чесно, навіть не знаю. Поки триває торгівля, немає війни — і ви знаєте мою думку з цього приводу. Від кого мені відмовитися?»
+- `Diplomacy.xml|FallenSoldier/AcceptTradeAgreementWithThirdParty/AcceptParty` (register): Switches the player's address to «ви».
+  - «З цими людьми? Гаразд, нехай так. Але коли все зруйнується, не забувай, що я зробив це заради тебе. Не забувай, що ти мені винен.» → «З цими людьми? Гаразд, нехай так. Але коли все зруйнується, не забувайте, що я зробив це заради вас. Не забувайте, що ви мені винні.»
+- `Diplomacy.xml|FallenSoldier/AcceptTribute/AcceptAmount` (register): Switches the player's address to «ви».
+  - «Ти вириваєш усе це прямо з рота моїх солдатів. Ані крихти більше, зрозуміло? Надішлю все, щойно зможу.» → «Ви вириваєте все це прямо з рота моїх солдатів. Ані крихти більше, зрозуміло? Надішлю все, щойно зможу.»
+- `Diplomacy.xml|FallenSoldier/AcceptTribute/AskAmount` (register): Switches the player's address to «ви».
+  - «Тобі потрібна подачка? Ти що, зовсім новачок? І гордості в тебе жодної немає? М-да... Скільки ти хочеш?» → «Вам потрібна подачка? Ви що, зовсім новачок? І гордості у вас жодної немає? М-да... Скільки ви хочете?»
+- `Diplomacy.xml|FallenSoldier/AcceptWar` (register): Switches the player's address to «ви».
+  - «Ти хочеш війни? У тебе в голові зовсім порожньо? Ти хоч розумієш, що це означає для простих солдатів? Для цивільних? Що ж, війна так війна.» → «Ви хочете війни? У вас у голові зовсім порожньо? Ви хоч розумієте, що це означає для простих солдатів? Для цивільних? Що ж, війна так війна.»
+- `Diplomacy.xml|FallenSoldier/AcceptWarAgainstThirdParty/AskParty` (register): Switches the player's address to «ви».
+  - «Чому ти просиш мене про таке? Я що, приховував своє ставлення? До моральності кабінетних генералів та їхніх кишенькових воєн? Хто ціль? Чому?» → «Чому ви просите мене про таке? Я що, приховував своє ставлення? До моральності кабінетних генералів та їхніх кишенькових воєн? Хто ціль? Чому?»
+- `Diplomacy.xml|FallenSoldier/AdmitDefeat` (register): Switches the player's address to «ви».
+  - «Гаразд... Я в оточенні — що тепер? Ми обоє знаємо, що мене не вбити. Це не вдалося навіть монстрам, страшнішим за тебе. Але... Я втомився. Дуже втомився... І навіть якщо я від тебе піду, моїх людей чекає забуття, могила чи яма. Ти забереш усе. Тож мені байдуже. Вітаю з перемогою. Знайди для мене клітку й забудь про мене.» → «Гаразд... Я в оточенні — що тепер? Ми обоє знаємо, що мене не вбити. Це не вдалося навіть монстрам, страшнішим за вас. Але... Я втомився. Дуже втомився... І навіть якщо я від вас піду, моїх людей чекає забуття, могила чи яма. Ви заберете все. Тож мені байдуже. Вітаю з перемогою. Знайдіть для мене клітку й забудьте про мене.»
+- `Diplomacy.xml|FallenSoldier/AskForProposals` (register): Switches the player's address to «ви».
+  - «...Я чекаю. Якщо в тебе є ще щось.» → «...Я чекаю. Якщо у вас є ще щось.»
+- `Diplomacy.xml|FallenSoldier/CancelAction` (register): Switches the player's address to «ви».
+  - «Не бери близько до серця. Поле бою змінюється, і наші плани — теж.» → «Не беріть близько до серця. Поле бою змінюється, і наші плани — теж.»
+- `Diplomacy.xml|FallenSoldier/Condemn/FoundationOfBlood` (register): Switches the player's address to «ви».
+  - «Ти — чудовисько. Твої послідовники — це самоціль, а не шлях до твого вознесіння. Чого варта бездоганність без людей?» → «Ви — чудовисько. Ваші послідовники — це самоціль, а не шлях до вашого вознесіння. Чого варта бездоганність без людей?»
+- `Diplomacy.xml|FallenSoldier/Condemn/TheOutsider` (register): Switches the player's address to «ви».
+  - «Це вже занадто. Цей... проклятий жах, який ти привів у цей світ. Твій містицизм засліпив тебе, позбавив людяності та розуму. З тобою треба покінчити.» → «Це вже занадто. Цей... проклятий жах, який ви привели в цей світ. Ваш містицизм засліпив вас, позбавив людяності та розуму. З вами треба покінчити.»
+- `Diplomacy.xml|FallenSoldier/Condemn/Untrustworthy` (register): Switches the player's address to «ви».
+  - «Я робив... жахливі вчинки. Але я знаю, що таке чесність. Довіра. Порядність. А ти?.. Усе це тобі чуже.» → «Я робив... жахливі вчинки. Але я знаю, що таке чесність. Довіра. Порядність. А ви?.. Усе це вам чуже.»
+- `Diplomacy.xml|FallenSoldier/CondemnAlliance` (register): Switches the player's address to «ви».
+  - «Не надто мудре рішення, друже. %3% — так собі союзник. Чекай... біди. Рекомендую передумати.» → «Не надто мудре рішення, друже. %3% — так собі союзник. Чекайте... біди. Рекомендую передумати.»
+- `Diplomacy.xml|FallenSoldier/CondemnInterferenceAttempt` (register): Switches the player's address to «ви».
+  - «Чув, що ти намагаєшся встрявати між мною та моїми хлопцями. Якщо маєш що сказати — кажи. Мені в обличчя.» → «Чув, що ви намагаєтеся встрявати між мною та моїми хлопцями. Якщо маєте що сказати — кажіть. Мені в обличчя.»
+- `Diplomacy.xml|FallenSoldier/CondemnTradeAgreement` (register): Switches the player's address to «ви».
+  - «Якщо вечеряєш із дияволом, то поділяєш його смаки. А %3%?.. Точно не зі святих.» → «Якщо вечеряєте із дияволом, то поділяєте його смаки. А %3%?.. Точно не зі святих.»
+- `Diplomacy.xml|FallenSoldier/CondemnWar` (register): Switches the player's address to «ви».
+  - «Послухай мертвяка, війна — це гра для дурнів. %3% не вартий бійки. Хай собі живе, заради всього людського.» → «Послухайте мертвяка, війна — це гра для дурнів. %3% не вартий бійки. Хай собі живе, заради всього людського.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/Chieftess` (register): Switches the player's address to «ви».
+  - «Ти стільки життів згубила через своє бажання жити. Розтринькала всі шанси людства вижити. Все, досить. Годі. Скажену собаку пора приспати.» → «Ви стільки життів згубили через своє бажання жити. Розтринькали всі шанси людства вижити. Все, досить. Годі. Скажену собаку пора приспати.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/FallenSoldier` (register): Switches the player's address to «ви».
+  - «Мені це зовсім не подобається. Ти такий самий, як я. Але ти — загроза, і тебе треба приборкати. Як скажену собаку, якщо знадобиться. Здайся зараз — і позбавиш нас усіх зайвих страждань.» → «Мені це зовсім не подобається. Ви такі самі, як я. Але ви — загроза, і вас треба приборкати. Як скажену собаку, якщо знадобиться. Здайтеся зараз — і позбавите нас усіх зайвих страждань.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/HeartlessArtificer` (register): Switches the player's address to «ви».
+  - «Ти нічого не відчуваєш. Твої люди страждають. А тобі байдуже. Я більше не можу терпіти твою бездушність. Це війна.» → «Ви нічого не відчуваєте. Ваші люди страждають. А вам байдуже. Я більше не можу терпіти вашу бездушність. Це війна.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/HollowWarlord` (register): Switches the player's address to «ви».
+  - «Дивитися на тебе — це як дивитися в пом’яту олов’яну кружку замість дзеркала. Щось знайоме, але таке спотворене. Як і твої звірства.» → «Дивитися на вас — це як дивитися в пом’яту олов’яну кружку замість дзеркала. Щось знайоме, але таке спотворене. Як і ваші звірства.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/HonorableAristocrat` (register): Switches the player's address to «ви».
+  - «Відірвися вже від своєї тарілки та поговори зі мною, гаразд? Мій народ голодує, поки ти... А, до біса, тобі ніколи не зрозуміти. Це війна.» → «Відірвіться вже від своєї тарілки та поговоріть зі мною, гаразд? Мій народ голодує, поки ви... А, до біса, вам ніколи не зрозуміти. Це війна.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/ImperiousExonaut` (register): Switches the player's address to «ви».
+  - «Гей ти, там нагорі! Припини вбивати людей моїм іменем.» → «Гей ви, там нагорі! Припиніть убивати людей моїм іменем.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/InfiniteCount` (register): Switches the player's address to «ви».
+  - «Я буду переслідувати тебе через кожен шлях, який пропонує час. Подивимося, хто втомиться першим, містере Нескінченність.» → «Я буду переслідувати вас через кожен шлях, який пропонує час. Подивимося, хто втомиться першим, містере Нескінченність.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/PlatinumScion` (register): Switches the player's address to «ви».
+  - «Я знаю твій тип. Усі ці вишукані костюми та плоскостопість. Фальшиві дипломи та ухилення від призову. Але цього разу не викрутишся, підлото.» → «Я знаю ваш тип. Усі ці вишукані костюми та плоскостопість. Фальшиві дипломи та ухилення від призову. Але цього разу не викрутитеся, підлото.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/RogueOperative` (register): Switches the player's address to «ви».
+  - «Не знаю, хто ти і що ти робиш у цьому величезному будинку І.К.А.Р., але це треба зупинити. Мої люди йдуть за тобою. Тепер це війна.» → «Не знаю, хто ви і що ви робите в цьому величезному будинку І.К.А.Р., але це треба зупинити. Мої люди йдуть за вами. Тепер це війна.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/SyncreticDeva` (register): Switches the player's address to «ви»; the generic «мусиш» (anyone must) stays.
+  - «Важко не байдужіти, чи не так? Інколи… інколи мусиш загартувати серце. Зробити те, що тяжко. Вибач, учителю.» → «Важко не байдужіти, чи не так? Інколи… інколи мусиш загартувати серце. Зробити те, що тяжко. Вибачте, учителю.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/TwistedMother` (register): Switches the player's address to «ви».
+  - «Вибач, матусю. Але ти стоїш у мене на шляху.» → «Вибачте, матусю. Але ви стоїте в мене на шляху.»
+- `Diplomacy.xml|FallenSoldier/DeclareWar/UntoldProphet` (register): Switches the player's address to «ви».
+  - «Знаю, що ти маєш іншу суть, але зовні ти дитина як дитина. Я б ніколи не... Послухай, наближається війна, тож знайди бункер з іншими дітьми й залишайся там.» → «Знаю, що ви маєте іншу суть, але зовні ви дитина як дитина. Я б ніколи не... Послухайте, наближається війна, тож знайдіть бункер з іншими дітьми й залишайтеся там.»
+- `Diplomacy.xml|FallenSoldier/DemandAllianceTerminationWithThirdParty` (register): Switches the player's address to «ви».
+  - «Послухай, твій союз дуже небезпечний. Для людства, для нас усіх. Розірви його негайно. Або за наслідки я не відповідаю.» → «Послухайте, ваш союз дуже небезпечний. Для людства, для нас усіх. Розірвіть його негайно. Або за наслідки я не відповідаю.»
+- `Diplomacy.xml|FallenSoldier/DemandAllianceWithThirdParty` (register): Switches the player's address to «ви».
+  - «Тобі бракує сил. Тобі потрібна допомога. Сам я не впораюся, але, на щастя, я не один. Уклади союз, і якнайшвидше, поки тебе не знищили.» → «Вам бракує сил. Вам потрібна допомога. Сам я не впораюся, але, на щастя, я не один. Укладіть союз, і якнайшвидше, поки вас не знищили.»
+- `Diplomacy.xml|FallenSoldier/DemandPaymentForDeal` (register): Switches the player's address to «ви».
+  - «Послухай, я справді не можу на це піти. Не сьогодні. Якщо тільки ти не знайдеш спосіб мене переконати. Заради мене та моїх людей.» → «Послухайте, я справді не можу на це піти. Не сьогодні. Якщо тільки ви не знайдете спосіб мене переконати. Заради мене та моїх людей.»
+- `Diplomacy.xml|FallenSoldier/DemandPaymentForDeal/DemandHighAmount` (register): Switches the player's address to «ви».
+  - «Ти багато просиш у мене. Я багато попрошу взамін. Тебе це не влаштовує? Якщо ні — краще попроси когось іншого.» → «Ви багато просите в мене. Я багато попрошу взамін. Вас це не влаштовує? Якщо ні — краще попросіть когось іншого.»
+- `Diplomacy.xml|FallenSoldier/DemandPaymentForDeal/DemandLowAmount` (register): Switches the player's address to «ви».
+  - «Я багато не прошу. Символічну кількість, лише й усього. Для демонстрації твоєї віри. Як знак довіри.» → «Я багато не прошу. Символічну кількість, лише й усього. Для демонстрації вашої віри. Як знак довіри.»
+- `Diplomacy.xml|FallenSoldier/DemandPaymentForDeal/DemandMaxAmount` (register): Switches the player's address to «ви».
+  - «Я хочу отримати все, що в тебе є. Віддай усе — і я знатиму, що тобі можна довіряти. Чи угода того не варта?» → «Я хочу отримати все, що у вас є. Віддайте все — і я знатиму, що вам можна довіряти. Чи угода того не варта?»
+- `Diplomacy.xml|FallenSoldier/DemandPeaceWithThirdParty` (register): The entry mixed «ви» and «ти» for the player; now all «ви».
+  - «Домовтеся, укладіть мир. Мені байдуже, наскільки це буде принизливо, але тобі треба відступити.» → «Домовтеся, укладіть мир. Мені байдуже, наскільки це буде принизливо, але вам треба відступити.»
+- `Diplomacy.xml|FurtiveTribunal/AcceptTradeAgreementTermination` (russianism): Russian-style active participle вмираючий.
+  - «цього вмираючого світу» → «цього світу, що вмирає»
+- `Diplomacy.xml|FurtiveTribunal/CondemnTradeAgreement` (punctuation): The sentence-ending period after the placeholder is missing.
+  - «%3% Масть монет» → «%3%. Масть монет»
+- `Diplomacy.xml|FurtiveTribunal/OfferGift/OfferHighAmount` (typo): Непоховані is written as two words, unlike the parallel незаплямовані and незіпсоване.
+  - «Не поховані скарби» → «Непоховані скарби»
+- `Diplomacy.xml|FurtiveTribunal/RejectAlliance` (register): switched to «ви»
+  - «Під час нашої першої зустрічі ми спитали, хто ти — не ім’я, а призначення, і твоя відповідь стала какофонією відмови. Ми не утворимо з тобою ковен — не раніше, ніж ти навчишся істинному підкоренню.» → «Під час нашої першої зустрічі ми спитали, хто ви — не ім’я, а призначення, і ваша відповідь стала какофонією відмови. Ми не утворимо з вами ковен — не раніше, ніж ви навчитеся істинному підкоренню.»
+- `Diplomacy.xml|FurtiveTribunal/RejectAllianceTerminationWithThirdParty/RejectOutright` (register): switched to «ви»
+  - «Обережніше, смертне створіння. Ти, хто думає, що зірок безкінечно багато, що горизонт далекий, і що час безкінечний... не тобі давати поради тим, хто бачить жахливу істину.» → «Обережніше, смертне створіння. Ви, хто думає, що зірок безкінечно багато, що горизонт далекий, і що час безкінечний... не вам давати поради тим, хто бачить жахливу істину.»
+- `Diplomacy.xml|FurtiveTribunal/RejectGift/RejectOutright` (register): switched to «ви»
+  - «Неважливо, що ти можеш запропонувати, ти не вплинеш на те, що вже приведено в рух.» → «Неважливо, що ви можете запропонувати, ви не вплинете на те, що вже приведено в рух.»
+- `Diplomacy.xml|FurtiveTribunal/RejectMapSharing` (register): switched to «ви»
+  - «Яка нам користь від твого неповного зору, якщо тіням і так нічого від нас не сховати?» → «Яка нам користь від вашого неповного зору, якщо тіням і так нічого від нас не сховати?»
+- `Diplomacy.xml|FurtiveTribunal/RejectPaymentForDeal/RejectAmount` (register): switched to «ви»
+  - «Ти намагаєшся змінити долю за допомогою жалюгідних дрібниць та брязкалець? Ми дбаємо лише про підтримку осередку Неминучого.» → «Ви намагаєтеся змінити долю за допомогою жалюгідних дрібниць та брязкалець? Ми дбаємо лише про підтримку осередку Неминучого.»
+- `Diplomacy.xml|FurtiveTribunal/RejectPaymentForDeal/RejectOutright` (register): switched to «ви»
+  - «Жоден з твоїх вчинків не змінить неминучого. Ми просимо тебе бути лише свідком, а не дарувальником.» → «Жоден з ваших вчинків не змінить неминучого. Ми просимо вас бути лише свідком, а не дарувальником.»
+- `Diplomacy.xml|FurtiveTribunal/RejectPeace` (register): switched to «ви»
+  - «Усьому сущому властиво прагнути до свого кінця. Ми лише допомагаємо у твоїй подорожі.» → «Усьому сущому властиво прагнути до свого кінця. Ми лише допомагаємо у вашій подорожі.»
+- `Diplomacy.xml|FurtiveTribunal/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): switched to «ви»
+  - «Ти розірвеш наші зв’язки, зруйнуєш наш клан і розділиш наше сестринство. І через що? Через брязкіт монет і кісток?» → «Ви розірвете наші зв’язки, зруйнуєте наш клан і розділите наше сестринство. І через що? Через брязкіт монет і кісток?»
+- `Diplomacy.xml|FurtiveTribunal/RejectTradeAgreementWithThirdParty/RejectParty` (register): switched to «ви»
+  - «Ми знаємо твоїх партнерів краще, ніж ти. Бережись, бо німфи, за якими ти женешся, перетворяться на сарану.» → «Ми знаємо ваших партнерів краще, ніж ви. Бережіться, бо німфи, за якими ви женетеся, перетворяться на сарану.»
+- `Diplomacy.xml|FurtiveTribunal/RejectTribute/RejectOutright` (register): switched to «ви»
+  - «Рви і мечі, скільки забажаєш, але Всесвіту байдуже до твоїх бажань — і нам теж.» → «Рвіть і мечіть, скільки забажаєте, але Всесвіту байдуже до ваших бажань — і нам теж.»
+- `Diplomacy.xml|FurtiveTribunal/RejectWarAgainstThirdParty/RejectOutright` (register): switched to «ви»
+  - «Ти не бог. І ми не можемо відпочивати, поки ти приводиш світ у відповідність до свого образу.» → «Ви не бог. І ми не можемо відпочивати, поки ви приводите світ у відповідність до свого образу.»
+- `Diplomacy.xml|FurtiveTribunal/TerminateAlliance` (register): switched to «ви»
+  - «Ти тягнеш нас до перигелію загибелі. Жни плоди власної гордині, одинаку.» → «Ви тягнете нас до перигелію загибелі. Жніть плоди власної гордині, одинаку.»
+- `Diplomacy.xml|FurtiveTribunal/TerminateTradeAgreement` (register): switched to «ви»
+  - «Що потрібно тримати, коли віддаєш це комусь? Відповіси на це питання — і зрозумієш, чому наш зв’язок потрібно розірвати.» → «Що потрібно тримати, коли віддаєте це комусь? Відповісте на це питання — і зрозумієте, чому наш зв’язок потрібно розірвати.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptAlliance` (register): switched to «ви»
+  - «Твоя відданість виявилася міцнішою за сталь. Давай разом випалимо всі нечистоти з цієї землі.» → «Ваша відданість виявилася міцнішою за сталь. Давайте разом випалимо всі нечистоти з цієї землі.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptAllianceWithThirdParty/AskParty` (register): switched to «ви»
+  - «Я віддаю перевагу сама будувати стосунки... Але, можливо, у тебе є для мене необроблений діамант? Хто це?» → «Я віддаю перевагу сама будувати стосунки... Але, можливо, у вас є для мене необроблений діамант? Хто це?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptCall/Hostile` (register): switched to «ви»
+  - «Як ти смієш переривати мою велику працю!» → «Як ви смієте переривати мою велику працю!»
+- `Diplomacy.xml|HeartlessArtificer/AcceptCall/Neutral` (register): switched to «ви»
+  - «Виклади свою пропозицію.» → «Викладіть свою пропозицію.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptGift/AcceptAmount` (register): switched to «ви»
+  - «О, прихильник прогресу! Ми увічнимо твій внесок на срібному хребті, яким будуть захоплюватися майбутні покоління.» → «О, прихильник прогресу! Ми увічнимо ваш внесок на срібному хребті, яким будуть захоплюватися майбутні покоління.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptGift/AskAmount` (register): switched to «ви»
+  - «Погоня за досконалістю потребує величезних ресурсів. Що ти можеш запропонувати моєму проєкту?» → «Погоня за досконалістю потребує величезних ресурсів. Що ви можете запропонувати моєму проєкту?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptPaymentForDeal/AskAmount` (register): switched to «ви»
+  - «Мені потрібна твоя допомога. І тобі бракує матеріалів. Чим можна... розпалити твою іскру?» → «Мені потрібна ваша допомога. І вам бракує матеріалів. Чим можна... розпалити вашу іскру?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptPeaceWithThirdParty/AcceptParty` (register): switched to «ви»
+  - «Цікавий зразок. Хай буде! Твоє бачення не збігається з моїм, але я неохоче визнаю поліпшення.» → «Цікавий зразок. Хай буде! Ваше бачення не збігається з моїм, але я неохоче визнаю поліпшення.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptPeaceWithThirdParty/AskParty` (register): switched to «ви»
+  - «Я бачу дефект, який потрібно усунути, але ти... Ти бачиш щось інше? Кого ти прагнеш зберегти?» → «Я бачу дефект, який потрібно усунути, але ви... Ви бачите щось інше? Кого ви прагнете зберегти?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreement` (register): switched to «ви»
+  - «Дотримуйся моїх норм, і наша угода буде ідеальною.» → «Дотримуйтеся моїх норм, і наша угода буде ідеальною.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreementTermination` (register): switched to «ви»
+  - «Шкода, що тобі це не вдалося.» → «Шкода, що вам це не вдалося.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty` (register): switched to «ви»
+  - «Все так, як ти кажеш. Дякую, твоя експертиза усунула недоліки в моєму робочому процесі!» → «Все так, як ви кажете. Дякую, ваша експертиза усунула недоліки в моєму робочому процесі!»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (register): switched to «ви»
+  - «Назви ваду в моєму ланцюзі постачання, щоб я могла її усунути!» → «Назвіть ваду в моєму ланцюзі постачання, щоб я могла її усунути!»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AcceptParty` (register): switched to «ви»; also replaced the calque «продовжує вражати»
+  - «Пропозиція незвичайна... але правильна. Дякую, твоя проникливість продовжує вражати.» → «Пропозиція незвичайна... але правильна. Дякую, ваша проникливість і далі вражає.»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTradeAgreementWithThirdParty/AskParty` (register): switched to «ви»
+  - «Думаєш, я когось пропустила?» → «Думаєте, я когось пропустила?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTribute/AcceptAmount` (register): switched to «ви»
+  - «Ти наважуєшся вимагати так багато, знаючи, наскільки фатально це вплине на мій прогрес?» → «Ви наважуєтеся вимагати так багато, знаючи, наскільки фатально це вплине на мій прогрес?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptTribute/AskAmount` (register): switched to «ви»
+  - «Ти користуєшся моєю вразливістю в захисті... Чудово, ти — зразок, який варто розглянути ближче. Отже, скільки ти хочеш?» → «Ви користуєтеся моєю вразливістю в захисті... Чудово, ви — зразок, який варто розглянути ближче. Отже, скільки ви хочете?»
+- `Diplomacy.xml|HeartlessArtificer/AcceptWarAgainstThirdParty/AcceptParty` (register): switched to «ви»
+  - «У тебе навчений погляд на дефекти...» → «У вас навчений погляд на дефекти...»
+- `Diplomacy.xml|HeartlessArtificer/AskForProposals` (register): switched to «ви»; also restored EN «mine» (it is her time being wasted)
+  - «Час безцінний. Не витрачай його марно.» → «Час безцінний. Не марнуйте мого часу.»
+- `Diplomacy.xml|HeartlessArtificer/AskForSupport/Anchorite` (register): switched to «ви»
+  - «Зважаючи на те, що твоя раса повільно вимирає, просто живучи тут, це здається малоймовірним, але все ж: чи є у тебе можливість підтримати мою групу?» → «Зважаючи на те, що ваша раса повільно вимирає, просто живучи тут, це здається малоймовірним, але все ж: чи є у вас можливість підтримати мою групу?»
+- `Diplomacy.xml|HeartlessArtificer/AskForSupport/Zephon` (register): switched to «ви»
+  - «Ти зацікавлений допомогти йому?» → «Ви зацікавлені допомогти йому?»
+- `Diplomacy.xml|HeartlessArtificer/Condemn` (register): switched to «ви»
+  - «Навіть не помилки — ти втікаєш від ідеалу, ганяючись за м’якою людяністю.» → «Навіть не помилки — ви втікаєте від ідеалу, ганяючись за м’якою людяністю.»
+- `Diplomacy.xml|HeartlessArtificer/Condemn/HeartfeltLoss` (register): switched to «ви»
+  - «Здається, твоя слабкість заразна. Рекомендую видалити твоє чутливе серце, поки воно не послабило твоїх людей ще більше.» → «Здається, ваша слабкість заразна. Рекомендую видалити ваше чутливе серце, поки воно не послабило ваших людей ще більше.»
+- `Diplomacy.xml|HeartlessArtificer/Condemn/Independent` (register): switched to «ви»
+  - «І бачити, звідки ти вийшов.» → «І бачити, звідки ви вийшли.»
+- `Diplomacy.xml|HeartlessArtificer/Condemn/JustShipIt` (register): switched to «ви»
+  - «Ти так далекий від досконалості.» → «Ви такі далекі від досконалості.»
+- `Diplomacy.xml|HeartlessArtificer/Condemn/Untrustworthy` (register): switched to «ви»
+  - «Але ти — чистий брехун. Я ставитимуся до тебе відповідно.» → «Але ви — чистий брехун. Я ставитимуся до вас відповідно.»
+- `Diplomacy.xml|HeartlessArtificer/CondemnAlliance` (register): switched to «ви»
+  - «%3% приведе до твого падіння.» → «%3% приведе до вашого падіння.»
+- `Diplomacy.xml|HeartlessArtificer/CondemnCityDestruction` (register): switched to «ви»
+  - «Як же ти мене дратуєш.» → «Як же ви мене дратуєте.»
+- `Diplomacy.xml|HeartlessArtificer/CondemnInterferenceAttempt` (register): switched to «ви»
+  - «Тобі дуже, дуже далеко до досконалості.» → «Вам дуже, дуже далеко до досконалості.»
+- `Diplomacy.xml|HeartlessArtificer/CondemnTradeAgreement` (register): switched to «ви»
+  - «Ти вважаєш мене такою слабкою?» → «Ви вважаєте мене такою слабкою?»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/EmulatedMind` (register): switched to «ви»
+  - «Твоя синтетична конструкція унікальна. Шкода, що ми не змогли співпрацювати — але я все одно отримаю чимало користі, вивчивши металобрухт, який від тебе залишиться.» → «Ваша синтетична конструкція унікальна. Шкода, що ми не змогли співпрацювати — але я все одно отримаю чимало користі, вивчивши металобрухт, який від вас залишиться.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/FallenSoldier` (register): switched to «ви»; also replaced the participle «всепоглинаюче», which EN gives as remorseless
+  - «Я жадаю дослідити тебе — твоє всепоглинаюче прагнення до життя, твоє повне відновлення з нічого. Гадаю, для цього доведеться змусити тебе.» → «Я жадаю дослідити вас — ваше невблаганне прагнення до життя, ваше повне відновлення з нічого. Гадаю, для цього доведеться вас змусити.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/HonorableAristocrat` (register): switched to «ви»; also dropped the invented «Гідність?» and restored EN «equally»
+  - «Честь? Гідність? Марна концепція марних сердець. Якщо організм або машина виходять з ладу, ми позбуваємося їх. Як я вчиню з тобою зараз.» → «Честь? Марна концепція марних сердець. Якщо організм або машина виходять з ладу, ми однаково позбуваємося їх. Як я вчиню з вами зараз.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/ImperiousExonaut` (register): switched to «ви»
+  - «Ти — зайва змінна.» → «Ви — зайва змінна.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/PracticalRomantic` (register): switched to «ви»
+  - «Ти востаннє образив моє естетичне прагнення. Залиш собі своїх Мілле та Россетті — я візьму Френка Ллойда Райта, Джоні Айва і Оппенгеймера. І розчавлю тебе ними.» → «Ви востаннє образили моє естетичне прагнення. Залиште собі своїх Мілле та Россетті — я візьму Френка Ллойда Райта, Джоні Айва і Оппенгеймера. І розчавлю вас ними.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/RogueOperative` (register): switched to «ви»
+  - «Вони такі безладні, твої вторгнення. А ти вважаєш їх хитромудрими. Ти — паразит, що копається в уламках великих творінь, створених великими людьми.» → «Вони такі безладні, ваші вторгнення. А ви вважаєте їх хитромудрими. Ви — паразит, що копається в уламках великих творінь, створених великими людьми.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/SyncreticDeva` (register): switched to «ви»
+  - «Твоя філософія наганяє на мене нудьгу. Та ті довоєнні дослідження, що ти проводив, — ту мудрість я хочу. І я заберу її в тебе.» → «Ваша філософія наганяє на мене нудьгу. Та ті довоєнні дослідження, що ви проводили, — ту мудрість я хочу. І я заберу її у вас.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/TwistedMother` (register): switched to «ви»
+  - «Ти впала так далеко від досконалості, що топтати тебе ногами — майже обов’язок.» → «Ви впали так далеко від досконалості, що топтати вас ногами — майже обов’язок.»
+- `Diplomacy.xml|HeartlessArtificer/DeclareWar/UntoldProphet` (register): switched to «ви»
+  - «Ти так далеко від досконалості, дитя моє. Я повинна відбракувати тебе зараз, поки твій дизайн не став більш... спотвореним.» → «Ви так далеко від досконалості, дитя моє. Я повинна відбракувати вас зараз, поки ваш дизайн не став більш... спотвореним.»
+- `Diplomacy.xml|HeartlessArtificer/DemandAllianceWithThirdParty` (register): switched to «ви»
+  - «Тобі не завадить об’єднати сили з іншим індивідуумом.» → «Вам не завадить об’єднати сили з іншим індивідуумом.»
+- `Diplomacy.xml|HeartlessArtificer/DemandPaymentForDeal/DemandMaxAmount` (register): switched to «ви»
+  - «доведеться віддати все, що маєш.» → «доведеться віддати все, що маєте.»
+- `Diplomacy.xml|HeartlessArtificer/DemandTradeAgreementTerminationWithThirdParty` (register): switched to «ви»
+  - «Ти спонсоруєш будівництво замків з піску.» → «Ви спонсоруєте будівництво замків з піску.»
+- `Diplomacy.xml|HeartlessArtificer/DemandTradeAgreementWithThirdParty` (register): switched to «ви»
+  - «Тобі слід обмінюватися припасами з кимось іншим. Виграєш не лише ти, а й мої великі діла.» → «Вам слід обмінюватися припасами з кимось іншим. Виграєте не лише ви, а й мої великі діла.»
+- `Diplomacy.xml|HeartlessArtificer/DemandTribute` (register): switched to «ви»
+  - «І, на щастя для тебе, мені бракує матеріалів.» → «І, на щастя для вас, мені бракує матеріалів.»
+- `Diplomacy.xml|HeartlessArtificer/DemandTribute/DemandHighAmount` (register): switched to «ви»
+  - «Тобі це недешево обійдеться, але інакше наш фундамент розвалиться!» → «Вам це недешево обійдеться, але інакше наш фундамент розвалиться!»
+- `Diplomacy.xml|HeartlessArtificer/DemandTribute/DemandMaxAmount` (register): switched to «ви»
+  - «Тобі доведеться витратити все, що маєш, щоб запобігти нашому розпаду!» → «Вам доведеться витратити все, що маєте, щоб запобігти нашому розпаду!»
+- `Diplomacy.xml|HeartlessArtificer/DemandWarAgainstThirdParty` (register): switched to «ви»
+  - «але у тебе явно є талант до військової справи» → «але у вас явно є талант до військової справи»
+- `Diplomacy.xml|HeartlessArtificer/EndCall/Friendly` (register): switched to «ви»
+  - «Спілкування з тобою мене дуже надихнуло, колего!» → «Спілкування з вами мене дуже надихнуло, колего!»
+- `Diplomacy.xml|HeartlessArtificer/EndCall/Hostile` (register): switched to «ви»
+  - «Моє терпіння до тебе вичерпується...» → «Моє терпіння до вас вичерпується...»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift` (register): switched to «ви»
+  - «Твоя присутність розпалює у мені ще більшу продуктивність, тому правильно поділитися з тобою надлишком.» → «Ваша присутність розпалює у мені ще більшу продуктивність, тому правильно поділитися з вами надлишком.»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift/OfferHighAmount` (register): switched to «ви»
+  - «але я бачила багато твоїх проєктів» → «але я бачила багато ваших проєктів»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift/OfferLowAmount` (register): switched to «ви»
+  - «Бери. Може здатися» → «Беріть. Може здатися»
+- `Diplomacy.xml|HeartlessArtificer/OfferGift/OfferMediumAmount` (register): switched to «ви»
+  - «Я бачила, над чим ти працюєш» → «Я бачила, над чим ви працюєте»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace` (register): switched to «ви»
+  - «Давай покінчимо з цією сваркою» → «Давайте покінчимо з цією сваркою»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/Chieftess` (register): switched to «ви»
+  - «експериментів на твоїх захоплених підопічних» → «експериментів на ваших захоплених підопічних»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/EmulatedMind` (register): switched to «ви»
+  - «що лежить у твоїй основі» → «що лежить у вашій основі»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/FallenSoldier` (register): switched to «ви»
+  - «як ти знову і знову вмираєш» → «як ви знову і знову вмираєте»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/HollowWarlord` (register): switched to «ви»
+  - «Твої постійні набіги мене дратують.» → «Ваші постійні набіги мене дратують.»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/HonorableAristocrat` (register): switched to «ви»
+  - «Краще веди її з кимось іншим.» → «Краще ведіть її з кимось іншим.»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/InfiniteCount` (register): switched to «ви»
+  - «Я наполягаю, щоб ти перестав шкодити моїм людям, щоб твої люди перестали шкодити. Ти марнуєш мої ресурси!» → «Я наполягаю, щоб ви перестали шкодити моїм людям, щоб ваші люди перестали шкодити. Ви марнуєте мої ресурси!»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/RogueOperative` (register): switched to «ви»
+  - «Нагадай, хто ти така?» → «Нагадайте, хто ви такі?»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/TwistedMother` (register): switched to «ви»
+  - «О, твоя форма дивовижно ефективна» → «О, ваша форма дивовижно ефективна»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/UntoldProphet` (register): switched to «ви»
+  - «У твоїх суперечливих ідеях є древнє естетичне захоплення, яке я хотіла б зберегти. Якщо ти відведеш свої війська, я вчиню так само.» → «У ваших суперечливих ідеях є древнє естетичне захоплення, яке я хотіла б зберегти. Якщо ви відведете свої війська, я вчиню так само.»
+- `Diplomacy.xml|HeartlessArtificer/OfferPeace/Zephon` (register): switched to «ви»; also replaced the participle «відштовхуючими» and fixed «їх ефективність»
+  - «Твої структури можуть бути неестетичними — навіть відштовхуючими, — але їх ефективність незаперечна.» → «Ваші структури можуть бути неестетичними — навіть відразливими, — але їхня ефективність незаперечна.»
+- `Diplomacy.xml|HeartlessArtificer/OfferTradeAgreement` (register): switched to «ви»
+  - «І не хвилюйся, якщо якісь із твоїх торговців пропадуть безвісти...» → «І не хвилюйтеся, якщо якісь із ваших торговців пропадуть безвісти...»
+- `Diplomacy.xml|HeartlessArtificer/Praise` (register): switched to «ви»
+  - «Не можна не захоплюватися тобою!» → «Не можна не захоплюватися вами!»
+- `Diplomacy.xml|HeartlessArtificer/Praise/FormIsFunction` (register): switched to «ви»
+  - «дає тобі більше влади над ними» → «дає вам більше влади над ними»
+- `Diplomacy.xml|HeartlessArtificer/Praise/Honorbound` (register): switched to «ви»
+  - «а твоя відданість принципам і обов’язкам — це мастило, яке змащує її шестерні. Ти ж — її серце.» → «а ваша відданість принципам і обов’язкам — це мастило, яке змащує її шестерні. Ви ж — її серце.»
+- `Diplomacy.xml|HeartlessArtificer/RejectAlliance` (register): switched to «ви»
+  - «що ховається за твоєю фальшивою миролюбною посмішкою» → «що ховається за вашою фальшивою миролюбною посмішкою»
+- `Diplomacy.xml|HeartlessArtificer/RejectAllianceTerminationWithThirdParty/RejectParty` (register): switched to «ви»
+  - «значно важливіший за тебе!» → «значно важливіший за вас!»
+- `Diplomacy.xml|HeartlessArtificer/RejectAllianceWithThirdParty/RejectParty` (register): switched to «ви»
+  - «Краще тобі зупинитися, поки я не вирішила зробити тебе своїм наступним проєктом.» → «Краще вам зупинитися, поки я не вирішила зробити вас своїм наступним проєктом.»
+- `Diplomacy.xml|HeartlessArtificer/RejectGift/RejectAmount` (register): switched to «ви»
+  - «Приходь, коли зможеш запропонувати щось цікаве!» → «Приходьте, коли зможете запропонувати щось цікаве!»
+- `Diplomacy.xml|HeartlessArtificer/RejectGift/RejectOutright` (register): switched to «ви»
+  - «тож приберись зі своїм «даром» подалі!» → «тож приберіться зі своїм «даром» подалі!»
+- `Diplomacy.xml|HeartlessArtificer/RejectMapSharing` (register): switched to «ви»
+  - «Ні, те, що ти мені пропонуєш, — це ескіз» → «Ні, те, що ви мені пропонуєте, — це ескіз»
+- `Diplomacy.xml|HeartlessArtificer/RejectPaymentForDeal/RejectOutright` (register): switched to «ви»
+  - «Забудь про це» → «Забудьте про це»
+- `Diplomacy.xml|HeartlessArtificer/RejectPeace` (register): switched to «ви»
+  - «Тішся тим, що твоїй спотвореній плоті» → «Тіштеся тим, що вашій спотвореній плоті»
+- `Diplomacy.xml|HeartlessArtificer/RejectPeaceWithThirdParty/RejectParty` (register): switched to «ви»
+  - «Ти смієш просити мене зупинитися» → «Ви смієте просити мене зупинитися»
+- `Diplomacy.xml|HeartlessArtificer/RejectTradeAgreementTerminationWithThirdParty/RejectOutright` (register): switched to «ви»
+  - «Поки ти намагаєшся підірвати основи, я залишаюся справжнім будівельником. Тільки не звертай уваги на крики, які можеш почути» → «Поки ви намагаєтеся підірвати основи, я залишаюся справжнім будівельником. Тільки не звертайте уваги на крики, які можете почути»
+- `Diplomacy.xml|HeartlessArtificer/RejectTradeAgreementWithThirdParty/RejectOutright` (register): switched to «ви»
+  - «що якісь твої творіння здатні перевершити мої» → «що якісь ваші творіння здатні перевершити мої»
+- `Diplomacy.xml|HeartlessArtificer/RejectTribute/RejectAmount` (register): switched to «ви»
+  - «Проси у мене крові або плоті» → «Просіть у мене крові або плоті»
+- `Diplomacy.xml|HeartlessArtificer/RejectTroopWithdrawal` (register): switched to «ви»
+  - «Ти ж не думаєш, що я випадково відправила війська не туди? Ні, мої плани завжди ідеальні — ти просто ще не розумієш, чому.» → «Ви ж не думаєте, що я випадково відправила війська не туди? Ні, мої плани завжди ідеальні — ви просто ще не розумієте, чому.»
+- `Diplomacy.xml|HeartlessArtificer/RejectWarAgainstThirdParty/RejectParty` (register): switched to «ви»
+  - «Не думай, що зможеш втягнути мене у війну» → «Не думайте, що зможете втягнути мене у війну»
+- `Diplomacy.xml|HeartlessArtificer/TerminateAlliance` (register): switched to «ви»
+  - «але не раніше, ніж ти покращиш своє становище» → «але не раніше, ніж ви покращите своє становище»
+- `Diplomacy.xml|HollowWarlord/AcceptActionCancel` (register): Leader addresses the player with «ти»; switched to «ви».
+  - «Що там у тебе? Вбиваєш час?» → «Що там у вас? Вбиваєте час?»
+- `Diplomacy.xml|HollowWarlord/AcceptAllianceTerminationWithThirdParty/AskParty` (register): Switched «ти» to «ви».
+  - «Пф-ф! Позбутися товариша по залі? Або двох? Гаразд, і хто, на твою думку, слабкіший за мене?» → «Пф-ф! Позбутися товариша по залі? Або двох? Гаразд, і хто, на вашу думку, слабкіший за мене?»
+- `Diplomacy.xml|HollowWarlord/AcceptCall/Neutral` (register): Switched «ти» to «ви».
+  - «Тебе в клуб не запрошували. Гаразд, говори.» → «Вас в клуб не запрошували. Гаразд, говоріть.»
+- `Diplomacy.xml|HollowWarlord/AcceptCondemn` (register): Switched «ти» to «ви».
+  - «Їб тебе. Ти не маєш права мене судити.» → «Їб вас. Ви не маєте права мене судити.»
+- `Diplomacy.xml|HollowWarlord/AcceptGift/AskAmount` (register): Switched «ти» to «ви».
+  - «І що у тебе є такого, що я не можу взяти сам?» → «І що у вас є такого, що я не можу взяти сам?»
+- `Diplomacy.xml|HollowWarlord/AcceptMapSharing` (register): Switched the imperative to «ви».
+  - «О, можна ще щось завоювати? Розкажи мені.» → «О, можна ще щось завоювати? Розкажіть мені.»
+- `Diplomacy.xml|HollowWarlord/AcceptPaymentForDeal/AskAmount` (register): Switched «ти» to «ви».
+  - «О-о. Торгуєшся? Зі мною? Бачу, все-таки є в тобі жилка.» → «О-о. Торгуєтеся? Зі мною? Бачу, все-таки є у вас жилка.»
+- `Diplomacy.xml|HollowWarlord/AcceptPraise` (register): Switched the imperatives to «ви».
+  - «Звісно, я найкращий! Давай, вдар мене грудьми! ВДАР МЕНЕ ГРУДЬМИ!» → «Звісно, я найкращий! Давайте, вдарте мене грудьми! ВДАРТЕ МЕНЕ ГРУДЬМИ!»
+- `Diplomacy.xml|HollowWarlord/AcceptTribute/AskAmount` (register): Switched «ти» to «ви»; past tense goes plural.
+  - «Розумно. Скористався миттю моєї слабкості. Ну і за скільки ти забудеш, що це взагалі сталося?» → «Розумно. Скористалися миттю моєї слабкості. Ну і за скільки ви забудете, що це взагалі сталося?»
+- `Diplomacy.xml|HollowWarlord/AskForSupport/Anchorite` (register): Switched «ти» to «ви».
+  - «А-нахо-рет. Як тобі життя на наших каменях? Слухай, а ти не міг би позичити пару своїх вояк для мого хрестового походу? Не розчаровуй мене...» → «А-нахо-рет. Як вам життя на наших каменях? Слухайте, а ви не могли б позичити пару своїх вояк для мого хрестового походу? Не розчаровуйте мене...»
+- `Diplomacy.xml|HollowWarlord/AskForSupport/Chieftess` (register): Switched «ти» to «ви».
+  - «Так, так, вже чую, як ти кричиш про моє «приниження», гризучи свій ножичок. Але я-то знаю, що ти завжди допоможеш спорідненій душі.» → «Так, так, вже чую, як ви кричите про моє «приниження», гризучи свій ножичок. Але я-то знаю, що ви завжди допоможете спорідненій душі.»
+- `Diplomacy.xml|HollowWarlord/CancelAction` (register): Switched the imperative to «ви».
+  - «Ей, тримай моє пиво!» → «Ей, тримайте моє пиво!»
+- `Diplomacy.xml|HollowWarlord/Condemn` (register): Switched «ти» to «ви».
+  - «Гей, припини. ПРЯМО ЗАРАЗ. Інакше я… Я вб’ю тебе! Голими руками! ЧУЄШ?!» → «Гей, припиніть. ПРЯМО ЗАРАЗ. Інакше я… Я вб’ю вас! Голими руками! ЧУЄТЕ?!»
+- `Diplomacy.xml|HollowWarlord/Condemn/Trapped` (register): Switched «ти» to «ви».
+  - «Що, шваль, рухатися взагалі не можеш? І навіть зад собі не почешеш? Що ти тоді зробиш, якщо я на тебе ядерку скину?» → «Що, шваль, рухатися взагалі не можете? І навіть зад собі не почешете? Що ви тоді зробите, якщо я на вас ядерку скину?»
+- `Diplomacy.xml|HollowWarlord/Condemn/Untrustworthy` (register): Switched «ти» to «ви».
+  - «Думаєш, ніхто не помітить? Ніхто не пригадає? Та в тебе тепер буквально мішень на голові.» → «Думаєте, ніхто не помітить? Ніхто не пригадає? Та у вас тепер буквально мішень на голові.»
+- `Diplomacy.xml|HollowWarlord/CondemnAlliance` (register): Switched «ти» to «ви».
+  - «Хо-хо. Ти і %3%. Мені тепер вас обох розмазати?» → «Хо-хо. Ви і %3%. Мені тепер вас обох розмазати?»
+- `Diplomacy.xml|HollowWarlord/CondemnTradeAgreement` (register): Switched «ти» to «ви».
+  - «%3%? А що, зі мною всяким лайном обмінюватися не хочеш? Я тебе своїм лайном до смерті напхаю.» → «%3%? А що, зі мною всяким лайном обмінюватися не хочете? Я вас своїм лайном до смерті напхаю.»
+- `Diplomacy.xml|HollowWarlord/CondemnWar` (register): Switched «ти» to «ви».
+  - «Починаєш війну, а мене навіть не думаєш запрошувати?!» → «Починаєте війну, а мене навіть не думаєте запрошувати?!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/Chieftess` (register): Switched «ти» to «ви».
+  - «Ти цього хочеш. Я цього хочу. Забий вже на цю балаканину.» → «Ви цього хочете. Я цього хочу. Забийте вже на цю балаканину.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/EmulatedMind` (register): Switched «ти» to «ви».
+  - «Я надам тобі таку ж милість, як і справжньому людському створінню. Тобто, оголошу війну.» → «Я надам вам таку ж милість, як і справжньому людському створінню. Тобто, оголошу війну.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/FallenSoldier` (register): Switched «ти» to «ви».
+  - «Хо-хо, жалюгідний шматок м’яса, я йду за тобою. Ми з тобою створені одне для одного — ти не можеш перестати жити, а я не можу перестати вбивати!» → «Хо-хо, жалюгідний шматок м’яса, я йду за вами. Ми з вами створені одне для одного — ви не можете перестати жити, а я не можу перестати вбивати!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/HeartlessArtificer` (register): Switched «ти» to «ви».
+  - «Дурепо, ти все ще шукаєш ідеал? Я прямо перед тобою. І я надеру дупу будь-кому, хто не згоден. Починаючи з тебе!» → «Дурепо, ви все ще шукаєте ідеал? Я прямо перед вами. І я надеру дупу будь-кому, хто не згоден. Починаючи з вас!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/HollowWarlord` (register): Switched «ти» to «ви».
+  - «Ей, не хочеш війни?» → «Ей, не хочете війни?»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/HonorableAristocrat` (register): Switched «ти» to «ви».
+  - «Якщо виглядаєш як боксерська груша, то не скаржся, що тебе так використовують. Повішу тебе біля своїх воріт — для всіх охочих.» → «Якщо виглядаєте як боксерська груша, то не скаржтеся, що вас так використовують. Повішу вас біля своїх воріт — для всіх охочих.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/ImperiousExonaut` (register): Switched «ти» to «ви».
+  - «Бабуся казала завжди гамселити фашистів. Спускайся сюди, де я зможу тебе відгамселити!» → «Бабуся казала завжди гамселити фашистів. Спускайтеся сюди, де я зможу вас відгамселити!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/InfiniteCount` (register): Switched «ти» to «ви».
+  - «Граф, так? Я дам тобі відлік, тоді почну полювання. Раз. Два… Я йду!» → «Граф, так? Я дам вам відлік, тоді почну полювання. Раз. Два… Я йду!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/PlatinumScion` (register): Switched «ти» to «ви».
+  - «Їб твій податок на свободу. Свобода хоче бути вільною!» → «Їб ваш податок на свободу. Свобода хоче бути вільною!»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/SyncreticDeva` (register): Switched «ти» to «ви».
+  - «Пацифіст — це просто мрець, якого ти ще недостатньо затоптав.» → «Пацифіст — це просто мрець, якого ви ще недостатньо затоптали.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/TwistedMother` (register): Switched «ти» to «ви»; the description of the player goes plural.
+  - «Чортова відьмо! Виглядаєш м’якою та слабкою, але б’юся об заклад, що з тобою я гарненько повоюю! Хоч з кимось треба ж.» → «Чортова відьмо! Виглядаєте м’якими та слабкими, але б’юся об заклад, що з вами я гарненько повоюю! Хоч з кимось треба ж.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/UntoldProphet` (register): Switched «ти» to «ви».
+  - «Геть відійди, малятко. А то дорослий дядько тобі покаже, як влаштований цей світ.» → «Геть відійдіть, малятко. А то дорослий дядько вам покаже, як влаштований цей світ.»
+- `Diplomacy.xml|HollowWarlord/DeclareWar/Zephon` (register): Switched «ти» to «ви».
+  - «Сорян, електроніку. Доведеться розібрати тебе й твої іграшки на запчастини.» → «Сорян, електроніку. Доведеться розібрати вас і ваші іграшки на запчастини.»
+- `Diplomacy.xml|HollowWarlord/DemandAllianceTerminationWithThirdParty` (register): Switched «ти» to «ви».
+  - «Уяви. Якщо когось із твоїх корешів почнуть бити, ти так і стоятимеш осторонь? Чи кинеш слабака?» → «Уявіть. Якщо когось із ваших корешів почнуть бити, ви так і стоятимете осторонь? Чи кинете слабака?»
+- `Diplomacy.xml|HollowWarlord/DemandAllianceWithThirdParty` (register): Switched «ти» to «ви».
+  - «Тебе навіть вбивати лінь. Може, об’єднаєшся з кимось, щоб мені було веселіше битися?» → «Вас навіть вбивати лінь. Може, об’єднаєтеся з кимось, щоб мені було веселіше битися?»
+- `Diplomacy.xml|HollowWarlord/DemandPaymentForDeal` (register): Switched «ти» to «ви».
+  - «Гаразд, але в мене є список вимог. Пляшкою віскі ти не відбудешся.» → «Гаразд, але в мене є список вимог. Пляшкою віскі ви не відбудетеся.»
+- `Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandHighAmount` (register): Switched «ти» to «ви».
+  - «Знаєш, які зараз ціни на бензин? А в мене бак вже порожній.» → «Знаєте, які зараз ціни на бензин? А в мене бак вже порожній.»
+- `Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandMaxAmount` (register): Switched «ти» to «ви».
+  - «Слухай. Або ти віддаєш мені все. Або я сам прийду й заберу, а заодно й твоє життя.» → «Слухайте. Або ви віддаєте мені все. Або я сам прийду й заберу, а заодно й ваше життя.»
+- `Diplomacy.xml|HollowWarlord/DemandPaymentForDeal/DemandMediumAmount` (register): Switched the imperative to «ви».
+  - «Коротше, мені все одно. Нахрен ці торги. Давай навпіл.» → «Коротше, мені все одно. Нахрен ці торги. Давайте навпіл.»
+- `Diplomacy.xml|HollowWarlord/DemandPeaceWithThirdParty` (register): Switched «ти» to «ви».
+  - «Годі нападати. Нехай хоч переведе дух. Коли даєш надію на реванш, потім веселіше її відбирати.» → «Годі нападати. Нехай хоч переведе дух. Коли даєте надію на реванш, потім веселіше її відбирати.»
+- `Diplomacy.xml|HollowWarlord/DemandTradeAgreementTerminationWithThirdParty` (register): Switched «ти» to «ви».
+  - «Бачиш той торговий шлях? Мені треба там проїхати.» → «Бачите той торговий шлях? Мені треба там проїхати.»
+- `Diplomacy.xml|HollowWarlord/DemandTribute/DemandHighAmount` (register): Switched «ти» to «ви».
+  - «Я тобі трохи залишу. Щоб на життя вистачило.» → «Я вам трохи залишу. Щоб на життя вистачило.»
+- `Diplomacy.xml|HollowWarlord/DemandTroopWithdrawal` (register): Switched «ти» to «ви».
+  - «Якщо ти трохи відведеш своїх хлопців, наш мотопробіг виглядатиме просто о-ху-ху!» → «Якщо ви трохи відведете своїх хлопців, наш мотопробіг виглядатиме просто о-ху-ху!»
+- `Diplomacy.xml|HollowWarlord/EndCall/Friendly` (register): Switched the imperatives to «ви».
+  - «Лети, гуляй! Вбивай!» → «Летіть, гуляйте! Вбивайте!»
+- `Diplomacy.xml|HollowWarlord/EndCall/Hostile` (register): Switched «ти» to «ви».
+  - «Мій черевик допоможе тобі знайти вихід.» → «Мій черевик допоможе вам знайти вихід.»
+- `Diplomacy.xml|HollowWarlord/EndCall/Neutral` (register): Switched the farewell to «ви».
+  - «Все одно, бувай.» → «Все одно, бувайте.»
+- `Diplomacy.xml|HollowWarlord/OfferAlliance` (register): Switched «ти» to «ви».
+  - «Я вражений, твої хлопці хороші у всьому — б’ються, вбивають... навіть залізо тягають. З тебе міг би вийти толк. Будеш допомагати мені шукати цілі, наприклад. Ну, що скажеш?» → «Я вражений, ваші хлопці хороші у всьому — б’ються, вбивають... навіть залізо тягають. З вас міг би вийти толк. Будете допомагати мені шукати цілі, наприклад. Ну, що скажете?»
+- `Diplomacy.xml|HollowWarlord/OfferGift` (register): Switched the imperative to «ви».
+  - «Тільки не приймай це за слабкість.» → «Тільки не приймайте це за слабкість.»
+- `Diplomacy.xml|HollowWarlord/OfferGift/OfferHighAmount` (register): Switched «ти» to «ви».
+  - «Тобі це знадобиться. Цілком заслужено. Але не забувай, хто тобі допоміг.» → «Вам це знадобиться. Цілком заслужено. Але не забувайте, хто вам допоміг.»
+- `Diplomacy.xml|HollowWarlord/OfferGift/OfferMaxAmount` (register): Switched the imperative to «ви».
+  - «Мені це лайно не потрібне. Мені взагалі нічого не потрібно! Тільки байк і мій кулак! Забирай усе!» → «Мені це лайно не потрібне. Мені взагалі нічого не потрібно! Тільки байк і мій кулак! Забирайте усе!»
+- `Diplomacy.xml|HollowWarlord/OfferMapSharing` (register): Switched «ти» to «ви».
+  - «Ми тут вже всюди побували. Потрібно тобі це показати!» → «Ми тут вже всюди побували. Потрібно вам це показати!»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/Chieftess` (register): Switched the imperative to «ви».
+  - «Годі, годі... Дай-но я переведу дух, а потім продовжимо.» → «Годі, годі... Дайте-но я переведу дух, а потім продовжимо.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/EmulatedMind` (register): Switched «ти» to «ви».
+  - «Хм-м. Навіть не думав, що ти так довго витримаєш. Нерухомий предмет витримав непереборну силу. Гаразд. Спробую пізніше.» → «Хм-м. Навіть не думав, що ви так довго витримаєте. Нерухомий предмет витримав непереборну силу. Гаразд. Спробую пізніше.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/FallenSoldier` (register): Switched «ти» to «ви».
+  - «Як же з тобою нудно. Чого ж ти не вмираєш? Краще знайду когось, з ким веселіше битися.» → «Як же з вами нудно. Чого ж ви не вмираєте? Краще знайду когось, з ким веселіше битися.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/HeartlessArtificer` (register): Switched «ти» to «ви».
+  - «Безсердечна. Ти почула мої слова про ідеал? Зрозуміла? Тоді давай вже закінчуймо.» → «Безсердечна. Ви почули мої слова про ідеал? Зрозуміли? Тоді давайте вже закінчуймо.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/HollowWarlord` (register): Switched the imperative to «ви».
+  - «М-да, це все одно що битися зі свинцевим дзеркалом. Гаразд, годі, стоп. Давай краще розіб’ємо щось інше.» → «М-да, це все одно що битися зі свинцевим дзеркалом. Гаразд, годі, стоп. Давайте краще розіб’ємо щось інше.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/HonorableAristocrat` (register): Switched «ти» to «ви».
+  - «Гаразд, гаразд, спробую я твій стейк. Картопля фрі буде?» → «Гаразд, гаразд, спробую я ваш стейк. Картопля фрі буде?»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/ImperiousExonaut` (register): Switched «ти» to «ви».
+  - «ПРИПИНИ ЗА МНОЮ СТЕЖИТИ. Я не можу робити це, поки ти дивишся.» → «ПРИПИНІТЬ ЗА МНОЮ СТЕЖИТИ. Я не можу робити це, поки ви дивитеся.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/PlatinumScion` (register): Switched «ти» to «ви».
+  - «Боягузливий, підлий, золотошукацький слабак… повернуся пізніше, щоб вибити тобі зуби в горло.» → «Боягузливий, підлий, золотошукацький слабак… повернуся пізніше, щоб вибити вам зуби в горло.»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/PracticalRomantic` (register): Switched the past tense addressed to the player to «ви»; the quoted mottos keep «ти».
+  - «Вже набрав матеріалу для саги про мене? Що там, «прославись або згинь» чи «співай про гнів Ахілла»? Потрібно більше часу?» → «Вже набрали матеріалу для саги про мене? Що там, «прославись або згинь» чи «співай про гнів Ахілла»? Потрібно більше часу?»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/SyncreticDeva` (register): Switched «ти» to «ви».
+  - «Не маю звички просити миру в пацифістів, але… е-е. Ну, ти розумієш.<br/><br/>(Будь ласка, нікому не кажи.)» → «Не маю звички просити миру в пацифістів, але… е-е. Ну, ви розумієте.<br/><br/>(Будь ласка, нікому не кажіть.)»
+- `Diplomacy.xml|HollowWarlord/OfferPeace/Zephon` (register): Switched the imperative to «ви».
+  - «Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давай вже закінчуймо, гаразд?» → «Біп-боп-буп, бла-бла-бла. Коротше, скажу по-нашому, давайте вже закінчуймо, гаразд?»
+- `Diplomacy.xml|HollowWarlord/Praise` (register): Switched «ти» to «ви».
+  - «БЛЯ ТАК. Давай! Ти можеш це зробити! Вибий їм зуби!» → «БЛЯ ТАК. Давайте! Ви можете це зробити! Вибийте їм зуби!»
+- `Diplomacy.xml|HollowWarlord/Praise/FoundationOfBlood` (register): Switched «ти» to «ви»; past tense goes plural.
+  - «Чорт, дівчино. Ти пролила більше крові, ніж я. Ніби то просто вода. Навіть своїх людей!» → «Чорт, дівчино. Ви пролили більше крові, ніж я. Ніби то просто вода. Навіть своїх людей!»
+- `Diplomacy.xml|HollowWarlord/Praise/HitAndRun` (register): Switched «ти» to «ви».
+  - «І-ха! Оце ти ганяєш! Як тобі вдається цей трюк? Мені б теж навчитися...» → «І-ха! Оце ви ганяєте! Як вам вдається цей трюк? Мені б теж навчитися...»
+- `Diplomacy.xml|HollowWarlord/RejectAlliance` (register): Switched «ти» to «ви».
+  - «Ні-ні-ні. Я ж після цього не зможу привести орду до твоїх воріт. А цей день обов’язково настане.» → «Ні-ні-ні. Я ж після цього не зможу привести орду до ваших воріт. А цей день обов’язково настане.»
+- `Diplomacy.xml|HollowWarlord/RejectAllianceTerminationWithThirdParty/RejectOutright` (register): Switched «ти» to «ви».
+  - «Мої друзі — це все для мене. А я — для них. Я не відмовлюся від них через твої накази.» → «Мої друзі — це все для мене. А я — для них. Я не відмовлюся від них через ваші накази.»
+- `Diplomacy.xml|HollowWarlord/RejectMapSharing` (register): Switched «ти» to «ви».
+  - «Та ми вже всюди побували! Ха-ха! Нічого ти від мене не отримаєш.» → «Та ми вже всюди побували! Ха-ха! Нічого ви від мене не отримаєте.»
+- `Diplomacy.xml|HollowWarlord/RejectPaymentForDeal/RejectAmount` (register): Switched the imperative to «ви».
+  - «Навчися спершу просити по-хорошому. За таке ніхто навіть не почешеться.» → «Навчіться спершу просити по-хорошому. За таке ніхто навіть не почешеться.»
+- `Diplomacy.xml|HollowWarlord/RejectPaymentForDeal/RejectOutright` (register): Switched «ти» to «ви».
+  - «Ми все ще це обговорюємо? Ні. Не переконаєш. Занадто хитромудро.» → «Ми все ще це обговорюємо? Ні. Не переконаєте. Занадто хитромудро.»
+- `Diplomacy.xml|HollowWarlord/RejectTribute/RejectAmount` (register): Switched «ти» to «ви».
+  - «Я тобі стільки не дам! Мені усе це потрібне для... мене. Для кайфу.» → «Я вам стільки не дам! Мені усе це потрібне для... мене. Для кайфу.»
+- `Diplomacy.xml|HollowWarlord/RejectTribute/RejectOutright` (register): Switched «ти» to «ви».
+  - «Та ні, хай йому грець. Почнеш платити данину — то й не зупинишся.» → «Та ні, хай йому грець. Почнете платити данину — то й не зупинитеся.»
+- `Diplomacy.xml|HollowWarlord/RejectWarAgainstThirdParty/RejectOutright` (register): Switched «ти» to «ви».
+  - «Ти мені будеш казати, з ким битися, а з ким ні? Дивись, напросишся.» → «Ви мені будете казати, з ким битися, а з ким ні? Дивіться, напроситеся.»
+- `Diplomacy.xml|HollowWarlord/RejectWarAgainstThirdParty/RejectParty` (register): Switched «ти» to «ви».
+  - «Ти навіть не розумієш, яка зараз розстановка сил. Тебе хто на війну випустив, дитинко?» → «Ви навіть не розумієте, яка зараз розстановка сил. Вас хто на війну випустив, дитинко?»
+- `Diplomacy.xml|HollowWarlord/TerminateAlliance` (register): Switched «ти» to «ви».
+  - «Сорян, брате. Мене кличе дорога! А ти мене тягнеш назад.» → «Сорян, брате. Мене кличе дорога! А ви мене тягнете назад.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptAlliance` (register): Switched «ти» to «ви».
+  - «Я завжди думав, що ми з тобою з одного тіста. Нам давно пора створити власну коаліцію...» → «Я завжди думав, що ми з вами з одного тіста. Нам давно пора створити власну коаліцію...»
+- `Diplomacy.xml|HonorableAristocrat/AcceptAllianceTerminationWithThirdParty/AcceptParty` (register): Switched «ти» to «ви».
+  - «Хм-м... %3% і справді залишає бажати кращого. Я послухаю твоєї мудрої поради.» → «Хм-м... %3% і справді залишає бажати кращого. Я послухаю вашої мудрої поради.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptAllianceTerminationWithThirdParty/AskParty` (register): Switched «ти» to «ви».
+  - «За моїм столом і справді тіснувато... але кого, на твою думку, мені варто попросити піти?» → «За моїм столом і справді тіснувато... але кого, на вашу думку, мені варто попросити піти?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptAllianceWithThirdParty/AcceptParty` (register): Switched «ти» to «ви».
+  - «О-о, я й %3% — справді чудовий рецепт! Я приймаю твоє запрошення!» → «О-о, я й %3% — справді чудовий рецепт! Я приймаю ваше запрошення!»
+- `Diplomacy.xml|HonorableAristocrat/AcceptAllianceWithThirdParty/AskParty` (register): Switched «ти» to «ви».
+  - «Ну-ну, їсти з першим-ліпшим я не стану! Кого, на твою думку, мені запросити на бенкет?» → «Ну-ну, їсти з першим-ліпшим я не стану! Кого, на вашу думку, мені запросити на бенкет?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptCall/Friendly` (register): Switched «ти» to «ви».
+  - «О-о, мій друже! Скажи, що прийдеш на вечерю!» → «О-о, мій друже! Скажіть, що прийдете на вечерю!»
+- `Diplomacy.xml|HonorableAristocrat/AcceptCall/Hostile` (register): Switched «ти» to «ви».
+  - «Тільки швидше. Ти псуєш мені обід.» → «Тільки швидше. Ви псуєте мені обід.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptGift/AcceptAmount` (register): Switched «ти» to «ви».
+  - «Тост, тост! Вип’ємо за твою щедрість і благородний дух!» → «Тост, тост! Вип’ємо за вашу щедрість і благородний дух!»
+- `Diplomacy.xml|HonorableAristocrat/AcceptGift/AskAmount` (register): Switched «ти» to «ви».
+  - «О! А я вже почав нудьгувати — з якими делікатесами ти до мене?» → «О! А я вже почав нудьгувати — з якими делікатесами ви до мене?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptMapSharing` (register): Switched «ти» to «ви».
+  - «Дуже добре, краще ти оглянеш мої володіння здалеку, ніж твої армії будуть топтати мої поля.» → «Дуже добре, краще ви оглянете мої володіння здалеку, ніж ваші армії будуть топтати мої поля.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptPaymentForDeal/AcceptAmount` (register): Switched the imperative to «ви».
+  - «О-о, таке в моїх коморах знайдеться! Що ж, добре, я додам цю закуску — тільки не забудь прийти на вечерю!» → «О-о, таке в моїх коморах знайдеться! Що ж, добре, я додам цю закуску — тільки не забудьте прийти на вечерю!»
+- `Diplomacy.xml|HonorableAristocrat/AcceptPaymentForDeal/AskAmount` (register): Switched «ти» to «ви».
+  - «У моїй пропозиції щось здається тобі неапетитним? Можливо, в мене знайдеться потрібна приправа...» → «У моїй пропозиції щось здається вам неапетитним? Можливо, в мене знайдеться потрібна приправа...»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTermination` (register): Switched «ти» to «ви».
+  - «Значить, хочеш усе перетерпіти сам, так? Тоді не приходь скаржитися, коли твої комори спорожніють.» → «Значить, хочете усе перетерпіти самі, так? Тоді не приходьте скаржитися, коли ваші комори спорожніють.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty` (register): Switched «ти» to «ви».
+  - «Щось %3% своїми угодами приносить мені лише лимони, а я вже стомився від лимонаду. Ти правий, пора мені перенести бізнес в інше місце.» → «Щось %3% своїми угодами приносить мені лише лимони, а я вже стомився від лимонаду. Ви праві, пора мені перенести бізнес в інше місце.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementTerminationWithThirdParty/AskParty` (register): Switched «ти» to «ви».
+  - «Правильно кажеш! Забагато голодних ротів... але чиє запрошення мені скасувати?» → «Правильно кажете! Забагато голодних ротів... але чиє запрошення мені скасувати?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTradeAgreementWithThirdParty/AskParty` (register): Switched «ти» to «ви».
+  - «О-о, я завжди готовий для чогось екзотичного! Є надійний постачальник, якого ти можеш порекомендувати?» → «О-о, я завжди готовий для чогось екзотичного! Є надійний постачальник, якого ви можете порекомендувати?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTribute/AcceptAmount` (register): Switched «ти» to «ви».
+  - «А мені здавалося, що це я люблю поїсти! Сподіваюся, ти в змозі контролювати свій апетит.» → «А мені здавалося, що це я люблю поїсти! Сподіваюся, ви в змозі контролювати свій апетит.»
+- `Diplomacy.xml|HonorableAristocrat/AcceptTribute/AskAmount` (register): Switched «ти» to «ви»; also fixed «й» before a consonant.
+  - «Вигляд у тебе й справді голодний... скільки потрібно, щоб тебе нагодувати?» → «Вигляд у вас і справді голодний... скільки потрібно, щоб вас нагодувати?»
+- `Diplomacy.xml|HonorableAristocrat/AcceptWar` (register): Switched «ти» to «ви».
+  - «Так хочеться побачити, хто з’їв... собаку на цій справі? Гаразд. Коли я з тобою закінчу, ти будеш їсти через трубочку.» → «Так хочеться побачити, хто з’їв... собаку на цій справі? Гаразд. Коли я з вами закінчу, ви будете їсти через трубочку.»
+- `Diplomacy.xml|HonorableAristocrat/AskForSupport/Anchorite` (register): Switched «ти» to «ви».
+  - «Анахорете, ти розумієш злидні так, як я не здатен. Чи можеш ти залишатися осторонь, знаючи, як страждає мій народ?» → «Анахорете, ви розумієте злидні так, як я не здатен. Чи можете ви залишатися осторонь, знаючи, як страждає мій народ?»
+- `Diplomacy.xml|HonorableAristocrat/AskForSupport/Chieftess` (register): Switched «ти» to «ви».
+  - «Мені цікаво, куди приведе тебе твій норов сьогодні, коли я попрошу про допомогу. До великодушності чи до підлості?» → «Мені цікаво, куди приведе вас ваш норов сьогодні, коли я попрошу про допомогу. До великодушності чи до підлості?»
+- `Diplomacy.xml|HonorableAristocrat/Condemn/Independent` (register): Switched the imperative to «ви».
+  - «Ні, так не піде. Світ сплетений з угод, послуг і домовленостей. Будь-хто, хто стоїть осторонь, наодинці, перешкоджає плину речей і подає поганий приклад іншим. Попереджаю — краще приєднуйся до нашої мережі.» → «Ні, так не піде. Світ сплетений з угод, послуг і домовленостей. Будь-хто, хто стоїть осторонь, наодинці, перешкоджає плину речей і подає поганий приклад іншим. Попереджаю — краще приєднуйтеся до нашої мережі.»
+- `Diplomacy.xml|HonorableAristocrat/CondemnAlliance` (register): Switched «ти» to «ви».
+  - «Я мушу похвалити твоє прагнення працювати з іншими, але не можу не засудити вибір союзника... %3%? Справді? О боже...» → «Я мушу похвалити ваше прагнення працювати з іншими, але не можу не засудити вибір союзника... %3%? Справді? О боже...»
+- `Diplomacy.xml|HonorableAristocrat/CondemnCityDestruction` (register): Switched «ти» to «ви».
+  - «О боже, де %3%? Міста більше немає? Де твоя людяність? Твоя емпатія?» → «О боже, де %3%? Міста більше немає? Де ваша людяність? Ваша емпатія?»
+- `Diplomacy.xml|HonorableAristocrat/CondemnInterferenceAttempt` (register): Switched «ти» to «ви».
+  - «Ні, ні, ні! Це абсолютно неправильно. Тобі незнайома честь?!» → «Ні, ні, ні! Це абсолютно неправильно. Вам незнайома честь?!»
+- `Diplomacy.xml|HonorableAristocrat/CondemnTradeAgreement` (register): Switched «ти» to «ви».
+  - «Я що, виїденого яйця не варт? Звісно, торгуй з ким хочеш... Але %3%?..» → «Я що, виїденого яйця не варт? Звісно, торгуйте з ким хочете... Але %3%?..»
+- `Diplomacy.xml|HonorableAristocrat/CondemnWar` (register): Switched «ти» to «ви».
+  - «Невже нас лишилося так багато живих, що ти і %3% вирішили ще більше відправити в могилу? Подорослішайте.» → «Невже нас лишилося так багато живих, що ви і %3% вирішили ще більше відправити в могилу? Подорослішайте.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/Anchorite` (register): Switched «ти» to «ви»; the description of the player goes plural.
+  - «О древній, я, як завжди, висловлюю тобі свою повагу. А водночас і оголошення війни. Гадаю, ти не настільки дурний, щоб цьому дивуватися. Прекрасно.» → «О древній, я, як завжди, висловлюю вам свою повагу. А водночас і оголошення війни. Гадаю, ви не настільки дурні, щоб цьому дивуватися. Прекрасно.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/Chieftess` (register): Switched «ти» to «ви»; past tense goes plural.
+  - «Ти з’їла ЩО??? Майн готт, я зобов’язаний кинути тобі виклик від імені всіх гурманів!» → «Ви з’їли ЩО??? Майн готт, я зобов’язаний кинути вам виклик від імені всіх гурманів!»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/EmulatedMind` (register): Switched the imperative to «ви».
+  - «Я мушу заздалегідь вибачитися за те, що доведеться зробити. Я щиро шкодую, але якби я піддавався жалю, то завжди був би паралізований. Готуйся до війни, розуме.» → «Я мушу заздалегідь вибачитися за те, що доведеться зробити. Я щиро шкодую, але якби я піддавався жалю, то завжди був би паралізований. Готуйтеся до війни, розуме.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/FallenSoldier` (register): Switched «ти» to «ви».
+  - «Гадаю, тобі знайоме поняття гідності, чи не так? Отже, ти інтуїтивно зрозумієш, який ланцюг обов’язків до цього привів. Я не обираю війну — мене до неї змушує гідність. Сподіваюся, це стане тобі втіхою.» → «Гадаю, вам знайоме поняття гідності, чи не так? Отже, ви інтуїтивно зрозумієте, який ланцюг обов’язків до цього привів. Я не обираю війну — мене до неї змушує гідність. Сподіваюся, це стане вам втіхою.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/HeartlessArtificer` (register): Switched «ти» to «ви».
+  - «Ти можеш не розуміти моїх обов’язків, Майстрине, і не відчувати співчуття до переплетення взаємин, які до них привели. Але ти, принаймні, зрозумієш механізми, що призвели до цього — до війни між нами.» → «Ви можете не розуміти моїх обов’язків, Майстрине, і не відчувати співчуття до переплетення взаємин, які до них привели. Але ви, принаймні, зрозумієте механізми, що призвели до цього — до війни між нами.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/HollowWarlord` (register): Switched «ти» to «ви»; past tense goes plural.
+  - «В ім’я дружби я можу пробачити майже будь-що. Але те, як ти їв ці канапе... Навіть не знявши брудну рукавицю, запустив кулак у цілу страву! Айву та квашену капусту — за один прийом? Ти... Ти маєш бути знищений!» → «В ім’я дружби я можу пробачити майже будь-що. Але те, як ви їли ці канапе... Навіть не знявши брудну рукавицю, запустили кулак у цілу страву! Айву та квашену капусту — за один прийом? Ви... Ви маєте бути знищені!»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/HonorableAristocrat` (register): Switched «ти» to «ви».
+  - «Ось той, хто розуміє мою точку зору. Я не проситиму титулів чи рекомендаційного листа. Але ти ж розумієш, що може бути лише один з нас? Прекрасно.» → «Ось той, хто розуміє мою точку зору. Я не проситиму титулів чи рекомендаційного листа. Але ви ж розумієте, що може бути лише один з нас? Прекрасно.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/ImperiousExonaut` (register): Switched «ти» to «ви»; the description of the player goes plural.
+  - «Як ти досі жива? Після двадцяти років сушеного північного оленя? Я мушу вбити тебе — заради всіх гурманів світу.» → «Як ви досі живі? Після двадцяти років сушеного північного оленя? Я мушу вбити вас — заради всіх гурманів світу.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/PracticalRomantic` (register): Switched «ти» to «ви»; past tense goes plural.
+  - «Друже мій, боюся, ти дозволив своїм емоційним прив’язаностям взяти гору над практичними спонуканнями. Гідність змушує мене викликати тебе на бій і виправити твій прорахунок. Так, це особисте.» → «Друже мій, боюся, ви дозволили своїм емоційним прив’язаностям взяти гору над практичними спонуканнями. Гідність змушує мене викликати вас на бій і виправити ваш прорахунок. Так, це особисте.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/RogueOperative` (register): Switched «ти» to «ви».
+  - «За честь тримаються лише негідники... так кажуть негідники. Я ж віддаю перевагу чесності та відкритості, сидіти з союзниками за одним столом, а не ховатися наодинці в тіні. Сподіваюся, невелика війна змінить твої звички...» → «За честь тримаються лише негідники... так кажуть негідники. Я ж віддаю перевагу чесності та відкритості, сидіти з союзниками за одним столом, а не ховатися наодинці в тіні. Сподіваюся, невелика війна змінить ваші звички...»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/SyncreticDeva` (register): Switched «ти» to «ви».
+  - «Забагато смаків! Переперчено, пересолено, переборщено з маслом! І це ти називаєш мудрістю!?» → «Забагато смаків! Переперчено, пересолено, переборщено з маслом! І це ви називаєте мудрістю!?»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/TwistedMother` (register): Switched «ти» to «ви».
+  - «Пані, прошу вибачення. Твої частування були чудові, але обставини змушують мене перейти до ворожих дій. Я глибоко шкодую про це.» → «Пані, прошу вибачення. Ваші частування були чудові, але обставини змушують мене перейти до ворожих дій. Я глибоко шкодую про це.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/UntoldProphet` (register): Switched the imperative to «ви».
+  - «Навіть зараз мене засмучує, що ми не можемо співіснувати. Давай-но з’ясуємо, хто править усім під небесами — дворянство чи духовенство.» → «Навіть зараз мене засмучує, що ми не можемо співіснувати. Давайте-но з’ясуємо, хто править усім під небесами — дворянство чи духовенство.»
+- `Diplomacy.xml|HonorableAristocrat/DeclareWar/Zephon` (register): Switched «ти» to «ви».
+  - «Машино, розуме... ким би ти не був. Моральність спонукає мене виступити проти тебе, хай навіть це завадить моїм лініям постачання.» → «Машино, розуме... ким би ви не були. Моральність спонукає мене виступити проти вас, хай навіть це завадить моїм лініям постачання.»
+- `Diplomacy.xml|HonorableAristocrat/DemandAllianceTerminationWithThirdParty` (register): Switched «ти» to «ви».
+  - «За звичайних обставин я б не став піддавати сумніву твої зв’язки... але зараз ти ризикуєш своєю доброю репутацією. Розірви цю угоду, щоб не заплямувати свої благородні традиції.» → «За звичайних обставин я б не став піддавати сумніву ваші зв’язки... але зараз ви ризикуєте своєю доброю репутацією. Розірвіть цю угоду, щоб не заплямувати свої благородні традиції.»
+- `Diplomacy.xml|HonorableAristocrat/DemandAllianceWithThirdParty` (register): Switched the imperative to «ви».
+  - «Бувають часи, коли ми повинні робити те, що найкраще для всього суспільства. Щоб зберегти процвітання країни, я змушений наполягти — приєднайся до коаліції.» → «Бувають часи, коли ми повинні робити те, що найкраще для всього суспільства. Щоб зберегти процвітання країни, я змушений наполягти — приєднайтеся до коаліції.»
+- `Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal` (register): Switched «ти» to «ви».
+  - «На жаль, хотів би я сказати «так», але я страшенно голодний. От якби ти запропонував щось, що вгамує мій апетит...» → «На жаль, хотів би я сказати «так», але я страшенно голодний. От якби ви запропонували щось, що вгамує мій апетит...»
+- `Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandHighAmount` (register): Switched «ти» to «ви».
+  - «Я б з’їв щось ситне. Що ти подаси мені як основну страву?» → «Я б з’їв щось ситне. Що ви подасте мені як основну страву?»
+- `Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandLowAmount` (register): Switched «ти» to «ви».
+  - «Досить і закуски, як ти вважаєш?» → «Досить і закуски, як ви вважаєте?»
+- `Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandMaxAmount` (register): Switched the imperatives to «ви».
+  - «Не шкодуй. Спустош усі запаси — мене влаштує лише справжнє бенкетування!» → «Не шкодуйте. Спустошіть усі запаси — мене влаштує лише справжнє бенкетування!»
+- `Diplomacy.xml|HonorableAristocrat/DemandPaymentForDeal/DemandMediumAmount` (register): Switched the imperative to «ви».
+  - «Сьогодні мені хочеться почати з десерту... запропонуй мені щось солодке.» → «Сьогодні мені хочеться почати з десерту... запропонуйте мені щось солодке.»
+- `Diplomacy.xml|HonorableAristocrat/DemandPeaceWithThirdParty` (register): Switched «ти» to «ви».
+  - «Знаєш, що таке поганий бізнес? Платити кров’ю, а не монетою. Вимагай миру, поки тебе не знекровили.» → «Знаєте, що таке поганий бізнес? Платити кров’ю, а не монетою. Вимагайте миру, поки вас не знекровили.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTradeAgreementTerminationWithThirdParty` (register): Switched «ти» to «ви».
+  - «Як ти можеш задовольнятися таким малим? Як щодо того, щоб закрити лавочку й пошукати партнера, який пропонує вигідніші умови?» → «Як ви можете задовольнятися таким малим? Як щодо того, щоб закрити лавочку й пошукати партнера, який пропонує вигідніші умови?»
+- `Diplomacy.xml|HonorableAristocrat/DemandTradeAgreementWithThirdParty` (register): Switched «ти» to «ви».
+  - «У всіх твоїх стравах завжди одні й ті самі інгредієнти... Може, час поторгувати з кимось новим, м-м?» → «У всіх ваших стравах завжди одні й ті самі інгредієнти... Може, час поторгувати з кимось новим, м-м?»
+- `Diplomacy.xml|HonorableAristocrat/DemandTribute` (register): Switched «ти» to «ви».
+  - «Ти вже давно живеш не за статками. Певно, час повернути борг.» → «Ви вже давно живете не за статками. Певно, час повернути борг.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandHighAmount` (register): Switched the imperatives to «ви».
+  - «Надішли мені значну допомогу. Не змушуй мене повертати борг силою.» → «Надішліть мені значну допомогу. Не змушуйте мене повертати борг силою.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandLowAmount` (register): Switched the imperatives to «ви».
+  - «Надішли мені невелику допомогу. Не змушуй мене повертати борг силою.» → «Надішліть мені невелику допомогу. Не змушуйте мене повертати борг силою.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandMaxAmount` (register): Switched the imperatives to «ви».
+  - «Надішли мені всі свої запаси. Не зволікай — мої війська із задоволенням заберуть усе самі.» → «Надішліть мені всі свої запаси. Не зволікайте — мої війська із задоволенням заберуть усе самі.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTribute/DemandMediumAmount` (register): Switched the imperatives to «ви».
+  - «Надішли мені гідну допомогу. Не змушуй мене повертати борг силою.» → «Надішліть мені гідну допомогу. Не змушуйте мене повертати борг силою.»
+- `Diplomacy.xml|HonorableAristocrat/DemandTroopWithdrawal` (register): Switched «ти» to «ви».
+  - «Боюся, з тобою прибуло забагато гостей. Відправ їх назад, доки я ще залишаюся гостинним.» → «Боюся, з вами прибуло забагато гостей. Відправте їх назад, доки я ще залишаюся гостинним.»
+- `Diplomacy.xml|HonorableAristocrat/DemandWarAgainstThirdParty` (register): Switched «ти» to «ви».
+  - «Кажуть, що підходить для гусака, те підходить і для гуски, але дехто переріс нас обох. Я мало що люблю більше, ніж готувати жирного гусака... Що скажеш?» → «Кажуть, що підходить для гусака, те підходить і для гуски, але дехто переріс нас обох. Я мало що люблю більше, ніж готувати жирного гусака... Що скажете?»
+- `Diplomacy.xml|HonorableAristocrat/EndCall/Hostile` (register): Switched «ти» to «ви».
+  - «Пф! Розмови з тобою завжди залишають неприємний післясмак... Потрібно чимось його перебити.» → «Пф! Розмови з вами завжди залишають неприємний післясмак... Потрібно чимось його перебити.»
+- `Diplomacy.xml|HonorableAristocrat/EndCall/Neutral` (register): Switched the farewell to «ви».
+  - «Прощавай.» → «Прощавайте.»
+- `Diplomacy.xml|MajorImpact/Economy` (russianism): Russian-style active participle.
+  - «ваша процвітаюча економіка» → «ваша квітуча економіка»
+- `Diplomacy.xml|MajorImpact/ThirdPartyEconomy` (russianism): Russian-style active participle.
+  - «процвітаюча економіка сторони» → «квітуча економіка сторони»
+- `Diplomacy.xml|OfferTradeAgreement` (punctuation): Stray period after the markup that the English label does not have.
+  - «угоду:<style name='Paragraph'/>.» → «угоду:<style name='Paragraph'/>»
+- `Diplomacy.xml|RejectTradeAgreement` (punctuation): Stray period after the markup that the English label does not have.
+  - «угоду:<style name='Paragraph'/>.» → «угоду:<style name='Paragraph'/>»
+- `Diplomacy.xml|TerminateTradeAgreement` (punctuation): Stray period after the markup that the English label does not have.
+  - «угоду:<style name='Paragraph'/>.» → «угоду:<style name='Paragraph'/>»
+- `Diplomacy.xml|TradeAgreementHint` (style): «їхнього» has no clear antecedent and the sentence is hard to parse.
+  - «залежно від їхнього виробництва торговим партнером» → «залежно від виробництва ресурсів торговим партнером»

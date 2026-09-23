@@ -1,0 +1,1330 @@
+[
+ {
+  "id": "Diplomacy.xml|Anchorite/Praise/Undying",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Знати, що ти обраний, благословенний. Не бачити подібної цілісності переродження за десять нескінченностей життя. Замислитися.",
+  "replace": "Знати, що ви обрані, благословенні. Не бачити подібної цілісності переродження за десять нескінченностей життя. Замислитися."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/Praise/WordsOfTheProphet",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Бачити крихітний алмаз посеред піску. Бачити істину серед твоїх помилок. Замислитися.",
+  "replace": "Бачити крихітний алмаз посеред піску. Бачити істину серед ваших помилок. Замислитися."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/PraiseWar",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Знати, що це неминуче. Вважати це твоїм новим шляхом — цього разу. Бажати простіших доріг — щоразу. Приймати благість цієї... війни.",
+  "replace": "Знати, що це неминуче. Вважати це вашим новим шляхом — цього разу. Бажати простіших доріг — щоразу. Приймати благість цієї... війни."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Тебе надто турбують війни з неправильними наслідками. Ми повинні зберегти наші сили для битви з вищим ворогом.",
+  "replace": "Вас надто турбують війни з неправильними наслідками. Ми повинні зберегти наші сили для битви з вищим ворогом."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectGift/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Це неправильно. Ми не можемо взяти в тебе більше... ніж у нас вже є.",
+  "replace": "Це неправильно. Ми не можемо взяти у вас більше... ніж у нас вже є."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectGift/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also restores the dropped «all we need»",
+  "find": "Дякую... Але не витрачай на нас свої ресурси. У нас є все, на що ми заслуговуємо.",
+  "replace": "Дякую... Але не витрачайте на нас свої ресурси. У нас є все, що нам потрібно і на що ми заслуговуємо."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Мені не потрібні твої карти. Повертайся, коли побачиш більше... цього світу.",
+  "replace": "Мені не потрібні ваші карти. Повертайтеся, коли побачите більше... цього світу."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectPaymentForDeal/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Ні. Це просто неможливо. Твоя пропозиція не варта ризику для мого народу.",
+  "replace": "Ні. Це просто неможливо. Ваша пропозиція не варта ризику для мого народу."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectPaymentForDeal/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти не усвідомлюєш дурниці своєї пропозиції. Жодна можлива вигода... не варта вимирання.",
+  "replace": "Ви не усвідомлюєте дурниці своєї пропозиції. Жодна можлива вигода... не варта вимирання."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectTradeAgreementTerminationWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Прошу... не проси мене про таке. Мій народ зламаний. Нам потрібна будь-яка підтримка.",
+  "replace": "Прошу... не просіть мене про таке. Мій народ зламаний. Нам потрібна будь-яка підтримка."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectTribute/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Твої вимоги означають загибель. Не лише для акринів. Для всесвіту в цілому.",
+  "replace": "Ваші вимоги означають загибель. Не лише для акринів. Для всесвіту в цілому."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectTribute/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «Маючи стільки» asserts they have it, while EN is a counterfactual «Even if we had it»",
+  "find": "Маючи стільки, ми б усе одно не дали тобі нічого. Шкодити нашому призначенню — наближати власне знищення.",
+  "replace": "Навіть якби ми це мали, ми б усе одно не дали вам нічого. Шкодити нашому призначенню — наближати власне знищення."
+ },
+ {
+  "id": "Diplomacy.xml|Anchorite/RejectTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ні. Ми надто близькі до своєї мети. Ти не можеш нам завадити.",
+  "replace": "Ні. Ми надто близькі до своєї мети. Ви не можете нам завадити."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptActionCancel",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Вже назад здаєш?",
+  "replace": "Вже назад здаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Рада, що не довелося самій просити. Давай тоді на радощах по пивку... і в рейд. Як тобі ідея?",
+  "replace": "Рада, що не довелося самій просити. Давайте тоді на радощах по пивку... і в рейд. Як вам ідея?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptAllianceTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "У мене друзів і так не дуже багато. Кого пропонуєш вигнати?",
+  "replace": "У мене друзів і так не дуже багато. Кого пропонуєте вигнати?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptAllianceWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "То ти хочеш познайомити мене з кимось? Ого, ще й сваха з тебе. Цікаво... Гаразд, викладай.",
+  "replace": "То ви хочете познайомити мене з кимось? Ого, ще й сваха з вас. Цікаво... Гаразд, викладайте."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptCall/Friendly",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Доброго дня, %2%! Не хочеш до нас? Я якраз одного бігуна зібралася підрізати!",
+  "replace": "Доброго дня, %2%! Не хочете до нас? Я якраз одного бігуна зібралася підрізати!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptCall/Hostile",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; tone kept",
+  "find": "Згинь, щуряко! Хоча ні, краще скажи, де тебе шукати.",
+  "replace": "Згиньте, щуряко! Хоча ні, краще скажіть, де вас шукати."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptCall/Neutral",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "О, %2%! П’ять секунд, зараз хлопців свисну — тобі ж проблем закортіло, так?",
+  "replace": "О, %2%! П’ять секунд, зараз хлопців свисну — вам же проблем закортіло, так?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptCondemn",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хахахаха. Ой, чекай. Ти серйозно? Ахахаха!",
+  "replace": "Хахахаха. Ой, чекайте. Ви серйозно? Ахахаха!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptGift/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «пощекочу» is a russianism for «полоскочу»",
+  "find": "Знаєш... зі мною люди зазвичай діляться лише тоді, коли я спершу їх, ну, «пощекочу». Тож... спасибки, чи що...",
+  "replace": "Знаєте... зі мною люди зазвичай діляться лише тоді, коли я спершу їх, ну, «полоскочу». Тож... спасибки, чи що..."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptGift/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Подаруночок? Ого, свято сьогодні? Сподіваюся, ти нічого у відповідь не чекаєш, бо я ж нічого не приготувала. Що там у тебе?",
+  "replace": "Подаруночок? Ого, свято сьогодні? Сподіваюся, ви нічого у відповідь не чекаєте, бо я ж нічого не приготувала. Що там у вас?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «не горю відправляти» is a broken idiom",
+  "find": "Обмінятися картами — непогана ідея. Я до тебе не горю відправляти розвідників, а твої у мене довго не протягнуть.",
+  "replace": "Обмінятися картами — непогана ідея. Я не горю бажанням відправляти до вас розвідників, а ваші у мене довго не протягнуть."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptPaymentForDeal/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Дай-но я швидко прикину... У скільки стволів мені це обійдеться? На десять ділимо... один у голові... Гаразд! Згода!",
+  "replace": "Дайте-но я швидко прикину... У скільки стволів мені це обійдеться? На десять ділимо... один у голові... Гаразд! Згода!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptPaymentForDeal/AskAmount",
+  "sev": "high",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also reverses the direction of payment - she is asking how much the player offers, not what the player asks for",
+  "find": "Хм-м... Я тобі не подобаюся, і угоди зі мною тобі теж не до душі. Скільки ти просиш?",
+  "replace": "Хм-м... Я вам не подобаюся, і угоди зі мною вам теж не до душі. Скільки пропонуєте?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptPeaceWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Зрозуміло, ця плакса %3% до тебе приповзла. Гаразд, запропоную перемир’я — але тільки з поваги до тебе.",
+  "replace": "Зрозуміло, ця плакса %3% до вас приповзла. Гаразд, запропоную перемир’я — але тільки з поваги до вас."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptPraise",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти мене підмазуєш? Хочеш скуштувати цього? Це не додаток для знайомств, кореш.",
+  "replace": "Ви мене підмазуєте? Хочете скуштувати цього? Це не додаток для знайомств, кореш."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptSupport/AskType",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти? МОЄЇ допомоги хочеш? Хо-хо. І яка ж допомога тобі потрібна?",
+  "replace": "Ви? МОЄЇ допомоги хочете? Хо-хо. І яка ж допомога вам потрібна?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти гостриш мій клинок, я гострю твій. Так це робиться? Коротше, думаю, я не проти.",
+  "replace": "Ви гострите мій клинок, я гострю ваш. Так це робиться? Коротше, думаю, я не проти."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreementTermination",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Стій, серйозно? Тобто, я знову зможу тебе грабувати?",
+  "replace": "Стійте, серйозно? Тобто, я знову зможу вас грабувати?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreementTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Побачимо. Не за всі стосунки варто триматися — особливо за односторонні. З ким пропонуєш розірвати угоду?",
+  "replace": "Побачимо. Не за всі стосунки варто триматися — особливо за односторонні. З ким пропонуєте розірвати угоду?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreementWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Побачимо, а хто у тебе на думці? Тільки не пропонуй мені платити за те, що я й так можу забрати.",
+  "replace": "Побачимо, а хто у вас на думці? Тільки не пропонуйте мені платити за те, що я й так можу забрати."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTribute/AcceptAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperatives addressed to the player must be «ви»",
+  "find": "Гаразд, гаразд, забирай. Але не забудь про цей випадок — бо я-то точно не забуду.",
+  "replace": "Гаразд, гаразд, забирайте. Але не забудьте про цей випадок — бо я-то точно не забуду."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTribute/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Може, я молода, але з вимаганням знайома не з чуток. І скільки ж ти хочеш?",
+  "replace": "Може, я молода, але з вимаганням знайома не з чуток. І скільки ж ви хочете?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Мої хлопці надто близько до тебе підібралися? Ха. Вибачатися не буду.",
+  "replace": "Мої хлопці надто близько до вас підібралися? Ха. Вибачатися не буду."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptWar",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Якщо чесно, я навіть рада. Завжди здавалося, що до цього дійде, що ми з тобою битимемося за головний приз. Озирайся — я прийду за тобою.",
+  "replace": "Якщо чесно, я навіть рада. Завжди здавалося, що до цього дійде, що ми з вами битимемося за головний приз. Озирайтеся — я прийду за вами."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptWarAgainstThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Не треба вмовляти скорпіона жалити. Хто тобі нашкодив і чим?",
+  "replace": "Не треба вмовляти скорпіона жалити. Хто вам нашкодив і чим?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AdmitDefeat",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; plural also removes the assumed male player gender",
+  "find": "М-да... Ось і мій час настав. Виходить, ти сильніший за мене, тож я не ображаюся.<br/><br/>Є таке прохання... Можеш прикінчити мене моїм ножем? І коли мене... ну, не стане. Можеш зробити ласку і подбати про нього? Гаразд?<br/><br/>Ну. Давай. Не змушуй даму чекати...<br/><br/>...Ну, дама — це, само собою, я.",
+  "replace": "М-да... Ось і мій час настав. Виходить, ви сильніші за мене, тож я не ображаюся.<br/><br/>Є таке прохання... Можете прикінчити мене моїм ножем? І коли мене... ну, не стане. Можете зробити ласку і подбати про нього? Гаразд?<br/><br/>Ну. Давайте. Не змушуйте даму чекати...<br/><br/>...Ну, дама — це, само собою, я."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AskForProposals",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ну? Ти хочеш ще більше мого часу витратити?",
+  "replace": "Ну? Ви хочете ще більше мого часу витратити?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/CancelAction",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти марнуєш мій час!",
+  "replace": "Ви марнуєте мій час!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Лайно, приятелю. Що за хрінь ти викидаєш?",
+  "replace": "Лайно, приятелю. Що за хрінь ви викидаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn/HeartfeltLoss",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; insult kept",
+  "find": "Не переймайся через такі дрібниці, чоловіче. «У-у, мої хлопці всі померли, моя поетична душа цього не витримає». Поплач у подушечку, жалюгідна ти ганчірка!",
+  "replace": "Не переймайтеся через такі дрібниці, чоловіче. «У-у, мої хлопці всі померли, моя поетична душа цього не витримає». Поплачте у подушечку, жалюгідна ви ганчірка!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn/TheSureThing",
+  "sev": "high",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also the teeth and throat are swapped against EN, and «блідолицька» is not a word",
+  "find": "Певна річ? Де в цьому веселощі, ти, блідолицька офісна відьмо? Саме азарт робить життя життям — ніколи не знаєш, хто чиїм горлом рватиме чиї зуби!",
+  "replace": "Певна річ? Де в цьому веселощі, ви, блідолиця офісна відьмо? Саме азарт робить життя життям — ніколи не знаєте, хто чиїми зубами рватиме чиє горло!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn/Trapped",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Є цілий світ для вбивств і розбою, і є ти, що ховаєшся від мене за білосніжними стінами. Виходь, пограємо.",
+  "replace": "Є цілий світ для вбивств і розбою, і є ви, що ховаєтеся від мене за білосніжними стінами. Виходьте, пограємо."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn/Undying",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Якось це по-читерськи, чоловіче. Оце твоє невмирання. Мені це не до вподоби. Як хлопцям тебе знищити, якщо ти не знищуєшся?!",
+  "replace": "Якось це по-читерськи, чоловіче. Оце ваше невмирання. Мені це не до вподоби. Як хлопцям вас знищити, якщо ви не знищуєтеся?!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Condemn/Untrustworthy",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also fixes the euphony «у обличчя»",
+  "find": "Так ти ще гірший за мене! Я хоча б б’юся чесно, стріляю ворогам у обличчя. Не затягую.",
+  "replace": "Так ви ще гірші за мене! Я хоча б б’юся чесно, стріляю ворогам в обличчя. Не затягую."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/CondemnAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти? І %3%? Мир-дружба? У тебе зовсім мізків не залишилося?",
+  "replace": "Ви? І %3%? Мир-дружба? У вас зовсім мізків не залишилося?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/CondemnInterferenceAttempt",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "О, ні, потвора. Таке тобі з рук не зійде. Якщо ще раз захочеш натиснути на моїх друзяк, краще подумай як слід.",
+  "replace": "О, ні, потвора. Таке вам з рук не зійде. Якщо ще раз захочете натиснути на моїх друзяк, краще подумайте як слід."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/CondemnTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «підкараулить» is a russianism",
+  "find": "О ні, %3% чекає на іншому боці пустки цілу гору твоїх багатств? Клянуся, їх не підкараулить жменька обідраних Спустошувачів...",
+  "replace": "О ні, %3% чекає на іншому боці пустки цілу гору ваших багатств? Клянуся, їх не підстереже жменька обідраних Спустошувачів..."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/CondemnWar",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Якщо ти збираєшся когось убити, то чому це %3%? Я ж сама хотіла це зробити.",
+  "replace": "Якщо ви збираєтеся когось убити, то чому це %3%? Я ж сама хотіла це зробити."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Час тобі розім’яти свої кісточки, дідугане!",
+  "replace": "Час вам розім’яти свої кісточки, дідугане!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/Chieftess",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also the question ends with a period",
+  "find": "Ого. Це так дивно, що навіть не віриться. Але якщо ти — це я, то ми обидві маємо хотіти прирізати одна одну, так чи ні.",
+  "replace": "Ого. Це так дивно, що навіть не віриться. Але якщо ви — це я, то ми обидві маємо хотіти прирізати одна одну, так чи ні?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/EmulatedMind",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Скажемо прямо — для бійки з тобою причини не потрібні. Вважай це повідомлення просто люб’язністю, наступного разу мій ніж стирчатиме в твоєму сервері.",
+  "replace": "Скажемо прямо — для бійки з вами причини не потрібні. Вважайте це повідомлення просто люб’язністю, наступного разу мій ніж стирчатиме у вашому сервері."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/FallenSoldier",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Кажуть, тебе важко вбити. Я обов’язково перевірю!",
+  "replace": "Кажуть, вас важко вбити. Я обов’язково перевірю!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/HeartlessArtificer",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Вітаю, мерзото. Готуйся до війни. Вирішила сказати прямо, бо ти ж вічно витаєш у хмарах.",
+  "replace": "Вітаю, мерзото. Готуйтеся до війни. Вирішила сказати прямо, бо ви ж вічно витаєте у хмарах."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/HollowWarlord",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «Долбаний» is the Russian spelling of «довбаний»",
+  "find": "Долбаний виродок! Пам’ятаєш той вечір? Гру «причепи хвіст акрину»? Ти ЗАЗУБРИВ мій клятий НІЖ. Покидьок! Кінець тобі.",
+  "replace": "Довбаний виродок! Пам’ятаєте той вечір? Гру «причепи хвіст акрину»? Ви ЗАЗУБРИЛИ мій клятий НІЖ. Покидьок! Кінець вам."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/HonorableAristocrat",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»; also «підборіддя» is neuter, so «п’яте»",
+  "find": "Твої люди п’ятий підборіддя відрощують, поки мої голодують. Побачимо, хто пройде природний відбір.",
+  "replace": "Ваші люди п’яте підборіддя відрощують, поки мої голодують. Побачимо, хто пройде природний відбір."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/ImperiousExonaut",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also fixes the inverted word order",
+  "find": "Ти що, в небі, голубонько? Гм. Тоді мені знадобиться ніж довший.",
+  "replace": "Ви що, в небі, голубонько? Гм. Тоді мені знадобиться довший ніж."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/InfiniteCount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Забери свої лапи! Не смій мені усміхатися! Ти мертвий, чуєш, мертвий!",
+  "replace": "Заберіть свої лапи! Не смійте мені усміхатися! Ви мертві, чуєте, мертві!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/PracticalRomantic",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «зі віршами» should be «з віршами»",
+  "find": "Доброго дня, мерзотнику. У мене зі віршами так собі, але ось що є: «Я тебе ненавиджу! Я тебе ненавиджу! Я тебе знищу! І прилюдно принижу!» Ну як? Зійде для «Євробачення»?",
+  "replace": "Доброго дня, мерзотнику. У мене з віршами так собі, але ось що є: «Я вас ненавиджу! Я вас ненавиджу! Я вас знищу! І прилюдно принижу!» Ну як? Зійде для «Євробачення»?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/RogueOperative",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; plural also removes the assumed female player gender",
+  "find": "Гей, ти, пронозлива сволото. Руки на видноті. Хоча я їх усе одно відріжу, зрозуміла? Все, ВІЙНА!",
+  "replace": "Гей, ви, пронозлива сволото. Руки на видноті. Хоча я їх усе одно відріжу, зрозуміли? Все, ВІЙНА!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/SyncreticDeva",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Чорт, хлопче. Шо за справа з усіма цими руками? Лікті собі лизати вмієш? Може, я б їх тобі підігнула..?",
+  "replace": "Чорт, хлопче. Шо за справа з усіма цими руками? Лікті собі лизати вмієте? Може, я б їх вам підігнула..?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/TwistedMother",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Мамцю! Прибери дітей подалі! Я йду за тобою!",
+  "replace": "Мамцю! Приберіть дітей подалі! Я йду за вами!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/UntoldProphet",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Доброго дня, дрібното. Я тебе не залякую, але мені доведеться знищити тебе і все, що тобі дороге. Ну все, без образ, бувай!",
+  "replace": "Доброго дня, дрібното. Я вас не залякую, але мені доведеться знищити вас і все, що вам дороге. Ну все, без образ, бувайте!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandAllianceTerminationWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "І ти ганчірка, і дружки у тебе такі самі. Відмовся від них, щоб ми їх прибрали.",
+  "replace": "І ви ганчірка, і дружки у вас такі самі. Відмовтеся від них, щоб ми їх прибрали."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandAllianceWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Однієї моєї допомоги тобі не вистачить. Може, варто завести більше друзів.",
+  "replace": "Однієї моєї допомоги вам не вистачить. Може, варто завести більше друзів."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandHighAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хочеш, щоб усе пройшло гладко? Тоді мені потрібна величезна компенсація.",
+  "replace": "Хочете, щоб усе пройшло гладко? Тоді мені потрібна величезна компенсація."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandLowAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хочеш, щоб усе пройшло гладко? Тоді надішли мені невеликий подарунок.",
+  "replace": "Хочете, щоб усе пройшло гладко? Тоді надішліть мені невеликий подарунок."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хочеш, щоб усе пройшло гладко? Тоді віддавай усе, що маєш.",
+  "replace": "Хочете, щоб усе пройшло гладко? Тоді віддавайте усе, що маєте."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandPaymentForDeal/DemandMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хочеш, щоб усе пройшло гладко? Тоді мені потрібна компенсація.",
+  "replace": "Хочете, щоб усе пройшло гладко? Тоді мені потрібна компенсація."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTradeAgreementTerminationWithThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Краще зав’яжи з цією торгівлею. Яким би не був прибуток, дратувати мене вийде дорожче, зрозуміло?",
+  "replace": "Краще зав’яжіть з цією торгівлею. Яким би не був прибуток, дратувати мене вийде дорожче, зрозуміло?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTribute/DemandHighAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Вважай це не грабунком, а просто дорогим способом мені сподобатися.",
+  "replace": "Вважайте це не грабунком, а просто дорогим способом мені сподобатися."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTribute/DemandLowAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Вважай це не грабунком, а просто недорогим способом мені сподобатися.",
+  "replace": "Вважайте це не грабунком, а просто недорогим способом мені сподобатися."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTribute/DemandMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Гаразд, цього разу це буквально грабунок. Віддавай усе, що є, якщо хочеш і далі мені подобатися.",
+  "replace": "Гаразд, цього разу це буквально грабунок. Віддавайте усе, що є, якщо хочете і далі мені подобатися."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTribute/DemandMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Вважай це не грабунком, а просто способом мені сподобатися.",
+  "replace": "Вважайте це не грабунком, а просто способом мені сподобатися."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Відчепися, якщо не хочеш різанини. Мої хлопці вже на неї налаштувалися.",
+  "replace": "Відчепіться, якщо не хочете різанини. Мої хлопці вже на неї налаштувалися."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DemandWarAgainstThirdParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Доброго дня, лапо. Тут намічається вечірка. Приходь зі своєю армією. Буде багато веселощів і багато призів. Клич друзів і подруг та приходь, гаразд?",
+  "replace": "Доброго дня, лапо. Тут намічається вечірка. Приходьте зі своєю армією. Буде багато веселощів і багато призів. Кличте друзів і подруг та приходьте, гаразд?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/EndCall/Friendly",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Бувай, лапо.",
+  "replace": "Бувайте, лапо."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/EndCall/Hostile",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Озирайся, ганчірко.",
+  "replace": "Озирайтеся, ганчірко."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/EndCall/Neutral",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Все, бувай.",
+  "replace": "Все, бувайте."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/FirstContact",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «торчали» is a russianism for «стирчали»",
+  "find": "Доброго дня, мертвячино. Любиш битися з моїми хлопцями?<br/><br/>Бачиш, поки ви, бункерні щури, ховалися по казематах і норах, ми торчали на поверхні. Таке змінює людей. Марші смерті, епідемії, розправи, голод. На все підеш заради виживання.<br/><br/>Коротше, до чого я веду. Ти начебто нічого. Але не факт, що я тебе не приріжу... У нинішньому світі тебе замочать за будь-якого розкладу — то, може, це буду я?",
+  "replace": "Доброго дня, мертвячино. Любите битися з моїми хлопцями?<br/><br/>Бачите, поки ви, бункерні щури, ховалися по казематах і норах, ми стирчали на поверхні. Таке змінює людей. Марші смерті, епідемії, розправи, голод. На все підете заради виживання.<br/><br/>Коротше, до чого я веду. Ви начебто нічого. Але не факт, що я вас не приріжу... У нинішньому світі вас замочать за будь-якого розкладу — то, може, це буду я?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти клята божевільна псина! Що скажеш, якщо ми потоваришуємо і поділимо весь світ між нами двома?",
+  "replace": "Ви клята божевільна псина! Що скажете, якщо ми потоваришуємо і поділимо весь світ між нами двома?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferGift",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Сьогодні я тобі запропоную дещо — і тільки спробуй відмовитися. Ні-ні, це не погроза — цього разу. Хоча, мабуть, прозвучало саме як погроза, так? Гм. Коротше. Просто бери.",
+  "replace": "Сьогодні я вам запропоную дещо — і тільки спробуйте відмовитися. Ні-ні, це не погроза — цього разу. Хоча, мабуть, прозвучало саме як погроза, так? Гм. Коротше. Просто беріть."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferGift/OfferLowAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperatives addressed to the player must be «ви»",
+  "find": "Не скаржся! Я взагалі рідко що-небудь віддаю, тож бережи, що є.",
+  "replace": "Не скаржтеся! Я взагалі рідко що-небудь віддаю, тож бережіть, що є."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferGift/OfferMaxAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Можеш скаржитися, що цього мало, але в мене більше нічого немає.",
+  "replace": "Можете скаржитися, що цього мало, але в мене більше нічого немає."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferGift/OfferMediumAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Думаю, цього чимало, тож не ний, гаразд?",
+  "replace": "Думаю, цього чимало, тож не нийте, гаразд?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Обміняймося картами. Я не хочу, щоб твої солдати в мене топталися — а ти не хочеш, щоб мої хлопці топталися в тебе.",
+  "replace": "Обміняймося картами. Я не хочу, щоб ваші солдати в мене топталися — а ви не хочете, щоб мої хлопці топталися у вас."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Слухай... Це не в моїй натурі. Коротше, якщо не хочеш ризикувати останніми зубами, то просто замовкни і погоджуйся.",
+  "replace": "Слухайте... Це не в моїй натурі. Коротше, якщо не хочете ризикувати останніми зубами, то просто замовкніть і погоджуйтеся."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/EmulatedMind",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»; also «здорованьська» is not a word",
+  "find": "Коротше, якось у мене з цією війною не склалося. Оця здорованьська пукалка над твоїм містом? Не надто приємно бути її мішенню. Припинимо?",
+  "replace": "Коротше, якось у мене з цією війною не склалося. Оця здоровенна пукалка над вашим містом? Не надто приємно бути її мішенню. Припинимо?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/FallenSoldier",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Так, а ти й справді не вмираєш, так? Може, візьмемо перерву, поки я не вигадаю нові способи?",
+  "replace": "Так, а ви й справді не вмираєте, так? Може, візьмемо перерву, поки я не вигадаю нові способи?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/FurtiveTribunal",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "Слухай, я знаю, що ви бачите майбутнє... І це ви теж передбачили? Що я прийду і почну просити миру? Ні, просити я точно не буду. Але все ж...",
+  "replace": "Слухайте, я знаю, що ви бачите майбутнє... І це ви теж передбачили? Що я прийду і почну просити миру? Ні, просити я точно не буду. Але все ж..."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/HeartlessArtificer",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "М-да. Ти своїх людей цінуєш ще менше, ніж я своїх! Я за тобою не встигну.",
+  "replace": "М-да. Ви своїх людей цінуєте ще менше, ніж я своїх! Я за вами не встигну."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/HollowWarlord",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «Блін» and «цепний» are russianisms",
+  "find": "Блін, чоловіче. Ти б’єшся, як цепний песик Сатани! Дай-но мені перевести подих.",
+  "replace": "Чорт, чоловіче. Ви б’єтеся, як ланцюговий песик Сатани! Дайте-но мені перевести подих."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/HonorableAristocrat",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Я вже втомилася намагатися тебе замочити. Мені треба зробити паузу, наточити дещо.",
+  "replace": "Я вже втомилася намагатися вас замочити. Мені треба зробити паузу, наточити дещо."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/ImperiousExonaut",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Перестану на хвильку вбивати. Просто шоб розкумекати, як до тебе дотягтися, кумекаєш?",
+  "replace": "Перестану на хвильку вбивати. Просто шоб розкумекати, як до вас дотягтися, кумекаєте?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/InfiniteCount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «Дідусь» needs the vocative «Дідусю»",
+  "find": "Дідусь. Я чула, ти бачиш майбутнє. Якщо я перестану тебе вбивати, ти думаєш… ти міг би дати мені лотерейні номери на наступний тиждень?",
+  "replace": "Дідусю. Я чула, ви бачите майбутнє. Якщо я перестану вас вбивати, ви думаєте… ви могли б дати мені лотерейні номери на наступний тиждень?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/PlatinumScion",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Подобається твій прикид, хлопче. Ось угода: я перестаю вбивати твоїх корешів. Ти робиш гарну сукню 14-го розміру, ми йдемо на вечерю. Ти платиш.",
+  "replace": "Подобається ваш прикид, хлопче. Ось угода: я перестаю вбивати ваших корешів. Ви робите гарну сукню 14-го розміру, ми йдемо на вечерю. Ви платите."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/PracticalRomantic",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Не зрозумій неправильно, але, е-е... Можна у тебе позичити якісь вірші? Через усі ці вбивства у мене розігралася сентиментальність.<br/><br/>(Але пізніше я тебе все одно вб’ю. Як пити дати.)",
+  "replace": "Не зрозумійте неправильно, але, е-е... Можна у вас позичити якісь вірші? Через усі ці вбивства у мене розігралася сентиментальність.<br/><br/>(Але пізніше я вас все одно вб’ю. Як пити дати.)"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/RogueOperative",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Слухай, у мене вже Спустошувачі закінчуються. Треба набрати нових, тож твоє вбивство доведеться відкласти на інший день. Домовились?",
+  "replace": "Слухайте, у мене вже Спустошувачі закінчуються. Треба набрати нових, тож ваше вбивство доведеться відкласти на інший день. Домовились?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/SyncreticDeva",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Як на старого діда, ти доволі міцний. Це навіть якось заводить.",
+  "replace": "Як на старого діда, ви доволі міцні. Це навіть якось заводить."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/TwistedMother",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хм. Ніколи б не подумала, що ти грім-баба. Ну молодець.",
+  "replace": "Хм. Ніколи б не подумала, що ви грім-баба. Ну молодець."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferPeace/UntoldProphet",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Гей, дрібното, ти вже не сердься за всі звірства, спалені церкви та інше. Я тут вирішила для різноманіття пограбувати когось іншого. Дам тобі перепочити, ти ж іще зовсім дитина. Бувай!",
+  "replace": "Гей, дрібното, ви вже не сердьтеся за всі звірства, спалені церкви та інше. Я тут вирішила для різноманіття пограбувати когось іншого. Дам вам перепочити, ви ж іще зовсім дитина. Бувайте!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/OfferTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти мої каравани грабуєш, а я твої. А що, як ми обійдемося без проміжних етапів і відправлятимемо їх одне одному напряму?",
+  "replace": "Ви мої каравани грабуєте, а я ваші. А що, як ми обійдемося без проміжних етапів і відправлятимемо їх одне одному напряму?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Хууу-у! Подивись на себе, хакер! Продовжуй у тому ж дусі, і закінчиш молодцем у моїй банді.",
+  "replace": "Хууу-у! Подивіться на себе, хакер! Продовжуйте у тому ж дусі, і закінчите молодцем у моїй банді."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/ChieftessStanding",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти дозволяєш моїм друзякам залишитися в тебе? Та ні, я... рада. Так правильно. Викреслюю тебе зі списку виродків.",
+  "replace": "Ви дозволяєте моїм друзякам залишитися у вас? Та ні, я... рада. Так правильно. Викреслюю вас зі списку виродків."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/HitAndRun",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; plural also removes the assumed female player gender",
+  "find": "Бий і тікай? Цікава в тебе тактика. Це як постукати у двері й утекти до того, як вибухне граната? Що? Наче ти в дитинстві ніколи так не робила?",
+  "replace": "Бий і тікай? Цікава у вас тактика. Це як постукати у двері й утекти до того, як вибухне граната? Що? Наче ви в дитинстві ніколи так не робили?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/HumanitysFinest",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Бляха, твої хлопці й дівчата — ВОГОНЬ. Можна позичити парочку на пробний заїзд?",
+  "replace": "Бляха, ваші хлопці й дівчата — ВОГОНЬ. Можна позичити парочку на пробний заїзд?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/Scavenger",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Так і треба, так. Зрізаєш черевики, а ноги кидаєш у спільний казан. На смак майже як курка!",
+  "replace": "Так і треба, так. Зрізаєте черевики, а ноги кидаєте у спільний казан. На смак майже як курка!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/SeeAsISee",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «Їжте свої очі» is a literal calque of the idiom «eat your heart out» (Romero is a third party, so «ти» stays there)",
+  "find": "Бляха, приятелю! Зроби це знову! Це була їбанутська поїздка! Їжте свої очі, їбаний Ромеро! Ще! Ще!",
+  "replace": "Бляха, приятелю! Зробіть це знову! Це була їбанутська поїздка! Вмри від заздрощів, їбаний Ромеро! Ще! Ще!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/Praise/TalesOfTheHunt",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; plural also removes the assumed male player gender",
+  "find": "Я б іще послухала! Ти своїм ножичком їх на шинку порізав? А шматочок даси спробувати? Оце байка!",
+  "replace": "Я б іще послухала! Ви своїм ножичком їх на шинку порізали? А шматочок дасте спробувати? Оце байка!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "А що я отримаю за допомогу? Звертайся, коли станеш сильнішим — або багатшим настільки, щоб оплатити моє покровительство.",
+  "replace": "А що я отримаю за допомогу? Звертайтеся, коли станете сильнішими — або багатшими настільки, щоб оплатити моє покровительство."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectAllianceTerminationWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ага, як би не так. Здається, ти не зовсім розумієш, хто тут приймає рішення.",
+  "replace": "Ага, як би не так. Здається, ви не зовсім розумієте, хто тут приймає рішення."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectAllianceTerminationWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ага, як би не так. %3% приносить більше користі, ніж ти останнім часом. Якщо відмовлятися, то від гіршого з друзяк.",
+  "replace": "Ага, як би не так. %3% приносить більше користі, ніж ви останнім часом. Якщо відмовлятися, то від гіршого з друзяк."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectAllianceWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти дуже високої думки про свої поради. Шкода, що лише ти.",
+  "replace": "Ви дуже високої думки про свої поради. Шкода, що лише ви."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectAllianceWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "%3% і власну дупу насилу підтирає. Якщо потрібна нянька — пошукай когось іншого, лапо.",
+  "replace": "%3% і власну дупу насилу підтирає. Якщо потрібна нянька — пошукайте когось іншого, лапо."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectGift/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Спасибки за пропозицію, але ми з хлопцями із задоволенням заберемо це у тебе самі.",
+  "replace": "Спасибки за пропозицію, але ми з хлопцями із задоволенням заберемо це у вас самі."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectMapSharing",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "Навіщо мені твоя карта, якщо я й так можу безкарно грабувати твої землі?",
+  "replace": "Навіщо мені ваша карта, якщо я й так можу безкарно грабувати ваші землі?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectPaymentForDeal/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Зустрічна пропозиція — ми нічого не заплатимо, бо ти смердюча погань! Як тобі такий розклад?",
+  "replace": "Зустрічна пропозиція — ми нічого не заплатимо, бо ви смердюча погань! Як вам такий розклад?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectPaymentForDeal/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Зустрічна пропозиція — ми про все це забудемо, включно з тим, як сильно я хочу встромити тобі ніж між ребер!",
+  "replace": "Зустрічна пропозиція — ми про все це забудемо, включно з тим, як сильно я хочу встромити вам ніж між ребер!"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectPeaceWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Пропонуєш мир? Думаєш, я зовсім без глузду? Ти просто хочеш накинутися і вкрасти мою здобич.",
+  "replace": "Пропонуєте мир? Думаєте, я зовсім без глузду? Ви просто хочете накинутися і вкрасти мою здобич."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectPeaceWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Припинити ворожнечу? Ага, як би не так, %3% вже в мене в кишені й скоро піде на бійню. І тобі краще мені не заважати.",
+  "replace": "Припинити ворожнечу? Ага, як би не так, %3% вже в мене в кишені й скоро піде на бійню. І вам краще мені не заважати."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "О, твої каравани точно потраплять у мої міста. Але взамін я нічого не дам.",
+  "replace": "О, ваші каравани точно потраплять у мої міста. Але взамін я нічого не дам."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTradeAgreementTerminationWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Мої каравани йдуть туди, куди я скажу. І тобі цього ніяк не змінити.",
+  "replace": "Мої каравани йдуть туди, куди я скажу. І вам цього ніяк не змінити."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTradeAgreementTerminationWithThirdParty/RejectParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ага, як би не так. Ця угода все ще приносить мені непоганий прибуток, тож не бачу сенсу тебе слухати.",
+  "replace": "Ага, як би не так. Ця угода все ще приносить мені непоганий прибуток, тож не бачу сенсу вас слухати."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTradeAgreementWithThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Мої каравани йдуть туди, куди я скажу. І тобі цього ніяк не змінити.",
+  "replace": "Мої каравани йдуть туди, куди я скажу. І вам цього ніяк не змінити."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTribute/RejectAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти мене грабуєш? Ага, як би не так! Хоча п’ять балів за старання.",
+  "replace": "Ви мене грабуєте? Ага, як би не так! Хоча п’ять балів за старання."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTribute/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Що-що ти хочеш? Не нахабній, а то хотілка трісне.",
+  "replace": "Що-що ви хочете? Не нахабнійте, а то хотілка трісне."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectTroopWithdrawal",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ага... як би не так. Вони залишаться там, де захочуть, і ти нічого з цим не вдієш.",
+  "replace": "Ага... як би не так. Вони залишаться там, де захочуть, і ви нічого з цим не вдієте."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/RejectWarAgainstThirdParty/RejectOutright",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Вибач, лапо, але в моєму списку цілей вже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?",
+  "replace": "Вибачте, лапо, але в моєму списку цілей вже немає місця. Я його трохи розвантажу, а потім подумаємо, як нам розважитися, гаразд?"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/TerminateAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperatives addressed to the player must be «ви»",
+  "find": "Ну-ну, тільки не реви. Я все ще вважаю нас друзяками — і краще не змушуй мене передумати.",
+  "replace": "Ну-ну, тільки не ревіть. Я все ще вважаю нас друзяками — і краще не змушуйте мене передумати."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/TerminateTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Вибач, лапо. Можеш і далі надсилати свої каравани. Тільки ми більше нічого не даватимемо взамін.",
+  "replace": "Вибачте, лапо. Можете і далі надсилати свої каравани. Тільки ми більше нічого не даватимемо взамін."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also the compound subject needs a plural verb",
+  "find": "Д... д-д-дружба? Наші ЗВ’ЯЗКИ та ІНТЕЛЕКТУАЛЬНАсила п-р-и-м-н-о-ж-у-є-т-ь-с-я! (Так), давай. Працювати. РАЗОМ.",
+  "replace": "Д... д-д-дружба? Наші ЗВ’ЯЗКИ та ІНТЕЛЕКТУАЛЬНАсила п-р-и-м-н-о-ж-а-т-ь-с-я! (Так), давайте. Працювати. РАЗОМ."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAllianceTermination",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Моє (ставлення) до тебе не ПОГІРШИЛОСЯ. І я виживала ОДНАоднаОДНАодна (1) так ДОООООвго. Я (боюся), що без Мене тобі буде ГІРШЕ...",
+  "replace": "Моє (ставлення) до вас не ПОГІРШИЛОСЯ. І я виживала ОДНАоднаОДНАодна (1) так ДОООООвго. Я (боюся), що без Мене вам буде ГІРШЕ..."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAllianceTerminationWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Можливо, зважаючи на мою п-о-т-в-о-р-н-і-с-т-ь, буде КРАЩЕ-для-всіх, якщо я буду однаОДНАодна — без (%3%). Я й ДЗЕРКАЛ (уникаю), розумієш?",
+  "replace": "Можливо, зважаючи на мою п-о-т-в-о-р-н-і-с-т-ь, буде КРАЩЕ-для-всіх, якщо я буду однаОДНАодна — без (%3%). Я й ДЗЕРКАЛ (уникаю), розумієте?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAllianceTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Питати ТАКЕ? Ти не р-о-з-у-м-і-є-ш МЕНЕ — ІЗОЛЯЦІЮоднаІЗОЛЯЦІЮ, з якої я вибралася. Який БЕЗЦІННИЙ (рідкісний) с-а-м-о-ц-в-і-т ЗВ’ЯЗКУ ти пропонуєш ВІДКЛЮЧИТИ від моєї мережі?",
+  "replace": "Питати ТАКЕ? Ви не р-о-з-у-м-і-є-т-е МЕНЕ — ІЗОЛЯЦІЮоднаІЗОЛЯЦІЮ, з якої я вибралася. Який БЕЗЦІННИЙ (рідкісний) с-а-м-о-ц-в-і-т ЗВ’ЯЗКУ ви пропонуєте ВІДКЛЮЧИТИ від моєї мережі?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptAllianceWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Я б із ЗАДОВОЛЕННЯМ розширила (коло). Але ХТО. Ти ГАДАЄШ. Прийме ДРУЖБУ з ЧИМСЬ на кшталт мене-МЕНЕ-мене?",
+  "replace": "Я б із ЗАДОВОЛЕННЯМ розширила (коло). Але ХТО. Ви ГАДАЄТЕ. Прийме ДРУЖБУ з ЧИМСЬ на кшталт мене-МЕНЕ-мене?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptCall/Friendly",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "ДОРОГИЙ (об’єкт дружби), PRINT10 ПРИВІТ. Я, утім, п-о-д-о-з-р-ю-ю, що ти хочеш БІЛЬШЕ. Ніж (просто) поЧАТитися...",
+  "replace": "ДОРОГИЙ (об’єкт дружби), PRINT10 ПРИВІТ. Я, утім, п-о-д-о-з-р-ю-ю, що ви хочете БІЛЬШЕ. Ніж (просто) поЧАТитися..."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptCall/Hostile",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "А-а, це (т-и). Ну. Що. *Т-О-Б-І.* (треба)?",
+  "replace": "А-а, це (в-и). Ну. Що. *В-А-М.* (треба)?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptCall/Neutral",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "PRINT10 ПРИВІТ. Чого. (ти) ХОЧЕШ від мене-мене-мене?",
+  "replace": "PRINT10 ПРИВІТ. Чого. (ви) ХОЧЕТЕ від мене-мене-мене?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptCondemn",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ой! Ти зна(єш) я(к) {2дістати2}. Серденько-СЕРДЕНЬКО-серденько [[жінки]]. /виконати програму мімікрії.",
+  "replace": "Ой! Ви зна(єте) я(к) {2дістати2}. Серденько-СЕРДЕНЬКО-серденько [[жінки]]. /виконати програму мімікрії."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptGift/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Чого я насправді ХОЧУ. Повернути СЕБЕ — мою л-ю-д-я-н-і-с-т-ь, мою о-с-о-б-и-с-т-і-с-т-ь... ти можеш ЗАПРОПОНУВАТИ хоч щось п-о-д-і-б-н-е?",
+  "replace": "Чого я насправді ХОЧУ. Повернути СЕБЕ — мою л-ю-д-я-н-і-с-т-ь, мою о-с-о-б-и-с-т-і-с-т-ь... ви можете ЗАПРОПОНУВАТИ хоч щось п-о-д-і-б-н-е?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptPaymentForDeal/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Так? Ні? Я-я-я-н-е-н-е... ЩО ти насправді п-р-о-п-о-н-у-є-ш?",
+  "replace": "Так? Ні? Я-я-я-н-е-н-е... ЩО ви насправді п-р-о-п-о-н-у-є-т-е?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also «ПІДІРВАНІ» (blown up) for data CORRUPTion should be «ПОШКОДЖЕНІ»",
+  "find": "ЧЕСНО, я навіть не (пам’ятаю), чому мені доводиться БОРОТИСЯ з (%3%). М-а-р-а-з-м чи ПІДІРВАНІ-д*а*н*і — вирішуй сам.",
+  "replace": "ЧЕСНО, я навіть не (пам’ятаю), чому мені доводиться БОРОТИСЯ з (%3%). М-а-р-а-з-м чи ПОШКОДЖЕНІ-д*а*н*і — вирішуйте самі."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptPeaceWithThirdParty/AskParty",
+  "sev": "high",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also the run-on aside reverses EN - neurons sparking out into forever dark, not a flash driving the darkness away - and its closing asterisk is missing",
+  "find": "Вже ПОМЕРШИ — *спалахнейроніввідганяєвічнутемряву — ОДНОГО разу, я згодна, що порятунок життів п-о-х-в-а-л-ь-н-и-й. Ну, принаймні, (деяких) — про КОГОкоГО ти говориш?",
+  "replace": "Вже ПОМЕРШИ — *нейронигаснутьсповільнюютьсявічнатемрява* — ОДНОГО разу, я згодна, що порятунок життів п-о-х-в-а-л-ь-н-и-й. Ну, принаймні, (деяких) — про КОГОкоГО ви говорите?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreement",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»; also «видаляє від» is wrong for «leading away from»",
+  "find": "ТОРГІВЛЯ — ЗОЛОТЕ (переплетення), що в-и-д-а-л-я-є від ВІЙНИ. Мої ДРОНИ почнуть д-о-с-т-а-в-к-у до твого МІСТА н-е-в-і-д-к-л-а-д-н-о.",
+  "replace": "ТОРГІВЛЯ — ЗОЛОТЕ (переплетення), що в-і-д-в-о-д-и-т-ь від ВІЙНИ. Мої ДРОНИ почнуть д-о-с-т-а-в-к-у до вашого МІСТА н-е-в-і-д-к-л-а-д-н-о."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTermination",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»",
+  "find": "З-а-ч-е-к-а-й, ЩО. *Ч*О*М*У? Доставка в ТОЙ САМИЙ ДЕНЬ була (не)достатньо шв-и-д-к-о-ю?",
+  "replace": "З-а-ч-е-к-а-й-т-е, ЩО. *Ч*О*М*У? Доставка в ТОЙ САМИЙ ДЕНЬ була (не)достатньо шв-и-д-к-о-ю?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Я (не) 1 (ОДНА) з тих. Хто любить *компанії* (САМОТНЯсамотня), але т-о-р-г-і-в-л-я — перший крок! До створення ЗВ’ЯЗКІВ. З КИМ ти пропонуєш мені *ЗВ’ЯЗАТИСЯ*?",
+  "replace": "Я (не) 1 (ОДНА) з тих. Хто любить *компанії* (САМОТНЯсамотня), але т-о-р-г-і-в-л-я — перший крок! До створення ЗВ’ЯЗКІВ. З КИМ ви пропонуєте мені *ЗВ’ЯЗАТИСЯ*?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTribute/AskAmount",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "ДОЛЯ (не-знайдено!) вже ПОЗБАВИЛА. Мене стількох *речей*... Скільки *ще* (ти) хочеш ЗАБРАТИ?",
+  "replace": "ДОЛЯ (не-знайдено!) вже ПОЗБАВИЛА. Мене стількох *речей*... Скільки *ще* (ви) хочете ЗАБРАТИ?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptWar",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; plural also removes the assumed female player gender",
+  "find": "Ти... дрібна п*а*с*к*у-д*о! Як ти Н-А-С-М-І-Л-А-С-Я? Думаєш, що ТИ. Зможеш досягти успіху. Там, де зазнали поразки ті. Хто був КРАЩИМ за т-е-б-е?",
+  "replace": "Ви... дрібна п*а*с*к*у-д*о! Як ви Н-А-С-М-І-Л-И-С-Я? Думаєте, що ВИ. Зможете досягти успіху. Там, де зазнали поразки ті. Хто був КРАЩИМ за в-а-с?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AdmitDefeat",
+  "sev": "high",
+  "cat": "register",
+  "note": "the dying request is addressed to the player, so the imperative goes to «ви»; also *bl.e.s.s.i.n.g* was translated as «прохання» (request) instead of «благословення»",
+  "find": "Ц-е не така вже (дрібниця) — П-О-М-И-Р-А-Т-ИпомиратиП-О-М-И-Р-А-Т-И знову і знову. Цього РАЗУ, принаймні, вона буде (миттєвою). Минулого разу було... Зізнаюся, я прокручувала свої ОСТАННІ (секунди) знову-і-знову-і-... Від самого ПРОБУДЖЕННЯ. Ця наступна (смерть) покладе КІНЕЦЬ. Цьому. І тому *п-р-о-х-а-н-н-я*. П0дБ@ЙС9 про моїх (л-ю-д-д-д-д-д-",
+  "replace": "Ц-е не така вже (дрібниця) — П-О-М-И-Р-А-Т-ИпомиратиП-О-М-И-Р-А-Т-И знову і знову. Цього РАЗУ, принаймні, вона буде (миттєвою). Минулого разу було... Зізнаюся, я прокручувала свої ОСТАННІ (секунди) знову-і-знову-і-... Від самого ПРОБУДЖЕННЯ. Ця наступна (смерть) покладе КІНЕЦЬ. Цьому. І тому *б-л-а-г-о-с-л-о-в-е-н-н-я*. П0дБ@ЙТ3 про моїх (л-ю-д-д-д-д-д-"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AskForProposals",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Тобі (ПОТРІБНО). щ-о-с-ь. ЩЕ:",
+  "replace": "Вам (ПОТРІБНО). щ-о-с-ь. ЩЕ:"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AskForSupport/Anchorite",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "ДОПОМОГА моїм людям. Доведе, що ми з тобою (не люди, ніколи не були людьми). Можемо бути. МОРАЛЬНИМИ. ЕТИЧНИМИ. ПРАВИЛЬНИМИ. *п-р-о-ш-у*",
+  "replace": "ДОПОМОГА моїм людям. Доведе, що ми з вами (не люди, ніколи не були людьми). Можемо бути. МОРАЛЬНИМИ. ЕТИЧНИМИ. ПРАВИЛЬНИМИ. *п-р-о-ш-у*"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AskForSupport/Chieftess",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Якщо у твоєму {серці}. Колись було. (ДОБРО). То ДОПОМОЖИ моїм л-ю-д-я-м. Покажи, що (людина) — це не порожній звук.",
+  "replace": "Якщо у вашому {серці}. Колись було. (ДОБРО). То ДОПОМОЖІТЬ моїм л-ю-д-я-м. Покажіть, що (людина) — це не порожній звук."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AskForSupport/Zephon",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Ти знаєш. Я тебе (****бачу). У моїх. СИСТЕМАХ. Усе котиться (в-ни-з). ПОТРІБНА допомога.",
+  "replace": "Ви знаєте. Я вас (****бачу). У моїх. СИСТЕМАХ. Усе котиться (в-ни-з). ПОТРІБНА допомога."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/Condemn/CultExpansion",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «твій»",
+  "find": "НіНІні. Людяність — це цікавість, вибір — це с-в-і-д-о-м-і-с-т-ь. (Твій культ) не має МІСЦЯ. Для л-ю-д-и-н-и. ==(Брехливий пророк), (БРЕХЛИВА віра).",
+  "replace": "НіНІні. Людяність — це цікавість, вибір — це с-в-і-д-о-м-і-с-т-ь. (Ваш культ) не має МІСЦЯ. Для л-ю-д-и-н-и. ==(Брехливий пророк), (БРЕХЛИВА віра)."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/Condemn/Honorbound",
+  "sev": "high",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also EN says the player leaves OUR people below zero, not «твоїх людей», and «ти ВСІ їх оголошуєш вдаломи» garbles «ALL *bene.fit*, you /de.clare./»",
+  "find": "Поки (твої.люди) набивають пузо (ховаючись за СТІНАми), інші ГОЛОД_ують. Твої угоди. Можуть.здаватися г-і-д-н-и-м-и тобі — ти ВСІ їх /оголошуєш/ *вдало.ми* Але в підсумку р-і-в-н-я-н-н-я е.к.о.н.о.м.і.к.и. дає нуль (=0). І в (твоїх людей) залишається менше\\<ніж\\<Н0ЛЬ.",
+  "replace": "Поки (ваші.люди) набивають пузо (ховаючись за СТІНАми), інші ГОЛОД_ують. Ваші угоди. Можуть.здаватися г-і-д-н-и-м-и вам — ВСІ *отри.мують.вигоду*, /оголошуєте/ ви. Але в підсумку р-і-в-н-я-н-н-я е.к.о.н.о.м.і.к.и. дає нуль (=0). І в (наших людей) залишається менше\\<ніж\\<Н0ЛЬ."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/Condemn/PersonalVisit",
+  "sev": "med",
+  "cat": "register",
+  "note": "imperative addressed to the player must be «ви»; also «Утер» is past tense, not an imperative, and «обличчя» is neuter so «МОЇМ»",
+  "find": "Утер [МОЄЮ] О.Б.Л.И.Ч.Ч.Я.М. об це.",
+  "replace": "Утріть [МОЇМ] О.Б.Л.И.Ч.Ч.Я.М. об це."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/Condemn/Untrustworthy",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»",
+  "find": "Я що, НЕдостатньо (ЛЮДИНА). Щоб ти вважав. (*мене*). Гідною норм МОРАЛІ?",
+  "replace": "Я що, НЕдостатньо (ЛЮДИНА). Щоб ви вважали. (*мене*). Гідною норм МОРАЛІ?"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/CondemnAlliance",
+  "sev": "med",
+  "cat": "register",
+  "note": "addresses the player with «ти»; also EN is «I SEE *you*», not «I see everything»",
+  "find": "О. о. О. о. Підступний ДИКАР. Ведеш справи з НИМИ (=ЦИМИ)? З (=%3%)? (Я ВСЕ *бачу*.) Я -не можу- такого пробачити.",
+  "replace": "О. о. О. о. Підступний ДИКАР. Ведете справи з НИМИ (=ЦИМИ)? З (=%3%)? (Я *вас* БАЧУ.) Я -не можу- такого пробачити."
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/AcceptTradeAgreementWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "«дойну» is the Russian spelling; Ukrainian is «дійну»",
+  "find": "дойну корівку",
+  "replace": "дійну корівку"
+ },
+ {
+  "id": "Diplomacy.xml|Chieftess/DeclareWar/PlatinumScion",
+  "sev": "med",
+  "cat": "russianism",
+  "note": "«побрякушки» is a Russian word; Ukrainian is «брязкальця»",
+  "find": "побрякушки",
+  "replace": "брязкальця"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptPeace",
+  "sev": "low",
+  "cat": "typo",
+  "note": "the letter-spacing stylization breaks on the last two letters",
+  "find": "з-а-л-и-ш-и-ли",
+  "replace": "з-а-л-и-ш-и-л-и"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty",
+  "sev": "med",
+  "cat": "omission",
+  "note": "EN «and will not (return)» is dropped",
+  "find": "Мої *дрони* здійснюють (повернення) ДОДОМУ.",
+  "replace": "Мої *дрони* вирушають ДОДОМУ і не (повернуться)."
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AskParty",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "«позбутися» takes the genitive without «від»",
+  "find": "мені слід ВІД нього/неї п-о-з-б-у-т-и-с-я",
+  "replace": "мені слід його/її п-о-з-б-у-т-и-с-я"
+ },
+ {
+  "id": "Diplomacy.xml|EmulatedMind/AcceptWarAgainstThirdParty/AskParty",
+  "sev": "med",
+  "cat": "grammar",
+  "note": "EN «B4 they WIPE» is future, not past",
+  "find": "як вони СТЕРЛИ всю",
+  "replace": "як вони ЗІТРУТЬ всю"
+ }
+]
