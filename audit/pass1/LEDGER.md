@@ -32,9 +32,9 @@
 - [ ] B25 | Factions.xml | 27 entries | 34,284 chars
 - [ ] B26 | Factions.xml | 33 entries | 35,183 chars
 - [ ] B27 | Factions.xml, Features.xml | 100 entries | 34,159 chars
-- [ ] B28 | Features.xml, GUI.xml | 239 entries | 34,008 chars
-- [ ] B29 | GUI.xml | 250 entries | 16,829 chars
-- [ ] B30 | GUI.xml, Items.xml, Messages.xml | 143 entries | 34,746 chars
+- [ ] B28 | Features.xml, GUI.xml | 240 entries | 34,084 chars
+- [ ] B29 | GUI.xml | 250 entries | 16,862 chars
+- [ ] B30 | GUI.xml, Items.xml, Messages.xml | 149 entries | 34,938 chars
 - [ ] B31 | Messages.xml, Modifiers.xml | 250 entries | 16,830 chars
 - [ ] B32 | Modifiers.xml, Notifications.xml, Objectives.xml, Overlay.xml, Quests.xml | 245 entries | 37,854 chars
 - [ ] B33 | Quests.xml | 54 entries | 39,845 chars
@@ -56,7 +56,7 @@
 - [ ] B49 | Quests.xml | 53 entries | 39,127 chars
 - [ ] B50 | Quests.xml | 41 entries | 38,625 chars
 - [ ] B51 | Quests.xml, Regions.xml, Settings.xml | 250 entries | 22,901 chars
-- [ ] B52 | Settings.xml | 250 entries | 15,113 chars
+- [ ] B52 | Settings.xml | 250 entries | 15,104 chars
 - [ ] B53 | Settings.xml, Tips.xml | 137 entries | 37,558 chars
 - [ ] B54 | Titles.xml, Traits.xml | 250 entries | 13,962 chars
 - [ ] B55 | Traits.xml | 250 entries | 30,145 chars
@@ -71,4 +71,4 @@
 - [ ] B64 | Upgrades.xml, Weapons.xml | 185 entries | 34,100 chars
 - [ ] B65 | Weapons.xml | 62 entries | 34,266 chars
 - [ ] B66 | Weapons.xml, WorldParameters.xml | 250 entries | 22,491 chars
-- [ ] B67 | WorldParameters.xml | 245 entries | 9,949 chars
+- [ ] B67 | WorldParameters.xml | 245 entries | 9,881 chars

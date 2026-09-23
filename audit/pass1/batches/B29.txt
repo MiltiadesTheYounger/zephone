@@ -1,9 +1,5 @@
 # B29: 250 entries from GUI.xml
 
-## GUI.xml|LevelableElite
-EN: <style color='GUI/LevelableAction'/>Levelable—Elite<style color='Default'/>
-UK: <style color='GUI/LevelableAction'/>Можна покращити з рівнем — Еліта<style color='Default'/>
-
 ## GUI.xml|LimitReached
 EN: Limit reached.
 UK: Досягнуто ліміт.
@@ -884,6 +880,34 @@ UK: Ранг %1%
 EN: Tier %1% (Locked)
 UK: Ранг %1% (Заблоковано)
 
+## GUI.xml|Timeline
+EN: Timeline
+UK: Хронологія
+
+## GUI.xml|TimelinePause
+EN: Pause
+UK: Пауза
+
+## GUI.xml|TimelinePlay
+EN: Play
+UK: Відтворити
+
+## GUI.xml|TimelineSpeedHint
+EN: Playback speed: turns per second.
+UK: Швидкість відтворення: ходів за секунду.
+
+## GUI.xml|TimelineStart
+EN: Start
+UK: Початок
+
+## GUI.xml|TimelineTurn
+EN: Turn %1%
+UK: Хід %1%
+
+## GUI.xml|TimelineUnavailable
+EN: Timeline available after you win or lose, while spectating, or with fog of war disabled. Recorded history is required.
+UK: Хронологія доступна після перемоги чи поразки, у режимі спостерігача або з вимкненим туманом війни. Потрібна записана історія ходів.
+
 ## GUI.xml|Tip
 EN: Tip
 UK: Порада
@@ -1019,28 +1043,4 @@ UK: —
 ## GUI.xml|Version
 EN: Version
 UK: Версія
-
-## GUI.xml|VersionRevisionsDiffer
-EN: Version revisions differ (local = %1%, server = %2%).
-UK: Версії гри відрізняються (локальна = %1%, сервер = %2%).
-
-## GUI.xml|Victorious
-EN: Victorious
-UK: Перемога
-
-## GUI.xml|ViewOnSteam
-EN: View on Steam
-UK: Переглянути у Steam
-
-## GUI.xml|Voice
-EN: Voice
-UK: Голос
-
-## GUI.xml|Weapon
-EN: Weapon
-UK: Зброя
-
-## GUI.xml|Weapons
-EN: Weapons
-UK: Зброя
 

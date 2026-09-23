@@ -1,14 +1,14 @@
 # ZEPHON Ukrainian audit: status and resume guide
 
-Last updated 23.09.2026. Game version 1.3.21. Pass 1 is paused after wave 3.
+Last updated 23.09.2026. Game version 1.3.22. Pass 1 is paused after wave 3.
 
 ## Where things stand
 
 - Pass 1 has 18 of 70 batches done: B01 to B15 and the catch-up batches R01 to R03 are scanned, triaged, applied, validated and committed.
 - 52 batches are left, B16 to B67. At 6 batches per wave that is 9 more waves (wave 4 to wave 12).
 - The next wave is wave 4: B16, B17, B18, B19, B20, B21, all Diplomacy.xml.
-- Batches B16 to B67 were last rebuilt on 16.09.2026, after the 1.3.21 sync, and are still current. Wave 3 only changed entries inside B10 to B15.
-- Every applied fix is synced to the live mod folder and to the local Workshop copy. The Steam Workshop item has not been re-published.
+- Batches B16 to B67 were rebuilt on 23.09.2026 after the 1.3.22 sync, so they are current. Only B28, B29, B30, B52 and B67 changed: the renamed notification screen, the new Timeline, and the two lobby options that lost their experimental tag.
+- Every applied fix is synced to the live mod folder and to the local Workshop copy. The Steam Workshop item was last published on 16.09.2026, with waves 1 and 2 and the 1.3.21 sync. Wave 3 and the 1.3.22 sync wait for VK to re-publish.
 - The address to the player is only partly converted. It is «ви» in the Actions.xml flavor texts, B07 to B09 and the first half of Diplomacy.xml (B10 to B15), but the rest of Diplomacy, Quests, Factions and the later flavor files still say «ти» until their waves run. Re-publishing before the audit ends ships that mix.
 
 ## Wave plan for the rest of pass 1

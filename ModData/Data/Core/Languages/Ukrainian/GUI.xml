@@ -151,6 +151,18 @@
 	<entry name="Hint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;&lt;style color='GUI/Red'/&gt;%3%%4%&lt;style name='Default'/&gt;%5%%6%%7%%8%%9%%10%&lt;style name='Italic'/&gt;%11%&lt;style name='Small'/&gt;%12%"/>
 	<entry name="HintCost" value="&lt;style name='Heading'/&gt;Вартість&lt;style name='Default'/&gt;&lt;br/&gt;%1%&lt;br/&gt;&lt;br/&gt;"/>
 	<entry name="HitpointsFull" value="Одиниці здоров’я на максимумі."/>
+	<entry name="Notifications" value="Сповіщення"/>
+	<entry name="NotificationsAll" value="Усі"/>
+	<entry name="NotificationsCities" value="Міста"/>
+	<entry name="NotificationsCombat" value="Бої"/>
+	<entry name="NotificationsDiplomacy" value="Дипломатія"/>
+	<entry name="NotificationsEmpty" value="Немає відповідних сповіщень."/>
+	<entry name="NotificationsExploration" value="Розвідка"/>
+	<entry name="NotificationsGoTo" value="Перейти до місця події."/>
+	<entry name="NotificationsHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/Notifications'/&gt; [&lt;control name='OpenNotificationsScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Переглянути попередні сповіщення."/>
+	<entry name="NotificationsResearch" value="Дослідження"/>
+	<entry name="NotificationsStory" value="Завдання"/>
+	<entry name="NotificationsTurn" value="Хід %1%"/>
 	<entry name="TechnologyHint" value="&lt;style name='Title'/&gt;%1%%2%&lt;style name='Default'/&gt;&lt;br/&gt;%4%%6%%5%%7%%8%%9%%10%&lt;style name='Small'/&gt;%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Утрим. Ctrl — максимальна шкода."/>
 	<entry name="HoldKeyToKeepVisible" value="Утрим. Shift — залишити видимим."/>
@@ -388,6 +400,13 @@
 	<entry name="Technology" value="Технологія"/>
 	<entry name="Tier" value="Ранг %1%"/>
 	<entry name="TierLocked" value="Ранг %1% (Заблоковано)"/>
+	<entry name="Timeline" value="Хронологія"/>
+	<entry name="TimelinePause" value="Пауза"/>
+	<entry name="TimelinePlay" value="Відтворити"/>
+	<entry name="TimelineSpeedHint" value="Швидкість відтворення: ходів за секунду."/>
+	<entry name="TimelineStart" value="Початок"/>
+	<entry name="TimelineTurn" value="Хід %1%"/>
+	<entry name="TimelineUnavailable" value="Хронологія доступна після перемоги чи поразки, у режимі спостерігача або з вимкненим туманом війни. Потрібна записана історія ходів."/>
 	<entry name="Tip" value="Порада"/>
 	<entry name="Tips" value="Поради"/>
 	<entry name="ToggleHotseatHint" value="&lt;style name='Small'/&gt;[&lt;string name='Controls/Control'/&gt; + &lt;string name='Controls/MouseLeft'/&gt;] — перемкнути в режим хотсіт."/>
@@ -478,18 +497,6 @@
 	<entry name="DigitalArtbook&WallpapersHint" value="Роздивитися ілюстрації до гри та переглянути шпалери."/>
 	<entry name="DisembarkBeforeFoundingCity" value="Перед заснуванням міста висадіть усі юніти."/>
 	<entry name="ExtraHint" value="Переглянути відкриті діалоги, моди, ілюстрації та багато іншого."/>
-	<entry name="NotificationLog" value="Журнал сповіщень"/>
-	<entry name="NotificationLogAll" value="Усі сповіщення"/>
-	<entry name="NotificationLogCities" value="Міста та виробництво"/>
-	<entry name="NotificationLogCombat" value="Бої"/>
-	<entry name="NotificationLogDiplomacy" value="Дипломатія"/>
-	<entry name="NotificationLogEmpty" value="Немає відповідних сповіщень."/>
-	<entry name="NotificationLogExploration" value="Розвідка"/>
-	<entry name="NotificationLogGoTo" value="Перейти до місця події."/>
-	<entry name="NotificationLogHint" value="&lt;style name='Title'/&gt;&lt;string name='GUI/NotificationLog'/&gt; [&lt;control name='OpenNotificationLogScreen'/&gt;]&lt;br/&gt;&lt;style name='Default'/&gt;Переглянути попередні сповіщення."/>
-	<entry name="NotificationLogResearch" value="Дослідження"/>
-	<entry name="NotificationLogStory" value="Завдання та сюжет"/>
-	<entry name="NotificationLogTurn" value="Хід %1%"/>
 	<entry name="JoinGameHint" value="Знайти мережеву гру та приєднатися до неї."/>
 	<entry name="LoadGameHint" value="Обрати збережену гру, щоб продовжити її."/>
 	<entry name="MenuBackHint" value="Повернутися до головного меню."/>

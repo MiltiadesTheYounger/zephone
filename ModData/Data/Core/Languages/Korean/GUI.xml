@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>비용<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="체력이 최대입니다."/>
-	<entry name="NotificationLog" value="알림 기록"/>
-	<entry name="NotificationLogAll" value="모든 알림"/>
-	<entry name="NotificationLogCities" value="도시와 생산"/>
-	<entry name="NotificationLogCombat" value="전투"/>
-	<entry name="NotificationLogDiplomacy" value="외교"/>
-	<entry name="NotificationLogEmpty" value="일치하는 알림이 없습니다."/>
-	<entry name="NotificationLogExploration" value="탐사"/>
-	<entry name="NotificationLogGoTo" value="해당 위치로 이동합니다."/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>지난 알림을 살펴봅니다."/>
-	<entry name="NotificationLogResearch" value="연구"/>
-	<entry name="NotificationLogStory" value="퀘스트와 스토리"/>
-	<entry name="NotificationLogTurn" value="%1%턴"/>
+	<entry name="Notifications" value="알림"/>
+	<entry name="NotificationsAll" value="모두"/>
+	<entry name="NotificationsCities" value="도시"/>
+	<entry name="NotificationsCombat" value="전투"/>
+	<entry name="NotificationsDiplomacy" value="외교"/>
+	<entry name="NotificationsEmpty" value="일치하는 알림이 없습니다."/>
+	<entry name="NotificationsExploration" value="탐사"/>
+	<entry name="NotificationsGoTo" value="해당 위치로 이동합니다."/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>지난 알림을 살펴봅니다."/>
+	<entry name="NotificationsResearch" value="연구"/>
+	<entry name="NotificationsStory" value="퀘스트"/>
+	<entry name="NotificationsTurn" value="%1%턴"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Ctrl 키를 길게 누르면 최대 피해를 줍니다."/>
 	<entry name="HoldKeyToKeepVisible" value="Shift 키를 길게 누르면 계속 표시합니다."/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="기술"/>
 	<entry name="Tier" value="%1%단계"/>
 	<entry name="TierLocked" value="%1%단계(잠김)"/>
+	<entry name="Timeline" value="타임라인"/>
+	<entry name="TimelinePause" value="일시정지"/>
+	<entry name="TimelinePlay" value="재생"/>
+	<entry name="TimelineSpeedHint" value="재생 속도: 초당 턴."/>
+	<entry name="TimelineStart" value="시작"/>
+	<entry name="TimelineTurn" value="%1%턴"/>
+	<entry name="TimelineUnavailable" value="타임라인은 승리 또는 패배 후, 관전 중이거나 전장의 안개가 꺼져 있을 때 사용할 수 있습니다. 기록된 이력이 필요합니다."/>
 	<entry name="Tip" value="팁"/>
 	<entry name="Tips" value="팁"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>]을 클릭하여 핫시트를 켜거나 끕니다."/>

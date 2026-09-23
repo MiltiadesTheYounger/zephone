@@ -73,6 +73,7 @@
 <entry name="Controls/OK" value="OK"/>
 <entry name="Controls/OpenCommunicationsScreen" value="Відкрити екран переговорів"/>
 <entry name="Controls/OpenCompendiumScreen" value="Відкрити довідник"/>
+<entry name="Controls/OpenNotificationsScreen" value="Відкрити сповіщення"/>
 <entry name="Controls/OpenShopScreen" value="Відкрити магазин"/>
 <entry name="Controls/OpenResearchScreen" value="Відкрити дослідження"/>
 <entry name="Controls/OrderAllIdleUnits" value="Наказ усім бездіяльним юнітам"/>
@@ -288,5 +289,4 @@
 <entry name="Video/SSAOQualityHint" value="Визначає роздільну здатність, з якою прораховується екранне затінення (SSAO). Вища якість дає детальніше затінення, але може суттєво знизити продуктивність на високих роздільних здатностях, особливо 4K та 8K."/>
 <entry name="Video/AntiAliasing" value="Згладжування"/>
 <entry name="Video/AntiAliasingHint" value="Зменшує зубчастість країв за допомогою FXAA або якіснішого SMAA. Якісніше згладжування може знизити продуктивність."/>
-<entry name="Controls/OpenNotificationLogScreen" value="Відкрити журнал сповіщень"/>
 </language>

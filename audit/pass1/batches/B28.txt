@@ -1,4 +1,4 @@
-# B28: 239 entries from Features.xml, GUI.xml
+# B28: 240 entries from Features.xml, GUI.xml
 
 ## Features.xml|CyberCacheFlavor
 EN: Machines don't need to squirrel away supplies, and they sure as hell don't leave anything behind when they abandon a base. So what were these doing out in the wastes? Was someone… or something experimenting on us? Dispensing supplies to see how it changed the face of the war? All these years and I still don't know who's behind them.
@@ -836,53 +836,53 @@ UK: <style name='Heading'/>Вартість<style name='Default'/><br/>
 EN: Hitpoints full.
 UK: Одиниці здоров’я на максимумі.
 
-## GUI.xml|NotificationLog
-EN: Notification Log
-UK: Журнал сповіщень
+## GUI.xml|Notifications
+EN: Notifications
+UK: Сповіщення
 
-## GUI.xml|NotificationLogAll
-EN: All Notifications
-UK: Усі сповіщення
+## GUI.xml|NotificationsAll
+EN: All
+UK: Усі
 
-## GUI.xml|NotificationLogCities
-EN: Cities and Production
-UK: Міста та виробництво
+## GUI.xml|NotificationsCities
+EN: Cities
+UK: Міста
 
-## GUI.xml|NotificationLogCombat
+## GUI.xml|NotificationsCombat
 EN: Combat
 UK: Бої
 
-## GUI.xml|NotificationLogDiplomacy
+## GUI.xml|NotificationsDiplomacy
 EN: Diplomacy
 UK: Дипломатія
 
-## GUI.xml|NotificationLogEmpty
+## GUI.xml|NotificationsEmpty
 EN: No matching notifications.
 UK: Немає відповідних сповіщень.
 
-## GUI.xml|NotificationLogExploration
+## GUI.xml|NotificationsExploration
 EN: Exploration
 UK: Розвідка
 
-## GUI.xml|NotificationLogGoTo
+## GUI.xml|NotificationsGoTo
 EN: Go to location.
 UK: Перейти до місця події.
 
-## GUI.xml|NotificationLogHint
-EN: <style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/>
+## GUI.xml|NotificationsHint
+EN: <style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/>
     <style name='Default'/>Browse past notifications.
-UK: <style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/>
+UK: <style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/>
     <style name='Default'/>Переглянути попередні сповіщення.
 
-## GUI.xml|NotificationLogResearch
+## GUI.xml|NotificationsResearch
 EN: Research
 UK: Дослідження
 
-## GUI.xml|NotificationLogStory
-EN: Quests and Story
-UK: Завдання та сюжет
+## GUI.xml|NotificationsStory
+EN: Quests
+UK: Завдання
 
-## GUI.xml|NotificationLogTurn
+## GUI.xml|NotificationsTurn
 EN: Turn %1%
 UK: Хід %1%
 
@@ -1005,4 +1005,8 @@ UK: <icon texture='GUI/Bullet'/>%1%/%2% рівень<br/>
 ## GUI.xml|Levelable
 EN: <style color='GUI/LevelableAction'/>Levelable<style color='Default'/>
 UK: <style color='GUI/LevelableAction'/>Можна покращити з рівнем<style color='Default'/>
+
+## GUI.xml|LevelableElite
+EN: <style color='GUI/LevelableAction'/>Levelable—Elite<style color='Default'/>
+UK: <style color='GUI/LevelableAction'/>Можна покращити з рівнем — Еліта<style color='Default'/>
 

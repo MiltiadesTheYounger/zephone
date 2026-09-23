@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>Cost<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="Hitpoints full."/>
-	<entry name="NotificationLog" value="Notification Log"/>
-	<entry name="NotificationLogAll" value="All Notifications"/>
-	<entry name="NotificationLogCities" value="Cities and Production"/>
-	<entry name="NotificationLogCombat" value="Combat"/>
-	<entry name="NotificationLogDiplomacy" value="Diplomacy"/>
-	<entry name="NotificationLogEmpty" value="No matching notifications."/>
-	<entry name="NotificationLogExploration" value="Exploration"/>
-	<entry name="NotificationLogGoTo" value="Go to location."/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>Browse past notifications."/>
-	<entry name="NotificationLogResearch" value="Research"/>
-	<entry name="NotificationLogStory" value="Quests and Story"/>
-	<entry name="NotificationLogTurn" value="Turn %1%"/>
+	<entry name="Notifications" value="Notifications"/>
+	<entry name="NotificationsAll" value="All"/>
+	<entry name="NotificationsCities" value="Cities"/>
+	<entry name="NotificationsCombat" value="Combat"/>
+	<entry name="NotificationsDiplomacy" value="Diplomacy"/>
+	<entry name="NotificationsEmpty" value="No matching notifications."/>
+	<entry name="NotificationsExploration" value="Exploration"/>
+	<entry name="NotificationsGoTo" value="Go to location."/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>Browse past notifications."/>
+	<entry name="NotificationsResearch" value="Research"/>
+	<entry name="NotificationsStory" value="Quests"/>
+	<entry name="NotificationsTurn" value="Turn %1%"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Hold Ctrl for max damage."/>
 	<entry name="HoldKeyToKeepVisible" value="Hold Shift to keep visible."/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="Technology"/>
 	<entry name="Tier" value="Tier %1%"/>
 	<entry name="TierLocked" value="Tier %1% (Locked)"/>
+	<entry name="Timeline" value="Timeline"/>
+	<entry name="TimelinePause" value="Pause"/>
+	<entry name="TimelinePlay" value="Play"/>
+	<entry name="TimelineSpeedHint" value="Playback speed: turns per second."/>
+	<entry name="TimelineStart" value="Start"/>
+	<entry name="TimelineTurn" value="Turn %1%"/>
+	<entry name="TimelineUnavailable" value="Timeline available after you win or lose, while spectating, or with fog of war disabled. Recorded history is required."/>
 	<entry name="Tip" value="Tip"/>
 	<entry name="Tips" value="Tips"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>] to toggle hotseat."/>

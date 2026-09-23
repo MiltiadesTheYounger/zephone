@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>Koszt<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="Pełny poziom punktów zdrowia."/>
-	<entry name="NotificationLog" value="Dziennik powiadomień"/>
-	<entry name="NotificationLogAll" value="Wszystkie powiadomienia"/>
-	<entry name="NotificationLogCities" value="Miasta i<nbsp/>produkcja"/>
-	<entry name="NotificationLogCombat" value="Walka"/>
-	<entry name="NotificationLogDiplomacy" value="Dyplomacja"/>
-	<entry name="NotificationLogEmpty" value="Brak pasujących powiadomień."/>
-	<entry name="NotificationLogExploration" value="Eksploracja"/>
-	<entry name="NotificationLogGoTo" value="Przejdź do lokalizacji."/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>Przeglądaj wcześniejsze powiadomienia."/>
-	<entry name="NotificationLogResearch" value="Badania"/>
-	<entry name="NotificationLogStory" value="Zadania i<nbsp/>fabuła"/>
-	<entry name="NotificationLogTurn" value="Tura %1%"/>
+	<entry name="Notifications" value="Powiadomienia"/>
+	<entry name="NotificationsAll" value="Wszystkie"/>
+	<entry name="NotificationsCities" value="Miasta"/>
+	<entry name="NotificationsCombat" value="Walka"/>
+	<entry name="NotificationsDiplomacy" value="Dyplomacja"/>
+	<entry name="NotificationsEmpty" value="Brak pasujących powiadomień."/>
+	<entry name="NotificationsExploration" value="Eksploracja"/>
+	<entry name="NotificationsGoTo" value="Przejdź do lokalizacji."/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>Przeglądaj wcześniejsze powiadomienia."/>
+	<entry name="NotificationsResearch" value="Badania"/>
+	<entry name="NotificationsStory" value="Zadania"/>
+	<entry name="NotificationsTurn" value="Tura %1%"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Przytrzymaj Ctrl, aby zadawać maksymalne obrażenia."/>
 	<entry name="HoldKeyToKeepVisible" value="Przytrzymaj Shift, aby utrzymać widoczność."/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="Technologia"/>
 	<entry name="Tier" value="Poziom %1%."/>
 	<entry name="TierLocked" value="Poziom %1%. (zablokowany)"/>
+	<entry name="Timeline" value="Oś czasu"/>
+	<entry name="TimelinePause" value="Pauza"/>
+	<entry name="TimelinePlay" value="Odtwórz"/>
+	<entry name="TimelineSpeedHint" value="Szybkość odtwarzania: tury na<nbsp/>sekundę."/>
+	<entry name="TimelineStart" value="Rozpocznij"/>
+	<entry name="TimelineTurn" value="Tura %1%"/>
+	<entry name="TimelineUnavailable" value="Oś czasu jest dostępna po zwycięstwie lub porażce, podczas oglądania albo gdy mgła wojny jest wyłączona. Wymagana jest zapisana historia."/>
 	<entry name="Tip" value="Podpowiedź"/>
 	<entry name="Tips" value="Podpowiedzi"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>], aby wł./wył. tryb wieloosobowy na pojedynczym komputerze."/>

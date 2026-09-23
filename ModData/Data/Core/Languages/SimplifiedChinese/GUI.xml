@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>费用<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="生命值全满。"/>
-	<entry name="NotificationLog" value="提醒日志"/>
-	<entry name="NotificationLogAll" value="全部提醒"/>
-	<entry name="NotificationLogCities" value="城市与生产"/>
-	<entry name="NotificationLogCombat" value="战斗"/>
-	<entry name="NotificationLogDiplomacy" value="外交"/>
-	<entry name="NotificationLogEmpty" value="无匹配提醒。"/>
-	<entry name="NotificationLogExploration" value="探索"/>
-	<entry name="NotificationLogGoTo" value="前往位置。"/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>浏览过往提醒。"/>
-	<entry name="NotificationLogResearch" value="科研"/>
-	<entry name="NotificationLogStory" value="任务与剧情"/>
-	<entry name="NotificationLogTurn" value="第%1%回合"/>
+	<entry name="Notifications" value="提醒"/>
+	<entry name="NotificationsAll" value="全部"/>
+	<entry name="NotificationsCities" value="城市"/>
+	<entry name="NotificationsCombat" value="战斗"/>
+	<entry name="NotificationsDiplomacy" value="外交"/>
+	<entry name="NotificationsEmpty" value="无匹配提醒。"/>
+	<entry name="NotificationsExploration" value="探索"/>
+	<entry name="NotificationsGoTo" value="前往位置。"/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>浏览过往提醒。"/>
+	<entry name="NotificationsResearch" value="科研"/>
+	<entry name="NotificationsStory" value="任务"/>
+	<entry name="NotificationsTurn" value="第%1%回合"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="长按CTRL造成最大伤害。"/>
 	<entry name="HoldKeyToKeepVisible" value="长按Shift固定面板。"/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="科技"/>
 	<entry name="Tier" value="阶段%1%"/>
 	<entry name="TierLocked" value="阶段%1%（锁定）"/>
+	<entry name="Timeline" value="时间线"/>
+	<entry name="TimelinePause" value="暂停"/>
+	<entry name="TimelinePlay" value="播放"/>
+	<entry name="TimelineSpeedHint" value="播放速度：每秒回合数。"/>
+	<entry name="TimelineStart" value="开始"/>
+	<entry name="TimelineTurn" value="第%1%回合"/>
+	<entry name="TimelineUnavailable" value="时间线可在获胜或失败后、观战中或关闭战争迷雾时使用。需要已记录的历史。"/>
 	<entry name="Tip" value="提示"/>
 	<entry name="Tips" value="提示"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>]切换热座模式。"/>

@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>Kosten<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="Trefferpunkte voll."/>
-	<entry name="NotificationLog" value="Benachrichtigungsprotokoll"/>
-	<entry name="NotificationLogAll" value="Alle Benachrichtigungen"/>
-	<entry name="NotificationLogCities" value="Städte und Produktion"/>
-	<entry name="NotificationLogCombat" value="Kampf"/>
-	<entry name="NotificationLogDiplomacy" value="Diplomatie"/>
-	<entry name="NotificationLogEmpty" value="Keine passenden Benachrichtigungen."/>
-	<entry name="NotificationLogExploration" value="Erkundung"/>
-	<entry name="NotificationLogGoTo" value="Zum Ort gehen."/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>Durchsuche vergangene Benachrichtigungen."/>
-	<entry name="NotificationLogResearch" value="Forschung"/>
-	<entry name="NotificationLogStory" value="Quests und Geschichte"/>
-	<entry name="NotificationLogTurn" value="Zug %1%"/>
+	<entry name="Notifications" value="Benachrichtigungen"/>
+	<entry name="NotificationsAll" value="Alles"/>
+	<entry name="NotificationsCities" value="Städte"/>
+	<entry name="NotificationsCombat" value="Kampf"/>
+	<entry name="NotificationsDiplomacy" value="Diplomatie"/>
+	<entry name="NotificationsEmpty" value="Keine passenden Benachrichtigungen."/>
+	<entry name="NotificationsExploration" value="Erkundung"/>
+	<entry name="NotificationsGoTo" value="Zum Ort gehen."/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>Durchsuche vergangene Benachrichtigungen."/>
+	<entry name="NotificationsResearch" value="Forschung"/>
+	<entry name="NotificationsStory" value="Quests"/>
+	<entry name="NotificationsTurn" value="Zug %1%"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Strg halten (max. Schaden)."/>
 	<entry name="HoldKeyToKeepVisible" value="Umschalt halten (sichtbar bleiben)."/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="Technologie"/>
 	<entry name="Tier" value="Stufe %1%"/>
 	<entry name="TierLocked" value="Stufe %1% (Gesperrt)"/>
+	<entry name="Timeline" value="Zeitlinie"/>
+	<entry name="TimelinePause" value="Pause"/>
+	<entry name="TimelinePlay" value="Abspielen"/>
+	<entry name="TimelineSpeedHint" value="Wiedergabegeschwindigkeit: Züge pro Sekunde."/>
+	<entry name="TimelineStart" value="Start"/>
+	<entry name="TimelineTurn" value="Zug %1%"/>
+	<entry name="TimelineUnavailable" value="Die Zeitlinie ist nach einem Sieg oder einer Niederlage, im Zuschauermodus oder bei deaktiviertem Nebel des Krieges verfügbar. Aufgezeichneter Verlauf ist erforderlich."/>
 	<entry name="Tip" value="Tipp"/>
 	<entry name="Tips" value="Tipps"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>], um den Hotseat umzuschalten."/>

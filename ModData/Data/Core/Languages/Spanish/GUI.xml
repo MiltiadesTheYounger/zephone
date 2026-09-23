@@ -169,18 +169,18 @@
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
 	<entry name="HintCost" value="<style name='Heading'/>Coste<style name='Default'/><br/>%1%<br/><br/>"/>
 	<entry name="HitpointsFull" value="Puntos de golpe completos."/>
-	<entry name="NotificationLog" value="Registro de notificaciones"/>
-	<entry name="NotificationLogAll" value="Todas las notificaciones"/>
-	<entry name="NotificationLogCities" value="Ciudades y producción"/>
-	<entry name="NotificationLogCombat" value="Combate"/>
-	<entry name="NotificationLogDiplomacy" value="Diplomacia"/>
-	<entry name="NotificationLogEmpty" value="No hay notificaciones coincidentes."/>
-	<entry name="NotificationLogExploration" value="Exploración"/>
-	<entry name="NotificationLogGoTo" value="Ir a la ubicación."/>
-	<entry name="NotificationLogHint" value="<style name='Title'/><string name='GUI/NotificationLog'/> [<control name='OpenNotificationLogScreen'/>]<br/><style name='Default'/>Consulta las notificaciones anteriores."/>
-	<entry name="NotificationLogResearch" value="Investigación"/>
-	<entry name="NotificationLogStory" value="Misiones e historia"/>
-	<entry name="NotificationLogTurn" value="Turno %1%"/>
+	<entry name="Notifications" value="Notificaciones"/>
+	<entry name="NotificationsAll" value="Todos"/>
+	<entry name="NotificationsCities" value="Ciudades"/>
+	<entry name="NotificationsCombat" value="Combate"/>
+	<entry name="NotificationsDiplomacy" value="Diplomacia"/>
+	<entry name="NotificationsEmpty" value="No hay notificaciones coincidentes."/>
+	<entry name="NotificationsExploration" value="Exploración"/>
+	<entry name="NotificationsGoTo" value="Ir a la ubicación."/>
+	<entry name="NotificationsHint" value="<style name='Title'/><string name='GUI/Notifications'/> [<control name='OpenNotificationsScreen'/>]<br/><style name='Default'/>Consulta las notificaciones anteriores."/>
+	<entry name="NotificationsResearch" value="Investigación"/>
+	<entry name="NotificationsStory" value="Misiones"/>
+	<entry name="NotificationsTurn" value="Turno %1%"/>
 	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
 	<entry name="HoldKeyForMeleeAttack" value="Mantén Ctrl para infligir el daño máximo."/>
 	<entry name="HoldKeyToKeepVisible" value="Mantén Mayús para mantenerte visible."/>
@@ -443,6 +443,13 @@
 	<entry name="Technology" value="Tecnología"/>
 	<entry name="Tier" value="Grado %1%"/>
 	<entry name="TierLocked" value="Grado %1% (bloqueado)"/>
+	<entry name="Timeline" value="Línea de tiempo"/>
+	<entry name="TimelinePause" value="Pausa"/>
+	<entry name="TimelinePlay" value="Reproducir"/>
+	<entry name="TimelineSpeedHint" value="Velocidad de reproducción: turnos por segundo."/>
+	<entry name="TimelineStart" value="Comenzar"/>
+	<entry name="TimelineTurn" value="Turno %1%"/>
+	<entry name="TimelineUnavailable" value="La línea de tiempo está disponible tras ganar o perder, al observar o con la niebla de la guerra desactivada. Se requiere un historial registrado."/>
 	<entry name="Tip" value="Consejo"/>
 	<entry name="Tips" value="Consejos"/>
 	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>] para alternar el punto de mira."/>
