@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="CityFounded" value="Город основан"/>
+	<entry name="CityFounded" value="Основание города"/>
 	<entry name="CityFoundedSummary" value="Основан город: %1%."/>
 	<entry name="CityGrown" value="Рост города"/>
 	<entry name="CityGrownSummary" value="%1% достигает населения %2%."/>
-	<entry name="Diplomacy1" value="Объявлена война"/>
+	<entry name="Diplomacy1" value="Объявление войны"/>
 	<entry name="Diplomacy1Summary" value="%1% объявляет войну: %2%."/>
 	<entry name="Diplomacy2" value="Мирный договор"/>
 	<entry name="Diplomacy2Summary" value="%1% заключает мир с: %2%."/>
@@ -16,7 +16,7 @@
 	<entry name="FactionDefeated" value="Фракция побеждена"/>
 	<entry name="FactionDiscovered" value="Фракция обнаружена"/>
 	<entry name="FactionDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="FeatureTypeDiscovered" value="Особенность обнаружена"/>
+	<entry name="FeatureTypeDiscovered" value="Обнаружена особенность"/>
 	<entry name="FeatureTypeDiscoveredSummary" value="Обнаружено: %1%."/>
 	<entry name="Foundations" value="Шаткие основы"/>
 	<entry name="FoundationsWithMutator" value="Иные основы"/>
@@ -40,15 +40,15 @@
 	<entry name="PlayerUsedActionOnSummary" value="&lt;string name='Notifications/UnitUsedActionOnSummary'/&gt;"/>
 	<entry name="PlayerWon" value="Победа!"/>
 	<entry name="PlayerWonSummary" value="%1% побеждает!"/>
-	<entry name="ProductionCompleted" value="Производство завершено"/>
+	<entry name="ProductionCompleted" value="Завершено производство"/>
 	<entry name="ProductionCompletedSummary" value="%1% производит: %2%."/>
-	<entry name="QuestAdded" value="Задание получено"/>
+	<entry name="QuestAdded" value="Добавлено задание"/>
 	<entry name="QuestAddedSummary" value="Получено задание: %1%."/>
-	<entry name="QuestCompleted" value="Задание выполнено"/>
-	<entry name="QuestCompletedSummary" value="Задание выполнено: %1%."/>
-	<entry name="QuestUpdated" value="Задание обновлено"/>
-	<entry name="QuestUpdatedSummary" value="Задание обновлено: %1%."/>
-	<entry name="RegionDiscovered" value="Регион обнаружен"/>
+	<entry name="QuestCompleted" value="Выполнено задание"/>
+	<entry name="QuestCompletedSummary" value="Выполнено задание: %1%."/>
+	<entry name="QuestUpdated" value="Обновлено задание"/>
+	<entry name="QuestUpdatedSummary" value="Обновлено задание: %1%."/>
+	<entry name="RegionDiscovered" value="Обнаружен регион"/>
 	<entry name="RegionDiscoveredSummary" value="Обнаружено: %1%."/>
 	<entry name="ResearchCompleted" value="Исследование завершено"/>
 	<entry name="ResearchCompletedSummary" value="Исследовано: %1%."/>
@@ -64,14 +64,14 @@
 	<entry name="UnitAttackedSummary" value="%1% атакует: %2%."/>
 	<entry name="UnitCaptured" value="Юнит захвачен"/>
 	<entry name="UnitCapturedSummary" value="%1% захватывает: %2%."/>
-	<entry name="UnitDamaged" value="Юнит повреждён"/>
+	<entry name="UnitDamaged" value="Юнит получил урон"/>
 	<entry name="UnitDamagedSummary" value="%1% наносит урон: %2%."/>
 	<entry name="UnitGainedTraitSummary" value="%1% получает: %2%."/>
-	<entry name="UnitKilled" value="Юнит убит"/>
+	<entry name="UnitKilled" value="Юнит уничтожен"/>
 	<entry name="UnitKilledSummary" value="%1% убивает: %2%."/>
-	<entry name="UnitTransformed" value="Юнит превращён"/>
+	<entry name="UnitTransformed" value="Юнит преобразован"/>
 	<entry name="UnitTransformedSummary" value="%1% превращается в: %2%."/>
-	<entry name="UnitTypeDiscovered" value="Тип юнита обнаружен"/>
+	<entry name="UnitTypeDiscovered" value="Обнаружен тип юнитов"/>
 	<entry name="UnitTypeDiscoveredSummary" value="Обнаружено: %1%."/>
 	<entry name="UnitUsedActionOn" value="Использована способность"/>
 	<entry name="UnitUsedActionOnSummary" value="%1% использует: %2%, цель: %3%."/>

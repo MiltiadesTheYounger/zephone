@@ -214,7 +214,7 @@
 	<entry name="Video/AnisotropicFiltering" value="Анизотропная фильтрация"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
 	<entry name="Video/AntiAliasing" value="Сглаживание"/>
-	<entry name="Video/AntiAliasingHint" value="Сглаживает края изображений с помощью FXAA или более качественного SMAA. Более качественное сглаживание может снизить производительность."/>
+	<entry name="Video/AntiAliasingHint" value="Снижает зубчатость краёв с помощью FXAA или более качественного SMAA. Более высокое качество сглаживания может снизить производительность."/>
 	<entry name="Video/Brightness" value="Яркость"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Тени от облаков"/>
