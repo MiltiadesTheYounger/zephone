@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="Adquirir casilla"/>
-	<entry name="AcquireTileDescription" value="Para erigir más construcciones tienes que capturar nuevas casillas. Haz clic en «<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Adquirir casilla» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla que tenga al menos 1<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>ranura de edificio."/>
+	<entry name="AcquireTileDescription" value="Para erigir más construcciones tienes que capturar nuevas casillas. Haz clic en «<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Adquirir casilla» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla que tenga al menos 1<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>ranura de edificio. Este proceso tardará unos <string name='Attributes/TurnsIcon'/> turnos."/>
 	<entry name="Affinities" value="Afinidades"/>
 	<entry name="AffinitiesDescription" value="Debido a tu afinidad %1%, obtienes acceso más temprano y económico a las tecnologías %1%, incluido el acceso exclusivo al nivel más alto de investigación %1%. Sin embargo, puedes descubrir sinergias únicas investigando fuera de tu afinidad. Alterna entre ramas para ver sus tecnologías."/>
 	<entry name="AllianceVictory" value="Alianza victoriosa"/>
@@ -28,7 +28,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Communications" value="Comunicaciones"/>
 	<entry name="CommunicationsDescription" value="La pantalla de <icon height='20' texture='Icons/Communications'/><nbsp/>Comunicaciones te permite gestionar la diplomacia con otros jugadores: llámales o bloquéales, declara la guerra, forja o rompe pactos, modifica las relaciones mediante regalos, elogios o denuncias, e incluso influye en sus vínculos con otras facciones."/>
 	<entry name="ConstructInfantryBuilding" value="Construir barracones"/>
-	<entry name="ConstructInfantryBuildingDescription" value="Erige construcciones de producción de unidades para reforzar tu exigua presencia. Haz clic en «<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracones» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla válida para empezar a construir en ella."/>
+	<entry name="ConstructInfantryBuildingDescription" value="Erige construcciones de producción de unidades para reforzar tu exigua presencia. Haz clic en «<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracones» y <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecciona una casilla válida para empezar a construir en ella. Tardará varios <string name='Attributes/TurnsIcon'/> turnos."/>
 	<entry name="Cover" value="Cobertura"/>
 	<entry name="CoverDescription" value="Los <icon height='20' texture='Icons/Features/Forest'/><nbsp/>bosques, las <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruinas, los <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>puestos fronterizos y las <icon height='20' texture='Icons/Features/City'/><nbsp/>ciudades proporcionan una reducción del daño a distancia para las unidades que no sean grandes. Ponlas a cubierto siempre que puedas."/>
 	<entry name="DamageCap" value="Límite de daño"/>

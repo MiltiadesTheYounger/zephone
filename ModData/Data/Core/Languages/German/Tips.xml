@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="Feld erwerben"/>
-	<entry name="AcquireTileDescription" value="Bevor du weitere Gebäude errichten kannst, musst du neue Felder erwerben. Klicke auf „<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Feld erwerben“ und wähle unter <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>ein Feld mit 1 oder mehr <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>Gebäudeplätzen aus."/>
+	<entry name="AcquireTileDescription" value="Bevor du weitere Gebäude errichten kannst, musst du neue Felder erwerben. Klicke auf „<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Feld erwerben“ und wähle unter <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>ein Feld mit 1 oder mehr <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>Gebäudeplätzen aus. Dieser Vorgang dauert einige <string name='Attributes/TurnsIcon'/> Züge."/>
 	<entry name="Affinities" value="Affinitäten"/>
 	<entry name="AffinitiesDescription" value="Dank Ihrer %1%-Affinität erhalten Sie früheren und günstigeren Zugriff auf %1%-Technologien, einschließlich exklusivem Zugriff auf die höchste Stufe der %1%-Forschung. Sie können jedoch einzigartige Synergien entdecken, indem Sie außerhalb Ihrer Affinität forschen. Wechseln Sie zwischen den Zweigen, um sich deren Technologien anzuzeigen."/>
 	<entry name="AllianceVictory" value="Bündnissieg"/>
@@ -28,7 +28,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Communications" value="Kommunikation"/>
 	<entry name="CommunicationsDescription" value="Der <icon height='20' texture='Icons/Communications'/><nbsp/>Kommunikationsbildschirm ermöglicht es dir, die Diplomatie mit anderen Spielern zu verwalten: Rufe sie an oder blockiere sie, erkläre den Krieg, schließe oder beende Pakte, beeinflusse Beziehungen durch Geschenke, Lob oder Denunziationen und beeinflusse sogar ihre Verbindungen zu anderen Fraktionen."/>
 	<entry name="ConstructInfantryBuilding" value="Kaserne bauen"/>
-	<entry name="ConstructInfantryBuildingDescription" value="Baue Gebäude für die Einheitenproduktion, um deine kämpferische Präsenz zu verstärken. Klicke auf „<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Kaserne“ und <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wähle ein gültiges Feld aus, um dort mit dem Bau zu beginnen."/>
+	<entry name="ConstructInfantryBuildingDescription" value="Baue Gebäude für die Einheitenproduktion, um deine kämpferische Präsenz zu verstärken. Klicke auf „<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Kaserne“ und <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wähle ein gültiges Feld aus, um dort mit dem Bau zu beginnen. Das dauert mehrere <string name='Attributes/TurnsIcon'/> Züge."/>
 	<entry name="Cover" value="Deckung"/>
 	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>Wälder, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>Ruinen, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>Außenposten und <icon height='20' texture='Icons/Features/City'/><nbsp/>Städte gewähren Fernkampfschadenreduzierung für Einheiten (nicht groß). Gehe in Deckung, wenn du kannst."/>
 	<entry name="DamageCap" value="Schadensobergrenze"/>

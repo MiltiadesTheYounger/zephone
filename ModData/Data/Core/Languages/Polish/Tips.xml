@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="Zdobądź pole"/>
-	<entry name="AcquireTileDescription" value="Zanim postawisz więcej budowli, musisz zająć nowe pola. Kliknij „<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Zdobądź pole” i<nbsp/><icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wybierz pole z<nbsp/>co najmniej 1 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>miejscem na budowlę."/>
+	<entry name="AcquireTileDescription" value="Zanim postawisz więcej budowli, musisz zająć nowe pola. Kliknij „<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Zdobądź pole” i<nbsp/><icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wybierz pole z<nbsp/>co najmniej 1 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>miejscem na budowlę. Ten proces potrwa kilka <string name='Attributes/TurnsIcon'/> tur."/>
 	<entry name="Affinities" value="Powinowactwa"/>
 	<entry name="AffinitiesDescription" value="Dzięki twojemu powinowactwu %1% zyskujesz wcześniejszy i tańszy dostęp do technologii %1%, w tym ekskluzywny dostęp do najwyższego poziomu badań %1%. Możesz jednak odkryć unikalne synergie, badając poza swoim powinowactwem. Przełączaj się między gałęziami, aby zobaczyć ich technologie."/>
 	<entry name="AllianceVictory" value="Zwycięstwo sojuszu"/>
@@ -28,7 +28,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Communications" value="Komunikacja"/>
 	<entry name="CommunicationsDescription" value="Ekran <icon height='20' texture='Icons/Communications'/><nbsp/>Komunikacji pozwala zarządzać dyplomacją z innymi graczami: dzwoń do nich lub blokuj, wypowiadaj wojnę, zawieraj lub zrywaj pakty, wpływaj na relacje poprzez prezenty, pochwały lub oskarżenia, a nawet wpływaj na ich powiązania z innymi frakcjami."/>
 	<entry name="ConstructInfantryBuilding" value="Wybuduj koszary"/>
-	<entry name="ConstructInfantryBuildingDescription" value="Stawiaj budowle produkujące jednostki, żeby wzmocnić swoją obecność. Kliknij „<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Koszary” i<nbsp/><icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wybierz odpowiednie pole, aby rozpocząć na nim budowę."/>
+	<entry name="ConstructInfantryBuildingDescription" value="Stawiaj budowle produkujące jednostki, żeby wzmocnić swoją obecność. Kliknij „<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Koszary” i<nbsp/><icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>wybierz odpowiednie pole, aby rozpocząć na nim budowę. Potrwa to kilka <string name='Attributes/TurnsIcon'/> tur."/>
 	<entry name="Cover" value="Osłona"/>
 	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>Lasy, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruiny, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>placówki i<nbsp/><icon height='20' texture='Icons/Features/City'/><nbsp/>miasta zapewniają redukcję obrażeń dystansowych w<nbsp/>przypadku niedużych jednostek. Osłaniaj się nimi, jeśli masz taką możliwość."/>
 	<entry name="DamageCap" value="Limit obrażeń"/>

@@ -790,7 +790,7 @@
 	<entry name="UzhodaisZealFlavor" value="<string name='Actions/UzhodaisZealFlavor'/>"/>
 	<entry name="Valhalla" value="<string name='Actions/Valhalla'/>"/>
 	<entry name="ValhallaFlavor" value="<string name='Actions/ValhallaFlavor'/>"/>
-	<entry name="ValhallaProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+10<style color='Default'/> % de <string name='Attributes/DamageIcon'/> daño cada vez que muere una unidad en el área"/>
+	<entry name="ValhallaProperties" value="<icon texture='GUI/Bullet'/><style color='GUI/Green'/>+10<style color='Default'/> % de <string name='Attributes/DamageIcon'/> daño cada vez que muere una unidad en el área<br/><icon texture='GUI/Bullet'/><style color='GUI/Green'/>+10<style color='Default'/> % de <string name='Attributes/HitpointsIcon'/><nbsp/>puntos de golpe máximos cada vez que muere una unidad en el área"/>
 	<entry name="VanguardShield" value="Escudo de vanguardia"/>
 	<entry name="ViewFromAboveUpgrade" value="<string name='Upgrades/ViewFromAboveUpgrade'/>"/>
 	<entry name="ViewFromAboveUpgrade2" value="<string name='Upgrades/ViewFromAboveUpgrade2'/>"/>

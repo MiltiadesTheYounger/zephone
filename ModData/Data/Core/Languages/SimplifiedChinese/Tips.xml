@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="获取地块"/>
-	<entry name="AcquireTileDescription" value="你需要占领新的地块才能够建造更多建筑。点击“<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>获取地块“，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择至少拥有1个<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>建筑槽位的地块。"/>
+	<entry name="AcquireTileDescription" value="你需要占领新的地块才能够建造更多建筑。点击“<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>获取地块“，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择至少拥有1个<icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>建筑槽位的地块。此过程需要数<string name='Attributes/TurnsIcon'/>回合。"/>
 	<entry name="Affinities" value="亲和力"/>
 	<entry name="AffinitiesDescription" value="由于您的%1%亲和力，您可以更早、更便宜地获得%1%技术，包括独占访问最高级别的%1%研究。但是，您可以通过在亲和力之外进行研究来发现独特的协同效应。在分支之间切换以查看它们的技术。"/>
 <entry name="AllianceVictory" value="联盟胜利"/>
@@ -22,11 +22,13 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Camera" value="镜头控制"/>
 	<entry name="CameraDescription" value="欢迎来到后末日时代的地球。如果要移动镜头，<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>点击任意地形并拖动鼠标。"/>
 <entry name="CloseQuartersFire" value="近距离交火"/>
-	<entry name="CloseQuartersFireDescription" value="义勇军使用的武器拥有<icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>近距离交火特性，能够对1格范围内的敌人造成双倍打击。尽可能在发起攻击前找到最有利的位置。"/>
+	<entry name="CloseQuartersFireDescription" value="<icon height='20' texture='Icons/Units/Militant'/><nbsp/>义勇军使用的武器拥有<icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>近距离交火特性，在1格范围内攻击频率翻倍。在<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>发起攻击前，请先考虑好站位。"/>
 	<entry name="Caches" value="储藏物资"/>
 	<entry name="CachesDescription" value="地图上散落着<icon height='20' texture='Icons/HumanBranch'/><nbsp/>人类、<icon height='20' texture='Icons/VoiceBranch'/><nbsp/>声音和<icon height='20' texture='Icons/CyberBranch'/><nbsp/>赛博补给品。将单位移动到储藏物资上以收集其内容。"/>
+	<entry name="Communications" value="通讯"/>
+	<entry name="CommunicationsDescription" value="在<icon height='20' texture='Icons/Communications'/><nbsp/>通讯界面中，你可以管理与其他玩家的外交：呼叫或屏蔽他们、宣战、签订或终止协定、通过礼物、表扬或谴责改变外交态度，甚至还能影响他们与其他派系的关系。"/>
 	<entry name="ConstructInfantryBuilding" value="建造营房"/>
-	<entry name="ConstructInfantryBuildingDescription" value="建造单位生产类建筑以巩固你的军事力量。点击“<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>营房”，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择一个有效地块并开始建造。"/>
+	<entry name="ConstructInfantryBuildingDescription" value="建造单位生产类建筑以巩固你的军事力量。点击“<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>营房”，然后<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>选择一个有效地块并开始建造。建造需要若干<string name='Attributes/TurnsIcon'/>回合。"/>
 	<entry name="Cover" value="掩体"/>
 	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>森林、<icon height='20' texture='Icons/Features/Ruins'/><nbsp/>废墟、<icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>前哨站以及<icon height='20' texture='Icons/Features/City'/><nbsp/>城市都能够为非大型单位提供远程伤害减免。在面对使用远程武器的敌人时，务必记得灵活利用掩体。"/>
 	<entry name="DamageCap" value="伤害上限"/>
@@ -37,6 +39,8 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="DebuffDescription" value="单位正在遭受%1%负面效果。考虑您的选项。"/>
 	<entry name="EnemyInCity" value="城市中的敌人"/>
 	<entry name="EnemyInCityDescription" value="敌方单位会禁用所在地块的所有建筑与前哨站，并使你无法在地块上修建新建筑。"/>
+	<entry name="Engineers" value="工程师"/>
+	<entry name="EngineersDescription" value="如果要建立更多城市，你需要研究并生产<icon height='20' texture='Icons/Units/Engineer'/><nbsp/>工程师。"/>
 	<entry name="EnterCity" value="进入城市"/>
 	<entry name="EnterCityDescription" value="通过再次<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>点击城市<icon height='20' texture='Icons/Units/Headquarters'/><nbsp/>总部格子进入城市。"/>
 <entry name="EquipItem" value="装备物品"/>
@@ -65,6 +69,10 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="NPCsDescription" value="三名非玩家领袖也将参与这场关于地球命运的战争：<icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>隐者、<icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>女族长以及<icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>泽芬。与这些NPC领袖缔结和平之后，你将能够向他们寻求支援。除此以外，良好的外交关系将在特定任务中解锁额外的选项。"/>
 	<entry name="NextTask" value="下一个任务"/>
 	<entry name="NextTaskDescription" value="花时间探索界面，每个元素都有包含额外信息的提示。如果您不确定接下来要做什么，请检查屏幕右下侧的大红色任务按钮。它将帮助您在结束回合之前专注于下一个任务。"/>
+	<entry name="Operations" value="行动"/>
+	<entry name="OperationsDescription" value="行动显示在屏幕左上角，是可在<icon height='20' texture='Icons/Attributes/Range'/><nbsp/>全地图范围内使用的能力，<icon height='20' texture='Icons/Attributes/Charges'/><nbsp/>次数有限，可作为奖励获得，也可在你的城市中生产。由于行动需要维护费用，如果你不打算使用它们，可以<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>点击将其拆除。"/>
+	<entry name="Outposts" value="前哨站"/>
+	<entry name="OutpostsDescription" value="占领<icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>前哨站以增加你的资源收益。位于城市内的前哨站还会为整座城市提供%加成。部分前哨站还会为驻扎在其中的单位提供加成，或定期给予奖励。"/>
 	<entry name="Overwatch" value="警戒"/>
 	<entry name="OverwatchDescription" value="有剩余行动的单位会向进入其<style color='GUI/Red'/>红色攻击区域<style color='Default'/>的敌人发射警戒射击。如果您不想释放中立单位，请考虑禁用<icon height='20' texture='Icons/Actions/Overwatch'/><nbsp/>警戒。"/>
 	<entry name="LeaderAbilities" value="领袖能力"/>

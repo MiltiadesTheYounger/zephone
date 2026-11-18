@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="Acquérir une case"/>
-	<entry name="AcquireTileDescription" value="Avant de construire d'autres bâtiments, vous devez réclamer de nouvelles cases. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Acquérir une case<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case avec 1 ou plusieurs <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>emplacements de bâtiment."/>
+	<entry name="AcquireTileDescription" value="Avant de construire d'autres bâtiments, vous devez réclamer de nouvelles cases. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Acquérir une case<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case avec 1 ou plusieurs <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>emplacements de bâtiment. Ce processus prendra quelques <string name='Attributes/TurnsIcon'/> tours."/>
 	<entry name="Affinities" value="Affinités"/>
 	<entry name="AffinitiesDescription" value="Grâce à votre affinité %1%, vous avez un accès anticipé et moins coûteux aux technologies %1%, y compris un accès exclusif au plus haut niveau de recherche %1%. Cependant, vous pouvez découvrir des synergies uniques en effectuant des recherches en dehors de votre affinité. Basculez entre les branches pour voir leurs technologies."/>
 	<entry name="AllianceVictory" value="Victoire d'alliance"/>
@@ -28,7 +28,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Communications" value="Communications"/>
 	<entry name="CommunicationsDescription" value="L'écran <icon height='20' texture='Icons/Communications'/><nbsp/>Communications vous permet de gérer la diplomatie avec les autres joueurs : appeler ou bloquer, déclarer la guerre, forger ou rompre des pactes, influencer les relations par des cadeaux, éloges ou dénonciations, et même influencer leurs liens avec d'autres factions."/>
 	<entry name="ConstructInfantryBuilding" value="Construire des casernes"/>
-	<entry name="ConstructInfantryBuildingDescription" value="Construisez des bâtiments de production d'unités pour renforcer votre présence balbutiante. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Caserne<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case valide pour y commencer la construction."/>
+	<entry name="ConstructInfantryBuildingDescription" value="Construisez des bâtiments de production d'unités pour renforcer votre présence balbutiante. Cliquez sur «<nbsp/><icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Caserne<nbsp/>» et <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>sélectionnez une case valide pour y commencer la construction. Cela prendra plusieurs <string name='Attributes/TurnsIcon'/> tours."/>
 	<entry name="Cover" value="Couverture"/>
 	<entry name="CoverDescription" value="Les <icon height='20' texture='Icons/Features/Forest'/><nbsp/>forêts, les <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruines, les <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>avant-postes et les <icon height='20' texture='Icons/Features/City'/><nbsp/>villes accordent une réduction des dégâts à distance aux unités de taille normale. Mettez-vous à l'abri quand vous le pouvez."/>
 	<entry name="DamageCap" value="Plafond de dégâts"/>
@@ -169,6 +169,6 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Loading/65" value="<string name='Tips/DamageCapDescription'/>"/>
 	<entry name="Loading/66" value="Le Bleed, les forêts, les ruines, les volcans et les bâtiments urbains gênent la vision des unités."/>
 	<entry name="Loading/67" value="<string name='Tips/EnemyInCityDescription'/>"/>
-	<entry name="Loading/68" value="En situation de combat, les alliés IA enverront leurs unités pour soutenir vos attaques."/>
+	<entry name="Loading/68" value="<string name='GUI/DuplicateItemHint'/>"/>
 	<entry name="Loading/Count" value="69"/>
 </language>

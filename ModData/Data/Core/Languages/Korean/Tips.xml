@@ -10,7 +10,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 -->
 <language>
 	<entry name="AcquireTile" value="타일 획득"/>
-	<entry name="AcquireTileDescription" value="건물을 더 건설하려면 새 타일을 획득해야 합니다. '<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>타일 획득'을 클릭하고 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>건물 슬롯이 1개 이상 있는 타일을 <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>선택하세요."/>
+	<entry name="AcquireTileDescription" value="건물을 더 건설하려면 새 타일을 획득해야 합니다. '<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>타일 획득'을 클릭하고 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>건물 슬롯이 1개 이상 있는 타일을 <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>선택하세요. 이 과정은 몇 <string name='Attributes/TurnsIcon'/> 턴이 걸립니다."/>
 	<entry name="Affinities" value="친화력"/>
 	<entry name="AffinitiesDescription" value="%1% 친화력 덕분에 %1% 기술에 더 빨리 그리고 더 저렴하게 접근할 수 있으며, 최고 등급의 %1% 연구에 독점적으로 접근할 수 있습니다. 그러나 친화력 외부를 연구하여 독특한 시너지를 발견할 수 있습니다. 분야를 전환하여 기술을 확인하십시오."/>
 	<entry name="AllianceVictory" value="동맹 승리"/>
@@ -28,7 +28,7 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Communications" value="통신"/>
 	<entry name="CommunicationsDescription" value="<icon height='20' texture='Icons/Communications'/><nbsp/>통신 화면에서 다른 플레이어와의 외교를 관리할 수 있습니다. 전화를 걸거나 차단하고, 전쟁을 선포하고, 조약을 체결하거나 종료하고, 선물, 칭찬 또는 비난을 통해 관계를 변화시키고, 심지어 다른 파벌과의 관계에도 영향을 미칠 수 있습니다."/>
 	<entry name="ConstructInfantryBuilding" value="병영 건설"/>
-	<entry name="ConstructInfantryBuildingDescription" value="유닛 생산 건물을 건설하여 힘겹게 싸우는 아군 병력을 증원하세요. '<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>병영'을 클릭하고 유효한 타일을 <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>선택하여 건설을 시작하세요."/>
+	<entry name="ConstructInfantryBuildingDescription" value="유닛 생산 건물을 건설하여 힘겹게 싸우는 아군 병력을 증원하세요. '<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>병영'을 클릭하고 유효한 타일을 <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>선택하여 건설을 시작하세요. 건설에는 여러 <string name='Attributes/TurnsIcon'/> 턴이 걸립니다."/>
 	<entry name="Cover" value="엄폐"/>
 	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>숲, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>폐허, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>전초기지 및 <icon height='20' texture='Icons/Features/City'/><nbsp/>도시에서는 대형이 아닌 유닛이 받는 원거리 피해가 감소합니다. 가능하면 엄폐하세요."/>
 	<entry name="DamageCap" value="피해 한도"/>
